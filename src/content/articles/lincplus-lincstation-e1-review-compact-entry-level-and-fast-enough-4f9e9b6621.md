@@ -2,7 +2,7 @@
 title: "LincPlus LincStation E1 Targets Mac Users Who Don't Need Synology Power"
 description: "The LincStation E1 is a compact NAS aimed squarely at casual users in Apple's ecosystem, offering just enough performance without enterprise complexity."
 pubDate: 2026-04-24T07:19:30.660Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - nas
