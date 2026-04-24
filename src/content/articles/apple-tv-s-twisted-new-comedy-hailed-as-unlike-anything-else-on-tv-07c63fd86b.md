@@ -2,7 +2,7 @@
 title: "Apple TV+ Bets on Katie Dippold's Widow's Bay to Fill Its Comedy Gap"
 description: "The Parks and Rec writer's new series arrives as Apple struggles to build a comedy slate that matches its prestige drama success."
 pubDate: 2026-04-24T14:46:19.282Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - apple-tv-plus
