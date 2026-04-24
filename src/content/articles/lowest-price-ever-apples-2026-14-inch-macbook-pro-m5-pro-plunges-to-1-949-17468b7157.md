@@ -2,7 +2,7 @@
 title: "B&H's $1,949 M5 Pro MacBook Pro Deal Reflects Apple's Inventory Push"
 description: "An authorized reseller discount on the 14-inch M5 Pro MacBook Pro suggests Apple is moving aggressively to clear early 2026 inventory ahead of potential product updates."
 pubDate: 2026-04-24T07:19:12.091Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - macbook-pro
