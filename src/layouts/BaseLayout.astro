@@ -1,0 +1,109 @@
+---
+import '../styles/global.css';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+
+const {
+  title,
+  description = 'Independent editorial coverage of Apple and the broader ecosystem.',
+  current,
+  ogImage,
+  canonical,
+} = Astro.props as {
+  title: string;
+  description?: string;
+  current?: 'news' | 'guides' | 'gear' | 'reviews';
+  ogImage?: string;
+  canonical?: string;
+};
+
+const fullTitle = title === 'Inside Cupertino' ? title : `${title} — Inside Cupertino`;
+const canonicalUrl = canonical ?? new URL(Astro.url.pathname, Astro.site).toString();
+const adsenseClient = import.meta.env.PUBLIC_ADSENSE_CLIENT_ID; // e.g. ca-pub-XXXXXXXXXXXXXXXX
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="generator" content={Astro.generator} />
+
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonicalUrl} />
+
+    <!-- Open Graph -->
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={canonicalUrl} />
+    {ogImage && <meta property="og:image" content={ogImage} />}
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <!-- Fonts. The two font families are central to the design system; bring them in once, here. -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,300..800;1,6..72,300..800&family=Manrope:wght@300..800&display=swap"
+    />
+
+    <link rel="alternate" type="application/rss+xml" title="Inside Cupertino" href="/rss.xml" />
+
+    {/*
+      Theme-toggle bootstrap script. Inlined and run before paint
+      to avoid a flash. Reads from localStorage; falls back to dark.
+    */}
+    <script is:inline>
+      (function () {
+        try {
+          const stored = localStorage.getItem('ic-theme');
+          const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+          const theme = stored || (prefersDark ? 'dark' : 'dark'); // default dark per design
+          document.documentElement.classList.toggle('dark', theme === 'dark');
+        } catch (e) {
+          document.documentElement.classList.add('dark');
+        }
+      })();
+    </script>
+
+    {adsenseClient && (
+      <script
+        async
+        src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${adsenseClient}`}
+        crossorigin="anonymous"
+      ></script>
+    )}
+  </head>
+
+  <body class="bg-background text-on-background min-h-screen selection:bg-primary selection:text-on-primary">
+    <Header current={current} />
+    <main class="pt-20">
+      <slot />
+    </main>
+    <Footer />
+
+    {/* Theme toggle handler — wired after hydration. */}
+    <script is:inline>
+      (function () {
+        const btn = document.getElementById('theme-toggle');
+        const sun = document.getElementById('theme-icon-sun');
+        const moon = document.getElementById('theme-icon-moon');
+        function syncIcons() {
+          const isDark = document.documentElement.classList.contains('dark');
+          if (sun)  sun.classList.toggle('hidden', isDark);
+          if (moon) moon.classList.toggle('hidden', !isDark);
+        }
+        syncIcons();
+        if (btn) {
+          btn.addEventListener('click', () => {
+            const isDark = document.documentElement.classList.toggle('dark');
+            try { localStorage.setItem('ic-theme', isDark ? 'dark' : 'light'); } catch (e) {}
+            syncIcons();
+          });
+        }
+      })();
+    </script>
+  </body>
+</html>

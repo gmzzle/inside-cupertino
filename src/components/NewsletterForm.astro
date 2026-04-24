@@ -1,0 +1,45 @@
+---
+// Reads PUBLIC_NEWSLETTER_PROVIDER and PUBLIC_NEWSLETTER_ACTION_URL at build time.
+// Defaults route the form to /api/subscribe (which is a no-op stub) so the form is never broken.
+const provider = import.meta.env.PUBLIC_NEWSLETTER_PROVIDER ?? 'stub';
+const action   = import.meta.env.PUBLIC_NEWSLETTER_ACTION_URL ?? '/api/subscribe';
+
+const { variant = 'card' } = Astro.props as { variant?: 'card' | 'inline' };
+---
+
+<section
+  id="newsletter"
+  class:list={[
+    variant === 'card'
+      ? 'bg-surface-container-high p-8 rounded'
+      : 'p-12 bg-surface-container-low border-l-2 border-secondary'
+  ]}
+>
+  <h3 class="font-serif text-2xl mb-3 text-on-surface">The Cupertino Brief</h3>
+  <p class="text-on-surface-variant text-sm mb-6 leading-relaxed">
+    A weekly read on what shipped, what slipped, and what it means. No tracking pixels, no clickbait.
+  </p>
+
+  <form
+    action={action}
+    method="POST"
+    target={provider === 'stub' ? '_self' : '_blank'}
+    class="space-y-3"
+    data-newsletter
+  >
+    <label class="sr-only" for="nl-email">Email address</label>
+    <input
+      id="nl-email"
+      type="email"
+      name="email"
+      required
+      placeholder="you@somewhere.com"
+      class="w-full bg-surface-container-lowest ghost-border rounded px-4 py-3 focus:outline-none focus:border-primary text-sm text-on-surface placeholder:text-outline"
+    />
+    <button
+      type="submit"
+      class="w-full gold-gradient text-on-primary font-bold py-3 uppercase text-xs tracking-widest"
+    >Join the list</button>
+    <p class="text-[10px] text-outline text-center italic">No noise. Only signal.</p>
+  </form>
+</section>

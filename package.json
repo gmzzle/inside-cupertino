@@ -1,0 +1,25 @@
+{
+  "name": "inside-cupertino",
+  "type": "module",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Inside Cupertino — an editorial site covering the Apple ecosystem.",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro",
+    "draft": "node scripts/draft-from-feeds.mjs",
+    "draft:dry": "node scripts/draft-from-feeds.mjs --dry-run",
+    "aggregate": "node scripts/aggregate-feeds.mjs"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.30.1",
+    "@astrojs/rss": "^4.0.7",
+    "@astrojs/tailwind": "^5.1.2",
+    "astro": "^5.0.0",
+    "rss-parser": "^3.13.0",
+    "tailwindcss": "^3.4.13"
+  }
+}

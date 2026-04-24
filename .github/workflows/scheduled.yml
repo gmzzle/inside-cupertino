@@ -1,0 +1,78 @@
+name: Scheduled feeds
+
+# Runs the aggregator hourly and the draft generator daily.
+# Both commit their output back to the repo on `main`, which triggers
+# Cloudflare Pages to rebuild and deploy automatically.
+#
+# Required setup:
+#   Settings → Secrets and variables → Actions:
+#     - ANTHROPIC_API_KEY  (used by the daily draft job only)
+#   Settings → Actions → General → Workflow permissions:
+#     - "Read and write permissions"  (so the workflow can commit)
+
+on:
+  schedule:
+    - cron: '15 * * * *'   # hourly at :15 — aggregator
+    - cron: '0 13 * * *'   # daily at 13:00 UTC — draft generator
+  workflow_dispatch:
+    inputs:
+      job:
+        description: 'Which job to run'
+        required: true
+        default: 'aggregate'
+        type: choice
+        options: [aggregate, draft]
+
+jobs:
+  aggregate:
+    if: github.event.schedule == '15 * * * *' || github.event.inputs.job == 'aggregate'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+      - run: npm ci
+      - run: npm run aggregate
+      - name: Commit if changed
+        run: |
+          if [[ -n "$(git status --porcelain src/data/aggregator.json)" ]]; then
+            git config user.name  "inside-cupertino-bot"
+            git config user.email "bot@insidecupertino.com"
+            git add src/data/aggregator.json
+            git commit -m "chore(aggregator): refresh feed [skip ci]"
+            git push
+          else
+            echo "No aggregator changes."
+          fi
+
+  draft:
+    if: github.event.schedule == '0 13 * * *' || github.event.inputs.job == 'draft'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    env:
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      MAX_PER_RUN: '2'
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+      - run: npm ci
+      - run: npm run draft
+      - name: Commit if changed
+        run: |
+          if [[ -n "$(git status --porcelain src/content/articles scripts/.drafted-urls.json)" ]]; then
+            git config user.name  "inside-cupertino-bot"
+            git config user.email "bot@insidecupertino.com"
+            git add src/content/articles scripts/.drafted-urls.json
+            git commit -m "chore(drafts): new draft articles for review [skip ci]"
+            git push
+          else
+            echo "No new drafts."
+          fi

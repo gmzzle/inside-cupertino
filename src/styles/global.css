@@ -1,0 +1,116 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+ * Palette CSS variables.
+ * Values are taken verbatim from the two DESIGN.md files
+ * ("morning_mist" = light, "midnight_forest" = dark).
+ * They are written as space-separated RGB triplets so Tailwind's
+ * `<alpha-value>` substitution works (e.g. text-primary/40).
+ */
+
+/* Light theme — "Morning Gallery" */
+:root {
+  --c-background:                 247 250 248;   /* #f7faf8 */
+  --c-on-background:              24 28 27;      /* #181c1b */
+  --c-surface:                    247 250 248;
+  --c-on-surface:                 24 28 27;
+  --c-surface-bright:             247 250 248;
+  --c-surface-dim:                215 219 217;   /* #d7dbd9 */
+  --c-surface-container-lowest:   255 255 255;
+  --c-surface-container-low:      241 244 242;   /* #f1f4f2 */
+  --c-surface-container:          235 239 237;   /* #ebefed */
+  --c-surface-container-high:     230 233 231;   /* #e6e9e7 */
+  --c-surface-container-highest:  224 227 225;   /* #e0e3e1 */
+  --c-surface-variant:            224 227 225;
+  --c-on-surface-variant:         77 70 53;      /* #4d4635 */
+  --c-primary:                    115 92 0;      /* #735c00 */
+  --c-on-primary:                 255 255 255;
+  --c-primary-container:          212 175 55;    /* #d4af37 */
+  --c-on-primary-container:       85 67 0;       /* #554300 */
+  --c-secondary:                  77 100 83;     /* #4d6453 */
+  --c-on-secondary:               255 255 255;
+  --c-secondary-container:        205 230 209;   /* #cde6d1 */
+  --c-on-secondary-container:     81 104 87;     /* #516857 */
+  --c-outline:                    127 118 99;    /* #7f7663 */
+  --c-outline-variant:            208 197 175;   /* #d0c5af */
+}
+
+/* Dark theme — "Nocturnal Intellectual" */
+.dark {
+  --c-background:                 18 20 20;      /* #121414 */
+  --c-on-background:              226 226 226;   /* #e2e2e2 */
+  --c-surface:                    18 20 20;
+  --c-on-surface:                 226 226 226;
+  --c-surface-bright:             56 57 57;      /* #383939 */
+  --c-surface-dim:                18 20 20;
+  --c-surface-container-lowest:   13 15 15;      /* #0d0f0f */
+  --c-surface-container-low:      26 28 28;      /* #1a1c1c */
+  --c-surface-container:          30 32 32;      /* #1e2020 */
+  --c-surface-container-high:     40 42 42;      /* #282a2a */
+  --c-surface-container-highest:  51 53 53;      /* #333535 */
+  --c-surface-variant:            51 53 53;
+  --c-on-surface-variant:         195 200 193;   /* #c3c8c1 */
+  --c-primary:                    233 193 118;   /* #e9c176 */
+  --c-on-primary:                 65 45 0;       /* #412d00 */
+  --c-primary-container:          59 40 0;       /* #3b2800 */
+  --c-on-primary-container:       177 142 73;    /* #b18e49 */
+  --c-secondary:                  169 208 178;   /* #a9d0b2 */
+  --c-on-secondary:               21 55 34;      /* #153722 */
+  --c-secondary-container:        44 78 55;      /* #2c4e37 */
+  --c-on-secondary-container:     152 190 161;   /* #98bea1 */
+  --c-outline:                    141 146 140;   /* #8d928c */
+  --c-outline-variant:            67 72 67;      /* #434843 */
+}
+
+/* Base type */
+html { -webkit-text-size-adjust: 100%; }
+body {
+  font-family: 'Manrope', sans-serif;
+  background-color: rgb(var(--c-background));
+  color: rgb(var(--c-on-background));
+  font-feature-settings: 'ss01', 'cv11';
+}
+
+/* Per DESIGN.md "no-line rule": the only globally-allowed border is the ghost border. */
+.ghost-border { border: 1px solid rgb(var(--c-outline-variant) / 0.15); }
+
+/* Glassmorphic header per design system */
+.glass-header {
+  background: rgb(var(--c-surface-container-high) / 0.6);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+}
+
+/* Gold gradient — direction differs by theme per DESIGN.md (45deg dark, 135deg light) */
+.gold-gradient { background: linear-gradient(135deg, rgb(var(--c-primary)) 0%, rgb(var(--c-primary-container)) 100%); }
+.dark .gold-gradient { background: linear-gradient(45deg, rgb(var(--c-primary)) 0%, rgb(var(--c-on-primary-container)) 100%); }
+
+/* Drop cap for article body */
+.drop-cap::first-letter {
+  float: left;
+  font-family: 'Newsreader', serif;
+  font-size: 5rem;
+  line-height: 0.9;
+  padding: 0.4rem 0.75rem 0 0;
+  color: rgb(var(--c-primary));
+  font-weight: 700;
+}
+
+/* Prose — minimal, opinionated. Uses no horizontal rules per design system. */
+.prose-editorial { color: rgb(var(--c-on-surface-variant)); font-size: 1.125rem; line-height: 1.75; font-weight: 300; }
+.prose-editorial p { margin: 0 0 1.75rem 0; }
+.prose-editorial p + p { margin-top: 0; }
+.prose-editorial h2 { font-family: 'Newsreader', serif; color: rgb(var(--c-on-surface)); font-size: 2rem; line-height: 1.15; margin: 3rem 0 1.25rem; font-weight: 600; letter-spacing: -0.01em; }
+.prose-editorial h3 { font-family: 'Newsreader', serif; color: rgb(var(--c-on-surface)); font-size: 1.5rem; line-height: 1.2; margin: 2.5rem 0 1rem; font-weight: 600; }
+.prose-editorial a { color: rgb(var(--c-primary)); text-decoration: underline; text-decoration-color: rgb(var(--c-primary) / 0.4); text-underline-offset: 4px; }
+.prose-editorial a:hover { text-decoration-color: rgb(var(--c-primary)); }
+.prose-editorial blockquote { border-left: 2px solid rgb(var(--c-primary) / 0.4); padding: 0 0 0 2rem; margin: 2rem 0; font-family: 'Newsreader', serif; font-style: italic; font-size: 1.5rem; color: rgb(var(--c-primary)); line-height: 1.35; }
+.prose-editorial strong { color: rgb(var(--c-on-surface)); font-weight: 600; }
+.prose-editorial code { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 0.95em; background: rgb(var(--c-surface-container-low)); padding: 0.1em 0.35em; border-radius: 2px; }
+.prose-editorial ul, .prose-editorial ol { margin: 0 0 1.75rem 0; padding-left: 1.5rem; }
+.prose-editorial li { margin-bottom: 0.5rem; }
+
+/* Material Symbols sizing — opt-in only where icon font is loaded. */
+.material-symbols-outlined { font-variation-settings: 'FILL' 0, 'wght' 300, 'GRAD' 0, 'opsz' 24; }

@@ -1,0 +1,126 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import data from '../data/aggregator.json';
+
+const { generatedAt, sources, items } = data as {
+  generatedAt: string;
+  sources: { name: string; homepage: string }[];
+  items: { source: string; sourceHomepage: string; title: string; url: string; pubDate: string }[];
+};
+
+// Group by day for editorial scannability
+const byDay: Record<string, typeof items> = {};
+for (const it of items) {
+  const day = new Intl.DateTimeFormat('en', {
+    weekday: 'long', month: 'long', day: 'numeric',
+  }).format(new Date(it.pubDate));
+  (byDay[day] ||= []).push(it);
+}
+const days = Object.keys(byDay);
+
+const generatedLabel = new Date(generatedAt).getTime() === 0
+  ? null
+  : new Intl.DateTimeFormat('en', { dateStyle: 'medium', timeStyle: 'short' }).format(new Date(generatedAt));
+
+function relativeTime(iso: string) {
+  const diffMin = Math.round((Date.now() - new Date(iso).getTime()) / 60000);
+  if (diffMin < 1)   return 'just now';
+  if (diffMin < 60)  return `${diffMin}m ago`;
+  const diffHr = Math.round(diffMin / 60);
+  if (diffHr  < 24)  return `${diffHr}h ago`;
+  const diffDay = Math.round(diffHr / 24);
+  return `${diffDay}d ago`;
+}
+---
+
+<BaseLayout
+  title="Live Wire"
+  description="Real-time aggregator of Apple coverage from 9to5Mac, MacRumors, The Verge, AppleInsider, and Six Colors."
+>
+  <section class="max-w-7xl mx-auto px-6 md:px-8 pt-16 pb-12">
+    <div class="flex items-center gap-3 mb-6">
+      <span class="w-2 h-2 rounded-full bg-primary animate-pulse"></span>
+      <span class="font-label text-xs uppercase tracking-[0.2em] text-primary">Live Wire</span>
+    </div>
+    <h1 class="font-serif text-5xl md:text-7xl leading-[0.95] tracking-tight text-on-background mb-8 max-w-3xl">
+      What the <span class="italic text-primary">Apple beat</span> is reporting now.
+    </h1>
+    <p class="text-lg text-on-surface-variant max-w-2xl leading-relaxed">
+      Headlines and outbound links — no body scraping, no rewriting, no opinions on this page. For analysis, see <a href="/" class="text-primary underline decoration-primary/40 underline-offset-4 hover:decoration-primary">our News section</a>.
+    </p>
+    {generatedLabel && (
+      <p class="mt-6 text-xs text-outline uppercase tracking-widest">Last refreshed {generatedLabel}</p>
+    )}
+  </section>
+
+  <section class="max-w-7xl mx-auto px-6 md:px-8 grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-16">
+    <div class="lg:col-span-8 space-y-16">
+      {items.length === 0 ? (
+        <div class="p-12 bg-surface-container-low rounded">
+          <h2 class="font-serif text-2xl text-on-surface mb-3">No items yet.</h2>
+          <p class="text-on-surface-variant text-sm leading-relaxed">
+            Run <code class="font-mono text-xs bg-surface-container px-1.5 py-0.5 rounded">npm run aggregate</code> to populate the wire from the configured RSS feeds, then rebuild.
+          </p>
+        </div>
+      ) : (
+        days.map(day => (
+          <div>
+            <div class="flex items-center gap-4 mb-8">
+              <h2 class="font-serif text-2xl text-on-surface">{day}</h2>
+              <div class="h-px flex-grow bg-outline-variant/20"></div>
+              <span class="font-label text-[10px] uppercase tracking-widest text-outline">{byDay[day].length} item{byDay[day].length === 1 ? '' : 's'}</span>
+            </div>
+
+            <ol class="space-y-6">
+              {byDay[day].map(it => (
+                <li class="group">
+                  <a
+                    href={it.url}
+                    target="_blank"
+                    rel="noopener noreferrer external"
+                    class="flex flex-col md:flex-row md:items-baseline gap-2 md:gap-6 py-4 px-2 -mx-2 hover:bg-surface-container-low transition-colors rounded"
+                  >
+                    <div class="md:w-32 flex-shrink-0 flex md:block items-center gap-3">
+                      <span class="font-label text-[10px] uppercase tracking-widest text-primary">{it.source}</span>
+                      <span class="md:block text-[10px] text-outline">{relativeTime(it.pubDate)}</span>
+                    </div>
+                    <h3 class="flex-1 font-serif text-lg md:text-xl text-on-surface group-hover:text-primary transition-colors leading-snug">
+                      {it.title}
+                      <span class="inline-block ml-2 text-outline group-hover:text-primary text-sm" aria-hidden="true">↗</span>
+                    </h3>
+                  </a>
+                </li>
+              ))}
+            </ol>
+          </div>
+        ))
+      )}
+    </div>
+
+    <aside class="lg:col-span-4 space-y-12">
+      <div>
+        <h4 class="font-label text-xs uppercase tracking-widest text-secondary mb-6">Sources</h4>
+        <ul class="space-y-3">
+          {sources.map(s => (
+            <li>
+              <a href={s.homepage} target="_blank" rel="noopener noreferrer" class="text-sm text-on-surface hover:text-primary transition-colors flex items-center gap-2">
+                <span class="w-1 h-1 rounded-full bg-outline group-hover:bg-primary"></span>
+                {s.name}
+              </a>
+            </li>
+          ))}
+        </ul>
+        <p class="mt-8 text-xs text-outline leading-relaxed">
+          Inside Cupertino is not affiliated with these publications. All headlines and clicks resolve to the original source.
+        </p>
+      </div>
+
+      <div class="p-6 bg-surface-container-low rounded">
+        <h4 class="font-label text-xs uppercase tracking-widest text-primary mb-4">Why this exists</h4>
+        <p class="text-sm text-on-surface-variant leading-relaxed">
+          The Apple beat moves fast. The wire is the closest thing to a single dashboard for it — fetched on a schedule, with attribution and outbound links by design.
+        </p>
+      </div>
+    </aside>
+  </section>
+</BaseLayout>

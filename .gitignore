@@ -1,0 +1,22 @@
+node_modules
+dist
+.astro
+.cache
+
+# Local env
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# OS / editor
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.log
+npm-debug.log*
+
+# Note: scripts/.drafted-urls.json IS committed.
+# It's the dedupe state for the draft generator and must persist
+# across CI runs so the same story isn't drafted twice.

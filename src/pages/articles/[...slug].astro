@@ -1,0 +1,137 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import NewsletterForm from '../../components/NewsletterForm.astro';
+import { getCollection, type CollectionEntry } from 'astro:content';
+
+export async function getStaticPaths() {
+  const isProd = import.meta.env.PROD;
+  const all = await getCollection('articles', ({ data }) => isProd ? !data.draft : true);
+  return all.map(article => ({
+    params: { slug: article.slug },
+    props: { article },
+  }));
+}
+
+interface Props { article: CollectionEntry<'articles'>; }
+const { article } = Astro.props;
+const { Content } = await article.render();
+
+// Sidebar: most recent 3 other articles.
+const isProd = import.meta.env.PROD;
+const others = (await getCollection('articles', ({ data }) => isProd ? !data.draft : true))
+  .filter(a => a.slug !== article.slug)
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+  .slice(0, 3);
+
+const dateLabel = new Intl.DateTimeFormat('en', { dateStyle: 'long' }).format(article.data.pubDate);
+const primaryTag = article.data.tags[0] ?? 'Apple';
+const hasSource = article.data.source && article.data.source.name && article.data.source.url;
+---
+
+<BaseLayout
+  title={article.data.title}
+  description={article.data.description}
+  ogImage={article.data.heroImage}
+>
+  {article.data.draft && (
+    <div class="bg-primary text-on-primary text-center py-2 text-xs uppercase tracking-widest font-bold">
+      Draft preview — not published
+    </div>
+  )}
+
+  <header class="relative w-full overflow-hidden">
+    {article.data.heroImage ? (
+      <div class="relative h-[60vh] md:h-[75vh]">
+        <img
+          src={article.data.heroImage}
+          alt={article.data.heroAlt ?? ''}
+          class="w-full h-full object-cover"
+        />
+        <div class="absolute inset-0 bg-gradient-to-t from-background via-background/40 to-transparent"></div>
+        <div class="absolute bottom-0 left-0 w-full p-6 md:p-16 max-w-7xl">
+          <span class="font-label text-xs uppercase tracking-[0.2em] text-secondary mb-6 block">{primaryTag}</span>
+          <h1 class="font-serif text-4xl md:text-6xl lg:text-7xl font-bold tracking-tight text-on-background max-w-4xl leading-[1.05]">
+            {article.data.title}
+          </h1>
+        </div>
+      </div>
+    ) : (
+      <div class="max-w-4xl mx-auto px-6 md:px-8 pt-16 pb-8">
+        <span class="font-label text-xs uppercase tracking-[0.2em] text-secondary mb-6 block">{primaryTag}</span>
+        <h1 class="font-serif text-4xl md:text-6xl font-bold tracking-tight text-on-surface leading-[1.05]">
+          {article.data.title}
+        </h1>
+      </div>
+    )}
+  </header>
+
+  <div class="max-w-7xl mx-auto px-6 md:px-8 grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-16 mt-12 lg:mt-16">
+    <article class="lg:col-span-8">
+      <div class="flex items-center gap-6 mb-12 pb-8">
+        <div class="flex flex-col">
+          <span class="font-label text-[10px] uppercase tracking-widest text-outline">By</span>
+          <span class="text-primary font-medium">{article.data.author}</span>
+        </div>
+        <div class="h-8 w-px bg-outline-variant/30"></div>
+        <div class="flex flex-col">
+          <span class="font-label text-[10px] uppercase tracking-widest text-outline">Published</span>
+          <span class="text-on-surface">{dateLabel}</span>
+        </div>
+      </div>
+
+      <div class="prose-editorial drop-cap">
+        <Content />
+      </div>
+
+      {hasSource && (
+        <p class="mt-12 pt-6 text-xs uppercase tracking-widest text-outline">
+          Reporting reference:
+          <a class="text-primary ml-2" href={article.data.source.url} target="_blank" rel="noopener noreferrer">
+            {article.data.source.name} ↗
+          </a>
+        </p>
+      )}
+
+      {article.data.tags.length > 0 && (
+        <div class="mt-12 flex flex-wrap gap-2">
+          {article.data.tags.map(t => (
+            <span class="px-3 py-1 rounded-full bg-surface-container-high text-on-secondary-container text-xs uppercase tracking-wider">
+              {t}
+            </span>
+          ))}
+        </div>
+      )}
+
+      <div class="mt-16">
+        <NewsletterForm variant="inline" />
+      </div>
+    </article>
+
+    <aside class="lg:col-span-4 space-y-16 lg:pt-0">
+      <div>
+        <h4 class="font-label text-[10px] uppercase tracking-[0.2em] text-primary mb-8 pb-4">Related</h4>
+        <div class="space-y-10">
+          {others.map(o => (
+            <a href={`/articles/${o.slug}/`} class="group block">
+              {o.data.heroImage && (
+                <div class="aspect-video mb-4 overflow-hidden">
+                  <img
+                    src={o.data.heroImage}
+                    alt={o.data.heroAlt ?? ''}
+                    class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+                  />
+                </div>
+              )}
+              <span class="font-label text-[9px] uppercase tracking-widest text-secondary mb-2 block">
+                {o.data.tags[0] ?? 'Apple'}
+              </span>
+              <h5 class="font-serif text-xl text-on-surface group-hover:text-primary transition-colors">
+                {o.data.title}
+              </h5>
+            </a>
+          ))}
+        </div>
+      </div>
+    </aside>
+  </div>
+</BaseLayout>

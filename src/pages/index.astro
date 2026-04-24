@@ -1,0 +1,110 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ArticleCard from '../components/ArticleCard.astro';
+import NewsletterForm from '../components/NewsletterForm.astro';
+import { getCollection } from 'astro:content';
+
+const isProd = import.meta.env.PROD;
+// Hide drafts in production; show everything in dev so editors can preview.
+const all = (await getCollection('articles', ({ data }) => isProd ? !data.draft : true))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+const [hero, ...rest] = all;
+const stream = rest.slice(0, 8);
+
+const trending = all.slice(0, 3);
+---
+
+<BaseLayout title="Inside Cupertino" current="news">
+  {hero && (
+    <section class="relative min-h-[85vh] flex items-center overflow-hidden">
+      <div class="absolute inset-0 z-0">
+        {hero.data.heroImage && (
+          <img
+            src={hero.data.heroImage}
+            alt={hero.data.heroAlt ?? ''}
+            class="w-full h-full object-cover opacity-40 mix-blend-luminosity"
+          />
+        )}
+        <div class="absolute inset-0 bg-gradient-to-r from-background via-background/80 to-transparent"></div>
+      </div>
+      <div class="relative z-10 max-w-7xl mx-auto px-6 md:px-8 w-full mt-32 md:mt-0">
+        <div class="max-w-3xl">
+          <div class="flex items-center gap-3 mb-6">
+            <span class="w-12 h-px bg-primary"></span>
+            <span class="font-label text-xs uppercase tracking-[0.2em] text-primary">
+              {hero.data.tags[0] ?? 'Featured'}
+            </span>
+          </div>
+          <h1 class="font-serif text-5xl md:text-7xl lg:text-8xl leading-[0.95] tracking-tight mb-8 text-on-background">
+            {hero.data.title}
+          </h1>
+          <p class="text-lg md:text-xl text-on-surface-variant max-w-xl leading-relaxed mb-10">
+            {hero.data.description}
+          </p>
+          <a
+            href={`/articles/${hero.slug}/`}
+            class="group inline-flex items-center gap-3 gold-gradient text-on-primary px-8 py-4 rounded font-bold uppercase text-sm tracking-wider"
+          >
+            Read the analysis
+            <span aria-hidden="true" class="group-hover:translate-x-1 transition-transform">→</span>
+          </a>
+        </div>
+      </div>
+    </section>
+  )}
+
+  <section class="max-w-7xl mx-auto px-6 md:px-8 py-20 grid grid-cols-1 lg:grid-cols-3 gap-16">
+    <div class="lg:col-span-2">
+      <div class="flex items-center gap-4 mb-12">
+        <h2 class="font-serif text-3xl text-on-surface">Continuous Stream</h2>
+        <div class="h-px flex-grow bg-outline-variant/20"></div>
+      </div>
+
+      {stream.length === 0 ? (
+        <p class="text-on-surface-variant">No published articles yet. Run <code>npm run draft</code> to generate drafts, then flip <code>draft: false</code> to publish.</p>
+      ) : (
+        <div class="space-y-16">
+          {stream.map(a => <ArticleCard article={a} />)}
+        </div>
+      )}
+
+      <a
+        href="/archive"
+        class="mt-16 w-full block text-center py-6 ghost-border font-label text-xs uppercase tracking-[0.3em] hover:bg-surface-container-low transition-colors"
+      >Load more intelligence</a>
+    </div>
+
+    <aside class="space-y-12">
+      <NewsletterForm variant="card" />
+
+      <div class="p-8 border-l border-outline-variant/10">
+        <h4 class="font-label text-xs uppercase tracking-widest text-secondary mb-6">Trending analysis</h4>
+        <ul class="space-y-8">
+          {trending.map((a, i) => (
+            <li>
+              <a href={`/articles/${a.slug}/`} class="group block">
+                <span class="text-primary font-serif italic text-lg mr-2 align-top">
+                  {String(i + 1).padStart(2, '0')}
+                </span>
+                <span class="text-on-surface text-sm group-hover:underline underline-offset-4 decoration-primary">
+                  {a.data.title}
+                </span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+
+      <a href="/aggregator" class="block p-6 bg-surface-container-low hover:bg-surface-container transition-colors rounded">
+        <div class="flex items-center gap-2 mb-2">
+          <span class="w-1.5 h-1.5 rounded-full bg-primary animate-pulse"></span>
+          <span class="font-label text-xs uppercase tracking-widest text-primary">Live Wire</span>
+        </div>
+        <p class="text-on-surface text-sm leading-relaxed">
+          The aggregator is updated hourly. See what 9to5Mac, MacRumors, AppleInsider, and Six Colors are reporting right now →
+        </p>
+      </a>
+    </aside>
+  </section>
+</BaseLayout>

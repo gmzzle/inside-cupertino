@@ -1,0 +1,40 @@
+---
+const year = new Date().getFullYear();
+---
+
+<footer class="w-full py-16 px-6 md:px-8 mt-24 bg-surface-container-lowest">
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-12 max-w-7xl mx-auto">
+    <div class="space-y-6">
+      <a href="/" class="text-lg font-serif italic text-on-surface block">INSIDE CUPERTINO</a>
+      <p class="text-outline text-sm max-w-xs leading-relaxed">
+        Independent editorial coverage of Apple and the broader ecosystem. Depth over speed.
+      </p>
+    </div>
+
+    <div class="grid grid-cols-2 gap-8">
+      <div class="space-y-4">
+        <h5 class="text-primary text-[10px] uppercase tracking-widest font-bold">Sections</h5>
+        <ul class="space-y-2">
+          <li><a href="/" class="text-outline hover:text-on-surface text-sm transition-colors block">News</a></li>
+          <li><a href="/guides" class="text-outline hover:text-on-surface text-sm transition-colors block">Guides</a></li>
+          <li><a href="/aggregator" class="text-outline hover:text-on-surface text-sm transition-colors block">Live Wire</a></li>
+          <li><a href="/rss.xml" class="text-outline hover:text-on-surface text-sm transition-colors block">RSS</a></li>
+        </ul>
+      </div>
+      <div class="space-y-4">
+        <h5 class="text-primary text-[10px] uppercase tracking-widest font-bold">Inside</h5>
+        <ul class="space-y-2">
+          <li><a href="/about" class="text-outline hover:text-on-surface text-sm transition-colors block">About</a></li>
+          <li><a href="/contact" class="text-outline hover:text-on-surface text-sm transition-colors block">Contact</a></li>
+          <li><a href="/privacy" class="text-outline hover:text-on-surface text-sm transition-colors block">Privacy</a></li>
+          <li><a href="/ethics" class="text-outline hover:text-on-surface text-sm transition-colors block">Editorial ethics</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="max-w-7xl mx-auto pt-12 mt-12 flex flex-col md:flex-row justify-between items-center gap-4">
+    <span class="text-outline text-[10px] uppercase tracking-widest">© {year} Inside Cupertino. Not affiliated with Apple Inc.</span>
+    <span class="text-outline text-[10px] uppercase tracking-widest">Built quietly.</span>
+  </div>
+</footer>
