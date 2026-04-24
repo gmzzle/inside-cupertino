@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-24T17:14:16.259Z",
+  "generatedAt": "2026-04-24T19:13:47.611Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,62 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Wallet’s new Digital ID feature just added more ways to use it",
+      "url": "https://9to5mac.com/2026/04/24/apple-wallets-new-digital-id-feature-just-added-more-ways-to-use-it/",
+      "pubDate": "2026-04-24T18:58:37.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Shares Behind-the-Scenes Look at MacBook Neo Intro Video",
+      "url": "https://www.macrumors.com/2026/04/24/behind-the-scenes-look-at-macbook-neo-intro-video/",
+      "pubDate": "2026-04-24T18:52:39.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "XChat, X’s standalone messaging app, now available for iPhone and iPad with these features",
+      "url": "https://9to5mac.com/2026/04/24/xchat-xs-standalone-messaging-app-launching-on-iphone-and-ipad-next-week/",
+      "pubDate": "2026-04-24T18:46:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "HomeKit Weekly: The Aqara G400 brings PoE and HomeKit Secure Video to your front door",
+      "url": "https://9to5mac.com/2026/04/24/aqara-doorbell-camera-g400/",
+      "pubDate": "2026-04-24T18:34:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Foldable 'iPhone Ultra' Could Be Missing These 5 Key Features Despite $2,000 Price Tag",
+      "url": "https://www.macrumors.com/2026/04/24/iphone-ultra-could-be-missing-5-features/",
+      "pubDate": "2026-04-24T17:41:52.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple to Launch 'MacBook Ultra' With These Six New Features",
+      "url": "https://www.macrumors.com/2026/04/24/macbook-ultra-up-to-six-new-features/",
+      "pubDate": "2026-04-24T17:32:18.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iPhone Fold or iPhone Ultra: What to expect from the folding iPhone",
+      "url": "https://appleinsider.com/articles/26/04/24/iphone-fold-or-iphone-ultra-what-to-expect-from-the-folding-iphone?utm_source=rss",
+      "pubDate": "2026-04-24T17:30:08.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Spotify isn’t the only service now integrated with Anthropic’s Claude",
+      "url": "https://9to5mac.com/2026/04/24/spotify-isnt-the-only-service-now-integrated-with-anthropics-claude/",
+      "pubDate": "2026-04-24T17:27:14.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -115,25 +171,11 @@
       "pubDate": "2026-04-24T14:19:40.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Leaker details next year’s ‘iPhone 20’ display features",
-      "url": "https://9to5mac.com/2026/04/24/leaker-details-next-years-iphone-20-display-features/",
-      "pubDate": "2026-04-24T14:02:58.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Chatbots take a back seat as new GPT-5.5 model focuses on getting work done",
       "url": "https://appleinsider.com/articles/26/04/24/chatbots-take-a-back-seat-as-new-gpt-55-model-focuses-on-getting-work-done?utm_source=rss",
       "pubDate": "2026-04-24T13:41:46.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Here’s the next Apple Watch face coming in watchOS 26.5",
-      "url": "https://9to5mac.com/2026/04/24/heres-the-next-apple-watch-face-coming-in-watchos-26-5/",
-      "pubDate": "2026-04-24T12:40:30.000Z"
     },
     {
       "source": "AppleInsider",
@@ -148,13 +190,6 @@
       "title": "OpenAI Debuts GPT-5.5 Claiming Agentic Coding and Research Gains",
       "url": "https://www.macrumors.com/2026/04/24/openai-gpt-5-5-research-gains/",
       "pubDate": "2026-04-24T12:32:38.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple TV 4K might break a record no one wants to see happen",
-      "url": "https://9to5mac.com/2026/04/24/apple-tv-4k-might-break-a-record-no-one-wants-to-see-happen/",
-      "pubDate": "2026-04-24T12:00:00.000Z"
     },
     {
       "source": "AppleInsider",
@@ -220,20 +255,6 @@
       "pubDate": "2026-04-23T23:14:44.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple TV scores two wins at the 2026 Peabody Awards",
-      "url": "https://9to5mac.com/2026/04/23/apple-tv-scores-two-wins-at-the-2026-peabody-awards/",
-      "pubDate": "2026-04-23T22:38:03.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Discover ending support for two Apple Pay features in June 2026",
-      "url": "https://appleinsider.com/articles/26/04/23/discover-ending-support-for-two-apple-pay-features-in-june-2026?utm_source=rss",
-      "pubDate": "2026-04-23T21:29:27.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Scoring the differences between ESPN and Apple Sports",
@@ -260,27 +281,6 @@
       "title": "A Full Apple Ecosystem Now Costs Less Than a MacBook Pro",
       "url": "https://www.macrumors.com/2026/04/23/apple-ecosystem-now-costs-less-than-macbook-pro/",
       "pubDate": "2026-04-23T17:00:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Lowers Savings Account Rate for Apple Card Users",
-      "url": "https://www.macrumors.com/2026/04/23/apple-lowers-savings-account-rate-apple-card/",
-      "pubDate": "2026-04-23T15:07:39.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Tim Cook Calls Apple Maps Launch His 'First Really Big Mistake' as CEO",
-      "url": "https://www.macrumors.com/2026/04/23/tim-cook-apple-maps-launch-his-really-big-mistake/",
-      "pubDate": "2026-04-23T12:29:46.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Latest iPhone 18 Pro Max Dummies Suggest Thicker Camera Plateau, More Protruding Lenses",
-      "url": "https://www.macrumors.com/2026/04/23/iphone-18-pro-max-dummies-thicker-camera-plateau/",
-      "pubDate": "2026-04-23T12:06:18.000Z"
     },
     {
       "source": "Six Colors",
