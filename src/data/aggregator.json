@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-24T14:09:09.057Z",
+  "generatedAt": "2026-04-24T15:40:00.060Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,41 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Deals: Most affordable new M5 Pro MacBook Pro $200 off, 1TB MacBook Air $150 off, Alpine and Trail Loops from $35, more",
+      "url": "https://9to5mac.com/2026/04/24/deals-m5-pro-macbook-pro-macbook-air-alpine-loop/",
+      "pubDate": "2026-04-24T15:30:46.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone 18 rumored to get at least one new Pro-tier upgrade",
+      "url": "https://9to5mac.com/2026/04/24/iphone-18-rumored-to-get-at-least-one-new-pro-tier-upgrade/",
+      "pubDate": "2026-04-24T15:22:20.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "What is Roblox? Everything you need to know",
+      "url": "https://appleinsider.com/articles/26/04/24/what-is-roblox---everything-you-need-to-know-about-the-latest-craze?utm_source=rss",
+      "pubDate": "2026-04-24T14:39:48.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple TV’s twisted new comedy hailed as ‘unlike anything else on TV’",
+      "url": "https://9to5mac.com/2026/04/24/apple-tvs-twisted-new-comedy-hailed-as-unlike-anything-else-on-tv/",
+      "pubDate": "2026-04-24T14:36:31.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Get the 2026 MacBook Pro for New Record Low $1,999 Price",
+      "url": "https://www.macrumors.com/2026/04/24/2026-macbook-pro-1999-price/",
+      "pubDate": "2026-04-24T14:19:40.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -199,20 +234,6 @@
       "pubDate": "2026-04-23T19:08:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple TV has two of its biggest hit shows returning this summer",
-      "url": "https://9to5mac.com/2026/04/23/apple-tv-two-of-its-biggest-hit-shows-returning-this-summer/",
-      "pubDate": "2026-04-23T19:03:18.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "OpenAI upgrades ChatGPT and Codex with GPT-5.5: ‘a new class of intelligence for real work’",
-      "url": "https://9to5mac.com/2026/04/23/openai-upgrades-chatgpt-and-codex-with-gpt-5-5-a-new-class-of-intelligence-for-real-work/",
-      "pubDate": "2026-04-23T18:20:47.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "New Apple Ad Sells the iPhone and Apple Watch Health Pairing",
@@ -220,25 +241,11 @@
       "pubDate": "2026-04-23T18:18:55.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "John Ternus is officially Apple’s next CEO, iPhone 18 colors, iOS 27 rumors",
-      "url": "https://9to5mac.com/2026/04/23/happy-hour-587/",
-      "pubDate": "2026-04-23T18:18:47.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "A Full Apple Ecosystem Now Costs Less Than a MacBook Pro",
       "url": "https://www.macrumors.com/2026/04/23/apple-ecosystem-now-costs-less-than-macbook-pro/",
       "pubDate": "2026-04-23T17:00:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple is reportedly working on six new product categories",
-      "url": "https://appleinsider.com/articles/26/04/23/apple-is-reportedly-working-on-six-new-product-categories?utm_source=rss",
-      "pubDate": "2026-04-23T16:50:09.000Z"
     },
     {
       "source": "MacRumors",
@@ -274,13 +281,6 @@
       "title": "Here's How the iPhone Ultra Compares to Other Apple Devices",
       "url": "https://www.macrumors.com/2026/04/23/iphone-ultra-dummy-apple-device-comparison/",
       "pubDate": "2026-04-23T10:41:55.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Base Mac Mini Sold Out From Apple Online Store",
-      "url": "https://www.macrumors.com/2026/04/22/base-mac-mini-sold-out-from-apple-online-store/",
-      "pubDate": "2026-04-22T21:59:44.000Z"
     },
     {
       "source": "Six Colors",
