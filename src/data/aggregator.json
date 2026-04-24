@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-24T15:40:00.060Z",
+  "generatedAt": "2026-04-24T17:14:16.259Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,62 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Hands-on: Kuxiu’s S4 MagSafe battery is slimmer and adds a real-time smart display",
+      "url": "https://9to5mac.com/2026/04/24/hands-on-kuxius-s4-magsafe-battery-is-slimmer-and-adds-a-real-time-smart-display/",
+      "pubDate": "2026-04-24T17:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Security Bite: This app tells you if your Mac’s webcam or mic was triggered while you were away",
+      "url": "https://9to5mac.com/2026/04/24/security-bite-this-app-tells-you-if-your-macs-webcam-or-mic-was-triggered-while-you-were-away/",
+      "pubDate": "2026-04-24T16:51:02.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Best Apple Deals of the Week: Low Prices on Apple Watch, MacBook Air, AirTag 1, and More",
+      "url": "https://www.macrumors.com/2026/04/24/best-apple-deals-of-the-week-4-24-26/",
+      "pubDate": "2026-04-24T16:49:58.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Watch Apple reveal how it made the delightful MacBook Neo intro video",
+      "url": "https://9to5mac.com/2026/04/24/apple-reveals-how-it-made-the-delightful-macbook-neo-introduction-video/",
+      "pubDate": "2026-04-24T16:30:34.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's entry-level iPhone 18 rumored to get 50% more RAM",
+      "url": "https://appleinsider.com/articles/26/04/24/apples-entry-level-iphone-18-rumored-to-get-50-more-ram?utm_source=rss",
+      "pubDate": "2026-04-24T16:26:24.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 26.5 will add new features to three popular iPhone apps",
+      "url": "https://9to5mac.com/2026/04/24/ios-26-5-will-add-new-features-to-three-popular-iphone-apps/",
+      "pubDate": "2026-04-24T16:16:15.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "The MacRumors Show: Tim Cook to Step Down as Apple CEO",
+      "url": "https://www.macrumors.com/2026/04/24/the-macrumors-show-tim-cook-to-step-down/",
+      "pubDate": "2026-04-24T16:06:47.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "This free iPhone app from Cornell answers nature’s greatest springtime mystery",
+      "url": "https://9to5mac.com/2026/04/24/this-free-iphone-app-from-cornell-answers-natures-greatest-springtime-mystery/",
+      "pubDate": "2026-04-24T16:04:50.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -171,20 +227,6 @@
       "pubDate": "2026-04-23T22:38:03.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: April 23, 2026 – John Ternus’s journey to Apple CEO",
-      "url": "https://9to5mac.com/2026/04/23/daily-april-23-2026/",
-      "pubDate": "2026-04-23T22:16:41.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple among companies objecting to proposed clean energy reporting changes",
-      "url": "https://9to5mac.com/2026/04/23/apple-among-companies-objecting-to-proposed-clean-energy-reporting-changes/",
-      "pubDate": "2026-04-23T21:55:54.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Discover ending support for two Apple Pay features in June 2026",
@@ -192,39 +234,11 @@
       "pubDate": "2026-04-23T21:29:27.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "M6 MacBook Pro: Six new features coming later this year",
-      "url": "https://9to5mac.com/2026/04/23/m6-macbook-pro-six-new-features-coming-later-this-year/",
-      "pubDate": "2026-04-23T20:37:07.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Discover ending Pay with Rewards and Connected Account support in Apple Pay",
-      "url": "https://9to5mac.com/2026/04/23/discover-ending-pay-with-rewards-and-connected-account-support-in-apple-pay/",
-      "pubDate": "2026-04-23T20:15:48.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "How Apple Savings compares vs other high-yield savings accounts",
-      "url": "https://appleinsider.com/inside/apple-card/vs/how-apple-savings-compares-vs-other-high-yield-savings-accounts?utm_source=rss",
-      "pubDate": "2026-04-23T20:10:11.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Scoring the differences between ESPN and Apple Sports",
       "url": "https://sixcolors.com/post/2026/04/scoring-the-differences-between-espn-and-apple-sports/",
       "pubDate": "2026-04-23T20:09:04.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Invites for iPhone adds 7 new features, including an iMessage app",
-      "url": "https://9to5mac.com/2026/04/23/apple-invites-for-iphone-adds-7-new-features-including-an-imessage-app/",
-      "pubDate": "2026-04-23T19:55:44.000Z"
     },
     {
       "source": "MacRumors",
@@ -267,20 +281,6 @@
       "title": "Latest iPhone 18 Pro Max Dummies Suggest Thicker Camera Plateau, More Protruding Lenses",
       "url": "https://www.macrumors.com/2026/04/23/iphone-18-pro-max-dummies-thicker-camera-plateau/",
       "pubDate": "2026-04-23T12:06:18.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Maps Gains Immersive 3D Experience of Miami F1 Grand Prix",
-      "url": "https://www.macrumors.com/2026/04/23/apple-maps-gains-miami-f1-grand-prix/",
-      "pubDate": "2026-04-23T11:20:58.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Here's How the iPhone Ultra Compares to Other Apple Devices",
-      "url": "https://www.macrumors.com/2026/04/23/iphone-ultra-dummy-apple-device-comparison/",
-      "pubDate": "2026-04-23T10:41:55.000Z"
     },
     {
       "source": "Six Colors",
