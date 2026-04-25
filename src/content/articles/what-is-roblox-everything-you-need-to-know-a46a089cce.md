@@ -2,7 +2,7 @@
 title: "Roblox's Twenty-Year Run Raises Questions Apple Would Rather Ignore"
 description: "As Roblox marks two decades, its child-labor economics and moderation failures remain unaddressed—problems Apple enables by hosting it in the App Store."
 pubDate: 2026-04-24T14:46:01.172Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - roblox
