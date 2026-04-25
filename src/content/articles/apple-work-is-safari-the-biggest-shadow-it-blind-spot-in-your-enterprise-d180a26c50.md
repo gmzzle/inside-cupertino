@@ -2,7 +2,7 @@
 title: "Safari's Enterprise Blind Spot: Browser Security Becomes IT Priority"
 description: "As enterprises standardize on Chrome, Safari remains an unmanaged endpoint in Apple fleets. A new survey reveals growing browser-based threats."
 pubDate: 2026-04-25T16:15:50.029Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - safari
