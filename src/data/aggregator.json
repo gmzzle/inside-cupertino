@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-25T05:59:33.740Z",
+  "generatedAt": "2026-04-25T17:02:15.101Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple @ Work: Is Safari the biggest shadow IT blind spot in your enterprise?",
+      "url": "https://9to5mac.com/2026/04/25/is-safari-the-biggest-shadow-it-blind-spot-in-your-enterprise/",
+      "pubDate": "2026-04-25T13:43:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Masimo's Apple Watch ban complaint dismissed by U.S. District Court",
+      "url": "https://appleinsider.com/articles/26/04/25/massimos-apple-watch-ban-complaint-dismissed-by-us-district-court?utm_source=rss",
+      "pubDate": "2026-04-25T13:38:26.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Top Stories: Tim Cook Stepping Down, iPhone 18 Pro Colors, and More",
+      "url": "https://www.macrumors.com/2026/04/25/top-stories-tim-cook-stepping-down/",
+      "pubDate": "2026-04-25T13:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Get AirPods 4 for $99 and AirPods Max 2 for $529.99 on Amazon",
+      "url": "https://www.macrumors.com/2026/04/25/airpods-4-99-airpods-max-2/",
+      "pubDate": "2026-04-25T12:52:35.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -178,13 +206,6 @@
       "pubDate": "2026-04-24T16:06:47.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "This free iPhone app from Cornell answers nature’s greatest springtime mystery",
-      "url": "https://9to5mac.com/2026/04/24/this-free-iphone-app-from-cornell-answers-natures-greatest-springtime-mystery/",
-      "pubDate": "2026-04-24T16:04:50.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "What is Roblox? Everything you need to know",
@@ -234,20 +255,6 @@
       "pubDate": "2026-04-24T11:36:56.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "20th Anniversary iPhone to Feature Custom 'Micro-Curved' OLED Panel",
-      "url": "https://www.macrumors.com/2026/04/24/20th-anniversary-iphone-micro-curved-oled-panel/",
-      "pubDate": "2026-04-24T10:34:42.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Invites App for iPhone Updated – Here's What's New",
-      "url": "https://www.macrumors.com/2026/04/24/apple-invites-app-for-iphone-updated/",
-      "pubDate": "2026-04-24T08:54:06.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Lowest price ever: Apple's 2026 14-inch MacBook Pro M5 Pro plunges to $1,949",
@@ -260,13 +267,6 @@
       "title": "LincPlus LincStation E1 review: Compact, entry-level, and fast enough",
       "url": "https://appleinsider.com/articles/26/04/23/lincplus-lincstation-e1-review-compact-entry-level-and-fast-enough?utm_source=rss",
       "pubDate": "2026-04-23T23:53:15.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "'Pluribus' & 'Come See Me In The Good Light' win Peabody awards for Apple TV",
-      "url": "https://appleinsider.com/articles/26/04/23/pluribus-come-see-me-in-the-good-light-win-peabody-awards-for-apple-tv?utm_source=rss",
-      "pubDate": "2026-04-23T23:38:49.000Z"
     },
     {
       "source": "Six Colors",
