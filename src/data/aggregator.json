@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-25T19:12:38.086Z",
+  "generatedAt": "2026-04-25T20:58:06.335Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iVanky FusionDock Max 2 review: Hugely better value the second time around",
+      "url": "https://appleinsider.com/articles/26/04/25/ivanky-fusiondock-max-2-review-hugely-better-value-the-second-time-around?utm_source=rss",
+      "pubDate": "2026-04-25T20:23:13.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -260,13 +267,6 @@
       "title": "Lowest price ever: Apple's 2026 14-inch MacBook Pro M5 Pro plunges to $1,949",
       "url": "https://appleinsider.com/articles/26/04/24/lowest-price-ever-apples-2026-14-inch-macbook-pro-m5-pro-plunges-to-1949?utm_source=rss",
       "pubDate": "2026-04-24T06:27:35.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "LincPlus LincStation E1 review: Compact, entry-level, and fast enough",
-      "url": "https://appleinsider.com/articles/26/04/23/lincplus-lincstation-e1-review-compact-entry-level-and-fast-enough?utm_source=rss",
-      "pubDate": "2026-04-23T23:53:15.000Z"
     },
     {
       "source": "Six Colors",
