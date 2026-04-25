@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-25T17:02:15.101Z",
+  "generatedAt": "2026-04-25T17:57:46.599Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Vision Pro suffered from indecisive leadership – here’s how it could change",
+      "url": "https://9to5mac.com/2026/04/25/vision-pro-improvements-under-new-leadership-john-ternus/",
+      "pubDate": "2026-04-25T17:56:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "The next iPad could sport a new naming scheme, thanks to new interview insight",
+      "url": "https://9to5mac.com/2026/04/25/could-the-next-ipad-have-a-new-naming-scheme/",
+      "pubDate": "2026-04-25T14:34:00.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -178,25 +192,11 @@
       "pubDate": "2026-04-24T16:49:58.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Watch Apple reveal how it made the delightful MacBook Neo intro video",
-      "url": "https://9to5mac.com/2026/04/24/apple-reveals-how-it-made-the-delightful-macbook-neo-introduction-video/",
-      "pubDate": "2026-04-24T16:30:34.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple's entry-level iPhone 18 rumored to get 50% more RAM",
       "url": "https://appleinsider.com/articles/26/04/24/apples-entry-level-iphone-18-rumored-to-get-50-more-ram?utm_source=rss",
       "pubDate": "2026-04-24T16:26:24.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 26.5 will add new features to three popular iPhone apps",
-      "url": "https://9to5mac.com/2026/04/24/ios-26-5-will-add-new-features-to-three-popular-iphone-apps/",
-      "pubDate": "2026-04-24T16:16:15.000Z"
     },
     {
       "source": "MacRumors",
