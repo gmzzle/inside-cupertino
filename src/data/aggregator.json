@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-26T15:03:49.745Z",
+  "generatedAt": "2026-04-26T15:58:54.265Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Why the timing of Apple’s CEO transition matters",
+      "url": "https://9to5mac.com/2026/04/26/why-the-timing-of-apples-ceo-transition-matters/",
+      "pubDate": "2026-04-26T15:50:21.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Anker’s Prime 25W MagSafe stand is an ideal 3-in-1 charger for iPhone [Hands-on]",
+      "url": "https://9to5mac.com/2026/04/26/hands-on-with-anker-prime-25w-magsafe-3-in-1/",
+      "pubDate": "2026-04-26T15:19:46.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's AI push alone will generate three new hardware categories",
+      "url": "https://appleinsider.com/articles/26/04/26/apples-ai-push-alone-will-generate-three-new-hardware-categories?utm_source=rss",
+      "pubDate": "2026-04-26T15:08:06.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -192,20 +213,6 @@
       "pubDate": "2026-04-24T17:30:08.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Spotify isn’t the only service now integrated with Anthropic’s Claude",
-      "url": "https://9to5mac.com/2026/04/24/spotify-isnt-the-only-service-now-integrated-with-anthropics-claude/",
-      "pubDate": "2026-04-24T17:27:14.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Hands-on: Kuxiu’s S4 MagSafe battery is slimmer and adds a real-time smart display",
-      "url": "https://9to5mac.com/2026/04/24/hands-on-kuxius-s4-magsafe-battery-is-slimmer-and-adds-a-real-time-smart-display/",
-      "pubDate": "2026-04-24T17:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Best Apple Deals of the Week: Low Prices on Apple Watch, MacBook Air, AirTag 1, and More",
@@ -267,13 +274,6 @@
       "title": "Repurposing Macs: How to get more out of your obsolete hardware",
       "url": "https://appleinsider.com/inside/mac/tips/repurposing-macs-how-to-get-more-out-of-your-obsolete-hardware?utm_source=rss",
       "pubDate": "2026-04-24T11:43:26.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple taps Samsung for 20th-anniversary iPhone's quad-curved display",
-      "url": "https://appleinsider.com/articles/26/04/24/apple-taps-samsung-for-20th-anniversary-iphones-quad-curved-display?utm_source=rss",
-      "pubDate": "2026-04-24T11:36:56.000Z"
     },
     {
       "source": "Six Colors",
