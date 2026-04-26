@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-26T11:06:03.312Z",
+  "generatedAt": "2026-04-26T11:57:10.276Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -26,16 +26,16 @@
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
-      "title": "Save $200 on 15-inch MacBook Air M5 with more RAM, storage",
-      "url": "https://appleinsider.com/articles/26/04/26/save-200-on-15-inch-macbook-air-m5-with-more-ram-storage?utm_source=rss",
-      "pubDate": "2026-04-26T07:58:10.000Z"
+      "title": "Vantrue Pilot 2 review: Thermal imaging dashcam for pro drivers",
+      "url": "https://appleinsider.com/articles/26/04/24/vantrue-pilot-2-review-thermal-imaging-dashcam-for-pro-drivers?utm_source=rss",
+      "pubDate": "2026-04-26T11:33:25.000Z"
     },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
-      "title": "iVanky FusionDock Max 2 review: Hugely better value the second time around",
-      "url": "https://appleinsider.com/articles/26/04/25/ivanky-fusiondock-max-2-review-hugely-better-value-the-second-time-around?utm_source=rss",
-      "pubDate": "2026-04-25T20:23:13.000Z"
+      "title": "Save $200 on 15-inch MacBook Air M5 with more RAM, storage",
+      "url": "https://appleinsider.com/articles/26/04/26/save-200-on-15-inch-macbook-air-m5-with-more-ram-storage?utm_source=rss",
+      "pubDate": "2026-04-26T07:58:10.000Z"
     },
     {
       "source": "9to5Mac",
@@ -113,13 +113,6 @@
       "title": "Court sides with iyO in trademark fight against OpenAI and Jony Ive",
       "url": "https://9to5mac.com/2026/04/24/court-sides-with-iyo-in-trademark-fight-against-openai-and-jony-ive/",
       "pubDate": "2026-04-24T20:06:48.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Vantrue Pilot 2 review: Thermal imaging dashcam for pro drivers",
-      "url": "https://appleinsider.com/articles/26/04/24/vantrue-pilot-2-review-thermal-imaging-dashcam-for-pro-drivers?utm_source=rss",
-      "pubDate": "2026-04-24T19:38:18.000Z"
     },
     {
       "source": "9to5Mac",
@@ -358,6 +351,13 @@
       "title": "(Sponsor) Magic Lasso Adblock: Effortlessly block ads on your iPhone, iPad, Mac and Apple TV",
       "url": "https://sixcolors.com/sponsor/2026/04/magic-lasso-adblock-effortlessly-block-ads-on-your-iphone-ipad-mac-and-apple-tv-4/",
       "pubDate": "2026-04-17T16:00:59.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "How to turn emails, webpages & notes into Reminders with Apple Intelligence",
+      "url": "https://appleinsider.com/articles/26/01/08/how-to-turn-emails-webpages-notes-into-reminders-with-apple-intelligence?utm_source=rss",
+      "pubDate": "2026-01-08T04:00:18.000Z"
     }
   ]
 }
