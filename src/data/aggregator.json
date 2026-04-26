@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-26T06:20:08.098Z",
+  "generatedAt": "2026-04-26T08:38:31.796Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Save $200 on 15-inch MacBook Air M5 with more RAM, storage",
+      "url": "https://appleinsider.com/articles/26/04/26/save-200-on-15-inch-macbook-air-m5-with-more-ram-storage?utm_source=rss",
+      "pubDate": "2026-04-26T07:58:10.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -351,13 +358,6 @@
       "title": "(Sponsor) Magic Lasso Adblock: Effortlessly block ads on your iPhone, iPad, Mac and Apple TV",
       "url": "https://sixcolors.com/sponsor/2026/04/magic-lasso-adblock-effortlessly-block-ads-on-your-iphone-ipad-mac-and-apple-tv-4/",
       "pubDate": "2026-04-17T16:00:59.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "How to turn emails, webpages & notes into Reminders with Apple Intelligence",
-      "url": "https://appleinsider.com/articles/26/01/08/how-to-turn-emails-webpages-notes-into-reminders-with-apple-intelligence?utm_source=rss",
-      "pubDate": "2026-01-08T04:00:18.000Z"
     }
   ]
 }
