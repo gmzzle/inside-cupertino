@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-27T14:28:22.826Z",
+  "generatedAt": "2026-04-27T16:56:58.723Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,97 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Hit With Unfair Labor Practice Charge for Refusing to Transfer Unionized Towson Workers",
+      "url": "https://www.macrumors.com/2026/04/27/apple-towson-unfair-labor-practice-charge/",
+      "pubDate": "2026-04-27T16:56:26.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Towson Apple Store employee union strikes back, allege unfair treatment after closure",
+      "url": "https://appleinsider.com/articles/26/04/27/towson-apple-store-employee-union-strikes-back-allege-unfair-treatment-after-closure?utm_source=rss",
+      "pubDate": "2026-04-27T16:52:08.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Ultra branding expanding, iPhone Fold & OLED MacBook may join",
+      "url": "https://appleinsider.com/articles/26/04/27/ultra-branding-expanding-iphone-fold-oled-macbook-may-join?utm_source=rss",
+      "pubDate": "2026-04-27T16:19:57.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Sponsor) Monologue",
+      "url": "https://sixcolors.com/feed-only/2026/04/monologue/",
+      "pubDate": "2026-04-27T16:00:06.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone Ultra and MacBook Ultra are coming this year, per report",
+      "url": "https://9to5mac.com/2026/04/27/iphone-ultra-and-macbook-ultra-are-coming-this-year-per-report/",
+      "pubDate": "2026-04-27T15:44:08.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Major new Apple products get fresh updates: AR glasses and iPad Fold",
+      "url": "https://9to5mac.com/2026/04/27/major-new-apple-products-get-fresh-updates-ar-glasses-and-ipad-fold/",
+      "pubDate": "2026-04-27T15:37:01.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Deals: AirPods Pro 3, most affordable M5 MacBook Air $150 off,  Apple Watch Series 11 up to $130 off, more",
+      "url": "https://9to5mac.com/2026/04/27/deals-airpods-pro-3-m5-macbook-air-apple-watch/",
+      "pubDate": "2026-04-27T15:30:50.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "What smart kitchen devices are worth it, and which aren't, on Smart Home Insider",
+      "url": "https://appleinsider.com/articles/26/04/27/what-smart-kitchen-devices-are-worth-it-and-which-arent-on-smart-home-insider?utm_source=rss",
+      "pubDate": "2026-04-27T15:25:06.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Aulumu M10: 3-in-1 iPhone MagSafe battery also recharges Apple Watch and AirPods",
+      "url": "https://9to5mac.com/2026/04/27/aulumu-m10-3-in-1-iphone-magsafe-battery-also-recharges-apple-watch-and-airpods/",
+      "pubDate": "2026-04-27T15:22:02.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "MacBook Neo Still Seeing Extended Delivery Estimates at Apple, But Amazon and Walmart Have Stock",
+      "url": "https://www.macrumors.com/2026/04/27/macbook-neo-amazon-walmart/",
+      "pubDate": "2026-04-27T14:56:44.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Exploring the wide range of Find My-compatible devices",
+      "url": "https://sixcolors.com/post/2026/04/find-my-diversifies-as-hardware-makers-go-for-baroque/",
+      "pubDate": "2026-04-27T14:45:42.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "OpenAI's chip talks lay groundwork for iPhone competitor, assuming company survives",
+      "url": "https://appleinsider.com/articles/26/04/27/openais-chip-talks-lay-groundwork-for-iphone-competitor-assuming-company-survives?utm_source=rss",
+      "pubDate": "2026-04-27T14:38:04.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Planning to Launch Two New 'Ultra' Products in the Next Year",
+      "url": "https://www.macrumors.com/2026/04/27/apple-planning-to-launch-two-new-ultra-products/",
+      "pubDate": "2026-04-27T14:34:42.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -143,34 +234,6 @@
       "pubDate": "2026-04-26T07:58:10.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "John Ternus could borrow from Microsoft’s playbook to reinvigorate Apple",
-      "url": "https://9to5mac.com/2026/04/26/john-ternus-reinvigorate-apple-engineering-early-retirement/",
-      "pubDate": "2026-04-26T07:28:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Indie App Spotlight: ‘InnerPulse’ is an in depth, private, and on-device mood tracker",
-      "url": "https://9to5mac.com/2026/04/25/indie-app-spotlight-innerpulse-is-an-in-depth-private-and-on-device-mood-tracker/",
-      "pubDate": "2026-04-25T19:30:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Vision Pro suffered from indecisive leadership – here’s how it could change",
-      "url": "https://9to5mac.com/2026/04/25/vision-pro-improvements-under-new-leadership-john-ternus/",
-      "pubDate": "2026-04-25T17:56:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "The next iPad could sport a new naming scheme, thanks to new interview insight",
-      "url": "https://9to5mac.com/2026/04/25/could-the-next-ipad-have-a-new-naming-scheme/",
-      "pubDate": "2026-04-25T14:34:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Masimo's Apple Watch ban complaint dismissed by U.S. District Court",
@@ -225,55 +288,6 @@
       "title": "Foldable 'iPhone Ultra' Could Be Missing These 5 Key Features Despite $2,000 Price Tag",
       "url": "https://www.macrumors.com/2026/04/24/iphone-ultra-could-be-missing-5-features/",
       "pubDate": "2026-04-24T17:41:52.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple to Launch 'MacBook Ultra' With These Six New Features",
-      "url": "https://www.macrumors.com/2026/04/24/macbook-ultra-up-to-six-new-features/",
-      "pubDate": "2026-04-24T17:32:18.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPhone Fold or iPhone Ultra: What to expect from the folding iPhone",
-      "url": "https://appleinsider.com/articles/26/04/24/iphone-fold-or-iphone-ultra-what-to-expect-from-the-folding-iphone?utm_source=rss",
-      "pubDate": "2026-04-24T17:30:08.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Best Apple Deals of the Week: Low Prices on Apple Watch, MacBook Air, AirTag 1, and More",
-      "url": "https://www.macrumors.com/2026/04/24/best-apple-deals-of-the-week-4-24-26/",
-      "pubDate": "2026-04-24T16:49:58.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple's entry-level iPhone 18 rumored to get 50% more RAM",
-      "url": "https://appleinsider.com/articles/26/04/24/apples-entry-level-iphone-18-rumored-to-get-50-more-ram?utm_source=rss",
-      "pubDate": "2026-04-24T16:26:24.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "The MacRumors Show: Tim Cook to Step Down as Apple CEO",
-      "url": "https://www.macrumors.com/2026/04/24/the-macrumors-show-tim-cook-to-step-down/",
-      "pubDate": "2026-04-24T16:06:47.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "What is Roblox? Everything you need to know",
-      "url": "https://appleinsider.com/articles/26/04/24/what-is-roblox---everything-you-need-to-know-about-the-latest-craze?utm_source=rss",
-      "pubDate": "2026-04-24T14:39:48.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Chatbots take a back seat as new GPT-5.5 model focuses on getting work done",
-      "url": "https://appleinsider.com/articles/26/04/24/chatbots-take-a-back-seat-as-new-gpt-55-model-focuses-on-getting-work-done?utm_source=rss",
-      "pubDate": "2026-04-24T13:41:46.000Z"
     },
     {
       "source": "Six Colors",
@@ -344,20 +358,6 @@
       "title": "Silence! Listen, here’s how to control sound from your devices",
       "url": "https://sixcolors.com/post/2026/04/silence-listen-heres-how-to-control-sound-from-your-devices/",
       "pubDate": "2026-04-20T19:23:00.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) Downstream 116: Ceramic Dalmatian",
-      "url": "https://sixcolors.com/podcast/2026/04/downstream-116-ceramic-dalmatian/",
-      "pubDate": "2026-04-18T00:21:03.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Sponsor) Magic Lasso Adblock: Effortlessly block ads on your iPhone, iPad, Mac and Apple TV",
-      "url": "https://sixcolors.com/sponsor/2026/04/magic-lasso-adblock-effortlessly-block-ads-on-your-iphone-ipad-mac-and-apple-tv-4/",
-      "pubDate": "2026-04-17T16:00:59.000Z"
     }
   ]
 }
