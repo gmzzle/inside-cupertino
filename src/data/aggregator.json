@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-27T22:08:04.048Z",
+  "generatedAt": "2026-04-27T23:11:54.492Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: April 27, 2026 – iOS 26.4.2, more on Ternus and Cook",
+      "url": "https://9to5mac.com/2026/04/27/april-27-2026-ios-26-4-2/",
+      "pubDate": "2026-04-27T23:03:12.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Here’s what Apple showcased at ICLR 2026, one of the world’s biggest AI conferences",
+      "url": "https://9to5mac.com/2026/04/27/heres-what-apple-showcased-at-iclr-2026-one-of-the-worlds-biggest-ai-conferences/",
+      "pubDate": "2026-04-27T22:27:04.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -171,13 +185,6 @@
       "pubDate": "2026-04-27T17:03:01.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple releases iOS 26.5 beta 4 for iPhone [U]",
-      "url": "https://9to5mac.com/2026/04/27/apple-releases-ios-26-5-beta-4-for-iphone/",
-      "pubDate": "2026-04-27T17:02:33.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Releases Fourth watchOS 26.5, tvOS 26.5 and visionOS 26.5 Betas",
@@ -204,13 +211,6 @@
       "title": "(Sponsor) Monologue",
       "url": "https://sixcolors.com/feed-only/2026/04/monologue/",
       "pubDate": "2026-04-27T16:00:06.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone Ultra and MacBook Ultra are coming this year, per report",
-      "url": "https://9to5mac.com/2026/04/27/iphone-ultra-and-macbook-ultra-are-coming-this-year-per-report/",
-      "pubDate": "2026-04-27T15:44:08.000Z"
     },
     {
       "source": "AppleInsider",
