@@ -3,16 +3,10 @@ name: Scheduled feeds
 # Runs the aggregator hourly and the draft generator daily.
 # Both commit their output back to the repo on `main`, which triggers
 # Cloudflare Pages to rebuild and deploy automatically.
-#
-# Required setup:
-#   Settings → Secrets and variables → Actions:
-#     - ANTHROPIC_API_KEY  (used by the daily draft job only)
-#   Settings → Actions → General → Workflow permissions:
-#     - "Read and write permissions"  (so the workflow can commit)
 
 on:
   schedule:
-    - cron: '15 * * * *'   # hourly at :15 — aggregator
+    - cron: '15 * * * *'   # hourly — aggregator
     - cron: '0 13 * * *'   # daily at 13:00 UTC — draft generator
   workflow_dispatch:
     inputs:
@@ -23,10 +17,14 @@ on:
         type: choice
         options: [aggregate, draft]
 
+# Hard cap any individual run. If anything hangs, kill it within 10 minutes.
+# Normal runs take ~1 minute. This is just a safety net against runaway minutes.
+
 jobs:
   aggregate:
     if: github.event.schedule == '15 * * * *' || github.event.inputs.job == 'aggregate'
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     permissions:
       contents: write
     steps:
@@ -38,6 +36,7 @@ jobs:
       - run: npm ci
       - run: npm run aggregate
       - name: Commit if changed
+        timeout-minutes: 3
         run: |
           if [[ -z "$(git status --porcelain src/data/aggregator.json)" ]]; then
             echo "No aggregator changes."
@@ -47,21 +46,24 @@ jobs:
           git config user.email "bot@insidecupertino.com"
           git add src/data/aggregator.json
           git commit -m "chore(aggregator): refresh feed [skip ci]"
-          for i in 1 2 3 4 5; do
-            git pull --rebase origin main && git push && exit 0
+          for i in 1 2 3; do
+            timeout 30 git pull --rebase origin main || { echo "Pull failed"; sleep 5; continue; }
+            timeout 30 git push && exit 0
             echo "Push attempt $i failed, retrying..."
             sleep $((i * 5))
           done
-          echo "Push failed after 5 attempts."
+          echo "Push failed after 3 attempts."
           exit 1
 
   draft:
     if: github.event.schedule == '0 13 * * *' || github.event.inputs.job == 'draft'
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     permissions:
       contents: write
     env:
       ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
       MAX_PER_RUN: '2'
     steps:
       - uses: actions/checkout@v4
@@ -72,6 +74,7 @@ jobs:
       - run: npm ci
       - run: npm run draft
       - name: Commit if changed
+        timeout-minutes: 3
         run: |
           if [[ -z "$(git status --porcelain src/content/articles scripts/.drafted-urls.json)" ]]; then
             echo "No new drafts."
@@ -81,10 +84,11 @@ jobs:
           git config user.email "bot@insidecupertino.com"
           git add src/content/articles scripts/.drafted-urls.json
           git commit -m "chore(drafts): new draft articles for review [skip ci]"
-          for i in 1 2 3 4 5; do
-            git pull --rebase origin main && git push && exit 0
+          for i in 1 2 3; do
+            timeout 30 git pull --rebase origin main || { echo "Pull failed"; sleep 5; continue; }
+            timeout 30 git push && exit 0
             echo "Push attempt $i failed, retrying..."
             sleep $((i * 5))
           done
-          echo "Push failed after 5 attempts."
+          echo "Push failed after 3 attempts."
           exit 1
