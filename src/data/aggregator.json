@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-28T00:08:48.604Z",
+  "generatedAt": "2026-04-28T04:07:58.261Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Key takeaways after testing out SpeakON, an AI-powered dictation iPhone accessory",
+      "url": "https://9to5mac.com/2026/04/27/key-takeaways-after-testing-out-speakon-an-ai-powered-dictation-iphone-accessory/",
+      "pubDate": "2026-04-28T03:21:40.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple accused of discriminating against unionized Towson workers",
+      "url": "https://9to5mac.com/2026/04/27/apple-accused-of-discriminating-against-unionized-towson-workers/",
+      "pubDate": "2026-04-28T01:11:31.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -171,20 +185,6 @@
       "pubDate": "2026-04-27T17:07:18.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple releases beta 4 for iPadOS 26.5, tvOS 26.5, and more [U]",
-      "url": "https://9to5mac.com/2026/04/27/apple-releases-beta-4-for-ipados-26-5-tvos-26-5-and-more/",
-      "pubDate": "2026-04-27T17:06:55.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple releases macOS 26.5 beta 4, here’s what to expect [U]",
-      "url": "https://9to5mac.com/2026/04/27/apple-releases-macos-26-5-beta-4-heres-what-to-expect/",
-      "pubDate": "2026-04-27T17:06:29.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Seeds Fourth iOS 26.5 and iPadOS 26.5 Betas to Developers",
@@ -276,13 +276,6 @@
       "pubDate": "2026-04-26T20:10:53.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "What to expect from Apple's Q2 2026 earnings on April 30",
-      "url": "https://appleinsider.com/articles/26/04/26/what-to-expect-from-apples-q2-2026-earnings-on-april-30?utm_source=rss",
-      "pubDate": "2026-04-26T17:20:15.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Top Stories: Tim Cook Stepping Down, iPhone 18 Pro Colors, and More",
@@ -358,6 +351,13 @@
       "title": "Tim Cook to exit as Apple CEO, replaced by John Ternus ↦",
       "url": "https://sixcolors.com/link/2026/04/tim-cook-to-exit-as-apple-ceo-replaced-by-john-ternus/",
       "pubDate": "2026-04-20T21:01:29.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Inside Preview in iOS 26 - how to edit PDFs, sign documents, and scan files",
+      "url": "https://appleinsider.com/inside/ios-26/tips/inside-preview-in-ios-26---how-to-edit-pdfs-sign-documents-and-scan-files?utm_source=rss",
+      "pubDate": "2026-01-12T12:59:34.000Z"
     }
   ]
 }
