@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-27T23:11:54.492Z",
+  "generatedAt": "2026-04-28T00:08:48.604Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Bambu Lab H2C review: the Cadillac of 3D printers",
+      "url": "https://appleinsider.com/articles/26/04/27/bambu-lab-h2c-review-the-cadillac-of-3d-printers?utm_source=rss",
+      "pubDate": "2026-04-27T23:54:12.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -274,13 +281,6 @@
       "title": "What to expect from Apple's Q2 2026 earnings on April 30",
       "url": "https://appleinsider.com/articles/26/04/26/what-to-expect-from-apples-q2-2026-earnings-on-april-30?utm_source=rss",
       "pubDate": "2026-04-26T17:20:15.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple's AI push alone will generate three new hardware categories",
-      "url": "https://appleinsider.com/articles/26/04/26/apples-ai-push-alone-will-generate-three-new-hardware-categories?utm_source=rss",
-      "pubDate": "2026-04-26T15:08:06.000Z"
     },
     {
       "source": "MacRumors",
