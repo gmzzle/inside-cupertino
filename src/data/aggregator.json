@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-28T17:03:19.794Z",
+  "generatedAt": "2026-04-28T18:53:05.665Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,55 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Tim Cook attends White House as King Charles III visits the U.S.",
+      "url": "https://appleinsider.com/articles/26/04/28/tim-cook-attends-white-house-as-king-charles-iii-visits-the-us?utm_source=rss",
+      "pubDate": "2026-04-28T18:50:55.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iOS 27 to Add New Apple Intelligence Photo Editing Tools",
+      "url": "https://www.macrumors.com/2026/04/28/ios-27-apple-intelligence-photo-editing-tools/",
+      "pubDate": "2026-04-28T18:37:59.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 will add three new features to Apple’s Photos app, per report",
+      "url": "https://9to5mac.com/2026/04/28/ios-27-will-add-three-new-features-to-apples-photos-app-per-report/",
+      "pubDate": "2026-04-28T18:34:01.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Weather App Experiencing Outage",
+      "url": "https://www.macrumors.com/2026/04/28/apple-weather-app-outage/",
+      "pubDate": "2026-04-28T18:00:35.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Tim Cook Meets With Commerce Secretary Howard Lutnick Ahead of CEO Transition",
+      "url": "https://www.macrumors.com/2026/04/28/tim-cook-white-house-meetings/",
+      "pubDate": "2026-04-28T17:42:48.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Philips Hue lights enhanced with immersive SpatialAware feature, now available",
+      "url": "https://9to5mac.com/2026/04/28/philips-hue-lights-enhanced-with-immersive-spatialaware-feature-now-available/",
+      "pubDate": "2026-04-28T17:10:04.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "M4 vs. M5 MacBook Air Buyer's Guide",
+      "url": "https://www.macrumors.com/guide/m4-vs-m5-macbook-air/",
+      "pubDate": "2026-04-28T17:07:20.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -115,13 +164,6 @@
       "pubDate": "2026-04-28T14:19:30.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Ted Lasso season 4 just got its Apple TV release date and first trailer",
-      "url": "https://9to5mac.com/2026/04/28/ted-lasso-season-4-just-got-its-apple-tv-release-date-and-first-trailer/",
-      "pubDate": "2026-04-28T14:11:14.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Shares 'Ted Lasso' Season Four Streaming Date and Teaser Trailer",
@@ -129,25 +171,11 @@
       "pubDate": "2026-04-28T14:10:12.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Hands-on: Satechi CubeDock packs Thunderbolt 5 and NVMe storage in a Mac mini-like design [Video]",
-      "url": "https://9to5mac.com/2026/04/28/hands-on-satechi-cubedock-packs-thunderbolt-5-and-nvme-storage-in-a-mac-mini-like-design-video/",
-      "pubDate": "2026-04-28T14:00:37.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "AirPods Pro 3 Return to $199.99 Low Price on Amazon",
       "url": "https://www.macrumors.com/2026/04/28/airpods-pro-3-to-199-99/",
       "pubDate": "2026-04-28T13:57:50.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Towson Apple Store employee union strikes back, allege unfair treatment after closure",
-      "url": "https://appleinsider.com/articles/26/04/27/towson-apple-store-employee-union-strikes-back-allege-unfair-treatment-after-closure?utm_source=rss",
-      "pubDate": "2026-04-28T13:22:55.000Z"
     },
     {
       "source": "AppleInsider",
@@ -248,20 +276,6 @@
       "pubDate": "2026-04-27T17:03:01.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Releases Fourth watchOS 26.5, tvOS 26.5 and visionOS 26.5 Betas",
-      "url": "https://www.macrumors.com/2026/04/27/apple-seeds-watchos-26-5-beta-4/",
-      "pubDate": "2026-04-27T17:01:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Hit With Unfair Labor Practice Charge for Refusing to Transfer Unionized Towson Workers",
-      "url": "https://www.macrumors.com/2026/04/27/apple-towson-unfair-labor-practice-charge/",
-      "pubDate": "2026-04-27T16:56:26.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Sponsor) Monologue",
@@ -269,25 +283,11 @@
       "pubDate": "2026-04-27T16:00:06.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "MacBook Neo Still Seeing Extended Delivery Estimates at Apple, But Amazon and Walmart Have Stock",
-      "url": "https://www.macrumors.com/2026/04/27/macbook-neo-amazon-walmart/",
-      "pubDate": "2026-04-27T14:56:44.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Exploring the wide range of Find My-compatible devices",
       "url": "https://sixcolors.com/post/2026/04/find-my-diversifies-as-hardware-makers-go-for-baroque/",
       "pubDate": "2026-04-27T14:45:42.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Planning to Launch Two New 'Ultra' Products in the Next Year",
-      "url": "https://www.macrumors.com/2026/04/27/apple-planning-to-launch-two-new-ultra-products/",
-      "pubDate": "2026-04-27T14:34:42.000Z"
     },
     {
       "source": "Six Colors",
