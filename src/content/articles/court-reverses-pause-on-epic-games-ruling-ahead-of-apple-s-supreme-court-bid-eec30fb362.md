@@ -2,7 +2,7 @@
 title: "Apple Loses Its Freeze on Epic's App Store Win"
 description: "The Ninth Circuit just told Apple it has to comply with the Epic ruling now, not after the Supreme Court weighs in. That's a problem for Cupertino."
 pubDate: 2026-04-29T02:46:26.454Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - app-store
