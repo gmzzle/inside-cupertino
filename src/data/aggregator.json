@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-29T00:10:06.961Z",
+  "generatedAt": "2026-04-29T04:03:59.931Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "App Store policy must change as Epic convinces US Circuit Court to reverse stay",
+      "url": "https://appleinsider.com/articles/26/04/29/app-store-policy-must-change-as-epic-convinces-us-circuit-court-to-reverse-stay?utm_source=rss",
+      "pubDate": "2026-04-29T03:25:22.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Court reverses pause on Epic Games ruling ahead of Apple’s Supreme Court bid",
+      "url": "https://9to5mac.com/2026/04/28/court-reverses-pause-on-epic-games-ruling-ahead-of-apples-supreme-court-bid/",
+      "pubDate": "2026-04-29T02:14:02.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "First two episodes of Widow’s Bay now available on Apple TV",
+      "url": "https://9to5mac.com/2026/04/28/first-two-episodes-of-widows-bay-now-available-on-apple-tv/",
+      "pubDate": "2026-04-29T01:25:01.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -178,20 +199,6 @@
       "pubDate": "2026-04-28T16:57:51.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Perplexity just gave its Comet AI browser an upgrade for iPad users with these features",
-      "url": "https://9to5mac.com/2026/04/28/perplexity-just-gave-its-comet-ai-browser-an-upgrade-for-ipad-users-with-these-features/",
-      "pubDate": "2026-04-28T16:21:35.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 26.4 gave your iPhone an alarm feature that’s long been missing",
-      "url": "https://9to5mac.com/2026/04/28/ios-26-4-gave-your-iphone-an-alarm-feature-thats-long-been-missing/",
-      "pubDate": "2026-04-28T16:02:32.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Amazon slashes $200 off M5 Max 16-inch MacBook Pro with month-end deal",
@@ -246,20 +253,6 @@
       "title": "20th Anniversary iPhone's 'Liquid Glass' Display to Make Bezels Vanish",
       "url": "https://www.macrumors.com/2026/04/28/20th-anniversary-iphone-liquid-glass-display/",
       "pubDate": "2026-04-28T10:39:46.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Bambu Lab H2C review: the Cadillac of 3D printers",
-      "url": "https://appleinsider.com/articles/26/04/27/bambu-lab-h2c-review-the-cadillac-of-3d-printers?utm_source=rss",
-      "pubDate": "2026-04-27T23:54:12.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "App Store annual subscriptions get new discounted monthly option",
-      "url": "https://appleinsider.com/articles/26/04/27/app-store-annual-subscriptions-get-new-discounted-monthly-option?utm_source=rss",
-      "pubDate": "2026-04-27T21:41:18.000Z"
     },
     {
       "source": "Six Colors",
@@ -351,6 +344,13 @@
       "title": "Tim Cook to exit as Apple CEO, replaced by John Ternus ↦",
       "url": "https://sixcolors.com/link/2026/04/tim-cook-to-exit-as-apple-ceo-replaced-by-john-ternus/",
       "pubDate": "2026-04-20T21:01:29.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "How to import and export Markdown with Apple Notes in iOS 26",
+      "url": "https://appleinsider.com/inside/ios-26/tips/how-to-import-and-export-markdown-with-apple-notes-in-ios-26?utm_source=rss",
+      "pubDate": "2026-01-13T04:01:04.000Z"
     },
     {
       "source": "AppleInsider",
