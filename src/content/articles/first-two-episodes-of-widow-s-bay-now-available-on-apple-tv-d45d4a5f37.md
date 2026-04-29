@@ -2,7 +2,7 @@
 title: "Apple TV+ drops Widow's Bay, another bet on niche genre mashups"
 description: "Matthew Rhys leads Apple's latest horror-comedy. It's a curious formula the service keeps returning to, despite mixed results."
 pubDate: 2026-04-29T02:46:44.569Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - apple-tv-plus
