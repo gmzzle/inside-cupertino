@@ -96,10 +96,13 @@ async function fetchUnsplashImage(tags) {
   if (!key) return null;
   const query = encodeURIComponent(tags.slice(0, 2).join(' ') || 'apple technology');
   try {
+    const controller = new AbortController();
+    const t = setTimeout(() => controller.abort(), 10000);
     const res = await fetch(
       `https://api.unsplash.com/search/photos?query=${query}&per_page=10&orientation=landscape&content_filter=high`,
-      { headers: { Authorization: `Client-ID ${key}` } }
+      { headers: { Authorization: `Client-ID ${key}` }, signal: controller.signal }
     );
+    clearTimeout(t);
     if (!res.ok) {
       console.error(`  Unsplash returned ${res.status}`);
       return null;
@@ -210,12 +213,15 @@ Write the Inside Cupertino take on this story. Original analysis. Link to ${item
 }
 
 async function draftOne(client, item) {
-  const resp = await client.messages.create({
-    model: MODEL,
-    max_tokens: 2000,
-    system: SYSTEM_PROMPT,
-    messages: [{ role: 'user', content: userPromptFor(item) }],
-  });
+  const resp = await client.messages.create(
+    {
+      model: MODEL,
+      max_tokens: 2000,
+      system: SYSTEM_PROMPT,
+      messages: [{ role: 'user', content: userPromptFor(item) }],
+    },
+    { timeout: 60000, maxRetries: 1 }
+  );
 
   const text = resp.content
     .filter(b => b.type === 'text')
