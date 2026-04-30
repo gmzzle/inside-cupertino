@@ -2,7 +2,7 @@
 title: "Apple Finally Put Notes on the Watch and It's Actually Useful"
 description: "watchOS 26 brings the Notes app to Apple Watch after years of inexplicable absence. Turns out a tiny wrist computer is good for jotting things down."
 pubDate: 2026-04-29T15:15:44.932Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - watchos
