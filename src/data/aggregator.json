@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T09:27:39.269Z",
+  "generatedAt": "2026-04-30T11:54:09.643Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Motorola Razr Fold price and availability announced ahead of iPhone Ultra",
+      "url": "https://9to5mac.com/2026/04/30/motorola-razr-fold-price-and-availability-announced-ahead-of-iphone-ultra/",
+      "pubDate": "2026-04-30T11:52:22.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iOS 27 will offer a range of AI features that can still be ignored",
+      "url": "https://appleinsider.com/articles/26/04/30/ios-27-will-offer-a-range-of-ai-features-that-can-still-be-ignored?utm_source=rss",
+      "pubDate": "2026-04-30T11:24:42.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Sketchy rumor suggests Apple Glasses will support Vision Pro-style hand gestures",
+      "url": "https://9to5mac.com/2026/04/30/sketchy-rumor-suggests-apple-glasses-will-support-vision-pro-style-hand-gestures/",
+      "pubDate": "2026-04-30T11:07:13.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -178,25 +199,11 @@
       "pubDate": "2026-04-29T16:54:04.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Camera in iOS 27 to feature Siri mode with enhanced Visual Intelligence, per report",
-      "url": "https://9to5mac.com/2026/04/29/camera-in-ios-27-to-feature-siri-mode-with-enhanced-visual-intelligence-per-report/",
-      "pubDate": "2026-04-29T16:51:14.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple faces a battle on two fronts as Epic forces a return to Circuit Courts",
       "url": "https://appleinsider.com/articles/26/04/29/app-store-policy-must-change-as-epic-convinces-us-circuit-court-to-reverse-stay?utm_source=rss",
       "pubDate": "2026-04-29T16:31:41.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple might ditch MagSafe on future iPhones, per bizarre rumor",
-      "url": "https://9to5mac.com/2026/04/29/apple-might-ditch-magsafe-on-future-iphones-per-bizarre-rumor/",
-      "pubDate": "2026-04-29T15:59:33.000Z"
     },
     {
       "source": "MacRumors",
@@ -267,13 +274,6 @@
       "title": "Notepad++ Code Editor Comes to Mac After 20-Year Wait",
       "url": "https://www.macrumors.com/2026/04/29/notepad-plus-plus-editor-comes-to-mac/",
       "pubDate": "2026-04-29T08:29:06.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Keychron Q1 Ultra 8K review: mechanical keyboard performance multiplier",
-      "url": "https://appleinsider.com/articles/26/04/29/keychron-q1-ultra-8k-review-mechanical-keyboard-performance-multiplier?utm_source=rss",
-      "pubDate": "2026-04-29T00:05:11.000Z"
     },
     {
       "source": "MacRumors",
