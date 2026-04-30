@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T14:25:10.745Z",
+  "generatedAt": "2026-04-30T16:49:23.771Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,62 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Some iPhone 17 Pro and iPhone Air Users Experiencing a Charging Issue",
+      "url": "https://www.macrumors.com/2026/04/30/iphone-17-pro-iphone-air-charging-issue/",
+      "pubDate": "2026-04-30T16:47:09.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "OpenAI explains why ChatGPT developed a goblin fixation, and how it solved the issue",
+      "url": "https://9to5mac.com/2026/04/30/openai-explains-why-chatgpt-developed-a-goblin-fixation-and-how-it-solved-the-issue/",
+      "pubDate": "2026-04-30T16:27:46.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Historic Apple Porsche colors return on Porsche 963 at Laguna Seca",
+      "url": "https://appleinsider.com/articles/26/04/30/historic-apple-porsche-colors-return-on-porsche-963-at-laguna-seca?utm_source=rss",
+      "pubDate": "2026-04-30T16:26:02.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Apple to announce Q2 fiscal results later today",
+      "url": "https://sixcolors.com/post/2026/04/apple-to-announce-q2-fiscal-results-later-today/",
+      "pubDate": "2026-04-30T15:56:15.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 26.4 improved Apple’s Health app, and bigger upgrades are coming soon",
+      "url": "https://9to5mac.com/2026/04/30/ios-26-4-improved-apples-health-app-and-bigger-upgrades-are-coming-soon/",
+      "pubDate": "2026-04-30T15:49:57.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "'AirPods Ultra' Rumored to Feature a Major Upgrade Over AirPods Pro",
+      "url": "https://www.macrumors.com/2026/04/30/airpods-ultra-major-upgrade-rumor/",
+      "pubDate": "2026-04-30T15:40:58.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Deals: M5 MacBook Air up to $219 off, iPad Air $300 off, 24GB M5 MacBook Pro, Apple Watch Series 11 $160 off, more",
+      "url": "https://9to5mac.com/2026/04/30/deals-m5-macbook-air-ipad-air-apple-watch-series-11/",
+      "pubDate": "2026-04-30T15:30:49.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Leads Global Market for Satellite-Connected Smartphones",
+      "url": "https://www.macrumors.com/2026/04/30/apple-leads-market-for-satellite-smartphones/",
+      "pubDate": "2026-04-30T15:28:04.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -157,13 +213,6 @@
       "pubDate": "2026-04-29T21:34:07.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Home recently got better in three ways, here’s what’s new",
-      "url": "https://9to5mac.com/2026/04/29/apple-home-recently-got-better-in-three-ways-heres-whats-new/",
-      "pubDate": "2026-04-29T20:30:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple's AI Smart Glasses Likely to Support Hand Gesture Controls",
@@ -178,25 +227,11 @@
       "pubDate": "2026-04-29T20:22:16.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Report: Apple leads satellite smartphone market as adoption hinges on broader use cases",
-      "url": "https://9to5mac.com/2026/04/29/report-apple-leads-satellite-smartphone-market-as-adoption-hinges-on-broader-use-cases/",
-      "pubDate": "2026-04-29T20:13:51.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) Clockwise 654: I Love the Clanker Slang",
       "url": "https://sixcolors.com/podcast/2026/04/clockwise-654-i-love-the-clanker-slang/",
       "pubDate": "2026-04-29T20:06:24.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "YouTube starts rolling out free picture-in-picture (PiP) globally on Android, iOS",
-      "url": "https://9to5google.com/2026/04/29/youtube-free-pip-global/",
-      "pubDate": "2026-04-29T19:39:01.000Z"
     },
     {
       "source": "MacRumors",
@@ -262,39 +297,11 @@
       "pubDate": "2026-04-29T13:43:03.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Get Up to $100 Off the M4 iPad Air on Amazon",
-      "url": "https://www.macrumors.com/2026/04/29/100-off-the-m4-ipad-air-on-amazon/",
-      "pubDate": "2026-04-29T13:42:34.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Apple’s biggest win last week might be promoting Johny Srouji (Macworld/Jason Snell)",
       "url": "https://www.macworld.com/article/3126723",
       "pubDate": "2026-04-29T13:00:43.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "John Ternus' first major challenge is dealing with quadrupled iPhone memory prices",
-      "url": "https://appleinsider.com/articles/26/04/29/john-ternus-first-major-challenge-is-dealing-with-quadrupled-iphone-memory-prices?utm_source=rss",
-      "pubDate": "2026-04-29T12:22:08.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Epic Games Wins Reversal of Stay in App Store Fee Legal Battle",
-      "url": "https://www.macrumors.com/2026/04/29/epic-games-wins-reversal-app-store-fee-battle/",
-      "pubDate": "2026-04-29T12:05:50.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Report: iPhone Memory Costs Set to Quadruple by 2027",
-      "url": "https://www.macrumors.com/2026/04/29/iphone-memory-costs-quadruple-2027/",
-      "pubDate": "2026-04-29T10:14:10.000Z"
     },
     {
       "source": "Six Colors",
@@ -344,13 +351,6 @@
       "title": "I’m switching back from Spotlight, at least for now",
       "url": "https://sixcolors.com/post/2026/04/im-switching-back-from-spotlight-at-least-for-now/",
       "pubDate": "2026-04-22T15:53:34.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) The Rebound 595: Crapped On Their Own Legacy",
-      "url": "https://sixcolors.com/podcast/2026/04/the-rebound-595-crapped-on-their-own-legacy/",
-      "pubDate": "2026-04-22T14:00:00.000Z"
     },
     {
       "source": "AppleInsider",
