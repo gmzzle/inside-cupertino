@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-29T22:12:26.304Z",
+  "generatedAt": "2026-04-30T00:10:13.175Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,48 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "YouTube Bringing Free Picture-in-Picture to iPhone Users Outside the U.S.",
+      "url": "https://www.macrumors.com/2026/04/29/youtube-picture-in-picture-expands/",
+      "pubDate": "2026-04-30T00:01:14.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Iodyne Pro Data 24TB review: $15K, ridiculous speed, and probably not for you",
+      "url": "https://appleinsider.com/articles/26/04/29/iodyne-pro-data-24tb-review-15k-ridiculous-speed-and-probably-not-for-you?utm_source=rss",
+      "pubDate": "2026-04-29T23:52:34.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Divine, a Jack Dorsey-backed revival of Vine, is now available on the App Store",
+      "url": "https://9to5mac.com/2026/04/29/divine-a-jack-dorsey-backed-revival-of-vine-is-now-available-on-the-app-store/",
+      "pubDate": "2026-04-29T23:44:20.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Google Photos to Get AI 'Wardrobe' Feature",
+      "url": "https://www.macrumors.com/2026/04/29/google-photos-ai-wardrobe/",
+      "pubDate": "2026-04-29T22:50:51.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple researchers built an AI that tests several ideas in parallel before answering",
+      "url": "https://9to5mac.com/2026/04/29/apple-researchers-built-an-ai-that-tests-several-ideas-in-parallel-before-answering/",
+      "pubDate": "2026-04-29T22:43:39.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple smart glasses again rumored to support gesture recognition via built-in cameras",
+      "url": "https://appleinsider.com/articles/26/04/29/apple-smart-glasses-again-rumored-to-support-gesture-recognition-via-built-in-cameras?utm_source=rss",
+      "pubDate": "2026-04-29T22:33:18.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -157,13 +199,6 @@
       "pubDate": "2026-04-29T15:44:55.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: M5 MacBook Air $219 off, 1TB M5 Pro MacBook Pro best price ever, iPad Air new low, AirTag, iPhone Air, more",
-      "url": "https://9to5mac.com/2026/04/29/deals-macbook-air-m5-pro-macbook-pro-ipad-air-airtag/",
-      "pubDate": "2026-04-29T15:31:08.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Reportedly Questioning Whether iPhone Should Drop MagSafe",
@@ -176,13 +211,6 @@
       "title": "Today is the last day to save $250 on Apple's new M5 Pro MacBook Pro, best price ever",
       "url": "https://appleinsider.com/articles/26/04/29/today-is-the-last-day-to-save-250-on-apples-new-m5-pro-macbook-pro-best-price-ever?utm_source=rss",
       "pubDate": "2026-04-29T14:40:48.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "watchOS 26 added Notes app to Apple Watch, here’s how I’m using it",
-      "url": "https://9to5mac.com/2026/04/29/watchos-26-added-notes-app-to-apple-watch-heres-how-im-using-it/",
-      "pubDate": "2026-04-29T14:29:34.000Z"
     },
     {
       "source": "Six Colors",
@@ -260,34 +288,6 @@
       "title": "Apple Pay for Transit Now Works in These 12 U.S. Cities",
       "url": "https://www.macrumors.com/2026/04/28/apple-pay-transit-us-cities/",
       "pubDate": "2026-04-28T22:50:45.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Claude Gains Integrations With Adobe, Blender, SketchUp and Other Creative Apps",
-      "url": "https://www.macrumors.com/2026/04/28/claude-creative-tool-connectors/",
-      "pubDate": "2026-04-28T21:41:32.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple Vision Pro used for hundreds of cataract surgeries in the last year",
-      "url": "https://appleinsider.com/articles/26/04/28/apple-vision-pro-used-for-hundreds-of-cataract-surgeries-in-the-last-year?utm_source=rss",
-      "pubDate": "2026-04-28T21:10:06.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "YouTube Tests AI-Powered 'Ask YouTube' Conversational Search Feature",
-      "url": "https://www.macrumors.com/2026/04/28/ask-youtube-search-feature/",
-      "pubDate": "2026-04-28T20:12:16.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple is gearing up to overhaul the Photos app with AI tools in iOS 27",
-      "url": "https://appleinsider.com/articles/26/04/28/apple-is-gearing-up-to-overhaul-the-photos-app-with-ai-tools-in-ios-27?utm_source=rss",
-      "pubDate": "2026-04-28T19:08:07.000Z"
     },
     {
       "source": "Six Colors",
