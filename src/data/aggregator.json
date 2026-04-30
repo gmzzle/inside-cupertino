@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T22:11:04.075Z",
+  "generatedAt": "2026-04-30T23:11:56.148Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's Q2 2026 Earnings Call: 11 Key Takeaways",
+      "url": "https://www.macrumors.com/2026/04/30/apple-q2-2026-earnings-call/",
+      "pubDate": "2026-04-30T22:39:20.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple to seek tariff refunds, plans to reinvest money in U.S. manufacturing",
+      "url": "https://9to5mac.com/2026/04/30/apple-to-seek-tariff-refunds-plans-to-reinvest-money-in-u-s-manufacturing/",
+      "pubDate": "2026-04-30T22:28:52.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: April 30, 2026 – OpenAI smartphone, more",
+      "url": "https://9to5mac.com/2026/04/30/9to5mac-daily-april-30-2026/",
+      "pubDate": "2026-04-30T22:26:52.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Any tariff refund Apple gets will be reinvested into US manufacturing",
+      "url": "https://appleinsider.com/articles/26/04/30/any-tariff-refund-apple-gets-will-be-reinvested-into-us-manufacturing?utm_source=rss",
+      "pubDate": "2026-04-30T22:18:32.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -89,7 +117,7 @@
     {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
-      "title": "This is Tim (and John and Kevin): Transcript of Apple’s Q2 2026 financial call",
+      "title": "This is Tim (and John and Kevan): Complete transcript of Apple’s Q2 2026 financial call",
       "url": "https://sixcolors.com/post/2026/04/this-is-tim-and-john-and-kevin-transcript-of-apples-q2-2026-financial-call/",
       "pubDate": "2026-04-30T21:24:19.000Z"
     },
@@ -199,25 +227,11 @@
       "pubDate": "2026-04-30T18:47:18.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple just released new AirPods Pro 3 firmware update",
-      "url": "https://9to5mac.com/2026/04/30/apple-just-released-new-airpods-pro-3-firmware-update/",
-      "pubDate": "2026-04-30T18:18:57.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Grab Apple's M5 MacBook Air with 32GB RAM for $1,399, plus save on every model",
       "url": "https://appleinsider.com/articles/26/04/30/grab-apples-m5-macbook-air-with-32gb-ram-for-1399-plus-save-on-every-model?utm_source=rss",
       "pubDate": "2026-04-30T18:05:28.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple TV has three fan-favorite sci-fi shows returning this summer",
-      "url": "https://9to5mac.com/2026/04/30/apple-tv-has-three-fan-favorite-sci-fi-shows-returning-this-summer/",
-      "pubDate": "2026-04-30T17:58:31.000Z"
     },
     {
       "source": "MacRumors",
@@ -290,13 +304,6 @@
       "pubDate": "2026-04-30T14:16:23.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Watch Series 11 Hits $100 Off Nearly Every GPS Aluminum Model, Plus $130 Off Cellular",
-      "url": "https://www.macrumors.com/2026/04/30/apple-watch-series-11-100-off-5/",
-      "pubDate": "2026-04-30T14:11:51.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "The Vision Pro: Not quite dead yet",
@@ -351,13 +358,6 @@
       "title": "Exploring the wide range of Find My-compatible devices",
       "url": "https://sixcolors.com/post/2026/04/find-my-diversifies-as-hardware-makers-go-for-baroque/",
       "pubDate": "2026-04-27T14:45:42.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "How to use Apple Intelligence in Shortcuts to save time every day",
-      "url": "https://appleinsider.com/inside/ios-26/tips/how-to-use-apple-intelligence-in-shortcuts-to-save-time-every-day?utm_source=rss",
-      "pubDate": "2025-10-14T03:13:47.000Z"
     }
   ]
 }
