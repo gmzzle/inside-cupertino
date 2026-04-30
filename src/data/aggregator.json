@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T00:10:13.175Z",
+  "generatedAt": "2026-04-30T04:05:42.697Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple China highlights Apple Watch health and rescue stories in campaign with podcast tie-in",
+      "url": "https://9to5mac.com/2026/04/29/apple-china-highlights-apple-watch-health-and-rescue-stories-in-campaign-with-podcast-tie-in/",
+      "pubDate": "2026-04-30T02:15:48.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -192,13 +199,6 @@
       "pubDate": "2026-04-29T15:59:33.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone 18 Pro vs iPhone Ultra: Three features to win your upgrade",
-      "url": "https://9to5mac.com/2026/04/29/iphone-18-pro-vs-iphone-ultra-three-features-to-win-your-upgrade/",
-      "pubDate": "2026-04-29T15:44:55.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Reportedly Questioning Whether iPhone Should Drop MagSafe",
@@ -276,13 +276,6 @@
       "pubDate": "2026-04-29T00:05:11.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Three Apple TV series land six Gotham Television Award nominations",
-      "url": "https://appleinsider.com/articles/26/04/28/three-apple-tv-series-land-six-gotham-television-award-nominations?utm_source=rss",
-      "pubDate": "2026-04-28T22:51:11.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Pay for Transit Now Works in These 12 U.S. Cities",
@@ -358,6 +351,13 @@
       "title": "How to import and export Markdown with Apple Notes in iOS 26",
       "url": "https://appleinsider.com/inside/ios-26/tips/how-to-import-and-export-markdown-with-apple-notes-in-ios-26?utm_source=rss",
       "pubDate": "2026-01-13T04:01:04.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "How to use Apple Intelligence in Shortcuts to save time every day",
+      "url": "https://appleinsider.com/inside/ios-26/tips/how-to-use-apple-intelligence-in-shortcuts-to-save-time-every-day?utm_source=rss",
+      "pubDate": "2025-10-14T03:13:47.000Z"
     }
   ]
 }
