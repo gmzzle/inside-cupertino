@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T09:58:30.698Z",
+  "generatedAt": "2026-05-01T15:17:17.690Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,90 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Tim Cook explains iPhone 17’s success, 99% customer satisfaction",
+      "url": "https://9to5mac.com/2026/05/01/tim-cook-explains-iphone-17s-success-99-customer-satisfaction/",
+      "pubDate": "2026-05-01T14:58:23.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "What the analysts said about Apple's record-breaking second quarter",
+      "url": "https://appleinsider.com/articles/26/05/01/what-the-analysts-said-about-apples-record-breaking-second-quarter?utm_source=rss",
+      "pubDate": "2026-05-01T14:53:28.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple Vision Pro isn't dead, Ternus talk, & AI rumors on the AppleInsider Podcast",
+      "url": "https://appleinsider.com/articles/26/05/01/apple-vision-pro-isnt-dead-ternus-talk-ai-rumors-on-the-appleinsider-podcast?utm_source=rss",
+      "pubDate": "2026-05-01T14:38:35.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "MacBook Neo starts May with delivery dates stretching to month’s end",
+      "url": "https://9to5mac.com/2026/05/01/macbook-neo-starts-may-with-delivery-dates-stretching-to-months-end/",
+      "pubDate": "2026-05-01T14:35:30.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone Air's Poor Sales Spook Rivals Into Ditching Ultra-Thin Phone Plans",
+      "url": "https://www.macrumors.com/2026/05/01/iphone-air-sales-spook-rivals-into-ditching-plans/",
+      "pubDate": "2026-05-01T14:34:47.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Tim Cook's remarks strongly suggest that there are no new Macs or iPads before September",
+      "url": "https://appleinsider.com/articles/26/05/01/tim-cooks-remarks-strongly-suggest-that-there-are-no-new-macs-or-ipads-before-september?utm_source=rss",
+      "pubDate": "2026-05-01T14:32:12.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple just strongly hinted that one rumored product isn’t launching soon",
+      "url": "https://9to5mac.com/2026/05/01/apple-just-strongly-hinted-that-one-rumored-product-isnt-launching-soon/",
+      "pubDate": "2026-05-01T14:13:58.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Fortnite returns to iPhone in Japan with Epic Games Store launch, still unavailable on Mac",
+      "url": "https://9to5mac.com/2026/05/01/fortnite-returns-to-iphone-in-japan-with-epic-games-store-launch-still-unavailable-on-mac/",
+      "pubDate": "2026-05-01T13:59:47.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "MacRumors 2026 Blood Drive",
+      "url": "https://www.macrumors.com/2026/05/01/macrumors-2026-blood-drive/",
+      "pubDate": "2026-05-01T13:30:58.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Here’s everything new Apple TV has coming in May",
+      "url": "https://9to5mac.com/2026/05/01/heres-everything-new-apple-tv-has-coming-in-may-2026/",
+      "pubDate": "2026-05-01T13:02:09.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Indian antitrust body draws Apple's ire as $38 billion fine looms",
+      "url": "https://appleinsider.com/articles/26/05/01/indian-antitrust-body-draws-apples-ire-as-38-billion-fine-looms?utm_source=rss",
+      "pubDate": "2026-05-01T12:51:15.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple at 50: Steve Jobs, the first star CEO",
+      "url": "https://appleinsider.com/articles/26/05/01/apple-at-50-steve-jobs-the-first-star-ceo?utm_source=rss",
+      "pubDate": "2026-05-01T11:38:32.000Z"
+    },
     {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
@@ -143,13 +227,6 @@
       "pubDate": "2026-04-30T21:24:19.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "John Ternus joins Apple’s Q2 2026 earnings call, touts ‘incredible roadmap ahead’",
-      "url": "https://9to5mac.com/2026/04/30/john-ternus-joins-apples-q2-2026-earnings-call-touts-incredible-roadmap-ahead/",
-      "pubDate": "2026-04-30T21:20:49.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "China demand hinges on good products that resonate with customers, Cook says",
@@ -171,20 +248,6 @@
       "pubDate": "2026-04-30T21:01:43.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple says iPhone 17 lineup is officially the ‘most popular’ in its history",
-      "url": "https://9to5mac.com/2026/04/30/apple-says-iphone-17-lineup-is-officially-the-most-popular-in-its-history/",
-      "pubDate": "2026-04-30T20:59:38.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Tim Cook says iPhone 17 demand is ‘off the charts’, but supply constraints impacted sales",
-      "url": "https://9to5mac.com/2026/04/30/tim-cook-iphone-demand-off-the-charts/",
-      "pubDate": "2026-04-30T20:46:03.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Reports Record-Breaking 2Q 2026 Results: $29.6B Profit on $111.2B Revenue",
@@ -197,20 +260,6 @@
       "title": "Apple announces record fiscal second quarter",
       "url": "https://sixcolors.com/post/2026/04/apple-announces-record-fiscal-second-quarter/",
       "pubDate": "2026-04-30T20:38:02.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple reports Q2 2026 earnings: $111.2 billion in revenue, up 17% [Charts]",
-      "url": "https://9to5mac.com/2026/04/30/apple-reports-q2-2026-earnings-111-2-billion-in-revenue-up-17/",
-      "pubDate": "2026-04-30T20:34:45.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 to bring AI inside the Camera app, Tim Cook’s biggest mistake, iPhone shutdown problem",
-      "url": "https://9to5mac.com/2026/04/30/happy-hour-588/",
-      "pubDate": "2026-04-30T20:26:07.000Z"
     },
     {
       "source": "MacRumors",
@@ -232,13 +281,6 @@
       "title": "Apple Releases New Firmware for AirPods Pro 3",
       "url": "https://www.macrumors.com/2026/04/30/airpods-pro-3-firmware-8b40/",
       "pubDate": "2026-04-30T18:47:18.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Grab Apple's M5 MacBook Air with 32GB RAM for $1,399, plus save on every model",
-      "url": "https://appleinsider.com/articles/26/04/30/grab-apples-m5-macbook-air-with-32gb-ram-for-1399-plus-save-on-every-model?utm_source=rss",
-      "pubDate": "2026-04-30T18:05:28.000Z"
     },
     {
       "source": "MacRumors",
@@ -269,13 +311,6 @@
       "pubDate": "2026-04-30T16:47:09.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Historic Apple Porsche colors return on Porsche 963 at Laguna Seca",
-      "url": "https://appleinsider.com/articles/26/04/30/historic-apple-porsche-colors-return-on-porsche-963-at-laguna-seca?utm_source=rss",
-      "pubDate": "2026-04-30T16:26:02.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Apple to announce Q2 fiscal results later today",
@@ -283,46 +318,11 @@
       "pubDate": "2026-04-30T15:56:15.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "'AirPods Ultra' Rumored to Feature a Major Upgrade Over AirPods Pro",
-      "url": "https://www.macrumors.com/2026/04/30/airpods-ultra-major-upgrade-rumor/",
-      "pubDate": "2026-04-30T15:40:58.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Leads Global Market for Satellite-Connected Smartphones",
-      "url": "https://www.macrumors.com/2026/04/30/apple-leads-market-for-satellite-smartphones/",
-      "pubDate": "2026-04-30T15:28:04.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Timeline of Artemis II photos shows how astronauts captured life inside Orion",
-      "url": "https://appleinsider.com/articles/26/04/30/timeline-of-artemis-ii-photos-shows-how-astronauts-captured-life-inside-orion?utm_source=rss",
-      "pubDate": "2026-04-30T14:21:24.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "'Tetris' falls into place on Retrocade for the Apple Vision Pro",
-      "url": "https://appleinsider.com/articles/26/04/30/tetris-falls-into-place-on-retrocade-for-the-apple-vision-pro?utm_source=rss",
-      "pubDate": "2026-04-30T14:16:23.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "The Vision Pro: Not quite dead yet",
       "url": "https://sixcolors.com/post/2026/04/the-vision-pro-not-quite-dead-yet/",
       "pubDate": "2026-04-30T13:53:26.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iOS 27 will offer a range of AI features that can still be ignored",
-      "url": "https://appleinsider.com/articles/26/04/30/ios-27-will-offer-a-range-of-ai-features-that-can-still-be-ignored?utm_source=rss",
-      "pubDate": "2026-04-30T11:24:42.000Z"
     },
     {
       "source": "Six Colors",
