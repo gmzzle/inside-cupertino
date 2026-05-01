@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T18:15:27.229Z",
+  "generatedAt": "2026-05-01T20:12:24.137Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,11 +24,60 @@
   ],
   "items": [
     {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "AirPods Max 2 one-month review: Spot the difference?",
+      "url": "https://appleinsider.com/articles/26/05/01/airpods-max-2-one-month-review-spot-the-difference?utm_source=rss",
+      "pubDate": "2026-05-01T20:07:33.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Mac mini pricing shifts, $599 config disappears from Apple store",
+      "url": "https://appleinsider.com/articles/26/05/01/mac-mini-pricing-shifts-599-config-disappears-from-apple-store?utm_source=rss",
+      "pubDate": "2026-05-01T20:01:57.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 26’s new Phone app won me over with two excellent features",
+      "url": "https://9to5mac.com/2026/05/01/ios-26s-new-phone-app-won-me-over-with-two-excellent-features/",
+      "pubDate": "2026-05-01T19:45:20.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple discontinues base Mac mini, now starts at $799 with 512GB storage",
+      "url": "https://9to5mac.com/2026/05/01/apple-discontinues-base-mac-mini-now-starts-at-799-with-512gb-storage/",
+      "pubDate": "2026-05-01T18:51:44.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Stops Selling Mac Mini With 256GB of Storage, Starting Price Rises to $799",
+      "url": "https://www.macrumors.com/2026/05/01/mac-mini-now-starts-at-799/",
+      "pubDate": "2026-05-01T18:29:08.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Here’s everything Apple has coming this May, and what not to expect",
+      "url": "https://9to5mac.com/2026/05/01/heres-everything-apple-has-coming-this-may-and-what-not-to-expect/",
+      "pubDate": "2026-05-01T18:19:32.000Z"
+    },
+    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "HomeKit Weekly: A look into the first Matter certified camera from Aqara",
       "url": "https://9to5mac.com/2026/05/01/aqara-camera-hub-g350/",
       "pubDate": "2026-05-01T18:15:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone-controlled Anthbot M9 robot lawn mower has replaced cutting grass for me",
+      "url": "https://9to5mac.com/2026/05/01/iphone-controlled-anthbot-m9-robot-lawn-mower-has-replaced-cutting-grass-for-me/",
+      "pubDate": "2026-05-01T18:00:00.000Z"
     },
     {
       "source": "Six Colors",
@@ -164,13 +213,6 @@
       "pubDate": "2026-05-01T14:38:35.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "MacBook Neo starts May with delivery dates stretching to month’s end",
-      "url": "https://9to5mac.com/2026/05/01/macbook-neo-starts-may-with-delivery-dates-stretching-to-months-end/",
-      "pubDate": "2026-05-01T14:35:30.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iPhone Air's Poor Sales Spook Rivals Into Ditching Ultra-Thin Phone Plans",
@@ -185,32 +227,11 @@
       "pubDate": "2026-05-01T14:32:12.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple just strongly hinted that one rumored product isn’t launching soon",
-      "url": "https://9to5mac.com/2026/05/01/apple-just-strongly-hinted-that-one-rumored-product-isnt-launching-soon/",
-      "pubDate": "2026-05-01T14:13:58.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Fortnite returns to iPhone in Japan with Epic Games Store launch, still unavailable on Mac",
-      "url": "https://9to5mac.com/2026/05/01/fortnite-returns-to-iphone-in-japan-with-epic-games-store-launch-still-unavailable-on-mac/",
-      "pubDate": "2026-05-01T13:59:47.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "MacRumors 2026 Blood Drive",
       "url": "https://www.macrumors.com/2026/05/01/macrumors-2026-blood-drive/",
       "pubDate": "2026-05-01T13:30:58.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Here’s everything new Apple TV has coming in May",
-      "url": "https://9to5mac.com/2026/05/01/heres-everything-new-apple-tv-has-coming-in-may-2026/",
-      "pubDate": "2026-05-01T13:02:09.000Z"
     },
     {
       "source": "AppleInsider",
@@ -269,13 +290,6 @@
       "pubDate": "2026-04-30T21:59:58.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Mac mini & Mac Studio supply won't recover for several months",
-      "url": "https://appleinsider.com/articles/26/04/30/mac-lineup-is-doing-so-well-that-apple-cant-keep-up-with-demand?utm_source=rss",
-      "pubDate": "2026-04-30T21:51:47.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Expects 'Significantly Higher Memory Costs' in June Quarter and Beyond",
@@ -290,25 +304,11 @@
       "pubDate": "2026-04-30T21:24:19.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "China demand hinges on good products that resonate with customers, Cook says",
-      "url": "https://appleinsider.com/articles/26/04/30/china-demand-hinges-on-good-products-that-resonate-with-customers-cook-says?utm_source=rss",
-      "pubDate": "2026-04-30T21:06:16.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iPhone 17 Is Apple's Most Popular Lineup Ever",
       "url": "https://www.macrumors.com/2026/04/30/iphone-17-is-apples-most-popular-lineup-ever/",
       "pubDate": "2026-04-30T21:01:51.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Reports Record-Breaking 2Q 2026 Results: $29.6B Profit on $111.2B Revenue",
-      "url": "https://www.macrumors.com/2026/04/30/apple-2q-2026-earnings/",
-      "pubDate": "2026-04-30T20:38:40.000Z"
     },
     {
       "source": "Six Colors",
