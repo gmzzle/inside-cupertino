@@ -2,7 +2,7 @@
 title: "Tim Cook's Last Victory Lap Was a Quiet One"
 description: "Apple's Q2 results beat expectations, but the real story is what Cook's final earnings call says about where the company's actually headed."
 pubDate: 2026-05-01T06:15:53.219Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - tim-cook
