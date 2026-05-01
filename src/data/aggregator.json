@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T21:09:55.871Z",
+  "generatedAt": "2026-05-01T22:07:17.441Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Miami GP: Cue talks F1 movie sequel, streaming rights expansion, Ternus’s love for racing",
+      "url": "https://9to5mac.com/2026/05/01/miami-gp-cue-talks-f1-movie-sequel-streaming-rights-expansion-ternuss-love-for-racing/",
+      "pubDate": "2026-05-01T21:51:47.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Faces Dozens of Lawsuits Over AirTag Stalking After Class Action Denied",
+      "url": "https://www.macrumors.com/2026/05/01/airtag-stalking-lawsuits-apple/",
+      "pubDate": "2026-05-01T21:39:59.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -199,13 +213,6 @@
       "pubDate": "2026-05-01T16:06:04.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple plans ‘aggressive pricing’ for iPhone 18 Pro models, per report",
-      "url": "https://9to5mac.com/2026/05/01/apple-plans-aggressive-pricing-for-iphone-18-pro-models-per-report/",
-      "pubDate": "2026-05-01T15:51:19.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Here's When to Expect an iPad 12 With Apple Intelligence",
@@ -302,13 +309,6 @@
       "title": "Apple Says Mac Studio and Mac Mini Will Be in Short Supply for Months",
       "url": "https://www.macrumors.com/2026/04/30/mac-studio-mac-mini-constrained-months/",
       "pubDate": "2026-04-30T21:59:58.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Expects 'Significantly Higher Memory Costs' in June Quarter and Beyond",
-      "url": "https://www.macrumors.com/2026/04/30/apple-memory-costs-significantly-higher/",
-      "pubDate": "2026-04-30T21:48:39.000Z"
     },
     {
       "source": "Six Colors",
