@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T15:17:17.690Z",
+  "generatedAt": "2026-05-01T17:14:50.228Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,83 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "MacRumors Giveaway: Win a Mac Mini to Run AI Agents With Astropad's 'Workbench' App",
+      "url": "https://www.macrumors.com/2026/05/01/macrumors-giveaway-astropad-mac-mini/",
+      "pubDate": "2026-05-01T17:09:53.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple shares new AirPods findings from Hearing Study",
+      "url": "https://9to5mac.com/2026/05/01/apple-shares-new-airpods-findings-from-hearing-study/",
+      "pubDate": "2026-05-01T16:52:04.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Here's what using a touchscreen Mac may be like",
+      "url": "https://appleinsider.com/articles/26/05/01/heres-what-using-a-touchscreen-mac-may-be-like?utm_source=rss",
+      "pubDate": "2026-05-01T16:34:41.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: May 1, 2026 – Apple reports Q2 earnings",
+      "url": "https://9to5mac.com/2026/05/01/daily-may-1-2026/",
+      "pubDate": "2026-05-01T16:34:30.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Next year’s iPhone Pro models could get all-new design, quad-curved display",
+      "url": "https://9to5mac.com/2026/05/01/next-years-iphone-pro-models-could-get-all-new-design-quad-curved-display/",
+      "pubDate": "2026-05-01T16:17:09.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Price war: Apple's 1TB M5 MacBook Pro with 24GB RAM plunges to $1,699",
+      "url": "https://appleinsider.com/articles/26/05/01/price-war-apples-1tb-m5-macbook-pro-with-24gb-ram-plunges-to-1699?utm_source=rss",
+      "pubDate": "2026-05-01T16:14:11.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "The MacRumors Show: Your Tech Questions Answered",
+      "url": "https://www.macrumors.com/2026/05/01/the-macrumors-show-your-tech-questions-answered/",
+      "pubDate": "2026-05-01T16:07:37.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Was Caught Off Guard by MacBook Neo's 'Off the Charts' Demand",
+      "url": "https://www.macrumors.com/2026/05/01/apple-was-caught-off-guard-by-macbook-neo/",
+      "pubDate": "2026-05-01T16:06:04.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple plans ‘aggressive pricing’ for iPhone 18 Pro models, per report",
+      "url": "https://9to5mac.com/2026/05/01/apple-plans-aggressive-pricing-for-iphone-18-pro-models-per-report/",
+      "pubDate": "2026-05-01T15:51:19.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Deals: Most affordable M5 Pro MacBook Pro $250 off, M5 Max $300 off, Apple Watch, Beats 240W cables $17, more",
+      "url": "https://9to5mac.com/2026/05/01/deals-m5-pro-max-macbook-apple-watch-beats-cables/",
+      "pubDate": "2026-05-01T15:35:58.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Here's When to Expect an iPad 12 With Apple Intelligence",
+      "url": "https://www.macrumors.com/2026/05/01/ipad-12-with-apple-intelligence-timing/",
+      "pubDate": "2026-05-01T15:21:29.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -136,20 +213,6 @@
       "pubDate": "2026-04-30T22:39:20.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple to seek tariff refunds, plans to reinvest money in U.S. manufacturing",
-      "url": "https://9to5mac.com/2026/04/30/apple-to-seek-tariff-refunds-plans-to-reinvest-money-in-u-s-manufacturing/",
-      "pubDate": "2026-04-30T22:28:52.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: April 30, 2026 – OpenAI smartphone, more",
-      "url": "https://9to5mac.com/2026/04/30/9to5mac-daily-april-30-2026/",
-      "pubDate": "2026-04-30T22:26:52.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Any tariff refund Apple gets will be reinvested into US manufacturing",
@@ -185,39 +248,11 @@
       "pubDate": "2026-04-30T21:51:47.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple shares June quarter guidance with 14% to 17% revenue growth outlook",
-      "url": "https://9to5mac.com/2026/04/30/apple-shares-june-quarter-guidance-with-14-to-17-revenue-growth-outlook/",
-      "pubDate": "2026-04-30T21:50:14.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Expects 'Significantly Higher Memory Costs' in June Quarter and Beyond",
       "url": "https://www.macrumors.com/2026/04/30/apple-memory-costs-significantly-higher/",
       "pubDate": "2026-04-30T21:48:39.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple says supply constraints for Mac mini and Mac Studio to persist for several months",
-      "url": "https://9to5mac.com/2026/04/30/apple-mac-mini-studio-supply-constraints/",
-      "pubDate": "2026-04-30T21:48:15.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple earnings crush Wall Street consensus again, Q2 record smashed",
-      "url": "https://appleinsider.com/articles/26/04/30/apple-earnings-crush-wall-street-consensus-again-q2-record-smashed?utm_source=rss",
-      "pubDate": "2026-04-30T21:36:50.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "OpenAI may be teasing its next iPhone app launch with these clues",
-      "url": "https://9to5mac.com/2026/04/30/openai-may-be-teasing-its-next-iphone-app-launch-with-these-clues/",
-      "pubDate": "2026-04-30T21:27:26.000Z"
     },
     {
       "source": "Six Colors",
@@ -239,13 +274,6 @@
       "title": "iPhone 17 Is Apple's Most Popular Lineup Ever",
       "url": "https://www.macrumors.com/2026/04/30/iphone-17-is-apples-most-popular-lineup-ever/",
       "pubDate": "2026-04-30T21:01:51.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Record quarter leads to new $100B share buyback, increased dividend",
-      "url": "https://appleinsider.com/articles/26/04/30/record-quarter-leads-to-new-100b-share-buyback-increased-dividend?utm_source=rss",
-      "pubDate": "2026-04-30T21:01:43.000Z"
     },
     {
       "source": "MacRumors",
@@ -276,39 +304,11 @@
       "pubDate": "2026-04-30T19:23:28.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Releases New Firmware for AirPods Pro 3",
-      "url": "https://www.macrumors.com/2026/04/30/airpods-pro-3-firmware-8b40/",
-      "pubDate": "2026-04-30T18:47:18.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Porsche Celebrates Apple's 50th Anniversary With Throwback Race Car Livery",
-      "url": "https://www.macrumors.com/2026/04/30/porsche-apple-50th-anniversary-livery/",
-      "pubDate": "2026-04-30T17:51:37.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Pay Users Can Get $20 Off Flowers for Mother's Day",
-      "url": "https://www.macrumors.com/2026/04/30/apple-pay-mothers-day-promo-2026/",
-      "pubDate": "2026-04-30T17:21:12.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Adobe out of Photoshop ↦",
       "url": "https://sixcolors.com/link/2026/04/adobe-out-of-photoshop/",
       "pubDate": "2026-04-30T16:56:05.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Some iPhone 17 Pro and iPhone Air Users Experiencing a Charging Issue",
-      "url": "https://www.macrumors.com/2026/04/30/iphone-17-pro-iphone-air-charging-issue/",
-      "pubDate": "2026-04-30T16:47:09.000Z"
     },
     {
       "source": "Six Colors",
