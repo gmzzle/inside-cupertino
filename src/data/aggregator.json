@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T22:07:17.441Z",
+  "generatedAt": "2026-05-01T23:09:34.375Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "WhatsApp working to bring Liquid Glass to the in-chat interface",
+      "url": "https://9to5mac.com/2026/05/01/whatsapp-working-to-bring-liquid-glass-to-the-in-chat-interface/",
+      "pubDate": "2026-05-01T22:45:01.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Why You Might Want to Wait to Buy a MacBook Pro",
+      "url": "https://www.macrumors.com/2026/05/01/macbook-ultra-rumor-recap/",
+      "pubDate": "2026-05-01T22:43:16.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -185,13 +199,6 @@
       "pubDate": "2026-05-01T16:34:30.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Next year’s iPhone Pro models could get all-new design, quad-curved display",
-      "url": "https://9to5mac.com/2026/05/01/next-years-iphone-pro-models-could-get-all-new-design-quad-curved-display/",
-      "pubDate": "2026-05-01T16:17:09.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Price war: Apple's 1TB M5 MacBook Pro with 24GB RAM plunges to $1,699",
@@ -302,13 +309,6 @@
       "title": "Apple's memory stockpile is holding for now, but price rises still loom",
       "url": "https://appleinsider.com/articles/26/04/30/apples-memory-stockpile-is-holding-for-now-but-price-rises-still-loom?utm_source=rss",
       "pubDate": "2026-04-30T22:03:51.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Says Mac Studio and Mac Mini Will Be in Short Supply for Months",
-      "url": "https://www.macrumors.com/2026/04/30/mac-studio-mac-mini-constrained-months/",
-      "pubDate": "2026-04-30T21:59:58.000Z"
     },
     {
       "source": "Six Colors",
