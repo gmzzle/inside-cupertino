@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T23:11:56.148Z",
+  "generatedAt": "2026-05-01T00:08:47.530Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple’s R&D spending hits new record as AI investment ramps up",
+      "url": "https://9to5mac.com/2026/04/30/apples-rd-spending-hits-new-record-as-ai-investment-ramps-up/",
+      "pubDate": "2026-04-30T23:35:08.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -211,13 +218,6 @@
       "title": "Porsche bleeds six colors ↦",
       "url": "https://sixcolors.com/link/2026/04/porsche-bleeds-six-colors/",
       "pubDate": "2026-04-30T19:23:28.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 26 upgraded one of Apple’s best Home Screen widgets in two ways",
-      "url": "https://9to5mac.com/2026/04/30/ios-26-upgraded-one-of-apples-best-home-screen-widgets-in-two-ways/",
-      "pubDate": "2026-04-30T18:53:00.000Z"
     },
     {
       "source": "MacRumors",
