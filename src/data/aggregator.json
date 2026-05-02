@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-02T12:00:32.494Z",
+  "generatedAt": "2026-05-02T15:06:16.425Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Mac mini is the best platform for Perplexity's Personal Computer",
+      "url": "https://appleinsider.com/articles/26/05/02/mac-mini-is-the-best-platform-for-perplexitys-personal-computer?utm_source=rss",
+      "pubDate": "2026-05-02T14:35:11.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Eddy Cue hopes for 'F1' movie sequel, increased streaming rights",
+      "url": "https://appleinsider.com/articles/26/05/02/eddy-cue-hopes-for-f1-movie-sequel-increased-streaming-rights?utm_source=rss",
+      "pubDate": "2026-05-02T13:59:43.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's 2026 MacBook Pro Hits New Record Low Prices on Amazon",
+      "url": "https://www.macrumors.com/2026/05/02/apples-2026-macbook-pro-low/",
+      "pubDate": "2026-05-02T13:47:33.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Top Stories: MacBook Ultra, Vision Pro, and iPhone Ultra Rumors",
+      "url": "https://www.macrumors.com/2026/05/02/top-stories-macbook-ultra-rumors/",
+      "pubDate": "2026-05-02T13:00:00.000Z"
+    },
     {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
@@ -262,13 +290,6 @@
       "pubDate": "2026-05-01T14:32:12.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "MacRumors 2026 Blood Drive",
-      "url": "https://www.macrumors.com/2026/05/01/macrumors-2026-blood-drive/",
-      "pubDate": "2026-05-01T13:30:58.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Indian antitrust body draws Apple's ire as $38 billion fine looms",
@@ -290,32 +311,11 @@
       "pubDate": "2026-05-01T01:53:23.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple's Q2 2026 Earnings Call: 11 Key Takeaways",
-      "url": "https://www.macrumors.com/2026/04/30/apple-q2-2026-earnings-call/",
-      "pubDate": "2026-04-30T22:39:20.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Any tariff refund Apple gets will be reinvested into US manufacturing",
       "url": "https://appleinsider.com/articles/26/04/30/any-tariff-refund-apple-gets-will-be-reinvested-into-us-manufacturing?utm_source=rss",
       "pubDate": "2026-04-30T22:18:32.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple is predicting up to a $110 billion fiscal third quarter 2026",
-      "url": "https://appleinsider.com/articles/26/04/30/apple-is-predicting-up-to-a-110-billion-fiscal-third-quarter-2026?utm_source=rss",
-      "pubDate": "2026-04-30T22:06:14.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple's memory stockpile is holding for now, but price rises still loom",
-      "url": "https://appleinsider.com/articles/26/04/30/apples-memory-stockpile-is-holding-for-now-but-price-rises-still-loom?utm_source=rss",
-      "pubDate": "2026-04-30T22:03:51.000Z"
     },
     {
       "source": "Six Colors",
