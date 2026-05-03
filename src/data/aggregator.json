@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T08:58:11.818Z",
+  "generatedAt": "2026-05-03T11:58:48.092Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Crime blotter: How the mastermind of U.K. iPhone thefts was caught",
+      "url": "https://appleinsider.com/articles/26/05/03/crime-blotter-how-the-mastermind-of-uk-iphone-thefts-was-caught?utm_source=rss",
+      "pubDate": "2026-05-03T11:08:24.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -288,13 +295,6 @@
       "title": "What the analysts said about Apple's record-breaking second quarter",
       "url": "https://appleinsider.com/articles/26/05/01/what-the-analysts-said-about-apples-record-breaking-second-quarter?utm_source=rss",
       "pubDate": "2026-05-01T14:53:28.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple Vision Pro isn't dead, Ternus talk, & AI rumors on the AppleInsider Podcast",
-      "url": "https://appleinsider.com/articles/26/05/01/apple-vision-pro-isnt-dead-ternus-talk-ai-rumors-on-the-appleinsider-podcast?utm_source=rss",
-      "pubDate": "2026-05-01T14:38:35.000Z"
     },
     {
       "source": "AppleInsider",
