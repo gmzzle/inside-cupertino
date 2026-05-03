@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T11:58:48.092Z",
+  "generatedAt": "2026-05-03T13:50:28.058Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Why you need a digital spring cleaning (and how Incogni makes it effortless)",
+      "url": "https://9to5mac.com/2026/05/03/why-you-need-digital-spring-cleaning-how-incogni-makes-effortless-sponsored/",
+      "pubDate": "2026-05-03T13:42:17.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -204,13 +211,6 @@
       "title": "iOS 26’s new Phone app won me over with two excellent features",
       "url": "https://9to5mac.com/2026/05/01/ios-26s-new-phone-app-won-me-over-with-two-excellent-features/",
       "pubDate": "2026-05-01T19:45:20.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple discontinues base Mac mini, now starts at $799 with 512GB storage",
-      "url": "https://9to5mac.com/2026/05/01/apple-discontinues-base-mac-mini-now-starts-at-799-with-512gb-storage/",
-      "pubDate": "2026-05-01T18:51:44.000Z"
     },
     {
       "source": "MacRumors",
