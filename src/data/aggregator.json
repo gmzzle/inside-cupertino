@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T13:50:28.058Z",
+  "generatedAt": "2026-05-03T15:06:55.960Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple Watch Ultra's Modular face is being simplified for watchOS 27",
+      "url": "https://appleinsider.com/articles/26/05/03/apple-watch-ultras-modular-face-is-being-simplified-for-watchos-27?utm_source=rss",
+      "pubDate": "2026-05-03T14:50:55.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "AirPods Max 2 Drop to New Low Price of $509.99 on Amazon",
+      "url": "https://www.macrumors.com/2026/05/03/airpods-max-2-new-low-509/",
+      "pubDate": "2026-05-03T14:10:12.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -283,13 +297,6 @@
       "pubDate": "2026-05-01T16:06:04.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Here's When to Expect an iPad 12 With Apple Intelligence",
-      "url": "https://www.macrumors.com/2026/05/01/ipad-12-with-apple-intelligence-timing/",
-      "pubDate": "2026-05-01T15:21:29.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "What the analysts said about Apple's record-breaking second quarter",
@@ -302,13 +309,6 @@
       "title": "Tim Cook's remarks strongly suggest that there are no new Macs or iPads before September",
       "url": "https://appleinsider.com/articles/26/05/01/tim-cooks-remarks-strongly-suggest-that-there-are-no-new-macs-or-ipads-before-september?utm_source=rss",
       "pubDate": "2026-05-01T14:32:12.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Indian antitrust body draws Apple's ire as $38 billion fine looms",
-      "url": "https://appleinsider.com/articles/26/05/01/indian-antitrust-body-draws-apples-ire-as-38-billion-fine-looms?utm_source=rss",
-      "pubDate": "2026-05-01T12:51:15.000Z"
     },
     {
       "source": "Six Colors",
