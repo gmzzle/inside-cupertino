@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T10:26:08.627Z",
+  "generatedAt": "2026-05-04T12:57:13.517Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "CarPlay Ultra coming to these cars, according to Apple",
+      "url": "https://9to5mac.com/2026/05/04/carplay-ultra-automakers/",
+      "pubDate": "2026-05-04T12:50:49.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "More than just RAM and SSD shortages are keeping Mac supplies low",
+      "url": "https://appleinsider.com/articles/26/05/04/more-than-just-ram-and-ssd-shortages-are-keeping-mac-supplies-low?utm_source=rss",
+      "pubDate": "2026-05-04T11:55:09.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -227,13 +241,6 @@
       "pubDate": "2026-05-01T20:01:57.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 26’s new Phone app won me over with two excellent features",
-      "url": "https://9to5mac.com/2026/05/01/ios-26s-new-phone-app-won-me-over-with-two-excellent-features/",
-      "pubDate": "2026-05-01T19:45:20.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Stops Selling Mac Mini With 256GB of Storage, Starting Price Rises to $799",
@@ -302,13 +309,6 @@
       "title": "Apple Was Caught Off Guard by MacBook Neo's 'Off the Charts' Demand",
       "url": "https://www.macrumors.com/2026/05/01/apple-was-caught-off-guard-by-macbook-neo/",
       "pubDate": "2026-05-01T16:06:04.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "What the analysts said about Apple's record-breaking second quarter",
-      "url": "https://appleinsider.com/articles/26/05/01/what-the-analysts-said-about-apples-record-breaking-second-quarter?utm_source=rss",
-      "pubDate": "2026-05-01T14:53:28.000Z"
     },
     {
       "source": "Six Colors",
