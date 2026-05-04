@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T17:52:29.423Z",
+  "generatedAt": "2026-05-04T19:55:59.230Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -26,6 +26,62 @@
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone 18 Pro: Six new features are coming later this year",
+      "url": "https://9to5mac.com/2026/05/04/iphone-18-pro-six-new-features-are-coming-later-this-year/",
+      "pubDate": "2026-05-04T19:52:10.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 26.5 RC sets up support for app sideloading in Brazil",
+      "url": "https://9to5mac.com/2026/05/04/ios-26-5-rc-sets-up-support-for-app-sideloading-in-brazil/",
+      "pubDate": "2026-05-04T19:49:58.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Don’t let your Mac’s storage fill up!",
+      "url": "https://sixcolors.com/post/2026/05/dont-let-your-macs-storage-fill-up/",
+      "pubDate": "2026-05-04T19:27:34.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 26.5 adds beautiful wallpapers for your iPhone, here’s what’s new",
+      "url": "https://9to5mac.com/2026/05/04/ios-26-5-adds-beautiful-wallpapers-for-your-iphone-heres-whats-new/",
+      "pubDate": "2026-05-04T18:33:57.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple Wallet will let you make your own passes in iOS 27",
+      "url": "https://appleinsider.com/articles/26/05/04/apple-wallet-will-let-you-make-your-own-passes-in-ios-27?utm_source=rss",
+      "pubDate": "2026-05-04T18:30:06.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iOS 26.5 Brings End-to-End Encryption to iPhone-Android RCS Messages",
+      "url": "https://www.macrumors.com/2026/05/04/ios-26-5-rcs-encryption/",
+      "pubDate": "2026-05-04T18:14:02.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iOS 27 Will Let You Create Custom Wallet Passes",
+      "url": "https://www.macrumors.com/2026/05/04/ios-27-custom-wallet-passes/",
+      "pubDate": "2026-05-04T18:01:57.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27: Apple Wallet adding new ‘Create a Pass’ feature, per report",
+      "url": "https://9to5mac.com/2026/05/04/ios-27-apple-wallet-adding-new-create-a-pass-feature-per-report/",
+      "pubDate": "2026-05-04T18:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
       "title": "Apple confirms iOS 26.5 Messages app adds RCS end-to-end encryption",
       "url": "https://9to5mac.com/2026/05/04/apple-confirms-ios-26-5-messages-app-adds-rcs-end-to-end-encryption/",
       "pubDate": "2026-05-04T17:41:28.000Z"
@@ -33,7 +89,7 @@
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
-      "title": "OpenAI releases a separate ChatGPT iOS app for schools and work organizations",
+      "title": "OpenAI releases a separate ChatGPT iOS app for enterprise users",
       "url": "https://9to5mac.com/2026/05/04/openai-releases-a-separate-chatgpt-ios-app-for-schools-and-work-organizations/",
       "pubDate": "2026-05-04T17:38:19.000Z"
     },
@@ -136,25 +192,11 @@
       "pubDate": "2026-05-04T15:30:16.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "MacBook Ultra could bring ‘Neo’ energy, but for the high-end",
-      "url": "https://9to5mac.com/2026/05/04/macbook-ultra-could-bring-neo-energy-but-for-the-high-end/",
-      "pubDate": "2026-05-04T15:20:44.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Testing common myths that might extend your MacBook battery life",
       "url": "https://appleinsider.com/articles/26/05/04/testing-common-myths-for-your-portable-mac-to-extend-your-battery-life?utm_source=rss",
       "pubDate": "2026-05-04T15:10:42.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "New iPhone redesign is coming next year, inspired by Liquid Glass: report",
-      "url": "https://9to5mac.com/2026/05/04/new-iphone-redesign-is-coming-next-year-inspired-by-liquid-glass-report/",
-      "pubDate": "2026-05-04T14:17:25.000Z"
     },
     {
       "source": "MacRumors",
@@ -176,20 +218,6 @@
       "title": "More than just RAM and SSD shortages are keeping Mac supplies low",
       "url": "https://appleinsider.com/articles/26/05/04/more-than-just-ram-and-ssd-shortages-are-keeping-mac-supplies-low?utm_source=rss",
       "pubDate": "2026-05-04T13:29:45.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 26.5’s new Pride wallpaper revealed, plus Apple Watch face",
-      "url": "https://9to5mac.com/2026/05/04/ios-26-5s-new-pride-wallpaper-revealed-plus-apple-watch-face/",
-      "pubDate": "2026-05-04T13:13:34.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple unveils Pride Edition Sport Loop for Apple Watch, order today",
-      "url": "https://9to5mac.com/2026/05/04/apple-unveils-pride-edition-sport-loop-for-apple-watch-order-today/",
-      "pubDate": "2026-05-04T13:08:17.000Z"
     },
     {
       "source": "MacRumors",
@@ -257,30 +285,9 @@
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
-      "title": "Mac mini is the best platform for Perplexity's Personal Computer",
-      "url": "https://appleinsider.com/articles/26/05/02/mac-mini-is-the-best-platform-for-perplexitys-personal-computer?utm_source=rss",
-      "pubDate": "2026-05-02T14:35:11.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
       "title": "Eddy Cue hopes for 'F1' movie sequel, increased streaming rights",
       "url": "https://appleinsider.com/articles/26/05/02/eddy-cue-hopes-for-f1-movie-sequel-increased-streaming-rights?utm_source=rss",
       "pubDate": "2026-05-02T13:59:43.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple's 2026 MacBook Pro Hits New Record Low Prices on Amazon",
-      "url": "https://www.macrumors.com/2026/05/02/apples-2026-macbook-pro-low/",
-      "pubDate": "2026-05-02T13:47:33.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Top Stories: MacBook Ultra, Vision Pro, and iPhone Ultra Rumors",
-      "url": "https://www.macrumors.com/2026/05/02/top-stories-macbook-ultra-rumors/",
-      "pubDate": "2026-05-02T13:00:00.000Z"
     },
     {
       "source": "Six Colors",
@@ -351,13 +358,6 @@
       "title": "Adobe out of Photoshop ↦",
       "url": "https://sixcolors.com/link/2026/04/adobe-out-of-photoshop/",
       "pubDate": "2026-04-30T16:56:05.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Apple to announce Q2 fiscal results later today",
-      "url": "https://sixcolors.com/post/2026/04/apple-to-announce-q2-fiscal-results-later-today/",
-      "pubDate": "2026-04-30T15:56:15.000Z"
     }
   ]
 }
