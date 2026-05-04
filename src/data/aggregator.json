@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T19:55:59.230Z",
+  "generatedAt": "2026-05-04T21:31:42.073Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,48 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "EU DMA after-action review didn't go the way that Apple wanted",
+      "url": "https://appleinsider.com/articles/26/05/04/eu-dma-after-action-review-didnt-go-the-way-that-apple-wanted?utm_source=rss",
+      "pubDate": "2026-05-04T20:59:37.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Report: iPhone 17 ranked as world’s top-selling smartphone in Q1 2026",
+      "url": "https://9to5mac.com/2026/05/04/report-iphone-17-ranked-as-worlds-top-selling-smartphone-in-q1-2026/",
+      "pubDate": "2026-05-04T20:33:29.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Hands-on: This charging station has quietly become a desk essential [Video]",
+      "url": "https://9to5mac.com/2026/05/04/hands-on-this-charging-station-has-quietly-become-a-desk-essential-video/",
+      "pubDate": "2026-05-04T20:26:59.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "MagSafe Monday: The ESR Geo Wallet Boost is the ultimate Find My accessory",
+      "url": "https://9to5mac.com/2026/05/04/esr-geo-wallet-boost/",
+      "pubDate": "2026-05-04T20:16:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Bridge more Apple Home & Matter devices with Homebridge 2.0",
+      "url": "https://appleinsider.com/articles/26/05/04/bridge-more-apple-home-matter-devices-with-homebridge-20?utm_source=rss",
+      "pubDate": "2026-05-04T20:15:10.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "T-Mobile Customers Can Now Use Satellite Connectivity in Canada and New Zealand",
+      "url": "https://www.macrumors.com/2026/05/04/t-mobile-satellite-canada-nz/",
+      "pubDate": "2026-05-04T20:09:08.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -122,13 +164,6 @@
       "pubDate": "2026-05-04T17:14:25.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple debuts RC for iPadOS 26.5, watchOS 26.5, and more",
-      "url": "https://9to5mac.com/2026/05/04/apple-debuts-rc-for-ipados-26-5-watchos-26-5-and-more/",
-      "pubDate": "2026-05-04T17:14:12.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "macOS Tahoe 26.5 Release Candidate Now Available",
@@ -148,13 +183,6 @@
       "title": "Apple Seeds watchOS 26.5, tvOS 26.5 and visionOS 26.5 Release Candidates",
       "url": "https://www.macrumors.com/2026/05/04/apple-seeds-watchos-26-5-rc/",
       "pubDate": "2026-05-04T17:11:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple releases iOS 26.5 RC",
-      "url": "https://9to5mac.com/2026/05/04/apple-releases-ios-26-5-rc/",
-      "pubDate": "2026-05-04T17:09:45.000Z"
     },
     {
       "source": "MacRumors",
@@ -183,13 +211,6 @@
       "title": "iOS 26.5 Coming Soon With These New Features",
       "url": "https://www.macrumors.com/2026/05/04/ios-26-5-coming-soon-with-these-new-features/",
       "pubDate": "2026-05-04T15:40:48.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: Entry M5 MacBook Air all-time low, AirPods Max 2, M3 iPad Air $300 off, Magic Mouse Amazon low, more",
-      "url": "https://9to5mac.com/2026/05/04/deals-entry-m5-macbook-air-airpods-max-2-magic-mouse/",
-      "pubDate": "2026-05-04T15:30:16.000Z"
     },
     {
       "source": "AppleInsider",
@@ -267,27 +288,6 @@
       "title": "May MacBook Pro deals deliver prices as low as $1,949 on M5 Pro & M5 Max models",
       "url": "https://appleinsider.com/articles/26/05/03/may-macbook-pro-deals-deliver-prices-as-low-as-1949-on-m5-pro-m5-max-models?utm_source=rss",
       "pubDate": "2026-05-03T03:32:32.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "DJI Osmo 360 review: A better action camera choice",
-      "url": "https://appleinsider.com/articles/26/05/02/dji-osmo-360-review-a-better-action-camera-choice?utm_source=rss",
-      "pubDate": "2026-05-02T21:34:41.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27 Will Add These New Features to Your iPhone",
-      "url": "https://www.macrumors.com/2026/05/02/ios-27-will-add-these-new-iphone-features/",
-      "pubDate": "2026-05-02T15:43:28.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Eddy Cue hopes for 'F1' movie sequel, increased streaming rights",
-      "url": "https://appleinsider.com/articles/26/05/02/eddy-cue-hopes-for-f1-movie-sequel-increased-streaming-rights?utm_source=rss",
-      "pubDate": "2026-05-02T13:59:43.000Z"
     },
     {
       "source": "Six Colors",
