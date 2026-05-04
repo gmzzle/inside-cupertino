@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T12:57:13.517Z",
+  "generatedAt": "2026-05-04T17:52:29.423Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -26,16 +26,184 @@
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
-      "title": "CarPlay Ultra coming to these cars, according to Apple",
-      "url": "https://9to5mac.com/2026/05/04/carplay-ultra-automakers/",
-      "pubDate": "2026-05-04T12:50:49.000Z"
+      "title": "Apple confirms iOS 26.5 Messages app adds RCS end-to-end encryption",
+      "url": "https://9to5mac.com/2026/05/04/apple-confirms-ios-26-5-messages-app-adds-rcs-end-to-end-encryption/",
+      "pubDate": "2026-05-04T17:41:28.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "OpenAI releases a separate ChatGPT iOS app for schools and work organizations",
+      "url": "https://9to5mac.com/2026/05/04/openai-releases-a-separate-chatgpt-ios-app-for-schools-and-work-organizations/",
+      "pubDate": "2026-05-04T17:38:19.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Release candidates of iOS 26.5, macOS Tahoe 26.5 are out now",
+      "url": "https://appleinsider.com/articles/26/05/04/release-candidates-of-ios-265-macos-tahoe-265-are-out-now?utm_source=rss",
+      "pubDate": "2026-05-04T17:31:51.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple highlights 3 enhancements coming to iPhone with iOS 26.5",
+      "url": "https://9to5mac.com/2026/05/04/apple-highlights-3-enhancements-coming-to-iphone-with-ios-26-5/",
+      "pubDate": "2026-05-04T17:22:18.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: May 4, 2026 – Mac mini changes, more",
+      "url": "https://9to5mac.com/2026/05/04/daily-may-4-2026/",
+      "pubDate": "2026-05-04T17:20:48.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple rolls out macOS 26.5 RC, here’s what’s coming",
+      "url": "https://9to5mac.com/2026/05/04/apple-rolls-out-macos-26-5-rc-heres-whats-coming/",
+      "pubDate": "2026-05-04T17:14:25.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple debuts RC for iPadOS 26.5, watchOS 26.5, and more",
+      "url": "https://9to5mac.com/2026/05/04/apple-debuts-rc-for-ipados-26-5-watchos-26-5-and-more/",
+      "pubDate": "2026-05-04T17:14:12.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "macOS Tahoe 26.5 Release Candidate Now Available",
+      "url": "https://www.macrumors.com/2026/05/04/macos-tahoe-26-4-rc/",
+      "pubDate": "2026-05-04T17:14:01.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Seeds iOS 26.5 and iPadOS 26.5 Release Candidates to Developers",
+      "url": "https://www.macrumors.com/2026/05/04/ios-26-5-rc/",
+      "pubDate": "2026-05-04T17:12:07.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Seeds watchOS 26.5, tvOS 26.5 and visionOS 26.5 Release Candidates",
+      "url": "https://www.macrumors.com/2026/05/04/apple-seeds-watchos-26-5-rc/",
+      "pubDate": "2026-05-04T17:11:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple releases iOS 26.5 RC",
+      "url": "https://9to5mac.com/2026/05/04/apple-releases-ios-26-5-rc/",
+      "pubDate": "2026-05-04T17:09:45.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Notepad++ Creator Calls Out 'Fake' Mac App Over Trademark Violation",
+      "url": "https://www.macrumors.com/2026/05/04/notepad-plus-plus-trademark-violation/",
+      "pubDate": "2026-05-04T16:46:54.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Sponsor) ZenStand: Walnut MagSafe Charger with Award-Winning Design",
+      "url": "https://sixcolors.com/feed-only/2026/05/zenstand-walnut-magsafe-charger-with-award-winning-design/",
+      "pubDate": "2026-05-04T16:00:26.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's M5 15-inch MacBook Air drops to record low $1,129 with coupon",
+      "url": "https://appleinsider.com/articles/26/05/04/apples-m5-15-inch-macbook-air-drops-to-record-low-1129-with-coupon?utm_source=rss",
+      "pubDate": "2026-05-04T15:47:40.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iOS 26.5 Coming Soon With These New Features",
+      "url": "https://www.macrumors.com/2026/05/04/ios-26-5-coming-soon-with-these-new-features/",
+      "pubDate": "2026-05-04T15:40:48.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Deals: Entry M5 MacBook Air all-time low, AirPods Max 2, M3 iPad Air $300 off, Magic Mouse Amazon low, more",
+      "url": "https://9to5mac.com/2026/05/04/deals-entry-m5-macbook-air-airpods-max-2-magic-mouse/",
+      "pubDate": "2026-05-04T15:30:16.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "MacBook Ultra could bring ‘Neo’ energy, but for the high-end",
+      "url": "https://9to5mac.com/2026/05/04/macbook-ultra-could-bring-neo-energy-but-for-the-high-end/",
+      "pubDate": "2026-05-04T15:20:44.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Testing common myths that might extend your MacBook battery life",
+      "url": "https://appleinsider.com/articles/26/05/04/testing-common-myths-for-your-portable-mac-to-extend-your-battery-life?utm_source=rss",
+      "pubDate": "2026-05-04T15:10:42.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "New iPhone redesign is coming next year, inspired by Liquid Glass: report",
+      "url": "https://9to5mac.com/2026/05/04/new-iphone-redesign-is-coming-next-year-inspired-by-liquid-glass-report/",
+      "pubDate": "2026-05-04T14:17:25.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "M4 iPad Air Hits New Low Prices on Amazon, Available From $519.99",
+      "url": "https://www.macrumors.com/2026/05/04/m4-ipad-air-hits-low-prices/",
+      "pubDate": "2026-05-04T13:52:33.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's 2026 Pride Collection includes 11-color weaved Sport Band",
+      "url": "https://appleinsider.com/articles/26/05/04/apples-2026-pride-collection-includes-11-color-weaved-sport-band?utm_source=rss",
+      "pubDate": "2026-05-04T13:39:22.000Z"
     },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "More than just RAM and SSD shortages are keeping Mac supplies low",
       "url": "https://appleinsider.com/articles/26/05/04/more-than-just-ram-and-ssd-shortages-are-keeping-mac-supplies-low?utm_source=rss",
-      "pubDate": "2026-05-04T11:55:09.000Z"
+      "pubDate": "2026-05-04T13:29:45.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 26.5’s new Pride wallpaper revealed, plus Apple Watch face",
+      "url": "https://9to5mac.com/2026/05/04/ios-26-5s-new-pride-wallpaper-revealed-plus-apple-watch-face/",
+      "pubDate": "2026-05-04T13:13:34.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple unveils Pride Edition Sport Loop for Apple Watch, order today",
+      "url": "https://9to5mac.com/2026/05/04/apple-unveils-pride-edition-sport-loop-for-apple-watch-order-today/",
+      "pubDate": "2026-05-04T13:08:17.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Announces 2026 Pride Band, Watch Face, and iPhone Wallpaper",
+      "url": "https://www.macrumors.com/2026/05/04/apple-watch-2026-pride-band/",
+      "pubDate": "2026-05-04T13:05:34.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "watchOS 27 to Offer New Watch Faces, Including 'Modular Ultra' Variant",
+      "url": "https://www.macrumors.com/2026/05/04/watchos-27-expected-to-have-new-watch-faces/",
+      "pubDate": "2026-05-04T12:58:12.000Z"
     },
     {
       "source": "AppleInsider",
@@ -59,13 +227,6 @@
       "pubDate": "2026-05-03T14:10:12.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Why you need a digital spring cleaning (and how Incogni makes it effortless)",
-      "url": "https://9to5mac.com/2026/05/03/why-you-need-digital-spring-cleaning-how-incogni-makes-effortless-sponsored/",
-      "pubDate": "2026-05-03T13:42:17.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Crime blotter: How the mastermind of U.K. iPhone thefts was caught",
@@ -85,27 +246,6 @@
       "title": "DJI Osmo 360 review: A better action camera choice",
       "url": "https://appleinsider.com/articles/26/05/02/dji-osmo-360-review-a-better-action-camera-choice?utm_source=rss",
       "pubDate": "2026-05-02T21:34:41.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Indie App Spotlight: ‘This Day’ turns photo cleanup into a simple daily habit",
-      "url": "https://9to5mac.com/2026/05/02/indie-app-spotlight-this-day-photo-cleanup-tool/",
-      "pubDate": "2026-05-02T19:30:10.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Limited-time Apple Card promo offers $100 Bonus Daily Cash when you add a co-owner",
-      "url": "https://9to5mac.com/2026/05/02/apple-card-co-owner-bonus-daily-cash-promo/",
-      "pubDate": "2026-05-02T18:31:18.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "xAI is bringing Grok Voice mode to Apple CarPlay",
-      "url": "https://9to5mac.com/2026/05/02/xai-is-bringing-grok-voice-mode-to-apple-carplay/",
-      "pubDate": "2026-05-02T18:24:54.000Z"
     },
     {
       "source": "MacRumors",
@@ -136,13 +276,6 @@
       "pubDate": "2026-05-02T13:47:33.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple @ Work: Unpacking the top mobile threats facing your Apple fleet this year",
-      "url": "https://9to5mac.com/2026/05/02/unpacking-the-top-mobile-threats-facing-your-apple-fleet-this-year/",
-      "pubDate": "2026-05-02T13:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Top Stories: MacBook Ultra, Vision Pro, and iPhone Ultra Rumors",
@@ -157,95 +290,11 @@
       "pubDate": "2026-05-02T00:17:13.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "I think I just vibe coded Lil Finder Guy onto my Mac",
-      "url": "https://9to5mac.com/2026/05/01/i-think-i-just-vibe-coded-lil-finder-guy-onto-my-mac/",
-      "pubDate": "2026-05-01T23:47:33.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple escalates fight with India antitrust watchdog over access to global financials",
-      "url": "https://9to5mac.com/2026/05/01/apple-escalates-fight-with-india-antitrust-watchdog-over-access-to-global-financials/",
-      "pubDate": "2026-05-01T23:35:57.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "WhatsApp working to bring Liquid Glass to the in-chat interface",
-      "url": "https://9to5mac.com/2026/05/01/whatsapp-working-to-bring-liquid-glass-to-the-in-chat-interface/",
-      "pubDate": "2026-05-01T22:45:01.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Why You Might Want to Wait to Buy a MacBook Pro",
-      "url": "https://www.macrumors.com/2026/05/01/macbook-ultra-rumor-recap/",
-      "pubDate": "2026-05-01T22:43:16.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Miami GP: Cue talks F1 movie sequel, streaming rights expansion, Ternus’s love for racing",
-      "url": "https://9to5mac.com/2026/05/01/miami-gp-cue-talks-f1-movie-sequel-streaming-rights-expansion-ternuss-love-for-racing/",
-      "pubDate": "2026-05-01T21:51:47.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Faces Dozens of Lawsuits Over AirTag Stalking After Class Action Denied",
-      "url": "https://www.macrumors.com/2026/05/01/airtag-stalking-lawsuits-apple/",
-      "pubDate": "2026-05-01T21:39:59.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Following Apple shoutout, Perplexity elaborates on Mac-native ‘Personal Computer’ platform",
-      "url": "https://9to5mac.com/2026/05/01/following-apple-shoutout-perplexity-elaborates-on-mac-native-personal-computer-platform/",
-      "pubDate": "2026-05-01T20:35:45.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Tim Cook’s top Apple acquisitions mix hardware, software, and services",
-      "url": "https://9to5mac.com/2026/05/01/tim-cooks-top-apple-acquisitions-mix-hardware-software-and-services/",
-      "pubDate": "2026-05-01T20:30:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple to Unveil macOS 27 Next Month With These New Features",
-      "url": "https://www.macrumors.com/2026/05/01/macos-27-rumors/",
-      "pubDate": "2026-05-01T20:21:09.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "My tech travel experience, 2026 edition",
       "url": "https://sixcolors.com/post/2026/05/my-tech-travel-experience-2026-edition/",
       "pubDate": "2026-05-01T20:18:53.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "AirPods Max 2 one-month review: Spot the difference?",
-      "url": "https://appleinsider.com/articles/26/05/01/airpods-max-2-one-month-review-spot-the-difference?utm_source=rss",
-      "pubDate": "2026-05-01T20:07:33.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Mac mini pricing shifts, $599 config disappears from Apple store",
-      "url": "https://appleinsider.com/articles/26/05/01/mac-mini-pricing-shifts-599-config-disappears-from-apple-store?utm_source=rss",
-      "pubDate": "2026-05-01T20:01:57.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Stops Selling Mac Mini With 256GB of Storage, Starting Price Rises to $799",
-      "url": "https://www.macrumors.com/2026/05/01/mac-mini-now-starts-at-799/",
-      "pubDate": "2026-05-01T18:29:08.000Z"
     },
     {
       "source": "Six Colors",
@@ -267,48 +316,6 @@
       "title": "(Sponsor) Monologue",
       "url": "https://sixcolors.com/sponsor/2026/05/monologue-2/",
       "pubDate": "2026-05-01T17:32:09.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Best Apple Deals of the Week: Rare $130 Discounts on Apple Watch Series 11, Plus AirPods and MacBook Sales",
-      "url": "https://www.macrumors.com/2026/05/01/best-apple-deals-of-the-week-5-1-26/",
-      "pubDate": "2026-05-01T17:28:54.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "MacRumors Giveaway: Win a Mac Mini to Run AI Agents With Astropad's 'Workbench' App",
-      "url": "https://www.macrumors.com/2026/05/01/macrumors-giveaway-astropad-mac-mini/",
-      "pubDate": "2026-05-01T17:09:53.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Here's what using a touchscreen Mac may be like",
-      "url": "https://appleinsider.com/articles/26/05/01/heres-what-using-a-touchscreen-mac-may-be-like?utm_source=rss",
-      "pubDate": "2026-05-01T16:34:41.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Price war: Apple's 1TB M5 MacBook Pro with 24GB RAM plunges to $1,699",
-      "url": "https://appleinsider.com/articles/26/05/01/price-war-apples-1tb-m5-macbook-pro-with-24gb-ram-plunges-to-1699?utm_source=rss",
-      "pubDate": "2026-05-01T16:14:11.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "The MacRumors Show: Your Tech Questions Answered",
-      "url": "https://www.macrumors.com/2026/05/01/the-macrumors-show-your-tech-questions-answered/",
-      "pubDate": "2026-05-01T16:07:37.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Was Caught Off Guard by MacBook Neo's 'Off the Charts' Demand",
-      "url": "https://www.macrumors.com/2026/05/01/apple-was-caught-off-guard-by-macbook-neo/",
-      "pubDate": "2026-05-01T16:06:04.000Z"
     },
     {
       "source": "Six Colors",
@@ -351,13 +358,6 @@
       "title": "Apple to announce Q2 fiscal results later today",
       "url": "https://sixcolors.com/post/2026/04/apple-to-announce-q2-fiscal-results-later-today/",
       "pubDate": "2026-04-30T15:56:15.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "The Vision Pro: Not quite dead yet",
-      "url": "https://sixcolors.com/post/2026/04/the-vision-pro-not-quite-dead-yet/",
-      "pubDate": "2026-04-30T13:53:26.000Z"
     }
   ]
 }
