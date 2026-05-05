@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-05T00:09:45.634Z",
+  "generatedAt": "2026-05-05T06:29:14.247Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,9 +24,30 @@
   ],
   "items": [
     {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Samsung & Intel considered as alternatives to TSMC for Apple Silicon production",
+      "url": "https://appleinsider.com/articles/26/05/05/samsung-intel-considered-as-alternatives-to-tsmc-for-apple-silicon-production?utm_source=rss",
+      "pubDate": "2026-05-05T04:05:29.000Z"
+    },
+    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple files for Supreme Court stay in Epic case over off-App Store commission dispute",
+      "title": "Report: Apple considers Intel and Samsung to diversify chip manufacturing away from TSMC",
+      "url": "https://9to5mac.com/2026/05/04/report-apple-considers-intel-and-samsung-to-diversify-chip-manufacturing-away-from-tsmc/",
+      "pubDate": "2026-05-05T03:45:42.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Boox Go 10.3 Gen II review: this refresh is both better and somehow worse than the last one",
+      "url": "https://appleinsider.com/articles/26/05/05/boox-go-103-gen-ii-review-this-refresh-is-both-better-and-somehow-worse-than-the-last-one?utm_source=rss",
+      "pubDate": "2026-05-05T00:10:35.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple files for Supreme Court stay in Epic case over off-App Store commission dispute [U]",
       "url": "https://9to5mac.com/2026/05/04/apple-files-for-supreme-court-stay-in-epic-case-over-off-app-store-commission-dispute/",
       "pubDate": "2026-05-04T23:21:53.000Z"
     },
@@ -185,13 +206,6 @@
       "pubDate": "2026-05-04T17:31:51.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple highlights 3 enhancements coming to iPhone with iOS 26.5",
-      "url": "https://9to5mac.com/2026/05/04/apple-highlights-3-enhancements-coming-to-iphone-with-ios-26-5/",
-      "pubDate": "2026-05-04T17:22:18.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "macOS Tahoe 26.5 Release Candidate Now Available",
@@ -262,13 +276,6 @@
       "pubDate": "2026-05-04T13:39:22.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "More than just RAM and SSD shortages are keeping Mac supplies low",
-      "url": "https://appleinsider.com/articles/26/05/04/more-than-just-ram-and-ssd-shortages-are-keeping-mac-supplies-low?utm_source=rss",
-      "pubDate": "2026-05-04T13:29:45.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Announces 2026 Pride Band, Watch Face, and iPhone Wallpaper",
@@ -281,20 +288,6 @@
       "title": "watchOS 27 to Offer New Watch Faces, Including 'Modular Ultra' Variant",
       "url": "https://www.macrumors.com/2026/05/04/watchos-27-expected-to-have-new-watch-faces/",
       "pubDate": "2026-05-04T12:58:12.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Sunday Reboot: Motorsport, money, and 'Ted Lasso'",
-      "url": "https://appleinsider.com/articles/26/05/03/sunday-reboot-motorsport-money-and-ted-lasso?utm_source=rss",
-      "pubDate": "2026-05-03T20:27:08.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple Watch Ultra's Modular face is being simplified for watchOS 27",
-      "url": "https://appleinsider.com/articles/26/05/03/apple-watch-ultras-modular-face-is-being-simplified-for-watchos-27?utm_source=rss",
-      "pubDate": "2026-05-03T14:50:55.000Z"
     },
     {
       "source": "Six Colors",
@@ -358,6 +351,13 @@
       "title": "Porsche bleeds six colors ↦",
       "url": "https://sixcolors.com/link/2026/04/porsche-bleeds-six-colors/",
       "pubDate": "2026-04-30T19:23:28.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Inside iMovie - How to get started with video editing on iPhone and iPad",
+      "url": "https://appleinsider.com/inside/ios-26/tips/inside-imovie---how-to-get-started-with-video-editing-on-iphone-and-ipad?utm_source=rss",
+      "pubDate": "2025-09-29T10:59:23.000Z"
     }
   ]
 }
