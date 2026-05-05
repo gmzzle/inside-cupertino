@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T23:10:54.016Z",
+  "generatedAt": "2026-05-05T00:09:45.634Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple files for Supreme Court stay in Epic case over off-App Store commission dispute",
+      "url": "https://9to5mac.com/2026/05/04/apple-files-for-supreme-court-stay-in-epic-case-over-off-app-store-commission-dispute/",
+      "pubDate": "2026-05-04T23:21:53.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Video offers clearest look yet at foldable iPhone Ultra dummy unit",
+      "url": "https://9to5mac.com/2026/05/04/video-offers-clearest-look-yet-at-foldable-iphone-ultra-dummy-unit/",
+      "pubDate": "2026-05-04T23:15:56.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -176,20 +190,6 @@
       "title": "Apple highlights 3 enhancements coming to iPhone with iOS 26.5",
       "url": "https://9to5mac.com/2026/05/04/apple-highlights-3-enhancements-coming-to-iphone-with-ios-26-5/",
       "pubDate": "2026-05-04T17:22:18.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: May 4, 2026 – Mac mini changes, more",
-      "url": "https://9to5mac.com/2026/05/04/daily-may-4-2026/",
-      "pubDate": "2026-05-04T17:20:48.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple rolls out macOS 26.5 RC, here’s what’s coming",
-      "url": "https://9to5mac.com/2026/05/04/apple-rolls-out-macos-26-5-rc-heres-whats-coming/",
-      "pubDate": "2026-05-04T17:14:25.000Z"
     },
     {
       "source": "MacRumors",
