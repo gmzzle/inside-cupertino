@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-05T09:21:52.167Z",
+  "generatedAt": "2026-05-05T11:39:28.766Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Three takeouts from the Apple chip report, with one worrying prospect",
+      "url": "https://9to5mac.com/2026/05/05/three-takeouts-from-the-apple-chip-report-with-one-worrying-prospect/",
+      "pubDate": "2026-05-05T11:25:41.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "20th Anniversary iPhone Could Blend Haptic Buttons Into Curved Edges",
+      "url": "https://www.macrumors.com/2026/05/05/20th-anniversary-iphone-haptic-buttons/",
+      "pubDate": "2026-05-05T10:55:17.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple @ Work Podcast: This is why you can’t delay macOS updates",
+      "url": "https://9to5mac.com/2026/05/05/apple-work-podcast-this-is-why-you-cant-delay-macos-updates/",
+      "pubDate": "2026-05-05T10:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Eyes Intel and Samsung as Backup US Chipmakers",
+      "url": "https://www.macrumors.com/2026/05/05/apple-talks-intel-samsung-us-chipmakers/",
+      "pubDate": "2026-05-05T09:32:48.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -185,20 +213,6 @@
       "pubDate": "2026-05-04T18:00:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple confirms iOS 26.5 Messages app adds RCS end-to-end encryption",
-      "url": "https://9to5mac.com/2026/05/04/apple-confirms-ios-26-5-messages-app-adds-rcs-end-to-end-encryption/",
-      "pubDate": "2026-05-04T17:41:28.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "OpenAI releases a separate ChatGPT iOS app for enterprise users",
-      "url": "https://9to5mac.com/2026/05/04/openai-releases-a-separate-chatgpt-ios-app-for-schools-and-work-organizations/",
-      "pubDate": "2026-05-04T17:38:19.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Release candidates of iOS 26.5, macOS Tahoe 26.5 are out now",
@@ -274,20 +288,6 @@
       "title": "Apple's 2026 Pride Collection includes 11-color weaved Sport Band",
       "url": "https://appleinsider.com/articles/26/05/04/apples-2026-pride-collection-includes-11-color-weaved-sport-band?utm_source=rss",
       "pubDate": "2026-05-04T13:39:22.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Announces 2026 Pride Band, Watch Face, and iPhone Wallpaper",
-      "url": "https://www.macrumors.com/2026/05/04/apple-watch-2026-pride-band/",
-      "pubDate": "2026-05-04T13:05:34.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "watchOS 27 to Offer New Watch Faces, Including 'Modular Ultra' Variant",
-      "url": "https://www.macrumors.com/2026/05/04/watchos-27-expected-to-have-new-watch-faces/",
-      "pubDate": "2026-05-04T12:58:12.000Z"
     },
     {
       "source": "Six Colors",
