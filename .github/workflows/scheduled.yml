@@ -1,13 +1,14 @@
 name: Scheduled feeds
 
-# Runs the aggregator hourly and the draft generator daily.
-# Both commit their output back to the repo on `main`, which triggers
-# Cloudflare Pages to rebuild and deploy automatically.
+# Aggregator runs hourly. Drafter runs once a day at 13:00 UTC.
+# Both can be triggered manually from the Actions tab.
+# Critically: this only runs on schedule and workflow_dispatch.
+# It does NOT run on push, pull_request, or any other event.
 
 on:
   schedule:
-    - cron: '15 * * * *'   # hourly — aggregator
-    - cron: '0 13 * * *'   # daily at 13:00 UTC — draft generator
+    - cron: '15 * * * *'
+    - cron: '0 13 * * *'
   workflow_dispatch:
     inputs:
       job:
@@ -17,14 +18,11 @@ on:
         type: choice
         options: [aggregate, draft]
 
-# Hard cap any individual run. If anything hangs, kill it within 10 minutes.
-# Normal runs take ~1 minute. This is just a safety net against runaway minutes.
-
 jobs:
   aggregate:
     if: github.event.schedule == '15 * * * *' || github.event.inputs.job == 'aggregate'
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
     permissions:
       contents: write
     steps:
@@ -34,9 +32,11 @@ jobs:
           node-version: '20'
           cache: 'npm'
       - run: npm ci
-      - run: npm run aggregate
+      - name: Run aggregator
+        timeout-minutes: 2
+        run: npm run aggregate
       - name: Commit if changed
-        timeout-minutes: 3
+        timeout-minutes: 2
         run: |
           if [[ -z "$(git status --porcelain src/data/aggregator.json)" ]]; then
             echo "No aggregator changes."
@@ -58,7 +58,7 @@ jobs:
   draft:
     if: github.event.schedule == '0 13 * * *' || github.event.inputs.job == 'draft'
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 10
     permissions:
       contents: write
     env:
@@ -72,9 +72,11 @@ jobs:
           node-version: '20'
           cache: 'npm'
       - run: npm ci
-      - run: npm run draft
+      - name: Run draft generator
+        timeout-minutes: 5
+        run: npm run draft
       - name: Commit if changed
-        timeout-minutes: 3
+        timeout-minutes: 2
         run: |
           if [[ -z "$(git status --porcelain src/content/articles scripts/.drafted-urls.json)" ]]; then
             echo "No new drafts."
