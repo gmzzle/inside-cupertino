@@ -2,7 +2,7 @@
 title: "Apple wants HomePod to know when you're talking to it by watching your eyes"
 description: "A new patent suggests future HomePods could use cameras and gaze detection to figure out which device you actually want to talk to. It's clever, but raises obvious privacy questions."
 pubDate: 2026-05-05T16:39:44.277Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - homepod
