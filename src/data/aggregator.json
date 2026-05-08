@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T11:46:29.941Z",
+  "generatedAt": "2026-05-08T14:17:58.060Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,104 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 has new features coming for two of iPhone’s most popular apps",
+      "url": "https://9to5mac.com/2026/05/08/ios-27-has-new-features-coming-for-two-of-iphones-most-popular-apps/",
+      "pubDate": "2026-05-08T14:08:16.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Boox’s new page-turning e-reader remote is a tiny two-button keyboard",
+      "url": "https://www.theverge.com/tech/926240/boox-tappy-page-turn-scroll-button-bluetooth-remote",
+      "pubDate": "2026-05-08T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "What’s the role of a simple fitness band in the AI health era?",
+      "url": "https://www.theverge.com/column/926700/optimizer-fitbit-fitness-bands-ai-health",
+      "pubDate": "2026-05-08T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Tesla is recalling its cheaper Cybertruck because the wheels might fall off",
+      "url": "https://www.theverge.com/transportation/926741/tesla-cybertruck-cheaper-recall",
+      "pubDate": "2026-05-08T13:48:14.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Instagram redesigns iPad app to what it always should have been",
+      "url": "https://9to5mac.com/2026/05/08/instagram-redesigns-ipad-app-to-what-it-always-should-have-been/",
+      "pubDate": "2026-05-08T13:40:03.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Everybody wants to rule the AI world",
+      "url": "https://www.theverge.com/podcast/926707/openai-ceo-murati-musk-trial-vergecast",
+      "pubDate": "2026-05-08T13:31:37.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "CarPlay now works with these three top AI chatbot apps",
+      "url": "https://9to5mac.com/2026/05/08/carplay-now-works-with-three-top-ai-chatbot-apps/",
+      "pubDate": "2026-05-08T13:11:37.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Mac shortages, iPhone rumors, and 'Schmigadoon!' on the AppleInsider Podcast",
+      "url": "https://appleinsider.com/articles/26/05/08/mac-shortages-iphone-rumors-and-schmigadoon-on-the-appleinsider-podcast?utm_source=rss",
+      "pubDate": "2026-05-08T13:06:14.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone-controlled Anthbot M9 robot lawn mower has replaced cutting grass for me [20% off]",
+      "url": "https://9to5mac.com/2026/05/08/iphone-controlled-anthbot-m9-robot-lawn-mower-has-replaced-cutting-grass-for-me/",
+      "pubDate": "2026-05-08T13:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Grok AI Voice Mode Arrives on Apple CarPlay",
+      "url": "https://www.macrumors.com/2026/05/08/grok-ai-voice-mode-apple-carplay/",
+      "pubDate": "2026-05-08T12:41:13.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Nanoleaf bets its future on robots, red light therapy, and AI",
+      "url": "https://www.theverge.com/tech/926342/nanoleaf-smart-lighting-ai-robotics-red-light-wellness",
+      "pubDate": "2026-05-08T12:15:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "The Zens Semi-Solid-State Powerbank: a modest but worthwhile battery breakthrough",
+      "url": "https://9to5mac.com/2026/05/08/the-zens-semi-solid-state-powerbank-a-modest-but-worthwhile-battery-breakthrough/",
+      "pubDate": "2026-05-08T12:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Apple’s education discount now requires proof that you’re a student",
+      "url": "https://www.theverge.com/tech/926675/apple-education-discount-unidays-verification-us",
+      "pubDate": "2026-05-08T11:53:57.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Wedbush biggest bull on Apple with huge target price jump to $400",
+      "url": "https://appleinsider.com/articles/26/05/08/wedbush-biggest-bull-on-apple-with-huge-target-price-jump-to-400?utm_source=rss",
+      "pubDate": "2026-05-08T11:46:31.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -185,13 +283,6 @@
       "pubDate": "2026-05-07T21:27:20.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Logitech announces two new keyboard cases for iPad",
-      "url": "https://9to5mac.com/2026/05/07/logitech-announces-two-new-keyboard-cases-for-ipad/",
-      "pubDate": "2026-05-07T21:22:38.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Releases Safari Technology Preview 243 With Bug Fixes and Performance Improvements",
@@ -211,27 +302,6 @@
       "title": "Apple CEO Tim Cook expected to get invite to go to China with Trump",
       "url": "https://appleinsider.com/articles/26/05/07/apple-ceo-tim-cook-expected-to-get-invite-to-go-to-china-with-trump?utm_source=rss",
       "pubDate": "2026-05-07T20:47:31.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple showcases four new MAMI shorts shot on the iPhone 17 Pro Max",
-      "url": "https://9to5mac.com/2026/05/07/apple-showcases-four-new-mami-shorts-shot-on-the-iphone-17-pro-max/",
-      "pubDate": "2026-05-07T20:42:43.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "New Pride wallpapers, $599 Mac mini goes away, Apple earnings call tidbits",
-      "url": "https://9to5mac.com/2026/05/07/happy-hour-589/",
-      "pubDate": "2026-05-07T20:38:31.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "This single-step Apple Shortcut might quickly become your new favorite",
-      "url": "https://9to5mac.com/2026/05/07/this-single-step-apple-shortcut-might-quickly-become-your-new-favorite/",
-      "pubDate": "2026-05-07T20:30:09.000Z"
     },
     {
       "source": "AppleInsider",
@@ -255,53 +325,11 @@
       "pubDate": "2026-05-07T19:46:44.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple&#8217;s AirPods with cameras for AI are apparently close to production",
-      "url": "https://www.theverge.com/tech/926376/apple-airpods-cameras-ai-production",
-      "pubDate": "2026-05-07T19:39:22.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Notes is a killer app, and iOS 27’s rumored upgrade excites me for more",
-      "url": "https://9to5mac.com/2026/05/07/apple-notes-is-a-killer-app-and-ios-27s-rumored-upgrade-excites-me-for-more/",
-      "pubDate": "2026-05-07T19:29:51.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "SpaceX has a $55 billion plan to build AI chips in Texas",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/926356/spacex-terafab-plant-cost-ai-chips",
-      "pubDate": "2026-05-07T19:26:16.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Reportedly Working on All-New AirTag-Sized Wearable With iPhone Integration",
       "url": "https://www.macrumors.com/2026/05/07/apple-still-working-on-pendant-report/",
       "pubDate": "2026-05-07T19:16:19.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Formula 1 Apple TV switch didn't get the fan backlash executives feared",
-      "url": "https://appleinsider.com/articles/26/05/07/formula-1-apple-tv-switch-didnt-get-the-fan-backlash-executives-feared?utm_source=rss",
-      "pubDate": "2026-05-07T19:12:13.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Peak Design is taking up to 50 percent off some of our favorite camera bags",
-      "url": "https://www.theverge.com/gadgets/925427/peak-design-peter-dering-birthday-sale-2026-camera-backpack-sling-deal",
-      "pubDate": "2026-05-07T19:04:30.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "AirPods Pro with cameras probably aren't arriving in 2026, but they are close",
-      "url": "https://appleinsider.com/articles/26/05/07/airpods-pro-with-cameras-probably-arent-arriving-in-2026-but-they-are-close?utm_source=rss",
-      "pubDate": "2026-05-07T18:53:23.000Z"
     },
     {
       "source": "MacRumors",
@@ -311,39 +339,11 @@
       "pubDate": "2026-05-07T18:53:20.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Valve is fighting Steam Controller scalpers with a new reservations system",
-      "url": "https://www.theverge.com/games/926286/valve-steam-controller-reservations-queue-scalpers",
-      "pubDate": "2026-05-07T18:06:01.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "ChatGPT&#8217;s &#8216;Trusted Contact&#8217; will alert loved ones of safety concerns",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/925874/chatgpt-trusted-contact-emergency-self-harm-notification",
-      "pubDate": "2026-05-07T18:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Sued for Pulling Co-Viewing App Rave From the App Store",
       "url": "https://www.macrumors.com/2026/05/07/apple-rave-app-store-lawsuit/",
       "pubDate": "2026-05-07T17:41:50.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "pubDate": "2026-05-07T17:40:50.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Samsung Kicks Off New Monitor and TV Sale With Early Savings on Upcoming 2026 Monitors",
-      "url": "https://www.macrumors.com/2026/05/07/samsung-new-monitor-tv-sale/",
-      "pubDate": "2026-05-07T17:02:31.000Z"
     },
     {
       "source": "Six Colors",
