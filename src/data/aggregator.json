@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T07:59:13.447Z",
+  "generatedAt": "2026-05-08T09:55:31.970Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Sony&#8217;s PS5 sales plummet amid price rises and a memory crisis",
+      "url": "https://www.theverge.com/news/926609/sonys-ps5-sales-plummet-memory-costs-price-hikes",
+      "pubDate": "2026-05-08T09:15:54.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Nintendo is raising Switch 2 prices",
+      "url": "https://www.theverge.com/games/926606/nintendo-switch-2-price-hikes-earnings-results",
+      "pubDate": "2026-05-08T08:33:24.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -297,13 +311,6 @@
       "pubDate": "2026-05-07T17:40:50.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Did Microsoft just tease a new Xbox UI?",
-      "url": "https://www.theverge.com/news/926170/new-xbox-ui-dashboard-console-handheld-cloud",
-      "pubDate": "2026-05-07T17:29:36.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Samsung Kicks Off New Monitor and TV Sale With Early Savings on Upcoming 2026 Monitors",
@@ -323,13 +330,6 @@
       "title": "Culpan: Apple goes all in on MacBook Neo production ↦",
       "url": "https://sixcolors.com/link/2026/05/culpan-apple-goes-all-in-on-macbook-neo-production/",
       "pubDate": "2026-05-07T16:05:33.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "A hacker ran me over with a robot lawn mower",
-      "url": "https://www.theverge.com/tech/925696/yarbo-robot-lawn-mower-hack-remote-control-camera-access-mqtt",
-      "pubDate": "2026-05-07T16:00:00.000Z"
     },
     {
       "source": "AppleInsider",
