@@ -2,7 +2,7 @@
 title: "Atari buys Wizardry, the RPG that made the Apple II a must-have"
 description: "The dungeon crawler that ate entire childhoods in the '80s now belongs to Atari. Yes, that Atari. Weird timeline."
 pubDate: 2026-05-07T15:28:48.416Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - wizardry
