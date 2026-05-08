@@ -2,7 +2,7 @@
 title: "Apple quietly makes the Watch an education perk in Asia-Pacific markets"
 description: "Students in Australia, China, Japan, and seven other countries can now get education discounts on Apple Watch. The U.S. and Europe? Still waiting."
 pubDate: 2026-05-07T15:29:05.098Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - apple-watch
