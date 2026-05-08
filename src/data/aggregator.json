@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T16:46:20.304Z",
+  "generatedAt": "2026-05-08T18:45:35.692Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,132 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "All the latest updates on AI data centers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+      "pubDate": "2026-05-08T18:45:08.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Weekend deal: Apple's 1TB M5 MacBook Pro with 24GB RAM falls to $1,699",
+      "url": "https://appleinsider.com/articles/26/05/08/weekend-deal-apples-1tb-m5-macbook-pro-with-24gb-ram-falls-to-1699?utm_source=rss",
+      "pubDate": "2026-05-08T18:20:14.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Prime Video just launched vertical video inside its iPhone app",
+      "url": "https://9to5mac.com/2026/05/08/prime-video-just-launched-vertical-video-inside-its-iphone-app/",
+      "pubDate": "2026-05-08T18:15:04.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Updated iOS 26.5 & iPadOS 26.5 RC 2 builds tighten final release",
+      "url": "https://appleinsider.com/articles/26/05/08/updated-ios-265-ipados-265-rc-2-builds-tighten-final-release?utm_source=rss",
+      "pubDate": "2026-05-08T18:08:34.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "DOGE used ChatGPT in a way that was both dumb and illegal, judge rules",
+      "url": "https://www.theverge.com/policy/927071/doge-chatgpt-grants-canceled",
+      "pubDate": "2026-05-08T18:02:44.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "HomeKit Weekly: The Airversa QliQ brings a rechargeable Thread smart button to Apple Home",
+      "url": "https://9to5mac.com/2026/05/08/airversa-qliq/",
+      "pubDate": "2026-05-08T18:01:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "ABC and Disney accuse Trump admin of violating First Amendment rights",
+      "url": "https://www.theverge.com/policy/927002/abc-disney-fcc-first-amendment-the-view",
+      "pubDate": "2026-05-08T17:52:28.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "The Apple Silicon chip in your next device may be made by Intel",
+      "url": "https://appleinsider.com/articles/26/05/08/apple-may-have-signed-a-deal-with-intel-to-make-apple-silicon?utm_source=rss",
+      "pubDate": "2026-05-08T17:51:10.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Someone out-Trumped the Trump phone",
+      "url": "https://www.theverge.com/gadgets/926968/trump-mobile-t1-phone-dreame-aurora-phones",
+      "pubDate": "2026-05-08T17:38:53.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple and Intel have reached a deal to produce future chips: report",
+      "url": "https://9to5mac.com/2026/05/08/apple-and-intel-have-reached-a-deal-to-produce-future-chips-report/",
+      "pubDate": "2026-05-08T17:37:24.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Could Soon Be Buying iPhone and Mac Chips From Old Frenemy Intel",
+      "url": "https://www.macrumors.com/2026/05/08/apple-intel-preliminary-chip-deal/",
+      "pubDate": "2026-05-08T17:31:36.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Apple reportedly has a deal to use Intel-made chips again",
+      "url": "https://www.theverge.com/tech/926988/apple-intel-chips",
+      "pubDate": "2026-05-08T17:22:04.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple releases iOS 26.5 RC 2 ahead of public launch",
+      "url": "https://9to5mac.com/2026/05/08/apple-releases-ios-26-5-rc-2-ahead-of-public-launch/",
+      "pubDate": "2026-05-08T17:18:01.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Seeds Second iOS 26.5 and iPadOS 26.5 Release Candidates to Developers",
+      "url": "https://www.macrumors.com/2026/05/08/apple-seeds-ios-26-5-rc-2/",
+      "pubDate": "2026-05-08T17:16:47.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple TV has its best reviewed shows of the year airing right now",
+      "url": "https://9to5mac.com/2026/05/08/apple-tv-has-its-best-reviewed-shows-of-the-year-airing-right-now/",
+      "pubDate": "2026-05-08T17:02:44.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The Steam Controller’s reservation queue is open",
+      "url": "https://www.theverge.com/gadgets/924672/steam-controller-reservation-queue-buy",
+      "pubDate": "2026-05-08T16:59:42.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "MacRumors Giveaway: Win a MacBook Neo and Accessory Kit From Plugable",
+      "url": "https://www.macrumors.com/2026/05/08/macrumors-giveaway-plugable-may-2026/",
+      "pubDate": "2026-05-08T16:58:45.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The 46 best last-minute Mother’s Day gift ideas for 2026",
+      "url": "https://www.theverge.com/gadgets/907032/best-mothers-day-gift-ideas-2026-mom-tech-gadgets",
+      "pubDate": "2026-05-08T16:46:00.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -66,27 +192,6 @@
       "pubDate": "2026-05-08T15:31:45.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Everyone should follow Logitech and put extra USB ports on iPad keyboard cases",
-      "url": "https://www.theverge.com/tech/926852/logitech-rugged-combo-4c-keyboard-touchpad-extra-usb-c-port",
-      "pubDate": "2026-05-08T15:26:06.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Microsoft was worried OpenAI would run off to Amazon and ‘shit-talk’ Azure",
-      "url": "https://www.theverge.com/report/926771/microsoft-openai-amazon-worries-shit-talk-azure",
-      "pubDate": "2026-05-08T15:25:02.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The company that owns Moog, Akai Pro, and Numark is buying Native Instruments",
-      "url": "https://www.theverge.com/entertainment/926841/native-instruments-inmusic",
-      "pubDate": "2026-05-08T15:20:54.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "iPhone 18 Pro’s new A20 chip  rumored to bring two major upgrades",
@@ -101,13 +206,6 @@
       "pubDate": "2026-05-08T14:47:17.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Govee’s solar-powered string lights are already on sale for 20 percent off",
-      "url": "https://www.theverge.com/gadgets/926434/govee-outdoor-solar-string-lights-star-fox-switch-2-deal-sale",
-      "pubDate": "2026-05-08T14:43:29.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Best Apple Deals of the Week: Shop Popular Mother's Day Accessory Deals, Plus AirPods Max 2 for $509.99",
@@ -115,32 +213,11 @@
       "pubDate": "2026-05-08T14:37:48.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The future of game consoles is looking bleak",
-      "url": "https://www.theverge.com/games/926772/nintendo-switch-2-price-hike-console-gaming-future",
-      "pubDate": "2026-05-08T14:32:40.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "iOS 27 has new features coming for two of iPhone’s most popular apps",
       "url": "https://9to5mac.com/2026/05/08/ios-27-has-new-features-coming-for-two-of-iphones-most-popular-apps/",
       "pubDate": "2026-05-08T14:08:16.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Boox’s new page-turning e-reader remote is a tiny two-button keyboard",
-      "url": "https://www.theverge.com/tech/926240/boox-tappy-page-turn-scroll-button-bluetooth-remote",
-      "pubDate": "2026-05-08T14:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "What’s the role of a simple fitness band in the AI health era?",
-      "url": "https://www.theverge.com/column/926700/optimizer-fitbit-fitness-bands-ai-health",
-      "pubDate": "2026-05-08T14:00:00.000Z"
     },
     {
       "source": "9to5Mac",
@@ -164,25 +241,11 @@
       "pubDate": "2026-05-08T13:06:14.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone-controlled Anthbot M9 robot lawn mower has replaced cutting grass for me [20% off]",
-      "url": "https://9to5mac.com/2026/05/08/iphone-controlled-anthbot-m9-robot-lawn-mower-has-replaced-cutting-grass-for-me/",
-      "pubDate": "2026-05-08T13:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Grok AI Voice Mode Arrives on Apple CarPlay",
       "url": "https://www.macrumors.com/2026/05/08/grok-ai-voice-mode-apple-carplay/",
       "pubDate": "2026-05-08T12:41:13.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "The Zens Semi-Solid-State Powerbank: a modest but worthwhile battery breakthrough",
-      "url": "https://9to5mac.com/2026/05/08/the-zens-semi-solid-state-powerbank-a-modest-but-worthwhile-battery-breakthrough/",
-      "pubDate": "2026-05-08T12:00:00.000Z"
     },
     {
       "source": "AppleInsider",
@@ -227,25 +290,11 @@
       "pubDate": "2026-05-08T10:01:57.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple now requires verification for Education Store, adds Apple Watch with discounts",
-      "url": "https://9to5mac.com/2026/05/08/apple-now-requires-verification-for-education-store-adds-apple-watch-with-discounts/",
-      "pubDate": "2026-05-08T10:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Now Requires UNiDAYS Verification for Education Discounts in U.S. and Canada, Adds Apple Watch",
       "url": "https://www.macrumors.com/2026/05/08/apple-edu-store-unidays-verification-us/",
       "pubDate": "2026-05-08T10:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple pushes back against Canadian bill that could force companies to weaken encryption",
-      "url": "https://9to5mac.com/2026/05/07/apple-pushes-back-against-canadian-bill-that-could-force-companies-to-weaken-encryption/",
-      "pubDate": "2026-05-08T03:26:51.000Z"
     },
     {
       "source": "AppleInsider",
@@ -276,25 +325,11 @@
       "pubDate": "2026-05-08T00:27:51.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple TV announces new docuseries on UConn women’s basketball team",
-      "url": "https://9to5mac.com/2026/05/07/apple-tv-announces-new-docuseries-on-uconn-womens-basketball-team/",
-      "pubDate": "2026-05-08T00:01:55.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple can't avoid $4.1 billion iCloud suit in UK",
       "url": "https://appleinsider.com/articles/26/05/07/apple-cant-avoid-41-billion-icloud-suit-in-uk?utm_source=rss",
       "pubDate": "2026-05-07T22:59:12.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "More refunds possible for Apple as Trump's 10% global tariffs found illegal too",
-      "url": "https://appleinsider.com/articles/26/05/07/more-refunds-possible-for-apple-as-trumps-10-global-tariffs-found-illegal-too?utm_source=rss",
-      "pubDate": "2026-05-07T22:48:16.000Z"
     },
     {
       "source": "MacRumors",
@@ -309,41 +344,6 @@
       "title": "Apple Releases Safari Technology Preview 243 With Bug Fixes and Performance Improvements",
       "url": "https://www.macrumors.com/2026/05/07/apple-releases-safari-technology-preview-243/",
       "pubDate": "2026-05-07T21:03:19.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Faces £3 Billion UK Trial Over iCloud Lock-In Claims",
-      "url": "https://www.macrumors.com/2026/05/07/apple-icloud-lock-in-uk-lawsuit/",
-      "pubDate": "2026-05-07T20:56:55.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple CEO Tim Cook expected to get invite to go to China with Trump",
-      "url": "https://appleinsider.com/articles/26/05/07/apple-ceo-tim-cook-expected-to-get-invite-to-go-to-china-with-trump?utm_source=rss",
-      "pubDate": "2026-05-07T20:47:31.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "SharePlay is not why co-streaming app Rave was kicked off the App Store",
-      "url": "https://appleinsider.com/articles/26/05/07/shareplay-is-not-why-co-streaming-app-rave-was-kicked-off-the-app-store?utm_source=rss",
-      "pubDate": "2026-05-07T20:29:32.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple's Tim Cook Among CEOs Invited on Trump's Trip to China",
-      "url": "https://www.macrumors.com/2026/05/07/apple-tim-cook-trump-china/",
-      "pubDate": "2026-05-07T19:46:44.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Reportedly Working on All-New AirTag-Sized Wearable With iPhone Integration",
-      "url": "https://www.macrumors.com/2026/05/07/apple-still-working-on-pendant-report/",
-      "pubDate": "2026-05-07T19:16:19.000Z"
     },
     {
       "source": "Six Colors",
