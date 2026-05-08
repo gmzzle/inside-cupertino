@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T22:12:01.647Z",
+  "generatedAt": "2026-05-08T23:12:34.127Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "A Closer Look at watchOS 26.5's New Luminance Watch Face",
+      "url": "https://www.macrumors.com/2026/05/08/watchos-26-5-luminance-face/",
+      "pubDate": "2026-05-08T22:38:56.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -337,13 +344,6 @@
       "title": "Canadian encryption law could force Apple to take drastic action like in UK",
       "url": "https://appleinsider.com/articles/26/05/08/canadian-encryption-law-could-force-apple-to-take-drastic-action-like-in-uk?utm_source=rss",
       "pubDate": "2026-05-08T02:46:45.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "OpenAI's Codex Now Works in Chrome With New Extension",
-      "url": "https://www.macrumors.com/2026/05/07/openai-codex-chrome-extension/",
-      "pubDate": "2026-05-08T00:42:31.000Z"
     },
     {
       "source": "Six Colors",
