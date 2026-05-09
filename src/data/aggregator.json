@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-09T15:14:36.983Z",
+  "generatedAt": "2026-05-09T16:11:31.137Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Dyson’s powerful 360 Vis Nav robovac is down to $279.99 for a limited time",
+      "url": "https://www.theverge.com/gadgets/926942/dyson-360-vis-nav-robot-vacuum-woot-dust-busting-deals-sale",
+      "pubDate": "2026-05-09T16:00:00.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -197,13 +204,6 @@
       "title": "HomeKit Weekly: The Airversa QliQ brings a rechargeable Thread smart button to Apple Home",
       "url": "https://9to5mac.com/2026/05/08/airversa-qliq/",
       "pubDate": "2026-05-08T18:01:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "ABC and Disney accuse Trump admin of violating First Amendment rights",
-      "url": "https://www.theverge.com/policy/927002/abc-disney-fcc-first-amendment-the-view",
-      "pubDate": "2026-05-08T17:52:28.000Z"
     },
     {
       "source": "AppleInsider",
