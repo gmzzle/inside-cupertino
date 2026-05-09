@@ -2,7 +2,7 @@
 title: "Last-Minute Mother's Day Deals Include AirPods Max 2 at $509"
 description: "Record lows on AirPods Max 2 and M5 Pro MacBook Pro highlight this week's Apple deals roundup, with two days left before Mother's Day."
 pubDate: 2026-05-08T14:52:42.149Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - deals
