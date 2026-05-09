@@ -2,7 +2,7 @@
 title: "Apple Is Losing the Memory Bidding War, and You're Going to Pay For It"
 description: "Nvidia and cloud providers are outbidding Apple for DRAM. Result: killed Mac configurations, higher prices, and an iPhone 18 that might ship with less RAM than you'd expect."
 pubDate: 2026-05-08T14:52:26.172Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - iphone-18
