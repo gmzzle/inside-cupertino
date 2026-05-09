@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-09T13:53:57.494Z",
+  "generatedAt": "2026-05-09T15:14:36.983Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "AirPods Max 2 Available for $509 in All Colors on Amazon",
+      "url": "https://www.macrumors.com/2026/05/09/airpods-max-2-for-509-all-colors/",
+      "pubDate": "2026-05-09T14:51:46.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "These great digital gifts will arrive just in time for Mother’s Day",
+      "url": "https://www.theverge.com/gadgets/927310/best-digital-gift-ideas-mothers-day-online-cards-subscriptions-2026",
+      "pubDate": "2026-05-09T14:00:00.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -199,13 +213,6 @@
       "pubDate": "2026-05-08T17:51:10.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Someone out-Trumped the Trump phone",
-      "url": "https://www.theverge.com/gadgets/926968/trump-mobile-t1-phone-dreame-aurora-phones",
-      "pubDate": "2026-05-08T17:38:53.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Apple and Intel have reached a deal to produce future chips: report",
@@ -302,13 +309,6 @@
       "title": "Wedbush biggest bull on Apple with huge target price jump to $400",
       "url": "https://appleinsider.com/articles/26/05/08/wedbush-biggest-bull-on-apple-with-huge-target-price-jump-to-400?utm_source=rss",
       "pubDate": "2026-05-08T11:46:31.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Warns Canada's Bill C-22 Could Force Encryption Backdoors",
-      "url": "https://www.macrumors.com/2026/05/08/apple-warns-canada-bill-force-encryption-backdoors/",
-      "pubDate": "2026-05-08T11:22:03.000Z"
     },
     {
       "source": "AppleInsider",
