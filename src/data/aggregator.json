@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-09T10:17:02.770Z",
+  "generatedAt": "2026-05-09T12:02:16.614Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The game that makes me actually want to exercise",
+      "url": "https://www.theverge.com/tech/927177/zombies-run-boox-billie-eilish-installer",
+      "pubDate": "2026-05-09T12:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Quantum dot TVs beat RGB LED TVs, says the company that makes QDs for TVs",
+      "url": "https://www.theverge.com/tech/927442/nanosys-sqd-vs-rgb-led",
+      "pubDate": "2026-05-09T12:00:00.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -213,25 +227,11 @@
       "pubDate": "2026-05-08T17:02:44.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Steam Controller’s reservation queue is open",
-      "url": "https://www.theverge.com/gadgets/924672/steam-controller-reservation-queue-buy",
-      "pubDate": "2026-05-08T16:59:42.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "MacRumors Giveaway: Win a MacBook Neo and Accessory Kit From Plugable",
       "url": "https://www.macrumors.com/2026/05/08/macrumors-giveaway-plugable-may-2026/",
       "pubDate": "2026-05-08T16:58:45.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The 46 best last-minute Mother’s Day gift ideas for 2026",
-      "url": "https://www.theverge.com/gadgets/907032/best-mothers-day-gift-ideas-2026-mom-tech-gadgets",
-      "pubDate": "2026-05-08T16:46:00.000Z"
     },
     {
       "source": "9to5Mac",
