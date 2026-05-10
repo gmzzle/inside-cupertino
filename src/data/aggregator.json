@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T16:13:36.110Z",
+  "generatedAt": "2026-05-10T17:16:16.616Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Ashnymph’s Childhood EP is exhilarating dance goth rock",
+      "url": "https://www.theverge.com/entertainment/927620/ashnymph-childhood-ep-music-review",
+      "pubDate": "2026-05-10T16:52:41.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "macOS 27: Two More Changes Leaked Ahead of WWDC Next Month",
+      "url": "https://www.macrumors.com/2026/05/10/two-macos-27-changes-rumored/",
+      "pubDate": "2026-05-10T16:45:48.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -213,13 +227,6 @@
       "pubDate": "2026-05-08T20:53:27.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Asus chases Elgato with its own secondary touchscreen display",
-      "url": "https://www.theverge.com/games/927333/asus-rog-strix-xg129c-secondary-display",
-      "pubDate": "2026-05-08T20:34:24.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "iOS 26 adds fun way to customize your iPhone wallpaper, here’s how to use it",
@@ -323,13 +330,6 @@
       "title": "The MacRumors Show: Is Apple Downgrading iPhone 18 Due to Memory Shortage?",
       "url": "https://www.macrumors.com/2026/05/08/the-macrumors-show-is-apple-downgrading-iphone-18/",
       "pubDate": "2026-05-08T14:47:17.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Best Apple Deals of the Week: Shop Popular Mother's Day Accessory Deals, Plus AirPods Max 2 for $509.99",
-      "url": "https://www.macrumors.com/2026/05/08/best-apple-deals-of-the-week-5-8-26/",
-      "pubDate": "2026-05-08T14:37:48.000Z"
     },
     {
       "source": "AppleInsider",
