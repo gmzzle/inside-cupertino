@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T04:16:46.789Z",
+  "generatedAt": "2026-05-10T07:35:26.575Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Steeper discounts: MacBook Pros plunge to as low as $1,499, save up to $500",
+      "url": "https://appleinsider.com/articles/26/05/10/steeper-discounts-macbook-pros-plunge-to-as-low-as-1499-save-up-to-500?utm_source=rss",
+      "pubDate": "2026-05-10T06:13:12.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -337,13 +344,6 @@
       "title": "How to pause Activity Rings in watchOS 26 when you need a break",
       "url": "https://appleinsider.com/inside/watchos-11/tips/how-to-pause-activity-rings-in-watchos-11-when-you-need-a-break?utm_source=rss",
       "pubDate": "2026-05-08T02:55:24.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Canadian encryption law could force Apple to take drastic action like in UK",
-      "url": "https://appleinsider.com/articles/26/05/08/canadian-encryption-law-could-force-apple-to-take-drastic-action-like-in-uk?utm_source=rss",
-      "pubDate": "2026-05-08T02:46:45.000Z"
     },
     {
       "source": "Six Colors",
