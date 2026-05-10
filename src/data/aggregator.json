@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T09:48:41.800Z",
+  "generatedAt": "2026-05-10T11:14:59.435Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Vivo’s X300 Ultra has the best cameras in any phone",
+      "url": "https://www.theverge.com/tech/926067/vivos-x300-ultra-has-the-best-cameras-in-any-phone",
+      "pubDate": "2026-05-10T11:00:00.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -211,13 +218,6 @@
       "title": "Updated iOS 26.5 & iPadOS 26.5 RC 2 builds tighten final release",
       "url": "https://appleinsider.com/articles/26/05/08/updated-ios-265-ipados-265-rc-2-builds-tighten-final-release?utm_source=rss",
       "pubDate": "2026-05-08T18:08:34.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "DOGE used ChatGPT in a way that was both dumb and illegal, judge rules",
-      "url": "https://www.theverge.com/policy/927071/doge-chatgpt-grants-canceled",
-      "pubDate": "2026-05-08T18:02:44.000Z"
     },
     {
       "source": "9to5Mac",
