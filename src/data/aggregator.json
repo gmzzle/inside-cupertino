@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T11:14:59.435Z",
+  "generatedAt": "2026-05-10T12:06:29.000Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Netflix may have finally figured out games",
+      "url": "https://www.theverge.com/column/926250/netflix-tv-games-strategy",
+      "pubDate": "2026-05-10T12:00:00.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -190,13 +197,6 @@
       "title": "CarPlay keeps getting better, here are two new features I’ve been loving",
       "url": "https://9to5mac.com/2026/05/08/carplay-keeps-getting-better-here-are-two-new-features-ive-been-loving/",
       "pubDate": "2026-05-08T19:01:35.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "All the latest updates on AI data centers",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-      "pubDate": "2026-05-08T18:45:08.000Z"
     },
     {
       "source": "AppleInsider",
