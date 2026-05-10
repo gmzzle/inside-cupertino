@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T17:16:16.616Z",
+  "generatedAt": "2026-05-10T19:35:02.232Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Here’s how Apple could make its Hide My Email feature even better for iCloud+ users",
+      "url": "https://9to5mac.com/2026/05/10/apple-hide-my-email-icloud-feature-requests-improvements/",
+      "pubDate": "2026-05-10T19:16:13.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Trump Mobile's T1 is still vaporware a year and $59M later",
+      "url": "https://appleinsider.com/articles/26/05/10/trump-mobiles-t1-smartphone-is-still-vaporware?utm_source=rss",
+      "pubDate": "2026-05-10T17:48:24.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -92,13 +106,6 @@
       "title": "Apple’s biggest iPad competitor isn’t Android, it’s older iPads",
       "url": "https://9to5mac.com/2026/05/10/apples-ipad-competition-is-coming-from-within-heres-why/",
       "pubDate": "2026-05-10T13:45:15.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Trump Mobile's T1 smartphone is still vaporware",
-      "url": "https://appleinsider.com/articles/26/05/10/trump-mobiles-t1-smartphone-is-still-vaporware?utm_source=rss",
-      "pubDate": "2026-05-10T13:19:18.000Z"
     },
     {
       "source": "The Verge",
@@ -302,13 +309,6 @@
       "title": "Apple Could Soon Be Buying iPhone and Mac Chips From Old Frenemy Intel",
       "url": "https://www.macrumors.com/2026/05/08/apple-intel-preliminary-chip-deal/",
       "pubDate": "2026-05-08T17:31:36.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple releases iOS 26.5 RC 2 ahead of public launch",
-      "url": "https://9to5mac.com/2026/05/08/apple-releases-ios-26-5-rc-2-ahead-of-public-launch/",
-      "pubDate": "2026-05-08T17:18:01.000Z"
     },
     {
       "source": "MacRumors",
