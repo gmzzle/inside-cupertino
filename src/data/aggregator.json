@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T08:37:42.216Z",
+  "generatedAt": "2026-05-11T12:24:10.207Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,97 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Gurman: New Apple Vision Pro Won't Arrive for at Least Two Years",
+      "url": "https://www.macrumors.com/2026/05/11/new-vision-pro-wont-arrive-at-least-two-years/",
+      "pubDate": "2026-05-11T12:16:03.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Venmo finally takes privacy seriously",
+      "url": "https://www.theverge.com/tech/927503/venmo-app-redesign-privacy-posts",
+      "pubDate": "2026-05-11T12:00:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple Watch won't be getting on-device Touch ID anytime soon",
+      "url": "https://appleinsider.com/articles/26/05/11/apple-watch-wont-be-getting-on-device-touch-id-anytime-soon?utm_source=rss",
+      "pubDate": "2026-05-11T11:57:44.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple Creator Studio may get better color correction features from a tiny acquisition",
+      "url": "https://appleinsider.com/articles/26/05/11/apple-creator-studio-may-get-better-color-correction-features-from-a-tiny-acquisition?utm_source=rss",
+      "pubDate": "2026-05-11T11:45:12.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple has reportedly rejected Touch ID for the Apple Watch for two reasons",
+      "url": "https://9to5mac.com/2026/05/11/apple-has-reportedly-rejected-touch-id-for-the-apple-watch-for-two-reasons/",
+      "pubDate": "2026-05-11T11:20:28.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Windows 11 is getting a macOS-like speed boost",
+      "url": "https://www.theverge.com/news/927736/windows-11-is-getting-a-macos-like-speed-boost",
+      "pubDate": "2026-05-11T11:12:42.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iOS 26 review one year later: Liquid Glass complaints hide the real problem",
+      "url": "https://appleinsider.com/articles/26/05/08/ios-26-review-one-year-later-liquid-glass-complaints-hide-the-real-problem?utm_source=rss",
+      "pubDate": "2026-05-11T11:08:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "WhatsApp Plus subscriptions rolling out to iPhone, but you probably don’t need one",
+      "url": "https://9to5mac.com/2026/05/11/whatsapp-plus-subscriptions-rolling-out-to-iphone-but-you-probably-dont-need-one/",
+      "pubDate": "2026-05-11T10:53:34.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Next Apple Watch Models Unlikely to Add Touch ID, Focus on Battery Life",
+      "url": "https://www.macrumors.com/2026/05/11/apple-prioritizing-battery-life-apple-watch/",
+      "pubDate": "2026-05-11T10:41:24.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Forza Horizon 6 has been leaked and cracked a week before its release",
+      "url": "https://www.theverge.com/news/927704/forza-horizon-6-leak-cracked",
+      "pubDate": "2026-05-11T10:21:17.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Security Bite Podcast: Why ClickFix is now the top way Macs get infected",
+      "url": "https://9to5mac.com/2026/05/11/security-bite-podcast-why-clickfix-is-now-the-top-way-macs-get-infected/",
+      "pubDate": "2026-05-11T10:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Logitech’s tiny folding mouse improves upon the laptop trackpad",
+      "url": "https://www.theverge.com/tech/927695/logitech-folding-mouse-leaked-images",
+      "pubDate": "2026-05-11T09:57:19.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "WhatsApp Plus Lands on iPhone With Custom Themes, Icons, and More",
+      "url": "https://www.macrumors.com/2026/05/11/whatsapp-plus-lands-on-iphone/",
+      "pubDate": "2026-05-11T09:41:14.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -164,25 +255,11 @@
       "pubDate": "2026-05-09T16:35:33.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Dyson’s powerful 360 Vis Nav robovac is down to $279.99 for a limited time",
-      "url": "https://www.theverge.com/gadgets/926942/dyson-360-vis-nav-robot-vacuum-woot-dust-busting-deals-sale",
-      "pubDate": "2026-05-09T16:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "AirPods Max 2 Available for $509 in All Colors on Amazon",
       "url": "https://www.macrumors.com/2026/05/09/airpods-max-2-for-509-all-colors/",
       "pubDate": "2026-05-09T14:51:46.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "These great digital gifts will arrive just in time for Mother’s Day",
-      "url": "https://www.theverge.com/gadgets/927310/best-digital-gift-ideas-mothers-day-online-cards-subscriptions-2026",
-      "pubDate": "2026-05-09T14:00:00.000Z"
     },
     {
       "source": "9to5Mac",
@@ -197,20 +274,6 @@
       "title": "Top Stories: iOS 26.5 Coming Soon, Goodbye $599 Mac Mini, and More",
       "url": "https://www.macrumors.com/2026/05/09/top-stories-ios-26-5-coming-soon/",
       "pubDate": "2026-05-09T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Let it snow",
-      "url": "https://www.theverge.com/entertainment/926911/snow-video-games-moomins-froggy",
-      "pubDate": "2026-05-09T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The game that makes me actually want to exercise",
-      "url": "https://www.theverge.com/tech/927177/zombies-run-boox-billie-eilish-installer",
-      "pubDate": "2026-05-09T12:00:00.000Z"
     },
     {
       "source": "MacRumors",
@@ -269,13 +332,6 @@
       "pubDate": "2026-05-08T19:37:13.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "CarPlay keeps getting better, here are two new features I’ve been loving",
-      "url": "https://9to5mac.com/2026/05/08/carplay-keeps-getting-better-here-are-two-new-features-ive-been-loving/",
-      "pubDate": "2026-05-08T19:01:35.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Weekend deal: Apple's 1TB M5 MacBook Pro with 24GB RAM falls to $1,699",
@@ -283,67 +339,11 @@
       "pubDate": "2026-05-08T18:20:14.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Prime Video just launched vertical video inside its iPhone app",
-      "url": "https://9to5mac.com/2026/05/08/prime-video-just-launched-vertical-video-inside-its-iphone-app/",
-      "pubDate": "2026-05-08T18:15:04.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Updated iOS 26.5 & iPadOS 26.5 RC 2 builds tighten final release",
-      "url": "https://appleinsider.com/articles/26/05/08/updated-ios-265-ipados-265-rc-2-builds-tighten-final-release?utm_source=rss",
-      "pubDate": "2026-05-08T18:08:34.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "HomeKit Weekly: The Airversa QliQ brings a rechargeable Thread smart button to Apple Home",
-      "url": "https://9to5mac.com/2026/05/08/airversa-qliq/",
-      "pubDate": "2026-05-08T18:01:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "The Apple Silicon chip in your next device may be made by Intel",
-      "url": "https://appleinsider.com/articles/26/05/08/apple-may-have-signed-a-deal-with-intel-to-make-apple-silicon?utm_source=rss",
-      "pubDate": "2026-05-08T17:51:10.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Could Soon Be Buying iPhone and Mac Chips From Old Frenemy Intel",
       "url": "https://www.macrumors.com/2026/05/08/apple-intel-preliminary-chip-deal/",
       "pubDate": "2026-05-08T17:31:36.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Seeds Second iOS 26.5 and iPadOS 26.5 Release Candidates to Developers",
-      "url": "https://www.macrumors.com/2026/05/08/apple-seeds-ios-26-5-rc-2/",
-      "pubDate": "2026-05-08T17:16:47.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "MacRumors Giveaway: Win a MacBook Neo and Accessory Kit From Plugable",
-      "url": "https://www.macrumors.com/2026/05/08/macrumors-giveaway-plugable-may-2026/",
-      "pubDate": "2026-05-08T16:58:45.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "The MacRumors Show: Is Apple Downgrading iPhone 18 Due to Memory Shortage?",
-      "url": "https://www.macrumors.com/2026/05/08/the-macrumors-show-is-apple-downgrading-iphone-18/",
-      "pubDate": "2026-05-08T14:47:17.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Mac shortages, iPhone rumors, and 'Schmigadoon!' on the AppleInsider Podcast",
-      "url": "https://appleinsider.com/articles/26/05/08/mac-shortages-iphone-rumors-and-schmigadoon-on-the-appleinsider-podcast?utm_source=rss",
-      "pubDate": "2026-05-08T13:06:14.000Z"
     },
     {
       "source": "Six Colors",
