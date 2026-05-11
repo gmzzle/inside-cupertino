@@ -2,7 +2,7 @@
 title: "macOS 27 will dial back some of Tahoe's more aggressive design choices"
 description: "Apple's tweaking transparency and shadows after users complained about readability. Took them long enough."
 pubDate: 2026-05-10T14:20:25.388Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - macos
