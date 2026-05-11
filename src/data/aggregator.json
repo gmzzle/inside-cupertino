@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T00:09:35.734Z",
+  "generatedAt": "2026-05-11T04:37:54.750Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Does iPhone need its own MacBook Neo moment?",
+      "url": "https://9to5mac.com/2026/05/10/should-apple-make-an-even-cheaper-iphone-neo-to-compete/",
+      "pubDate": "2026-05-11T01:39:29.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -302,13 +309,6 @@
       "title": "The Apple Silicon chip in your next device may be made by Intel",
       "url": "https://appleinsider.com/articles/26/05/08/apple-may-have-signed-a-deal-with-intel-to-make-apple-silicon?utm_source=rss",
       "pubDate": "2026-05-08T17:51:10.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple and Intel have reached a deal to produce future chips: report",
-      "url": "https://9to5mac.com/2026/05/08/apple-and-intel-have-reached-a-deal-to-produce-future-chips-report/",
-      "pubDate": "2026-05-08T17:37:24.000Z"
     },
     {
       "source": "MacRumors",
