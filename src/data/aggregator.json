@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T18:10:56.608Z",
+  "generatedAt": "2026-05-11T20:05:00.908Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,83 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Govee’s new portable smart lamp is on sale for the first time",
+      "url": "https://www.theverge.com/gadgets/928249/govee-table-lamp-classic-deal-sale",
+      "pubDate": "2026-05-11T19:56:28.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Keeping (and losing) track of Mac sleep settings",
+      "url": "https://sixcolors.com/post/2026/05/keeping-and-losing-track-of-mac-sleep-settings/",
+      "pubDate": "2026-05-11T19:44:25.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Tim Cook is among 16 US execs going to China with Trump",
+      "url": "https://appleinsider.com/articles/26/05/11/tim-cook-is-among-16-us-execs-going-to-china-with-trump?utm_source=rss",
+      "pubDate": "2026-05-11T19:34:17.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's iOS 26.5 Update Patches More Than 50 Security Flaws",
+      "url": "https://www.macrumors.com/2026/05/11/ios-26-5-security-fixes/",
+      "pubDate": "2026-05-11T19:29:29.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple updates App Store rules for betting apps in Brazil",
+      "url": "https://9to5mac.com/2026/05/11/apple-updates-app-store-rules-for-betting-apps-in-brazil/",
+      "pubDate": "2026-05-11T19:29:16.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 26.5: These carriers offer RCS end-to-end encrypted messaging",
+      "url": "https://9to5mac.com/2026/05/11/ios-26-5-these-carriers-offer-rcs-end-to-end-encrypted-messaging/",
+      "pubDate": "2026-05-11T19:06:49.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Large-scale testing of encrypted RCS texting starts in iOS 26.5",
+      "url": "https://appleinsider.com/articles/26/05/11/large-scale-testing-of-encrypted-rcs-texting-starts-in-ios-265?utm_source=rss",
+      "pubDate": "2026-05-11T18:33:39.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Update your older iPhone, iPad, or Mac now, to get new fixes for WebKit, Wi-Fi & kernel flaws",
+      "url": "https://appleinsider.com/articles/26/05/11/update-your-older-iphone-ipad-or-mac-now-to-get-new-fixes-for-webkit-wi-fi-kernel-flaws?utm_source=rss",
+      "pubDate": "2026-05-11T18:29:34.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Palantir&#8217;s true believers are wearing this jacket",
+      "url": "https://www.theverge.com/report/928026/palantir-chore-coat",
+      "pubDate": "2026-05-11T18:26:04.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 26.5 has fixes for 50+ security issues on iPhone, details here",
+      "url": "https://9to5mac.com/2026/05/11/ios-26-5-has-fixes-for-50-security-issues-on-iphone-details-here/",
+      "pubDate": "2026-05-11T18:11:39.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "MagSafe Monday: Clean up your nightstand with the NOCO XGrid XDP3",
+      "url": "https://9to5mac.com/2026/05/11/noco-xgrid-xdp3/",
+      "pubDate": "2026-05-11T18:11:00.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -68,7 +145,7 @@
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
-      "title": "macOS 26.5 adds new way to control your Mac’s power state via switches",
+      "title": "macOS 26.5’s new setting might solve Mac mini power button complaints",
       "url": "https://9to5mac.com/2026/05/11/macos-26-5-adds-new-way-to-control-your-macs-power-state-via-switches/",
       "pubDate": "2026-05-11T17:40:10.000Z"
     },
@@ -164,20 +241,6 @@
       "pubDate": "2026-05-11T17:06:08.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple releases iOS 26.5 with 3 key features including new wallpapers for your iPhone",
-      "url": "https://9to5mac.com/2026/05/11/apple-releases-ios-26-5-with-3-key-features-including-new-wallpapers-for-your-iphone/",
-      "pubDate": "2026-05-11T17:05:34.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPadOS 26.5 now available for iPad, here’s what’s new",
-      "url": "https://9to5mac.com/2026/05/11/ipados-26-5-now-available-for-ipad-heres-whats-new/",
-      "pubDate": "2026-05-11T17:05:22.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Texas sues Netflix for advertising &#8216;bait and switch&#8217; and spying",
@@ -255,25 +318,11 @@
       "pubDate": "2026-05-11T16:00:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: May 11, 2026 – macOS 27, Apple-Intel deal",
-      "url": "https://9to5mac.com/2026/05/11/daily-may-11-2026/",
-      "pubDate": "2026-05-11T15:52:09.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "7 of our favorite deals from Amazon’s Pet Days sale",
       "url": "https://www.theverge.com/gadgets/927788/amazon-pet-days-tech-gadgets-cat-dog-deal-sale",
       "pubDate": "2026-05-11T15:45:32.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: M5 MacBook Pro up to $350 off orig. list, M5 MacBook Air $180 off, Hue Bridge Pro, CarPlay units, more",
-      "url": "https://9to5mac.com/2026/05/11/deals-m5-macbook-pro-m5-macbook-air-hue-bridge-pro/",
-      "pubDate": "2026-05-11T15:31:05.000Z"
     },
     {
       "source": "The Verge",
@@ -313,51 +362,9 @@
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple Creator Studio may get better color correction features from a tiny acquisition",
-      "url": "https://appleinsider.com/articles/26/05/11/apple-creator-studio-may-get-better-color-correction-features-from-a-tiny-acquisition?utm_source=rss",
-      "pubDate": "2026-05-11T14:37:47.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
       "title": "New Apple ad pitches college students on buying a Mac",
       "url": "https://appleinsider.com/articles/26/05/11/new-apple-ad-pitches-college-students-on-buying-a-mac?utm_source=rss",
       "pubDate": "2026-05-11T14:30:14.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Joanna Stern is not a robot, but she lived with them",
-      "url": "https://www.theverge.com/podcast/926752/joanna-stern-i-am-not-a-robot-new-things-media-youtube-ai-automation",
-      "pubDate": "2026-05-11T14:00:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "B&H Introduces New Low Prices On 2026 MacBook Pro and MacBook Air",
-      "url": "https://www.macrumors.com/2026/05/11/bh-new-low-prices-macbook-pro-macbook-air/",
-      "pubDate": "2026-05-11T13:46:52.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Major W200 update, new smart gear, & third-party Siri speakers on Smart Home Insider",
-      "url": "https://appleinsider.com/articles/26/05/11/major-w200-update-new-smart-gear-third-party-siri-speakers-on-smart-home-insider?utm_source=rss",
-      "pubDate": "2026-05-11T13:35:45.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "TikTok is letting UK users pay to remove ads",
-      "url": "https://www.theverge.com/tech/927761/tiktok-ad-free-paid-subscription-uk",
-      "pubDate": "2026-05-11T13:02:20.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple Watch won't be getting on-device Touch ID anytime soon",
-      "url": "https://appleinsider.com/articles/26/05/11/apple-watch-wont-be-getting-on-device-touch-id-anytime-soon?utm_source=rss",
-      "pubDate": "2026-05-11T11:57:44.000Z"
     },
     {
       "source": "Six Colors",
@@ -365,13 +372,6 @@
       "title": "Culpan: Apple goes all in on MacBook Neo production ↦",
       "url": "https://sixcolors.com/link/2026/05/culpan-apple-goes-all-in-on-macbook-neo-production/",
       "pubDate": "2026-05-07T16:05:33.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Sandwich floats into presentations with Hovercraft ↦",
-      "url": "https://sixcolors.com/link/2026/05/sandwich-floats-into-presentations-with-hovercraft/",
-      "pubDate": "2026-05-06T20:21:24.000Z"
     }
   ]
 }
