@@ -2,7 +2,7 @@
 title: "The M5 Pro MacBook Pro is already $216 off and Apple launched it eight weeks ago"
 description: "Amazon's discounting the 14-inch M5 Pro to $1,984. That's fast, even for Apple's professional laptops."
 pubDate: 2026-05-10T14:20:41.983Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - macbook-pro
