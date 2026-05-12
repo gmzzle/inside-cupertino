@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T23:12:39.986Z",
+  "generatedAt": "2026-05-12T00:12:42.382Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,41 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iOS 26.5 Features: Everything New in iOS 26.5",
+      "url": "https://www.macrumors.com/2026/05/11/ios-26-5-features/",
+      "pubDate": "2026-05-12T00:09:01.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Tim Cook among CEOs confirmed for President Trump’s China trip",
+      "url": "https://9to5mac.com/2026/05/11/tim-cook-among-ceos-confirmed-for-president-trumps-china-trip/",
+      "pubDate": "2026-05-11T23:49:40.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Google Maps for CarPlay Getting Gemini AI",
+      "url": "https://www.macrumors.com/2026/05/11/google-maps-carplay-gemini-ai/",
+      "pubDate": "2026-05-11T23:25:31.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Here’s how to get the U.S. Mint’s $1 coin honoring Steve Jobs",
+      "url": "https://9to5mac.com/2026/05/11/heres-how-to-get-the-u-s-mints-1-coin-honoring-steve-jobs/",
+      "pubDate": "2026-05-11T23:19:02.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple studies explore LLMs spatial understanding, sign language annotation",
+      "url": "https://appleinsider.com/articles/26/05/11/apple-studies-explore-llms-spatial-understanding-sign-language-annotation?utm_source=rss",
+      "pubDate": "2026-05-11T23:17:19.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -248,27 +283,6 @@
       "pubDate": "2026-05-11T17:46:13.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "macOS 26.5’s new setting might solve Mac mini power button complaints",
-      "url": "https://9to5mac.com/2026/05/11/macos-26-5-adds-new-way-to-control-your-macs-power-state-via-switches/",
-      "pubDate": "2026-05-11T17:40:10.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Developer app gains Liquid Glass design and WWDC 2026 iMessage stickers",
-      "url": "https://9to5mac.com/2026/05/11/apple-developer-app-gains-liquid-glass-design-and-new-imessage-stickers-for-wwdc/",
-      "pubDate": "2026-05-11T17:35:09.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Users get an iPadOS 26.5 update focused on services & subscriptions",
-      "url": "https://appleinsider.com/articles/26/05/11/users-get-an-ipados-265-update-focused-on-services-subscriptions?utm_source=rss",
-      "pubDate": "2026-05-11T17:35:03.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "No signs of upgraded Apple Intelligence as iOS 26.5 arrives for all users",
@@ -330,20 +344,6 @@
       "title": "Apple Releases watchOS 26.5 With New Pride Luminance Watch Face",
       "url": "https://www.macrumors.com/2026/05/11/apple-releases-watchos-26-5/",
       "pubDate": "2026-05-11T17:03:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Releases tvOS 26.5",
-      "url": "https://www.macrumors.com/2026/05/11/apple-releases-tvos-26-5/",
-      "pubDate": "2026-05-11T17:02:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Releases visionOS 26.5",
-      "url": "https://www.macrumors.com/2026/05/11/apple-releases-visionos-26-5/",
-      "pubDate": "2026-05-11T17:01:00.000Z"
     },
     {
       "source": "The Verge",
