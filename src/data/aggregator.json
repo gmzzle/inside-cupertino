@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T16:33:19.470Z",
+  "generatedAt": "2026-05-12T19:12:35.470Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,139 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Severance season 3 is coming ‘much sooner’ than last season did, per star",
+      "url": "https://9to5mac.com/2026/05/12/severance-season-3-is-coming-much-sooner-than-last-season-did-per-star/",
+      "pubDate": "2026-05-12T18:58:59.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Watch an exclusive Lady Gaga concert film on Apple Music on May 14",
+      "url": "https://appleinsider.com/articles/26/05/12/watch-an-exclusive-lady-gaga-concert-film-on-apple-music-on-may-14?utm_source=rss",
+      "pubDate": "2026-05-12T18:29:55.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "MacBook Neo shipping estimates just saw a positive turn for customers",
+      "url": "https://9to5mac.com/2026/05/12/macbook-neo-shipping-estimates-just-saw-a-positive-turn-for-customers/",
+      "pubDate": "2026-05-12T18:06:33.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Watch Hypertension Alerts and AirPods Hearing Aid Feature Expand to More Countries",
+      "url": "https://www.macrumors.com/2026/05/12/apple-health-features-more-countries/",
+      "pubDate": "2026-05-12T17:53:44.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "New Lady Gaga concert film streaming this Thursday exclusively on Apple Music",
+      "url": "https://9to5mac.com/2026/05/12/new-lady-gaga-concert-film-streaming-this-thursday-exclusively-on-apple-music/",
+      "pubDate": "2026-05-12T17:49:47.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Hands-on: CUKTECH 30 Ultra delivers 300W charging, real-time power monitoring, more",
+      "url": "https://9to5mac.com/2026/05/12/hands-on-cuktech-30-ultra-delivers-300w-charging-real-time-power-monitoring-more/",
+      "pubDate": "2026-05-12T17:42:50.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Price war: M5 MacBook Pro with 32GB RAM, 1TB SSD falls to record low $1,799",
+      "url": "https://appleinsider.com/articles/26/05/12/price-war-m5-macbook-pro-with-32gb-ram-1tb-ssd-falls-to-record-low-1799?utm_source=rss",
+      "pubDate": "2026-05-12T17:41:59.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 26.5’s Apple Maps app has two notable changes, here’s what’s new",
+      "url": "https://9to5mac.com/2026/05/12/ios-26-5s-apple-maps-app-has-two-notable-changes-heres-whats-new/",
+      "pubDate": "2026-05-12T17:37:51.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Sam Altman says Elon Musk’s mind games were damaging OpenAI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/928861/openai-sam-altman-elon-musk-damage",
+      "pubDate": "2026-05-12T17:34:09.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Commemorative US Mint Steve Jobs coin sells out in just 11 minutes",
+      "url": "https://appleinsider.com/articles/26/05/12/commemorative-us-mint-steve-jobs-coin-sells-out-in-just-11-minutes?utm_source=rss",
+      "pubDate": "2026-05-12T17:25:36.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "How to save on annual Apple App Store subscriptions, with a catch",
+      "url": "https://appleinsider.com/inside/app-store/tips/how-to-save-on-annual-apple-app-store-subscriptions-with-a-catch?utm_source=rss",
+      "pubDate": "2026-05-12T17:17:24.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "M5 MacBook Pro Hits Record Low Price With Major $300 Discount at Amazon",
+      "url": "https://www.macrumors.com/2026/05/12/m5-macbook-pro-hits-discount/",
+      "pubDate": "2026-05-12T17:16:18.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Android Auto is now one (screen) size fits all",
+      "url": "https://www.theverge.com/tech/927759/android-auto-is-now-one-screen-size-fits-all",
+      "pubDate": "2026-05-12T17:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Google announces its Chromebook successor: the Googlebook",
+      "url": "https://www.theverge.com/tech/928479/google-googlebook-laptops-android-tease-aluminium-chromebook",
+      "pubDate": "2026-05-12T17:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The 9 biggest new features in Android 17",
+      "url": "https://www.theverge.com/tech/928653/google-android-17-9-biggest-new-features-android-show-io",
+      "pubDate": "2026-05-12T17:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Gemini&#8217;s latest updates are all about controlling your phone",
+      "url": "https://www.theverge.com/tech/928724/gemini-intelligence-android-io-autofill",
+      "pubDate": "2026-05-12T17:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Panasonic’s new Lumix L10 is a compact camera with a focus on photography",
+      "url": "https://www.theverge.com/tech/928767/panasonic-lumix-l10-four-thirds-sensor-digital-camera-price-availability",
+      "pubDate": "2026-05-12T16:56:54.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Sponsor) ZenStand",
+      "url": "https://sixcolors.com/sponsor/2026/05/zenstand-2/",
+      "pubDate": "2026-05-12T16:56:23.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "PSA: Spotify confirms ongoing outage",
+      "url": "https://9to5mac.com/2026/05/12/psa-spotify-confirms-ongoing-outage/",
+      "pubDate": "2026-05-12T16:54:51.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -66,13 +199,6 @@
       "pubDate": "2026-05-12T15:53:40.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Rivian’s AI-powered voice assistant is ready to roll",
-      "url": "https://www.theverge.com/transportation/928651/rivian-ai-voice-assistant-r1-r2",
-      "pubDate": "2026-05-12T15:51:38.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "If your Mac is saying the ChatGPT app is malware, here's how to fix it",
@@ -92,13 +218,6 @@
       "title": "Deals: 32GB M5 MacBook Pro $300 off, 48GB M5 Pro $300 off, iPad Air, Apple MagSafe Battery 40% off, more",
       "url": "https://9to5mac.com/2026/05/12/deals-m5-macbook-pro-m5-pro-apple-magsafe-battery/",
       "pubDate": "2026-05-12T15:30:49.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Anker&#8217;s fast, foldable 3-in-1 charging station is back to its best price yet",
-      "url": "https://www.theverge.com/gadgets/928600/anker-prime-wireless-charging-station-jbl-flip-7-deal-sale",
-      "pubDate": "2026-05-12T15:23:36.000Z"
     },
     {
       "source": "AppleInsider",
@@ -143,13 +262,6 @@
       "pubDate": "2026-05-12T14:59:39.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Google&#8217;s Aluminium OS revealed in 16-minute leaked video",
-      "url": "https://www.theverge.com/tech/928598/google-aluminium-os-mystic-leaks-video",
-      "pubDate": "2026-05-12T14:52:58.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Bluey is Taking Over Apple Arcade Next Week",
@@ -171,25 +283,11 @@
       "pubDate": "2026-05-12T14:42:24.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "There’s an internet choke point in the Middle East — is the solution in the North Pole?",
-      "url": "https://www.theverge.com/report/928512/arctic-internet-cable-chokepoint-polar-connect",
-      "pubDate": "2026-05-12T14:30:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "How to check whether your iPhone qualifies for Apple Intelligence settlement money",
       "url": "https://appleinsider.com/inside/iphone-16/tips/how-to-check-whether-your-iphone-qualifies-for-apple-intelligence-settlement-money?utm_source=rss",
       "pubDate": "2026-05-12T14:25:27.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Arcade is bringing Bluey to five hit games, plus adding new titles",
-      "url": "https://9to5mac.com/2026/05/12/apple-arcade-is-bringing-bluey-to-five-hit-games-plus-adding-new-titles/",
-      "pubDate": "2026-05-12T14:24:55.000Z"
     },
     {
       "source": "MacRumors",
@@ -211,55 +309,6 @@
       "title": "Missed Out on Classic Apple Watch Bands? Woot's Latest Sale Revives Discontinued Colors at Steep Discounts",
       "url": "https://www.macrumors.com/2026/05/12/classic-apple-watch-bands-woot/",
       "pubDate": "2026-05-12T13:45:17.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Amazon’s ultrafast 30-minute deliveries are now available in more cities",
-      "url": "https://www.theverge.com/tech/928473/amazons-ultrafast-30-minute-deliveries-are-now-available-in-more-cities",
-      "pubDate": "2026-05-12T13:34:12.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 26.5 now available: Here are all the new iPhone features",
-      "url": "https://9to5mac.com/2026/05/12/ios-26-5-new-iphone-features/",
-      "pubDate": "2026-05-12T13:34:02.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "One of CarPlay’s most popular apps is about to get a big upgrade, per leak",
-      "url": "https://9to5mac.com/2026/05/12/one-of-carplays-most-popular-apps-is-about-to-get-a-big-upgrade-per-leak/",
-      "pubDate": "2026-05-12T13:33:33.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Waymo recalls robotaxis for driving on flooded roads",
-      "url": "https://www.theverge.com/transportation/928480/waymo-recall-flooded-roads-robotaxi",
-      "pubDate": "2026-05-12T13:32:39.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Spotify Party of the Year(s) is your all-time Spotify Wrapped",
-      "url": "https://9to5mac.com/2026/05/12/spotify-party-of-the-years-is-your-all-time-spotify-wrapped/",
-      "pubDate": "2026-05-12T12:41:45.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "The FBI may have reset your wireless router remotely; if so, you should replace it",
-      "url": "https://9to5mac.com/2026/05/12/the-fbi-may-have-reset-your-wireless-router-remotely-if-so-you-should-replace-it/",
-      "pubDate": "2026-05-12T12:10:59.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iRobot announces eight smaller and better Roomba bots after bankruptcy",
-      "url": "https://9to5mac.com/2026/05/12/irobot-announces-eight-smaller-and-better-roomba-bots-after-bankruptcy/",
-      "pubDate": "2026-05-12T11:51:32.000Z"
     },
     {
       "source": "AppleInsider",
@@ -311,41 +360,6 @@
       "pubDate": "2026-05-11T23:17:19.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Bought Color Grading Tool Color.io in January",
-      "url": "https://www.macrumors.com/2026/05/11/apple-color-io-acquisition/",
-      "pubDate": "2026-05-11T23:09:20.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "OpenAI's New Daybreak Platform Uses GPT-5.5 to Find Software Vulnerabilities",
-      "url": "https://www.macrumors.com/2026/05/11/openai-launches-daybreak/",
-      "pubDate": "2026-05-11T22:08:02.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple Savings appears on the web but only for document access",
-      "url": "https://appleinsider.com/articles/26/05/11/apple-savings-appears-on-the-web-but-only-for-document-access?utm_source=rss",
-      "pubDate": "2026-05-11T21:59:04.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Save up to $180 on Apple's M5 MacBook Air with bonus coupons",
-      "url": "https://appleinsider.com/articles/26/05/11/save-up-to-180-on-apples-m5-macbook-air-with-bonus-coupons?utm_source=rss",
-      "pubDate": "2026-05-11T21:40:05.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple headed to South Korea to fight off US antitrust case, DOJ upset about it",
-      "url": "https://appleinsider.com/articles/26/05/11/apple-headed-to-south-korea-to-fight-off-us-antitrust-case-doj-upset-about-it?utm_source=rss",
-      "pubDate": "2026-05-11T21:27:40.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) Upgrade 615: But in Citrus!",
@@ -353,25 +367,11 @@
       "pubDate": "2026-05-11T21:24:25.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Steve Jobs is getting a marked-up $1 coin, courtesy US Mint",
-      "url": "https://appleinsider.com/articles/26/05/11/steve-jobs-is-getting-a-marked-up-1-coin-courtesy-us-mint?utm_source=rss",
-      "pubDate": "2026-05-11T20:44:51.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Keeping (and losing) track of Mac sleep settings",
       "url": "https://sixcolors.com/post/2026/05/keeping-and-losing-track-of-mac-sleep-settings/",
       "pubDate": "2026-05-11T19:44:25.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Apple rolls out encrypted RCS messaging in beta ↦",
-      "url": "https://sixcolors.com/link/2026/05/apple-rolls-out-encrypted-rcs-messaging-in-beta/",
-      "pubDate": "2026-05-11T17:46:13.000Z"
     }
   ]
 }
