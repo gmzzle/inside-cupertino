@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T10:42:50.146Z",
+  "generatedAt": "2026-05-12T13:16:34.400Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,76 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Spotify Party of the Year(s) is your all-time Spotify Wrapped",
+      "url": "https://9to5mac.com/2026/05/12/spotify-party-of-the-years-is-your-all-time-spotify-wrapped/",
+      "pubDate": "2026-05-12T12:41:45.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Tim Cook is among 16 US execs going to China with Trump",
+      "url": "https://appleinsider.com/articles/26/05/11/tim-cook-is-among-16-us-execs-going-to-china-with-trump?utm_source=rss",
+      "pubDate": "2026-05-12T12:21:57.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Spotify’s latest ‘Wrapped’ covers your entire music history",
+      "url": "https://www.theverge.com/entertainment/928395/spotify-20th-anniversary-wrapped-recap",
+      "pubDate": "2026-05-12T12:15:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "The FBI may have reset your wireless router remotely; if so, you should replace it",
+      "url": "https://9to5mac.com/2026/05/12/the-fbi-may-have-reset-your-wireless-router-remotely-if-so-you-should-replace-it/",
+      "pubDate": "2026-05-12T12:10:59.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iRobot announces eight smaller and better Roomba bots after bankruptcy",
+      "url": "https://9to5mac.com/2026/05/12/irobot-announces-eight-smaller-and-better-roomba-bots-after-bankruptcy/",
+      "pubDate": "2026-05-12T11:51:32.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Intel Inside and out: Apple's four decade long relationship",
+      "url": "https://appleinsider.com/articles/26/05/12/intel-inside-and-out-apples-four-decade-long-relationship?utm_source=rss",
+      "pubDate": "2026-05-12T11:45:29.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Tap to Pay on iPhone Launches in South Africa",
+      "url": "https://www.macrumors.com/2026/05/12/tap-to-pay-on-iphone-launches-in-south-africa/",
+      "pubDate": "2026-05-12T11:15:27.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "You can preview the new, new Digg after its takeover by bots",
+      "url": "https://9to5mac.com/2026/05/12/you-can-preview-the-new-new-digg-after-its-takeover-by-bots/",
+      "pubDate": "2026-05-12T11:13:20.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "How to watch Google’s Android Show: I/O Edition today",
+      "url": "https://www.theverge.com/tech/928276/google-android-show-io-edition-2026-how-to-watch",
+      "pubDate": "2026-05-12T11:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "eBay rejects GameStop’s $56 billion acquisition bid",
+      "url": "https://www.theverge.com/games/928436/ebay-rejects-gamestop-acquisition-bid",
+      "pubDate": "2026-05-12T10:55:02.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -220,32 +290,11 @@
       "pubDate": "2026-05-11T19:44:25.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Tim Cook is among 16 US execs going to China with Trump",
-      "url": "https://appleinsider.com/articles/26/05/11/tim-cook-is-among-16-us-execs-going-to-china-with-trump?utm_source=rss",
-      "pubDate": "2026-05-11T19:34:17.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple's iOS 26.5 Update Patches More Than 50 Security Flaws",
       "url": "https://www.macrumors.com/2026/05/11/ios-26-5-security-fixes/",
       "pubDate": "2026-05-11T19:29:29.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple updates App Store rules for betting apps in Brazil",
-      "url": "https://9to5mac.com/2026/05/11/apple-updates-app-store-rules-for-betting-apps-in-brazil/",
-      "pubDate": "2026-05-11T19:29:16.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 26.5: These carriers offer RCS end-to-end encrypted messaging",
-      "url": "https://9to5mac.com/2026/05/11/ios-26-5-these-carriers-offer-rcs-end-to-end-encrypted-messaging/",
-      "pubDate": "2026-05-11T19:06:49.000Z"
     },
     {
       "source": "AppleInsider",
@@ -269,32 +318,11 @@
       "pubDate": "2026-05-11T18:26:04.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 26.5 has fixes for 50+ security issues on iPhone, details here",
-      "url": "https://9to5mac.com/2026/05/11/ios-26-5-has-fixes-for-50-security-issues-on-iphone-details-here/",
-      "pubDate": "2026-05-11T18:11:39.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "MagSafe Monday: Clean up your nightstand with the NOCO XGrid XDP3",
-      "url": "https://9to5mac.com/2026/05/11/noco-xgrid-xdp3/",
-      "pubDate": "2026-05-11T18:11:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Amazon Takes Up to $130 Off Apple Watch Series 11",
       "url": "https://www.macrumors.com/2026/05/11/apple-watch-series-11-130-off/",
       "pubDate": "2026-05-11T18:07:29.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple brings encrypted RCS chats to iPhone",
-      "url": "https://www.theverge.com/tech/928141/apple-ios-26-5-rcs-messages-iphone-google-android",
-      "pubDate": "2026-05-11T17:57:56.000Z"
     },
     {
       "source": "MacRumors",
@@ -309,13 +337,6 @@
       "title": "Apple rolls out encrypted RCS messaging in beta ↦",
       "url": "https://sixcolors.com/link/2026/05/apple-rolls-out-encrypted-rcs-messaging-in-beta/",
       "pubDate": "2026-05-11T17:46:13.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "visionOS 26.5 bug fix update is here for Apple Vision Pro users",
-      "url": "https://appleinsider.com/articles/26/05/11/visionos-265-bug-fix-update-is-here-for-apple-vision-pro-users?utm_source=rss",
-      "pubDate": "2026-05-11T17:29:41.000Z"
     },
     {
       "source": "AppleInsider",
@@ -337,27 +358,6 @@
       "title": "Apple Releases iOS 26.5 and iPadOS 26.5 With End-to-End Encrypted RCS, New Wallpaper, and Maps Updates",
       "url": "https://www.macrumors.com/2026/05/11/apple-releases-ios-26-5/",
       "pubDate": "2026-05-11T17:06:08.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Texas sues Netflix for advertising &#8216;bait and switch&#8217; and spying",
-      "url": "https://www.theverge.com/streaming/928071/texas-netflix-lawsuit-privacy",
-      "pubDate": "2026-05-11T17:04:22.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "macOS Tahoe 26.5 Now Available",
-      "url": "https://www.macrumors.com/2026/05/11/apple-releases-macos-tahoe-26-5/",
-      "pubDate": "2026-05-11T17:04:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Google stopped a zero-day hack that it says was developed with AI",
-      "url": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped",
-      "pubDate": "2026-05-11T16:09:42.000Z"
     },
     {
       "source": "Six Colors",
