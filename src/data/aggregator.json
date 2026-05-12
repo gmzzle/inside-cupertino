@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T07:16:22.830Z",
+  "generatedAt": "2026-05-12T10:42:50.146Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple @ Work Podcast: The 2026 trends around Apple device management",
+      "url": "https://9to5mac.com/2026/05/12/apple-work-podcast-the-2026-trends-around-apple-device-management/",
+      "pubDate": "2026-05-12T10:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "These new Roombas are smaller and cheaper",
+      "url": "https://www.theverge.com/tech/928373/irobot-roomba-robot-vacuums-price-specs-release-date",
+      "pubDate": "2026-05-12T09:02:25.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Steve Jobs U.S. Commemorative $1 Coin Goes on Sale",
+      "url": "https://www.macrumors.com/2026/05/12/steve-jobs-us-commemorative-coin-on-sale/",
+      "pubDate": "2026-05-12T08:50:40.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -269,13 +290,6 @@
       "pubDate": "2026-05-11T18:07:29.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Secure your family’s digital life and stop paying monthly with 65% off pCloud Lifetime",
-      "url": "https://9to5mac.com/2026/05/11/secure-your-familys-digital-life-stop-paying-monthly-65-off-pcloud-lifetime/",
-      "pubDate": "2026-05-11T18:06:45.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Apple brings encrypted RCS chats to iPhone",
@@ -339,13 +353,6 @@
       "pubDate": "2026-05-11T17:04:00.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Releases watchOS 26.5 With New Pride Luminance Watch Face",
-      "url": "https://www.macrumors.com/2026/05/11/apple-releases-watchos-26-5/",
-      "pubDate": "2026-05-11T17:03:00.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Google stopped a zero-day hack that it says was developed with AI",
@@ -358,13 +365,6 @@
       "title": "(Sponsor) Magic Lasso Adblock: Block ads in iPhone, iPad, Mac and Apple TV apps",
       "url": "https://sixcolors.com/feed-only/2026/05/magic-lasso-adblock-block-ads-in-iphone-ipad-mac-and-apple-tv-apps/",
       "pubDate": "2026-05-11T16:00:01.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "A million baby monitors and security cameras were easily viewable by hackers",
-      "url": "https://www.theverge.com/tech/926487/meari-technology-hack-baby-monitor-security-camera",
-      "pubDate": "2026-05-11T16:00:00.000Z"
     },
     {
       "source": "Six Colors",
