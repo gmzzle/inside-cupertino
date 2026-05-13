@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T08:12:31.250Z",
+  "generatedAt": "2026-05-13T10:45:30.152Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Project Files Allegedly Stolen in Foxconn Ransomware Attack",
+      "url": "https://www.macrumors.com/2026/05/13/apple-files-stolen-foxconn-ransomware-attack/",
+      "pubDate": "2026-05-13T10:25:29.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Data centers are coming for rural America",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/928963/data-center-rural-america-jobs-jay-maine",
+      "pubDate": "2026-05-13T09:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Amazon&#8217;s Panos Panay addresses new Fire phone rumors",
+      "url": "https://www.theverge.com/tech/929412/amazon-panos-panay-interview-phone-transformer",
+      "pubDate": "2026-05-13T08:36:42.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -290,20 +311,6 @@
       "pubDate": "2026-05-12T17:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The 9 biggest new features in Android 17",
-      "url": "https://www.theverge.com/tech/928653/google-android-17-9-biggest-new-features-android-show-io",
-      "pubDate": "2026-05-12T17:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Gemini&#8217;s latest updates are all about controlling your phone",
-      "url": "https://www.theverge.com/tech/928724/gemini-intelligence-android-io-autofill",
-      "pubDate": "2026-05-12T17:00:00.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Sponsor) ZenStand",
@@ -351,13 +358,6 @@
       "title": "Apple Sales Coach Will Use AI-Generated Video Presenters",
       "url": "https://www.macrumors.com/2026/05/12/apple-sales-coach-will-use-ai-generated-presenters/",
       "pubDate": "2026-05-12T14:43:03.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Much Brighter iPhone Display Still Years Away, Leaker Suggests",
-      "url": "https://www.macrumors.com/2026/05/12/brighter-iphone-display-still-years-away/",
-      "pubDate": "2026-05-12T14:14:35.000Z"
     },
     {
       "source": "Six Colors",
