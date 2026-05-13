@@ -2,7 +2,7 @@
 title: "AirPods Max 2 already $40 off tells you everything about the pricing"
 description: "Amazon's discounting brand-new $549 headphones before most people have even seen them in stores. That's not a great sign."
 pubDate: 2026-05-03T14:11:36.247Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - airpods-max
