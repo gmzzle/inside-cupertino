@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T20:56:22.106Z",
+  "generatedAt": "2026-05-13T22:39:34.539Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,48 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple warns EU against forcing Google to open Android to AI rivals",
+      "url": "https://9to5mac.com/2026/05/13/apple-warns-eu-against-forcing-google-to-open-android-to-ai-rivals/",
+      "pubDate": "2026-05-13T22:22:09.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Microsoft&#8217;s Edge Copilot update uses AI to pull information from across your tabs",
+      "url": "https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs",
+      "pubDate": "2026-05-13T22:04:28.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Trump administration defends right to ban content moderation experts from US",
+      "url": "https://www.theverge.com/policy/930178/citr-rubio-visa-deportation-misinformation-research",
+      "pubDate": "2026-05-13T21:58:44.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Grew U.S. iPhone Sales While Broader Smartphone Market Declined in Q1",
+      "url": "https://www.macrumors.com/2026/05/13/apple-q1-market-share-growth/",
+      "pubDate": "2026-05-13T21:48:35.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "YouTube is courting creators — and sponsors — with streaming shows",
+      "url": "https://www.theverge.com/news/930092/youtube-creators-shows-sponsors-netflix-upfront",
+      "pubDate": "2026-05-13T21:30:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Ads is courting developers through a newly formed ‘Emerging Team’",
+      "url": "https://9to5mac.com/2026/05/13/apple-ads-is-courting-developers-through-a-newly-formed-emerging-team/",
+      "pubDate": "2026-05-13T21:22:46.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -227,41 +269,6 @@
       "pubDate": "2026-05-13T15:52:15.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Microsoft doesn’t want any of this",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/929692/microsoft-musk-altman-openai-trial",
-      "pubDate": "2026-05-13T15:30:37.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: M5 Pro MacBook Pro $400 off, MacBook Air $150 off, Apple Watch Series 11 $130 off, 25W chargers, more",
-      "url": "https://9to5mac.com/2026/05/13/deals-m5-pro-macbook-pro-apple-watch-series-11/",
-      "pubDate": "2026-05-13T15:30:20.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Sony ups its new A7R VI to 66.8 megapixels and jumps the price to $4,500",
-      "url": "https://www.theverge.com/gadgets/929667/sony-alpha-a7rvi-mirrorless-camera-price-specs",
-      "pubDate": "2026-05-13T15:30:14.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "pubDate": "2026-05-13T15:28:21.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Maps is launching ads on iPhone soon, here’s what to expect",
-      "url": "https://9to5mac.com/2026/05/13/apple-maps-is-launching-ads-on-iphone-soon-heres-what-to-expect/",
-      "pubDate": "2026-05-13T15:16:30.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "EU's artificial intelligence requirements are profoundly risky, says Apple",
@@ -316,13 +323,6 @@
       "title": "Apple Project Files Allegedly Stolen in Foxconn Ransomware Attack",
       "url": "https://www.macrumors.com/2026/05/13/apple-files-stolen-foxconn-ransomware-attack/",
       "pubDate": "2026-05-13T10:25:29.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Google Unveils Googlebook, a New AI Laptop Built Around Gemini",
-      "url": "https://www.macrumors.com/2026/05/12/google-unveils-googlebook/",
-      "pubDate": "2026-05-13T00:00:58.000Z"
     },
     {
       "source": "Six Colors",
