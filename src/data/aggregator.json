@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T22:36:36.208Z",
+  "generatedAt": "2026-05-13T00:14:14.089Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,41 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Google Unveils Googlebook, a New AI Laptop Built Around Gemini",
+      "url": "https://www.macrumors.com/2026/05/12/google-unveils-googlebook/",
+      "pubDate": "2026-05-13T00:00:58.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Bartender Pro Brings Widgets, Clipboard, and File Storage to the MacBook Notch",
+      "url": "https://www.macrumors.com/2026/05/12/bartender-pro/",
+      "pubDate": "2026-05-12T23:24:22.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Sam Altman was winning on the stand, but it might not be enough",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/929129/sam-altman-testimony-elon-musk-openai-trial",
+      "pubDate": "2026-05-12T23:23:14.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Your iPhone just got a brand new colorful wallpaper, here’s how to customize it",
+      "url": "https://9to5mac.com/2026/05/12/your-iphone-just-got-a-brand-new-colorful-wallpaper-heres-how-to-customize-it/",
+      "pubDate": "2026-05-12T22:44:13.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple notified in Brazil over allegedly misleading Apple Intelligence ads",
+      "url": "https://9to5mac.com/2026/05/12/apple-notified-in-brazil-over-allegedly-misleading-apple-intelligence-ads/",
+      "pubDate": "2026-05-12T22:41:06.000Z"
+    },
     {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
@@ -199,20 +234,6 @@
       "pubDate": "2026-05-12T17:53:44.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "New Lady Gaga performance streaming this Thursday exclusively on Apple Music",
-      "url": "https://9to5mac.com/2026/05/12/new-lady-gaga-concert-film-streaming-this-thursday-exclusively-on-apple-music/",
-      "pubDate": "2026-05-12T17:49:47.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Hands-on: CUKTECH 30 Ultra delivers 300W charging, real-time power monitoring, more",
-      "url": "https://9to5mac.com/2026/05/12/hands-on-cuktech-30-ultra-delivers-300w-charging-real-time-power-monitoring-more/",
-      "pubDate": "2026-05-12T17:42:50.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Price war: M5 MacBook Pro with 32GB RAM, 1TB SSD falls to record low $1,799",
@@ -290,13 +311,6 @@
       "pubDate": "2026-05-12T16:56:23.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Parents say ChatGPT got their son killed with bad advice on party drugs",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/928691/openai-chatgpt-wrongful-death-overdose",
-      "pubDate": "2026-05-12T16:30:33.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "How I restarted using RSS, and actually noticed!",
@@ -358,20 +372,6 @@
       "title": "Much Brighter iPhone Display Still Years Away, Leaker Suggests",
       "url": "https://www.macrumors.com/2026/05/12/brighter-iphone-display-still-years-away/",
       "pubDate": "2026-05-12T14:14:35.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone 18 Pro May Have 'Aggressive' Starting Price Despite RAM Crisis",
-      "url": "https://www.macrumors.com/2026/05/12/iphone-18-pro-aggressive-pricing-rumor/",
-      "pubDate": "2026-05-12T13:53:42.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Missed Out on Classic Apple Watch Bands? Woot's Latest Sale Revives Discontinued Colors at Steep Discounts",
-      "url": "https://www.macrumors.com/2026/05/12/classic-apple-watch-bands-woot/",
-      "pubDate": "2026-05-12T13:45:17.000Z"
     }
   ]
 }
