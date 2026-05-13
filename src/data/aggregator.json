@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T10:45:30.152Z",
+  "generatedAt": "2026-05-13T13:30:26.335Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,90 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "M5 Max 16-inch MacBook Pro vs Samsung Galaxy Book6 Ultra: Compared",
+      "url": "https://appleinsider.com/inside/16-inch-macbook-pro/vs/m5-max-16-inch-macbook-pro-vs-samsung-galaxy-book6-ultra-compared?utm_source=rss",
+      "pubDate": "2026-05-13T13:28:01.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Nintendo says it has more Switch 2 games in store for 2026",
+      "url": "https://www.theverge.com/games/929527/nintendo-switch-2-release-schedule-2026",
+      "pubDate": "2026-05-13T13:25:02.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Here are some smart AI features we can expect from the Gemini-powered new Siri",
+      "url": "https://9to5mac.com/2026/05/13/here-are-some-smart-ai-features-we-can-expect-from-the-gemini-powered-new-siri/",
+      "pubDate": "2026-05-13T13:16:36.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Canon’s latest EOS R6 camera goes V for video",
+      "url": "https://www.theverge.com/gadgets/929377/canon-eos-r6-v-mirrorless-video-camera-price-specs",
+      "pubDate": "2026-05-13T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Alexa is moving into Amazon.com",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/929457/amazon-announces-alexa-for-shopping-ai-assistant-rufus",
+      "pubDate": "2026-05-13T13:00:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "RCS & encryption haven't fixed the green bubble problem",
+      "url": "https://appleinsider.com/articles/26/05/13/rcs-encryption-havent-fixed-the-green-bubble-problem?utm_source=rss",
+      "pubDate": "2026-05-13T12:18:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Unitree will sell you a massive ‘transformable mecha’ for $650,000",
+      "url": "https://www.theverge.com/tech/929487/unitree-gd01-giant-mech-suit-robot",
+      "pubDate": "2026-05-13T12:11:02.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "This could be the best thing to ever happen to Apple’s Camera app",
+      "url": "https://9to5mac.com/2026/05/13/this-could-be-the-best-thing-to-ever-happen-to-apples-camera-app/",
+      "pubDate": "2026-05-13T12:00:07.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Microsoft’s Xbox PC app hints at China expansion for Game Pass",
+      "url": "https://www.theverge.com/news/929454/microsoft-xbox-game-pass-china-expansion-rumors",
+      "pubDate": "2026-05-13T11:53:48.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The Trump phone starts shipping this week, CEO claims",
+      "url": "https://www.theverge.com/gadgets/929471/trump-mobile-t1-phone-shipping-this-week",
+      "pubDate": "2026-05-13T11:52:35.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "More than 10% of iPhone owners eyeing a folding phone – survey",
+      "url": "https://9to5mac.com/2026/05/13/more-than-10-of-iphone-owners-eyeing-a-folding-phone-survey/",
+      "pubDate": "2026-05-13T11:07:09.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The Apple Studio Display could have been so much more",
+      "url": "https://www.theverge.com/tech/929015/apple-studio-display-2026",
+      "pubDate": "2026-05-13T11:00:00.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -73,13 +157,6 @@
       "pubDate": "2026-05-12T23:24:22.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Sam Altman was winning on the stand, but it might not be enough",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/929129/sam-altman-testimony-elon-musk-openai-trial",
-      "pubDate": "2026-05-12T23:23:14.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Your iPhone just got a brand new colorful wallpaper, here’s how to customize it",
@@ -113,13 +190,6 @@
       "title": "Google Makes It Easier to Share Files Between Android and iPhone",
       "url": "https://www.macrumors.com/2026/05/12/google-quick-share-android/",
       "pubDate": "2026-05-12T21:48:36.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "iOS 27 might add a lot more customization to the Camera app",
-      "url": "https://www.theverge.com/tech/929152/apple-ios-27-camera-app-customization",
-      "pubDate": "2026-05-12T21:36:11.000Z"
     },
     {
       "source": "AppleInsider",
@@ -157,13 +227,6 @@
       "pubDate": "2026-05-12T20:38:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Meta won’t let you block its AI account on Threads",
-      "url": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
-      "pubDate": "2026-05-12T20:35:23.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "iPhone 17 keeps driving Apple marketshare, as US smartphone sales contract",
@@ -199,32 +262,11 @@
       "pubDate": "2026-05-12T19:57:34.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Meta will tell parents when their teens add new interests to their Instagram algorithm",
-      "url": "https://www.theverge.com/tech/929009/meta-teen-accounts-algorithm-parental-controls",
-      "pubDate": "2026-05-12T19:56:50.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "iRacing arrives on Vision Pro with ‘immersion and fidelity never before seen in sim racing’",
       "url": "https://9to5mac.com/2026/05/12/iracing-on-vision-pro-bringing-immersion-and-fidelity-never-before-seen-in-sim-racing/",
       "pubDate": "2026-05-12T19:49:43.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "PSA: Spotify confirms ongoing outage [Updated]",
-      "url": "https://9to5mac.com/2026/05/12/psa-spotify-confirms-ongoing-outage/",
-      "pubDate": "2026-05-12T19:36:29.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Meta AI app enhanced with new features using Muse Spark, here’s what’s new",
-      "url": "https://9to5mac.com/2026/05/12/meta-ai-app-enhanced-with-new-features-using-muse-spark-heres-whats-new/",
-      "pubDate": "2026-05-12T19:32:32.000Z"
     },
     {
       "source": "MacRumors",
@@ -239,13 +281,6 @@
       "title": "iPhone & Android interoperability enhancements highlighted at Google I/O preshow",
       "url": "https://appleinsider.com/articles/26/05/12/iphone-android-interoperability-enhancements-highlighted-at-google-io-preshow?utm_source=rss",
       "pubDate": "2026-05-12T19:15:38.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Severance season 3 is coming ‘much sooner’ than last season did, per star",
-      "url": "https://9to5mac.com/2026/05/12/severance-season-3-is-coming-much-sooner-than-last-season-did-per-star/",
-      "pubDate": "2026-05-12T18:58:59.000Z"
     },
     {
       "source": "AppleInsider",
@@ -269,46 +304,11 @@
       "pubDate": "2026-05-12T17:41:59.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Sam Altman says Elon Musk’s mind games were damaging OpenAI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/928861/openai-sam-altman-elon-musk-damage",
-      "pubDate": "2026-05-12T17:34:09.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Commemorative US Mint Steve Jobs coin sells out in just 11 minutes",
-      "url": "https://appleinsider.com/articles/26/05/12/commemorative-us-mint-steve-jobs-coin-sells-out-in-just-11-minutes?utm_source=rss",
-      "pubDate": "2026-05-12T17:25:36.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "How to save on annual Apple App Store subscriptions, with a catch",
-      "url": "https://appleinsider.com/inside/app-store/tips/how-to-save-on-annual-apple-app-store-subscriptions-with-a-catch?utm_source=rss",
-      "pubDate": "2026-05-12T17:17:24.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "M5 MacBook Pro Hits Record Low Price With Major $300 Discount at Amazon",
       "url": "https://www.macrumors.com/2026/05/12/m5-macbook-pro-hits-discount/",
       "pubDate": "2026-05-12T17:16:18.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Android Auto is now one (screen) size fits all",
-      "url": "https://www.theverge.com/tech/927759/android-auto-is-now-one-screen-size-fits-all",
-      "pubDate": "2026-05-12T17:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Google announces its Chromebook successor: the Googlebook",
-      "url": "https://www.theverge.com/tech/928479/google-googlebook-laptops-android-tease-aluminium-chromebook",
-      "pubDate": "2026-05-12T17:00:00.000Z"
     },
     {
       "source": "Six Colors",
@@ -318,18 +318,18 @@
       "pubDate": "2026-05-12T16:56:23.000Z"
     },
     {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "System 7 transformed the Mac on May 13, 1991",
+      "url": "https://appleinsider.com/articles/21/05/13/system-7-transformed-the-mac-on-may-13-1991?utm_source=rss",
+      "pubDate": "2026-05-12T16:52:41.000Z"
+    },
+    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "How I restarted using RSS, and actually noticed!",
       "url": "https://sixcolors.com/post/2026/05/how-i-restarted-using-rss-and-actually-noticed/",
       "pubDate": "2026-05-12T16:00:10.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "If your Mac is saying the ChatGPT app is malware, here's how to fix it",
-      "url": "https://appleinsider.com/articles/26/05/12/if-your-mac-is-saying-the-chatgpt-app-is-malware-heres-how-to-fix-it?utm_source=rss",
-      "pubDate": "2026-05-12T15:41:28.000Z"
     },
     {
       "source": "Six Colors",
