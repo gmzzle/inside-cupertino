@@ -2,7 +2,7 @@
 title: "Apple Tells Canada: We're Not Breaking Encryption For You"
 description: "A new Canadian bill wants tech companies to help law enforcement access encrypted data. Apple and Meta are saying no, loudly."
 pubDate: 2026-05-08T07:05:42.299Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - encryption
