@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T00:14:14.089Z",
+  "generatedAt": "2026-05-13T04:16:27.981Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Sony’s new Xperia phone gets an overdue redesign",
+      "url": "https://www.theverge.com/tech/927928/sony-xperia-viii-release-date-price-specs",
+      "pubDate": "2026-05-13T02:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple supplier Foxconn confirms ransomware attack affected North American factories",
+      "url": "https://9to5mac.com/2026/05/12/apple-supplier-foxconn-confirms-ransomware-attack-affected-north-american-factories/",
+      "pubDate": "2026-05-13T01:35:22.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -220,13 +234,6 @@
       "pubDate": "2026-05-12T18:29:55.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "MacBook Neo shipping estimates just saw a positive turn for customers",
-      "url": "https://9to5mac.com/2026/05/12/macbook-neo-shipping-estimates-just-saw-a-positive-turn-for-customers/",
-      "pubDate": "2026-05-12T18:06:33.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Watch Hypertension Alerts and AirPods Hearing Aid Feature Expand to More Countries",
@@ -297,13 +304,6 @@
       "pubDate": "2026-05-12T17:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Panasonic’s new Lumix L10 is a compact camera with a focus on photography",
-      "url": "https://www.theverge.com/tech/928767/panasonic-lumix-l10-four-thirds-sensor-digital-camera-price-availability",
-      "pubDate": "2026-05-12T16:56:54.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Sponsor) ZenStand",
@@ -323,20 +323,6 @@
       "title": "If your Mac is saying the ChatGPT app is malware, here's how to fix it",
       "url": "https://appleinsider.com/articles/26/05/12/if-your-mac-is-saying-the-chatgpt-app-is-malware-heres-how-to-fix-it?utm_source=rss",
       "pubDate": "2026-05-12T15:41:28.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Brighter dual-layer OLED display panels for iPhone are still years away",
-      "url": "https://appleinsider.com/articles/26/05/12/brighter-dual-layer-oled-display-panels-for-iphone-are-still-years-away?utm_source=rss",
-      "pubDate": "2026-05-12T15:23:25.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Beloved children's character 'Bluey' takes over five Apple Arcade titles for a limited time",
-      "url": "https://appleinsider.com/articles/26/05/12/beloved-childrens-character-bluey-takes-over-five-apple-arcade-titles-for-a-limited-time?utm_source=rss",
-      "pubDate": "2026-05-12T15:14:26.000Z"
     },
     {
       "source": "Six Colors",
@@ -372,6 +358,20 @@
       "title": "Much Brighter iPhone Display Still Years Away, Leaker Suggests",
       "url": "https://www.macrumors.com/2026/05/12/brighter-iphone-display-still-years-away/",
       "pubDate": "2026-05-12T14:14:35.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) Upgrade 615: But in Citrus!",
+      "url": "https://sixcolors.com/podcast/2026/05/upgrade-615-but-in-citrus/",
+      "pubDate": "2026-05-11T21:24:25.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Keeping (and losing) track of Mac sleep settings",
+      "url": "https://sixcolors.com/post/2026/05/keeping-and-losing-track-of-mac-sleep-settings/",
+      "pubDate": "2026-05-11T19:44:25.000Z"
     }
   ]
 }
