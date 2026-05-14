@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T22:39:34.539Z",
+  "generatedAt": "2026-05-14T00:16:10.520Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Indigo unifies the Mastodon and Bluesky timelines",
+      "url": "https://sixcolors.com/post/2026/05/indigo-unifies-the-mastodon-and-bluesky-timelines/",
+      "pubDate": "2026-05-13T23:40:08.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Ads Aren't in the Apple Maps App Yet, But They're Coming Soon",
+      "url": "https://www.macrumors.com/2026/05/13/apple-maps-app-ads-summer-2026/",
+      "pubDate": "2026-05-13T23:15:42.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -318,13 +332,6 @@
       "pubDate": "2026-05-13T12:18:00.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Project Files Allegedly Stolen in Foxconn Ransomware Attack",
-      "url": "https://www.macrumors.com/2026/05/13/apple-files-stolen-foxconn-ransomware-attack/",
-      "pubDate": "2026-05-13T10:25:29.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Get GIFs fast with Gnome ↦",
@@ -344,13 +351,6 @@
       "title": "Premiere motorsports simulations race onto the Apple Vision Pro with iRacing Connect",
       "url": "https://appleinsider.com/articles/26/05/12/premiere-motorsports-simulations-race-onto-the-apple-vision-pro-with-iracing-connect?utm_source=rss",
       "pubDate": "2026-05-12T20:57:20.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPhone 17 keeps driving Apple marketshare, as US smartphone sales contract",
-      "url": "https://appleinsider.com/articles/26/05/12/iphone-17-keeps-driving-apple-marketshare-as-us-smartphone-sales-contract?utm_source=rss",
-      "pubDate": "2026-05-12T20:31:46.000Z"
     },
     {
       "source": "Six Colors",
