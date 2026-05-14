@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T21:37:27.554Z",
+  "generatedAt": "2026-05-14T23:12:54.445Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,41 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Honda&#8217;s hybrid future starts with new Accord and RDX prototypes",
+      "url": "https://www.theverge.com/transportation/931044/honda-hybrid-prototypes-accord-acura-rdx",
+      "pubDate": "2026-05-14T22:46:55.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Closing time",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis",
+      "pubDate": "2026-05-14T22:21:46.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Calif team details how Anthropic Mythos helped build a working macOS exploit in five days",
+      "url": "https://9to5mac.com/2026/05/14/calif-team-details-how-anthropic-mythos-helped-build-a-working-macos-exploit-in-five-days/",
+      "pubDate": "2026-05-14T22:17:51.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: May 14, 2026 – AI on the App Store, more",
+      "url": "https://9to5mac.com/2026/05/14/daily-may-14-2026/",
+      "pubDate": "2026-05-14T22:14:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Metroid Prime 4: Beyond got its first big discount",
+      "url": "https://www.theverge.com/gadgets/930875/metroid-prime-4-beyond-nintendo-switch-deal-sale",
+      "pubDate": "2026-05-14T21:38:45.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -185,13 +220,6 @@
       "pubDate": "2026-05-14T17:52:13.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Use this map to find the data centers in your backyard",
-      "url": "https://www.theverge.com/policy/930629/data-center-policy-map-interactive",
-      "pubDate": "2026-05-14T17:40:00.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "OpenAI preparing ‘legal action’ against Apple over Siri partnership: report",
@@ -204,13 +232,6 @@
       "title": "Apple escalates macOS defenses while honoring its open nature",
       "url": "https://sixcolors.com/post/2026/05/apple-escalates-macos-defenses-while-honoring-its-open-nature/",
       "pubDate": "2026-05-14T17:00:58.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Subnautica 2 is having a huge launch on Steam",
-      "url": "https://www.theverge.com/games/930562/subnautica-2-early-access-launch-steam-pc-epic-games-store-xbox",
-      "pubDate": "2026-05-14T16:22:49.000Z"
     },
     {
       "source": "MacRumors",
@@ -248,32 +269,11 @@
       "pubDate": "2026-05-14T15:52:54.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Leaked images show Microsoft’s new Xbox Cloud Gaming controller",
-      "url": "https://www.theverge.com/news/930502/microsoft-xbox-cloud-gaming-controller-leak",
-      "pubDate": "2026-05-14T15:49:47.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Hackers used faked Apple & Yahoo infrastructure to hide malware",
       "url": "https://appleinsider.com/articles/26/05/14/hackers-used-faked-apple-yahoo-infrastructure-to-hide-malware?utm_source=rss",
       "pubDate": "2026-05-14T15:36:37.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone 18 Pro: Three new features could make you want to upgrade",
-      "url": "https://9to5mac.com/2026/05/14/iphone-18-pro-three-new-features-could-make-you-want-to-upgrade/",
-      "pubDate": "2026-05-14T15:31:28.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: Most affordable M5 MacBook Pro $1,499, base 16-inch M5 Pro $250 off, iPhone 16e from $449, more",
-      "url": "https://9to5mac.com/2026/05/14/deals-m5-macbook-pro-16-inch-m5-pro-iphone-16e/",
-      "pubDate": "2026-05-14T15:29:43.000Z"
     },
     {
       "source": "AppleInsider",
