@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T10:35:27.214Z",
+  "generatedAt": "2026-05-14T13:05:57.710Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,111 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Dell and RAMageddon are watering down the Alienware brand",
+      "url": "https://www.theverge.com/tech/929160/dell-alienware-15-laptop-price-release-date-branding",
+      "pubDate": "2026-05-14T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The Razr Fold is stuck in the middle",
+      "url": "https://www.theverge.com/tech/930246/motorola-razr-fold-review-battery",
+      "pubDate": "2026-05-14T13:00:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Liquid Glass is controversial, but it just won a prestigious design award",
+      "url": "https://appleinsider.com/articles/26/05/14/liquid-glass-is-controversial-but-it-just-won-a-prestigious-design-award?utm_source=rss",
+      "pubDate": "2026-05-14T12:49:20.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "AT&#038;T, T-Mobile, and Verizon team up to eliminate coverage dead zones",
+      "url": "https://www.theverge.com/tech/930336/att-tmobile-verizon-joint-venture-agreement-satellite-coverage",
+      "pubDate": "2026-05-14T12:48:49.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone thieves can get up to $800 more if they snatch unlocked devices",
+      "url": "https://9to5mac.com/2026/05/14/iphone-thieves-can-get-up-to-800-more-if-they-snatch-unlocked-devices/",
+      "pubDate": "2026-05-14T12:30:06.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Sketchy report says ‘possibility’ of screen distortion in the iPhone 20",
+      "url": "https://9to5mac.com/2026/05/14/sketchy-report-says-possibility-of-screen-distortion-in-the-iphone-20/",
+      "pubDate": "2026-05-14T12:23:17.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "OLED iPad Mini: Release Date, Pricing, and What to Expect",
+      "url": "https://www.macrumors.com/2026/05/14/oled-ipad-mini-release-date-pricing-what-expect/",
+      "pubDate": "2026-05-14T12:08:57.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Spotify adopting Apple’s new video podcast tech for easier cross-platform publishing",
+      "url": "https://9to5mac.com/2026/05/14/spotify-adopting-apples-new-video-podcast-tech-for-easier-cross-platform-publishing/",
+      "pubDate": "2026-05-14T12:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Insta360’s new viewfinder turns the action cam into a retro shooter",
+      "url": "https://www.theverge.com/tech/929125/insta360-360-go-3s-retro-bundle-viewfinder-accessory",
+      "pubDate": "2026-05-14T12:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "I’m obsessed with Forza Horizon 6, and I’ve barely even raced",
+      "url": "https://www.theverge.com/entertainment/929816/forza-horizon-6-review-xbox-pc",
+      "pubDate": "2026-05-14T12:00:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Forget iPhone 20, Apple's 2028 curved display will be even better",
+      "url": "https://appleinsider.com/articles/26/05/14/forget-iphone-20-apples-2028-curved-display-will-be-even-better?utm_source=rss",
+      "pubDate": "2026-05-14T11:58:04.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's F1 Streaming Ambitions Hit Wall as Sky Renews European Rights",
+      "url": "https://www.macrumors.com/2026/05/14/apple-f1-ambitions-hit-wall-sky-european-rights/",
+      "pubDate": "2026-05-14T11:44:02.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Evercore tells investors to stick with Apple, raising price target to $365",
+      "url": "https://appleinsider.com/articles/26/05/14/evercore-tells-investors-to-stick-with-apple-raising-price-target-to-365?utm_source=rss",
+      "pubDate": "2026-05-14T11:28:05.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "You can make an app for that",
+      "url": "https://www.theverge.com/tech/928905/vibe-code-personal-software-revolution",
+      "pubDate": "2026-05-14T11:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Android’s latest AI feature predicts what you’ll do next",
+      "url": "https://www.theverge.com/tech/930318/android-contextual-suggestions-google-ai-feature-rollout",
+      "pubDate": "2026-05-14T10:37:03.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -115,25 +220,11 @@
       "pubDate": "2026-05-13T21:48:35.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "YouTube is courting creators — and sponsors — with streaming shows",
-      "url": "https://www.theverge.com/news/930092/youtube-creators-shows-sponsors-netflix-upfront",
-      "pubDate": "2026-05-13T21:30:00.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Apple Ads is courting developers through a newly formed ‘Emerging Team’",
       "url": "https://9to5mac.com/2026/05/13/apple-ads-is-courting-developers-through-a-newly-formed-emerging-team/",
       "pubDate": "2026-05-13T21:22:46.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "AMD&#8217;s best CPU tech for gamers is coming to workstations too",
-      "url": "https://www.theverge.com/tech/930132/amd-ryzen-pro-9000-series-3d-v-cache",
-      "pubDate": "2026-05-13T20:38:16.000Z"
     },
     {
       "source": "Six Colors",
@@ -171,46 +262,11 @@
       "pubDate": "2026-05-13T19:58:30.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple TV sees another departure from its international content team",
-      "url": "https://9to5mac.com/2026/05/13/apple-tv-sees-another-departure-from-its-international-content-team/",
-      "pubDate": "2026-05-13T19:57:02.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Strava’s iPhone app now works with Apple’s new AirPods Pro 3 fitness feature",
-      "url": "https://9to5mac.com/2026/05/13/stravas-iphone-app-now-works-with-apples-new-airpods-pro-3-fitness-feature/",
-      "pubDate": "2026-05-13T19:56:13.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Samsung Set to Beat Apple to AI Smart Glasses With July Launch",
       "url": "https://www.macrumors.com/2026/05/13/samsung-ai-smart-glasses-july/",
       "pubDate": "2026-05-13T19:51:09.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Anthropic’s latest Claude release turns your Mac into a small business powerhouse",
-      "url": "https://9to5mac.com/2026/05/13/anthropics-latest-claude-release-turns-your-mac-into-a-small-business-powerhouse/",
-      "pubDate": "2026-05-13T19:30:21.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The crypto Clarity Act returns to the Senate this week. The banks are already trying to kill it.",
-      "url": "https://www.theverge.com/column/929752/the-crypto-clarity-act-returns-to-the-senate-this-week-the-banks-are-already-trying-to-kill-it",
-      "pubDate": "2026-05-13T19:19:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Fighting Trump will make or break Disney’s new CEO",
-      "url": "https://www.theverge.com/streaming/930009/johh-damaro-disney-trump-fcc-the-view-equal-time-doctrine",
-      "pubDate": "2026-05-13T19:15:21.000Z"
     },
     {
       "source": "AppleInsider",
@@ -234,20 +290,6 @@
       "pubDate": "2026-05-13T18:47:20.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Netflix’s ad ambitions just keep growing",
-      "url": "https://www.theverge.com/streaming/929627/netflix-ads-plan-upfront-2026",
-      "pubDate": "2026-05-13T18:45:32.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Everything at The Criterion Collection is 30 percent off right now",
-      "url": "https://www.theverge.com/gadgets/929760/the-criterion-collection-spring-sale-anora-wes-anderson-deal-sale",
-      "pubDate": "2026-05-13T18:41:49.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Meta Launches 'Instants' App for Sharing Disappearing Photos on Instagram",
@@ -260,13 +302,6 @@
       "title": "Apple Working on Plan to Allow AI Agent Apps on the App Store",
       "url": "https://www.macrumors.com/2026/05/13/apple-ai-agent-apps-app-store/",
       "pubDate": "2026-05-13T18:02:05.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Instagram hits the copy button again with new disappearing Instants photos",
-      "url": "https://www.theverge.com/tech/929958/instagram-instants-photos-disappearing-app",
-      "pubDate": "2026-05-13T17:57:41.000Z"
     },
     {
       "source": "MacRumors",
@@ -304,20 +339,6 @@
       "pubDate": "2026-05-13T14:46:07.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Anker's New Prime Charging Station Returns to Low Price on Amazon",
-      "url": "https://www.macrumors.com/2026/05/13/ankers-new-prime-charging-deals/",
-      "pubDate": "2026-05-13T14:17:49.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "You Might Want to Wait to Buy a New iPhone",
-      "url": "https://www.macrumors.com/2026/05/13/you-might-want-to-wait-to-buy-a-new-iphone/",
-      "pubDate": "2026-05-13T14:11:40.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) The Rebound 598: Get Rid of Ice",
@@ -351,27 +372,6 @@
       "title": "(Sponsor) ZenStand",
       "url": "https://sixcolors.com/sponsor/2026/05/zenstand-2/",
       "pubDate": "2026-05-12T16:56:23.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "System 7 transformed the Mac on May 13, 1991",
-      "url": "https://appleinsider.com/articles/21/05/13/system-7-transformed-the-mac-on-may-13-1991?utm_source=rss",
-      "pubDate": "2026-05-12T16:52:41.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "How I restarted using RSS, and actually noticed!",
-      "url": "https://sixcolors.com/post/2026/05/how-i-restarted-using-rss-and-actually-noticed/",
-      "pubDate": "2026-05-12T16:00:10.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Bartender 6’s new pro feature turns the MacBook notch into a dynamic peninsula",
-      "url": "https://sixcolors.com/post/2026/05/bartender-6s-new-pro-feature-turns-the-macbook-notch-into-a-dynamic-peninsula/",
-      "pubDate": "2026-05-12T15:00:51.000Z"
     }
   ]
 }
