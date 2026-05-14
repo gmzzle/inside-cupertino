@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T15:34:41.993Z",
+  "generatedAt": "2026-05-14T18:09:06.468Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,6 +24,104 @@
   ],
   "items": [
     {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "OpenAI considering suing Apple because ChatGPT integrations weren't a money fountain",
+      "url": "https://appleinsider.com/articles/26/05/14/openai-considering-suing-apple-because-chatgpt-integrations-werent-a-money-fountain?utm_source=rss",
+      "pubDate": "2026-05-14T18:03:19.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "OpenAI Considering Legal Action Against Apple Over 'Strained' Siri Partnership",
+      "url": "https://www.macrumors.com/2026/05/14/openai-considering-legal-action-against-apple/",
+      "pubDate": "2026-05-14T17:52:13.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Use this map to find the data centers in your backyard",
+      "url": "https://www.theverge.com/policy/930629/data-center-policy-map-interactive",
+      "pubDate": "2026-05-14T17:40:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "OpenAI preparing ‘legal action’ against Apple over Siri partnership: report",
+      "url": "https://9to5mac.com/2026/05/14/openai-preparing-legal-action-against-apple-over-siri-partnership-report/",
+      "pubDate": "2026-05-14T17:08:18.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Anthropic's Mythos AI outsmarted Apple's Mac security systems",
+      "url": "https://appleinsider.com/articles/26/05/14/anthropics-mythos-ai-outsmarted-apples-mac-security-systems?utm_source=rss",
+      "pubDate": "2026-05-14T16:57:10.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Subnautica 2 is having a huge launch on Steam",
+      "url": "https://www.theverge.com/games/930562/subnautica-2-early-access-launch-steam-pc-epic-games-store-xbox",
+      "pubDate": "2026-05-14T16:22:49.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Six Popular iPhone Apps Now Available on CarPlay",
+      "url": "https://www.macrumors.com/2026/05/14/four-popular-iphone-apps-now-on-carplay/",
+      "pubDate": "2026-05-14T16:10:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Alerted to macOS Security Vulnerability Uncovered With AI Tool",
+      "url": "https://www.macrumors.com/2026/05/14/macos-security-vulnerability-found-with-ai/",
+      "pubDate": "2026-05-14T16:04:59.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Spotify to Adopt Apple's Technology for Video Podcasts",
+      "url": "https://www.macrumors.com/2026/05/14/spotify-to-adopt-apples-tech-for-video-podcasts/",
+      "pubDate": "2026-05-14T16:02:53.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "New macOS vulnerabilities were exposed by Anthropic’s Mythos: report",
+      "url": "https://9to5mac.com/2026/05/14/new-macos-vulnerabilities-were-exposed-by-anthropics-mythos-report/",
+      "pubDate": "2026-05-14T15:57:43.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Trump Mobile's low-end T1 Android phone ships soon, for iPhone 17e prices",
+      "url": "https://appleinsider.com/articles/26/05/14/trump-mobiles-low-end-t1-android-phone-ships-soon-for-iphone-17e-prices?utm_source=rss",
+      "pubDate": "2026-05-14T15:52:54.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Leaked images show Microsoft’s new Xbox Cloud Gaming controller",
+      "url": "https://www.theverge.com/news/930502/microsoft-xbox-cloud-gaming-controller-leak",
+      "pubDate": "2026-05-14T15:49:47.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "pubDate": "2026-05-14T15:46:04.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Hackers used faked Apple & Yahoo infrastructure to hide malware",
+      "url": "https://appleinsider.com/articles/26/05/14/hackers-used-faked-apple-yahoo-infrastructure-to-hide-malware?utm_source=rss",
+      "pubDate": "2026-05-14T15:36:37.000Z"
+    },
+    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "iPhone 18 Pro: Three new features could make you want to upgrade",
@@ -33,7 +131,7 @@
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
-      "title": "Netflix’s new INKubator studio will produce animated shorts with AI",
+      "title": "Netflix is building an AI animation studio",
       "url": "https://www.theverge.com/column/930118/netflix-gen-ai-animation-inkubator",
       "pubDate": "2026-05-14T15:30:00.000Z"
     },
@@ -143,13 +241,6 @@
       "pubDate": "2026-05-14T13:42:03.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Dyson put a camera on its purifier so fresh air can follow you around the room",
-      "url": "https://www.theverge.com/tech/930348/dyson-find-follow-air-purifier-cool-ai-tracking-camera-privacy",
-      "pubDate": "2026-05-14T13:35:41.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "MacBook Neo review, two months later: Almost a MacBook Pro beater",
@@ -164,32 +255,11 @@
       "pubDate": "2026-05-14T13:12:59.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Dell and RAMageddon are watering down the Alienware brand",
-      "url": "https://www.theverge.com/tech/929160/dell-alienware-15-laptop-price-release-date-branding",
-      "pubDate": "2026-05-14T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Razr Fold is stuck in the middle",
-      "url": "https://www.theverge.com/tech/930246/motorola-razr-fold-review-battery",
-      "pubDate": "2026-05-14T13:00:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Liquid Glass is controversial, but it just won a prestigious design award",
       "url": "https://appleinsider.com/articles/26/05/14/liquid-glass-is-controversial-but-it-just-won-a-prestigious-design-award?utm_source=rss",
       "pubDate": "2026-05-14T12:49:20.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "AT&#038;T, T-Mobile, and Verizon team up to eliminate coverage dead zones",
-      "url": "https://www.theverge.com/tech/930336/att-tmobile-verizon-joint-venture-agreement-satellite-coverage",
-      "pubDate": "2026-05-14T12:48:49.000Z"
     },
     {
       "source": "9to5Mac",
@@ -211,13 +281,6 @@
       "title": "OLED iPad Mini: Release Date, Pricing, and What to Expect",
       "url": "https://www.macrumors.com/2026/05/14/oled-ipad-mini-release-date-pricing-what-expect/",
       "pubDate": "2026-05-14T12:08:57.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Spotify adopting Apple’s new video podcast tech for easier cross-platform publishing",
-      "url": "https://9to5mac.com/2026/05/14/spotify-adopting-apples-new-video-podcast-tech-for-easier-cross-platform-publishing/",
-      "pubDate": "2026-05-14T12:00:00.000Z"
     },
     {
       "source": "AppleInsider",
@@ -253,13 +316,6 @@
       "title": "20th Anniversary iPhone's Curved Display to Improve a Year Later",
       "url": "https://www.macrumors.com/2026/05/14/2027-curved-display-iphone-two-stage-rollout/",
       "pubDate": "2026-05-14T10:24:10.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple TV renews ‘Margo’s Got Money Troubles’ for season 2 ahead of next week’s finale",
-      "url": "https://9to5mac.com/2026/05/13/apple-tv-renews-margos-got-money-troubles-for-season-2-ahead-of-next-weeks-finale/",
-      "pubDate": "2026-05-14T02:49:09.000Z"
     },
     {
       "source": "Six Colors",
@@ -304,48 +360,6 @@
       "pubDate": "2026-05-13T19:51:09.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Flash deal: Grab Apple's M4 MacBook Air for just $829",
-      "url": "https://appleinsider.com/articles/26/05/13/flash-deal-grab-apples-m4-macbook-air-for-just-829?utm_source=rss",
-      "pubDate": "2026-05-13T19:05:32.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple TV Head Of International Development jumping ship to start his own production company",
-      "url": "https://appleinsider.com/articles/26/05/13/apple-tv-head-of-international-development-jumping-ship-to-start-his-own-production-company?utm_source=rss",
-      "pubDate": "2026-05-13T18:51:25.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Meta Launches 'Instants' App for Sharing Disappearing Photos on Instagram",
-      "url": "https://www.macrumors.com/2026/05/13/meta-instants-app/",
-      "pubDate": "2026-05-13T18:32:46.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Working on Plan to Allow AI Agent Apps on the App Store",
-      "url": "https://www.macrumors.com/2026/05/13/apple-ai-agent-apps-app-store/",
-      "pubDate": "2026-05-13T18:02:05.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "New Study Highlights Advantages of $549 Windows Laptop Over MacBook Neo",
-      "url": "https://www.macrumors.com/2026/05/13/macbook-neo-vs-lenovo-ideapad-slim-3x/",
-      "pubDate": "2026-05-13T17:38:18.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Defends Google Against EU Proposal to Give AI Rivals Access to Services",
-      "url": "https://www.macrumors.com/2026/05/13/apple-defends-google-against-eu-proposal/",
-      "pubDate": "2026-05-13T16:08:18.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "35 years ago, the Mac got an era-defining upgrade (Macworld/Jason Snell)",
@@ -358,20 +372,6 @@
       "title": "(Podcast) The Rebound 598: Get Rid of Ice",
       "url": "https://sixcolors.com/podcast/2026/05/the-rebound-598-get-rid-of-ice/",
       "pubDate": "2026-05-13T14:00:00.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Get GIFs fast with Gnome ↦",
-      "url": "https://sixcolors.com/link/2026/05/get-gifs-fast-with-gnome/",
-      "pubDate": "2026-05-12T22:10:40.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Sponsor) ZenStand",
-      "url": "https://sixcolors.com/sponsor/2026/05/zenstand-2/",
-      "pubDate": "2026-05-12T16:56:23.000Z"
     }
   ]
 }
