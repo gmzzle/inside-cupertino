@@ -2,7 +2,7 @@
 title: "Intel fabricating Apple silicon sounds weird until you remember it's just TSMC insurance"
 description: "Ming-Chi Kuo says Intel is testing production of some Apple chips. It's not the reconciliation it sounds like—it's leverage."
 pubDate: 2026-05-14T19:54:26.412Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - intel
