@@ -2,7 +2,7 @@
 title: "Apple Wallet Isn't Just Apple Pay, and That's the Problem"
 description: "Most people still think it's just a tap-to-pay gimmick. Meanwhile it's replaced keys, transit cards, and IDs—if you know where to look."
 pubDate: 2026-05-14T19:54:07.399Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - apple-wallet
