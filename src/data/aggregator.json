@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T20:03:01.409Z",
+  "generatedAt": "2026-05-14T21:37:27.554Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,62 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "It's a Bad Time to Buy the Low-Cost iPad",
+      "url": "https://www.macrumors.com/2026/05/14/low-cost-ipad-dont-buy/",
+      "pubDate": "2026-05-14T21:12:33.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Meta brings virtual writing to everyone with Meta Ray-Ban Display glasses",
+      "url": "https://www.theverge.com/tech/930941/meta-ray-ban-display-virtual-neural-handwriting-apps-developer",
+      "pubDate": "2026-05-14T21:08:46.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Behold, the Elon Musk jackass trophy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/930893/elon-musk-sam-altman-trial-ai-safety-jackass-statue",
+      "pubDate": "2026-05-14T20:59:23.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Leaked images reveal Xbox Elite 3 controller with mysterious new buttons",
+      "url": "https://www.theverge.com/news/930902/microsoft-xbox-elite-3-controller-leak-images",
+      "pubDate": "2026-05-14T20:52:19.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple details important enterprise fixes included in macOS 26.5",
+      "url": "https://9to5mac.com/2026/05/14/apple-details-important-enterprise-fixes-included-in-macos-26-5/",
+      "pubDate": "2026-05-14T20:37:01.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Card’s transition to Chase: Here’s what’s not changing (and might be)",
+      "url": "https://9to5mac.com/2026/05/14/apple-cards-transition-to-chase-heres-whats-not-changing-and-might-be/",
+      "pubDate": "2026-05-14T20:26:07.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "OpenAI brings Codex to ChatGPT for iPhone, iPad, and Android with these features",
+      "url": "https://9to5mac.com/2026/05/14/openai-brings-codex-control-to-chatgpt-for-iphone-and-android/",
+      "pubDate": "2026-05-14T20:14:43.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple promotes Creator Studio with three commissioned pieces",
+      "url": "https://9to5mac.com/2026/05/14/apple-promotes-creator-studio-with-three-commissioned-pieces/",
+      "pubDate": "2026-05-14T20:05:36.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -143,6 +199,13 @@
       "pubDate": "2026-05-14T17:08:18.000Z"
     },
     {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Apple escalates macOS defenses while honoring its open nature",
+      "url": "https://sixcolors.com/post/2026/05/apple-escalates-macos-defenses-while-honoring-its-open-nature/",
+      "pubDate": "2026-05-14T17:00:58.000Z"
+    },
+    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Subnautica 2 is having a huge launch on Steam",
@@ -192,13 +255,6 @@
       "pubDate": "2026-05-14T15:49:47.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "pubDate": "2026-05-14T15:46:04.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Hackers used faked Apple & Yahoo infrastructure to hide malware",
@@ -213,25 +269,11 @@
       "pubDate": "2026-05-14T15:31:28.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Netflix is building an AI animation studio",
-      "url": "https://www.theverge.com/column/930118/netflix-gen-ai-animation-inkubator",
-      "pubDate": "2026-05-14T15:30:00.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Deals: Most affordable M5 MacBook Pro $1,499, base 16-inch M5 Pro $250 off, iPhone 16e from $449, more",
       "url": "https://9to5mac.com/2026/05/14/deals-m5-macbook-pro-16-inch-m5-pro-iphone-16e/",
       "pubDate": "2026-05-14T15:29:43.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Americans do not want AI data centers in their backyards",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/930477/ai-data-centers-gallup-survey-70-percent-opposition",
-      "pubDate": "2026-05-14T15:24:53.000Z"
     },
     {
       "source": "AppleInsider",
@@ -248,13 +290,6 @@
       "pubDate": "2026-05-14T14:37:47.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "CarPlay just gained two new audio apps to keep you entertained on your next trip",
-      "url": "https://9to5mac.com/2026/05/14/carplay-just-gained-two-new-audio-apps-to-keep-you-entertained-on-your-next-trip/",
-      "pubDate": "2026-05-14T14:31:49.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Thieves are unlocking and making more money from stolen and locked iPhones",
@@ -262,32 +297,11 @@
       "pubDate": "2026-05-14T14:06:49.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple has won a prestigious award for iOS 26’s Liquid Glass design",
-      "url": "https://9to5mac.com/2026/05/14/apple-has-won-a-prestigious-award-for-ios-26s-liquid-glass-design/",
-      "pubDate": "2026-05-14T14:05:51.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Get the M5 MacBook Pro for Record Low Price of $1,499.99 on Amazon",
       "url": "https://www.macrumors.com/2026/05/14/m5-macbook-pro-1499/",
       "pubDate": "2026-05-14T14:00:18.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone 17 Pro has the fastest charging speed of 33 phones tested",
-      "url": "https://9to5mac.com/2026/05/14/iphone-17-pro-has-the-fastest-charging-speed-of-33-phones-tested/",
-      "pubDate": "2026-05-14T13:45:55.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Your iPhone might soon have zero dead zones thanks to a new carrier joint venture",
-      "url": "https://9to5mac.com/2026/05/14/your-iphone-might-soon-have-zero-dead-zones-thanks-to-a-new-carrier-joint-venture/",
-      "pubDate": "2026-05-14T13:43:32.000Z"
     },
     {
       "source": "AppleInsider",
@@ -346,13 +360,6 @@
       "pubDate": "2026-05-13T23:15:42.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Grew U.S. iPhone Sales While Broader Smartphone Market Declined in Q1",
-      "url": "https://www.macrumors.com/2026/05/13/apple-q1-market-share-growth/",
-      "pubDate": "2026-05-13T21:48:35.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) Clockwise 656: *Heavy Sigh*",
@@ -365,13 +372,6 @@
       "title": "35 years ago, the Mac got an era-defining upgrade (Macworld/Jason Snell)",
       "url": "https://www.macworld.com/article/3136937",
       "pubDate": "2026-05-13T16:00:16.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) The Rebound 598: Get Rid of Ice",
-      "url": "https://sixcolors.com/podcast/2026/05/the-rebound-598-get-rid-of-ice/",
-      "pubDate": "2026-05-13T14:00:00.000Z"
     }
   ]
 }
