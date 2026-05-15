@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T11:30:15.976Z",
+  "generatedAt": "2026-05-15T14:36:21.793Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,6 +24,139 @@
   ],
   "items": [
     {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Ryan Reynolds’ new Apple TV movie is a spy thriller with a comedy twist",
+      "url": "https://9to5mac.com/2026/05/15/ryan-reynolds-new-apple-tv-movie-is-a-spy-thriller-with-a-comedy-twist/",
+      "pubDate": "2026-05-15T14:33:56.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "The MacRumors Show: Gemini Announcements and Apple Watch Series 12 Rumors",
+      "url": "https://www.macrumors.com/2026/05/15/the-macrumors-show-gemini-announcements/",
+      "pubDate": "2026-05-15T14:30:45.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Amazon Discounts 2026 16-Inch MacBook Pro by $249 Across All Models",
+      "url": "https://www.macrumors.com/2026/05/15/2026-16-inch-macbook-pro-at-249-off/",
+      "pubDate": "2026-05-15T14:16:47.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "CarPlay in iOS 26 adds five new ways to customize your setup",
+      "url": "https://9to5mac.com/2026/05/15/carplay-in-ios-26-adds-five-new-ways-to-customize-your-setup/",
+      "pubDate": "2026-05-15T14:10:52.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Slashes iPhone 17 Prices in China for Annual 618 Festival",
+      "url": "https://www.macrumors.com/2026/05/15/apple-slashes-iphone-17-prices-china/",
+      "pubDate": "2026-05-15T14:09:40.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iPadOS 26 review - iPad finally feels more like the computer it should be",
+      "url": "https://appleinsider.com/articles/26/05/15/ipados-26-review---ipad-finally-feels-more-like-the-computer-it-should-be?utm_source=rss",
+      "pubDate": "2026-05-15T14:06:13.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Mactracker app turns 25 as iPhone and iPad version sees major update with new features",
+      "url": "https://9to5mac.com/2026/05/15/mactracker-app-turns-25-as-iphone-and-ipad-version-sees-major-update-with-new-features/",
+      "pubDate": "2026-05-15T14:01:57.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The funniest thing about the Trump arcade game is how good it is",
+      "url": "https://www.theverge.com/games/930605/operation-epic-fury-strait-to-hell-the-secret-handshake-trump",
+      "pubDate": "2026-05-15T14:01:11.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "HomeKit Weekly: New SwitchBot Lock Vision brings facial recognition and Matter over Wi-Fi",
+      "url": "https://9to5mac.com/2026/05/15/switchbot-lock-vision/",
+      "pubDate": "2026-05-15T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The promises and pitfalls of personalized health",
+      "url": "https://www.theverge.com/column/931148/optimizer-pmos-pcos-personalized-health",
+      "pubDate": "2026-05-15T14:00:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iOS 26.5 is here, iOS 27 is coming, and Android is trying to get ahead of Apple Intelligence, on the AppleInsider Podcast",
+      "url": "https://appleinsider.com/articles/26/05/15/ios-265-is-here-ios-27-is-coming-and-android-is-trying-to-get-ahead-of-apple-intelligence-on-the-appleinsider-podcast?utm_source=rss",
+      "pubDate": "2026-05-15T13:49:40.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Owning an Apple Home: implementing smart pet solutions",
+      "url": "https://appleinsider.com/articles/26/05/15/owning-an-apple-home-implementing-smart-pet-solutions?utm_source=rss",
+      "pubDate": "2026-05-15T13:47:23.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "X is fighting Andrew Tate’s attempt to unmask his critics",
+      "url": "https://www.theverge.com/policy/931084/andrew-tate-x-anonymous-elon-musk-defamation",
+      "pubDate": "2026-05-15T13:30:53.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Lepro’s new backlight kit brings affordable reactive lighting to your Apple TV setup",
+      "url": "https://9to5mac.com/2026/05/15/lepros-new-backlight-kit-brings-affordable-reactive-lighting-to-your-apple-tv-setup/",
+      "pubDate": "2026-05-15T13:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: May 15, 2026 – OpenAI plans legal action against Apple",
+      "url": "https://9to5mac.com/2026/05/15/daily-may-15-2026/",
+      "pubDate": "2026-05-15T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Bose&#8217;s new Lifestyle Ultra speakers are now available",
+      "url": "https://www.theverge.com/gadgets/930471/bose-lifestyle-ultra-speaker-soundbar-subwoofer-price-release-date-availability",
+      "pubDate": "2026-05-15T13:00:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's U.S. chip plan gains steam thanks to $20B TSMC investment",
+      "url": "https://appleinsider.com/articles/26/05/15/apples-us-chip-plan-gains-steam-thanks-to-20b-tsmc-investment?utm_source=rss",
+      "pubDate": "2026-05-15T12:53:56.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "X agrees to crack down on illegal hate and terror content in the UK",
+      "url": "https://www.theverge.com/tech/931147/x-illegal-hate-terror-content-ofcom-commitments",
+      "pubDate": "2026-05-15T12:40:47.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Why I use Apple Calendar and not a to-do list as my task manager",
+      "url": "https://9to5mac.com/2026/05/15/why-i-use-apple-calendar-and-not-a-to-do-list-as-my-task-manager/",
+      "pubDate": "2026-05-15T12:09:38.000Z"
+    },
+    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Watch: 15 Tips Every Owner Needs to Know",
@@ -47,7 +180,7 @@
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
-      "title": "OpenAI brings Codex Remote Access to ChatGPT Mobile App",
+      "title": "OpenAI Brings Codex Remote Access to ChatGPT Mobile App",
       "url": "https://www.macrumors.com/2026/05/15/openai-brings-codex-chatgpt-mobile-app/",
       "pubDate": "2026-05-15T10:43:00.000Z"
     },
@@ -122,20 +255,6 @@
       "pubDate": "2026-05-14T21:08:46.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Behold, the Elon Musk jackass trophy",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/930893/elon-musk-sam-altman-trial-ai-safety-jackass-statue",
-      "pubDate": "2026-05-14T20:59:23.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Leaked images reveal Xbox Elite 3 controller with mysterious new buttons",
-      "url": "https://www.theverge.com/news/930902/microsoft-xbox-elite-3-controller-leak-images",
-      "pubDate": "2026-05-14T20:52:19.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Apple details important enterprise fixes included in macOS 26.5",
@@ -157,53 +276,11 @@
       "pubDate": "2026-05-14T20:14:43.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple promotes Creator Studio with three commissioned pieces",
-      "url": "https://9to5mac.com/2026/05/14/apple-promotes-creator-studio-with-three-commissioned-pieces/",
-      "pubDate": "2026-05-14T20:05:36.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "OpenAI’s Codex is now in the ChatGPT mobile app",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview",
-      "pubDate": "2026-05-14T20:00:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Anthropic's Mythos AI outsmarted Apple's Mac security systems",
       "url": "https://appleinsider.com/articles/26/05/14/anthropics-mythos-ai-outsmarted-apples-mac-security-systems?utm_source=rss",
       "pubDate": "2026-05-14T19:57:27.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 design changes, AirPods with cameras, Apple education store changes",
-      "url": "https://9to5mac.com/2026/05/14/happy-hour-590/",
-      "pubDate": "2026-05-14T19:56:15.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Meta’s summer sale drops Ray-Ban’s new smart glasses to record-low prices",
-      "url": "https://www.theverge.com/gadgets/930785/meta-smart-glasses-gen-1-2-deal-sale",
-      "pubDate": "2026-05-14T19:44:17.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Five Apple Wallet features that helped replace my physical wallet [Video]",
-      "url": "https://9to5mac.com/2026/05/14/five-apple-wallet-features-that-helped-replace-my-physical-wallet-video/",
-      "pubDate": "2026-05-14T19:03:17.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Microsoft starts canceling Claude Code licenses",
-      "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
-      "pubDate": "2026-05-14T19:00:00.000Z"
     },
     {
       "source": "MacRumors",
@@ -220,25 +297,11 @@
       "pubDate": "2026-05-14T18:47:31.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Intel is now making iPhone chips for Apple, per report",
-      "url": "https://9to5mac.com/2026/05/14/intel-is-now-making-iphone-chips-for-apple-per-report/",
-      "pubDate": "2026-05-14T18:42:54.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Amazon slashes $200 off 1TB M5 MacBook Pro, dropping price to $1,499",
       "url": "https://appleinsider.com/articles/26/05/14/amazon-slashes-200-off-1tb-m5-macbook-pro-dropping-price-to-1499?utm_source=rss",
       "pubDate": "2026-05-14T18:13:49.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Car Keys in Apple Wallet now available for a major new vehicle brand",
-      "url": "https://9to5mac.com/2026/05/14/car-keys-in-apple-wallet-now-available-for-a-major-new-vehicle-brand/",
-      "pubDate": "2026-05-14T18:11:38.000Z"
     },
     {
       "source": "AppleInsider",
@@ -253,13 +316,6 @@
       "title": "OpenAI Considering Legal Action Against Apple Over 'Strained' Siri Partnership",
       "url": "https://www.macrumors.com/2026/05/14/openai-considering-legal-action-against-apple/",
       "pubDate": "2026-05-14T17:52:13.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "OpenAI preparing ‘legal action’ against Apple over Siri partnership: report",
-      "url": "https://9to5mac.com/2026/05/14/openai-preparing-legal-action-against-apple-over-siri-partnership-report/",
-      "pubDate": "2026-05-14T17:08:18.000Z"
     },
     {
       "source": "Six Colors",
@@ -283,67 +339,11 @@
       "pubDate": "2026-05-14T16:04:59.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Spotify to Adopt Apple's Technology for Video Podcasts",
-      "url": "https://www.macrumors.com/2026/05/14/spotify-to-adopt-apples-tech-for-video-podcasts/",
-      "pubDate": "2026-05-14T16:02:53.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "New macOS vulnerabilities were exposed by Anthropic’s Mythos: report",
-      "url": "https://9to5mac.com/2026/05/14/new-macos-vulnerabilities-were-exposed-by-anthropics-mythos-report/",
-      "pubDate": "2026-05-14T15:57:43.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Trump Mobile's low-end T1 Android phone ships soon, for iPhone 17e prices",
       "url": "https://appleinsider.com/articles/26/05/14/trump-mobiles-low-end-t1-android-phone-ships-soon-for-iphone-17e-prices?utm_source=rss",
       "pubDate": "2026-05-14T15:52:54.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Hackers used faked Apple & Yahoo infrastructure to hide malware",
-      "url": "https://appleinsider.com/articles/26/05/14/hackers-used-faked-apple-yahoo-infrastructure-to-hide-malware?utm_source=rss",
-      "pubDate": "2026-05-14T15:36:37.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Unexpected US carrier joint venture fires up to expand iPhone cell coverage",
-      "url": "https://appleinsider.com/articles/26/05/14/unexpected-us-carrier-joint-venture-fires-up-to-expand-iphone-cell-coverage?utm_source=rss",
-      "pubDate": "2026-05-14T14:59:58.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Another OpenAI hack puts ChatGPT Mac users on an update deadline",
-      "url": "https://appleinsider.com/articles/26/05/14/another-openai-hack-puts-chatgpt-mac-users-on-an-update-deadline?utm_source=rss",
-      "pubDate": "2026-05-14T14:37:47.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Thieves are unlocking and making more money from stolen and locked iPhones",
-      "url": "https://appleinsider.com/articles/26/05/14/thieves-are-unlocking-and-making-more-money-from-stolen-and-locked-iphones?utm_source=rss",
-      "pubDate": "2026-05-14T14:06:49.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Get the M5 MacBook Pro for Record Low Price of $1,499.99 on Amazon",
-      "url": "https://www.macrumors.com/2026/05/14/m5-macbook-pro-1499/",
-      "pubDate": "2026-05-14T14:00:18.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "OLED iPad Mini: Release Date, Pricing, and What to Expect",
-      "url": "https://www.macrumors.com/2026/05/14/oled-ipad-mini-release-date-pricing-what-expect/",
-      "pubDate": "2026-05-14T12:08:57.000Z"
     },
     {
       "source": "Six Colors",
