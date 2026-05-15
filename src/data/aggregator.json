@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T20:35:21.045Z",
+  "generatedAt": "2026-05-15T22:11:51.988Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,41 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "AirPods Max designer reveals project details in new interview",
+      "url": "https://9to5mac.com/2026/05/15/airpods-max-designer-reveals-project-details-in-new-interview/",
+      "pubDate": "2026-05-15T22:10:53.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "SwitchBot Launches Two Matter Smart Locks With 3D Facial Recognition",
+      "url": "https://www.macrumors.com/2026/05/15/switchbot-matter-smart-locks/",
+      "pubDate": "2026-05-15T21:22:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "WhatsApp finally starts rolling out Liquid Glass more broadly on iOS",
+      "url": "https://9to5mac.com/2026/05/15/whatsapp-finally-starts-rolling-out-liquid-glass-more-broadly-on-ios/",
+      "pubDate": "2026-05-15T21:15:34.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Windows 11 tests an adjustable taskbar and resizable Start menu",
+      "url": "https://www.theverge.com/tech/931817/windows-11-movable-taskbar-start-button",
+      "pubDate": "2026-05-15T21:14:45.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "ArXiv will ban researchers who upload papers full of AI slop",
+      "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
+      "pubDate": "2026-05-15T20:38:19.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -248,20 +283,6 @@
       "pubDate": "2026-05-15T15:34:44.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: 2TB M5 Pro MacBook Pro all-time low or M5 $1499, M5 MacBook Air $170 off, iPad Pro up to $300 off, more",
-      "url": "https://9to5mac.com/2026/05/15/deals-m5-pro-macbook-pro-m5-macbook-air-ipad-pro/",
-      "pubDate": "2026-05-15T15:29:59.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Ryan Reynolds’ new Apple TV movie is a spy thriller with a comedy twist",
-      "url": "https://9to5mac.com/2026/05/15/ryan-reynolds-new-apple-tv-movie-is-a-spy-thriller-with-a-comedy-twist/",
-      "pubDate": "2026-05-15T14:33:56.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "The MacRumors Show: Gemini Announcements and Apple Watch Series 12 Rumors",
@@ -288,20 +309,6 @@
       "title": "iPadOS 26 review - iPad finally feels more like the computer it should be",
       "url": "https://appleinsider.com/articles/26/05/15/ipados-26-review---ipad-finally-feels-more-like-the-computer-it-should-be?utm_source=rss",
       "pubDate": "2026-05-15T14:06:13.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The funniest thing about the Trump arcade game is how good it is",
-      "url": "https://www.theverge.com/games/930605/operation-epic-fury-strait-to-hell-the-secret-handshake-trump",
-      "pubDate": "2026-05-15T14:01:11.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The promises and pitfalls of personalized health",
-      "url": "https://www.theverge.com/column/931148/optimizer-pmos-pcos-personalized-health",
-      "pubDate": "2026-05-15T14:00:00.000Z"
     },
     {
       "source": "AppleInsider",
@@ -337,13 +344,6 @@
       "title": "Apple at 50: Tim Cook, the man who grew Apple by trillions of dollars",
       "url": "https://appleinsider.com/articles/26/05/15/apple-at-50-tim-cook-the-man-who-grew-apple-by-trillions-of-dollars?utm_source=rss",
       "pubDate": "2026-05-15T11:00:14.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "OpenAI Brings Codex Remote Access to ChatGPT Mobile App",
-      "url": "https://www.macrumors.com/2026/05/15/openai-brings-codex-chatgpt-mobile-app/",
-      "pubDate": "2026-05-15T10:43:00.000Z"
     },
     {
       "source": "Six Colors",
