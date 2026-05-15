@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T22:11:51.988Z",
+  "generatedAt": "2026-05-15T23:13:55.631Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Xbox is now XBOX",
+      "url": "https://www.theverge.com/news/931918/microsoft-xbox-rebrand-caps",
+      "pubDate": "2026-05-15T23:10:13.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "10 Useful iPhone Tips and Tricks You Might Not Know About",
+      "url": "https://www.macrumors.com/guide/useful-iphone-tricks-2026/",
+      "pubDate": "2026-05-15T23:08:23.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple discounts iPhone in China ahead of annual 618 shopping festival",
+      "url": "https://9to5mac.com/2026/05/15/apple-discounts-iphone-in-china-ahead-of-annual-618-shopping-festival/",
+      "pubDate": "2026-05-15T23:01:23.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
+      "url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
+      "pubDate": "2026-05-15T22:25:00.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -248,13 +276,6 @@
       "pubDate": "2026-05-15T16:00:41.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "OpenAI now wants ChatGPT to access your bank accounts",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/931122/openai-chatgpt-financial-accounts-plaid-connection",
-      "pubDate": "2026-05-15T16:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Card Promo to Offer Free AirPods Pro 3",
@@ -267,20 +288,6 @@
       "title": "iPhone 17 Pro Named Fastest-Charging Smartphone",
       "url": "https://www.macrumors.com/2026/05/15/iphone-17-pro-named-fastest-charging-smartphone/",
       "pubDate": "2026-05-15T15:52:41.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Upcoming Apple Card promo will basically give you free AirPods Pro 3",
-      "url": "https://9to5mac.com/2026/05/15/upcoming-apple-card-promo-will-basically-give-you-free-airpods-pro-3/",
-      "pubDate": "2026-05-15T15:51:53.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "BioLite’s stakeable solar lights are down to a new low price for Memorial Day",
-      "url": "https://www.theverge.com/gadgets/930969/biolite-solar-site-lights-insta360-action-camera-deal-sale",
-      "pubDate": "2026-05-15T15:34:44.000Z"
     },
     {
       "source": "MacRumors",
@@ -330,13 +337,6 @@
       "title": "Apple's U.S. chip plan gains steam thanks to $20B TSMC investment",
       "url": "https://appleinsider.com/articles/26/05/15/apples-us-chip-plan-gains-steam-thanks-to-20b-tsmc-investment?utm_source=rss",
       "pubDate": "2026-05-15T12:53:56.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Watch: 15 Tips Every Owner Needs to Know",
-      "url": "https://www.macrumors.com/guide/apple-watch-15-tips-need-to-know/",
-      "pubDate": "2026-05-15T11:07:47.000Z"
     },
     {
       "source": "AppleInsider",
