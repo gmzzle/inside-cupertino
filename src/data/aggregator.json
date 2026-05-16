@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T12:07:36.093Z",
+  "generatedAt": "2026-05-16T14:00:57.206Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Turtle Beach made a good SteelSeries headset clone that’s $50 less",
+      "url": "https://www.theverge.com/gadgets/930828/turtle-beach-stealth-pro-2-steelseries-arctis-nova-pro-omni-gaming-headset-hands-on",
+      "pubDate": "2026-05-16T14:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Top Stories: iPhone 18 Pro Rumors, iOS 26.5 Released, and More",
+      "url": "https://www.macrumors.com/2026/05/16/top-stories-iphone-18-pro-rumors/",
+      "pubDate": "2026-05-16T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Here are 40 of our favorite deals from REI’s massive Anniversary Sale",
+      "url": "https://www.theverge.com/gadgets/931274/rei-anniversary-sale-2026",
+      "pubDate": "2026-05-16T13:00:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple, Epic agree on pre-court schedule for new fee proposals",
+      "url": "https://appleinsider.com/articles/26/05/16/apple-epic-agree-on-pre-court-schedule-for-new-fee-proposals?utm_source=rss",
+      "pubDate": "2026-05-16T12:09:14.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -171,13 +199,6 @@
       "pubDate": "2026-05-15T18:43:43.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "OpenAI keeps shuffling its executives in bid to win AI agent battle",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle",
-      "pubDate": "2026-05-15T18:21:35.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Apple will launch 15+ new products this fall, here’s what’s coming",
@@ -197,13 +218,6 @@
       "title": "This magnetic headphone amp puts a DAC (and display) on the back of your iPhone",
       "url": "https://9to5mac.com/2026/05/15/this-magnetic-headphone-amp-puts-a-dac-and-display-on-the-back-of-your-iphone/",
       "pubDate": "2026-05-15T17:48:01.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "One of Intel’s fastest desktop CPUs is $50 off",
-      "url": "https://www.theverge.com/gadgets/931495/intel-ultra-7-270k-plus-cpu-deal-sale",
-      "pubDate": "2026-05-15T17:46:20.000Z"
     },
     {
       "source": "9to5Mac",
@@ -304,13 +318,6 @@
       "pubDate": "2026-05-15T14:16:47.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Slashes iPhone 17 Prices in China for Annual 618 Festival",
-      "url": "https://www.macrumors.com/2026/05/15/apple-slashes-iphone-17-prices-china/",
-      "pubDate": "2026-05-15T14:09:40.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "iPadOS 26 review - iPad finally feels more like the computer it should be",
@@ -365,13 +372,6 @@
       "title": "(Podcast) Clockwise 656: *Heavy Sigh*",
       "url": "https://sixcolors.com/podcast/2026/05/clockwise-656-heavy-sigh/",
       "pubDate": "2026-05-13T20:36:23.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "35 years ago, the Mac got an era-defining upgrade (Macworld/Jason Snell)",
-      "url": "https://www.macworld.com/article/3136937",
-      "pubDate": "2026-05-13T16:00:16.000Z"
     }
   ]
 }
