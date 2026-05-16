@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T00:10:52.693Z",
+  "generatedAt": "2026-05-16T04:04:18.166Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Cash is down for some iPhone users in the U.S.",
+      "url": "https://9to5mac.com/2026/05/15/apple-cash-is-down-for-some-iphone-users-in-the-u-s/",
+      "pubDate": "2026-05-16T01:31:19.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -232,13 +239,6 @@
       "title": "DOJ reportedly demands Apple and Google identify over 100,000 users of car app",
       "url": "https://9to5mac.com/2026/05/15/doj-reportedly-demands-apple-and-google-identify-over-100000-users-of-car-app/",
       "pubDate": "2026-05-15T16:56:06.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "OpenAI just released new personal finance features for ChatGPT customers",
-      "url": "https://9to5mac.com/2026/05/15/openai-just-released-new-personal-finance-features-for-chatgpt-customers/",
-      "pubDate": "2026-05-15T16:54:53.000Z"
     },
     {
       "source": "MacRumors",
