@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T19:34:30.302Z",
+  "generatedAt": "2026-05-16T21:05:36.536Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -29,6 +29,13 @@
       "title": "Indie App Spotlight: ‘Cats Lock’ is a fun Mac app that solves cat keyboard spam",
       "url": "https://9to5mac.com/2026/05/16/indie-app-spotlight-cats-lock-is-a-fun-mac-app-that-solves-cat-keyboard-spam/",
       "pubDate": "2026-05-16T19:30:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Snap, YouTube, and TikTok settle suit over harm to students",
+      "url": "https://www.theverge.com/tech/932153/snap-youtube-tiktok-lawsuit-social-media-addiction-schools",
+      "pubDate": "2026-05-16T18:34:23.000Z"
     },
     {
       "source": "9to5Mac",
@@ -211,13 +218,6 @@
       "title": "WhatsApp finally starts rolling out Liquid Glass more broadly on iOS",
       "url": "https://9to5mac.com/2026/05/15/whatsapp-finally-starts-rolling-out-liquid-glass-more-broadly-on-ios/",
       "pubDate": "2026-05-15T21:15:34.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Windows 11 tests an adjustable taskbar and resizable Start menu",
-      "url": "https://www.theverge.com/tech/931817/windows-11-movable-taskbar-start-button",
-      "pubDate": "2026-05-15T21:14:45.000Z"
     },
     {
       "source": "MacRumors",
