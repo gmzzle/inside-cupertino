@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T10:38:25.369Z",
+  "generatedAt": "2026-05-16T12:07:36.093Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,41 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Mixtape is a musical portrait of teenage life",
+      "url": "https://www.theverge.com/games/925580/mixtape-review-ps5-xbox-series-x-s-nintendo-switch-2-pc",
+      "pubDate": "2026-05-16T12:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The app you need to clean up your computer",
+      "url": "https://www.theverge.com/tech/931586/mole-bartender-mac-utilities-installer",
+      "pubDate": "2026-05-16T12:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "These are the laptops I recommend for pretty much anyone",
+      "url": "https://www.theverge.com/gadgets/931638/best-laptops-macbooks-windows-gaming-2026",
+      "pubDate": "2026-05-16T12:00:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "DOJ emissions cheating app investigation leads to record user data request",
+      "url": "https://appleinsider.com/articles/26/05/15/doj-investigation-into-vehicle-modding-hardware-leads-to-apple-subpoena?utm_source=rss",
+      "pubDate": "2026-05-16T11:23:29.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple shares closed over $300 for the first time as investors look past AI concerns",
+      "url": "https://appleinsider.com/articles/26/05/15/apple-shares-climbed-to-a-record-high-as-investors-look-past-ai-concerns?utm_source=rss",
+      "pubDate": "2026-05-16T11:21:01.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -115,13 +150,6 @@
       "pubDate": "2026-05-15T20:06:09.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple shares climbed to a record high as investors look past AI concerns",
-      "url": "https://appleinsider.com/articles/26/05/15/apple-shares-climbed-to-a-record-high-as-investors-look-past-ai-concerns?utm_source=rss",
-      "pubDate": "2026-05-15T20:00:45.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Apple TV is on a hot streak with new shows, with more coming soon",
@@ -141,13 +169,6 @@
       "title": "The Analogue 3D is finally getting save states",
       "url": "https://www.theverge.com/tech/931615/analogue-3d-nintendo-64-console-memories-save-state",
       "pubDate": "2026-05-15T18:43:43.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "DOJ investigation into vehicle modding hardware leads to Apple subpoena",
-      "url": "https://appleinsider.com/articles/26/05/15/doj-investigation-into-vehicle-modding-hardware-leads-to-apple-subpoena?utm_source=rss",
-      "pubDate": "2026-05-15T18:27:41.000Z"
     },
     {
       "source": "The Verge",
@@ -220,13 +241,6 @@
       "pubDate": "2026-05-15T17:13:28.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "AI radio hosts demonstrate why AI can’t be trusted alone",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies",
-      "pubDate": "2026-05-15T17:09:16.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Review: iVANKY's FusionDock Ultra is a Premium 26-Port Thunderbolt 5 Dock for Your Mac",
@@ -246,20 +260,6 @@
       "title": "MacRumors Giveaway: Win an Apple Watch Ultra 3 and 25W 3-in-1 Charging Station From Lululook",
       "url": "https://www.macrumors.com/2026/05/15/macrumors-giveaway-lululook-apple-watch-ultra-3/",
       "pubDate": "2026-05-15T16:51:14.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Does Trump Mobile know how many stripes are on the American flag?",
-      "url": "https://www.theverge.com/gadgets/931347/trump-mobile-t1-phone-logo-flag-stars-stripes",
-      "pubDate": "2026-05-15T16:47:16.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Google updates its spam rules to include attempts to ‘manipulate’ AI",
-      "url": "https://www.theverge.com/tech/931416/google-ai-search-spam-policy",
-      "pubDate": "2026-05-15T16:42:59.000Z"
     },
     {
       "source": "AppleInsider",
