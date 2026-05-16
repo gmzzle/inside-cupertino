@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T14:00:57.206Z",
+  "generatedAt": "2026-05-16T15:17:30.983Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -26,9 +26,51 @@
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
+      "title": "NPR’s Manoush Zomorodi talks about living with too much tech",
+      "url": "https://www.theverge.com/report/930171/manoush-zomorodi-body-electric-npr-questionnaire",
+      "pubDate": "2026-05-16T15:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "This rumored MacBook Pro upgrade has me excited, and it has nothing to do with OLED",
+      "url": "https://9to5mac.com/2026/05/16/macbook-pro-overhaul-later-this-year-one-exciting-upgrade/",
+      "pubDate": "2026-05-16T14:43:59.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple, Epic agree on pre-court schedule for new fee proposals",
+      "url": "https://appleinsider.com/articles/26/05/16/apple-epic-agree-on-pre-court-schedule-for-new-fee-proposals?utm_source=rss",
+      "pubDate": "2026-05-16T14:07:32.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Craig Federighi dragged into Musk's Apple-OpenAI lawsuit",
+      "url": "https://appleinsider.com/articles/26/05/16/craig-federighi-dragged-into-musks-apple-openai-lawsuit?utm_source=rss",
+      "pubDate": "2026-05-16T14:04:29.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
       "title": "Turtle Beach made a good SteelSeries headset clone that’s $50 less",
       "url": "https://www.theverge.com/gadgets/930828/turtle-beach-stealth-pro-2-steelseries-arctis-nova-pro-omni-gaming-headset-hands-on",
       "pubDate": "2026-05-16T14:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple @ Work: How AI is going to change cybersecurity training for Mac admins",
+      "url": "https://9to5mac.com/2026/05/16/apple-work-how-ai-is-going-to-change-cybersecurity-training-for-mac-admins/",
+      "pubDate": "2026-05-16T13:30:58.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Best Apple Deals of the Week: Anker Accessories on Sale Plus AirPods Max 2 for $509 and More",
+      "url": "https://www.macrumors.com/2026/05/16/best-apple-deals-of-the-week-5-15-26/",
+      "pubDate": "2026-05-16T13:20:00.000Z"
     },
     {
       "source": "MacRumors",
@@ -43,13 +85,6 @@
       "title": "Here are 40 of our favorite deals from REI’s massive Anniversary Sale",
       "url": "https://www.theverge.com/gadgets/931274/rei-anniversary-sale-2026",
       "pubDate": "2026-05-16T13:00:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple, Epic agree on pre-court schedule for new fee proposals",
-      "url": "https://appleinsider.com/articles/26/05/16/apple-epic-agree-on-pre-court-schedule-for-new-fee-proposals?utm_source=rss",
-      "pubDate": "2026-05-16T12:09:14.000Z"
     },
     {
       "source": "The Verge",
@@ -192,13 +227,6 @@
       "pubDate": "2026-05-15T18:45:12.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Analogue 3D is finally getting save states",
-      "url": "https://www.theverge.com/tech/931615/analogue-3d-nintendo-64-console-memories-save-state",
-      "pubDate": "2026-05-15T18:43:43.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Apple will launch 15+ new products this fall, here’s what’s coming",
@@ -236,20 +264,6 @@
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
-      "title": "Best Apple Deals of the Week: Anker Accessories on Sale Plus AirPods Max 2 for $509 and More",
-      "url": "https://www.macrumors.com/2026/05/15/best-apple-deals-of-the-week-5-15-26/",
-      "pubDate": "2026-05-15T17:20:23.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "The biggest iPhone Ultra mystery left to sway my upgrade decision",
-      "url": "https://9to5mac.com/2026/05/15/the-biggest-iphone-ultra-mystery-left-to-sway-my-upgrade-decision/",
-      "pubDate": "2026-05-15T17:14:14.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
       "title": "ChatGPT Can Now Connect to Your Financial Accounts for Budgeting Advice",
       "url": "https://www.macrumors.com/2026/05/15/chatgpt-personal-finance/",
       "pubDate": "2026-05-15T17:13:28.000Z"
@@ -260,13 +274,6 @@
       "title": "Review: iVANKY's FusionDock Ultra is a Premium 26-Port Thunderbolt 5 Dock for Your Mac",
       "url": "https://www.macrumors.com/review/ivanky-fusiondock-ultra/",
       "pubDate": "2026-05-15T17:05:43.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "DOJ reportedly demands Apple and Google identify over 100,000 users of car app",
-      "url": "https://9to5mac.com/2026/05/15/doj-reportedly-demands-apple-and-google-identify-over-100000-users-of-car-app/",
-      "pubDate": "2026-05-15T16:56:06.000Z"
     },
     {
       "source": "MacRumors",
@@ -344,13 +351,6 @@
       "title": "Apple's U.S. chip plan gains steam thanks to $20B TSMC investment",
       "url": "https://appleinsider.com/articles/26/05/15/apples-us-chip-plan-gains-steam-thanks-to-20b-tsmc-investment?utm_source=rss",
       "pubDate": "2026-05-15T12:53:56.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple at 50: Tim Cook, the man who grew Apple by trillions of dollars",
-      "url": "https://appleinsider.com/articles/26/05/15/apple-at-50-tim-cook-the-man-who-grew-apple-by-trillions-of-dollars?utm_source=rss",
-      "pubDate": "2026-05-15T11:00:14.000Z"
     },
     {
       "source": "Six Colors",
