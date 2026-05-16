@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T23:13:55.631Z",
+  "generatedAt": "2026-05-16T00:10:52.693Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "The LiberNovo Maxis ergonomic chair sets a new standard for big and tall users",
+      "url": "https://9to5mac.com/2026/05/15/libernovo-maxis-ergonomic-chair-sets-new-standard-big-tall-users/",
+      "pubDate": "2026-05-15T23:45:00.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -260,13 +267,6 @@
       "title": "AirPods Max development involved hundreds of variations over five years",
       "url": "https://appleinsider.com/articles/26/05/15/airpods-max-development-involved-hundreds-of-variations-over-five-years?utm_source=rss",
       "pubDate": "2026-05-15T16:42:57.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone vibe coding app ships first update in four months after App Store review issue",
-      "url": "https://9to5mac.com/2026/05/15/iphone-vibe-coding-app-ships-first-update-in-four-months-after-app-store-review-issue/",
-      "pubDate": "2026-05-15T16:25:01.000Z"
     },
     {
       "source": "Six Colors",
