@@ -2,7 +2,7 @@
 title: "Apple Watch Series 12 Is Coming This Fall and You Already Know What It Looks Like"
 description: "September's Apple Watch will look like last year's model, which looked like the year before. That's fine, actually."
 pubDate: 2026-05-17T04:09:15.711Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - apple-watch
