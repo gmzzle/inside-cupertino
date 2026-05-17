@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T09:59:55.248Z",
+  "generatedAt": "2026-05-17T11:34:00.772Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Crime blotter: How the Long Island truck hijackers were caught",
+      "url": "https://appleinsider.com/articles/26/05/17/crime-blotter-how-the-long-island-truck-hijackers-were-caught?utm_source=rss",
+      "pubDate": "2026-05-17T11:24:17.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -337,13 +344,6 @@
       "title": "iOS 26.5 is here, iOS 27 is coming, and Android is trying to get ahead of Apple Intelligence, on the AppleInsider Podcast",
       "url": "https://appleinsider.com/articles/26/05/15/ios-265-is-here-ios-27-is-coming-and-android-is-trying-to-get-ahead-of-apple-intelligence-on-the-appleinsider-podcast?utm_source=rss",
       "pubDate": "2026-05-15T13:49:40.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Owning an Apple Home: implementing smart pet solutions",
-      "url": "https://appleinsider.com/articles/26/05/15/owning-an-apple-home-implementing-smart-pet-solutions?utm_source=rss",
-      "pubDate": "2026-05-15T13:47:23.000Z"
     },
     {
       "source": "AppleInsider",
