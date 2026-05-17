@@ -2,7 +2,7 @@
 title: "Craig Federighi Gets Subpoenaed in Musk's Grok Tantrum Lawsuit"
 description: "Elon's antitrust case against Apple now involves the guy who runs iOS. Tim Cook gets to sit this one out."
 pubDate: 2026-05-16T14:22:35.849Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - craig-federighi
