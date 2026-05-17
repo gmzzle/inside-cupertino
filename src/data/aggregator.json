@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T15:18:18.274Z",
+  "generatedAt": "2026-05-17T17:16:06.771Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Genmoji in iOS 27 will use what you type and what's in Photos for suggestions",
+      "url": "https://appleinsider.com/articles/26/05/17/genmoji-in-ios-27-will-use-what-you-type-and-whats-in-photos-for-suggestions?utm_source=rss",
+      "pubDate": "2026-05-17T16:03:02.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -316,13 +323,6 @@
       "title": "MacRumors Giveaway: Win an Apple Watch Ultra 3 and 25W 3-in-1 Charging Station From Lululook",
       "url": "https://www.macrumors.com/2026/05/15/macrumors-giveaway-lululook-apple-watch-ultra-3/",
       "pubDate": "2026-05-15T16:51:14.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "AirPods Max development involved hundreds of variations over five years",
-      "url": "https://appleinsider.com/articles/26/05/15/airpods-max-development-involved-hundreds-of-variations-over-five-years?utm_source=rss",
-      "pubDate": "2026-05-15T16:42:57.000Z"
     },
     {
       "source": "Six Colors",
