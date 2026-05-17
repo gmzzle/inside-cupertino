@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T21:09:17.759Z",
+  "generatedAt": "2026-05-17T22:09:16.842Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Microsoft is retiring Teams’ Together Mode",
+      "url": "https://www.theverge.com/tech/932215/microsoft-teams-together-mode",
+      "pubDate": "2026-05-17T21:15:28.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -211,13 +218,6 @@
       "title": "Craig Federighi dragged into Musk's Apple-OpenAI lawsuit",
       "url": "https://appleinsider.com/articles/26/05/16/craig-federighi-dragged-into-musks-apple-openai-lawsuit?utm_source=rss",
       "pubDate": "2026-05-16T14:04:29.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Turtle Beach made a good SteelSeries headset clone that’s $50 less",
-      "url": "https://www.theverge.com/gadgets/930828/turtle-beach-stealth-pro-2-steelseries-arctis-nova-pro-omni-gaming-headset-hands-on",
-      "pubDate": "2026-05-16T14:00:00.000Z"
     },
     {
       "source": "9to5Mac",
