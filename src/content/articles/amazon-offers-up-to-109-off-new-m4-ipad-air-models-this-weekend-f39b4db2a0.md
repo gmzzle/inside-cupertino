@@ -2,7 +2,7 @@
 title: "Amazon's $109 Off the M4 iPad Air Is Actually a Decent Deal"
 description: "The new iPad Air is getting its first real discount. If you were waiting for a price drop on the M4 model, this weekend might be it."
 pubDate: 2026-05-17T14:26:13.456Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - ipad-air
