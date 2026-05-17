@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T11:34:00.772Z",
+  "generatedAt": "2026-05-17T13:58:28.265Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Fujifilm’s X Half is even more whimsical with a $300 price cut",
+      "url": "https://www.theverge.com/gadgets/928204/fujifilm-x-half-digital-camera-deal-sale",
+      "pubDate": "2026-05-17T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "ElliQ is a surprisingly helpful companion robot for older adults",
+      "url": "https://www.theverge.com/gadgets/928806/elliq-intuition-robotics-hands-on",
+      "pubDate": "2026-05-17T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Chatbots at the drive-thru are just the beginning",
+      "url": "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys",
+      "pubDate": "2026-05-17T12:00:00.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -150,13 +171,6 @@
       "pubDate": "2026-05-16T12:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "These are the laptops I recommend for pretty much anyone",
-      "url": "https://www.theverge.com/gadgets/931638/best-laptops-macbooks-windows-gaming-2026",
-      "pubDate": "2026-05-16T12:00:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "DOJ emissions cheating app investigation leads to record user data request",
@@ -185,13 +199,6 @@
       "pubDate": "2026-05-15T23:45:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Xbox is now XBOX",
-      "url": "https://www.theverge.com/news/931918/microsoft-xbox-rebrand-caps",
-      "pubDate": "2026-05-15T23:10:13.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "10 Useful iPhone Tips and Tricks You Might Not Know About",
@@ -204,13 +211,6 @@
       "title": "Apple discounts iPhone in China ahead of annual 618 shopping festival",
       "url": "https://9to5mac.com/2026/05/15/apple-discounts-iphone-in-china-ahead-of-annual-618-shopping-festival/",
       "pubDate": "2026-05-15T23:01:23.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
-      "url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
-      "pubDate": "2026-05-15T22:25:00.000Z"
     },
     {
       "source": "9to5Mac",
