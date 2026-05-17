@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T19:37:26.265Z",
+  "generatedAt": "2026-05-17T21:09:17.759Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Sunday Reboot: Liquid Glass appreciation, Cook in China, and Cats",
+      "url": "https://appleinsider.com/articles/26/05/17/sunday-reboot-liquid-glass-appreciation-cook-in-china-and-cats?utm_source=rss",
+      "pubDate": "2026-05-17T20:11:07.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Spotify confirms disco ball app icon is temporary and regular logo will return",
+      "url": "https://9to5mac.com/2026/05/17/spotify-confirms-disco-ball-app-icon-is-temporary-and-regular-logo-will-return/",
+      "pubDate": "2026-05-17T19:56:14.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -269,13 +283,6 @@
       "pubDate": "2026-05-15T23:01:23.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "AirPods Max designer reveals project details in new interview",
-      "url": "https://9to5mac.com/2026/05/15/airpods-max-designer-reveals-project-details-in-new-interview/",
-      "pubDate": "2026-05-15T22:10:53.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "SwitchBot Launches Two Matter Smart Locks With 3D Facial Recognition",
@@ -295,13 +302,6 @@
       "title": "Gemini Intelligence announcement hopes to steal Apple's Siri thunder but falls short",
       "url": "https://appleinsider.com/articles/26/05/15/gemini-intelligence-announcement-hopes-to-steal-apples-siri-thunder-but-falls-short?utm_source=rss",
       "pubDate": "2026-05-15T18:45:12.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple's treatment of AI coding apps could be shifting with Replit update",
-      "url": "https://appleinsider.com/articles/26/05/15/apples-treatment-of-ai-coding-apps-could-be-shifting-with-replit-update?utm_source=rss",
-      "pubDate": "2026-05-15T17:56:23.000Z"
     },
     {
       "source": "MacRumors",
