@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T13:58:28.265Z",
+  "generatedAt": "2026-05-17T15:18:18.274Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,55 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Privacy & data security will remain tantamount for Apple's 2026 AI push",
+      "url": "https://appleinsider.com/articles/26/05/17/privacy-data-security-will-remain-tantamount-for-apples-2026-ai-push?utm_source=rss",
+      "pubDate": "2026-05-17T15:15:35.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Revamped Siri may launch in beta, despite two year delay",
+      "url": "https://appleinsider.com/articles/26/05/17/revamped-siri-may-launch-in-beta-despite-two-year-delay?utm_source=rss",
+      "pubDate": "2026-05-17T15:12:16.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Report: Apple to upgrade Genmoji in iOS 27 with new automatic suggestions",
+      "url": "https://9to5mac.com/2026/05/17/report-apple-to-upgrade-genmoji-in-ios-27-with-new-automatic-suggestions/",
+      "pubDate": "2026-05-17T14:49:23.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple Watch Series 12 probably won't get a major update",
+      "url": "https://appleinsider.com/articles/26/05/17/apple-watch-series-12-probably-wont-get-a-major-update?utm_source=rss",
+      "pubDate": "2026-05-17T14:39:56.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Standalone Siri app to offer auto-deleting chat history, launch with beta label: report",
+      "url": "https://9to5mac.com/2026/05/17/apple-launching-new-siri-app-next-month-with-auto-deleting-chat-history/",
+      "pubDate": "2026-05-17T14:33:10.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Amazon Offers Up to $109 Off New M4 iPad Air Models This Weekend",
+      "url": "https://www.macrumors.com/2026/05/17/109-off-new-m4-ipad-air/",
+      "pubDate": "2026-05-17T14:20:10.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Oddity is masterfully tense horror from the director of Hokum",
+      "url": "https://www.theverge.com/entertainment/932179/oddity-damian-mccarthy-horror-movie-hokum",
+      "pubDate": "2026-05-17T14:00:00.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -164,13 +213,6 @@
       "pubDate": "2026-05-16T12:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The app you need to clean up your computer",
-      "url": "https://www.theverge.com/tech/931586/mole-bartender-mac-utilities-installer",
-      "pubDate": "2026-05-16T12:00:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "DOJ emissions cheating app investigation leads to record user data request",
@@ -227,25 +269,11 @@
       "pubDate": "2026-05-15T21:22:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "WhatsApp finally starts rolling out Liquid Glass more broadly on iOS",
-      "url": "https://9to5mac.com/2026/05/15/whatsapp-finally-starts-rolling-out-liquid-glass-more-broadly-on-ios/",
-      "pubDate": "2026-05-15T21:15:34.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Cats Lock for Mac Stops Your Cat From Causing Keyboard Havoc",
       "url": "https://www.macrumors.com/2026/05/15/cats-lock-mac-app/",
       "pubDate": "2026-05-15T20:29:04.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Court grants Musk’s bid to add Craig Federighi to Apple/OpenAI lawsuit, spares Cook",
-      "url": "https://9to5mac.com/2026/05/15/court-grants-musks-bid-to-add-craig-federighi-to-apple-openai-lawsuit-spares-cook/",
-      "pubDate": "2026-05-15T20:06:09.000Z"
     },
     {
       "source": "AppleInsider",
@@ -323,34 +351,6 @@
       "title": "The MacRumors Show: Gemini Announcements and Apple Watch Series 12 Rumors",
       "url": "https://www.macrumors.com/2026/05/15/the-macrumors-show-gemini-announcements/",
       "pubDate": "2026-05-15T14:30:45.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Amazon Discounts 2026 16-Inch MacBook Pro by $249 Across All Models",
-      "url": "https://www.macrumors.com/2026/05/15/2026-16-inch-macbook-pro-at-249-off/",
-      "pubDate": "2026-05-15T14:16:47.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPadOS 26 review - iPad finally feels more like the computer it should be",
-      "url": "https://appleinsider.com/articles/26/05/15/ipados-26-review---ipad-finally-feels-more-like-the-computer-it-should-be?utm_source=rss",
-      "pubDate": "2026-05-15T14:06:13.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iOS 26.5 is here, iOS 27 is coming, and Android is trying to get ahead of Apple Intelligence, on the AppleInsider Podcast",
-      "url": "https://appleinsider.com/articles/26/05/15/ios-265-is-here-ios-27-is-coming-and-android-is-trying-to-get-ahead-of-apple-intelligence-on-the-appleinsider-podcast?utm_source=rss",
-      "pubDate": "2026-05-15T13:49:40.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple's U.S. chip plan gains steam thanks to $20B TSMC investment",
-      "url": "https://appleinsider.com/articles/26/05/15/apples-us-chip-plan-gains-steam-thanks-to-20b-tsmc-investment?utm_source=rss",
-      "pubDate": "2026-05-15T12:53:56.000Z"
     },
     {
       "source": "Six Colors",
