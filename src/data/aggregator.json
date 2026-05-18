@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T19:04:07.658Z",
+  "generatedAt": "2026-05-18T20:46:47.741Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,6 +24,55 @@
   ],
   "items": [
     {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone 18 Pro release date: Here’s when Apple’s new model is coming",
+      "url": "https://9to5mac.com/2026/05/18/iphone-18-release-date-when-apples-new-model-is-coming/",
+      "pubDate": "2026-05-18T20:46:05.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Volvo teases a new affordable EV to replace discontinued EX30",
+      "url": "https://www.theverge.com/transportation/932857/volvo-ex30-ev-replacement-affordable-ex60",
+      "pubDate": "2026-05-18T20:41:09.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 26.5 adds new setting for alternative app marketplaces in Brazil",
+      "url": "https://9to5mac.com/2026/05/18/ios-26-5-adds-new-setting-for-alternative-app-marketplaces-in-brazil/",
+      "pubDate": "2026-05-18T20:12:14.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "macOS 27 will drop support for these four Mac models",
+      "url": "https://9to5mac.com/2026/05/18/macos-27-will-drop-support-for-these-four-mac-models/",
+      "pubDate": "2026-05-18T20:12:03.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "PlayStation exclusives aren&#8217;t coming to PC anymore",
+      "url": "https://www.theverge.com/games/932817/playstation-exclusive-games-pc",
+      "pubDate": "2026-05-18T19:28:42.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple Design Awards 2026 finalists include Cyberpunk 2077 & Civilization VII",
+      "url": "https://appleinsider.com/articles/26/05/18/apple-design-awards-2026-finalists-include-cyberpunk-2077-civilization-vii?utm_source=rss",
+      "pubDate": "2026-05-18T19:05:57.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Rumored return to titanium after the aluminum iPhone 17 Pro doesn't make sense",
+      "url": "https://appleinsider.com/articles/26/05/18/rumored-return-to-titanium-after-the-aluminum-iphone-17-pro-doesnt-make-sense?utm_source=rss",
+      "pubDate": "2026-05-18T19:02:43.000Z"
+    },
+    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Musk v. Altman proved that AI is led by the wrong people",
@@ -36,6 +85,13 @@
       "title": "Apple TV’s twisty new thriller sounds like a big winner, first reviews here",
       "url": "https://9to5mac.com/2026/05/18/apple-tvs-twisty-new-thriller-sounds-like-a-big-winner-first-reviews-here/",
       "pubDate": "2026-05-18T18:58:08.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Improved Writing Tools, generated wallpapers, & easier Shortcut creation rumored for iOS 27",
+      "url": "https://appleinsider.com/articles/26/05/18/improved-writing-tools-generated-wallpapers-easier-shortcut-creation-rumored-for-ios-27?utm_source=rss",
+      "pubDate": "2026-05-18T18:55:50.000Z"
     },
     {
       "source": "The Verge",
@@ -57,6 +113,13 @@
       "title": "iOS 27 to Let Users Generate Wallpapers and Build Shortcuts With AI",
       "url": "https://www.macrumors.com/2026/05/18/ios-27-ai-wallpaper-shortcuts/",
       "pubDate": "2026-05-18T18:13:04.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "WWDC 2026 media invites read 'Coming bright up' as the June 8 conference approaches",
+      "url": "https://appleinsider.com/articles/26/05/18/wwdc-2026-media-invites-read-coming-bright-up-as-the-june-8-conference-approaches?utm_source=rss",
+      "pubDate": "2026-05-18T18:00:05.000Z"
     },
     {
       "source": "9to5Mac",
@@ -145,9 +208,16 @@
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
-      "title": "Gradient Google icon redesign starts rolling out",
+      "title": "Gradient Google icon redesign rolling out on Android, iOS, & web",
       "url": "https://9to5google.com/2026/05/18/gradient-google-icon-redesign-web/",
       "pubDate": "2026-05-18T16:45:05.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple at 50: Tim Cook, the man who grew Apple by trillions of dollars",
+      "url": "https://appleinsider.com/articles/26/05/15/apple-at-50-tim-cook-the-man-who-grew-apple-by-trillions-of-dollars?utm_source=rss",
+      "pubDate": "2026-05-18T16:35:06.000Z"
     },
     {
       "source": "The Verge",
@@ -162,6 +232,27 @@
       "title": "Sony is raising short-subscription prices for PlayStation Plus",
       "url": "https://www.theverge.com/games/932430/sony-playstation-plus-subscription-price-raise",
       "pubDate": "2026-05-18T16:24:40.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Problematic hinge could delay the iPhone Fold",
+      "url": "https://appleinsider.com/articles/26/05/18/problematic-hinge-could-delay-the-iphone-fold?utm_source=rss",
+      "pubDate": "2026-05-18T16:19:47.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Getting free AirPods Pro 3 sounds simple until the Apple Card fine print kicks in",
+      "url": "https://appleinsider.com/articles/26/05/18/getting-free-airpods-pro-3-sounds-simple-until-the-apple-card-fine-print-kicks-in?utm_source=rss",
+      "pubDate": "2026-05-18T16:15:40.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Amazon's popular $299 iPad 11 deal is back this week",
+      "url": "https://appleinsider.com/articles/26/05/18/amazons-popular-299-ipad-11-deal-is-back-this-week?utm_source=rss",
+      "pubDate": "2026-05-18T16:15:22.000Z"
     },
     {
       "source": "MacRumors",
@@ -185,18 +276,11 @@
       "pubDate": "2026-05-18T15:30:56.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "New iPhone Ultra leaks cover release timing, display breakthrough, more",
-      "url": "https://9to5mac.com/2026/05/18/new-iphone-ultra-leaks-cover-release-timing-display-breakthrough-more/",
-      "pubDate": "2026-05-18T15:23:50.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple launches Apple Card promo offering free AirPods Pro 3",
-      "url": "https://9to5mac.com/2026/05/18/apple-launches-apple-card-promo-offering-free-airpods-pro-3/",
-      "pubDate": "2026-05-18T15:14:00.000Z"
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple Watch Ultra could get first major redesign for version 4",
+      "url": "https://appleinsider.com/articles/26/05/18/apple-watch-ultra-could-get-first-major-redesign-for-version-4?utm_source=rss",
+      "pubDate": "2026-05-18T15:14:02.000Z"
     },
     {
       "source": "MacRumors",
@@ -204,27 +288,6 @@
       "title": "New Apple Card Holders Can Get Free AirPods Pro 3, But There's a Catch",
       "url": "https://www.macrumors.com/2026/05/18/apple-card-holders-can-now-get-free-airpods-pro/",
       "pubDate": "2026-05-18T15:11:52.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Philips Hue smart lights and a whole lot more are over 20 percent off",
-      "url": "https://www.theverge.com/gadgets/932276/philips-hue-amazon-scribe-super-mario-rpg-deal-sale",
-      "pubDate": "2026-05-18T15:03:03.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Orbitkey’s new Grid Desk Organizer is a modular upgrade for your desk setup",
-      "url": "https://9to5mac.com/2026/05/18/orbitkeys-new-grid-desk-organizer-is-a-modular-upgrade-for-your-desk-setup/",
-      "pubDate": "2026-05-18T15:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Verge’s 2026 college graduation gift guide",
-      "url": "https://www.theverge.com/gadgets/927121/best-college-graduation-gift-ideas",
-      "pubDate": "2026-05-18T15:00:00.000Z"
     },
     {
       "source": "MacRumors",
@@ -241,6 +304,13 @@
       "pubDate": "2026-05-18T14:29:34.000Z"
     },
     {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Don't expect new Macs at WWDC 2026",
+      "url": "https://appleinsider.com/articles/26/05/18/dont-expect-new-macs-at-wwdc-2026?utm_source=rss",
+      "pubDate": "2026-05-18T14:20:31.000Z"
+    },
+    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "AMC+ Premium for $29.99: Stream Shudder, BBC America, and More for a Year",
@@ -253,6 +323,20 @@
       "title": "Sony's 10th Anniversary 'Collexion' Over-Ear Headphones Leaked",
       "url": "https://www.macrumors.com/2026/05/18/sony-10th-anniversary-collexion-headphones-leaked/",
       "pubDate": "2026-05-18T13:50:52.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "How Samsung SmartThings is embracing Matter on Smart Home Insider",
+      "url": "https://appleinsider.com/articles/26/05/18/how-samsung-smartthings-is-embracing-matter-on-smart-home-insider?utm_source=rss",
+      "pubDate": "2026-05-18T13:07:58.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "New infostealer malware hides on Mac disguised as official Apple tools",
+      "url": "https://appleinsider.com/articles/26/05/18/new-infostealer-malware-hides-on-mac-disguised-as-official-apple-tools?utm_source=rss",
+      "pubDate": "2026-05-18T13:01:56.000Z"
     },
     {
       "source": "MacRumors",
@@ -288,62 +372,6 @@
       "title": "Indigo unifies the Mastodon and Bluesky timelines",
       "url": "https://sixcolors.com/post/2026/05/indigo-unifies-the-mastodon-and-bluesky-timelines/",
       "pubDate": "2026-05-13T23:40:08.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) Clockwise 656: *Heavy Sigh*",
-      "url": "https://sixcolors.com/podcast/2026/05/clockwise-656-heavy-sigh/",
-      "pubDate": "2026-05-13T20:36:23.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "35 years ago, the Mac got an era-defining upgrade (Macworld/Jason Snell)",
-      "url": "https://www.macworld.com/article/3136937",
-      "pubDate": "2026-05-13T16:00:16.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) The Rebound 598: Get Rid of Ice",
-      "url": "https://sixcolors.com/podcast/2026/05/the-rebound-598-get-rid-of-ice/",
-      "pubDate": "2026-05-13T14:00:00.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Get GIFs fast with Gnome ↦",
-      "url": "https://sixcolors.com/link/2026/05/get-gifs-fast-with-gnome/",
-      "pubDate": "2026-05-12T22:10:40.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Sponsor) ZenStand",
-      "url": "https://sixcolors.com/sponsor/2026/05/zenstand-2/",
-      "pubDate": "2026-05-12T16:56:23.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "How I restarted using RSS, and actually noticed!",
-      "url": "https://sixcolors.com/post/2026/05/how-i-restarted-using-rss-and-actually-noticed/",
-      "pubDate": "2026-05-12T16:00:10.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Bartender 6’s new pro feature turns the MacBook notch into a dynamic peninsula",
-      "url": "https://sixcolors.com/post/2026/05/bartender-6s-new-pro-feature-turns-the-macbook-notch-into-a-dynamic-peninsula/",
-      "pubDate": "2026-05-12T15:00:51.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) Upgrade 615: But in Citrus!",
-      "url": "https://sixcolors.com/podcast/2026/05/upgrade-615-but-in-citrus/",
-      "pubDate": "2026-05-11T21:24:25.000Z"
     }
   ]
 }
