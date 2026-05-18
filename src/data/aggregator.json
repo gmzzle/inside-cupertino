@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T20:46:47.741Z",
+  "generatedAt": "2026-05-18T22:14:52.243Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) Upgrade 616: Outmoded But Not Vintage",
+      "url": "https://sixcolors.com/podcast/2026/05/upgrade-616-outmoded-but-not-vintage/",
+      "pubDate": "2026-05-18T22:05:38.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "With iOS 27, Shortcuts is about to become what it was always meant to be",
+      "url": "https://9to5mac.com/2026/05/18/with-ios-27-shortcuts-is-about-to-become-what-it-was-always-meant-to-be/",
+      "pubDate": "2026-05-18T22:05:29.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -269,13 +283,6 @@
       "pubDate": "2026-05-18T15:55:25.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: M4 iPad Air $150 off, 48GB M5 Pro MacBook Pro $300 off, iPhone Air $150 off, AirTag $11 each, more",
-      "url": "https://9to5mac.com/2026/05/18/deals-m4-ipad-air-m5-pro-macbook-pro-iphone-air/",
-      "pubDate": "2026-05-18T15:30:56.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple Watch Ultra could get first major redesign for version 4",
@@ -365,13 +372,6 @@
       "title": "Apple escalates macOS defenses while honoring its open nature",
       "url": "https://sixcolors.com/post/2026/05/apple-escalates-macos-defenses-while-honoring-its-open-nature/",
       "pubDate": "2026-05-14T17:00:58.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Indigo unifies the Mastodon and Bluesky timelines",
-      "url": "https://sixcolors.com/post/2026/05/indigo-unifies-the-mastodon-and-bluesky-timelines/",
-      "pubDate": "2026-05-13T23:40:08.000Z"
     }
   ]
 }
