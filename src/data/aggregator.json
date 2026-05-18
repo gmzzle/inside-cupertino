@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T22:14:52.243Z",
+  "generatedAt": "2026-05-18T23:32:53.288Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple ordered to cooperate with India antitrust probe as court declines to pause case",
+      "url": "https://9to5mac.com/2026/05/18/apple-ordered-to-cooperate-with-india-antitrust-probe-as-court-declines-to-pause-case/",
+      "pubDate": "2026-05-18T22:53:29.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "MagSafe Monday: The UGREEN Nexode Power Bank might be the ultimate 3-in-1 MagSafe charger",
+      "url": "https://9to5mac.com/2026/05/18/the-ugreen-nexode-power-bank-might-be-the-ultimate-3-in-1-charger/",
+      "pubDate": "2026-05-18T22:41:00.000Z"
+    },
     {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
@@ -211,20 +225,6 @@
       "title": "FileVault keys can’t be escrowed in iCloud anymore",
       "url": "https://sixcolors.com/post/2026/05/filevault-keys-cant-be-escrowed-in-icloud-anymore/",
       "pubDate": "2026-05-18T17:00:22.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Watch sleep score became more useful for me with these settings",
-      "url": "https://9to5mac.com/2026/05/18/apple-watch-sleep-score-became-more-useful-for-me-with-these-settings/",
-      "pubDate": "2026-05-18T17:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Gradient Google icon redesign rolling out on Android, iOS, & web",
-      "url": "https://9to5google.com/2026/05/18/gradient-google-icon-redesign-web/",
-      "pubDate": "2026-05-18T16:45:05.000Z"
     },
     {
       "source": "AppleInsider",
