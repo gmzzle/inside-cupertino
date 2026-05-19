@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T12:21:08.815Z",
+  "generatedAt": "2026-05-19T16:31:55.804Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -26,16 +26,268 @@
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
-      "title": "Marshall brings ANC back to its smaller on-ear wireless headphones",
-      "url": "https://www.theverge.com/tech/930787/marshall-milton-anc-active-noise-canceling-wireless-headphones",
-      "pubDate": "2026-05-19T12:00:00.000Z"
+      "title": "Google I/O 2026 liveblog: on the ground at Google’s keynote",
+      "url": "https://www.theverge.com/tech/932275/google-i-o-2026-liveblog-on-the-ground-at-googles-keynote",
+      "pubDate": "2026-05-19T16:30:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Amazon slashes $250 off every 2026 16-inch MacBook Pro it sells",
+      "url": "https://appleinsider.com/articles/26/05/19/amazon-slashes-250-off-every-2026-16-inch-macbook-pro-it-sells?utm_source=rss",
+      "pubDate": "2026-05-19T16:07:44.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Here’s how Johny Srouji plans to speed up Apple’s product development: report",
+      "url": "https://9to5mac.com/2026/05/19/heres-how-johny-srouji-plans-to-speed-up-apples-product-development-report/",
+      "pubDate": "2026-05-19T16:03:51.000Z"
     },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
-      "title": "These are the robot vacuum-mops I recommend for every type of home",
-      "url": "https://www.theverge.com/gadgets/932425/best-robot-vacuum-mop-reviews-buying-guide",
-      "pubDate": "2026-05-19T12:00:00.000Z"
+      "title": "Sony’s 1000X The Collexion are a luxurious and expensive celebration of its iconic headphones",
+      "url": "https://www.theverge.com/tech/933168/sony-1000x-collexion-review",
+      "pubDate": "2026-05-19T16:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Google I/O 2026: All the news and announcements",
+      "url": "https://www.theverge.com/tech/932454/google-io-2026-news-announcements",
+      "pubDate": "2026-05-19T16:00:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "How Steve Jobs changed the face of retail with the Apple Store",
+      "url": "https://appleinsider.com/articles/18/05/15/steve-jobs-changed-the-face-of-apple-and-retail-forever-on-may-15-2001?utm_source=rss",
+      "pubDate": "2026-05-19T15:54:36.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Sports app launches World Cup support, expands availability worldwide",
+      "url": "https://9to5mac.com/2026/05/19/apple-sports-app-launches-world-cup-support-in-new-update/",
+      "pubDate": "2026-05-19T15:51:27.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "An AI announcer mispronounced and skipped names during a graduation",
+      "url": "https://www.theverge.com/tech/933653/ai-graduation-commencement-glendale-community-college",
+      "pubDate": "2026-05-19T15:51:20.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27’s new video feature could prove one of Apple’s best additions",
+      "url": "https://9to5mac.com/2026/05/19/ios-27s-new-video-feature-could-prove-one-of-apples-best-additions/",
+      "pubDate": "2026-05-19T15:38:38.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Deals: AirPods Pro 3 Memorial Day deal, 24GB M5 MacBook Pro $320 off, MacBook Neo, Apple Watch Ultra, more",
+      "url": "https://9to5mac.com/2026/05/19/deals-airpods-pro-3-m5-macbook-pro-macbook-neo/",
+      "pubDate": "2026-05-19T15:30:34.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Watch has a useful hidden feature for tracking a great healthy habit",
+      "url": "https://9to5mac.com/2026/05/19/apple-watch-has-a-useful-hidden-feature-for-tracking-a-great-healthy-habit/",
+      "pubDate": "2026-05-19T15:30:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Anthropic enhances Claude Managed Agents with two new privacy and security features",
+      "url": "https://9to5mac.com/2026/05/19/anthropic-enhances-claude-managed-agents-with-two-new-privacy-and-security-features/",
+      "pubDate": "2026-05-19T15:26:13.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's First Retail Stores Opened 25 Years Ago Today",
+      "url": "https://www.macrumors.com/2026/05/19/first-apple-stores-opened-25-years-ago/",
+      "pubDate": "2026-05-19T15:16:07.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "America’s dangerous, messy deepfakes crackdown is here",
+      "url": "https://www.theverge.com/policy/933518/take-it-down-act-notice-removal-social-media-deepfake",
+      "pubDate": "2026-05-19T14:58:19.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Apple’s accessibility features add more AI-powered processing",
+      "url": "https://www.theverge.com/tech/933420/apple-iphone-mac-vision-pro-accessibility-2026-apple-intelligence",
+      "pubDate": "2026-05-19T14:58:12.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "macOS 27: Five new Mac features being announced next month",
+      "url": "https://9to5mac.com/2026/05/19/macos-27-five-new-mac-features-being-announced-next-month/",
+      "pubDate": "2026-05-19T14:55:50.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Plex lifetime pass price hike to $750 is ludicrous & too expensive for hosting video",
+      "url": "https://appleinsider.com/articles/26/05/19/ludicrous-plex-lifetime-pass-increase-to-74999-is-too-expensive-for-watching-your-owned-media?utm_source=rss",
+      "pubDate": "2026-05-19T14:55:02.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Best Buy Hosts Memorial Day Sale With Notable Apple and Tech Deals",
+      "url": "https://www.macrumors.com/2026/05/19/best-buy-memorial-day-sale-2/",
+      "pubDate": "2026-05-19T14:47:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "WhatsApp Begins Rolling Out Redesigned Media Share Sheet on iOS",
+      "url": "https://www.macrumors.com/2026/05/19/whatsapp-redesigned-media-share-sheet-ios/",
+      "pubDate": "2026-05-19T14:46:33.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's iPhone Fold hinge design may become industry standard",
+      "url": "https://appleinsider.com/articles/26/05/19/seamless-hinges-for-the-iphone-fold-may-be-copied-by-rivals-and-by-apple-itself-for-an-ipad-fold?utm_source=rss",
+      "pubDate": "2026-05-19T14:45:12.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Vision Pro wheelchair control & more accessibility features detailed ahead of WWDC",
+      "url": "https://appleinsider.com/articles/26/05/19/apple-intelligence-powered-accessibility-features-in-os-27-detailed-ahead-of-wwdc?utm_source=rss",
+      "pubDate": "2026-05-19T14:43:56.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Hikawa Grip & Stand for iPhone launches globally at a new lower price",
+      "url": "https://appleinsider.com/articles/26/05/19/the-hikawa-grip-stand-for-iphone-is-no-longer-a-limited-edition-accessory?utm_source=rss",
+      "pubDate": "2026-05-19T14:33:10.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Plex increasing Lifetime Plex Pass cost to whopping $750",
+      "url": "https://9to5mac.com/2026/05/19/plex-increasing-lifetime-plex-pass-cost-to-whopping-750/",
+      "pubDate": "2026-05-19T14:27:53.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple just revealed an iOS 27 feature that hints at Siri’s new powers",
+      "url": "https://9to5mac.com/2026/05/19/apple-just-revealed-an-ios-27-feature-that-hints-at-siris-new-powers/",
+      "pubDate": "2026-05-19T14:08:21.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple Design Awards 2026 finalists include Cyberpunk 2077 & Civilization VII",
+      "url": "https://appleinsider.com/articles/26/05/18/apple-design-awards-2026-finalists-include-cyberpunk-2077-civilization-vii?utm_source=rss",
+      "pubDate": "2026-05-19T14:01:53.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Anker fixes the two worst things about power stations",
+      "url": "https://www.theverge.com/tech/928420/anker-solix-s2000-power-station",
+      "pubDate": "2026-05-19T13:56:47.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Re-Releases a Sold-Out iPhone MagSafe Grip in Three New Colors",
+      "url": "https://www.macrumors.com/2026/05/19/apple-selling-iphone-grip-in-three-new-colors/",
+      "pubDate": "2026-05-19T13:40:07.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Epic Games declares Victory Royale months ahead of Apple case conclusion",
+      "url": "https://appleinsider.com/articles/26/05/19/epic-games-declares-victory-royale-months-ahead-of-apple-case-conclusion?utm_source=rss",
+      "pubDate": "2026-05-19T13:39:54.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Ray-Ban Meta Smart Glasses On Sale for Up to 25% Off This Week",
+      "url": "https://www.macrumors.com/2026/05/19/ray-ban-meta-glasses-sale/",
+      "pubDate": "2026-05-19T13:31:04.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Fortnite Returns to the App Store Worldwide as Epic Signals 'Final Battle' With Apple",
+      "url": "https://www.macrumors.com/2026/05/19/fortnite-returns-to-app-store-worldwide/",
+      "pubDate": "2026-05-19T13:08:22.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Nintendo keeps finding new ways to reinvent platformers",
+      "url": "https://www.theverge.com/entertainment/931663/yoshi-and-the-mysterious-book-review-nintendo-switch-2",
+      "pubDate": "2026-05-19T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Microsoft launches Surface Pro 12 and Surface Laptop 8 with Intel chips",
+      "url": "https://www.theverge.com/news/933269/microsoft-surface-pro-12-surface-laptop-8-specs-pricing-release-date",
+      "pubDate": "2026-05-19T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The Mandalorian and Grogu should have been a season of TV",
+      "url": "https://www.theverge.com/entertainment/933409/the-mandalorian-and-grogu-review",
+      "pubDate": "2026-05-19T13:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Fortnite is back on the App Store worldwide, says Epic Games",
+      "url": "https://9to5mac.com/2026/05/19/fortnite-is-back-on-the-app-store-worldwide-says-epic-games/",
+      "pubDate": "2026-05-19T12:55:05.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple announces return of popular MagSafe iPhone stand and grip",
+      "url": "https://9to5mac.com/2026/05/19/apple-announces-return-of-popular-magsafe-iphone-stand-and-grip/",
+      "pubDate": "2026-05-19T12:41:18.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple Vision Pro Personas may be improved with Apple's new acquisition",
+      "url": "https://appleinsider.com/articles/26/05/19/apple-vision-pro-personas-may-be-improved-with-apples-new-acquisition?utm_source=rss",
+      "pubDate": "2026-05-19T12:39:55.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple announces AI-powered accessibility features and eye-controlled wheelchair functionality",
+      "url": "https://9to5mac.com/2026/05/19/apple-announces-ai-powered-accessibility-features-and-eye-controlled-wheelchair-functionality/",
+      "pubDate": "2026-05-19T12:34:11.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Previews New Accessibility Features Powered by Apple Intelligence",
+      "url": "https://www.macrumors.com/2026/05/19/new-accessibility-features-with-apple-intelligence/",
+      "pubDate": "2026-05-19T12:26:11.000Z"
     },
     {
       "source": "Six Colors",
@@ -52,60 +304,11 @@
       "pubDate": "2026-05-19T11:52:05.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Seamless hinges for the iPhone Fold may be copied by rivals, and by Apple itself for an iPad Fold.",
-      "url": "https://appleinsider.com/articles/26/05/19/seamless-hinges-for-the-iphone-fold-may-be-copied-by-rivals-and-by-apple-itself-for-an-ipad-fold?utm_source=rss",
-      "pubDate": "2026-05-19T11:48:15.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Xbox fans want exclusives, more backward compatibility, and free online multiplayer",
-      "url": "https://www.theverge.com/games/933328/xbox-fan-feedback-exclusives-backward-compatibility-online-multiplayer",
-      "pubDate": "2026-05-19T11:46:32.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "PSA: Watch out for this potential gotcha on the Apple Card free AirPods deal",
-      "url": "https://9to5mac.com/2026/05/19/psa-watch-out-for-this-potential-gotcha-on-the-apple-card-free-airpods-deal/",
-      "pubDate": "2026-05-19T11:32:37.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Still Developing Liquid Metal for Future iPhone Pro Frames",
       "url": "https://www.macrumors.com/2026/05/19/apple-liquid-metal-future-iphone-frames/",
       "pubDate": "2026-05-19T11:13:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone Ultra will take us closer to the long-rumored iPad Fold, suggests leaker",
-      "url": "https://9to5mac.com/2026/05/19/iphone-ultra-will-take-us-closer-to-the-long-rumored-ipad-fold-suggests-leaker/",
-      "pubDate": "2026-05-19T11:03:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Google I/O 2026: How to watch and what to expect",
-      "url": "https://www.theverge.com/tech/932939/google-io-2026-how-to-watch",
-      "pubDate": "2026-05-19T11:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Gemini is in danger of going full Copilot",
-      "url": "https://www.theverge.com/tech/931752/google-io-2026-gemini-icon-docs-workspace",
-      "pubDate": "2026-05-19T10:30:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple @ Work Podcast: How NeXT built the foundation for Apple in the enterprise",
-      "url": "https://9to5mac.com/2026/05/19/steve-jobs-in-exile-the-untold-story-of-next-and-the-remaking-of-an-american-visionary/",
-      "pubDate": "2026-05-19T10:00:00.000Z"
     },
     {
       "source": "MacRumors",
@@ -115,81 +318,11 @@
       "pubDate": "2026-05-19T09:41:34.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "LG will release the first 1000Hz, 1080p gaming monitor this year",
-      "url": "https://www.theverge.com/games/933204/lg-1000hz-1080p-ultragear-25g590b",
-      "pubDate": "2026-05-19T01:10:12.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple ordered to cooperate with India antitrust probe as court declines to pause case",
-      "url": "https://9to5mac.com/2026/05/18/apple-ordered-to-cooperate-with-india-antitrust-probe-as-court-declines-to-pause-case/",
-      "pubDate": "2026-05-18T22:53:29.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "MagSafe Monday: The UGREEN Nexode Power Bank might be the ultimate 3-in-1 MagSafe charger",
-      "url": "https://9to5mac.com/2026/05/18/the-ugreen-nexode-power-bank-might-be-the-ultimate-3-in-1-charger/",
-      "pubDate": "2026-05-18T22:41:00.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) Upgrade 616: Outmoded But Not Vintage",
       "url": "https://sixcolors.com/podcast/2026/05/upgrade-616-outmoded-but-not-vintage/",
       "pubDate": "2026-05-18T22:05:38.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "With iOS 27, Shortcuts is about to become what it was always meant to be",
-      "url": "https://9to5mac.com/2026/05/18/with-ios-27-shortcuts-is-about-to-become-what-it-was-always-meant-to-be/",
-      "pubDate": "2026-05-18T22:05:29.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone 18 Pro release date: Here’s when Apple’s new model is coming",
-      "url": "https://9to5mac.com/2026/05/18/iphone-18-release-date-when-apples-new-model-is-coming/",
-      "pubDate": "2026-05-18T20:46:05.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Volvo teases a new affordable EV to replace discontinued EX30",
-      "url": "https://www.theverge.com/transportation/932857/volvo-ex30-ev-replacement-affordable-ex60",
-      "pubDate": "2026-05-18T20:41:09.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 26.5 adds new setting for alternative app marketplaces in Brazil",
-      "url": "https://9to5mac.com/2026/05/18/ios-26-5-adds-new-setting-for-alternative-app-marketplaces-in-brazil/",
-      "pubDate": "2026-05-18T20:12:14.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "macOS 27 will drop support for these four Mac models",
-      "url": "https://9to5mac.com/2026/05/18/macos-27-will-drop-support-for-these-four-mac-models/",
-      "pubDate": "2026-05-18T20:12:03.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "PlayStation exclusives aren&#8217;t coming to PC anymore",
-      "url": "https://www.theverge.com/games/932817/playstation-exclusive-games-pc",
-      "pubDate": "2026-05-18T19:28:42.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple Design Awards 2026 finalists include Cyberpunk 2077 & Civilization VII",
-      "url": "https://appleinsider.com/articles/26/05/18/apple-design-awards-2026-finalists-include-cyberpunk-2077-civilization-vii?utm_source=rss",
-      "pubDate": "2026-05-18T19:05:57.000Z"
     },
     {
       "source": "AppleInsider",
@@ -199,53 +332,11 @@
       "pubDate": "2026-05-18T19:02:43.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Musk v. Altman proved that AI is led by the wrong people",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/932464/musk-v-altman-proved-that-ai-is-led-by-the-wrong-people",
-      "pubDate": "2026-05-18T19:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple TV’s twisty new thriller sounds like a big winner, first reviews here",
-      "url": "https://9to5mac.com/2026/05/18/apple-tvs-twisty-new-thriller-sounds-like-a-big-winner-first-reviews-here/",
-      "pubDate": "2026-05-18T18:58:08.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Improved Writing Tools, generated wallpapers, & easier Shortcut creation rumored for iOS 27",
-      "url": "https://appleinsider.com/articles/26/05/18/improved-writing-tools-generated-wallpapers-easier-shortcut-creation-rumored-for-ios-27?utm_source=rss",
-      "pubDate": "2026-05-18T18:55:50.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Walmart launches new budget-friendly Android tablets starting at $97",
-      "url": "https://www.theverge.com/tech/932642/walmart-onn-new-core-pro-kids-tablets",
-      "pubDate": "2026-05-18T18:44:07.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iOS 27 to Let Users Generate Wallpapers and Build Shortcuts With AI",
       "url": "https://www.macrumors.com/2026/05/18/ios-27-ai-wallpaper-shortcuts/",
       "pubDate": "2026-05-18T18:13:04.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "WWDC 2026 media invites read 'Coming bright up' as the June 8 conference approaches",
-      "url": "https://appleinsider.com/articles/26/05/18/wwdc-2026-media-invites-read-coming-bright-up-as-the-june-8-conference-approaches?utm_source=rss",
-      "pubDate": "2026-05-18T18:00:05.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: May 18, 2026 – Apple Card promo, Siri rumors",
-      "url": "https://9to5mac.com/2026/05/18/daily-may-18-2026/",
-      "pubDate": "2026-05-18T17:53:42.000Z"
     },
     {
       "source": "MacRumors",
@@ -255,102 +346,11 @@
       "pubDate": "2026-05-18T17:53:35.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 to add new custom wallpaper feature, more: report",
-      "url": "https://9to5mac.com/2026/05/18/ios-27-to-add-new-custom-wallpaper-feature-more-report/",
-      "pubDate": "2026-05-18T17:48:16.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Design Award Finalists Announced Ahead of WWDC 2026",
-      "url": "https://www.macrumors.com/2026/05/18/apple-design-award-finalists-2026/",
-      "pubDate": "2026-05-18T17:35:29.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Announces WWDC 2026 Schedule, Sends Media Invites",
-      "url": "https://www.macrumors.com/2026/05/18/wwdc-2026-schedule-invites/",
-      "pubDate": "2026-05-18T17:23:24.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "FileVault keys can’t be escrowed in iCloud anymore",
       "url": "https://sixcolors.com/post/2026/05/filevault-keys-cant-be-escrowed-in-icloud-anymore/",
       "pubDate": "2026-05-18T17:00:22.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple at 50: Tim Cook, the man who grew Apple by trillions of dollars",
-      "url": "https://appleinsider.com/articles/26/05/15/apple-at-50-tim-cook-the-man-who-grew-apple-by-trillions-of-dollars?utm_source=rss",
-      "pubDate": "2026-05-18T16:35:06.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Problematic hinge could delay the iPhone Fold",
-      "url": "https://appleinsider.com/articles/26/05/18/problematic-hinge-could-delay-the-iphone-fold?utm_source=rss",
-      "pubDate": "2026-05-18T16:19:47.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Getting free AirPods Pro 3 sounds simple until the Apple Card fine print kicks in",
-      "url": "https://appleinsider.com/articles/26/05/18/getting-free-airpods-pro-3-sounds-simple-until-the-apple-card-fine-print-kicks-in?utm_source=rss",
-      "pubDate": "2026-05-18T16:15:40.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Amazon's popular $299 iPad 11 deal is back this week",
-      "url": "https://appleinsider.com/articles/26/05/18/amazons-popular-299-ipad-11-deal-is-back-this-week?utm_source=rss",
-      "pubDate": "2026-05-18T16:15:22.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Watch Ultra 4 Could Get Redesign and Blood Pressure Monitoring",
-      "url": "https://www.macrumors.com/2026/05/18/apple-watch-ultra-4-redesign-and-blood-pressure/",
-      "pubDate": "2026-05-18T16:08:08.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple Watch Ultra could get first major redesign for version 4",
-      "url": "https://appleinsider.com/articles/26/05/18/apple-watch-ultra-could-get-first-major-redesign-for-version-4?utm_source=rss",
-      "pubDate": "2026-05-18T15:14:02.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "New Apple Card Holders Can Get Free AirPods Pro 3, But There's a Catch",
-      "url": "https://www.macrumors.com/2026/05/18/apple-card-holders-can-now-get-free-airpods-pro/",
-      "pubDate": "2026-05-18T15:11:52.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Anker's Newest Prime Chargers Hit Their Lowest-Ever Prices on Amazon",
-      "url": "https://www.macrumors.com/2026/05/18/amazon-ankers-prime-chargers-3/",
-      "pubDate": "2026-05-18T14:45:43.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Foldable iPhone Production Stalls Amid Hinge Issues",
-      "url": "https://www.macrumors.com/2026/05/18/foldable-iphone-production-stalls/",
-      "pubDate": "2026-05-18T14:29:34.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "AMC+ Premium for $29.99: Stream Shudder, BBC America, and More for a Year",
-      "url": "https://www.macrumors.com/2026/05/18/amc-premium-for-29-99/",
-      "pubDate": "2026-05-18T14:08:03.000Z"
     },
     {
       "source": "AppleInsider",
