@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T16:31:55.804Z",
+  "generatedAt": "2026-05-19T19:18:12.989Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,11 +24,144 @@
   ],
   "items": [
     {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Google I/O 2026 Roundup: Gemini 3.5, AI Search, Android XR Glasses, and More",
+      "url": "https://www.macrumors.com/2026/05/19/google-io-2026-roundup/",
+      "pubDate": "2026-05-19T19:04:45.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: May 19, 2026 – WWDC invites, iOS 27 expectations",
+      "url": "https://9to5mac.com/2026/05/19/daily-may-19-2026/",
+      "pubDate": "2026-05-19T18:34:22.000Z"
+    },
+    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
-      "title": "Google I/O 2026 liveblog: on the ground at Google’s keynote",
-      "url": "https://www.theverge.com/tech/932275/google-i-o-2026-liveblog-on-the-ground-at-googles-keynote",
-      "pubDate": "2026-05-19T16:30:00.000Z"
+      "title": "Kickstarter just killed its new mature content rules",
+      "url": "https://www.theverge.com/tech/933844/kickstarter-just-killed-its-new-mature-content-rules",
+      "pubDate": "2026-05-19T18:30:43.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Peanuts classics, returning series, and a new Snoopy film are all coming to Apple TV",
+      "url": "https://appleinsider.com/articles/26/05/19/peanuts-classics-returning-series-and-a-new-snoopy-film-are-all-coming-to-apple-tv?utm_source=rss",
+      "pubDate": "2026-05-19T18:24:11.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Spotify confirms CarPlay bug causing wrong song info to appear",
+      "url": "https://9to5mac.com/2026/05/19/spotify-confirms-carplay-bug-causing-wrong-song-info-to-appear/",
+      "pubDate": "2026-05-19T18:04:20.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Gemini will use Volvo’s external cameras to interpret parking signs",
+      "url": "https://www.theverge.com/transportation/933556/google-io-gemini-volvo-ex60-camera-ai-parking",
+      "pubDate": "2026-05-19T18:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The 13 biggest announcements at Google I/O 2026",
+      "url": "https://www.theverge.com/tech/933415/google-io-2026-biggest-announcements-ai-gemini",
+      "pubDate": "2026-05-19T17:54:33.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Google wants to compete with Anthropic’s Mythos",
+      "url": "https://www.theverge.com/tech/933921/google-wants-to-compete-with-anthropics-mythos",
+      "pubDate": "2026-05-19T17:48:22.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Everything Google announced at I/O 2026: Gemini, Search, Android XR, & more",
+      "url": "https://9to5google.com/2026/05/19/google-io-2026-news/",
+      "pubDate": "2026-05-19T17:47:35.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Google can now vibe-code you an Android app",
+      "url": "https://www.theverge.com/tech/932364/google-ai-studio-native-android-apps-vibe-code-google-io-2026",
+      "pubDate": "2026-05-19T17:45:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Would you let robots spend your money? Google is betting on it",
+      "url": "https://www.theverge.com/news/932927/google-io-agentic-ai-shopping-universal-cart",
+      "pubDate": "2026-05-19T17:45:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Google Search is getting its biggest changes ever",
+      "url": "https://www.theverge.com/tech/932970/google-search-ai-update-io-2026",
+      "pubDate": "2026-05-19T17:45:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Gmail is going to start talking to you",
+      "url": "https://www.theverge.com/tech/932973/google-gmail-live-ai-keep-docs-io-2026",
+      "pubDate": "2026-05-19T17:45:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Google is launching its own version of OpenClaw",
+      "url": "https://www.theverge.com/tech/932996/google-gemini-spark-antigravity-io-2026",
+      "pubDate": "2026-05-19T17:45:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Google Pics is a new app that tries to fix AI image editing",
+      "url": "https://www.theverge.com/tech/933026/google-pics-app-workspace-ai-images-io-2026",
+      "pubDate": "2026-05-19T17:45:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Sports App Updated With 2026 World Cup Features, Expands to 90 More Countries",
+      "url": "https://www.macrumors.com/2026/05/19/apple-sports-app-2026-world-cup/",
+      "pubDate": "2026-05-19T17:26:03.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Easily follow the FIFA World Cup in over 170 countries thanks to Apple Sports expansion",
+      "url": "https://appleinsider.com/articles/26/05/19/easily-follow-the-ffia-world-cup-in-over-170-countries-thanks-to-apple-sports-expansion?utm_source=rss",
+      "pubDate": "2026-05-19T17:17:17.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple 'Shakes Up' Oversight of Product Design Ahead of CEO Change",
+      "url": "https://www.macrumors.com/2026/05/19/apple-shaking-up-product-design/",
+      "pubDate": "2026-05-19T16:57:53.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple TV announces four new Peanuts premieres coming this summer",
+      "url": "https://9to5mac.com/2026/05/19/apple-tv-announces-four-new-peanuts-premieres-coming-this-summer/",
+      "pubDate": "2026-05-19T16:50:35.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Second hardware team shakeup in a month seeks to speed up development",
+      "url": "https://appleinsider.com/articles/26/05/19/second-hardware-team-shakeup-in-a-month-seeks-to-speed-up-development?utm_source=rss",
+      "pubDate": "2026-05-19T16:48:58.000Z"
     },
     {
       "source": "AppleInsider",
@@ -45,20 +178,6 @@
       "pubDate": "2026-05-19T16:03:51.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Sony’s 1000X The Collexion are a luxurious and expensive celebration of its iconic headphones",
-      "url": "https://www.theverge.com/tech/933168/sony-1000x-collexion-review",
-      "pubDate": "2026-05-19T16:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Google I/O 2026: All the news and announcements",
-      "url": "https://www.theverge.com/tech/932454/google-io-2026-news-announcements",
-      "pubDate": "2026-05-19T16:00:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "How Steve Jobs changed the face of retail with the Apple Store",
@@ -71,13 +190,6 @@
       "title": "Apple Sports app launches World Cup support, expands availability worldwide",
       "url": "https://9to5mac.com/2026/05/19/apple-sports-app-launches-world-cup-support-in-new-update/",
       "pubDate": "2026-05-19T15:51:27.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "An AI announcer mispronounced and skipped names during a graduation",
-      "url": "https://www.theverge.com/tech/933653/ai-graduation-commencement-glendale-community-college",
-      "pubDate": "2026-05-19T15:51:20.000Z"
     },
     {
       "source": "9to5Mac",
@@ -113,20 +225,6 @@
       "title": "Apple's First Retail Stores Opened 25 Years Ago Today",
       "url": "https://www.macrumors.com/2026/05/19/first-apple-stores-opened-25-years-ago/",
       "pubDate": "2026-05-19T15:16:07.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "America’s dangerous, messy deepfakes crackdown is here",
-      "url": "https://www.theverge.com/policy/933518/take-it-down-act-notice-removal-social-media-deepfake",
-      "pubDate": "2026-05-19T14:58:19.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple’s accessibility features add more AI-powered processing",
-      "url": "https://www.theverge.com/tech/933420/apple-iphone-mac-vision-pro-accessibility-2026-apple-intelligence",
-      "pubDate": "2026-05-19T14:58:12.000Z"
     },
     {
       "source": "9to5Mac",
@@ -185,27 +283,6 @@
       "pubDate": "2026-05-19T14:27:53.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple just revealed an iOS 27 feature that hints at Siri’s new powers",
-      "url": "https://9to5mac.com/2026/05/19/apple-just-revealed-an-ios-27-feature-that-hints-at-siris-new-powers/",
-      "pubDate": "2026-05-19T14:08:21.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple Design Awards 2026 finalists include Cyberpunk 2077 & Civilization VII",
-      "url": "https://appleinsider.com/articles/26/05/18/apple-design-awards-2026-finalists-include-cyberpunk-2077-civilization-vii?utm_source=rss",
-      "pubDate": "2026-05-19T14:01:53.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Anker fixes the two worst things about power stations",
-      "url": "https://www.theverge.com/tech/928420/anker-solix-s2000-power-station",
-      "pubDate": "2026-05-19T13:56:47.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Re-Releases a Sold-Out iPhone MagSafe Grip in Three New Colors",
@@ -234,53 +311,11 @@
       "pubDate": "2026-05-19T13:08:22.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Nintendo keeps finding new ways to reinvent platformers",
-      "url": "https://www.theverge.com/entertainment/931663/yoshi-and-the-mysterious-book-review-nintendo-switch-2",
-      "pubDate": "2026-05-19T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Microsoft launches Surface Pro 12 and Surface Laptop 8 with Intel chips",
-      "url": "https://www.theverge.com/news/933269/microsoft-surface-pro-12-surface-laptop-8-specs-pricing-release-date",
-      "pubDate": "2026-05-19T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Mandalorian and Grogu should have been a season of TV",
-      "url": "https://www.theverge.com/entertainment/933409/the-mandalorian-and-grogu-review",
-      "pubDate": "2026-05-19T13:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Fortnite is back on the App Store worldwide, says Epic Games",
-      "url": "https://9to5mac.com/2026/05/19/fortnite-is-back-on-the-app-store-worldwide-says-epic-games/",
-      "pubDate": "2026-05-19T12:55:05.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple announces return of popular MagSafe iPhone stand and grip",
-      "url": "https://9to5mac.com/2026/05/19/apple-announces-return-of-popular-magsafe-iphone-stand-and-grip/",
-      "pubDate": "2026-05-19T12:41:18.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple Vision Pro Personas may be improved with Apple's new acquisition",
       "url": "https://appleinsider.com/articles/26/05/19/apple-vision-pro-personas-may-be-improved-with-apples-new-acquisition?utm_source=rss",
       "pubDate": "2026-05-19T12:39:55.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple announces AI-powered accessibility features and eye-controlled wheelchair functionality",
-      "url": "https://9to5mac.com/2026/05/19/apple-announces-ai-powered-accessibility-features-and-eye-controlled-wheelchair-functionality/",
-      "pubDate": "2026-05-19T12:34:11.000Z"
     },
     {
       "source": "MacRumors",
@@ -311,39 +346,11 @@
       "pubDate": "2026-05-19T11:13:00.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Foldable iPad Said to Share Hinge Design With Upcoming iPhone Ultra",
-      "url": "https://www.macrumors.com/2026/05/19/foldable-ipad-crease-free-design-iphone-ultra/",
-      "pubDate": "2026-05-19T09:41:34.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) Upgrade 616: Outmoded But Not Vintage",
       "url": "https://sixcolors.com/podcast/2026/05/upgrade-616-outmoded-but-not-vintage/",
       "pubDate": "2026-05-18T22:05:38.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Rumored return to titanium after the aluminum iPhone 17 Pro doesn't make sense",
-      "url": "https://appleinsider.com/articles/26/05/18/rumored-return-to-titanium-after-the-aluminum-iphone-17-pro-doesnt-make-sense?utm_source=rss",
-      "pubDate": "2026-05-18T19:02:43.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27 to Let Users Generate Wallpapers and Build Shortcuts With AI",
-      "url": "https://www.macrumors.com/2026/05/18/ios-27-ai-wallpaper-shortcuts/",
-      "pubDate": "2026-05-18T18:13:04.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Expanding AI Writing Tools With Grammar Checker in iOS 27",
-      "url": "https://www.macrumors.com/2026/05/18/ios-27-writing-tools-grammar-checker/",
-      "pubDate": "2026-05-18T17:53:35.000Z"
     },
     {
       "source": "Six Colors",
@@ -365,13 +372,6 @@
       "title": "(Sponsor) Magic Lasso Adblock: Block ads in iPhone, iPad, Mac and Apple TV apps",
       "url": "https://sixcolors.com/sponsor/2026/05/magic-lasso-adblock-block-ads-in-iphone-ipad-mac-and-apple-tv-apps-2/",
       "pubDate": "2026-05-15T16:00:41.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Apple escalates macOS defenses while honoring its open nature",
-      "url": "https://sixcolors.com/post/2026/05/apple-escalates-macos-defenses-while-honoring-its-open-nature/",
-      "pubDate": "2026-05-14T17:00:58.000Z"
     }
   ]
 }
