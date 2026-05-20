@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T12:04:06.797Z",
+  "generatedAt": "2026-05-20T15:57:26.052Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,10 +24,185 @@
   ],
   "items": [
     {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Latest Apple Immersive rollout exemplifies Apple Vision Pro's entire problem",
+      "url": "https://appleinsider.com/articles/26/05/20/latest-apple-immersive-rollout-exemplifies-apple-vision-pros-entire-problem?utm_source=rss",
+      "pubDate": "2026-05-20T15:49:52.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Samsung Overtakes Apple for Top Smartphone Customer Satisfaction",
+      "url": "https://www.macrumors.com/2026/05/20/samsung-overtakes-apple-for-customer-satisfaction/",
+      "pubDate": "2026-05-20T15:45:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Provides Update on App Store, Highlights Key 2025 Safety Stats",
+      "url": "https://www.macrumors.com/2026/05/20/apple-shares-app-store-safety-stats/",
+      "pubDate": "2026-05-20T15:33:54.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Anker’s travel-friendly Laptop Power Bank has returned to its best price of the year",
+      "url": "https://www.theverge.com/gadgets/934288/anker-laptop-power-bank-soundcore-sleep-a20-earbuds-deal-sale",
+      "pubDate": "2026-05-20T15:33:08.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Deals: M3 iPad Air $400 off, 1TB M5 iPad Pro all-time low, 24GB M5 MacBook Pro $1,499, Apple Watch Ultra 3, more",
+      "url": "https://9to5mac.com/2026/05/20/deals-ipad-air-ipad-pro-macbook-pro-apple-watch-ultra-3/",
+      "pubDate": "2026-05-20T15:31:27.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple TV went from industry skepticism to Cannes Lions recognition under Eddy Cue",
+      "url": "https://appleinsider.com/articles/26/05/20/apple-tv-went-from-industry-skepticism-to-cannes-lions-recognition-under-eddy-cue?utm_source=rss",
+      "pubDate": "2026-05-20T15:13:35.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Google I/O 2026 had nothing to say and said it badly ahead of Apple's WWDC",
+      "url": "https://appleinsider.com/articles/26/05/20/google-io-2026-had-nothing-to-say-and-said-it-badly-ahead-of-apples-wwdc?utm_source=rss",
+      "pubDate": "2026-05-20T15:10:21.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The Verge’s 2026 high school graduation gift guide",
+      "url": "https://www.theverge.com/gadgets/932602/best-high-school-graduation-gift-ideas",
+      "pubDate": "2026-05-20T15:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple’s three goals for iOS 27 sound like a big win for users",
+      "url": "https://9to5mac.com/2026/05/20/apples-three-goals-for-ios-27-sound-like-a-big-win-for-users/",
+      "pubDate": "2026-05-20T14:49:32.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Ugreen Debuts Pocket-Sized Chargers for Your Apple Devices",
+      "url": "https://www.macrumors.com/2026/05/20/ugreen-65w-charger-macbook-air/",
+      "pubDate": "2026-05-20T14:42:57.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "A feature-packed MagSafe power bank is 20 percent off for Memorial Day",
+      "url": "https://www.theverge.com/gadgets/934553/anker-magsafe-power-bank-usbc-deal-sale-memorial-day",
+      "pubDate": "2026-05-20T14:14:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "It&#8217;s make or break time for AI labeling systems",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/934521/google-synthid-c2pa-content-credentials-ai-labelling-efforts",
+      "pubDate": "2026-05-20T14:12:54.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "App Store fraud prevention a big numbers game powered by AI & human review",
+      "url": "https://appleinsider.com/articles/26/05/20/app-store-fraud-prevention-a-big-numbers-game-powered-by-ai-human-review?utm_source=rss",
+      "pubDate": "2026-05-20T14:09:20.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Trump Mobile may be leaking customer addresses",
+      "url": "https://www.theverge.com/gadgets/934522/trump-mobile-may-be-leaking-customer-addresses",
+      "pubDate": "2026-05-20T14:06:19.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Insta360’s Mic Pro uses a three microphone array for improved recordings",
+      "url": "https://www.theverge.com/tech/934473/insta360-mic-pro-wireless-e-ink-screen-microphone-array",
+      "pubDate": "2026-05-20T14:04:42.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Trump is waging a silent war on legal immigration",
+      "url": "https://www.theverge.com/policy/932865/trump-legal-immigration-denaturalizations-uscis",
+      "pubDate": "2026-05-20T14:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's Eddy Cue to Receive 'Entertainment Person of the Year' Award",
+      "url": "https://www.macrumors.com/2026/05/20/eddy-cue-entertainment-person-of-the-year/",
+      "pubDate": "2026-05-20T13:57:50.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Amazon Takes $150 Off Every 15-Inch M5 MacBook Air",
+      "url": "https://www.macrumors.com/2026/05/20/150-off-m5-macbook-air/",
+      "pubDate": "2026-05-20T13:38:56.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple gives update on the App Store and its key protections",
+      "url": "https://9to5mac.com/2026/05/20/apple-gives-update-on-the-app-store-and-its-key-protections/",
+      "pubDate": "2026-05-20T13:28:31.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "If Google can’t make AI agents useful, maybe no one can",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/934478/if-google-cant-make-ai-agents-useful-maybe-no-one-can",
+      "pubDate": "2026-05-20T13:24:22.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "New ‘Steve Jobs in Exile’ book reads like a lost season of your favorite series",
+      "url": "https://9to5mac.com/2026/05/20/new-steve-jobs-in-exile-book-reads-like-a-lost-season-of-your-favorite-series/",
+      "pubDate": "2026-05-20T13:06:17.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "AI companies and data brokers even resort to fake forms to keep selling our data",
+      "url": "https://9to5mac.com/2026/05/20/ai-companies-and-data-brokers-even-resort-to-fake-forms-to-keep-selling-our-data/",
+      "pubDate": "2026-05-20T13:01:30.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Immersive video on Real Madrid coming this week to Vision Pro",
+      "url": "https://9to5mac.com/2026/05/20/apple-immersive-video-on-real-madrid-coming-this-week-to-vision-pro/",
+      "pubDate": "2026-05-20T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The biggest data center ever is becoming a huge problem in Utah",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/933687/utah-stratos-project-data-center-kevin-oleary",
+      "pubDate": "2026-05-20T13:00:00.000Z"
+    },
+    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Jamf names former CTO Beth Tschida as CEO to lead its new AI push",
       "url": "https://9to5mac.com/2026/05/20/jamf-names-former-cto-beth-tschida-as-ceo-to-lead-its-new-ai-push/",
+      "pubDate": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "‘It’s in the air’: Apple TV’s hottest new shows explore different sides of OnlyFans",
+      "url": "https://www.theverge.com/tech/934078/apple-tv-onlyfans-margo-maximum-pleasure-guaranteed",
       "pubDate": "2026-05-20T12:00:00.000Z"
     },
     {
@@ -52,13 +227,6 @@
       "pubDate": "2026-05-20T11:08:28.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Android 17 is getting its own version of Apple&#8217;s Handoff",
-      "url": "https://www.theverge.com/tech/934457/android-17-continue-on-handoff",
-      "pubDate": "2026-05-20T11:07:33.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "9to5Mac Daily: May 20, 2026 – New Apple accessibility features, Apple Watch rumors",
@@ -71,13 +239,6 @@
       "title": "WhatsApp Tests Read-Triggered Disappearing Messages",
       "url": "https://www.macrumors.com/2026/05/20/read-triggered-disappearing-messages-whatsapp/",
       "pubDate": "2026-05-20T10:57:37.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Samsung workers set to strike at worst possible time",
-      "url": "https://www.theverge.com/tech/934432/samsung-electronics-strike-memory-chip-supply",
-      "pubDate": "2026-05-20T08:49:01.000Z"
     },
     {
       "source": "AppleInsider",
@@ -94,13 +255,6 @@
       "pubDate": "2026-05-20T05:01:55.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Mercedes’ electric AMG GT 4-door coupe can go 0-60 in 2 seconds",
-      "url": "https://www.theverge.com/news/934037/mercedes-amg-gt-four-door-coupe-ev-specs",
-      "pubDate": "2026-05-20T03:30:00.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "‘Maximum Pleasure Guaranteed’ premieres on Apple TV",
@@ -113,20 +267,6 @@
       "title": "WhatsApp working on messages that disappear once you’ve read them",
       "url": "https://9to5mac.com/2026/05/19/whatsapp-working-on-messages-that-disappear-once-youve-read-them/",
       "pubDate": "2026-05-20T01:56:34.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Wear OS 7 will keep track of deliveries and sports scores on your wrist",
-      "url": "https://www.theverge.com/tech/934323/google-wear-os-7-smartwatch-battery-life-wear-widgets-io-2026",
-      "pubDate": "2026-05-19T23:24:36.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Plex is tripling the price of a lifetime pass to $750 after doubling it last year",
-      "url": "https://www.theverge.com/tech/934269/plex-pass-lifetime-subscription-triple-750-price-hike",
-      "pubDate": "2026-05-19T23:03:48.000Z"
     },
     {
       "source": "MacRumors",
@@ -143,46 +283,11 @@
       "pubDate": "2026-05-19T22:31:13.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Demis Hassabis said this might be the ‘foothills of the singularity.’ What?",
-      "url": "https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis",
-      "pubDate": "2026-05-19T22:16:02.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple’s global F1 ambitions hit roadblock as Sky extends U.K. and Italy rights",
-      "url": "https://9to5mac.com/2026/05/19/apples-global-f1-ambitions-hit-roadblock-as-sky-extends-u-k-and-italy-rights/",
-      "pubDate": "2026-05-19T22:08:40.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "We react to Google I/O 2026",
-      "url": "https://www.theverge.com/podcast/934202/we-react-to-google-i-o-2026",
-      "pubDate": "2026-05-19T21:48:26.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Google's First AI Smart Glasses Launching This Fall With iPhone Support",
       "url": "https://www.macrumors.com/2026/05/19/google-ai-smart-glasses-iphone-support/",
       "pubDate": "2026-05-19T21:34:12.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The future of Google is a search box that does everything",
-      "url": "https://www.theverge.com/tech/934217/google-search-box-does-everything-ai-io-2026",
-      "pubDate": "2026-05-19T21:24:14.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "‘Pluribus’ lead Rhea Seehorn joins upcoming Apple Original Film ‘Running’",
-      "url": "https://9to5mac.com/2026/05/19/pluribus-lead-rhea-seehorn-joins-upcoming-apple-original-film-running/",
-      "pubDate": "2026-05-19T21:18:50.000Z"
     },
     {
       "source": "Six Colors",
@@ -199,39 +304,11 @@
       "pubDate": "2026-05-19T21:02:18.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Nintendo’s $500 Switch 2 bundle includes a game, and it&#8217;s available now",
-      "url": "https://www.theverge.com/gadgets/933792/nintendo-switch-2-choose-your-game-console-bundle-deal",
-      "pubDate": "2026-05-19T21:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Google’s AI future demands trust — and your personal data",
-      "url": "https://www.theverge.com/tech/934172/google-io-gemini-ai-trust-personal-data",
-      "pubDate": "2026-05-19T21:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Nintendo's New 'Pictonico' iOS Game Turns Your Photos Into Minigames",
       "url": "https://www.macrumors.com/2026/05/19/nintendo-pictonico-ios-game/",
       "pubDate": "2026-05-19T20:25:47.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple strikes talent and IP deal with virtual avatar startup Animato",
-      "url": "https://9to5mac.com/2026/05/19/apple-strikes-talent-and-ip-deal-with-virtual-avatar-startup-animato/",
-      "pubDate": "2026-05-19T19:54:31.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 26’s Wallet app has long-awaited order tracking fix, here’s how to use it",
-      "url": "https://9to5mac.com/2026/05/19/ios-26s-wallet-app-has-long-awaited-order-tracking-fix-heres-how-to-use-it/",
-      "pubDate": "2026-05-19T19:53:07.000Z"
     },
     {
       "source": "AppleInsider",
@@ -241,25 +318,11 @@
       "pubDate": "2026-05-19T19:30:45.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Disney announces three new Disney+ and Hulu app features",
-      "url": "https://9to5mac.com/2026/05/19/disney-announces-three-new-disney-and-hulu-app-features/",
-      "pubDate": "2026-05-19T19:22:21.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Google I/O 2026 Roundup: Gemini 3.5, AI Search, Android XR Glasses, and More",
       "url": "https://www.macrumors.com/2026/05/19/google-io-2026-roundup/",
       "pubDate": "2026-05-19T19:04:45.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: May 19, 2026 – WWDC invites, iOS 27 expectations",
-      "url": "https://9to5mac.com/2026/05/19/daily-may-19-2026/",
-      "pubDate": "2026-05-19T18:34:22.000Z"
     },
     {
       "source": "AppleInsider",
@@ -269,25 +332,11 @@
       "pubDate": "2026-05-19T18:24:11.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Sports App Updated With 2026 World Cup Features, Expands to 90 More Countries",
-      "url": "https://www.macrumors.com/2026/05/19/apple-sports-app-2026-world-cup/",
-      "pubDate": "2026-05-19T17:26:03.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Easily follow the FIFA World Cup in over 170 countries thanks to Apple Sports expansion",
       "url": "https://appleinsider.com/articles/26/05/19/easily-follow-the-ffia-world-cup-in-over-170-countries-thanks-to-apple-sports-expansion?utm_source=rss",
       "pubDate": "2026-05-19T17:17:17.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple 'Shakes Up' Oversight of Product Design Ahead of CEO Change",
-      "url": "https://www.macrumors.com/2026/05/19/apple-shaking-up-product-design/",
-      "pubDate": "2026-05-19T16:57:53.000Z"
     },
     {
       "source": "AppleInsider",
@@ -302,55 +351,6 @@
       "title": "Amazon slashes $250 off every 2026 16-inch MacBook Pro it sells",
       "url": "https://appleinsider.com/articles/26/05/19/amazon-slashes-250-off-every-2026-16-inch-macbook-pro-it-sells?utm_source=rss",
       "pubDate": "2026-05-19T16:07:44.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "How Steve Jobs changed the face of retail with the Apple Store",
-      "url": "https://appleinsider.com/articles/18/05/15/steve-jobs-changed-the-face-of-apple-and-retail-forever-on-may-15-2001?utm_source=rss",
-      "pubDate": "2026-05-19T15:54:36.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple's First Retail Stores Opened 25 Years Ago Today",
-      "url": "https://www.macrumors.com/2026/05/19/first-apple-stores-opened-25-years-ago/",
-      "pubDate": "2026-05-19T15:16:07.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Plex lifetime pass price hike to $750 is ludicrous & too expensive for hosting video",
-      "url": "https://appleinsider.com/articles/26/05/19/ludicrous-plex-lifetime-pass-increase-to-74999-is-too-expensive-for-watching-your-owned-media?utm_source=rss",
-      "pubDate": "2026-05-19T14:55:02.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Best Buy Hosts Memorial Day Sale With Notable Apple and Tech Deals",
-      "url": "https://www.macrumors.com/2026/05/19/best-buy-memorial-day-sale-2/",
-      "pubDate": "2026-05-19T14:47:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "WhatsApp Begins Rolling Out Redesigned Media Share Sheet on iOS",
-      "url": "https://www.macrumors.com/2026/05/19/whatsapp-redesigned-media-share-sheet-ios/",
-      "pubDate": "2026-05-19T14:46:33.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Hikawa Grip & Stand for iPhone launches globally at a new lower price",
-      "url": "https://appleinsider.com/articles/26/05/19/the-hikawa-grip-stand-for-iphone-is-no-longer-a-limited-edition-accessory?utm_source=rss",
-      "pubDate": "2026-05-19T14:33:10.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Epic Games declares Victory Royale months ahead of Apple case conclusion",
-      "url": "https://appleinsider.com/articles/26/05/19/epic-games-declares-victory-royale-months-ahead-of-apple-case-conclusion?utm_source=rss",
-      "pubDate": "2026-05-19T13:39:54.000Z"
     },
     {
       "source": "Six Colors",
