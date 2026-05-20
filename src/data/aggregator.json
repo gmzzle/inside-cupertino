@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T15:57:26.052Z",
+  "generatedAt": "2026-05-20T18:32:48.666Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,97 @@
     }
   ],
   "items": [
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) Clockwise 657: Time to Check the Rhonda-grams!",
+      "url": "https://sixcolors.com/podcast/2026/05/clockwise-657-time-to-check-the-rhonda-grams/",
+      "pubDate": "2026-05-20T18:25:53.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "I’ve tested the latest Switch 2 controllers, and this one is the best",
+      "url": "https://www.theverge.com/tech/791574/best-switch-2-controllers",
+      "pubDate": "2026-05-20T18:14:38.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Anthropic and OpenAI take their beef to the midterm elections",
+      "url": "https://www.theverge.com/column/934684/anthropic-openai-super-pac-beef-alex-bores",
+      "pubDate": "2026-05-20T17:50:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 26.5 won’t let users downgrade to prior update any longer",
+      "url": "https://9to5mac.com/2026/05/20/ios-26-5-wont-let-users-downgrade-to-prior-update-any-longer/",
+      "pubDate": "2026-05-20T17:49:28.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Vibe coding is coming to your phone",
+      "url": "https://www.theverge.com/tech/934628/google-io-2026-android-ai-studio-widgets-shortcuts",
+      "pubDate": "2026-05-20T17:40:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Volvo is trying to put its EV stumbles in the rearview",
+      "url": "https://www.theverge.com/transportation/932805/volvo-ex60-ceo-interview-ev-strategy",
+      "pubDate": "2026-05-20T17:30:56.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "MacBook Ultra could be very good news for MacBook Pro users",
+      "url": "https://9to5mac.com/2026/05/20/macbook-ultra-could-be-very-good-news-for-macbook-pro-users/",
+      "pubDate": "2026-05-20T17:22:22.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Airbnb upgrades iOS and Android app with three key enhancements for your next trip",
+      "url": "https://9to5mac.com/2026/05/20/airbnb-upgrades-ios-and-android-app-with-three-key-enhancements-for-your-next-trip/",
+      "pubDate": "2026-05-20T17:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Says iOS 27 Can Automatically Add Captions to Your Personal iPhone Videos",
+      "url": "https://www.macrumors.com/2026/05/20/ios-27-automatic-captions-for-personal-videos/",
+      "pubDate": "2026-05-20T16:46:34.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "You can now remix other people’s YouTube Shorts with AI",
+      "url": "https://www.theverge.com/tech/934704/google-gemini-omni-youtub-shorts-remix-ai",
+      "pubDate": "2026-05-20T16:41:40.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Samsung has a tentative deal with workers to avoid a memory chip strike",
+      "url": "https://www.theverge.com/tech/934432/samsung-electronics-strike-memory-chip-supply",
+      "pubDate": "2026-05-20T16:35:25.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Xbox hires game industry analyst Matthew Ball to lead strategy",
+      "url": "https://www.theverge.com/report/934687/xbox-matthew-ball-strategy-officer-hire",
+      "pubDate": "2026-05-20T16:03:21.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Google Search’s AI evolution includes more ads",
+      "url": "https://www.theverge.com/tech/934585/google-ai-shopping-ads-search",
+      "pubDate": "2026-05-20T16:00:00.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -94,20 +185,6 @@
       "pubDate": "2026-05-20T14:42:57.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "A feature-packed MagSafe power bank is 20 percent off for Memorial Day",
-      "url": "https://www.theverge.com/gadgets/934553/anker-magsafe-power-bank-usbc-deal-sale-memorial-day",
-      "pubDate": "2026-05-20T14:14:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "It&#8217;s make or break time for AI labeling systems",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/934521/google-synthid-c2pa-content-credentials-ai-labelling-efforts",
-      "pubDate": "2026-05-20T14:12:54.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "App Store fraud prevention a big numbers game powered by AI & human review",
@@ -115,24 +192,10 @@
       "pubDate": "2026-05-20T14:09:20.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Trump Mobile may be leaking customer addresses",
-      "url": "https://www.theverge.com/gadgets/934522/trump-mobile-may-be-leaking-customer-addresses",
-      "pubDate": "2026-05-20T14:06:19.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Insta360’s Mic Pro uses a three microphone array for improved recordings",
-      "url": "https://www.theverge.com/tech/934473/insta360-mic-pro-wireless-e-ink-screen-microphone-array",
-      "pubDate": "2026-05-20T14:04:42.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Trump is waging a silent war on legal immigration",
-      "url": "https://www.theverge.com/policy/932865/trump-legal-immigration-denaturalizations-uscis",
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) The Rebound 599: It Was Title Bait",
+      "url": "https://sixcolors.com/podcast/2026/05/the-rebound-599-it-was-title-bait/",
       "pubDate": "2026-05-20T14:00:00.000Z"
     },
     {
@@ -157,13 +220,6 @@
       "pubDate": "2026-05-20T13:28:31.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "If Google can’t make AI agents useful, maybe no one can",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/934478/if-google-cant-make-ai-agents-useful-maybe-no-one-can",
-      "pubDate": "2026-05-20T13:24:22.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "New ‘Steve Jobs in Exile’ book reads like a lost season of your favorite series",
@@ -185,24 +241,10 @@
       "pubDate": "2026-05-20T13:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The biggest data center ever is becoming a huge problem in Utah",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/933687/utah-stratos-project-data-center-kevin-oleary",
-      "pubDate": "2026-05-20T13:00:00.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Jamf names former CTO Beth Tschida as CEO to lead its new AI push",
       "url": "https://9to5mac.com/2026/05/20/jamf-names-former-cto-beth-tschida-as-ceo-to-lead-its-new-ai-push/",
-      "pubDate": "2026-05-20T12:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "‘It’s in the air’: Apple TV’s hottest new shows explore different sides of OnlyFans",
-      "url": "https://www.theverge.com/tech/934078/apple-tv-onlyfans-margo-maximum-pleasure-guaranteed",
       "pubDate": "2026-05-20T12:00:00.000Z"
     },
     {
@@ -227,13 +269,6 @@
       "pubDate": "2026-05-20T11:08:28.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: May 20, 2026 – New Apple accessibility features, Apple Watch rumors",
-      "url": "https://9to5mac.com/2026/05/20/daily-may-20-2026/",
-      "pubDate": "2026-05-20T11:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "WhatsApp Tests Read-Triggered Disappearing Messages",
@@ -253,20 +288,6 @@
       "title": "Apple Sports expands, readies for World Cup ↦",
       "url": "https://sixcolors.com/link/2026/05/apple-sports-expands-readies-for-world-cup/",
       "pubDate": "2026-05-20T05:01:55.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "‘Maximum Pleasure Guaranteed’ premieres on Apple TV",
-      "url": "https://9to5mac.com/2026/05/19/maximum-pleasure-guaranteed-premieres-on-apple-tv/",
-      "pubDate": "2026-05-20T02:27:26.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "WhatsApp working on messages that disappear once you’ve read them",
-      "url": "https://9to5mac.com/2026/05/19/whatsapp-working-on-messages-that-disappear-once-youve-read-them/",
-      "pubDate": "2026-05-20T01:56:34.000Z"
     },
     {
       "source": "MacRumors",
@@ -318,13 +339,6 @@
       "pubDate": "2026-05-19T19:30:45.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Google I/O 2026 Roundup: Gemini 3.5, AI Search, Android XR Glasses, and More",
-      "url": "https://www.macrumors.com/2026/05/19/google-io-2026-roundup/",
-      "pubDate": "2026-05-19T19:04:45.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Peanuts classics, returning series, and a new Snoopy film are all coming to Apple TV",
@@ -358,20 +372,6 @@
       "title": "New Apple accessibility updates focus on Apple Intelligence",
       "url": "https://sixcolors.com/post/2026/05/new-apple-accessibility-updates-focus-on-apple-intelligence/",
       "pubDate": "2026-05-19T12:00:00.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) Upgrade 616: Outmoded But Not Vintage",
-      "url": "https://sixcolors.com/podcast/2026/05/upgrade-616-outmoded-but-not-vintage/",
-      "pubDate": "2026-05-18T22:05:38.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "FileVault keys can’t be escrowed in iCloud anymore",
-      "url": "https://sixcolors.com/post/2026/05/filevault-keys-cant-be-escrowed-in-icloud-anymore/",
-      "pubDate": "2026-05-18T17:00:22.000Z"
     }
   ]
 }
