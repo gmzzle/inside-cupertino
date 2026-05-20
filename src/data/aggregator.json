@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T18:32:48.666Z",
+  "generatedAt": "2026-05-20T21:15:08.592Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,83 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Kansas City Public Schools are going all-in on Apple",
+      "url": "https://appleinsider.com/articles/26/05/20/kansas-city-public-schools-are-going-all-in-on-apple?utm_source=rss",
+      "pubDate": "2026-05-20T21:06:44.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "‘Solve all diseases,’ you say?",
+      "url": "https://www.theverge.com/column/935021/google-io-gemini-for-science-alphafold-alphagenome-ai-health",
+      "pubDate": "2026-05-20T21:06:35.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple TV renews ‘Knife Edge: Chasing Michelin Stars’ for a second season",
+      "url": "https://9to5mac.com/2026/05/20/apple-tv-renews-knife-edge-chasing-michelin-stars-for-a-second-season/",
+      "pubDate": "2026-05-20T20:48:41.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "tvOS 27 will give Apple TV 4K a useful new display setting",
+      "url": "https://9to5mac.com/2026/05/20/tvos-27-will-give-apple-tv-4k-a-useful-new-display-setting/",
+      "pubDate": "2026-05-20T20:36:32.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Audio that relies too heavily on AI-generated sound won't be on Apple Music",
+      "url": "https://appleinsider.com/articles/26/05/20/audio-that-relies-too-heavily-on-ai-generated-sound-wont-be-on-apple-music?utm_source=rss",
+      "pubDate": "2026-05-20T20:12:13.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Here are 42 of our favorite deals from REI’s massive Anniversary Sale",
+      "url": "https://www.theverge.com/gadgets/931274/rei-anniversary-sale-2026",
+      "pubDate": "2026-05-20T20:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Kansas City Public Schools to replace 30,000 Windows PCs and Chromebooks with Apple devices",
+      "url": "https://9to5mac.com/2026/05/20/kansas-city-public-schools-to-replace-30000-windows-pcs-and-chromebooks-with-apple-devices/",
+      "pubDate": "2026-05-20T19:55:31.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Hovercraft is a new Mac app that makes video call presentations feel more personal",
+      "url": "https://9to5mac.com/2026/05/20/hovercraft-is-a-new-mac-app-that-makes-video-call-presentations-feel-more-personal/",
+      "pubDate": "2026-05-20T19:31:38.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iOS 27's New AI Voice Control Feature Hints at Major Siri Upgrade Coming Soon",
+      "url": "https://www.macrumors.com/2026/05/20/ios-27-ai-voice-control-hints-at-siri-revamp/",
+      "pubDate": "2026-05-20T19:20:58.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Music shares what it is doing to ‘keep music fair’ in an AI world",
+      "url": "https://9to5mac.com/2026/05/20/apple-music-shares-what-it-is-doing-to-keep-music-fair-in-an-ai-world/",
+      "pubDate": "2026-05-20T18:54:44.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple server schematics stolen in May 2026 Foxconn cyberattack, AppleInsider confirms",
+      "url": "https://appleinsider.com/articles/26/05/20/apple-servers-schematics-stolen-in-may-2026-foxconn-cyberattack-appleinsider-confirms?utm_source=rss",
+      "pubDate": "2026-05-20T18:47:49.000Z"
+    },
     {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
@@ -136,13 +213,6 @@
       "pubDate": "2026-05-20T15:33:54.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Anker’s travel-friendly Laptop Power Bank has returned to its best price of the year",
-      "url": "https://www.theverge.com/gadgets/934288/anker-laptop-power-bank-soundcore-sleep-a20-earbuds-deal-sale",
-      "pubDate": "2026-05-20T15:33:08.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Deals: M3 iPad Air $400 off, 1TB M5 iPad Pro all-time low, 24GB M5 MacBook Pro $1,499, Apple Watch Ultra 3, more",
@@ -162,13 +232,6 @@
       "title": "Google I/O 2026 had nothing to say and said it badly ahead of Apple's WWDC",
       "url": "https://appleinsider.com/articles/26/05/20/google-io-2026-had-nothing-to-say-and-said-it-badly-ahead-of-apples-wwdc?utm_source=rss",
       "pubDate": "2026-05-20T15:10:21.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Verge’s 2026 high school graduation gift guide",
-      "url": "https://www.theverge.com/gadgets/932602/best-high-school-graduation-gift-ideas",
-      "pubDate": "2026-05-20T15:00:00.000Z"
     },
     {
       "source": "9to5Mac",
@@ -227,46 +290,11 @@
       "pubDate": "2026-05-20T13:06:17.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "AI companies and data brokers even resort to fake forms to keep selling our data",
-      "url": "https://9to5mac.com/2026/05/20/ai-companies-and-data-brokers-even-resort-to-fake-forms-to-keep-selling-our-data/",
-      "pubDate": "2026-05-20T13:01:30.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Immersive video on Real Madrid coming this week to Vision Pro",
-      "url": "https://9to5mac.com/2026/05/20/apple-immersive-video-on-real-madrid-coming-this-week-to-vision-pro/",
-      "pubDate": "2026-05-20T13:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Jamf names former CTO Beth Tschida as CEO to lead its new AI push",
-      "url": "https://9to5mac.com/2026/05/20/jamf-names-former-cto-beth-tschida-as-ceo-to-lead-its-new-ai-push/",
-      "pubDate": "2026-05-20T12:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Android cloning Apple’s Handoff feature is cheeky but a good thing",
-      "url": "https://9to5mac.com/2026/05/20/android-cloning-apples-handoff-feature-is-cheeky-but-a-good-thing/",
-      "pubDate": "2026-05-20T11:44:20.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Discord Voice and Video Calls Now End-to-End Encrypted by Default",
       "url": "https://www.macrumors.com/2026/05/20/discord-voice-video-calls-e2ee-default/",
       "pubDate": "2026-05-20T11:43:34.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Discord now uses end-to-end encryption for all voice and video calls by default",
-      "url": "https://9to5mac.com/2026/05/20/discord-now-uses-end-to-end-encryption-for-all-voice-and-video-calls-by-default/",
-      "pubDate": "2026-05-20T11:08:28.000Z"
     },
     {
       "source": "MacRumors",
@@ -325,13 +353,6 @@
       "pubDate": "2026-05-19T21:02:18.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Nintendo's New 'Pictonico' iOS Game Turns Your Photos Into Minigames",
-      "url": "https://www.macrumors.com/2026/05/19/nintendo-pictonico-ios-game/",
-      "pubDate": "2026-05-19T20:25:47.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Vibe Coding: Where it works and why doing it on an iPhone is a problem",
@@ -344,27 +365,6 @@
       "title": "Peanuts classics, returning series, and a new Snoopy film are all coming to Apple TV",
       "url": "https://appleinsider.com/articles/26/05/19/peanuts-classics-returning-series-and-a-new-snoopy-film-are-all-coming-to-apple-tv?utm_source=rss",
       "pubDate": "2026-05-19T18:24:11.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Easily follow the FIFA World Cup in over 170 countries thanks to Apple Sports expansion",
-      "url": "https://appleinsider.com/articles/26/05/19/easily-follow-the-ffia-world-cup-in-over-170-countries-thanks-to-apple-sports-expansion?utm_source=rss",
-      "pubDate": "2026-05-19T17:17:17.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Second hardware team shakeup in a month seeks to speed up development",
-      "url": "https://appleinsider.com/articles/26/05/19/second-hardware-team-shakeup-in-a-month-seeks-to-speed-up-development?utm_source=rss",
-      "pubDate": "2026-05-19T16:48:58.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Amazon slashes $250 off every 2026 16-inch MacBook Pro it sells",
-      "url": "https://appleinsider.com/articles/26/05/19/amazon-slashes-250-off-every-2026-16-inch-macbook-pro-it-sells?utm_source=rss",
-      "pubDate": "2026-05-19T16:07:44.000Z"
     },
     {
       "source": "Six Colors",
