@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T21:15:08.592Z",
+  "generatedAt": "2026-05-20T22:46:40.598Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "The Outsiders celebrates Apple Design Awards 2026 nomination with biggest update yet",
+      "url": "https://9to5mac.com/2026/05/20/the-outsiders-celebrates-apple-design-awards-2026-nomination-with-biggest-update-yet/",
+      "pubDate": "2026-05-20T22:33:54.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Review: ‘Steve Jobs in Exile’ recounts Apple founder’s tough mid-career lessons",
+      "url": "https://sixcolors.com/post/2026/05/review-steve-jobs-in-exile-recounts-apple-founders-tough-mid-career-lessons/",
+      "pubDate": "2026-05-20T22:30:20.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "SpaceX just filed for what could be the biggest IPO ever",
+      "url": "https://www.theverge.com/business/902219/spacex-ipo-details",
+      "pubDate": "2026-05-20T21:29:05.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -185,13 +206,6 @@
       "pubDate": "2026-05-20T16:03:21.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Google Search’s AI evolution includes more ads",
-      "url": "https://www.theverge.com/tech/934585/google-ai-shopping-ads-search",
-      "pubDate": "2026-05-20T16:00:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Latest Apple Immersive rollout exemplifies Apple Vision Pro's entire problem",
@@ -283,13 +297,6 @@
       "pubDate": "2026-05-20T13:28:31.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "New ‘Steve Jobs in Exile’ book reads like a lost season of your favorite series",
-      "url": "https://9to5mac.com/2026/05/20/new-steve-jobs-in-exile-book-reads-like-a-lost-season-of-your-favorite-series/",
-      "pubDate": "2026-05-20T13:06:17.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Discord Voice and Video Calls Now End-to-End Encrypted by Default",
@@ -365,13 +372,6 @@
       "title": "Peanuts classics, returning series, and a new Snoopy film are all coming to Apple TV",
       "url": "https://appleinsider.com/articles/26/05/19/peanuts-classics-returning-series-and-a-new-snoopy-film-are-all-coming-to-apple-tv?utm_source=rss",
       "pubDate": "2026-05-19T18:24:11.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "New Apple accessibility updates focus on Apple Intelligence",
-      "url": "https://sixcolors.com/post/2026/05/new-apple-accessibility-updates-focus-on-apple-intelligence/",
-      "pubDate": "2026-05-19T12:00:00.000Z"
     }
   ]
 }
