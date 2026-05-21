@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-21T13:32:56.666Z",
+  "generatedAt": "2026-05-21T16:49:25.989Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,11 +24,200 @@
   ],
   "items": [
     {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "BBEdit 16 out now with in-image text search, deeper Shortcuts integration, notebook filtering, more",
+      "url": "https://9to5mac.com/2026/05/21/bbedit-16-out-now-with-in-image-text-search-deeper-shortcuts-integration-notebook-filtering-more/",
+      "pubDate": "2026-05-21T16:34:26.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Google I/O: What you need to care about when you don’t care about Google I/O",
+      "url": "https://sixcolors.com/post/2026/05/google-i-o-what-you-need-to-care-about-when-you-dont-care-about-google-i-o/",
+      "pubDate": "2026-05-21T16:20:34.000Z"
+    },
+    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
-      "title": "Netflix’s next great sci-fi show is set in a retirement community",
-      "url": "https://www.theverge.com/entertainment/935218/the-boroughs-review-netflix",
-      "pubDate": "2026-05-21T13:30:00.000Z"
+      "title": "The cost of the smart home is going up",
+      "url": "https://www.theverge.com/tech/935298/smart-home-cost-increase-ai-subscription-fatigue",
+      "pubDate": "2026-05-21T16:15:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Spotify to offer AI tool that will let subscribers remix songs and cover music",
+      "url": "https://9to5mac.com/2026/05/21/spotify-building-ai-powered-tool-that-will-let-subscribers-make-music-covers-and-remixes/",
+      "pubDate": "2026-05-21T16:05:21.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Meta and Google get data from the app your boss uses to track you",
+      "url": "https://www.theverge.com/policy/935299/bossware-employer-surveillance",
+      "pubDate": "2026-05-21T16:03:05.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "GitHub faces a fight for its survival at Microsoft",
+      "url": "https://www.theverge.com/tech/935250/microsoft-github-struggles-notepad",
+      "pubDate": "2026-05-21T16:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Spotify is launching AI-generated remixes",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/935379/spotify-umg-ai-covers-remix",
+      "pubDate": "2026-05-21T15:54:03.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Spotify is going to reserve concert tickets for ‘real fans’",
+      "url": "https://www.theverge.com/entertainment/935394/spotify-reserved-concert-ticket-presales",
+      "pubDate": "2026-05-21T15:47:43.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Spotify Studio&#8217;s AI agent creates a daily podcast just for you",
+      "url": "https://www.theverge.com/entertainment/935390/spotify-studio-ai-app-personal-podcasts",
+      "pubDate": "2026-05-21T15:47:29.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Deals: M5 MacBook Air $199 off Amazon low, M3 iPad Air $400 off, iPhone 17 Pro Max, accessories, more",
+      "url": "https://9to5mac.com/2026/05/21/deals-m5-macbook-air-m3-ipad-air-iphone-17-pro-max/",
+      "pubDate": "2026-05-21T15:34:44.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Perplexity’s Comet AI browser for iOS upgraded with 8 major improvements",
+      "url": "https://9to5mac.com/2026/05/21/perplexitys-comet-ai-browser-for-ios-upgraded-with-8-major-improvements/",
+      "pubDate": "2026-05-21T15:32:44.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "AI video is moving beyond clip slop",
+      "url": "https://www.theverge.com/column/935310/ai-video-luma-hollywood",
+      "pubDate": "2026-05-21T15:30:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Viture’s refurb Luma Pro smart glasses are more than half off at eBay",
+      "url": "https://www.theverge.com/gadgets/935236/viture-refurbished-smart-glasses-nintendo-switch-2-camera-deal-sale",
+      "pubDate": "2026-05-21T15:29:18.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's M5 15-inch MacBook Air drops to record low $1,099 at Amazon",
+      "url": "https://appleinsider.com/articles/26/05/21/apples-m5-15-inch-macbook-air-drops-to-record-low-1099-at-amazon?utm_source=rss",
+      "pubDate": "2026-05-21T15:27:10.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "OpenAI improves Codex iOS experience with turn completion alerts, new commands, more",
+      "url": "https://9to5mac.com/2026/05/21/openai-improves-codex-ios-experience-with-turn-completion-alerts-new-commands-more/",
+      "pubDate": "2026-05-21T15:10:06.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iPhone Crash Detection saved the day after driver's 330ft mountain drop",
+      "url": "https://appleinsider.com/articles/26/05/21/iphone-crash-detection-saved-the-day-after-drivers-330ft-mountain-drop?utm_source=rss",
+      "pubDate": "2026-05-21T14:57:28.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Watch and AirPods health features get major new global expansions",
+      "url": "https://9to5mac.com/2026/05/21/apple-watch-and-airpods-health-features-get-major-new-global-expansions/",
+      "pubDate": "2026-05-21T14:52:41.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone 17 Pro Will Make Sports History This Weekend",
+      "url": "https://www.macrumors.com/2026/05/21/iphone-17-pro-to-make-sports-history/",
+      "pubDate": "2026-05-21T14:32:38.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple server schematics stolen in May 2026 Foxconn cyberattack",
+      "url": "https://appleinsider.com/articles/26/05/20/apple-servers-schematics-stolen-in-may-2026-foxconn-cyberattack-appleinsider-confirms?utm_source=rss",
+      "pubDate": "2026-05-21T14:28:31.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iPhone 17 Pro will shoot Apple's Major League Soccer coverage live",
+      "url": "https://appleinsider.com/articles/26/05/21/iphone-17-pro-will-shoot-apples-major-league-soccer-coverage-live?utm_source=rss",
+      "pubDate": "2026-05-21T14:24:53.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple TV to air first major live sporting event shot entirely on iPhone 17 Pro",
+      "url": "https://9to5mac.com/2026/05/21/apple-tv-to-air-major-live-sporting-event-shot-entirely-on-iphone-17-pro/",
+      "pubDate": "2026-05-21T14:22:13.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Security Bite: Tired of app tracking pop-ups? Here’s how to auto-deny them",
+      "url": "https://9to5mac.com/2026/05/21/security-bite-tired-of-app-tracking-pop-ups-heres-how-to-auto-deny-them/",
+      "pubDate": "2026-05-21T14:11:48.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "I tested several cases for the Switch 2 and these are the best",
+      "url": "https://www.theverge.com/reviews/691319/best-switch-2-cases",
+      "pubDate": "2026-05-21T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Musk v. Altman: Much ado about nothing",
+      "url": "https://www.theverge.com/podcast/934869/elon-musk-sam-altman-openai-suit-loss-pointless",
+      "pubDate": "2026-05-21T14:00:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Rumor: 2027 iPhone production testing underway with quad-curved OLED display",
+      "url": "https://appleinsider.com/articles/26/05/21/rumor-2027-iphone-production-testing-underway-with-quad-curved-oled-display?utm_source=rss",
+      "pubDate": "2026-05-21T13:57:46.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Next year’s iPhone Pro models to get radical new design, per leaker",
+      "url": "https://9to5mac.com/2026/05/21/next-years-iphone-pro-models-to-get-radical-new-design-per-leaker/",
+      "pubDate": "2026-05-21T13:54:38.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's 15-Inch M5 MacBook Air Sees Biggest Price Cut Yet at $199 Off",
+      "url": "https://www.macrumors.com/2026/05/21/m5-macbook-air-price-cut-at-199-off/",
+      "pubDate": "2026-05-21T13:52:14.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Microsoft is getting rid of SMS two-factor codes ↦",
+      "url": "https://sixcolors.com/link/2026/05/microsoft-is-getting-rid-of-sms-two-factor-codes/",
+      "pubDate": "2026-05-21T13:39:57.000Z"
     },
     {
       "source": "9to5Mac",
@@ -38,31 +227,10 @@
       "pubDate": "2026-05-21T13:28:58.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The new Flipper One is a pocket-sized Linux computer",
-      "url": "https://www.theverge.com/tech/935202/flipper-devices-one-zero-wireless-multi-tool-linux-open-source-computer",
-      "pubDate": "2026-05-21T13:18:35.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "I review robot vacuums for a living, ask me anything!",
-      "url": "https://www.theverge.com/tech/935196/i-review-robot-vacuums-for-a-living-ask-me-anything",
-      "pubDate": "2026-05-21T13:00:20.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Strava adds dedicated strength training support for sets, reps, weight, and muscle groups",
       "url": "https://9to5mac.com/2026/05/21/strava-adds-dedicated-strength-training-support-for-sets-reps-weight-and-muscle-groups/",
-      "pubDate": "2026-05-21T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "I can’t believe how fast Google vibe coded my first Android app",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/935056/google-vibe-coding-first-android-app-gemini-ai-studio",
       "pubDate": "2026-05-21T13:00:00.000Z"
     },
     {
@@ -73,25 +241,11 @@
       "pubDate": "2026-05-21T12:33:29.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "NYC Mayor Zohran Mamdani is launching a Twitch series",
-      "url": "https://www.theverge.com/tech/935191/zohran-mamdani-twitch-talk-to-the-people",
-      "pubDate": "2026-05-21T12:22:26.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Debuts Sleep Apnea Alerts and Hearing Test Features in India",
       "url": "https://www.macrumors.com/2026/05/21/apple-watch-sleep-apnea-alerts-india/",
       "pubDate": "2026-05-21T12:05:32.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "OLED MacBook Pro screens on-track amid talk of delayed launch",
-      "url": "https://9to5mac.com/2026/05/21/oled-macbook-pro-screens-on-track-amid-talk-of-delayed-launch/",
-      "pubDate": "2026-05-21T11:44:22.000Z"
     },
     {
       "source": "AppleInsider",
@@ -115,53 +269,11 @@
       "pubDate": "2026-05-21T11:31:56.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "AT&T announces new $15/month ‘Build-a-Plan’ wireless plan",
-      "url": "https://9to5mac.com/2026/05/21/att-announces-new-15-month-build-a-plan-wireless-plan/",
-      "pubDate": "2026-05-21T11:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "‘Fuck you, Bambu’: How one private message could change the face of 3D printing",
-      "url": "https://www.theverge.com/tech/931532/bambu-agpl-pawel-jarczak-open-source-threat-dmca-github",
-      "pubDate": "2026-05-21T10:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Meta lays off thousands of employees to offset AI investments",
-      "url": "https://www.theverge.com/tech/935163/meta-layoffs-ai-investment-offset-memo",
-      "pubDate": "2026-05-21T09:20:46.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "MacBook Pro OLED Display Production Clears Key Hurdle",
       "url": "https://www.macrumors.com/2026/05/21/macbook-pro-oled-display-production/",
       "pubDate": "2026-05-21T08:41:27.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "In SpaceX’s IPO, Elon Musk is the risk factor",
-      "url": "https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor",
-      "pubDate": "2026-05-21T03:42:45.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "ACSI: Samsung edges out Apple in cell phone satisfaction, while Apple Watch ties at the top",
-      "url": "https://9to5mac.com/2026/05/20/acsi-samsung-edges-out-apple-in-cell-phone-satisfaction-while-apple-watch-ties-at-the-top/",
-      "pubDate": "2026-05-21T00:51:15.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Adobe Photoshop update brings on-device AI processing, but there is a catch",
-      "url": "https://9to5mac.com/2026/05/20/adobe-photoshop-update-brings-on-device-ai-processing-but-there-is-a-catch/",
-      "pubDate": "2026-05-21T00:31:03.000Z"
     },
     {
       "source": "AppleInsider",
@@ -171,32 +283,11 @@
       "pubDate": "2026-05-21T00:23:18.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Eddy Cue named 2026 Cannes Lions Entertainment Person of the Year",
-      "url": "https://9to5mac.com/2026/05/20/eddy-cue-named-2026-cannes-lions-entertainment-person-of-the-year/",
-      "pubDate": "2026-05-20T23:48:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "The Outsiders celebrates Apple Design Awards 2026 nomination with biggest update yet",
-      "url": "https://9to5mac.com/2026/05/20/the-outsiders-celebrates-apple-design-awards-2026-nomination-with-biggest-update-yet/",
-      "pubDate": "2026-05-20T22:33:54.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Review: ‘Steve Jobs in Exile’ recounts Apple founder’s tough mid-career lessons",
       "url": "https://sixcolors.com/post/2026/05/review-steve-jobs-in-exile-recounts-apple-founders-tough-mid-career-lessons/",
       "pubDate": "2026-05-20T22:30:20.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "SpaceX just filed for what could be the biggest IPO ever",
-      "url": "https://www.theverge.com/business/902219/spacex-ipo-details",
-      "pubDate": "2026-05-20T21:29:05.000Z"
     },
     {
       "source": "AppleInsider",
@@ -206,46 +297,11 @@
       "pubDate": "2026-05-20T21:06:44.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "‘Solve all diseases,’ you say?",
-      "url": "https://www.theverge.com/column/935021/google-io-gemini-for-science-alphafold-alphagenome-ai-health",
-      "pubDate": "2026-05-20T21:06:35.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple TV renews ‘Knife Edge: Chasing Michelin Stars’ for a second season",
-      "url": "https://9to5mac.com/2026/05/20/apple-tv-renews-knife-edge-chasing-michelin-stars-for-a-second-season/",
-      "pubDate": "2026-05-20T20:48:41.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "tvOS 27 will give Apple TV 4K a useful new display setting",
-      "url": "https://9to5mac.com/2026/05/20/tvos-27-will-give-apple-tv-4k-a-useful-new-display-setting/",
-      "pubDate": "2026-05-20T20:36:32.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Kansas City Public Schools to replace 30,000 Windows PCs and Chromebooks with Apple devices",
-      "url": "https://9to5mac.com/2026/05/20/kansas-city-public-schools-to-replace-30000-windows-pcs-and-chromebooks-with-apple-devices/",
-      "pubDate": "2026-05-20T19:55:31.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27's New AI Voice Control Feature Hints at Major Siri Upgrade Coming Soon",
+      "title": "New iOS 27 Feature Hints at Major Siri Upgrade Coming Soon",
       "url": "https://www.macrumors.com/2026/05/20/ios-27-ai-voice-control-hints-at-siri-revamp/",
       "pubDate": "2026-05-20T19:20:58.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple server schematics stolen in May 2026 Foxconn cyberattack, AppleInsider confirms",
-      "url": "https://appleinsider.com/articles/26/05/20/apple-servers-schematics-stolen-in-may-2026-foxconn-cyberattack-appleinsider-confirms?utm_source=rss",
-      "pubDate": "2026-05-20T18:47:49.000Z"
     },
     {
       "source": "Six Colors",
@@ -290,25 +346,11 @@
       "pubDate": "2026-05-20T15:13:35.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Google I/O 2026 had nothing to say and said it badly ahead of Apple's WWDC",
-      "url": "https://appleinsider.com/articles/26/05/20/google-io-2026-had-nothing-to-say-and-said-it-badly-ahead-of-apples-wwdc?utm_source=rss",
-      "pubDate": "2026-05-20T15:10:21.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Ugreen Debuts Pocket-Sized Chargers for Your Apple Devices",
       "url": "https://www.macrumors.com/2026/05/20/ugreen-65w-charger-macbook-air/",
       "pubDate": "2026-05-20T14:42:57.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "App Store fraud prevention a big numbers game powered by AI & human review",
-      "url": "https://appleinsider.com/articles/26/05/20/app-store-fraud-prevention-a-big-numbers-game-powered-by-ai-human-review?utm_source=rss",
-      "pubDate": "2026-05-20T14:09:20.000Z"
     },
     {
       "source": "Six Colors",
@@ -330,48 +372,6 @@
       "title": "Amazon Takes $150 Off Every 15-Inch M5 MacBook Air",
       "url": "https://www.macrumors.com/2026/05/20/150-off-m5-macbook-air/",
       "pubDate": "2026-05-20T13:38:56.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Discord Voice and Video Calls Now End-to-End Encrypted by Default",
-      "url": "https://www.macrumors.com/2026/05/20/discord-voice-video-calls-e2ee-default/",
-      "pubDate": "2026-05-20T11:43:34.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "WhatsApp Tests Read-Triggered Disappearing Messages",
-      "url": "https://www.macrumors.com/2026/05/20/read-triggered-disappearing-messages-whatsapp/",
-      "pubDate": "2026-05-20T10:57:37.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Insta360 Mic Pro review: exceptional sound quality for a wireless microphone",
-      "url": "https://appleinsider.com/articles/26/05/20/insta360-pro-mic-review-exceptional-sound-quality-for-a-wireless-microphone?utm_source=rss",
-      "pubDate": "2026-05-20T07:29:53.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Apple Sports expands, readies for World Cup ↦",
-      "url": "https://sixcolors.com/link/2026/05/apple-sports-expands-readies-for-world-cup/",
-      "pubDate": "2026-05-20T05:01:55.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Take Control live course helps you conquer Big Tech ↦",
-      "url": "https://sixcolors.com/link/2026/05/take-control-live-course-helps-you-conquer-big-tech/",
-      "pubDate": "2026-05-19T21:10:00.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "New Apple accessibility updates focus on Apple Intelligence",
-      "url": "https://sixcolors.com/post/2026/05/new-apple-accessibility-updates-focus-on-apple-intelligence/",
-      "pubDate": "2026-05-19T12:00:00.000Z"
     }
   ]
 }
