@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T22:46:40.598Z",
+  "generatedAt": "2026-05-21T00:18:50.372Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Eddy Cue named 2026 Cannes Lions Entertainment Person of the Year",
+      "url": "https://9to5mac.com/2026/05/20/eddy-cue-named-2026-cannes-lions-entertainment-person-of-the-year/",
+      "pubDate": "2026-05-20T23:48:00.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -288,13 +295,6 @@
       "title": "Amazon Takes $150 Off Every 15-Inch M5 MacBook Air",
       "url": "https://www.macrumors.com/2026/05/20/150-off-m5-macbook-air/",
       "pubDate": "2026-05-20T13:38:56.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple gives update on the App Store and its key protections",
-      "url": "https://9to5mac.com/2026/05/20/apple-gives-update-on-the-app-store-and-its-key-protections/",
-      "pubDate": "2026-05-20T13:28:31.000Z"
     },
     {
       "source": "MacRumors",
