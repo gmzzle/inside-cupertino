@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-21T10:03:56.816Z",
+  "generatedAt": "2026-05-21T13:32:56.666Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -26,6 +26,104 @@
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
+      "title": "Netflix’s next great sci-fi show is set in a retirement community",
+      "url": "https://www.theverge.com/entertainment/935218/the-boroughs-review-netflix",
+      "pubDate": "2026-05-21T13:30:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "If your Oura smart ring detects sleep apnea, it can refer you to doctors",
+      "url": "https://9to5mac.com/2026/05/21/if-your-oura-smart-ring-detects-sleep-apnea-it-can-refer-you-to-doctors/",
+      "pubDate": "2026-05-21T13:28:58.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The new Flipper One is a pocket-sized Linux computer",
+      "url": "https://www.theverge.com/tech/935202/flipper-devices-one-zero-wireless-multi-tool-linux-open-source-computer",
+      "pubDate": "2026-05-21T13:18:35.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "I review robot vacuums for a living, ask me anything!",
+      "url": "https://www.theverge.com/tech/935196/i-review-robot-vacuums-for-a-living-ask-me-anything",
+      "pubDate": "2026-05-21T13:00:20.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Strava adds dedicated strength training support for sets, reps, weight, and muscle groups",
+      "url": "https://9to5mac.com/2026/05/21/strava-adds-dedicated-strength-training-support-for-sets-reps-weight-and-muscle-groups/",
+      "pubDate": "2026-05-21T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "I can’t believe how fast Google vibe coded my first Android app",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/935056/google-vibe-coding-first-android-app-gemini-ai-studio",
+      "pubDate": "2026-05-21T13:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Brye song that hit 100M streams was produced in GarageBand on school iPad",
+      "url": "https://9to5mac.com/2026/05/21/brye-song-that-hit-100m-streams-was-produced-in-garageband-on-school-ipad/",
+      "pubDate": "2026-05-21T12:33:29.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "NYC Mayor Zohran Mamdani is launching a Twitch series",
+      "url": "https://www.theverge.com/tech/935191/zohran-mamdani-twitch-talk-to-the-people",
+      "pubDate": "2026-05-21T12:22:26.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Debuts Sleep Apnea Alerts and Hearing Test Features in India",
+      "url": "https://www.macrumors.com/2026/05/21/apple-watch-sleep-apnea-alerts-india/",
+      "pubDate": "2026-05-21T12:05:32.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "OLED MacBook Pro screens on-track amid talk of delayed launch",
+      "url": "https://9to5mac.com/2026/05/21/oled-macbook-pro-screens-on-track-amid-talk-of-delayed-launch/",
+      "pubDate": "2026-05-21T11:44:22.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "AI music labels & spam prevention in Apple Music aim to keep things 'fair'",
+      "url": "https://appleinsider.com/articles/26/05/20/audio-that-relies-too-heavily-on-ai-generated-sound-wont-be-on-apple-music?utm_source=rss",
+      "pubDate": "2026-05-21T11:40:46.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone 19 Pro Prototype in Testing Allegedly Has Quad-Curved Display",
+      "url": "https://www.macrumors.com/2026/05/21/iphone-19-pro-prototype-quad-curved-display/",
+      "pubDate": "2026-05-21T11:32:15.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "OLED MacBook Pro screens on schedule after manufacturing difficulties",
+      "url": "https://appleinsider.com/articles/26/05/21/oled-macbook-pro-screens-on-schedule-after-manufacturing-difficulties?utm_source=rss",
+      "pubDate": "2026-05-21T11:31:56.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "AT&T announces new $15/month ‘Build-a-Plan’ wireless plan",
+      "url": "https://9to5mac.com/2026/05/21/att-announces-new-15-month-build-a-plan-wireless-plan/",
+      "pubDate": "2026-05-21T11:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
       "title": "‘Fuck you, Bambu’: How one private message could change the face of 3D printing",
       "url": "https://www.theverge.com/tech/931532/bambu-agpl-pawel-jarczak-open-source-threat-dmca-github",
       "pubDate": "2026-05-21T10:00:00.000Z"
@@ -47,7 +145,7 @@
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
-      "title": "In SpaceX’s IPO, Elon Musk is a risk factor",
+      "title": "In SpaceX’s IPO, Elon Musk is the risk factor",
       "url": "https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor",
       "pubDate": "2026-05-21T03:42:45.000Z"
     },
@@ -129,20 +227,6 @@
       "pubDate": "2026-05-20T20:36:32.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Audio that relies too heavily on AI-generated sound won't be on Apple Music",
-      "url": "https://appleinsider.com/articles/26/05/20/audio-that-relies-too-heavily-on-ai-generated-sound-wont-be-on-apple-music?utm_source=rss",
-      "pubDate": "2026-05-20T20:12:13.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Here are 42 of our favorite deals from REI’s massive Anniversary Sale",
-      "url": "https://www.theverge.com/gadgets/931274/rei-anniversary-sale-2026",
-      "pubDate": "2026-05-20T20:00:00.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Kansas City Public Schools to replace 30,000 Windows PCs and Chromebooks with Apple devices",
@@ -150,25 +234,11 @@
       "pubDate": "2026-05-20T19:55:31.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Hovercraft is a new Mac app that makes video call presentations feel more personal",
-      "url": "https://9to5mac.com/2026/05/20/hovercraft-is-a-new-mac-app-that-makes-video-call-presentations-feel-more-personal/",
-      "pubDate": "2026-05-20T19:31:38.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iOS 27's New AI Voice Control Feature Hints at Major Siri Upgrade Coming Soon",
       "url": "https://www.macrumors.com/2026/05/20/ios-27-ai-voice-control-hints-at-siri-revamp/",
       "pubDate": "2026-05-20T19:20:58.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Music shares what it is doing to ‘keep music fair’ in an AI world",
-      "url": "https://9to5mac.com/2026/05/20/apple-music-shares-what-it-is-doing-to-keep-music-fair-in-an-ai-world/",
-      "pubDate": "2026-05-20T18:54:44.000Z"
     },
     {
       "source": "AppleInsider",
@@ -183,55 +253,6 @@
       "title": "(Podcast) Clockwise 657: Time to Check the Rhonda-grams!",
       "url": "https://sixcolors.com/podcast/2026/05/clockwise-657-time-to-check-the-rhonda-grams/",
       "pubDate": "2026-05-20T18:25:53.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "I’ve tested the latest Switch 2 controllers, and this one is the best",
-      "url": "https://www.theverge.com/tech/791574/best-switch-2-controllers",
-      "pubDate": "2026-05-20T18:14:38.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Anthropic and OpenAI take their beef to the midterm elections",
-      "url": "https://www.theverge.com/column/934684/anthropic-openai-super-pac-beef-alex-bores",
-      "pubDate": "2026-05-20T17:50:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 26.5 won’t let users downgrade to prior update any longer",
-      "url": "https://9to5mac.com/2026/05/20/ios-26-5-wont-let-users-downgrade-to-prior-update-any-longer/",
-      "pubDate": "2026-05-20T17:49:28.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Vibe coding is coming to your phone",
-      "url": "https://www.theverge.com/tech/934628/google-io-2026-android-ai-studio-widgets-shortcuts",
-      "pubDate": "2026-05-20T17:40:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Volvo is trying to put its EV stumbles in the rearview",
-      "url": "https://www.theverge.com/transportation/932805/volvo-ex60-ceo-interview-ev-strategy",
-      "pubDate": "2026-05-20T17:30:56.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "MacBook Ultra could be very good news for MacBook Pro users",
-      "url": "https://9to5mac.com/2026/05/20/macbook-ultra-could-be-very-good-news-for-macbook-pro-users/",
-      "pubDate": "2026-05-20T17:22:22.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Airbnb upgrades iOS and Android app with three key enhancements for your next trip",
-      "url": "https://9to5mac.com/2026/05/20/airbnb-upgrades-ios-and-android-app-with-three-key-enhancements-for-your-next-trip/",
-      "pubDate": "2026-05-20T17:00:00.000Z"
     },
     {
       "source": "MacRumors",
@@ -337,27 +358,6 @@
       "title": "Apple Sports expands, readies for World Cup ↦",
       "url": "https://sixcolors.com/link/2026/05/apple-sports-expands-readies-for-world-cup/",
       "pubDate": "2026-05-20T05:01:55.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Plex Tripling Lifetime Plex Pass Price to $750 in July",
-      "url": "https://www.macrumors.com/2026/05/19/lifetime-plex-pass-price-increase/",
-      "pubDate": "2026-05-19T22:53:39.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Nintendo announces 'Pictonico!', a collection of minigames powered by your photos",
-      "url": "https://appleinsider.com/articles/26/05/19/nintendo-announces-pictonico-a-collection-of-minigames-powered-by-your-photos?utm_source=rss",
-      "pubDate": "2026-05-19T22:31:13.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Google's First AI Smart Glasses Launching This Fall With iPhone Support",
-      "url": "https://www.macrumors.com/2026/05/19/google-ai-smart-glasses-iphone-support/",
-      "pubDate": "2026-05-19T21:34:12.000Z"
     },
     {
       "source": "Six Colors",
