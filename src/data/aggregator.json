@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-21T05:20:04.030Z",
+  "generatedAt": "2026-05-21T10:03:56.816Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "‘Fuck you, Bambu’: How one private message could change the face of 3D printing",
+      "url": "https://www.theverge.com/tech/931532/bambu-agpl-pawel-jarczak-open-source-threat-dmca-github",
+      "pubDate": "2026-05-21T10:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Meta lays off thousands of employees to offset AI investments",
+      "url": "https://www.theverge.com/tech/935163/meta-layoffs-ai-investment-offset-memo",
+      "pubDate": "2026-05-21T09:20:46.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "MacBook Pro OLED Display Production Clears Key Hurdle",
+      "url": "https://www.macrumors.com/2026/05/21/macbook-pro-oled-display-production/",
+      "pubDate": "2026-05-21T08:41:27.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -220,20 +241,6 @@
       "pubDate": "2026-05-20T16:46:34.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "You can now remix other people’s YouTube Shorts with AI",
-      "url": "https://www.theverge.com/tech/934704/google-gemini-omni-youtub-shorts-remix-ai",
-      "pubDate": "2026-05-20T16:41:40.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Samsung has a tentative deal with workers to avoid a memory chip strike",
-      "url": "https://www.theverge.com/tech/934432/samsung-electronics-strike-memory-chip-supply",
-      "pubDate": "2026-05-20T16:35:25.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Latest Apple Immersive rollout exemplifies Apple Vision Pro's entire problem",
@@ -358,13 +365,6 @@
       "title": "Take Control live course helps you conquer Big Tech ↦",
       "url": "https://sixcolors.com/link/2026/05/take-control-live-course-helps-you-conquer-big-tech/",
       "pubDate": "2026-05-19T21:10:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Taps Virtual Avatar Firm Animato's Expertise and Intellectual Property",
-      "url": "https://www.macrumors.com/2026/05/19/apple-acquires-animato/",
-      "pubDate": "2026-05-19T21:02:18.000Z"
     },
     {
       "source": "Six Colors",
