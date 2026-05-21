@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-21T00:18:50.372Z",
+  "generatedAt": "2026-05-21T05:20:04.030Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "In SpaceX’s IPO, Elon Musk is a risk factor",
+      "url": "https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor",
+      "pubDate": "2026-05-21T03:42:45.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "ACSI: Samsung edges out Apple in cell phone satisfaction, while Apple Watch ties at the top",
+      "url": "https://9to5mac.com/2026/05/20/acsi-samsung-edges-out-apple-in-cell-phone-satisfaction-while-apple-watch-ties-at-the-top/",
+      "pubDate": "2026-05-21T00:51:15.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Adobe Photoshop update brings on-device AI processing, but there is a catch",
+      "url": "https://9to5mac.com/2026/05/20/adobe-photoshop-update-brings-on-device-ai-processing-but-there-is-a-catch/",
+      "pubDate": "2026-05-21T00:31:03.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "SteelSeries Arctis Nova 7X Gen 2 review: The Mac gaming headset to beat",
+      "url": "https://appleinsider.com/articles/26/05/21/steelseries-arctis-nova-7x-gen-2-review-the-mac-gaming-headset-to-beat?utm_source=rss",
+      "pubDate": "2026-05-21T00:23:18.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -206,13 +234,6 @@
       "pubDate": "2026-05-20T16:35:25.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Xbox hires game industry analyst Matthew Ball to lead strategy",
-      "url": "https://www.theverge.com/report/934687/xbox-matthew-ball-strategy-officer-hire",
-      "pubDate": "2026-05-20T16:03:21.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Latest Apple Immersive rollout exemplifies Apple Vision Pro's entire problem",
@@ -234,13 +255,6 @@
       "pubDate": "2026-05-20T15:33:54.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: M3 iPad Air $400 off, 1TB M5 iPad Pro all-time low, 24GB M5 MacBook Pro $1,499, Apple Watch Ultra 3, more",
-      "url": "https://9to5mac.com/2026/05/20/deals-ipad-air-ipad-pro-macbook-pro-apple-watch-ultra-3/",
-      "pubDate": "2026-05-20T15:31:27.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple TV went from industry skepticism to Cannes Lions recognition under Eddy Cue",
@@ -253,13 +267,6 @@
       "title": "Google I/O 2026 had nothing to say and said it badly ahead of Apple's WWDC",
       "url": "https://appleinsider.com/articles/26/05/20/google-io-2026-had-nothing-to-say-and-said-it-badly-ahead-of-apples-wwdc?utm_source=rss",
       "pubDate": "2026-05-20T15:10:21.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple’s three goals for iOS 27 sound like a big win for users",
-      "url": "https://9to5mac.com/2026/05/20/apples-three-goals-for-ios-27-sound-like-a-big-win-for-users/",
-      "pubDate": "2026-05-20T14:49:32.000Z"
     },
     {
       "source": "MacRumors",
@@ -360,18 +367,11 @@
       "pubDate": "2026-05-19T21:02:18.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Vibe Coding: Where it works and why doing it on an iPhone is a problem",
-      "url": "https://appleinsider.com/articles/26/05/19/vibe-coding-where-it-works-and-why-doing-it-on-an-iphone-is-a-problem?utm_source=rss",
-      "pubDate": "2026-05-19T19:30:45.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Peanuts classics, returning series, and a new Snoopy film are all coming to Apple TV",
-      "url": "https://appleinsider.com/articles/26/05/19/peanuts-classics-returning-series-and-a-new-snoopy-film-are-all-coming-to-apple-tv?utm_source=rss",
-      "pubDate": "2026-05-19T18:24:11.000Z"
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "New Apple accessibility updates focus on Apple Intelligence",
+      "url": "https://sixcolors.com/post/2026/05/new-apple-accessibility-updates-focus-on-apple-intelligence/",
+      "pubDate": "2026-05-19T12:00:00.000Z"
     }
   ]
 }
