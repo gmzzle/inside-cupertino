@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-21T19:18:19.322Z",
+  "generatedAt": "2026-05-21T21:49:53.357Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,76 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple seeks Supreme Court review of contempt finding and injunction scope in Epic Games case",
+      "url": "https://9to5mac.com/2026/05/21/apple-seeks-supreme-court-review-of-contempt-finding-and-injunction-scope-in-epic-games-case/",
+      "pubDate": "2026-05-21T21:35:14.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "BBEdit 16 offers speed boosts and Shortcuts and Emoji upgrades",
+      "url": "https://sixcolors.com/post/2026/05/bbedit-16-offers-speed-boosts-and-shortcuts-and-emoji-upgrades/",
+      "pubDate": "2026-05-21T21:20:08.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Report: Apple sees Latin America iPhone shipments surge 31%, led by Mexico",
+      "url": "https://9to5mac.com/2026/05/21/report-apple-sees-latin-america-iphone-shipments-surge-31-led-by-mexico/",
+      "pubDate": "2026-05-21T20:26:17.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iPhone Crash Detection saved the day after driver's 330ft mountain drop",
+      "url": "https://appleinsider.com/articles/26/05/21/iphone-crash-detection-saved-the-day-after-drivers-330ft-mountain-drop?utm_source=rss",
+      "pubDate": "2026-05-21T20:15:42.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "All of the updates from Elon Musk and Sam Altman’s battle over OpenAI",
+      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "pubDate": "2026-05-21T20:15:18.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Firefox is working on a rounded redesign with easy-to-find controls for privacy and AI",
+      "url": "https://www.theverge.com/tech/935631/firefox-project-nova-redesign",
+      "pubDate": "2026-05-21T20:05:09.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "In desperate times, graduates find hope in humiliating tech CEOs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/935602/graduates-boo-ai-ceos",
+      "pubDate": "2026-05-21T20:00:06.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Who gets to own the Luigi Mangione story?",
+      "url": "https://www.theverge.com/news/935598/luigi-mangione-new-york-case-press-credentials-supporters",
+      "pubDate": "2026-05-21T19:51:22.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 could drop support for four iPhone models",
+      "url": "https://9to5mac.com/2026/05/21/ios-27-will-drop-support-for-four-iphone-models-says-leaker/",
+      "pubDate": "2026-05-21T19:49:20.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Philips’ new display has a screen on both sides",
+      "url": "https://www.theverge.com/tech/935477/philips-business-monitor-dual-sided-lcd-display-24b2d5300",
+      "pubDate": "2026-05-21T19:36:00.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -75,7 +145,7 @@
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
-      "title": "The Endless AI guitar pedal has potential",
+      "title": "This AI guitar pedal let me roll my own effects",
       "url": "https://www.theverge.com/ai-artificial-intelligence/935219/polyend-endless-ai-guitar-effects-pedal",
       "pubDate": "2026-05-21T17:00:00.000Z"
     },
@@ -85,13 +155,6 @@
       "title": "Uber is deploying its own self-driving cars again, just not as robotaxis",
       "url": "https://www.theverge.com/news/935204/uber-av-lab-self-driving-data-collection",
       "pubDate": "2026-05-21T16:59:45.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "This mechanical bird drops dead when your home’s air quality worsens",
-      "url": "https://www.theverge.com/tech/935292/birdie-pro-smart-air-monitor-kickstarter-crowdfunding",
-      "pubDate": "2026-05-21T16:57:35.000Z"
     },
     {
       "source": "9to5Mac",
@@ -108,39 +171,11 @@
       "pubDate": "2026-05-21T16:20:34.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The cost of the smart home is going up",
-      "url": "https://www.theverge.com/tech/935298/smart-home-cost-increase-ai-subscription-fatigue",
-      "pubDate": "2026-05-21T16:15:00.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Spotify to offer AI tool that will let subscribers remix songs and cover music",
       "url": "https://9to5mac.com/2026/05/21/spotify-building-ai-powered-tool-that-will-let-subscribers-make-music-covers-and-remixes/",
       "pubDate": "2026-05-21T16:05:21.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Meta and Google get data from the app your boss uses to track you",
-      "url": "https://www.theverge.com/policy/935299/bossware-employer-surveillance",
-      "pubDate": "2026-05-21T16:03:05.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "GitHub faces a fight for its survival at Microsoft",
-      "url": "https://www.theverge.com/tech/935250/microsoft-github-struggles-notepad",
-      "pubDate": "2026-05-21T16:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Spotify is launching AI-generated remixes",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/935379/spotify-umg-ai-covers-remix",
-      "pubDate": "2026-05-21T15:54:03.000Z"
     },
     {
       "source": "9to5Mac",
@@ -171,20 +206,6 @@
       "pubDate": "2026-05-21T15:10:06.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPhone Crash Detection saved the day after driver's 330ft mountain drop",
-      "url": "https://appleinsider.com/articles/26/05/21/iphone-crash-detection-saved-the-day-after-drivers-330ft-mountain-drop?utm_source=rss",
-      "pubDate": "2026-05-21T14:57:28.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Watch and AirPods health features get major new global expansions",
-      "url": "https://9to5mac.com/2026/05/21/apple-watch-and-airpods-health-features-get-major-new-global-expansions/",
-      "pubDate": "2026-05-21T14:52:41.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iPhone 17 Pro Will Make Sports History This Weekend",
@@ -204,20 +225,6 @@
       "title": "iPhone 17 Pro will shoot Apple's Major League Soccer coverage live",
       "url": "https://appleinsider.com/articles/26/05/21/iphone-17-pro-will-shoot-apples-major-league-soccer-coverage-live?utm_source=rss",
       "pubDate": "2026-05-21T14:24:53.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple TV to air first major live sporting event shot entirely on iPhone 17 Pro",
-      "url": "https://9to5mac.com/2026/05/21/apple-tv-to-air-major-live-sporting-event-shot-entirely-on-iphone-17-pro/",
-      "pubDate": "2026-05-21T14:22:13.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Security Bite: Tired of app tracking pop-ups? Here’s how to auto-deny them",
-      "url": "https://9to5mac.com/2026/05/21/security-bite-tired-of-app-tracking-pop-ups-heres-how-to-auto-deny-them/",
-      "pubDate": "2026-05-21T14:11:48.000Z"
     },
     {
       "source": "AppleInsider",
@@ -365,13 +372,6 @@
       "title": "Apple's Eddy Cue to Receive 'Entertainment Person of the Year' Award",
       "url": "https://www.macrumors.com/2026/05/20/eddy-cue-entertainment-person-of-the-year/",
       "pubDate": "2026-05-20T13:57:50.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Amazon Takes $150 Off Every 15-Inch M5 MacBook Air",
-      "url": "https://www.macrumors.com/2026/05/20/150-off-m5-macbook-air/",
-      "pubDate": "2026-05-20T13:38:56.000Z"
     }
   ]
 }
