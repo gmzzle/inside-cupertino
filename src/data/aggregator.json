@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-21T21:49:53.357Z",
+  "generatedAt": "2026-05-21T23:20:23.434Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,9 +24,86 @@
   ],
   "items": [
     {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Releases Safari Technology Preview 244 With Bug Fixes and Performance Improvements",
+      "url": "https://www.macrumors.com/2026/05/21/apple-releases-safari-technology-preview-244/",
+      "pubDate": "2026-05-21T23:08:01.000Z"
+    },
+    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple seeks Supreme Court review of contempt finding and injunction scope in Epic Games case",
+      "title": "9to5Mac Daily: May 21, 2026 – iPhone Ultra leaks, more",
+      "url": "https://9to5mac.com/2026/05/21/daily-may-21-2026/",
+      "pubDate": "2026-05-21T23:06:18.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Birdfy Review: Smart Bird Feeders and Bird Bath Put to the Test",
+      "url": "https://www.macrumors.com/review/birdy-feeders-and-bird-bath/",
+      "pubDate": "2026-05-21T23:04:15.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Anker’s new earbuds are the first with its AI chip that boosts noise reduction",
+      "url": "https://www.theverge.com/tech/934621/anker-liberty-5-pro-max-wireless-headphones-earbuds-ai-thus-chip",
+      "pubDate": "2026-05-21T23:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Anker’s new earbuds have the best call quality I’ve ever heard",
+      "url": "https://www.theverge.com/tech/935766/soundcore-liberty-5-pro-series-earbuds-review",
+      "pubDate": "2026-05-21T23:00:00.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Apple takes soccer immersive with Real Madrid",
+      "url": "https://sixcolors.com/post/2026/05/apple-takes-soccer-immersive-with-real-madrid/",
+      "pubDate": "2026-05-21T22:30:07.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple to update App Store age ratings in Australia and Vietnam next month",
+      "url": "https://9to5mac.com/2026/05/21/apple-to-update-app-store-age-ratings-in-australia-and-vietnam-next-month/",
+      "pubDate": "2026-05-21T22:29:22.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "States ask judge to break up Live Nation-Ticketmaster",
+      "url": "https://www.theverge.com/policy/935735/live-nation-ticketmaster-states-remedies-request-break-up",
+      "pubDate": "2026-05-21T22:27:03.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Review: SwitchBot Wallet Finder is an incredibly useful accessory to track your wallet with iPhone Find My",
+      "url": "https://9to5mac.com/2026/05/21/review-switchbot-wallet-finder-is-an-incredibly-useful-accessory-to-track-your-wallet-with-iphone-find-my/",
+      "pubDate": "2026-05-21T22:02:11.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Asks Supreme Court to Review App Store Contempt Ruling",
+      "url": "https://www.macrumors.com/2026/05/21/apple-supreme-court-epic-games-case/",
+      "pubDate": "2026-05-21T21:58:21.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's latest appeal to the Supreme Court challenges two issues in Epic case",
+      "url": "https://appleinsider.com/articles/26/05/21/after-failed-delays-apple-files-formal-request-with-supreme-court-to-review-epic-case?utm_source=rss",
+      "pubDate": "2026-05-21T21:56:46.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple seeks Supreme Court review of contempt finding and injunction scope in Epic Games case [U]",
       "url": "https://9to5mac.com/2026/05/21/apple-seeks-supreme-court-review-of-contempt-finding-and-injunction-scope-in-epic-games-case/",
       "pubDate": "2026-05-21T21:35:14.000Z"
     },
@@ -136,27 +213,6 @@
       "pubDate": "2026-05-21T17:30:43.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Sonos’s pint-sized Roam 2 speaker is 25 percent off for Memorial Day",
-      "url": "https://www.theverge.com/gadgets/935452/sonos-roam-2-bluetooth-speaker-memorial-day-2026-deal-sale",
-      "pubDate": "2026-05-21T17:27:16.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "This AI guitar pedal let me roll my own effects",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/935219/polyend-endless-ai-guitar-effects-pedal",
-      "pubDate": "2026-05-21T17:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Uber is deploying its own self-driving cars again, just not as robotaxis",
-      "url": "https://www.theverge.com/news/935204/uber-av-lab-self-driving-data-collection",
-      "pubDate": "2026-05-21T16:59:45.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "BBEdit 16 out now with in-image text search, deeper Shortcuts integration, notebook filtering, more",
@@ -178,32 +234,11 @@
       "pubDate": "2026-05-21T16:05:21.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: M5 MacBook Air $199 off Amazon low, M3 iPad Air $400 off, iPhone 17 Pro Max, accessories, more",
-      "url": "https://9to5mac.com/2026/05/21/deals-m5-macbook-air-m3-ipad-air-iphone-17-pro-max/",
-      "pubDate": "2026-05-21T15:34:44.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Perplexity’s Comet AI browser for iOS upgraded with 8 major improvements",
-      "url": "https://9to5mac.com/2026/05/21/perplexitys-comet-ai-browser-for-ios-upgraded-with-8-major-improvements/",
-      "pubDate": "2026-05-21T15:32:44.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple's M5 15-inch MacBook Air drops to record low $1,099 at Amazon",
       "url": "https://appleinsider.com/articles/26/05/21/apples-m5-15-inch-macbook-air-drops-to-record-low-1099-at-amazon?utm_source=rss",
       "pubDate": "2026-05-21T15:27:10.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "OpenAI improves Codex iOS experience with turn completion alerts, new commands, more",
-      "url": "https://9to5mac.com/2026/05/21/openai-improves-codex-ios-experience-with-turn-completion-alerts-new-commands-more/",
-      "pubDate": "2026-05-21T15:10:06.000Z"
     },
     {
       "source": "MacRumors",
@@ -337,41 +372,6 @@
       "title": "Samsung Overtakes Apple for Top Smartphone Customer Satisfaction",
       "url": "https://www.macrumors.com/2026/05/20/samsung-overtakes-apple-for-customer-satisfaction/",
       "pubDate": "2026-05-20T15:45:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Provides Update on App Store, Highlights Key 2025 Safety Stats",
-      "url": "https://www.macrumors.com/2026/05/20/apple-shares-app-store-safety-stats/",
-      "pubDate": "2026-05-20T15:33:54.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple TV went from industry skepticism to Cannes Lions recognition under Eddy Cue",
-      "url": "https://appleinsider.com/articles/26/05/20/apple-tv-went-from-industry-skepticism-to-cannes-lions-recognition-under-eddy-cue?utm_source=rss",
-      "pubDate": "2026-05-20T15:13:35.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Ugreen Debuts Pocket-Sized Chargers for Your Apple Devices",
-      "url": "https://www.macrumors.com/2026/05/20/ugreen-65w-charger-macbook-air/",
-      "pubDate": "2026-05-20T14:42:57.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) The Rebound 599: It Was Title Bait",
-      "url": "https://sixcolors.com/podcast/2026/05/the-rebound-599-it-was-title-bait/",
-      "pubDate": "2026-05-20T14:00:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple's Eddy Cue to Receive 'Entertainment Person of the Year' Award",
-      "url": "https://www.macrumors.com/2026/05/20/eddy-cue-entertainment-person-of-the-year/",
-      "pubDate": "2026-05-20T13:57:50.000Z"
     }
   ]
 }
