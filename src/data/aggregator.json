@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T20:11:50.157Z",
+  "generatedAt": "2026-05-22T21:40:22.469Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,41 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "HomeKit Weekly: Why the Aqara G5 Pro remains one of the best outdoor HomeKit cameras",
+      "url": "https://9to5mac.com/2026/05/22/why-the-aqara-g5-pro-remains-one-of-the-best-outdoor-homekit-camera-in-2026/",
+      "pubDate": "2026-05-22T21:31:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple shares iPhone and Mac post-quantum cryptography code on GitHub",
+      "url": "https://9to5mac.com/2026/05/22/apple-shares-iphone-and-mac-post-quantum-cryptography-code-on-github/",
+      "pubDate": "2026-05-22T20:47:17.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Google&#8217;s AI search is so broken it can &#8216;disregard&#8217; what you&#8217;re looking for",
+      "url": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
+      "pubDate": "2026-05-22T20:39:54.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iPhone 18 color 'leak' from fake account appears to be camera protector, not component",
+      "url": "https://appleinsider.com/articles/26/05/22/iphone-18-color-leak-from-fake-account-appears-to-be-camera-protector-not-component?utm_source=rss",
+      "pubDate": "2026-05-22T20:28:48.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Google Appeals Antitrust Ruling, Says Apple Chose Its Search Engine 'Fair and Square'",
+      "url": "https://www.macrumors.com/2026/05/22/google-search-monopoly-appeal/",
+      "pubDate": "2026-05-22T20:18:26.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -164,13 +199,6 @@
       "pubDate": "2026-05-22T16:05:41.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Google&#8217;s AI search is so broken it can &#8216;disregard&#8217; what you&#8217;re looking for",
-      "url": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
-      "pubDate": "2026-05-22T16:01:17.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "How to watch the F1 Canadian Grand Prix",
@@ -227,25 +255,11 @@
       "pubDate": "2026-05-22T14:23:39.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 26.5 added new features to three popular iPhone apps",
-      "url": "https://9to5mac.com/2026/05/22/ios-26-5-added-new-features-to-three-popular-iphone-apps/",
-      "pubDate": "2026-05-22T14:19:06.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Best Apple Deals of the Week: Memorial Day Deals Arrive at Best Buy, Plus Lowest Price Yet on 15-Inch M5 MacBook Air",
       "url": "https://www.macrumors.com/2026/05/22/best-apple-deals-of-the-week-5-22-26/",
       "pubDate": "2026-05-22T13:56:05.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Intelligence 2.0 promises many new features I’m very excited for",
-      "url": "https://9to5mac.com/2026/05/22/apple-intelligence-2-0-promises-many-new-features-im-very-excited-for/",
-      "pubDate": "2026-05-22T13:49:28.000Z"
     },
     {
       "source": "MacRumors",
@@ -297,13 +311,6 @@
       "pubDate": "2026-05-22T12:01:05.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "OpenAI's Codex Can Now Use Your Mac Even When It's Locked",
-      "url": "https://www.macrumors.com/2026/05/22/codex-use-mac-apps-when-locked/",
-      "pubDate": "2026-05-22T11:28:18.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "How to use NameDrop to exchange iPhone contacts in seconds",
@@ -351,13 +358,6 @@
       "title": "Apple's M5 15-inch MacBook Air drops to record low $1,099 at Amazon",
       "url": "https://appleinsider.com/articles/26/05/21/apples-m5-15-inch-macbook-air-drops-to-record-low-1099-at-amazon?utm_source=rss",
       "pubDate": "2026-05-21T15:27:10.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPhone 17 Pro will shoot Apple's Major League Soccer coverage live",
-      "url": "https://appleinsider.com/articles/26/05/21/iphone-17-pro-will-shoot-apples-major-league-soccer-coverage-live?utm_source=rss",
-      "pubDate": "2026-05-21T14:24:53.000Z"
     },
     {
       "source": "Six Colors",
