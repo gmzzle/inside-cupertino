@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T18:05:40.506Z",
+  "generatedAt": "2026-05-22T20:11:50.157Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Aqara Camera Hub G350 Review: 4K Recording, Dual Lenses, Pan-and-Tilt Tracking, and AI Subject Detection",
+      "url": "https://www.macrumors.com/review/aqara-camera-hub-g350/",
+      "pubDate": "2026-05-22T20:07:51.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple TV’s hit comedy lineup keeps growing, with big new series coming",
+      "url": "https://9to5mac.com/2026/05/22/apple-tvs-hit-comedy-lineup-keeps-growing-with-big-new-series-coming/",
+      "pubDate": "2026-05-22T20:06:45.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's AI spend remains flat as OpenAI loses $1.25 for every $1",
+      "url": "https://appleinsider.com/articles/26/05/22/apples-ai-spend-remains-flat-as-openai-loses-125-for-every-1?utm_source=rss",
+      "pubDate": "2026-05-22T19:08:06.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "AirPods with cameras suddenly make a lot more sense after this new reveal",
+      "url": "https://9to5mac.com/2026/05/22/airpods-with-cameras-suddenly-make-a-lot-more-sense-after-this-new-reveal/",
+      "pubDate": "2026-05-22T18:10:55.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -234,20 +262,6 @@
       "pubDate": "2026-05-22T13:26:45.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Meta has released two new apps for iPhone this month",
-      "url": "https://9to5mac.com/2026/05/22/meta-has-released-two-new-apps-for-iphone-this-month/",
-      "pubDate": "2026-05-22T13:08:49.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Overtime 068: You were right to push back on that",
-      "url": "https://9to5mac.com/2026/05/22/9to5mac-overtime-068-you-were-right-to-push-back-on-that/",
-      "pubDate": "2026-05-22T13:00:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "The last macOS Tahoe review -- neither terrible nor great",
@@ -288,13 +302,6 @@
       "title": "OpenAI's Codex Can Now Use Your Mac Even When It's Locked",
       "url": "https://www.macrumors.com/2026/05/22/codex-use-mac-apps-when-locked/",
       "pubDate": "2026-05-22T11:28:18.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Sonos App Currently Unavailable on iOS and Mac App Stores [Updated]",
-      "url": "https://www.macrumors.com/2026/05/22/sonos-app-vanishes-app-store/",
-      "pubDate": "2026-05-22T10:16:41.000Z"
     },
     {
       "source": "AppleInsider",
@@ -351,13 +358,6 @@
       "title": "iPhone 17 Pro will shoot Apple's Major League Soccer coverage live",
       "url": "https://appleinsider.com/articles/26/05/21/iphone-17-pro-will-shoot-apples-major-league-soccer-coverage-live?utm_source=rss",
       "pubDate": "2026-05-21T14:24:53.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Rumor: 2027 iPhone production testing underway with quad-curved OLED display",
-      "url": "https://appleinsider.com/articles/26/05/21/rumor-2027-iphone-production-testing-underway-with-quad-curved-oled-display?utm_source=rss",
-      "pubDate": "2026-05-21T13:57:46.000Z"
     },
     {
       "source": "Six Colors",
