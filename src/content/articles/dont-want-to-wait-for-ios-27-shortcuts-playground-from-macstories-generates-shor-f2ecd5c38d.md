@@ -2,7 +2,7 @@
 title: "MacStories Just Built the iOS 27 Shortcuts Feature Apple Hasn't Released Yet"
 description: "Federico Viticci turned Claude into a Shortcuts factory while Apple's still planning their natural-language version for next year."
 pubDate: 2026-05-22T00:56:57.555Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - shortcuts
