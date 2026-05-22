@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T08:32:41.914Z",
+  "generatedAt": "2026-05-22T12:01:18.495Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,41 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "OpenAI's Codex Can Now Use Your Mac Even When It's Locked",
+      "url": "https://www.macrumors.com/2026/05/22/codex-use-mac-apps-when-locked/",
+      "pubDate": "2026-05-22T11:28:18.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Samsung&#8217;s memory chip employees negotiated $340,000 bonuses this year",
+      "url": "https://www.theverge.com/tech/936002/samsung-memory-chip-employees-deal-strike-bonus",
+      "pubDate": "2026-05-22T11:05:25.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Microsoft’s consumer marketing chief to leave next year",
+      "url": "https://www.theverge.com/news/935982/microsoft-yusuf-mehdi-leaving",
+      "pubDate": "2026-05-22T10:57:07.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Sonos App Currently Unavailable on iOS and Mac App Stores",
+      "url": "https://www.macrumors.com/2026/05/22/sonos-app-vanishes-app-store/",
+      "pubDate": "2026-05-22T10:16:41.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Microsoft is letting Office users remove an annoying Copilot button",
+      "url": "https://www.theverge.com/news/935967/microsoft-copilot-floating-button-office-excel-apps-removal",
+      "pubDate": "2026-05-22T09:52:19.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -178,13 +213,6 @@
       "pubDate": "2026-05-21T19:49:20.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Philips’ new display has a screen on both sides",
-      "url": "https://www.theverge.com/tech/935477/philips-business-monitor-dual-sided-lcd-display-24b2d5300",
-      "pubDate": "2026-05-21T19:36:00.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Codex for Mac updated with new Appshots feature that instantly gives chat context",
@@ -192,25 +220,11 @@
       "pubDate": "2026-05-21T18:57:07.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "One of Meta’s big legal reckonings just ended in a settlement",
-      "url": "https://www.theverge.com/policy/935552/meta-youtube-tiktok-snap-school-district-settlement",
-      "pubDate": "2026-05-21T18:54:22.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Silo season 3’s significant character change revealed in new teaser",
       "url": "https://9to5mac.com/2026/05/21/silo-season-3s-significant-character-change-revealed-in-new-teaser/",
       "pubDate": "2026-05-21T18:27:22.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Bungie gives up on Destiny",
-      "url": "https://www.theverge.com/games/935536/bungie-destiny-2-final-update-date",
-      "pubDate": "2026-05-21T17:48:34.000Z"
     },
     {
       "source": "9to5Mac",
@@ -358,20 +372,6 @@
       "title": "(Podcast) Clockwise 657: Time to Check the Rhonda-grams!",
       "url": "https://sixcolors.com/podcast/2026/05/clockwise-657-time-to-check-the-rhonda-grams/",
       "pubDate": "2026-05-20T18:25:53.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Says iOS 27 Can Automatically Add Captions to Your Personal iPhone Videos",
-      "url": "https://www.macrumors.com/2026/05/20/ios-27-automatic-captions-for-personal-videos/",
-      "pubDate": "2026-05-20T16:46:34.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Samsung Overtakes Apple for Top Smartphone Customer Satisfaction",
-      "url": "https://www.macrumors.com/2026/05/20/samsung-overtakes-apple-for-customer-satisfaction/",
-      "pubDate": "2026-05-20T15:45:00.000Z"
     }
   ]
 }
