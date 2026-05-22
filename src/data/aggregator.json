@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T21:40:22.469Z",
+  "generatedAt": "2026-05-22T23:33:01.773Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "New Apple or Beats Over-Ear Headphones Appear in FCC Database",
+      "url": "https://www.macrumors.com/2026/05/22/apple-beats-over-ear-headphones-fcc/",
+      "pubDate": "2026-05-22T23:27:29.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Google defends its Safari deal with Apple in antitrust ruling appeal",
+      "url": "https://9to5mac.com/2026/05/22/google-defends-its-safari-deal-with-apple-in-antitrust-ruling-appeal/",
+      "pubDate": "2026-05-22T22:58:33.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Gemini app for Mac adding ‘Spark’ agent and voice control this summer",
+      "url": "https://9to5google.com/2026/05/22/gemini-mac-spark-control-summer/",
+      "pubDate": "2026-05-22T22:27:28.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "WhatsApp is working on a centralized interface showing which contacts are online",
+      "url": "https://9to5mac.com/2026/05/22/whatsapp-is-working-on-a-centralized-interface-showing-which-contacts-are-online/",
+      "pubDate": "2026-05-22T21:43:10.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -96,7 +124,7 @@
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
-      "title": "Searching for 'Disregard' Breaks Google",
+      "title": "Searching for 'Disregard' Breaks Google [Updated]",
       "url": "https://www.macrumors.com/2026/05/22/google-search-disregard/",
       "pubDate": "2026-05-22T17:46:41.000Z"
     },
@@ -213,20 +241,6 @@
       "pubDate": "2026-05-22T16:00:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: AirPods Pro 3 Memorial Day deal back at $199, M5 MacBook Air Amazon low $199 off, iPad Air $400 off, Series 11, more",
-      "url": "https://9to5mac.com/2026/05/22/deals-airpods-pro-3-m5-macbook-air/",
-      "pubDate": "2026-05-22T15:31:08.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple TV’s new Matthew McConaughey comedy series coming this fall",
-      "url": "https://9to5mac.com/2026/05/22/apple-tvs-new-matthew-mcconaughey-comedy-series-coming-this-fall/",
-      "pubDate": "2026-05-22T15:21:55.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "LG’s 77-inch B5 OLED TV is down to $1,500 and comes with a $200 gift card",
@@ -239,13 +253,6 @@
       "title": "The Trump phone is not here",
       "url": "https://www.theverge.com/gadgets/936018/trump-mobile-t1-phone-still-hasnt-shipped",
       "pubDate": "2026-05-22T14:46:20.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "WWDC invites, iOS 27 accessibility features, new Siri will be a ‘beta’",
-      "url": "https://9to5mac.com/2026/05/22/happy-hour-591/",
-      "pubDate": "2026-05-22T14:30:00.000Z"
     },
     {
       "source": "MacRumors",
@@ -302,13 +309,6 @@
       "title": "Accessibility, AI rumors, and Google I/O, on the AppleInsider Podcast",
       "url": "https://appleinsider.com/articles/26/05/22/accessibility-ai-rumors-and-google-io-on-the-appleinsider-podcast?utm_source=rss",
       "pubDate": "2026-05-22T12:08:27.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Meta Quietly Launches 'Forum,' a Standalone Facebook Groups App",
-      "url": "https://www.macrumors.com/2026/05/22/meta-launches-forum-app/",
-      "pubDate": "2026-05-22T12:01:05.000Z"
     },
     {
       "source": "AppleInsider",
