@@ -2,7 +2,7 @@
 title: "Safari Technology Preview 244 Ships With The Usual Grab Bag of Fixes"
 description: "Another week, another Safari preview build. This one's 244, and it's exactly what you'd expect: fixes across the board, no headline features."
 pubDate: 2026-05-22T00:57:12.513Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - safari
