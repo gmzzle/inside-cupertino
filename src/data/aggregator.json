@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-21T23:20:23.434Z",
+  "generatedAt": "2026-05-22T04:39:39.630Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "How to use NameDrop to exchange iPhone contacts in seconds",
+      "url": "https://appleinsider.com/articles/26/05/22/how-to-use-namedrop-to-exchange-iphone-contacts-in-seconds?utm_source=rss",
+      "pubDate": "2026-05-22T03:01:01.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Don't Want to Wait for iOS 27? Shortcuts Playground From MacStories Generates Shortcuts Using AI",
+      "url": "https://www.macrumors.com/2026/05/21/macstories-shortcuts-playground/",
+      "pubDate": "2026-05-21T23:38:55.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -250,13 +264,6 @@
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple server schematics stolen in May 2026 Foxconn cyberattack",
-      "url": "https://appleinsider.com/articles/26/05/20/apple-servers-schematics-stolen-in-may-2026-foxconn-cyberattack-appleinsider-confirms?utm_source=rss",
-      "pubDate": "2026-05-21T14:28:31.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
       "title": "iPhone 17 Pro will shoot Apple's Major League Soccer coverage live",
       "url": "https://appleinsider.com/articles/26/05/21/iphone-17-pro-will-shoot-apples-major-league-soccer-coverage-live?utm_source=rss",
       "pubDate": "2026-05-21T14:24:53.000Z"
@@ -358,13 +365,6 @@
       "title": "Apple Says iOS 27 Can Automatically Add Captions to Your Personal iPhone Videos",
       "url": "https://www.macrumors.com/2026/05/20/ios-27-automatic-captions-for-personal-videos/",
       "pubDate": "2026-05-20T16:46:34.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Latest Apple Immersive rollout exemplifies Apple Vision Pro's entire problem",
-      "url": "https://appleinsider.com/articles/26/05/20/latest-apple-immersive-rollout-exemplifies-apple-vision-pros-entire-problem?utm_source=rss",
-      "pubDate": "2026-05-20T15:49:52.000Z"
     },
     {
       "source": "MacRumors",
