@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T22:09:15.382Z",
+  "generatedAt": "2026-05-23T23:12:19.648Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,6 +24,20 @@
   ],
   "items": [
     {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Record Club is trying to be Letterboxd for music nerds",
+      "url": "https://www.theverge.com/entertainment/936829/record-club-letterboxd-for-music-nerds",
+      "pubDate": "2026-05-23T22:41:11.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple registers new ‘gen AI’ subdomain ahead of next month’s WWDC keynote",
+      "url": "https://9to5mac.com/2026/05/23/apple-new-gen-ai-subdomain-ahead-of-wwdc/",
+      "pubDate": "2026-05-23T22:37:17.000Z"
+    },
+    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Preparing New 'Gen AI' Website Ahead of WWDC",
@@ -36,6 +50,13 @@
       "title": "Get a peek at the future of vibe-coded automation ↦",
       "url": "https://sixcolors.com/link/2026/05/get-a-peek-at-the-future-of-vibe-coded-automation/",
       "pubDate": "2026-05-23T20:02:57.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Indie App Spotlight: ‘Poppy’ is a proactive AI assistant that handles what Siri still can’t",
+      "url": "https://9to5mac.com/2026/05/23/indie-app-spotlight-poppy-proactive-ai-assistant-digital-management-organization/",
+      "pubDate": "2026-05-23T19:30:00.000Z"
     },
     {
       "source": "9to5Mac",
@@ -171,13 +192,6 @@
       "pubDate": "2026-05-22T21:31:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple shares iPhone and Mac post-quantum cryptography code on GitHub",
-      "url": "https://9to5mac.com/2026/05/22/apple-shares-iphone-and-mac-post-quantum-cryptography-code-on-github/",
-      "pubDate": "2026-05-22T20:47:17.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Google&#8217;s AI search is so broken it can &#8216;disregard&#8217; what you&#8217;re looking for",
@@ -204,13 +218,6 @@
       "title": "Aqara Camera Hub G350 Review: 4K Recording, Dual Lenses, Pan-and-Tilt Tracking, and AI Subject Detection",
       "url": "https://www.macrumors.com/review/aqara-camera-hub-g350/",
       "pubDate": "2026-05-22T20:07:51.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple TV’s hit comedy lineup keeps growing, with big new series coming",
-      "url": "https://9to5mac.com/2026/05/22/apple-tvs-hit-comedy-lineup-keeps-growing-with-big-new-series-coming/",
-      "pubDate": "2026-05-22T20:06:45.000Z"
     },
     {
       "source": "AppleInsider",
@@ -260,13 +267,6 @@
       "title": "MacRumors Giveaway: Win an iPhone 17 and a Lifetime Copy of VideoProc Converter AI",
       "url": "https://www.macrumors.com/2026/05/22/macrumors-giveaway-iphone-17-digiarty-videoproc/",
       "pubDate": "2026-05-22T17:02:14.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The best Memorial Day sales you can shop this weekend",
-      "url": "https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026",
-      "pubDate": "2026-05-22T16:50:38.000Z"
     },
     {
       "source": "MacRumors",
