@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T17:18:26.617Z",
+  "generatedAt": "2026-05-23T19:39:01.685Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,6 +24,13 @@
   ],
   "items": [
     {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple’s Focus filters are a great feature, but they have a glaring blind spot: group chats",
+      "url": "https://9to5mac.com/2026/05/23/focus-filters-group-chat-support-ios-27-suggestion/",
+      "pubDate": "2026-05-23T19:08:19.000Z"
+    },
+    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "The man behind the legendary MPC, Roger Linn, stays focused with a single browser tab",
@@ -36,6 +43,13 @@
       "title": "Google's $20B Safari search deal with Apple was 'fair and square'",
       "url": "https://appleinsider.com/articles/26/05/23/googles-20b-safari-search-deal-with-apple-was-fair-and-square?utm_source=rss",
       "pubDate": "2026-05-23T14:54:01.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "These premium desk accessories completely upgraded my setup [Video]",
+      "url": "https://9to5mac.com/2026/05/23/these-premium-desk-accessories-completely-upgraded-my-setup-video/",
+      "pubDate": "2026-05-23T14:00:00.000Z"
     },
     {
       "source": "The Verge",
@@ -192,13 +206,6 @@
       "pubDate": "2026-05-22T19:08:06.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "AirPods with cameras suddenly make a lot more sense after this new reveal",
-      "url": "https://9to5mac.com/2026/05/22/airpods-with-cameras-suddenly-make-a-lot-more-sense-after-this-new-reveal/",
-      "pubDate": "2026-05-22T18:10:55.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Twelve South’s AirFly Pro 2 has hit one of its best prices ahead of summer travel",
@@ -232,13 +239,6 @@
       "title": "iPhone 18 clear cases could revert to old MagSafe design for some reason",
       "url": "https://appleinsider.com/articles/26/05/22/iphone-18-clear-cases-could-revert-to-old-magsafe-design-for-some-reason?utm_source=rss",
       "pubDate": "2026-05-22T17:17:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 26.5.1 could launch soon as next iPhone update",
-      "url": "https://9to5mac.com/2026/05/22/ios-26-5-1-could-launch-soon-as-next-iphone-update/",
-      "pubDate": "2026-05-22T17:15:52.000Z"
     },
     {
       "source": "MacRumors",
