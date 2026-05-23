@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T21:09:18.659Z",
+  "generatedAt": "2026-05-23T22:09:15.382Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Preparing New 'Gen AI' Website Ahead of WWDC",
+      "url": "https://www.macrumors.com/2026/05/23/apple-gen-ai-subdomain/",
+      "pubDate": "2026-05-23T21:41:31.000Z"
+    },
     {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
@@ -316,13 +323,6 @@
       "title": "The last macOS Tahoe review -- neither terrible nor great",
       "url": "https://appleinsider.com/articles/26/05/22/the-last-macos-tahoe-review----neither-terrible-nor-great?utm_source=rss",
       "pubDate": "2026-05-22T12:51:39.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Tops Global Smartphone Market for First Time in a Q1",
-      "url": "https://www.macrumors.com/2026/05/22/apple-tops-global-smartphone-market-q1/",
-      "pubDate": "2026-05-22T12:30:33.000Z"
     },
     {
       "source": "AppleInsider",
