@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T23:33:01.773Z",
+  "generatedAt": "2026-05-23T04:08:48.477Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Unannounced Apple headphones revealed in FCC documents",
+      "url": "https://9to5mac.com/2026/05/22/unannounced-apple-headphones-revealed-in-fcc-documents/",
+      "pubDate": "2026-05-23T01:43:09.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -231,13 +238,6 @@
       "sourceHomepage": "https://9to5mac.com",
       "title": "How to watch the F1 Canadian Grand Prix",
       "url": "https://9to5mac.com/2026/05/22/how-to-watch-the-f1-canadian-grand-prix/",
-      "pubDate": "2026-05-22T16:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "How to stop menu bar items being hidden behind the MacBook Pro notch",
-      "url": "https://9to5mac.com/2026/05/22/how-to-stop-menu-bar-items-being-hidden-behind-the-macbook-pro-notch/",
       "pubDate": "2026-05-22T16:00:00.000Z"
     },
     {
