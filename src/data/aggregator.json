@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T17:16:48.279Z",
+  "generatedAt": "2026-05-24T19:41:35.194Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Save $300 on Apple's M5 Pro MacBook Pro with 48GB RAM today only",
+      "url": "https://appleinsider.com/articles/26/05/24/save-300-on-apples-m5-pro-macbook-pro-with-48gb-ram-today-only?utm_source=rss",
+      "pubDate": "2026-05-24T18:58:29.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "watchOS 27 Will Add These New Features to Your Apple Watch",
+      "url": "https://www.macrumors.com/2026/05/24/watchos-27-rumored-features/",
+      "pubDate": "2026-05-24T18:53:47.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -337,20 +351,6 @@
       "title": "The MacRumors Show: WWDC26 Promises Apple Intelligence and Siri Upgrades",
       "url": "https://www.macrumors.com/2026/05/22/the-macrumors-show-wwdc26-promises-siri-upgrades/",
       "pubDate": "2026-05-22T14:23:39.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Best Apple Deals of the Week: Memorial Day Deals Arrive at Best Buy, Plus Lowest Price Yet on 15-Inch M5 MacBook Air",
-      "url": "https://www.macrumors.com/2026/05/22/best-apple-deals-of-the-week-5-22-26/",
-      "pubDate": "2026-05-22T13:56:05.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Employees at Apple's first unionized store to protest closing",
-      "url": "https://appleinsider.com/articles/26/05/22/employees-at-apples-first-unionized-store-to-protest-closing?utm_source=rss",
-      "pubDate": "2026-05-22T13:26:45.000Z"
     },
     {
       "source": "Six Colors",
