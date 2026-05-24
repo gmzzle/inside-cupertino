@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T19:41:35.194Z",
+  "generatedAt": "2026-05-24T21:12:23.473Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Sunday Reboot: Stadium iPhones, Epic messaging fail, and Plex",
+      "url": "https://appleinsider.com/articles/26/05/24/sunday-reboot-stadium-iphones-epic-messaging-fail-and-plex?utm_source=rss",
+      "pubDate": "2026-05-24T21:09:01.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "New iOS 27 Rumors Include Revamped AirPods Settings Menu and More",
+      "url": "https://www.macrumors.com/2026/05/24/new-ios-27-details-ahead-of-wwdc/",
+      "pubDate": "2026-05-24T20:02:41.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -337,20 +351,6 @@
       "title": "Apple Could Reverse Controversial Clear Case Design With iPhone 18 Pro",
       "url": "https://www.macrumors.com/2026/05/22/apple-could-reverse-clear-case-design/",
       "pubDate": "2026-05-22T16:18:56.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "AirPods Pro 3 drop to $199 during Amazon's Memorial Day sale",
-      "url": "https://appleinsider.com/articles/26/05/22/airpods-pro-3-drop-to-199-during-amazons-memorial-day-sale?utm_source=rss",
-      "pubDate": "2026-05-22T16:18:12.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "The MacRumors Show: WWDC26 Promises Apple Intelligence and Siri Upgrades",
-      "url": "https://www.macrumors.com/2026/05/22/the-macrumors-show-wwdc26-promises-siri-upgrades/",
-      "pubDate": "2026-05-22T14:23:39.000Z"
     },
     {
       "source": "Six Colors",
