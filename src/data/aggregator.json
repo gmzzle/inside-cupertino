@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T14:01:27.018Z",
+  "generatedAt": "2026-05-24T15:34:28.010Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,62 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The best Memorial Day sales you can shop this weekend",
+      "url": "https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026",
+      "pubDate": "2026-05-24T15:28:08.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's worst AI feature to get a 'big boost' with upgraded Apple Foundation Models",
+      "url": "https://appleinsider.com/articles/26/05/24/apples-worst-ai-feature-to-get-a-big-boost-with-upgraded-apple-foundation-models?utm_source=rss",
+      "pubDate": "2026-05-24T15:25:15.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "On Trails is a wandering tale that blends hiking, science, and history",
+      "url": "https://www.theverge.com/entertainment/936860/robert-moor-on-trails-book-review",
+      "pubDate": "2026-05-24T15:15:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Apple’s latest MacBook Air is $200 off in both sizes for Memorial Day",
+      "url": "https://www.theverge.com/gadgets/936610/apple-macbook-air-m5-memorial-day-2026-deal-sale",
+      "pubDate": "2026-05-24T15:00:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Heart rate tracking improvements are about all that's expected in watchOS 27",
+      "url": "https://appleinsider.com/articles/26/05/24/heart-rate-tracking-improvements-are-about-all-thats-expected-in-watchos-27?utm_source=rss",
+      "pubDate": "2026-05-24T14:58:08.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Intelligence image models to boast ‘major’ visual upgrades in iOS 27: report",
+      "url": "https://9to5mac.com/2026/05/24/apple-image-playground-and-gemoji-to-get-major-visual-improvements/",
+      "pubDate": "2026-05-24T14:57:31.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 could offer native integration with Google Cast and other streaming protocols",
+      "url": "https://9to5mac.com/2026/05/24/ios-27-google-cast-third-party-streaming-integration-eu/",
+      "pubDate": "2026-05-24T14:31:26.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Report: iOS 27 to revamp the AirPods settings UI",
+      "url": "https://9to5mac.com/2026/05/24/report-ios-27-to-revamp-the-airpods-settings-ui/",
+      "pubDate": "2026-05-24T14:12:09.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -178,13 +234,6 @@
       "pubDate": "2026-05-23T12:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Google’s new anything-to-anything AI model is wild",
-      "url": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
-      "pubDate": "2026-05-23T11:00:00.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "9to5Mac Daily: May 22, 2026 – Apple Music AI, hardware changes",
@@ -192,39 +241,11 @@
       "pubDate": "2026-05-23T04:41:16.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Unannounced Apple headphones revealed in FCC documents",
-      "url": "https://9to5mac.com/2026/05/22/unannounced-apple-headphones-revealed-in-fcc-documents/",
-      "pubDate": "2026-05-23T01:43:09.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "New Apple or Beats Over-Ear Headphones Appear in FCC Database",
       "url": "https://www.macrumors.com/2026/05/22/apple-beats-over-ear-headphones-fcc/",
       "pubDate": "2026-05-22T23:27:29.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Google defends its Safari deal with Apple in antitrust ruling appeal",
-      "url": "https://9to5mac.com/2026/05/22/google-defends-its-safari-deal-with-apple-in-antitrust-ruling-appeal/",
-      "pubDate": "2026-05-22T22:58:33.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Gemini app for Mac adding ‘Spark’ agent and voice control this summer",
-      "url": "https://9to5google.com/2026/05/22/gemini-mac-spark-control-summer/",
-      "pubDate": "2026-05-22T22:27:28.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Google&#8217;s AI search is so broken it can &#8216;disregard&#8217; what you&#8217;re looking for",
-      "url": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
-      "pubDate": "2026-05-22T20:39:54.000Z"
     },
     {
       "source": "AppleInsider",
@@ -253,13 +274,6 @@
       "title": "Apple's AI spend remains flat as OpenAI loses $1.25 for every $1",
       "url": "https://appleinsider.com/articles/26/05/22/apples-ai-spend-remains-flat-as-openai-loses-125-for-every-1?utm_source=rss",
       "pubDate": "2026-05-22T19:08:06.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Twelve South’s AirFly Pro 2 has hit one of its best prices ahead of summer travel",
-      "url": "https://www.theverge.com/gadgets/936200/twelve-south-airfly-pro-2-memorial-day-deal-sale",
-      "pubDate": "2026-05-22T18:00:00.000Z"
     },
     {
       "source": "MacRumors",
@@ -339,13 +353,6 @@
       "pubDate": "2026-05-22T12:08:27.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "How to use NameDrop to exchange iPhone contacts in seconds",
-      "url": "https://appleinsider.com/articles/26/05/22/how-to-use-namedrop-to-exchange-iphone-contacts-in-seconds?utm_source=rss",
-      "pubDate": "2026-05-22T03:01:01.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Apple takes soccer immersive with Real Madrid",
@@ -365,13 +372,6 @@
       "title": "Google I/O: What you need to care about when you don’t care about Google I/O",
       "url": "https://sixcolors.com/post/2026/05/google-i-o-what-you-need-to-care-about-when-you-dont-care-about-google-i-o/",
       "pubDate": "2026-05-21T16:20:34.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Microsoft is getting rid of SMS two-factor codes ↦",
-      "url": "https://sixcolors.com/link/2026/05/microsoft-is-getting-rid-of-sms-two-factor-codes/",
-      "pubDate": "2026-05-21T13:39:57.000Z"
     }
   ]
 }
