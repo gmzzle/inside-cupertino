@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T10:12:38.676Z",
+  "generatedAt": "2026-05-24T11:43:47.108Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Why Nuro thinks being a robotaxi ‘second mover’ gives it an advantage",
+      "url": "https://www.theverge.com/transportation/936126/nuro-robotaxi-dave-ferguson-interview-uber-lucid-waymo",
+      "pubDate": "2026-05-24T11:00:00.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -246,13 +253,6 @@
       "title": "Meta’s Forum is part Reddit, part Facebook, and part Google AI Overview",
       "url": "https://www.theverge.com/tech/936290/meta-forum-facebook-groups-app-hands-on",
       "pubDate": "2026-05-22T17:27:08.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Elon, stop trying to make Grok happen",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen",
-      "pubDate": "2026-05-22T17:17:06.000Z"
     },
     {
       "source": "AppleInsider",
