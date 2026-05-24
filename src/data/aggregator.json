@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T15:34:28.010Z",
+  "generatedAt": "2026-05-24T17:16:48.279Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "AirPods will be easier to manage with iOS 27 controls revamp",
+      "url": "https://appleinsider.com/articles/26/05/24/airpods-will-be-easier-to-manage-with-ios-27-controls-revamp?utm_source=rss",
+      "pubDate": "2026-05-24T16:50:37.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Report: watchOS 27 to improve heart-rate tracking; AI health coach may not debut at launch",
+      "url": "https://9to5mac.com/2026/05/24/apple-improving-heart-rate-tracking-in-watchos-27-mulberry-health-coach-delays/",
+      "pubDate": "2026-05-24T15:59:44.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Google's 'Cast to TV' could join AirPlay on iPhones thanks to EU regulations",
+      "url": "https://appleinsider.com/articles/26/05/24/googles-cast-to-tv-could-join-airplay-on-iphones-thanks-to-eu-regulations?utm_source=rss",
+      "pubDate": "2026-05-24T15:49:11.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -234,13 +255,6 @@
       "pubDate": "2026-05-23T12:00:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: May 22, 2026 – Apple Music AI, hardware changes",
-      "url": "https://9to5mac.com/2026/05/22/daily-may-22-2026/",
-      "pubDate": "2026-05-23T04:41:16.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "New Apple or Beats Over-Ear Headphones Appear in FCC Database",
@@ -337,20 +351,6 @@
       "title": "Employees at Apple's first unionized store to protest closing",
       "url": "https://appleinsider.com/articles/26/05/22/employees-at-apples-first-unionized-store-to-protest-closing?utm_source=rss",
       "pubDate": "2026-05-22T13:26:45.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "The last macOS Tahoe review -- neither terrible nor great",
-      "url": "https://appleinsider.com/articles/26/05/22/the-last-macos-tahoe-review----neither-terrible-nor-great?utm_source=rss",
-      "pubDate": "2026-05-22T12:51:39.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Accessibility, AI rumors, and Google I/O, on the AppleInsider Podcast",
-      "url": "https://appleinsider.com/articles/26/05/22/accessibility-ai-rumors-and-google-io-on-the-appleinsider-podcast?utm_source=rss",
-      "pubDate": "2026-05-22T12:08:27.000Z"
     },
     {
       "source": "Six Colors",
