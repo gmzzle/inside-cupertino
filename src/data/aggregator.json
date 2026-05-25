@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T21:35:26.222Z",
+  "generatedAt": "2026-05-25T23:32:52.283Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,41 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Tim Cook marks Memorial Day with annual tribute post",
+      "url": "https://9to5mac.com/2026/05/25/tim-cook-marks-memorial-day-with-annual-tribute-post/",
+      "pubDate": "2026-05-25T23:20:20.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple vs US antitrust case sees government attempting to escape discovery process",
+      "url": "https://appleinsider.com/articles/26/05/25/apple-vs-us-antitrust-case-sees-government-attempting-to-escape-discovery-process?utm_source=rss",
+      "pubDate": "2026-05-25T22:48:03.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "The Virtual OS Museum is a fantastic project that lets you run Mac OS, A/UX, NeXTSTEP, more",
+      "url": "https://9to5mac.com/2026/05/25/the-virtual-os-museum-is-a-fantastic-project-that-lets-you-run-mac-os-a-ux-nextstep-more/",
+      "pubDate": "2026-05-25T22:44:16.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Former Apple designer's take on Ferrari will upset fans of the vehicle brand",
+      "url": "https://appleinsider.com/articles/26/05/25/former-apple-designers-take-on-ferrari-will-upset-fans-of-the-vehicle-brand?utm_source=rss",
+      "pubDate": "2026-05-25T22:28:32.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Sennheiser’s new Momentum 5 headphones have upgraded ANC and a replaceable battery",
+      "url": "https://www.theverge.com/tech/936127/sennheiser-momentum-5-wireless-headphones-anc-lossless-bluetooth",
+      "pubDate": "2026-05-25T22:00:00.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -248,13 +283,6 @@
       "pubDate": "2026-05-24T12:28:08.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "'GenAI' Apple subdomain surfaces weeks ahead of WWDC",
-      "url": "https://appleinsider.com/articles/26/05/24/genai-apple-subdomain-surfaces-weeks-ahead-of-wwdc?utm_source=rss",
-      "pubDate": "2026-05-24T12:03:15.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Hackers are learning to exploit chatbot &#8216;personalities&#8217;",
@@ -276,20 +304,6 @@
       "pubDate": "2026-05-24T04:32:11.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Record Club is trying to be Letterboxd for music nerds",
-      "url": "https://www.theverge.com/entertainment/936829/record-club-letterboxd-for-music-nerds",
-      "pubDate": "2026-05-23T22:41:11.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple registers new ‘gen AI’ subdomain ahead of next month’s WWDC keynote",
-      "url": "https://9to5mac.com/2026/05/23/apple-new-gen-ai-subdomain-ahead-of-wwdc/",
-      "pubDate": "2026-05-23T22:37:17.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Preparing New 'Gen AI' Website Ahead of WWDC",
@@ -302,20 +316,6 @@
       "title": "Get a peek at the future of vibe-coded automation ↦",
       "url": "https://sixcolors.com/link/2026/05/get-a-peek-at-the-future-of-vibe-coded-automation/",
       "pubDate": "2026-05-23T20:02:57.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Two affordable iPhone 17 Pro accessories worth trying",
-      "url": "https://9to5mac.com/2026/05/23/two-affordable-iphone-17-pro-accessories-worth-trying/",
-      "pubDate": "2026-05-23T20:00:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Google's $20B Safari search deal with Apple was 'fair and square'",
-      "url": "https://appleinsider.com/articles/26/05/23/googles-20b-safari-search-deal-with-apple-was-fair-and-square?utm_source=rss",
-      "pubDate": "2026-05-23T14:54:01.000Z"
     },
     {
       "source": "MacRumors",
