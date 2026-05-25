@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T20:00:16.966Z",
+  "generatedAt": "2026-05-25T21:35:26.222Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,41 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Ferrari reveals its first EV, with design help from Jony Ive",
+      "url": "https://www.theverge.com/transportation/937066/ferrari-luce-ev-jony-ive-marc-newson-lovefrom",
+      "pubDate": "2026-05-25T21:33:12.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple says U.S. is refusing to produce federal agency documents in DOJ antitrust case",
+      "url": "https://9to5mac.com/2026/05/25/apple-says-u-s-is-refusing-to-produce-federal-agency-documents-in-doj-antitrust-case/",
+      "pubDate": "2026-05-25T21:29:30.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) Upgrade 617: Image Playgrounds Is My Roman Empire",
+      "url": "https://sixcolors.com/podcast/2026/05/upgrade-617-image-playgrounds-is-my-roman-empire/",
+      "pubDate": "2026-05-25T21:11:49.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Orange you glad I didn’t say emoji",
+      "url": "https://sixcolors.com/post/2026/05/orange-you-glad-i-didnt-say-emoji/",
+      "pubDate": "2026-05-25T20:15:42.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Ferrari Luce EV debuts with Jony Ive-designed cockpit and familiar design cues",
+      "url": "https://9to5mac.com/2026/05/25/ferrari-luce-ev-debuts-with-jony-ive-designed-cockpit-and-familiar-design-cues/",
+      "pubDate": "2026-05-25T20:14:35.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -276,27 +311,6 @@
       "pubDate": "2026-05-23T20:00:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Indie App Spotlight: ‘Poppy’ is a proactive AI assistant that handles what Siri still can’t",
-      "url": "https://9to5mac.com/2026/05/23/indie-app-spotlight-poppy-proactive-ai-assistant-digital-management-organization/",
-      "pubDate": "2026-05-23T19:30:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple’s Focus filters are a great feature, but they have a glaring blind spot: group chats",
-      "url": "https://9to5mac.com/2026/05/23/focus-filters-group-chat-support-ios-27-suggestion/",
-      "pubDate": "2026-05-23T19:08:19.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The man behind the legendary MPC, Roger Linn, stays focused with a single browser tab",
-      "url": "https://www.theverge.com/entertainment/936426/mpc-linndrum-roger-linn-questionnaire-music-tech",
-      "pubDate": "2026-05-23T15:00:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Google's $20B Safari search deal with Apple was 'fair and square'",
@@ -358,20 +372,6 @@
       "title": "Apple takes soccer immersive with Real Madrid",
       "url": "https://sixcolors.com/post/2026/05/apple-takes-soccer-immersive-with-real-madrid/",
       "pubDate": "2026-05-21T22:30:07.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "BBEdit 16 offers speed boosts and Shortcuts and Emoji upgrades",
-      "url": "https://sixcolors.com/post/2026/05/bbedit-16-offers-speed-boosts-and-shortcuts-and-emoji-upgrades/",
-      "pubDate": "2026-05-21T21:20:08.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Google I/O: What you need to care about when you don’t care about Google I/O",
-      "url": "https://sixcolors.com/post/2026/05/google-i-o-what-you-need-to-care-about-when-you-dont-care-about-google-i-o/",
-      "pubDate": "2026-05-21T16:20:34.000Z"
     }
   ]
 }
