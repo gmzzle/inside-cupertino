@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T23:17:48.870Z",
+  "generatedAt": "2026-05-25T04:53:11.414Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Anker’s 25W MagSafe 3-in-1 packs active cooling in a travel-sized design [Hands-on]",
+      "url": "https://9to5mac.com/2026/05/24/anker-magsafe-travel-sized-3-in-1-charger-qi2/",
+      "pubDate": "2026-05-25T03:48:32.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -246,13 +253,6 @@
       "title": "Hands-on: Belkin’s new 5K MagSafe battery bank offers a kickstand in a slim design",
       "url": "https://9to5mac.com/2026/05/23/belkin-5000mah-magsafe-slim-battery-bank-hands-on-kickstand/",
       "pubDate": "2026-05-23T13:53:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple @ Work: Why the ClickFix campaign means it is time to kill the 90 day update deferral",
-      "url": "https://9to5mac.com/2026/05/23/apple-work-why-the-clickfix-campaign-means-it-is-time-to-kill-the-90-day-update-deferral/",
-      "pubDate": "2026-05-23T13:00:00.000Z"
     },
     {
       "source": "MacRumors",
