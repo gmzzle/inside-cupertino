@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T21:58:27.971Z",
+  "generatedAt": "2026-05-26T23:34:36.420Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,48 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple working on iPhone anti-snatching feature that locks the device automatically",
+      "url": "https://9to5mac.com/2026/05/26/apple-working-on-iphone-anti-snatching-feature-that-locks-the-device-automatically/",
+      "pubDate": "2026-05-26T23:29:15.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple rolling out new AirTag 2 firmware update",
+      "url": "https://9to5mac.com/2026/05/26/apple-rolling-out-new-airtag-2-firmware-update/",
+      "pubDate": "2026-05-26T23:26:51.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Previous OS updates contained security patches which have now been detailed by Apple",
+      "url": "https://appleinsider.com/articles/26/05/26/previous-os-updates-contained-security-patches-which-have-now-been-detailed-by-apple?utm_source=rss",
+      "pubDate": "2026-05-26T23:15:26.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Releases New Firmware for AirTag 2",
+      "url": "https://www.macrumors.com/2026/05/26/airtag-2-firmware-3049/",
+      "pubDate": "2026-05-26T22:46:18.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "NASA&#8217;s permanent Moon base plans start with three missions this year",
+      "url": "https://www.theverge.com/science/937775/nasa-moon-base-moonfall-updates",
+      "pubDate": "2026-05-26T22:24:53.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple adds new CVE details to several macOS, iOS, iPadOS, visionOS, and watchOS updates",
+      "url": "https://9to5mac.com/2026/05/26/apple-adds-new-cve-details-to-several-macos-ios-ipados-visionos-and-watchos-updates/",
+      "pubDate": "2026-05-26T22:14:13.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -178,20 +220,6 @@
       "pubDate": "2026-05-26T17:07:59.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple releases macOS 26.6 developer beta 1",
-      "url": "https://9to5mac.com/2026/05/26/apple-releases-macos-26-6-developer-beta-1/",
-      "pubDate": "2026-05-26T17:07:35.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple releases first iOS 26.6 beta for iPhone",
-      "url": "https://9to5mac.com/2026/05/26/apple-releases-first-ios-26-6-beta-for-iphone/",
-      "pubDate": "2026-05-26T17:06:49.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Releases First watchOS 26.6, tvOS 26.6 and visionOS 26.6 Betas",
@@ -255,13 +283,6 @@
       "pubDate": "2026-05-26T16:00:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27’s new Siri design will look like this, per report",
-      "url": "https://9to5mac.com/2026/05/26/ios-27s-new-siri-design-will-look-like-this-per-report/",
-      "pubDate": "2026-05-26T15:51:02.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Saving for a Switch 2 is easier with Newegg’s gift card deal",
@@ -304,32 +325,11 @@
       "pubDate": "2026-05-26T14:45:29.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Jony Ive’s Ferrari looks nothing like a Ferrari",
-      "url": "https://www.theverge.com/transportation/937077/ferrari-luce-ev-apple-car-jony-ive-design",
-      "pubDate": "2026-05-26T14:17:37.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "iPhone Fold now reportedly held up by circuit board problems",
       "url": "https://appleinsider.com/articles/26/05/26/iphone-fold-now-reportedly-held-up-by-circuit-board-problems?utm_source=rss",
       "pubDate": "2026-05-26T14:11:26.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone 18 Pro Launching Later This Year With These 10 New Features",
-      "url": "https://www.macrumors.com/2026/05/26/iphone-18-pro-10-rumored-features/",
-      "pubDate": "2026-05-26T13:32:37.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Feds attempting to escape discovery process in Apple vs US antitrust case",
-      "url": "https://appleinsider.com/articles/26/05/25/apple-vs-us-antitrust-case-sees-government-attempting-to-escape-discovery-process?utm_source=rss",
-      "pubDate": "2026-05-26T11:16:52.000Z"
     },
     {
       "source": "Six Colors",
