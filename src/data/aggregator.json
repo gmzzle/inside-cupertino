@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T19:28:29.359Z",
+  "generatedAt": "2026-05-26T21:58:27.971Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,69 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iOS 27 Siri Redesign Will Use Dark Color Scheme, Matching Apple's WWDC Art",
+      "url": "https://www.macrumors.com/2026/05/26/ios-27-siri-dark-colors/",
+      "pubDate": "2026-05-26T21:30:50.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Level Lock Pro Review: An Apple Home Key Smart Lock That Doesn't Look Like One",
+      "url": "https://www.macrumors.com/review/level-lock-pro/",
+      "pubDate": "2026-05-26T21:22:46.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "DuckDuckGo sees iPhone installs spike in the US following AI announcements at Google I/O",
+      "url": "https://9to5mac.com/2026/05/26/duckduckgo-sees-iphone-installs-spike-in-the-us-following-ai-announcements-at-google-i-o/",
+      "pubDate": "2026-05-26T21:11:43.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Passeig de Gracia Apple Store reopens, updated with new industrial design",
+      "url": "https://appleinsider.com/articles/26/05/26/passeig-de-gracia-apple-store-reopens-updated-with-new-industrial-design?utm_source=rss",
+      "pubDate": "2026-05-26T20:53:21.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Wallet’s new Digital ID feature recently added more ways to use it",
+      "url": "https://9to5mac.com/2026/05/26/apple-wallets-new-digital-id-feature-just-added-more-ways-to-use-it/",
+      "pubDate": "2026-05-26T20:43:09.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone 18 Pro could further a design trend I’ve finally come around on",
+      "url": "https://9to5mac.com/2026/05/26/iphone-18-pro-could-further-a-design-trend-ive-finally-come-around-on/",
+      "pubDate": "2026-05-26T20:37:26.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: May 26, 2026 – watchOS 27 rumors, more",
+      "url": "https://9to5mac.com/2026/05/26/daily-may-26-2026/",
+      "pubDate": "2026-05-26T20:32:49.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "As Chinese phone market reportedly picks up steam, iPhone could be a standout winner",
+      "url": "https://9to5mac.com/2026/05/26/as-chinese-phone-market-reportedly-picks-up-steam-iphone-could-be-a-standout-winner/",
+      "pubDate": "2026-05-26T20:20:07.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "New in iOS 26.6 beta 1: Apple Maps security upgrade, blocked contact alerts",
+      "url": "https://appleinsider.com/articles/26/05/26/new-in-ios-266-beta-1-apple-maps-security-upgrade-blocked-contact-alerts?utm_source=rss",
+      "pubDate": "2026-05-26T19:52:18.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -199,25 +262,11 @@
       "pubDate": "2026-05-26T15:51:02.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Satellite-based internet will power inflight Wi-Fi on a lot more planes in 2027",
-      "url": "https://9to5mac.com/2026/05/26/satellite-based-internet-will-power-inflight-wi-fi-on-a-lot-more-planes-in-2027/",
-      "pubDate": "2026-05-26T15:34:35.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Saving for a Switch 2 is easier with Newegg’s gift card deal",
       "url": "https://www.theverge.com/gadgets/937183/nintendo-gift-card-switch-2-apple-studio-display-deal-sale",
       "pubDate": "2026-05-26T15:33:42.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: 24GB M5 MacBook Air up to $320 off, iPhone Air MagSafe Battery 40% off, M5 MacBook Pro $1,499, more",
-      "url": "https://9to5mac.com/2026/05/26/deals-m5-macbook-air-iphone-air-magsafe-battery/",
-      "pubDate": "2026-05-26T15:29:43.000Z"
     },
     {
       "source": "The Verge",
@@ -232,13 +281,6 @@
       "title": "Govee included a book on ‘white supremacy’ in its website imagery",
       "url": "https://www.theverge.com/tech/937378/govee-white-supremacy-book-promotional-image",
       "pubDate": "2026-05-26T15:07:40.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Spotify will read magazine articles to you for $2 each as it further expands beyond music",
-      "url": "https://9to5mac.com/2026/05/26/spotify-will-read-magazine-articles-to-you-for-2-each-as-it-further-expands-beyond-music/",
-      "pubDate": "2026-05-26T15:02:24.000Z"
     },
     {
       "source": "AppleInsider",
@@ -262,20 +304,6 @@
       "pubDate": "2026-05-26T14:45:29.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Here’s everything new Apple TV has coming in June",
-      "url": "https://9to5mac.com/2026/05/26/heres-everything-new-apple-tv-has-coming-in-june/",
-      "pubDate": "2026-05-26T14:37:04.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple’s huge MacBook Pro overhaul is coming soon, here’s what we know",
-      "url": "https://9to5mac.com/2026/05/26/apples-huge-macbook-pro-overhaul-is-coming-soon-heres-what-we-know/",
-      "pubDate": "2026-05-26T14:35:10.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Jony Ive’s Ferrari looks nothing like a Ferrari",
@@ -297,32 +325,11 @@
       "pubDate": "2026-05-26T13:32:37.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple's M5 MacBook Air Hits New Low Price of $899.99",
-      "url": "https://www.macrumors.com/2026/05/26/m5-macbook-air-new-low-899-99/",
-      "pubDate": "2026-05-26T13:02:22.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Foldable iPhone Reportedly Facing Mass Production Issues",
-      "url": "https://www.macrumors.com/2026/05/26/foldable-iphone-facing-production-issues/",
-      "pubDate": "2026-05-26T12:50:53.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Feds attempting to escape discovery process in Apple vs US antitrust case",
       "url": "https://appleinsider.com/articles/26/05/25/apple-vs-us-antitrust-case-sees-government-attempting-to-escape-discovery-process?utm_source=rss",
       "pubDate": "2026-05-26T11:16:52.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Former Apple designer's take on Ferrari will upset fans of the vehicle brand",
-      "url": "https://appleinsider.com/articles/26/05/25/former-apple-designers-take-on-ferrari-will-upset-fans-of-the-vehicle-brand?utm_source=rss",
-      "pubDate": "2026-05-25T22:28:32.000Z"
     },
     {
       "source": "Six Colors",
@@ -337,13 +344,6 @@
       "title": "Orange you glad I didn’t say emoji",
       "url": "https://sixcolors.com/post/2026/05/orange-you-glad-i-didnt-say-emoji/",
       "pubDate": "2026-05-25T20:15:42.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Security systems for smart homes with ADT's Jimmy Lin on Smart Home Insider",
-      "url": "https://appleinsider.com/articles/26/05/25/security-systems-for-smart-homes-with-adts-jimmy-lin-on-smart-home-insider?utm_source=rss",
-      "pubDate": "2026-05-25T15:55:52.000Z"
     },
     {
       "source": "Six Colors",
