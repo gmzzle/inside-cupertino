@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T23:32:52.283Z",
+  "generatedAt": "2026-05-26T04:35:29.946Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Ferrari Reveals $640,000 EV Co-Designed by Jony Ive",
+      "url": "https://www.macrumors.com/2026/05/25/ferrari-luce-jony-ive-photos/",
+      "pubDate": "2026-05-26T02:17:55.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -227,13 +234,6 @@
       "pubDate": "2026-05-24T15:49:11.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple's worst AI feature to get a 'big boost' with upgraded Apple Foundation Models",
-      "url": "https://appleinsider.com/articles/26/05/24/apples-worst-ai-feature-to-get-a-big-boost-with-upgraded-apple-foundation-models?utm_source=rss",
-      "pubDate": "2026-05-24T15:25:15.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "On Trails is a wandering tale that blends hiking, science, and history",
@@ -246,13 +246,6 @@
       "title": "Apple’s latest MacBook Air is $200 off in both sizes for Memorial Day",
       "url": "https://www.theverge.com/gadgets/936610/apple-macbook-air-m5-memorial-day-2026-deal-sale",
       "pubDate": "2026-05-24T15:00:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Heart rate tracking improvements are about all that's expected in watchOS 27",
-      "url": "https://appleinsider.com/articles/26/05/24/heart-rate-tracking-improvements-are-about-all-thats-expected-in-watchos-27?utm_source=rss",
-      "pubDate": "2026-05-24T14:58:08.000Z"
     },
     {
       "source": "9to5Mac",
@@ -360,18 +353,25 @@
       "pubDate": "2026-05-22T17:02:14.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 26.5.1 Update for iPhones is Coming Soon",
-      "url": "https://www.macrumors.com/2026/05/22/ios-26-5-1-coming-soon/",
-      "pubDate": "2026-05-22T16:23:08.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Apple takes soccer immersive with Real Madrid",
       "url": "https://sixcolors.com/post/2026/05/apple-takes-soccer-immersive-with-real-madrid/",
       "pubDate": "2026-05-21T22:30:07.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "BBEdit 16 offers speed boosts and Shortcuts and Emoji upgrades",
+      "url": "https://sixcolors.com/post/2026/05/bbedit-16-offers-speed-boosts-and-shortcuts-and-emoji-upgrades/",
+      "pubDate": "2026-05-21T21:20:08.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Google I/O: What you need to care about when you don’t care about Google I/O",
+      "url": "https://sixcolors.com/post/2026/05/google-i-o-what-you-need-to-care-about-when-you-dont-care-about-google-i-o/",
+      "pubDate": "2026-05-21T16:20:34.000Z"
     }
   ]
 }
