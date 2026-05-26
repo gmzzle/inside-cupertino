@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T16:52:52.720Z",
+  "generatedAt": "2026-05-26T19:28:29.359Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,118 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's Beautiful Barcelona Store Reopens With Pickup Station and More",
+      "url": "https://www.macrumors.com/2026/05/26/apple-passeig-de-gracia-renovated/",
+      "pubDate": "2026-05-26T19:10:24.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Google Health is here, but a lot of people want their Fitbit app back instead",
+      "url": "https://www.theverge.com/gadgets/937534/google-health-fitbit-app-ai",
+      "pubDate": "2026-05-26T19:00:15.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "How Apple turned to math to defend against next-gen attacks on encryption",
+      "url": "https://appleinsider.com/articles/26/05/26/how-apple-turned-to-math-to-defend-against-next-gen-attacks-on-encryption?utm_source=rss",
+      "pubDate": "2026-05-26T18:59:09.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 26.6 adds new alert when you try blocking too many contacts",
+      "url": "https://9to5mac.com/2026/05/26/ios-26-6-adds-new-alert-when-you-try-blocking-too-many-contacts/",
+      "pubDate": "2026-05-26T18:56:32.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "GE’s nugget ice maker is nearly half off if you buy it refurbished",
+      "url": "https://www.theverge.com/gadgets/937560/ge-profile-opal-ultra-nugget-ice-maker-deal-sale",
+      "pubDate": "2026-05-26T18:50:35.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Earn a Running Day Apple Watch Activity Award on June 3",
+      "url": "https://www.macrumors.com/2026/05/26/apple-watch-activity-award-running-day/",
+      "pubDate": "2026-05-26T18:46:36.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Global Running Day Challenge coming to Apple Watch next week",
+      "url": "https://9to5mac.com/2026/05/26/global-running-day-challenge-coming-to-apple-watch-next-week/",
+      "pubDate": "2026-05-26T18:34:04.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iOS 26.6 Will Alert You When You've Maxed Out Blocked Contacts",
+      "url": "https://www.macrumors.com/2026/05/26/ios-26-6-contact-blocking-alert/",
+      "pubDate": "2026-05-26T18:26:55.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple TV’s new space-race thriller does something unique, first reviews here",
+      "url": "https://9to5mac.com/2026/05/26/apple-tvs-new-space-race-thriller-does-something-unique-first-reviews-here/",
+      "pubDate": "2026-05-26T18:13:31.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "First betas of iOS 26.6, macOS 26.6 arrive as WWDC draws near",
+      "url": "https://appleinsider.com/articles/26/05/26/first-betas-of-ios-266-macos-266-arrive-as-wwdcs-gen-27-draws-near?utm_source=rss",
+      "pubDate": "2026-05-26T17:46:29.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPadOS 26.6 beta 1 now available, plus watchOS 26.6, tvOS 26.6, more",
+      "url": "https://9to5mac.com/2026/05/26/ipados-26-6-beta-1-now-available-plus-watchos-26-6-tvos-26-6-more/",
+      "pubDate": "2026-05-26T17:10:02.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "First macOS Tahoe 26.6 Beta Now Available for Developers",
+      "url": "https://www.macrumors.com/2026/05/26/apple-releases-macos-tahoe-26-6-beta-1/",
+      "pubDate": "2026-05-26T17:09:10.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Seeds First iOS 26.6 and iPadOS 26.6 Betas to Developers",
+      "url": "https://www.macrumors.com/2026/05/26/apple-releases-ios-26-beta-1/",
+      "pubDate": "2026-05-26T17:07:59.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple releases macOS 26.6 developer beta 1",
+      "url": "https://9to5mac.com/2026/05/26/apple-releases-macos-26-6-developer-beta-1/",
+      "pubDate": "2026-05-26T17:07:35.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple releases first iOS 26.6 beta for iPhone",
+      "url": "https://9to5mac.com/2026/05/26/apple-releases-first-ios-26-6-beta-for-iphone/",
+      "pubDate": "2026-05-26T17:06:49.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Releases First watchOS 26.6, tvOS 26.6 and visionOS 26.6 Betas",
+      "url": "https://www.macrumors.com/2026/05/26/apple-releases-watchos-26-6-beta-1/",
+      "pubDate": "2026-05-26T17:03:00.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -75,7 +187,7 @@
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
-      "title": "Memory V recreates the Memorymoog without the massive headaches or price tag",
+      "title": "Memory V re-creates the Memorymoog without the massive headaches or price tag",
       "url": "https://www.theverge.com/entertainment/937054/arturia-memory-v-memorymoog-synthesizer",
       "pubDate": "2026-05-26T16:00:00.000Z"
     },
@@ -117,7 +229,7 @@
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
-      "title": "Govee included a book on ‘White Supremacy’ in its website imagery",
+      "title": "Govee included a book on ‘white supremacy’ in its website imagery",
       "url": "https://www.theverge.com/tech/937378/govee-white-supremacy-book-promotional-image",
       "pubDate": "2026-05-26T15:07:40.000Z"
     },
@@ -171,32 +283,11 @@
       "pubDate": "2026-05-26T14:17:37.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Nvidia has retired its GeForce Control Panel app after 20 years",
-      "url": "https://www.theverge.com/news/937221/nvidia-geforce-control-panel-app-retirement",
-      "pubDate": "2026-05-26T14:14:35.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "iPhone Fold now reportedly held up by circuit board problems",
       "url": "https://appleinsider.com/articles/26/05/26/iphone-fold-now-reportedly-held-up-by-circuit-board-problems?utm_source=rss",
       "pubDate": "2026-05-26T14:11:26.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "How clips ate the internet",
-      "url": "https://www.theverge.com/podcast/937188/clips-internet-feed-fitbit-air-vergecast",
-      "pubDate": "2026-05-26T14:02:36.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Watch glucose monitoring project gets encouraging update",
-      "url": "https://9to5mac.com/2026/05/26/apple-watch-glucose-monitoring-project-gets-encouraging-update/",
-      "pubDate": "2026-05-26T13:53:26.000Z"
     },
     {
       "source": "MacRumors",
@@ -227,46 +318,11 @@
       "pubDate": "2026-05-26T11:16:52.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple @ Work Podcast: The future of security training",
-      "url": "https://9to5mac.com/2026/05/26/apple-work-podcast-the-future-of-security-training/",
-      "pubDate": "2026-05-26T10:03:08.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Ferrari Reveals $640,000 EV Co-Designed by Jony Ive",
-      "url": "https://www.macrumors.com/2026/05/25/ferrari-luce-jony-ive-photos/",
-      "pubDate": "2026-05-26T02:17:55.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Tim Cook marks Memorial Day with annual tribute post",
-      "url": "https://9to5mac.com/2026/05/25/tim-cook-marks-memorial-day-with-annual-tribute-post/",
-      "pubDate": "2026-05-25T23:20:20.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "The Virtual OS Museum is a fantastic project that lets you run Mac OS, A/UX, NeXTSTEP, more",
-      "url": "https://9to5mac.com/2026/05/25/the-virtual-os-museum-is-a-fantastic-project-that-lets-you-run-mac-os-a-ux-nextstep-more/",
-      "pubDate": "2026-05-25T22:44:16.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Former Apple designer's take on Ferrari will upset fans of the vehicle brand",
       "url": "https://appleinsider.com/articles/26/05/25/former-apple-designers-take-on-ferrari-will-upset-fans-of-the-vehicle-brand?utm_source=rss",
       "pubDate": "2026-05-25T22:28:32.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple says U.S. is refusing to produce federal agency documents in DOJ antitrust case",
-      "url": "https://9to5mac.com/2026/05/25/apple-says-u-s-is-refusing-to-produce-federal-agency-documents-in-doj-antitrust-case/",
-      "pubDate": "2026-05-25T21:29:30.000Z"
     },
     {
       "source": "Six Colors",
@@ -283,67 +339,11 @@
       "pubDate": "2026-05-25T20:15:42.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Ferrari Luce EV debuts with Jony Ive-designed cockpit and familiar design cues",
-      "url": "https://9to5mac.com/2026/05/25/ferrari-luce-ev-debuts-with-jony-ive-designed-cockpit-and-familiar-design-cues/",
-      "pubDate": "2026-05-25T20:14:35.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Security systems for smart homes with ADT's Jimmy Lin on Smart Home Insider",
       "url": "https://appleinsider.com/articles/26/05/25/security-systems-for-smart-homes-with-adts-jimmy-lin-on-smart-home-insider?utm_source=rss",
       "pubDate": "2026-05-25T15:55:52.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Wide camera shots exposed the limits of Apple's iPhone 17 Pro soccer broadcast",
-      "url": "https://appleinsider.com/articles/26/05/25/wide-camera-shots-exposed-the-limits-of-apples-iphone-17-pro-soccer-broadcast?utm_source=rss",
-      "pubDate": "2026-05-25T15:10:37.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "B&H is blowing out M3 iPad Air inventory at $449 today only",
-      "url": "https://appleinsider.com/articles/26/05/25/bh-is-blowing-out-m3-ipad-air-inventory-at-449-today-only?utm_source=rss",
-      "pubDate": "2026-05-25T15:07:47.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "MacBook Ultra: 5 Features That Could Justify the Name",
-      "url": "https://www.macrumors.com/2026/05/25/macbook-ultra-rumored-features-justify-the-name/",
-      "pubDate": "2026-05-25T07:08:36.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "New iOS 27 Rumors Include Revamped AirPods Settings Menu and More",
-      "url": "https://www.macrumors.com/2026/05/24/new-ios-27-details-ahead-of-wwdc/",
-      "pubDate": "2026-05-24T20:02:41.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "watchOS 27 Will Add These New Features to Your Apple Watch",
-      "url": "https://www.macrumors.com/2026/05/24/watchos-27-rumored-features/",
-      "pubDate": "2026-05-24T18:53:47.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Anker 3-in-1 Prime Wireless Charging Station Drops to $104.99 on Amazon",
-      "url": "https://www.macrumors.com/2026/05/24/anker-3-in-1-prime-104/",
-      "pubDate": "2026-05-24T12:28:08.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Preparing New 'Gen AI' Website Ahead of WWDC",
-      "url": "https://www.macrumors.com/2026/05/23/apple-gen-ai-subdomain/",
-      "pubDate": "2026-05-23T21:41:31.000Z"
     },
     {
       "source": "Six Colors",
