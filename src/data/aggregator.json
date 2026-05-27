@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T19:33:59.246Z",
+  "generatedAt": "2026-05-27T22:12:37.176Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,97 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "New report shows annual app subscribers rarely return after they cancel",
+      "url": "https://9to5mac.com/2026/05/27/new-report-shows-annual-app-subscribers-rarely-return-after-they-cancel/",
+      "pubDate": "2026-05-27T21:47:26.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) Clockwise 658: Ugh, So Meaty",
+      "url": "https://sixcolors.com/podcast/2026/05/clockwise-658-ugh-so-meaty/",
+      "pubDate": "2026-05-27T21:30:15.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Roku Unveils Redesigned Home Screen",
+      "url": "https://www.macrumors.com/2026/05/27/roku-unveils-redesigned-home-screen/",
+      "pubDate": "2026-05-27T21:29:57.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Apple’s newest iPad Air is up to $100 off for the first time",
+      "url": "https://www.theverge.com/gadgets/938519/apple-ipad-air-m4-deal-sale",
+      "pubDate": "2026-05-27T21:08:41.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Developing iPhone Anti-Snatching Feature That Locks Stolen Phones Instantly",
+      "url": "https://www.macrumors.com/2026/05/27/apple-anti-theft-iphone-feature/",
+      "pubDate": "2026-05-27T21:00:46.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Ted Danson joins upcoming untitled Apple TV comedy series",
+      "url": "https://9to5mac.com/2026/05/27/ted-danson-joins-upcoming-untitled-apple-tv-comedy-series/",
+      "pubDate": "2026-05-27T20:47:44.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPadOS 26.5 has convenient upgrade when using Magic Keyboard, more",
+      "url": "https://9to5mac.com/2026/05/27/ipados-26-5-has-convenient-upgrade-when-using-magic-keyboard-more/",
+      "pubDate": "2026-05-27T20:25:08.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "All the news about Ferrari&#8217;s polarizing Luce EV",
+      "url": "https://www.theverge.com/transportation/938513/ferrari-luce-ev",
+      "pubDate": "2026-05-27T20:22:57.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The new Halide camera app launches with film looks and an upgraded photo editor",
+      "url": "https://www.theverge.com/tech/938339/lux-optics-halide-mark-iii-ios-iphone-camera-app-looks-editor-raw-files-now-available",
+      "pubDate": "2026-05-27T20:06:12.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: May 27, 2026 – New anti-theft iPhone features, more",
+      "url": "https://9to5mac.com/2026/05/27/daily-may-27-2026/",
+      "pubDate": "2026-05-27T20:06:10.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Facebook launches a ‘Plus’ subscription that gives you extra features",
+      "url": "https://www.theverge.com/tech/938500/facebook-whatsapp-instagram-meta-ai-subscriptions",
+      "pubDate": "2026-05-27T20:03:42.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Meta Wants You to Pay for Instagram, Facebook, and WhatsApp Now",
+      "url": "https://www.macrumors.com/2026/05/27/meta-paid-plans-facebook-instagram/",
+      "pubDate": "2026-05-27T19:53:13.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Spotify now lets users save or share podcast clips",
+      "url": "https://9to5mac.com/2026/05/27/spotify-now-lets-users-save-or-share-podcast-clips/",
+      "pubDate": "2026-05-27T19:45:07.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -164,62 +255,6 @@
       "pubDate": "2026-05-27T16:05:56.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Halide Mark III pro camera for iPhone arrives with three key photography upgrades",
-      "url": "https://9to5mac.com/2026/05/27/halide-mark-iii-pro-camera-for-iphone-arrives-with-three-key-photography-upgrades/",
-      "pubDate": "2026-05-27T16:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Sony’s first RGB TV is a statement piece",
-      "url": "https://www.theverge.com/tech/937879/sony-bravia-7-ii-review",
-      "pubDate": "2026-05-27T16:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "AI tried to bury this politician — now people have actually heard of him",
-      "url": "https://www.theverge.com/policy/937650/ai-alex-bores-openai-anthropic-ny12",
-      "pubDate": "2026-05-27T15:40:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: 16GB and 24GB M5 MacBook Air $200 off, AirPods 4 nearly 25% off, Magic Mouse Amazon low, more",
-      "url": "https://9to5mac.com/2026/05/27/deals-m5-macbook-air-airpods-4-magic-mouse/",
-      "pubDate": "2026-05-27T15:30:31.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Here&#8217;s how Google is responding to Fitbit users who don&#8217;t like the new Health app",
-      "url": "https://www.theverge.com/tech/938179/google-health-fitbit-roadmap",
-      "pubDate": "2026-05-27T15:28:43.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 26.5 gave Messages app encrypted RCS, here’s how to check it’s working",
-      "url": "https://9to5mac.com/2026/05/27/ios-26-5-gave-messages-app-encrypted-rcs-heres-how-to-check-its-working/",
-      "pubDate": "2026-05-27T15:18:09.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Wallet digital ID support expands to new state",
-      "url": "https://9to5mac.com/2026/05/27/apple-wallet-digital-id-support-expands-to-arkansas/",
-      "pubDate": "2026-05-27T15:18:08.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "OpenAI investigating ‘elevated latency’ issue affecting ChatGPT [U]",
-      "url": "https://9to5mac.com/2026/05/27/openai-investigating-elevated-latency-issue-affecting-chatgpt/",
-      "pubDate": "2026-05-27T15:17:23.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Atlanta's MARTA Breeze Card Now Available in Apple Wallet",
@@ -239,13 +274,6 @@
       "title": "First Cases for Apple's Foldable iPhone Surface Online",
       "url": "https://www.macrumors.com/2026/05/27/ases-for-foldable-iphone-surface-online/",
       "pubDate": "2026-05-27T14:43:48.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Sony’s DualSense controllers are almost 30 percent off",
-      "url": "https://www.theverge.com/gadgets/938029/sony-dualsense-wireless-edge-controller-ps5-pc-deal-sale",
-      "pubDate": "2026-05-27T14:38:05.000Z"
     },
     {
       "source": "MacRumors",
@@ -325,27 +353,6 @@
       "pubDate": "2026-05-27T02:43:15.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Releases New Firmware for AirTag 2",
-      "url": "https://www.macrumors.com/2026/05/26/airtag-2-firmware-3049/",
-      "pubDate": "2026-05-26T22:46:18.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27 Siri Redesign Will Use Dark Color Scheme, Matching Apple's WWDC Art",
-      "url": "https://www.macrumors.com/2026/05/26/ios-27-siri-dark-colors/",
-      "pubDate": "2026-05-26T21:30:50.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Level Lock Pro Review: An Apple Home Key Smart Lock That Doesn't Look Like One",
-      "url": "https://www.macrumors.com/review/level-lock-pro/",
-      "pubDate": "2026-05-26T21:22:46.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) Upgrade 617: Image Playgrounds Is My Roman Empire",
@@ -365,13 +372,6 @@
       "title": "Get a peek at the future of vibe-coded automation ↦",
       "url": "https://sixcolors.com/link/2026/05/get-a-peek-at-the-future-of-vibe-coded-automation/",
       "pubDate": "2026-05-23T20:02:57.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Apple takes soccer immersive with Real Madrid",
-      "url": "https://sixcolors.com/post/2026/05/apple-takes-soccer-immersive-with-real-madrid/",
-      "pubDate": "2026-05-21T22:30:07.000Z"
     }
   ]
 }
