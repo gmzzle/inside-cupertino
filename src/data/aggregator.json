@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T23:34:36.420Z",
+  "generatedAt": "2026-05-27T04:50:18.877Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Canada's online safety bill could threaten encryption, Apple & Google push for amendments",
+      "url": "https://appleinsider.com/articles/26/05/27/canadas-online-safety-bill-could-threaten-encryption-apple-google-push-for-amendments?utm_source=rss",
+      "pubDate": "2026-05-27T02:43:15.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "WhatsApp will soon let iPhone users share documents with Meta AI",
+      "url": "https://9to5mac.com/2026/05/26/whatsapp-will-soon-let-iphone-users-share-documents-with-meta-ai/",
+      "pubDate": "2026-05-27T00:40:33.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Did the Pope use AI to write about the dangers of AI?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
+      "pubDate": "2026-05-27T00:38:11.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Case manufacturers are guessing more than leakers with iPhone Fold product listings",
+      "url": "https://appleinsider.com/articles/26/05/26/case-manufacturers-are-guessing-more-than-leakers-with-iphone-fold-product-listings?utm_source=rss",
+      "pubDate": "2026-05-26T23:54:07.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -61,7 +89,7 @@
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple adds new CVE details to several macOS, iOS, iPadOS, visionOS, and watchOS updates",
+      "title": "Apple adds new CVE details to several macOS, iOS, iPadOS, visionOS, and watchOS updates [U]",
       "url": "https://9to5mac.com/2026/05/26/apple-adds-new-cve-details-to-several-macos-ios-ipados-visionos-and-watchos-updates/",
       "pubDate": "2026-05-26T22:14:13.000Z"
     },
@@ -199,13 +227,6 @@
       "pubDate": "2026-05-26T17:46:29.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPadOS 26.6 beta 1 now available, plus watchOS 26.6, tvOS 26.6, more",
-      "url": "https://9to5mac.com/2026/05/26/ipados-26-6-beta-1-now-available-plus-watchos-26-6-tvos-26-6-more/",
-      "pubDate": "2026-05-26T17:10:02.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "First macOS Tahoe 26.6 Beta Now Available for Developers",
@@ -297,13 +318,6 @@
       "pubDate": "2026-05-26T15:07:45.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Govee included a book on ‘white supremacy’ in its website imagery",
-      "url": "https://www.theverge.com/tech/937378/govee-white-supremacy-book-promotional-image",
-      "pubDate": "2026-05-26T15:07:40.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple's 2026 M5 MacBook Air plunges to record-low $899",
@@ -316,20 +330,6 @@
       "title": "Leaker Pushes Back on Rumors of Pro iPhone's Return to Titanium",
       "url": "https://www.macrumors.com/2026/05/26/leaker-pushes-back-on-titanium-iphone-return/",
       "pubDate": "2026-05-26T14:47:41.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "New $380 Bank of America AAPL target puts AI in the spotlight",
-      "url": "https://appleinsider.com/articles/26/05/26/new-380-bank-of-america-aapl-target-puts-ai-in-the-spotlight?utm_source=rss",
-      "pubDate": "2026-05-26T14:45:29.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPhone Fold now reportedly held up by circuit board problems",
-      "url": "https://appleinsider.com/articles/26/05/26/iphone-fold-now-reportedly-held-up-by-circuit-board-problems?utm_source=rss",
-      "pubDate": "2026-05-26T14:11:26.000Z"
     },
     {
       "source": "Six Colors",
