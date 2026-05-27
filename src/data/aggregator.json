@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T12:32:20.739Z",
+  "generatedAt": "2026-05-27T16:46:47.538Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,46 +24,200 @@
   ],
   "items": [
     {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Mojito for Mac is a new and free emoji picker with auto-complete",
+      "url": "https://9to5mac.com/2026/05/27/mojito-for-mac-is-a-new-and-free-emoji-picker-with-auto-complete/",
+      "pubDate": "2026-05-27T16:45:11.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Motorola says affiliate hijacking of Amazon app was &#8216;unintended&#8217;",
+      "url": "https://www.theverge.com/tech/938249/motorola-device-native-amazon-affiliate-hijack",
+      "pubDate": "2026-05-27T16:42:46.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Just Expanded iPhone Driver's License Feature to 14th U.S. State",
+      "url": "https://www.macrumors.com/2026/05/27/apple-wallet-ids-14th-state/",
+      "pubDate": "2026-05-27T16:41:50.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Sony is offering up to 50 percent off some of our favorite PS5 games",
+      "url": "https://www.theverge.com/gadgets/937711/cheap-ps5-games-sony-state-of-play-2026-sale-govee-lightwall-deal",
+      "pubDate": "2026-05-27T16:41:48.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "How to use digital IDs in Apple Wallet & where they are supported",
+      "url": "https://appleinsider.com/articles/25/11/18/how-to-use-digital-ids-in-apple-wallet-where-they-are-supported?utm_source=rss",
+      "pubDate": "2026-05-27T16:05:56.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Halide Mark III pro camera for iPhone arrives with three key photography upgrades",
+      "url": "https://9to5mac.com/2026/05/27/halide-mark-iii-pro-camera-for-iphone-arrives-with-three-key-photography-upgrades/",
+      "pubDate": "2026-05-27T16:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Sony’s first RGB TV is a statement piece",
+      "url": "https://www.theverge.com/tech/937879/sony-bravia-7-ii-review",
+      "pubDate": "2026-05-27T16:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "AI tried to bury this politician — now people have actually heard of him",
+      "url": "https://www.theverge.com/policy/937650/ai-alex-bores-openai-anthropic-ny12",
+      "pubDate": "2026-05-27T15:40:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Deals: 16GB and 24GB M5 MacBook Air $200 off, AirPods 4 nearly 25% off, Magic Mouse Amazon low, more",
+      "url": "https://9to5mac.com/2026/05/27/deals-m5-macbook-air-airpods-4-magic-mouse/",
+      "pubDate": "2026-05-27T15:30:31.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Here&#8217;s how Google is responding to Fitbit users who don&#8217;t like the new Health app",
+      "url": "https://www.theverge.com/tech/938179/google-health-fitbit-roadmap",
+      "pubDate": "2026-05-27T15:28:43.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 26.5 gave Messages app encrypted RCS, here’s how to check it’s working",
+      "url": "https://9to5mac.com/2026/05/27/ios-26-5-gave-messages-app-encrypted-rcs-heres-how-to-check-its-working/",
+      "pubDate": "2026-05-27T15:18:09.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Wallet digital ID support expands to new state",
+      "url": "https://9to5mac.com/2026/05/27/apple-wallet-digital-id-support-expands-to-arkansas/",
+      "pubDate": "2026-05-27T15:18:08.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "OpenAI investigating ‘elevated latency’ issue affecting ChatGPT",
+      "url": "https://9to5mac.com/2026/05/27/openai-investigating-elevated-latency-issue-affecting-chatgpt/",
+      "pubDate": "2026-05-27T15:17:23.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Atlanta's MARTA Breeze Card Now Available in Apple Wallet",
+      "url": "https://www.macrumors.com/2026/05/27/atlanta-marta-breeze-card-apple-wallet/",
+      "pubDate": "2026-05-27T15:10:52.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "We have many questions about OWC's new Stack AI speed booster",
+      "url": "https://appleinsider.com/articles/26/05/27/we-have-many-questions-about-owcs-new-stack-ai-speed-booster?utm_source=rss",
+      "pubDate": "2026-05-27T15:01:59.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "First Cases for Apple's Foldable iPhone Surface Online",
+      "url": "https://www.macrumors.com/2026/05/27/ases-for-foldable-iphone-surface-online/",
+      "pubDate": "2026-05-27T14:43:48.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Sony’s DualSense controllers are almost 30 percent off",
+      "url": "https://www.theverge.com/gadgets/938029/sony-dualsense-wireless-edge-controller-ps5-pc-deal-sale",
+      "pubDate": "2026-05-27T14:38:05.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Robinhood will let your AI agent trade stocks and make (or lose) lots of money",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/938095/robinhood-ai-agent-stock-trading",
+      "pubDate": "2026-05-27T14:36:10.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone Air MagSafe Battery is Just $59",
+      "url": "https://www.macrumors.com/2026/05/27/iphone-air-magsafe-battery-59/",
+      "pubDate": "2026-05-27T14:23:06.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Roku launches new Home Screen design for all TVs",
+      "url": "https://9to5mac.com/2026/05/27/roku-launches-new-home-screen-design-for-all-tvs/",
+      "pubDate": "2026-05-27T14:17:57.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "This smart bird feeder captures more of my backyard drama",
+      "url": "https://www.theverge.com/tech/937628/coolfly-aura-smart-bird-feeder-review",
+      "pubDate": "2026-05-27T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "This Ferrari should have been a Volkswagen",
+      "url": "https://www.theverge.com/transportation/938016/this-ferrari-should-have-been-a-volkswagen",
+      "pubDate": "2026-05-27T13:55:37.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "After the Whistle podcast returns for World Cup with Ted Lasso star",
+      "url": "https://9to5mac.com/2026/05/27/after-the-whistle-podcast-returns-for-world-cup-with-ted-lasso-star/",
+      "pubDate": "2026-05-27T13:47:21.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "007 First Light is like a James Bond movie in the best way possible",
+      "url": "https://www.theverge.com/entertainment/937984/007-first-light-review-james-bond-ps5-xbox",
+      "pubDate": "2026-05-27T13:30:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple Vision Pro & PlayStation 5 are the perfect combo with Portal Remote Play app",
+      "url": "https://appleinsider.com/articles/26/05/27/apple-vision-pro-playstation-5-are-the-perfect-combo-with-portal-remote-play-app?utm_source=rss",
+      "pubDate": "2026-05-27T13:19:52.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple increases trade-in values for iPhone, iPad, more",
+      "url": "https://9to5mac.com/2026/05/27/apple-increases-trade-in-values-for-iphone-ipad-more/",
+      "pubDate": "2026-05-27T12:55:08.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple Cinema is trying to appease the wrath of Apple's lawyers",
+      "url": "https://appleinsider.com/articles/26/05/27/apple-cinema-is-trying-to-appease-the-wrath-of-apples-lawyers?utm_source=rss",
+      "pubDate": "2026-05-27T12:44:49.000Z"
+    },
+    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Rumored anti-snatch feature will automatically lock iPhones yanked out of a user's hand",
       "url": "https://appleinsider.com/articles/26/05/27/rumored-anti-snatch-feature-will-automatically-lock-iphones-yanked-out-of-a-users-hand?utm_source=rss",
       "pubDate": "2026-05-27T12:15:14.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Xreal’s budget AR glasses feature anti-shake tech and swappable frames",
-      "url": "https://www.theverge.com/gadgets/937944/x-by-xreal-subbrand-a01-ar-glasses-price-availability",
-      "pubDate": "2026-05-27T12:05:26.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Redmagic&#8217;s liquid-cooled gaming phone arrives with overclocked Snapdragon chip",
-      "url": "https://www.theverge.com/gadgets/937935/redmagic-11s-pro-launch-specs-price",
-      "pubDate": "2026-05-27T12:04:42.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The AI fight brewing inside The New York Times",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/937689/new-york-times-tech-guild-ai-monitoring-performance-union-contract",
-      "pubDate": "2026-05-27T12:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The new Razr Ultra isn’t your average phone — for better and worse",
-      "url": "https://www.theverge.com/tech/937763/motorola-razr-ultra-2026-review-battery-camera",
-      "pubDate": "2026-05-27T12:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Pope isn’t AGI-pilled",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/937933/pope-ai-encyclical-tech-industry-reactions",
-      "pubDate": "2026-05-27T12:00:00.000Z"
     },
     {
       "source": "AppleInsider",
@@ -115,13 +269,6 @@
       "pubDate": "2026-05-27T00:40:33.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Did the Pope use AI to write about the dangers of AI?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
-      "pubDate": "2026-05-27T00:38:11.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Case manufacturers are guessing more than leakers with iPhone Fold product listings",
@@ -157,20 +304,6 @@
       "pubDate": "2026-05-26T22:46:18.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "NASA&#8217;s permanent Moon base plans start with three missions this year",
-      "url": "https://www.theverge.com/science/937775/nasa-moon-base-moonfall-updates",
-      "pubDate": "2026-05-26T22:24:53.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple adds new CVE details to several macOS, iOS, iPadOS, visionOS, and watchOS updates [U]",
-      "url": "https://9to5mac.com/2026/05/26/apple-adds-new-cve-details-to-several-macos-ios-ipados-visionos-and-watchos-updates/",
-      "pubDate": "2026-05-26T22:14:13.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iOS 27 Siri Redesign Will Use Dark Color Scheme, Matching Apple's WWDC Art",
@@ -185,13 +318,6 @@
       "pubDate": "2026-05-26T21:22:46.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "DuckDuckGo sees iPhone installs spike in the US following AI announcements at Google I/O",
-      "url": "https://9to5mac.com/2026/05/26/duckduckgo-sees-iphone-installs-spike-in-the-us-following-ai-announcements-at-google-i-o/",
-      "pubDate": "2026-05-26T21:11:43.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Passeig de Gracia Apple Store reopens, updated with new industrial design",
@@ -199,137 +325,11 @@
       "pubDate": "2026-05-26T20:53:21.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Wallet’s new Digital ID feature recently added more ways to use it",
-      "url": "https://9to5mac.com/2026/05/26/apple-wallets-new-digital-id-feature-just-added-more-ways-to-use-it/",
-      "pubDate": "2026-05-26T20:43:09.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone 18 Pro could further a design trend I’ve finally come around on",
-      "url": "https://9to5mac.com/2026/05/26/iphone-18-pro-could-further-a-design-trend-ive-finally-come-around-on/",
-      "pubDate": "2026-05-26T20:37:26.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: May 26, 2026 – watchOS 27 rumors, more",
-      "url": "https://9to5mac.com/2026/05/26/daily-may-26-2026/",
-      "pubDate": "2026-05-26T20:32:49.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "As Chinese phone market reportedly picks up steam, iPhone could be a standout winner",
-      "url": "https://9to5mac.com/2026/05/26/as-chinese-phone-market-reportedly-picks-up-steam-iphone-could-be-a-standout-winner/",
-      "pubDate": "2026-05-26T20:20:07.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "New in iOS 26.6 beta 1: Apple Maps security upgrade, blocked contact alerts",
-      "url": "https://appleinsider.com/articles/26/05/26/new-in-ios-266-beta-1-apple-maps-security-upgrade-blocked-contact-alerts?utm_source=rss",
-      "pubDate": "2026-05-26T19:52:18.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple's Beautiful Barcelona Store Reopens With Pickup Station and More",
       "url": "https://www.macrumors.com/2026/05/26/apple-passeig-de-gracia-renovated/",
       "pubDate": "2026-05-26T19:10:24.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Google Health is here, but a lot of people want their Fitbit app back instead",
-      "url": "https://www.theverge.com/gadgets/937534/google-health-fitbit-app-ai",
-      "pubDate": "2026-05-26T19:00:15.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "How Apple turned to math to defend against next-gen attacks on encryption",
-      "url": "https://appleinsider.com/articles/26/05/26/how-apple-turned-to-math-to-defend-against-next-gen-attacks-on-encryption?utm_source=rss",
-      "pubDate": "2026-05-26T18:59:09.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 26.6 adds new alert when you try blocking too many contacts",
-      "url": "https://9to5mac.com/2026/05/26/ios-26-6-adds-new-alert-when-you-try-blocking-too-many-contacts/",
-      "pubDate": "2026-05-26T18:56:32.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "GE’s nugget ice maker is nearly half off if you buy it refurbished",
-      "url": "https://www.theverge.com/gadgets/937560/ge-profile-opal-ultra-nugget-ice-maker-deal-sale",
-      "pubDate": "2026-05-26T18:50:35.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Earn a Running Day Apple Watch Activity Award on June 3",
-      "url": "https://www.macrumors.com/2026/05/26/apple-watch-activity-award-running-day/",
-      "pubDate": "2026-05-26T18:46:36.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Global Running Day Challenge coming to Apple Watch next week",
-      "url": "https://9to5mac.com/2026/05/26/global-running-day-challenge-coming-to-apple-watch-next-week/",
-      "pubDate": "2026-05-26T18:34:04.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 26.6 Will Alert You When You've Maxed Out Blocked Contacts",
-      "url": "https://www.macrumors.com/2026/05/26/ios-26-6-contact-blocking-alert/",
-      "pubDate": "2026-05-26T18:26:55.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple TV’s new space-race thriller does something unique, first reviews here",
-      "url": "https://9to5mac.com/2026/05/26/apple-tvs-new-space-race-thriller-does-something-unique-first-reviews-here/",
-      "pubDate": "2026-05-26T18:13:31.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "First betas of iOS 26.6, macOS 26.6 arrive as WWDC draws near",
-      "url": "https://appleinsider.com/articles/26/05/26/first-betas-of-ios-266-macos-266-arrive-as-wwdcs-gen-27-draws-near?utm_source=rss",
-      "pubDate": "2026-05-26T17:46:29.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "First macOS Tahoe 26.6 Beta Now Available for Developers",
-      "url": "https://www.macrumors.com/2026/05/26/apple-releases-macos-tahoe-26-6-beta-1/",
-      "pubDate": "2026-05-26T17:09:10.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Seeds First iOS 26.6 and iPadOS 26.6 Betas to Developers",
-      "url": "https://www.macrumors.com/2026/05/26/apple-releases-ios-26-beta-1/",
-      "pubDate": "2026-05-26T17:07:59.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Future iPhone might get real underwater photography features",
-      "url": "https://appleinsider.com/articles/26/05/26/future-iphone-might-get-real-underwater-photography-features?utm_source=rss",
-      "pubDate": "2026-05-26T16:46:24.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Sony’s sloppy Spider-Man universe gets even messier with Spider-Noir",
-      "url": "https://www.theverge.com/entertainment/936358/amazon-spider-noir-review",
-      "pubDate": "2026-05-26T16:30:00.000Z"
     },
     {
       "source": "Six Colors",
