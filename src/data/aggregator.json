@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T22:12:37.176Z",
+  "generatedAt": "2026-05-27T23:39:11.781Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Amazon to Acquire Apple's Globalstar Stake in Satellite Deal",
+      "url": "https://www.macrumors.com/2026/05/27/amazon-apple-globalstar-deal/",
+      "pubDate": "2026-05-27T23:32:23.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "FCC filing shows Amazon plans to acquire Apple’s 20% stake in Globalstar",
+      "url": "https://9to5mac.com/2026/05/27/fcc-filing-shows-amazon-plans-to-acquire-apples-20-stake-in-globalstar/",
+      "pubDate": "2026-05-27T22:49:09.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "A Google employee allegedly used inside information to win $1.2 million on Polymarket",
+      "url": "https://www.theverge.com/tech/938635/google-polymarket-insider-trading-prediction-market-bets",
+      "pubDate": "2026-05-27T22:30:02.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -220,13 +241,6 @@
       "pubDate": "2026-05-27T16:56:02.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Mojito for Mac is a new and free emoji picker with auto-complete",
-      "url": "https://9to5mac.com/2026/05/27/mojito-for-mac-is-a-new-and-free-emoji-picker-with-auto-complete/",
-      "pubDate": "2026-05-27T16:45:11.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Motorola says affiliate hijacking of Amazon app was &#8216;unintended&#8217;",
@@ -239,13 +253,6 @@
       "title": "Apple Just Expanded iPhone Driver's License Feature to 14th U.S. State",
       "url": "https://www.macrumors.com/2026/05/27/apple-wallet-ids-14th-state/",
       "pubDate": "2026-05-27T16:41:50.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Sony is offering up to 50 percent off some of our favorite PS5 games",
-      "url": "https://www.theverge.com/gadgets/937711/cheap-ps5-games-sony-state-of-play-2026-sale-govee-lightwall-deal",
-      "pubDate": "2026-05-27T16:41:48.000Z"
     },
     {
       "source": "AppleInsider",
@@ -337,13 +344,6 @@
       "title": "Apple Publishes Document to Help Users Tell Creator Studio Apps Apart",
       "url": "https://www.macrumors.com/2026/05/27/apple-document-to-help-tell-studio-apps-apart/",
       "pubDate": "2026-05-27T10:22:53.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "More All-Black Apple Vision Pro Parts Surface Online",
-      "url": "https://www.macrumors.com/2026/05/27/more-all-black-apple-vision-pro-parts/",
-      "pubDate": "2026-05-27T06:35:19.000Z"
     },
     {
       "source": "AppleInsider",
