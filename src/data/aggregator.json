@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T19:45:32.916Z",
+  "generatedAt": "2026-05-28T22:11:27.886Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,76 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple says latest conflict minerals review found no basis to link suppliers to armed groups",
+      "url": "https://9to5mac.com/2026/05/28/apple-says-latest-conflict-minerals-review-found-no-basis-to-link-suppliers-to-armed-groups/",
+      "pubDate": "2026-05-28T22:02:17.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Union workers protest Apple’s planned Towson store closure",
+      "url": "https://9to5mac.com/2026/05/28/union-workers-protest-apples-planned-towson-store-closure/",
+      "pubDate": "2026-05-28T21:18:08.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's AI research will be in a computer vision conference before WWDC",
+      "url": "https://appleinsider.com/articles/26/05/28/apples-ai-research-will-be-in-a-computer-vision-conference-before-wwdc?utm_source=rss",
+      "pubDate": "2026-05-28T21:03:19.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Age of Empires II: Definitive Edition now available for macOS",
+      "url": "https://9to5mac.com/2026/05/28/age-of-empires-ii-definitive-edition-now-available-for-macos/",
+      "pubDate": "2026-05-28T20:38:52.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 changes visualized for the first time, new Apple Watch details, AirDrop reliability",
+      "url": "https://9to5mac.com/2026/05/28/happy-hour-592/",
+      "pubDate": "2026-05-28T20:26:13.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple TV’s two most acclaimed shows return soon, here’s what’s coming",
+      "url": "https://9to5mac.com/2026/05/28/apple-tvs-two-most-acclaimed-shows-return-soon-heres-whats-coming/",
+      "pubDate": "2026-05-28T20:22:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Nintendo&#8217;s newest WarioWare is a weirdo smartphone app",
+      "url": "https://www.theverge.com/games/939283/pictonico-nintendo-mobile-game",
+      "pubDate": "2026-05-28T20:16:16.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Microsoft 365 Copilot gets a speed boost and cleaner design",
+      "url": "https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign",
+      "pubDate": "2026-05-28T20:14:07.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Amazon’s last-gen Paperwhite is on sale for less than the entry-level Kindle",
+      "url": "https://www.theverge.com/gadgets/939259/amazon-kindle-paperwhite-2021-woot-dad-tech-sale",
+      "pubDate": "2026-05-28T20:10:09.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone 18 Pro vs iPhone Ultra: Here are the biggest differences",
+      "url": "https://9to5mac.com/2026/05/28/iphone-18-pro-vs-iphone-ultra-three-features-to-win-your-upgrade/",
+      "pubDate": "2026-05-28T19:59:02.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -115,13 +185,6 @@
       "pubDate": "2026-05-28T17:00:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple will launch two new products this year that could reshape iPad’s future",
-      "url": "https://9to5mac.com/2026/05/28/apple-will-launch-two-new-products-this-year-that-could-reshape-ipads-future/",
-      "pubDate": "2026-05-28T16:56:36.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Rivian Explains Why CarPlay Debate Will Become 'Completely Obsolete'",
@@ -141,13 +204,6 @@
       "title": "Microsoft is killing Office 2019 for Mac and iPhone, and you can't do much about it",
       "url": "https://appleinsider.com/articles/26/05/28/microsoft-is-killing-office-2019-for-mac-and-iphone-and-you-cant-do-much-about-it?utm_source=rss",
       "pubDate": "2026-05-28T16:42:26.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Shrinking season 4 adds new cast member: Karen Gillan",
-      "url": "https://9to5mac.com/2026/05/28/shrinking-season-4-adds-new-cast-member-karen-gillan/",
-      "pubDate": "2026-05-28T16:22:11.000Z"
     },
     {
       "source": "MacRumors",
@@ -176,55 +232,6 @@
       "title": "YouTube takes baby steps to being a real podcast app",
       "url": "https://www.theverge.com/streaming/939051/youtube-premium-podcast-features",
       "pubDate": "2026-05-28T16:05:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "What’s next for Microsoft’s Surface PCs?",
-      "url": "https://www.theverge.com/tech/938807/microsoft-surface-future-devices-notepad",
-      "pubDate": "2026-05-28T16:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Call of Duty: Modern Warfare 4 is out in October, and it&#8217;s coming to the Switch 2",
-      "url": "https://www.theverge.com/games/939001/call-of-duty-modern-warfare-4-release-date-trailer-switch-2",
-      "pubDate": "2026-05-28T15:32:52.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: M5 MacBook Air $270 off, MacBook Neo, AirPods 4, AirPods Max 2 Amazon low, more",
-      "url": "https://9to5mac.com/2026/05/28/deals-macbook-air-macbook-neo-airpods-airpods-max-2/",
-      "pubDate": "2026-05-28T15:31:03.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The secret to Roku’s success: not being cool",
-      "url": "https://www.theverge.com/column/938879/roku-homescreen-redesign-not-cool",
-      "pubDate": "2026-05-28T15:30:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Spotify releases four music-focused features, including background downloads on iOS",
-      "url": "https://9to5mac.com/2026/05/28/spotify-releases-four-music-focused-features-including-background-downloads-on-ios/",
-      "pubDate": "2026-05-28T15:18:38.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Rivian says AI makes debate over CarPlay ‘completely obsolete’",
-      "url": "https://9to5mac.com/2026/05/28/rivian-says-ai-makes-debate-over-carplay-completely-obsolete/",
-      "pubDate": "2026-05-28T15:02:05.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple TV unveils return of hit detective series with Colin Farrell",
-      "url": "https://9to5mac.com/2026/05/28/apple-tv-unveils-return-of-hit-detective-series-with-colin-farrell/",
-      "pubDate": "2026-05-28T14:28:54.000Z"
     },
     {
       "source": "MacRumors",
@@ -337,13 +344,6 @@
       "title": "Patrick Brammall leads Apple TV's upcoming missing-child thriller 'Last Seen'",
       "url": "https://appleinsider.com/articles/26/05/27/patrick-brammall-leads-apple-tvs-upcoming-missing-child-thriller-last-seen?utm_source=rss",
       "pubDate": "2026-05-27T18:23:07.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Amazon has to buy out Apple's 20% Globalstar stake as acquisition rolls on",
-      "url": "https://appleinsider.com/articles/26/05/27/amazon-has-to-buy-out-apples-20-globalstar-stake-as-acquisition-rolls-on?utm_source=rss",
-      "pubDate": "2026-05-27T18:12:45.000Z"
     },
     {
       "source": "Six Colors",
