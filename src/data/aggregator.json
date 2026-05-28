@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T22:11:27.886Z",
+  "generatedAt": "2026-05-28T23:44:07.397Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's latest conflict mineral report contradicts previous complaints over their use",
+      "url": "https://appleinsider.com/articles/26/05/28/apples-latest-conflict-mineral-report-contradicts-previous-complaints-over-their-use?utm_source=rss",
+      "pubDate": "2026-05-28T23:24:50.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Watch sleep data helps Harvard researchers study menopause transition",
+      "url": "https://9to5mac.com/2026/05/28/apple-watch-sleep-data-helps-harvard-researchers-study-menopause-transition/",
+      "pubDate": "2026-05-28T22:43:28.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: May 28, 2026 – iOS 27 leak, Oura Ring 5",
+      "url": "https://9to5mac.com/2026/05/28/daily-may-28-2026/",
+      "pubDate": "2026-05-28T22:18:35.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -162,20 +183,6 @@
       "title": "Hold Off on Purchases, Students: Apple's Back to School Sale Is Coming Soon",
       "url": "https://www.macrumors.com/2026/05/28/apple-back-to-school-sale-2026-coming/",
       "pubDate": "2026-05-28T17:38:59.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple releases first iOS 26.6 public beta, here’s what to expect",
-      "url": "https://9to5mac.com/2026/05/28/apple-releases-first-ios-26-6-public-beta-heres-what-to-expect/",
-      "pubDate": "2026-05-28T17:38:25.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Anthropic upgrades Claude with new Opus 4.8 model, details here",
-      "url": "https://9to5mac.com/2026/05/28/anthropic-upgrades-claude-with-new-opus-4-8-model-heres-whats-new/",
-      "pubDate": "2026-05-28T17:09:19.000Z"
     },
     {
       "source": "The Verge",
@@ -337,13 +344,6 @@
       "title": "'MLB The Show Mobile' launches with card packs, PvP & pricey bundles",
       "url": "https://appleinsider.com/articles/26/05/27/mlb-the-show-mobile-launches-with-card-packs-pvp-pricey-bundles?utm_source=rss",
       "pubDate": "2026-05-27T19:24:16.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Patrick Brammall leads Apple TV's upcoming missing-child thriller 'Last Seen'",
-      "url": "https://appleinsider.com/articles/26/05/27/patrick-brammall-leads-apple-tvs-upcoming-missing-child-thriller-last-seen?utm_source=rss",
-      "pubDate": "2026-05-27T18:23:07.000Z"
     },
     {
       "source": "Six Colors",
