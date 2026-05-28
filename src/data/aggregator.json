@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T04:41:20.900Z",
+  "generatedAt": "2026-05-28T08:53:45.742Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "YouTube will let you ask AI to make a custom video feed",
+      "url": "https://www.theverge.com/streaming/938759/youtube-custom-ai-feed-prompt-availability",
+      "pubDate": "2026-05-28T08:49:07.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The golden age of handheld gaming is already over",
+      "url": "https://www.theverge.com/games/938451/steam-deck-price-hike-end-of-handheld-gaming-era",
+      "pubDate": "2026-05-28T06:30:23.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -246,20 +260,6 @@
       "title": "The Verge’s 2026 college graduation gift guide",
       "url": "https://www.theverge.com/gadgets/927121/best-college-graduation-gift-ideas",
       "pubDate": "2026-05-27T17:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "You can print, slice, and engrave using this desktop crafting machine",
-      "url": "https://www.theverge.com/tech/938031/xtool-m2-craft-machine-cmyk-inkjet-printing-laser-diode-cutter",
-      "pubDate": "2026-05-27T16:56:02.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Motorola says affiliate hijacking of Amazon app was &#8216;unintended&#8217;",
-      "url": "https://www.theverge.com/tech/938249/motorola-device-native-amazon-affiliate-hijack",
-      "pubDate": "2026-05-27T16:42:46.000Z"
     },
     {
       "source": "MacRumors",
