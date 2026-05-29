@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T22:08:06.401Z",
+  "generatedAt": "2026-05-29T23:42:10.533Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Nvidia, Microsoft, and Arm are all teasing Nvidia’s new N1X laptop processors",
+      "url": "https://www.theverge.com/news/940275/nvidia-n1x-laptop-processor-arm-microsoft-teaser",
+      "pubDate": "2026-05-29T23:03:29.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "DuckDuckGo's 'No AI' Search Traffic Climbs as Users Reject Google's AI Overhaul",
+      "url": "https://www.macrumors.com/2026/05/29/duckduckgo-no-ai-search/",
+      "pubDate": "2026-05-29T22:55:24.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -255,13 +269,6 @@
       "pubDate": "2026-05-29T14:15:24.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "How Ferrari bungled the design of its first EV",
-      "url": "https://www.theverge.com/transportation/939226/ferrari-luce-design-terrible-ev-jony-ive-apple",
-      "pubDate": "2026-05-29T14:00:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "iPhone leaks, Apple Vision Pro gaming, and the Ferrari Luce, on the AppleInsider Podcast",
@@ -351,13 +358,6 @@
       "title": "Rivian Explains Why CarPlay Debate Will Become 'Completely Obsolete'",
       "url": "https://www.macrumors.com/2026/05/28/rivian-software-chief-on-carplay/",
       "pubDate": "2026-05-28T16:48:23.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Oura Ring 5 Unveiled With Smaller Design and Blood Pressure Tracking",
-      "url": "https://www.macrumors.com/2026/05/28/oura-ring-5-unveiled-with-smaller-design/",
-      "pubDate": "2026-05-28T16:22:04.000Z"
     },
     {
       "source": "Six Colors",
