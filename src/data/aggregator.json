@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T23:44:07.397Z",
+  "generatedAt": "2026-05-29T04:43:51.363Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "How to turn Jellyfin on an old Mac into a private streaming service",
+      "url": "https://appleinsider.com/inside/macos/tips/how-to-turn-jellyfin-on-an-old-mac-into-a-private-streaming-service?utm_source=rss",
+      "pubDate": "2026-05-29T03:00:50.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "John Travolta’s directorial debut is now available to stream on Apple TV",
+      "url": "https://9to5mac.com/2026/05/28/john-travoltas-directorial-debut-is-now-available-to-stream-on-apple-tv/",
+      "pubDate": "2026-05-29T01:16:45.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -171,13 +185,6 @@
       "pubDate": "2026-05-28T17:41:51.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple releases public beta for iPadOS 26.6, tvOS 26.6, and watchOS 26.6",
-      "url": "https://9to5mac.com/2026/05/28/apple-releases-public-beta-for-ipados-26-6-tvos-26-6-and-watchos-26-6/",
-      "pubDate": "2026-05-28T17:41:44.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Hold Off on Purchases, Students: Apple's Back to School Sale Is Coming Soon",
@@ -311,13 +318,6 @@
       "pubDate": "2026-05-28T00:06:00.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "JMGO N3 Ultimate projector review: Great setup, excellent picture, bad software",
-      "url": "https://appleinsider.com/articles/26/05/28/jmgo-n3-ultimate-projector-review-great-setup-excellent-picture-bad-software?utm_source=rss",
-      "pubDate": "2026-05-28T00:01:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Amazon to Acquire Apple's Globalstar Stake in Satellite Deal",
@@ -337,13 +337,6 @@
       "title": "Roku Unveils Redesigned Home Screen",
       "url": "https://www.macrumors.com/2026/05/27/roku-unveils-redesigned-home-screen/",
       "pubDate": "2026-05-27T21:29:57.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "'MLB The Show Mobile' launches with card packs, PvP & pricey bundles",
-      "url": "https://appleinsider.com/articles/26/05/27/mlb-the-show-mobile-launches-with-card-packs-pvp-pricey-bundles?utm_source=rss",
-      "pubDate": "2026-05-27T19:24:16.000Z"
     },
     {
       "source": "Six Colors",
@@ -372,6 +365,13 @@
       "title": "Get a peek at the future of vibe-coded automation ↦",
       "url": "https://sixcolors.com/link/2026/05/get-a-peek-at-the-future-of-vibe-coded-automation/",
       "pubDate": "2026-05-23T20:02:57.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Apple takes soccer immersive with Real Madrid",
+      "url": "https://sixcolors.com/post/2026/05/apple-takes-soccer-immersive-with-real-madrid/",
+      "pubDate": "2026-05-21T22:30:07.000Z"
     }
   ]
 }
