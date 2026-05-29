@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T19:41:15.922Z",
+  "generatedAt": "2026-05-29T22:08:06.401Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Save up to $1,300 on every 14-inch MacBook Pro M5 Pro and M5 Max",
+      "url": "https://appleinsider.com/articles/26/05/29/save-up-to-1300-on-every-14-inch-macbook-pro-m5-pro-and-m5-max?utm_source=rss",
+      "pubDate": "2026-05-29T22:05:42.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple spotlights Detroit app makers as local Developer Academy marks fifth graduating class",
+      "url": "https://9to5mac.com/2026/05/29/apple-spotlights-detroit-app-makers-as-local-developer-academy-marks-fifth-graduating-class/",
+      "pubDate": "2026-05-29T22:01:59.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "SpaceX gets $4 billion contract to build missile-tracking ‘Golden Dome’ satellites",
+      "url": "https://www.theverge.com/science/940207/spacex-golden-dome-satellite-contract",
+      "pubDate": "2026-05-29T21:48:52.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Kuo: Apple’s iPhone camera roadmap includes a costly upgrade",
+      "url": "https://9to5mac.com/2026/05/29/kuo-apples-iphone-camera-roadmap-includes-a-costly-upgrade/",
+      "pubDate": "2026-05-29T21:05:53.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -220,13 +248,6 @@
       "pubDate": "2026-05-29T14:44:42.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "For all Mankind spinoff series Star City premieres on Apple TV",
-      "url": "https://9to5mac.com/2026/05/29/for-all-mankind-spinoff-series-star-city-premieres-on-apple-tv/",
-      "pubDate": "2026-05-29T14:36:03.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Best Apple Deals of the Week: M5 MacBook Air Gets $199 Discounts, Plus Save on Samsung's New Monitors",
@@ -234,24 +255,10 @@
       "pubDate": "2026-05-29T14:15:24.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Amazon won’t let 13 older Kindle models access new books",
-      "url": "https://9to5mac.com/2026/05/29/amazon-wont-let-13-older-kindle-models-access-new-books/",
-      "pubDate": "2026-05-29T14:09:19.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "How Ferrari bungled the design of its first EV",
       "url": "https://www.theverge.com/transportation/939226/ferrari-luce-design-terrible-ev-jony-ive-apple",
-      "pubDate": "2026-05-29T14:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "What would you be willing to put in your body?",
-      "url": "https://www.theverge.com/column/939462/enhanced-games-biohacking-fda-health-wellness",
       "pubDate": "2026-05-29T14:00:00.000Z"
     },
     {
@@ -316,13 +323,6 @@
       "title": "Apple's latest conflict mineral report contradicts previous complaints over their use",
       "url": "https://appleinsider.com/articles/26/05/28/apples-latest-conflict-mineral-report-contradicts-previous-complaints-over-their-use?utm_source=rss",
       "pubDate": "2026-05-28T23:24:50.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple's AI research will be in a computer vision conference before WWDC",
-      "url": "https://appleinsider.com/articles/26/05/28/apples-ai-research-will-be-in-a-computer-vision-conference-before-wwdc?utm_source=rss",
-      "pubDate": "2026-05-28T21:03:19.000Z"
     },
     {
       "source": "MacRumors",
