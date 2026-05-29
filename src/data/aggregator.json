@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T16:54:17.941Z",
+  "generatedAt": "2026-05-29T19:41:15.922Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,104 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Music outage confirmed in multiple countries",
+      "url": "https://9to5mac.com/2026/05/29/apple-music-outage-confirmed-in-multiple-countries/",
+      "pubDate": "2026-05-29T19:16:53.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Abxylute M4 review: Smart design can't save a cramped controller",
+      "url": "https://appleinsider.com/articles/26/05/29/abxylute-m4-review-smart-design-cant-save-a-cramped-controller?utm_source=rss",
+      "pubDate": "2026-05-29T19:03:46.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Acer’s launching a Linux handheld for streaming your PC games",
+      "url": "https://www.theverge.com/games/940091/acer-nitro-blaze-link-linux-handheld",
+      "pubDate": "2026-05-29T19:01:48.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple TV’s latest sci-fi series is a winner, and just the start of exciting new direction",
+      "url": "https://9to5mac.com/2026/05/29/apple-tvs-latest-sci-fi-series-is-a-winner-and-just-the-start-of-exciting-new-direction/",
+      "pubDate": "2026-05-29T18:53:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "HomeKit Weekly: SwitchBot Button Pusher finally works natively with Apple Home",
+      "url": "https://9to5mac.com/2026/05/29/switchbot-button-pusher-finally-works-natively-with-apple-home/",
+      "pubDate": "2026-05-29T18:51:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 rumored to bring new design changes in two key areas",
+      "url": "https://9to5mac.com/2026/05/29/ios-27-rumored-to-bring-new-design-changes-in-two-key-areas/",
+      "pubDate": "2026-05-29T18:29:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "ChatGPT for iOS and Android can now start Codex work on Windows",
+      "url": "https://9to5mac.com/2026/05/29/chatgpt-for-ios-can-now-start-codex-work-on-windows/",
+      "pubDate": "2026-05-29T18:23:14.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Tech companies desperately want to film you doing chores",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data",
+      "pubDate": "2026-05-29T17:37:43.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "LG's 39-Inch Ultrawide 5K2K OLED Display Officially Begins Shipping Next Week",
+      "url": "https://www.macrumors.com/2026/05/29/lg-39-inch-5k2k-oled-display-shipping/",
+      "pubDate": "2026-05-29T17:36:06.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Live lyrics now available in CarPlay with new app update",
+      "url": "https://9to5mac.com/2026/05/29/live-lyrics-now-available-in-carplay-with-new-app-update/",
+      "pubDate": "2026-05-29T17:32:33.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "New colors for the iPhone 18 Pro? ↦",
+      "url": "https://sixcolors.com/link/2026/05/new-colors-for-the-iphone-18-pro/",
+      "pubDate": "2026-05-29T17:29:14.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple has five new products coming that could launch at WWDC",
+      "url": "https://9to5mac.com/2026/05/29/apple-has-five-new-products-coming-that-could-launch-at-wwdc/",
+      "pubDate": "2026-05-29T17:19:24.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Detroit's controversial Apple Developer Academy has entered its 5th year",
+      "url": "https://appleinsider.com/articles/26/05/29/detroits-controversial-apple-developer-academy-has-entered-its-5th-year?utm_source=rss",
+      "pubDate": "2026-05-29T17:05:47.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The Verge’s 2026 high school graduation gift guide",
+      "url": "https://www.theverge.com/gadgets/932602/best-high-school-graduation-gift-ideas",
+      "pubDate": "2026-05-29T17:00:00.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -157,53 +255,11 @@
       "pubDate": "2026-05-29T14:00:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 might convince a lot of people to upgrade to a new iPhone",
-      "url": "https://9to5mac.com/2026/05/29/ios-27-might-convince-a-lot-of-people-to-upgrade-to-a-new-iphone/",
-      "pubDate": "2026-05-29T13:44:04.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "WWDC 2026 Wish List: Health for Mac, Wallet everywhere, and other OS 27 dreams",
-      "url": "https://9to5mac.com/2026/05/29/hopes-for-wwdc-2026-health-for-mac-wallet-everywhere-and-other-os-27-dreams/",
-      "pubDate": "2026-05-29T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Backrooms is at the forefront of horror&#8217;s YouTube wave",
-      "url": "https://www.theverge.com/entertainment/938437/backrooms-youtube-kane-parsons-a12",
-      "pubDate": "2026-05-29T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Acer’s answer to the MacBook Neo is a $699 laptop with Intel chips and 8GB of RAM",
-      "url": "https://www.theverge.com/tech/939596/acer-swift-air-14-aspire-18-nitro-16-computex-price-specs",
-      "pubDate": "2026-05-29T13:00:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "iPhone leaks, Apple Vision Pro gaming, and the Ferrari Luce, on the AppleInsider Podcast",
       "url": "https://appleinsider.com/articles/26/05/29/iphone-leaks-apple-vision-pro-gaming-and-the-ferrari-luce-on-the-appleinsider-podcast?utm_source=rss",
       "pubDate": "2026-05-29T12:48:55.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Trump Mobile’s website still says the T1 Phone is ‘American-made’",
-      "url": "https://www.theverge.com/tech/939108/trump-mobile-t1-phone-website-american-made",
-      "pubDate": "2026-05-29T12:30:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone 18 Pro dummy units reveal four color options [Gallery]",
-      "url": "https://9to5mac.com/2026/05/29/iphone-18-pro-dummy-units-reveal-four-color-options-gallery/",
-      "pubDate": "2026-05-29T12:14:59.000Z"
     },
     {
       "source": "AppleInsider",
@@ -255,39 +311,11 @@
       "pubDate": "2026-05-29T10:44:01.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "John Travolta’s directorial debut is now available to stream on Apple TV",
-      "url": "https://9to5mac.com/2026/05/28/john-travoltas-directorial-debut-is-now-available-to-stream-on-apple-tv/",
-      "pubDate": "2026-05-29T01:16:45.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple's latest conflict mineral report contradicts previous complaints over their use",
       "url": "https://appleinsider.com/articles/26/05/28/apples-latest-conflict-mineral-report-contradicts-previous-complaints-over-their-use?utm_source=rss",
       "pubDate": "2026-05-28T23:24:50.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Watch sleep data helps Harvard researchers study menopause transition",
-      "url": "https://9to5mac.com/2026/05/28/apple-watch-sleep-data-helps-harvard-researchers-study-menopause-transition/",
-      "pubDate": "2026-05-28T22:43:28.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: May 28, 2026 – iOS 27 leak, Oura Ring 5",
-      "url": "https://9to5mac.com/2026/05/28/daily-may-28-2026/",
-      "pubDate": "2026-05-28T22:18:35.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple says latest conflict minerals review found no basis to link suppliers to armed groups",
-      "url": "https://9to5mac.com/2026/05/28/apple-says-latest-conflict-minerals-review-found-no-basis-to-link-suppliers-to-armed-groups/",
-      "pubDate": "2026-05-28T22:02:17.000Z"
     },
     {
       "source": "AppleInsider",
@@ -302,13 +330,6 @@
       "title": "Anthropic Launches Claude Opus 4.8 With Gains in Coding and Honesty",
       "url": "https://www.macrumors.com/2026/05/28/anthropic-claude-opus-4-8/",
       "pubDate": "2026-05-28T18:29:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "OLED, KVM & lower prices make MSI's new Mac-friendly monitor lineup hard to ignore",
-      "url": "https://appleinsider.com/articles/26/05/28/oled-kvm-lower-prices-make-msis-new-mac-friendly-monitor-lineup-hard-to-ignore?utm_source=rss",
-      "pubDate": "2026-05-28T18:12:26.000Z"
     },
     {
       "source": "MacRumors",
@@ -332,25 +353,11 @@
       "pubDate": "2026-05-28T16:48:23.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Microsoft is killing Office 2019 for Mac and iPhone, and you can't do much about it",
-      "url": "https://appleinsider.com/articles/26/05/28/microsoft-is-killing-office-2019-for-mac-and-iphone-and-you-cant-do-much-about-it?utm_source=rss",
-      "pubDate": "2026-05-28T16:42:26.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Oura Ring 5 Unveiled With Smaller Design and Blood Pressure Tracking",
       "url": "https://www.macrumors.com/2026/05/28/oura-ring-5-unveiled-with-smaller-design/",
       "pubDate": "2026-05-28T16:22:04.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Report: Apple Plans to Make On-Device AI a Key WWDC Focus",
-      "url": "https://www.macrumors.com/2026/05/28/apple-to-make-on-device-ai-key-focus/",
-      "pubDate": "2026-05-28T14:16:11.000Z"
     },
     {
       "source": "Six Colors",
@@ -365,13 +372,6 @@
       "title": "(Podcast) The Rebound 600: Follow Me on OnlyFlanges",
       "url": "https://sixcolors.com/podcast/2026/05/the-rebound-600-follow-me-on-onlyflanges/",
       "pubDate": "2026-05-27T14:00:00.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) Upgrade 617: Image Playgrounds Is My Roman Empire",
-      "url": "https://sixcolors.com/podcast/2026/05/upgrade-617-image-playgrounds-is-my-roman-empire/",
-      "pubDate": "2026-05-25T21:11:49.000Z"
     }
   ]
 }
