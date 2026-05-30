@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T18:15:51.849Z",
+  "generatedAt": "2026-05-30T20:17:48.892Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Mystery Beats headphones appear around Lamine Yamal's neck",
+      "url": "https://appleinsider.com/articles/26/05/30/mystery-beats-headphones-appear-around-lamine-yamals-neck?utm_source=rss",
+      "pubDate": "2026-05-30T19:57:32.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Upcoming Beats headphones teased by Lamine Yamal: New design, pink colorway",
+      "url": "https://9to5mac.com/2026/05/30/upcoming-beats-overear-headphones-teased-in-instagram-post/",
+      "pubDate": "2026-05-30T19:12:33.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Lamine Yamal Teases Upcoming Beats Over-Ear Headphones",
+      "url": "https://www.macrumors.com/2026/05/30/lamine-yamal-teases-upcoming-beats-headphones/",
+      "pubDate": "2026-05-30T18:19:45.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -61,7 +82,7 @@
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
-      "title": "Some of our favorite art TVs are more than 40 percent off this weekend",
+      "title": "Two of our favorite art TVs are more than 40 percent off this weekend",
       "url": "https://www.theverge.com/gadgets/940211/samsung-frame-hisense-canvastv-art-tv-sale-deal",
       "pubDate": "2026-05-30T15:00:00.000Z"
     },
@@ -213,13 +234,6 @@
       "pubDate": "2026-05-29T18:29:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "ChatGPT for iOS and Android can now start Codex work on Windows",
-      "url": "https://9to5mac.com/2026/05/29/chatgpt-for-ios-can-now-start-codex-work-on-windows/",
-      "pubDate": "2026-05-29T18:23:14.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "LG's 39-Inch Ultrawide 5K2K OLED Display Officially Begins Shipping Next Week",
@@ -353,25 +367,11 @@
       "pubDate": "2026-05-28T18:29:00.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Seeds First Public Betas of iOS 26.6, macOS Tahoe 26.6 and More",
-      "url": "https://www.macrumors.com/2026/05/28/apple-seeds-ios-26-6-public-beta-1/",
-      "pubDate": "2026-05-28T17:46:02.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) Clockwise 658: Ugh, So Meaty",
       "url": "https://sixcolors.com/podcast/2026/05/clockwise-658-ugh-so-meaty/",
       "pubDate": "2026-05-27T21:30:15.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) The Rebound 600: Follow Me on OnlyFlanges",
-      "url": "https://sixcolors.com/podcast/2026/05/the-rebound-600-follow-me-on-onlyflanges/",
-      "pubDate": "2026-05-27T14:00:00.000Z"
     }
   ]
 }
