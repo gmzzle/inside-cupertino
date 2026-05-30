@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T23:42:10.533Z",
+  "generatedAt": "2026-05-30T04:18:15.435Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Music could soon get different subscription tiers",
+      "url": "https://9to5mac.com/2026/05/29/apple-music-could-soon-get-different-subscription-tiers/",
+      "pubDate": "2026-05-30T02:09:03.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: May 29, 2026 – Apple Wallet IDs, Rivian and CarPlay",
+      "url": "https://9to5mac.com/2026/05/29/daily-may-29-2026/",
+      "pubDate": "2026-05-30T00:06:18.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -68,7 +82,7 @@
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Music outage confirmed in multiple countries",
+      "title": "Apple Music outage confirmed in multiple countries [U: Fixed]",
       "url": "https://9to5mac.com/2026/05/29/apple-music-outage-confirmed-in-multiple-countries/",
       "pubDate": "2026-05-29T19:16:53.000Z"
     },
@@ -206,13 +220,6 @@
       "pubDate": "2026-05-29T15:47:13.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: M5 MacBook Air up to $270 off, iPad from $299, Apple Solo Loops from $9, Beats 240W cable, more",
-      "url": "https://9to5mac.com/2026/05/29/deals-m5-macbook-air-ipad-apple-solo-loop/",
-      "pubDate": "2026-05-29T15:31:07.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Anticipating WWDC 2026: Apple’s AI do-over? (Macworld/Jason Snell)",
@@ -225,13 +232,6 @@
       "title": "Windows PC Industry Reacts to Apple's Most Affordable MacBook Ever",
       "url": "https://www.macrumors.com/2026/05/29/windows-pc-industry-reacts-to-macbook-neo/",
       "pubDate": "2026-05-29T15:30:32.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPadOS 26 one year later: My highs and lows as full-time iPad Pro user",
-      "url": "https://9to5mac.com/2026/05/29/ipados-26-one-year-later-my-highs-and-lows-as-full-time-ipad-pro-user/",
-      "pubDate": "2026-05-29T15:20:37.000Z"
     },
     {
       "source": "The Verge",
