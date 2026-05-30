@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T10:18:25.767Z",
+  "generatedAt": "2026-05-30T12:16:49.089Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Sometimes, a short game hits the spot",
+      "url": "https://www.theverge.com/games/937499/slots-and-daggers-review-nintendo-switch-ps5-xbox-series-x-s-pc",
+      "pubDate": "2026-05-30T12:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The SpaceX IPO is great for Elon Musk and terrible for you",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/940001/elon-musk-spacex-ipo-ai",
+      "pubDate": "2026-05-30T12:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "This is the James Bond game we’ve been waiting for",
+      "url": "https://www.theverge.com/tech/940092/007-first-light-oura-ring-5-installer",
+      "pubDate": "2026-05-30T12:00:00.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -232,27 +253,6 @@
       "title": "Windows PC Industry Reacts to Apple's Most Affordable MacBook Ever",
       "url": "https://www.macrumors.com/2026/05/29/windows-pc-industry-reacts-to-macbook-neo/",
       "pubDate": "2026-05-29T15:30:32.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Trump’s mass deportations are only possible with racial profiling",
-      "url": "https://www.theverge.com/policy/939434/trump-ice-racial-profiling-dhs-mass-deportations",
-      "pubDate": "2026-05-29T15:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "At $549, Lenovo’s Legion Go S gaming handheld is suddenly a good deal",
-      "url": "https://www.theverge.com/gadgets/939842/lenovo-legion-go-s-windows-gaming-handheld-deal-sale",
-      "pubDate": "2026-05-29T14:59:12.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "You can buy two of Anker’s Qi2 wireless chargers for under $25",
-      "url": "https://www.theverge.com/gadgets/939445/anker-zolo-magnetic-wireless-charger-ue-wonderboom-4-speaker-deal-sale",
-      "pubDate": "2026-05-29T14:46:58.000Z"
     },
     {
       "source": "AppleInsider",
