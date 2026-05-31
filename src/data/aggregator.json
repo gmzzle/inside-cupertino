@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T20:33:31.790Z",
+  "generatedAt": "2026-05-31T22:14:55.805Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iOS 28 Will Reportedly Be 'Far More Significant' Than iOS 27",
+      "url": "https://www.macrumors.com/2026/05/31/ios-28-far-more-significant-rumor/",
+      "pubDate": "2026-05-31T21:44:33.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Apple’s strategy for smart glasses is the same as smart watches",
+      "url": "https://www.theverge.com/tech/940572/apples-strategy-smart-glasses-smart-watches",
+      "pubDate": "2026-05-31T21:33:11.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -162,13 +176,6 @@
       "title": "I went looking for the AI weed vape that gives you Bitcoin for smoking",
       "url": "https://www.theverge.com/ai-artificial-intelligence/933916/ai-powered-crypto-cannabis-vape",
       "pubDate": "2026-05-31T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "User-replaceable batteries are coming back in a big way",
-      "url": "https://www.theverge.com/column/939026/user-replaceable-batteries-eu-european-union-legislation",
-      "pubDate": "2026-05-31T12:00:00.000Z"
     },
     {
       "source": "9to5Mac",
@@ -358,13 +365,6 @@
       "title": "Best Apple Deals of the Week: M5 MacBook Air Gets $199 Discounts, Plus Save on Samsung's New Monitors",
       "url": "https://www.macrumors.com/2026/05/29/best-apple-deals-of-the-week-5-29-26/",
       "pubDate": "2026-05-29T14:15:24.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "First Look at iPhone 18 Pro Color Options Revealed by Dummy Models",
-      "url": "https://www.macrumors.com/2026/05/29/first-look-at-iphone-18-pro-color-options-revealed/",
-      "pubDate": "2026-05-29T11:50:22.000Z"
     },
     {
       "source": "Six Colors",
