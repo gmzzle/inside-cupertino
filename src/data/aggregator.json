@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T14:56:34.878Z",
+  "generatedAt": "2026-05-31T16:36:45.428Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,69 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Longtime leaker joins others in saying Apple Glasses won't arrive until late 2027",
+      "url": "https://appleinsider.com/articles/26/05/31/longtime-leaker-joins-others-in-saying-apple-glasses-wont-arrive-until-late-2027?utm_source=rss",
+      "pubDate": "2026-05-31T16:21:50.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Glasses Reportedly Launching in 'Late 2027' With These Features",
+      "url": "https://www.macrumors.com/2026/05/31/apple-glasses-late-2027-report/",
+      "pubDate": "2026-05-31T16:21:35.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Surprising nobody, Apple's already working on iOS 28, macOS 28",
+      "url": "https://appleinsider.com/articles/26/05/31/surprising-nobody-apples-already-working-on-ios-28-macos-28?utm_source=rss",
+      "pubDate": "2026-05-31T16:07:03.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Feeble Little Horse leans into digital weirdness on bitknot",
+      "url": "https://www.theverge.com/entertainment/940449/feeble-little-horse-bitknot-music-album-review",
+      "pubDate": "2026-05-31T16:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "United flight forced to turn around because of a Bluetooth speaker name",
+      "url": "https://www.theverge.com/transportation/940486/united-flight-236-bluetooth-speaker-name-bomb",
+      "pubDate": "2026-05-31T15:50:02.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "New Apple TV and HomePod Mini Are 'Nearly Ready' to Launch, New Siri Remote Also Rumored",
+      "url": "https://www.macrumors.com/2026/05/31/new-apple-tv-and-homepod-mini-nearly-ready/",
+      "pubDate": "2026-05-31T15:47:50.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple TV, HomePod mini updates are waiting for Siri's upgrade",
+      "url": "https://appleinsider.com/articles/26/05/31/apple-tv-homepod-mini-updates-are-waiting-for-siris-upgrade?utm_source=rss",
+      "pubDate": "2026-05-31T15:33:28.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple AI glasses launch pushed back to late 2027, Vision Air to arrive by 2029: report",
+      "url": "https://9to5mac.com/2026/05/31/apple-glasses-launching-late-2027-with-vision-air-to-follow-by-2029/",
+      "pubDate": "2026-05-31T15:13:34.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "This extravagant gaming laptop could ruin other screens for you",
+      "url": "https://www.theverge.com/tech/940221/asus-rog-strix-scar-18-elmb-gaming-laptop-motion-blur-handson-impressions",
+      "pubDate": "2026-05-31T15:00:00.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -150,27 +213,6 @@
       "pubDate": "2026-05-30T16:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Welcome to Night Vale host Cecil Baldwin shares his tech pet peeves",
-      "url": "https://www.theverge.com/entertainment/939930/welcome-to-night-vale-host-cecil-baldwin-shares-his-tech-pet-peeves",
-      "pubDate": "2026-05-30T16:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Microsoft is threatening legal action for disclosing exploits",
-      "url": "https://www.theverge.com/tech/940416/microsoft-nightmare-eclipse-zero-day-vulnerability",
-      "pubDate": "2026-05-30T15:19:50.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Two of our favorite art TVs are more than 40 percent off this weekend",
-      "url": "https://www.theverge.com/gadgets/940211/samsung-frame-hisense-canvastv-art-tv-sale-deal",
-      "pubDate": "2026-05-30T15:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "AirPods Weekend Deals Include AirPods 4 for $99 and AirPods Max 2 for $509",
@@ -239,13 +281,6 @@
       "title": "Kuo: Apple’s iPhone camera roadmap includes a costly upgrade",
       "url": "https://9to5mac.com/2026/05/29/kuo-apples-iphone-camera-roadmap-includes-a-costly-upgrade/",
       "pubDate": "2026-05-29T21:05:53.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Music outage confirmed in multiple countries [U: Fixed]",
-      "url": "https://9to5mac.com/2026/05/29/apple-music-outage-confirmed-in-multiple-countries/",
-      "pubDate": "2026-05-29T19:16:53.000Z"
     },
     {
       "source": "AppleInsider",
@@ -325,46 +360,11 @@
       "pubDate": "2026-05-29T14:15:24.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPhone leaks, Apple Vision Pro gaming, and the Ferrari Luce, on the AppleInsider Podcast",
-      "url": "https://appleinsider.com/articles/26/05/29/iphone-leaks-apple-vision-pro-gaming-and-the-ferrari-luce-on-the-appleinsider-podcast?utm_source=rss",
-      "pubDate": "2026-05-29T12:48:55.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Suppliers are racing to keep up with orders for incredibly popular MacBook Neo",
-      "url": "https://appleinsider.com/articles/26/05/29/suppliers-are-racing-to-keep-up-with-orders-for-incredibly-popular-macbook-neo?utm_source=rss",
-      "pubDate": "2026-05-29T12:05:42.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "The last visionOS 26 review: Apathy about Apple Vision Pro on display",
-      "url": "https://appleinsider.com/articles/26/05/29/the-last-visionos-26-review-apathy-about-apple-vision-pro-on-display?utm_source=rss",
-      "pubDate": "2026-05-29T11:53:54.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "First Look at iPhone 18 Pro Color Options Revealed by Dummy Models",
       "url": "https://www.macrumors.com/2026/05/29/first-look-at-iphone-18-pro-color-options-revealed/",
       "pubDate": "2026-05-29T11:50:22.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone 18 Pro's Camera Upgrade Will Cost Apple 50% More",
-      "url": "https://www.macrumors.com/2026/05/29/iphone-18-pros-camera-upgrade-will-cost-more/",
-      "pubDate": "2026-05-29T10:44:01.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Anthropic Launches Claude Opus 4.8 With Gains in Coding and Honesty",
-      "url": "https://www.macrumors.com/2026/05/28/anthropic-claude-opus-4-8/",
-      "pubDate": "2026-05-28T18:29:00.000Z"
     },
     {
       "source": "Six Colors",
