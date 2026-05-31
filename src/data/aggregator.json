@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T08:22:47.993Z",
+  "generatedAt": "2026-05-31T11:08:13.789Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The Mercedes CLA offers great EV specs for an average price",
+      "url": "https://www.theverge.com/transportation/940387/mercedes-cla-350-ev-review-price-specs",
+      "pubDate": "2026-05-31T11:00:00.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -148,13 +155,6 @@
       "title": "Android Apple Music beta hints at alternate tiers, skip limits",
       "url": "https://appleinsider.com/articles/26/05/30/android-apple-music-beta-hints-at-alternate-tiers-skip-limits?utm_source=rss",
       "pubDate": "2026-05-30T12:20:07.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Sometimes, a short game hits the spot",
-      "url": "https://www.theverge.com/games/937499/slots-and-daggers-review-nintendo-switch-ps5-xbox-series-x-s-pc",
-      "pubDate": "2026-05-30T12:00:00.000Z"
     },
     {
       "source": "9to5Mac",
