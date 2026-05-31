@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T12:47:59.427Z",
+  "generatedAt": "2026-05-31T14:56:34.878Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,6 +24,55 @@
   ],
   "items": [
     {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Like Apple Watch at start, Apple's smart glasses plan will challenge the entire industry",
+      "url": "https://appleinsider.com/articles/26/05/31/like-apple-watch-at-start-apples-smart-glasses-plan-will-challenge-the-entire-industry?utm_source=rss",
+      "pubDate": "2026-05-31T14:51:38.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Slimmer & lighter Apple Vision Pro is at least two years away",
+      "url": "https://appleinsider.com/articles/26/05/31/slimmer-lighter-apple-vision-pro-is-at-least-two-years-away?utm_source=rss",
+      "pubDate": "2026-05-31T14:32:01.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Report: New Apple TV, HomePod mini set to launch this fall; Siri Remote ‘refresh’ possible",
+      "url": "https://9to5mac.com/2026/05/31/new-apple-tv-and-homepod-mini-launching-this-fall-apple-intelligence/",
+      "pubDate": "2026-05-31T14:31:50.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "007 First Light is already discounted for the PS5 and Steam",
+      "url": "https://www.theverge.com/gadgets/940126/007-first-light-ps5-pc-steam-deal-sale",
+      "pubDate": "2026-05-31T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Marathon&#8217;s second season is a chance for Bungie to turn things around",
+      "url": "https://www.theverge.com/games/940214/marathon-bungie-season-two-turnaround-destiny-changes",
+      "pubDate": "2026-05-31T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "NASA confirms exploding meteor caused the sonic boom over Boston",
+      "url": "https://www.theverge.com/science/940467/meteor-exploded-new-england",
+      "pubDate": "2026-05-31T13:44:46.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "I went looking for the AI weed vape that gives you Bitcoin for smoking",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/933916/ai-powered-crypto-cannabis-vape",
+      "pubDate": "2026-05-31T13:00:00.000Z"
+    },
+    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "User-replaceable batteries are coming back in a big way",
@@ -43,6 +92,13 @@
       "title": "The Mercedes CLA offers great EV specs for an average price",
       "url": "https://www.theverge.com/transportation/940387/mercedes-cla-350-ev-review-price-specs",
       "pubDate": "2026-05-31T11:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple TV 4K on track to break a record no one wants to see happen",
+      "url": "https://9to5mac.com/2026/05/31/apple-tv-4k-might-break-a-record-no-one-wants-to-see-happen/",
+      "pubDate": "2026-05-31T08:00:00.000Z"
     },
     {
       "source": "AppleInsider",
@@ -115,27 +171,6 @@
       "pubDate": "2026-05-30T15:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Listen to the new Steam Controller buzz to the tune of Doom",
-      "url": "https://www.theverge.com/games/940157/valve-steam-controller-singing-music-doom",
-      "pubDate": "2026-05-30T14:02:51.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Pebblebee’s Halo watches my back and my belongings",
-      "url": "https://www.theverge.com/gadgets/938254/pebblebee-halo-bluetooth-tracker-personal-safety-hands-on-review",
-      "pubDate": "2026-05-30T14:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Arduboy FX-C is an excellent time killer you might forget you’re carrying",
-      "url": "https://www.theverge.com/tech/939782/arduboy-fx-c-arduino-handheld-hands-on",
-      "pubDate": "2026-05-30T14:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "AirPods Weekend Deals Include AirPods 4 for $99 and AirPods Max 2 for $509",
@@ -154,13 +189,6 @@
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Top Stories: iOS 27 Leaks, MacBook Ultra Rumors, and More",
       "url": "https://www.macrumors.com/2026/05/30/top-stories-ios-27-leaks/",
-      "pubDate": "2026-05-30T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "How one founder’s bet on ‘the old school web’ is paying off",
-      "url": "https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai",
       "pubDate": "2026-05-30T13:00:00.000Z"
     },
     {
@@ -225,20 +253,6 @@
       "title": "Abxylute M4 review: Smart design can't save a cramped controller",
       "url": "https://appleinsider.com/articles/26/05/29/abxylute-m4-review-smart-design-cant-save-a-cramped-controller?utm_source=rss",
       "pubDate": "2026-05-29T19:03:46.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple TV’s latest sci-fi series is a winner, and just the start of exciting new direction",
-      "url": "https://9to5mac.com/2026/05/29/apple-tvs-latest-sci-fi-series-is-a-winner-and-just-the-start-of-exciting-new-direction/",
-      "pubDate": "2026-05-29T18:53:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "HomeKit Weekly: SwitchBot Button Pusher finally works natively with Apple Home",
-      "url": "https://9to5mac.com/2026/05/29/switchbot-button-pusher-finally-works-natively-with-apple-home/",
-      "pubDate": "2026-05-29T18:51:00.000Z"
     },
     {
       "source": "MacRumors",
@@ -337,20 +351,6 @@
       "title": "First Look at iPhone 18 Pro Color Options Revealed by Dummy Models",
       "url": "https://www.macrumors.com/2026/05/29/first-look-at-iphone-18-pro-color-options-revealed/",
       "pubDate": "2026-05-29T11:50:22.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple's software chief: Who is Craig Federighi?",
-      "url": "https://appleinsider.com/articles/26/05/29/apples-software-chief-who-is-craig-federighi?utm_source=rss",
-      "pubDate": "2026-05-29T11:10:12.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPhone 18 Pro dummies show new colors, including Dark Cherry",
-      "url": "https://appleinsider.com/articles/26/05/29/iphone-18-pro-dummies-show-new-colors-including-dark-cherry?utm_source=rss",
-      "pubDate": "2026-05-29T10:51:20.000Z"
     },
     {
       "source": "MacRumors",
