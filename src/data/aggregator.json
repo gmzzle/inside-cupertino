@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T11:08:13.789Z",
+  "generatedAt": "2026-05-31T12:47:59.427Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -26,6 +26,20 @@
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
+      "title": "User-replaceable batteries are coming back in a big way",
+      "url": "https://www.theverge.com/column/939026/user-replaceable-batteries-eu-european-union-legislation",
+      "pubDate": "2026-05-31T12:00:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Crime blotter: Man arrrested for $31,000 iPhone theft",
+      "url": "https://appleinsider.com/articles/26/05/31/crime-blotter-man-arrrested-for-31000-iphone-theft?utm_source=rss",
+      "pubDate": "2026-05-31T11:32:52.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
       "title": "The Mercedes CLA offers great EV specs for an average price",
       "url": "https://www.theverge.com/transportation/940387/mercedes-cla-350-ev-review-price-specs",
       "pubDate": "2026-05-31T11:00:00.000Z"
@@ -36,6 +50,13 @@
       "title": "Mystery Beats headphones appear around Lamine Yamal's neck",
       "url": "https://appleinsider.com/articles/26/05/30/mystery-beats-headphones-appear-around-lamine-yamals-neck?utm_source=rss",
       "pubDate": "2026-05-30T19:57:32.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Indie App Spotlight: ‘NextThere’ helps you navigate public transit with rich insights",
+      "url": "https://9to5mac.com/2026/05/30/nextthere-public-transportation-navigation-app-with-deep-insights/",
+      "pubDate": "2026-05-30T19:30:00.000Z"
     },
     {
       "source": "9to5Mac",
@@ -143,13 +164,6 @@
       "pubDate": "2026-05-30T13:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "AI grifters are creating fake Black people to sell Shein junk",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping",
-      "pubDate": "2026-05-30T13:00:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Android Apple Music beta hints at alternate tiers, skip limits",
@@ -227,13 +241,6 @@
       "pubDate": "2026-05-29T18:51:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 rumored to bring new design changes in two key areas",
-      "url": "https://9to5mac.com/2026/05/29/ios-27-rumored-to-bring-new-design-changes-in-two-key-areas/",
-      "pubDate": "2026-05-29T18:29:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "LG's 39-Inch Ultrawide 5K2K OLED Display Officially Begins Shipping Next Week",
@@ -309,13 +316,6 @@
       "title": "iPhone leaks, Apple Vision Pro gaming, and the Ferrari Luce, on the AppleInsider Podcast",
       "url": "https://appleinsider.com/articles/26/05/29/iphone-leaks-apple-vision-pro-gaming-and-the-ferrari-luce-on-the-appleinsider-podcast?utm_source=rss",
       "pubDate": "2026-05-29T12:48:55.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "How to use Jellyfin on a Mac to make a private streaming service",
-      "url": "https://appleinsider.com/inside/macos/tips/how-to-turn-jellyfin-on-an-old-mac-into-a-private-streaming-service?utm_source=rss",
-      "pubDate": "2026-05-29T12:14:01.000Z"
     },
     {
       "source": "AppleInsider",
