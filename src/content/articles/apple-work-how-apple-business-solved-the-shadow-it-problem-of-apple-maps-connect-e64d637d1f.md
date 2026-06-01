@@ -2,7 +2,7 @@
 title: "Apple Business fixed a Maps problem nobody was talking about"
 description: "Folding Apple Maps Connect into IT management was smarter than the free MDM headlines suggested. Here's the shadow IT mess it cleaned up."
 pubDate: 2026-05-30T14:41:43.226Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - apple-business
