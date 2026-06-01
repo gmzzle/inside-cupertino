@@ -2,7 +2,7 @@
 title: "AirPods 4 hits $99, which is still $30 more than it should be"
 description: "Amazon's weekend sale puts the base AirPods 4 at $99 and the Max 2 at $509. Good deals, but the real story is how Apple priced these things in the first place."
 pubDate: 2026-05-30T14:41:27.623Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - airpods
