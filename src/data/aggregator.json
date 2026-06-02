@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T22:16:56.383Z",
+  "generatedAt": "2026-06-02T01:37:10.757Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,69 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple facing congressional pressure over closure of first unionized US store",
+      "url": "https://9to5mac.com/2026/06/01/apple-facing-congressional-pressure-over-closure-of-first-unionized-us-store/",
+      "pubDate": "2026-06-02T01:24:03.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Counterpoint: iPhone shipments grew 8% in Latin America during Q1",
+      "url": "https://9to5mac.com/2026/06/01/counterpoint-iphone-shipments-grew-8-in-latin-america-during-q1/",
+      "pubDate": "2026-06-02T00:45:38.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "40 members of Congress take Towson union's side in letter to Apple's CEO",
+      "url": "https://appleinsider.com/articles/26/06/02/40-members-of-congress-take-towson-unions-side-in-letter-to-apples-ceo?utm_source=rss",
+      "pubDate": "2026-06-02T00:33:13.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iOS 27: What We Know About the New Siri App",
+      "url": "https://www.macrumors.com/2026/06/01/ios-27-siri-app-rumors/",
+      "pubDate": "2026-06-01T23:25:47.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "#WWDC26 hashmoji now live on X ahead of next week’s keynote",
+      "url": "https://9to5mac.com/2026/06/01/wwdc26-hashmoji-now-live-on-x-ahead-of-next-weeks-keynote/",
+      "pubDate": "2026-06-01T22:54:24.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "WWDC 2026 guests can attend special screening of the latest 'Star Wars' movie",
+      "url": "https://appleinsider.com/articles/26/06/01/wwdc-2026-guests-can-attend-special-screening-of-the-latest-star-wars-movie?utm_source=rss",
+      "pubDate": "2026-06-01T22:49:22.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: June 1, 2026 – Apple TV and AI glasses rumors",
+      "url": "https://9to5mac.com/2026/06/01/daily-june-1-2026/",
+      "pubDate": "2026-06-01T22:27:01.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "WhatsApp working to bring Liquid Glass to its Mac app",
+      "url": "https://9to5mac.com/2026/06/01/whatsapp-working-to-bring-liquid-glass-to-its-mac-app/",
+      "pubDate": "2026-06-01T22:24:53.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Meta AI Support Bot Helped Hackers Hijack Instagram Accounts",
+      "url": "https://www.macrumors.com/2026/06/01/meta-ai-instagram-attack/",
+      "pubDate": "2026-06-01T22:19:07.000Z"
+    },
     {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
@@ -178,25 +241,11 @@
       "pubDate": "2026-06-01T17:31:35.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "macOS 26.5.1 is out with an important fix for enterprise users",
-      "url": "https://9to5mac.com/2026/06/01/macos-26-5-1-is-out-with-an-important-fix-for-enterprise-users/",
-      "pubDate": "2026-06-01T17:26:08.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Releases iOS 26.5.1 to Fix Charging Issue on iPhone Air and iPhone 17 Models",
       "url": "https://www.macrumors.com/2026/06/01/apple-releases-ios-26-5-1/",
       "pubDate": "2026-06-01T17:23:23.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple releases iOS 26.5.1 for iPhone, here’s what’s new",
-      "url": "https://9to5mac.com/2026/06/01/apple-releases-ios-26-5-1-for-iphone-heres-whats-new/",
-      "pubDate": "2026-06-01T17:16:29.000Z"
     },
     {
       "source": "AppleInsider",
@@ -262,27 +311,6 @@
       "pubDate": "2026-06-01T16:00:31.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Leaker reveals new iPhone Ultra feature, release timing update",
-      "url": "https://9to5mac.com/2026/06/01/leaker-reveals-new-iphone-ultra-feature-release-timing-update/",
-      "pubDate": "2026-06-01T15:51:13.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "WWDC wallpaper released as free download alongside Apple Music playlist and more",
-      "url": "https://9to5mac.com/2026/06/01/wwdc-wallpaper-released-as-free-download-alongside-apple-music-playlist-and-more/",
-      "pubDate": "2026-06-01T15:39:28.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: AirPods Pro 3 holiday pricing, AirPods Max 2, M5 MacBook Air $270 off, more",
-      "url": "https://9to5mac.com/2026/06/01/deals-airpods-pro-3-airpods-max-2-m5-macbook-air/",
-      "pubDate": "2026-06-01T15:30:37.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Summer Game Fest 2026: All the news from gaming&#8217;s busiest week",
@@ -325,13 +353,6 @@
       "pubDate": "2026-06-01T14:31:36.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "AirPods Pro 3 Available for $199.99 Low Price on Amazon",
-      "url": "https://www.macrumors.com/2026/06/01/airpods-pro-3-hit-199-99/",
-      "pubDate": "2026-06-01T14:24:24.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Nvidia's N1X Apple Silicon rival is two years behind",
@@ -339,39 +360,18 @@
       "pubDate": "2026-06-01T13:09:27.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Possible iPhone Fold prototype shown in new image",
-      "url": "https://appleinsider.com/articles/26/06/01/possible-iphone-fold-prototype-shown-in-new-image?utm_source=rss",
-      "pubDate": "2026-06-01T12:37:38.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "The final watchOS 26 final review -- better, but not better enough",
-      "url": "https://appleinsider.com/articles/26/06/01/the-final-watchos-26-final-review----better-but-not-better-enough?utm_source=rss",
-      "pubDate": "2026-06-01T12:22:11.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Car Key Support Coming to Future Mahindra Vehicles",
-      "url": "https://www.macrumors.com/2026/06/01/apple-car-key-support-mahindra-vehicles/",
-      "pubDate": "2026-06-01T12:00:18.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple's software chief: Who is Craig Federighi?",
-      "url": "https://appleinsider.com/articles/26/05/29/apples-software-chief-who-is-craig-federighi?utm_source=rss",
-      "pubDate": "2026-06-01T11:28:49.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "New colors for the iPhone 18 Pro? ↦",
       "url": "https://sixcolors.com/link/2026/05/new-colors-for-the-iphone-18-pro/",
       "pubDate": "2026-05-29T17:29:14.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "“Star City” premieres on Apple TV ↦",
+      "url": "https://sixcolors.com/link/2026/05/star-city-premieres-on-apple-tv/",
+      "pubDate": "2026-05-29T15:47:13.000Z"
     }
   ]
 }
