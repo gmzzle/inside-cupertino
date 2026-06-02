@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T06:58:38.001Z",
+  "generatedAt": "2026-06-02T11:43:22.817Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,62 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "This is the way: WWDC 2026 attendees get to see 'The Mandalorian and Grogu'",
+      "url": "https://appleinsider.com/articles/26/06/01/wwdc-2026-guests-can-attend-special-screening-of-the-latest-star-wars-movie?utm_source=rss",
+      "pubDate": "2026-06-02T11:18:22.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone 18 Pro battery capacity could offer far more modest gains this year",
+      "url": "https://9to5mac.com/2026/06/02/iphone-18-pro-battery-capacity-could-offer-far-more-modest-gains-this-year/",
+      "pubDate": "2026-06-02T11:18:16.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iPhone 18 Pro will have only a fractionally higher capacity battery",
+      "url": "https://appleinsider.com/articles/26/06/02/iphone-18-pro-will-have-only-a-fractionally-higher-capacity-battery?utm_source=rss",
+      "pubDate": "2026-06-02T11:15:43.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "How to watch Microsoft’s Build 2026 conference",
+      "url": "https://www.theverge.com/tech/941379/microsoft-build-conference-2026-how-to-watch-livestream",
+      "pubDate": "2026-06-02T11:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Amazon Prime Day 2026 dates announced, avoiding major event clashes",
+      "url": "https://9to5mac.com/2026/06/02/amazon-prime-day-2026-dates-announced-avoiding-major-event-clashes/",
+      "pubDate": "2026-06-02T10:50:48.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "2027 Apple Watch Could Adopt Next-Generation OLED Display Tech",
+      "url": "https://www.macrumors.com/2026/06/02/2027-apple-watch-efficient-oled-display-tech/",
+      "pubDate": "2026-06-02T10:36:11.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple @ Work Podcast: A new era for Jamf",
+      "url": "https://9to5mac.com/2026/06/02/apple-work-podcast-a-new-era-for-jamf/",
+      "pubDate": "2026-06-02T10:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone 18 Pro Battery Capacities Allegedly Leaked",
+      "url": "https://www.macrumors.com/2026/06/02/iphone-18-pro-battery-capacities-allegedly-leaked/",
+      "pubDate": "2026-06-02T08:54:46.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -64,13 +120,6 @@
       "title": "#WWDC26 hashmoji now live on X ahead of next week’s keynote",
       "url": "https://9to5mac.com/2026/06/01/wwdc26-hashmoji-now-live-on-x-ahead-of-next-weeks-keynote/",
       "pubDate": "2026-06-01T22:54:24.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "WWDC 2026 guests can attend special screening of the latest 'Star Wars' movie",
-      "url": "https://appleinsider.com/articles/26/06/01/wwdc-2026-guests-can-attend-special-screening-of-the-latest-star-wars-movie?utm_source=rss",
-      "pubDate": "2026-06-01T22:49:22.000Z"
     },
     {
       "source": "9to5Mac",
@@ -185,32 +234,11 @@
       "pubDate": "2026-06-01T19:05:35.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "MagSafe Monday: Why the PISEN 5000mAh battery pack is great for everyday carry",
-      "url": "https://9to5mac.com/2026/06/01/magsafe-monday-why-the-pisen-5000mah-battery-pack-is-great-for-everyday-carry/",
-      "pubDate": "2026-06-01T18:28:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple teases ‘All systems glow’ for WWDC as livestream link debuts on YouTube",
-      "url": "https://9to5mac.com/2026/06/01/apple-teases-all-systems-glow-for-wwdc-as-livestream-link-debuts-on-youtube/",
-      "pubDate": "2026-06-01T18:27:47.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Card Promo Offers $30 Uber Cash Back With Uber Eats",
       "url": "https://www.macrumors.com/2026/06/01/apple-card-promo-uber-eats/",
       "pubDate": "2026-06-01T18:25:25.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "New Apple Card promo offers limited-time Uber Cash bonus",
-      "url": "https://9to5mac.com/2026/06/01/new-apple-card-promo-offers-limited-time-uber-cash-bonus/",
-      "pubDate": "2026-06-01T18:20:34.000Z"
     },
     {
       "source": "MacRumors",
@@ -316,34 +344,6 @@
       "title": "Summer Game Fest 2026: All the news from gaming&#8217;s busiest week",
       "url": "https://www.theverge.com/games/939206/summer-game-fest-playstation-xbox-gaming-events-2026",
       "pubDate": "2026-06-01T15:30:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Teases Next Week's WWDC 2026 Event: 'All Systems Glow'",
-      "url": "https://www.macrumors.com/2026/06/01/apple-wwdc-2026-all-systems-glow/",
-      "pubDate": "2026-06-01T15:26:46.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "An affordable, long-lasting AirTag alternative is $15 right now",
-      "url": "https://www.theverge.com/gadgets/940830/find-my-bluetooth-tracker-bose-qc-ultra-google-pixel-buds-deal-sale",
-      "pubDate": "2026-06-01T15:24:32.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Foldable 'iPhone Ultra' Rumored to Feature Vapor Chamber Cooling Despite Thin Design",
-      "url": "https://www.macrumors.com/2026/06/01/foldable-iphone-rumored-to-feature-vapor-chamber/",
-      "pubDate": "2026-06-01T15:13:12.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Smart home connectivity explained on Smart Home Insider",
-      "url": "https://appleinsider.com/articles/26/06/01/smart-home-connectivity-explained-on-smart-home-insider?utm_source=rss",
-      "pubDate": "2026-06-01T14:50:58.000Z"
     },
     {
       "source": "Six Colors",
