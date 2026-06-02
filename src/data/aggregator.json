@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T16:55:56.785Z",
+  "generatedAt": "2026-06-02T20:20:07.758Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -26,6 +26,167 @@
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
+      "title": "MacBook Neo is the sole bright spot in a crashing global PC market",
+      "url": "https://appleinsider.com/articles/26/06/02/macbook-neo-is-the-sole-bright-spot-in-a-crashing-global-pc-market?utm_source=rss",
+      "pubDate": "2026-06-02T20:11:08.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Paste launches MCP support to connect your clipboard history to AI tools",
+      "url": "https://9to5mac.com/2026/06/02/paste-launches-mcp-support-to-connect-your-clipboard-history-to-ai-tools/",
+      "pubDate": "2026-06-02T20:03:07.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "It’s all Greeked to me ↦",
+      "url": "https://sixcolors.com/link/2026/06/its-all-greeked-to-me/",
+      "pubDate": "2026-06-02T19:58:28.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "I held the next-gen handheld",
+      "url": "https://www.theverge.com/games/941360/intel-arc-g3-extreme-msi-claw-next-gen-handheld-preview",
+      "pubDate": "2026-06-02T19:56:02.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 could make AirPods a lot more powerful with one upgrade",
+      "url": "https://9to5mac.com/2026/06/02/ios-27-could-make-airpods-a-lot-more-powerful-with-one-upgrade/",
+      "pubDate": "2026-06-02T19:25:13.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Google Expands AirDrop Support to More Android Phones",
+      "url": "https://www.macrumors.com/2026/06/02/google-airdrop-support-more-android-phones/",
+      "pubDate": "2026-06-02T19:24:12.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Microsoft Build 2026: The 7 biggest announcements",
+      "url": "https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements",
+      "pubDate": "2026-06-02T19:23:52.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Microsoft CEO: We’re moving from OS and apps to agents instead",
+      "url": "https://9to5mac.com/2026/06/02/microsoft-ceo-were-moving-from-os-and-apps-to-agents-instead/",
+      "pubDate": "2026-06-02T18:52:01.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Trump signs executive order to review AI models before they’re released",
+      "url": "https://www.theverge.com/policy/941775/trump-ai-executive-order",
+      "pubDate": "2026-06-02T18:33:42.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "2026 Apple Design Award winners include Cyberpunk 2077, Blue Prince",
+      "url": "https://appleinsider.com/articles/26/06/02/2026-apple-design-award-winners-include-cyberpunk-2077-blue-prince?utm_source=rss",
+      "pubDate": "2026-06-02T18:18:42.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Microsoft’s next-gen quantum chip cuts timeline to useful quantum computing",
+      "url": "https://www.theverge.com/news/940874/microsoft-majorana-2-quantum-chip-build",
+      "pubDate": "2026-06-02T18:15:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Microsoft’s first advanced reasoning AI is here",
+      "url": "https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026",
+      "pubDate": "2026-06-02T18:12:44.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The durable, floatable UE Wonderboom 4 speaker is cheaper than ever",
+      "url": "https://www.theverge.com/gadgets/941763/ultimate-ears-wonderboom-fractal-design-scape-deal-sale",
+      "pubDate": "2026-06-02T18:05:35.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "A naming hint for Apple's macOS 27 may be hiding in plain sight",
+      "url": "https://appleinsider.com/articles/26/06/02/a-naming-hint-for-apples-macos-27-may-be-hiding-in-plain-sight?utm_source=rss",
+      "pubDate": "2026-06-02T18:05:10.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Microsoft Scout is a new AI personal assistant built on OpenClaw",
+      "url": "https://www.theverge.com/news/939713/microsoft-scout-assistant-openclaw",
+      "pubDate": "2026-06-02T18:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Google’s Phone app will tell you if a scammer is impersonating one of your contacts",
+      "url": "https://www.theverge.com/tech/941517/google-phone-scammer-ai-impersonation",
+      "pubDate": "2026-06-02T18:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Perplexity Computer adding ability to split tasks between local and cloud models",
+      "url": "https://9to5mac.com/2026/06/02/perplexity-computer-adding-ability-to-split-tasks-between-local-and-cloud-models/",
+      "pubDate": "2026-06-02T17:55:40.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "DuckDuckGo keeps surging on iPhone after Google’s AI search overhaul",
+      "url": "https://9to5mac.com/2026/06/02/duckduckgo-keeps-surging-on-iphone-after-googles-ai-search-overhaul/",
+      "pubDate": "2026-06-02T17:53:06.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "I tested a bunch of Switch 2 screen protectors, and these are the best",
+      "url": "https://www.theverge.com/reviews/694948/best-switch-2-glass-screen-protector-glossy-matte",
+      "pubDate": "2026-06-02T17:48:33.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Nintendo Music Now Available on iPad and CarPlay",
+      "url": "https://www.macrumors.com/2026/06/02/nintendo-music-carplay/",
+      "pubDate": "2026-06-02T17:45:29.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Microsoft&#8217;s Project Solara is an OS for AI agent gadgets",
+      "url": "https://www.theverge.com/news/941830/microsoft-project-solara-os-ai-agent-gadgets",
+      "pubDate": "2026-06-02T17:31:02.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Announces This Year's App Design Award Winners Ahead of WWDC 2026",
+      "url": "https://www.macrumors.com/2026/06/02/apple-design-award-winners-2026/",
+      "pubDate": "2026-06-02T17:18:27.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple reveals Apple Design Awards app and game winners for 2026",
+      "url": "https://9to5mac.com/2026/06/02/apple-reveals-apple-design-awards-app-and-game-winners-for-2026/",
+      "pubDate": "2026-06-02T17:09:37.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
       "title": "iPhone Fold's wide screen means iPad's Split View is a necessity",
       "url": "https://appleinsider.com/articles/26/06/02/iphone-folds-wide-screen-means-ipads-split-view-is-a-necessity?utm_source=rss",
       "pubDate": "2026-06-02T16:54:51.000Z"
@@ -38,27 +199,6 @@
       "pubDate": "2026-06-02T16:33:24.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Microsoft created the mini Surface dev box that Qualcomm couldn&#8217;t",
-      "url": "https://www.theverge.com/news/941271/microsoft-surface-rtx-spark-dev-box-specs-availability",
-      "pubDate": "2026-06-02T16:30:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Microsoft’s new developer-optimized Windows embraces Linux even more",
-      "url": "https://www.theverge.com/news/941314/microsoft-windows-11-developer-optimized-experience-linux",
-      "pubDate": "2026-06-02T16:30:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Trump goes after green cards",
-      "url": "https://www.theverge.com/policy/941734/trump-green-cards-adjustment-of-status-uscis",
-      "pubDate": "2026-06-02T16:30:00.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "OpenAI putting Codex inside ChatGPT app everywhere, releasing 6 business plugins",
@@ -66,32 +206,11 @@
       "pubDate": "2026-06-02T16:22:38.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Cricut&#8217;s Joy 2 helps you personalize Father&#8217;s Day gifts, and it&#8217;s at its lowest price yet",
-      "url": "https://www.theverge.com/gadgets/941696/cricut-joy-2-rainbow-essential-bundle-deal-sale",
-      "pubDate": "2026-06-02T16:11:07.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Here’s how MacBook Neo sales compare to M5 MacBook Air and Pro",
       "url": "https://9to5mac.com/2026/06/02/heres-how-macbook-neo-sales-compare-to-m5-macbook-air-and-pro/",
       "pubDate": "2026-06-02T16:08:58.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Microsoft Build 2026: All the news about Windows, AI, RTX Spark, and more",
-      "url": "https://www.theverge.com/tech/941668/microsoft-build-may-2026-live-news-updates",
-      "pubDate": "2026-06-02T15:59:58.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Ableton is letting musicians build browser-style extensions for Live",
-      "url": "https://www.theverge.com/tech/941674/ableton-live-extensions-sdk-music-daw",
-      "pubDate": "2026-06-02T15:48:20.000Z"
     },
     {
       "source": "9to5Mac",
@@ -129,13 +248,6 @@
       "pubDate": "2026-06-02T15:03:29.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The screenless Camp Snap 2 is slimmer and comes with more filters",
-      "url": "https://www.theverge.com/tech/941427/camp-snap-2-digital-screenless-camera-filters-kid-lock",
-      "pubDate": "2026-06-02T15:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Amazon Offers Early Prime Day Discounts on Anker, Samsung, Sonos, and More Accessories",
@@ -171,39 +283,11 @@
       "pubDate": "2026-06-02T14:10:09.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Anthropic expands Glasswing as it promises public Claude Mythos-class model releases",
-      "url": "https://9to5mac.com/2026/06/02/anthropic-expands-glasswing-as-it-promises-public-claude-mythos-class-model-releases/",
-      "pubDate": "2026-06-02T14:01:54.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Microsoft Office 2019 for Mac Will Soon Stop Letting You Edit Documents",
       "url": "https://www.macrumors.com/2026/06/02/microsoft-office-2019-for-mac-no-edit-documents/",
       "pubDate": "2026-06-02T13:31:46.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Google delivering on Gemini promises means Apple Intelligence can do the same",
-      "url": "https://9to5mac.com/2026/06/02/google-delivering-on-gemini-promises-means-apple-intelligence-can-do-the-same/",
-      "pubDate": "2026-06-02T13:30:20.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Lego’s Smart Play Pokémon can train and battle, but don’t do the one thing I wish they could",
-      "url": "https://www.theverge.com/gadgets/941484/lego-pokemon-smart-play-brick-sets",
-      "pubDate": "2026-06-02T13:28:27.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "PSA: A security breach means you must update the ChatGPT Mac app [U]",
-      "url": "https://9to5mac.com/2026/06/02/psa-a-security-breach-means-you-must-update-the-chatgpt-mac-app/",
-      "pubDate": "2026-06-02T13:04:54.000Z"
     },
     {
       "source": "AppleInsider",
@@ -213,13 +297,6 @@
       "pubDate": "2026-06-02T13:01:38.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Thermacell&#8217;s latest smart mosquito system is bigger and more expensive",
-      "url": "https://www.theverge.com/tech/941146/liv-2-dot-0-smart-mosquito-repellent-system-thermacell",
-      "pubDate": "2026-06-02T13:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Leaker: Foldable 'iPhone Ultra' Will Feature Liquid Metal Hinge",
@@ -227,39 +304,11 @@
       "pubDate": "2026-06-02T12:46:44.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Amazon’s four-day Prime Day begins on June 23rd",
-      "url": "https://www.theverge.com/gadgets/940021/amazon-prime-day-2026-june-dates-deals",
-      "pubDate": "2026-06-02T12:38:59.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Hackers tricked Instagram AI into letting them take over high-profile accounts [Video]",
-      "url": "https://9to5mac.com/2026/06/02/hackers-tricked-instagram-ai-into-letting-them-take-over-high-profile-accounts-video/",
-      "pubDate": "2026-06-02T12:00:19.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Withings unveils more affordable smart scale with body scanning feature, details here",
-      "url": "https://9to5mac.com/2026/06/02/withings-unveils-more-affordable-smart-scale-with-body-scanning-feature-details-here/",
-      "pubDate": "2026-06-02T12:00:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "This is the way: WWDC 2026 attendees get to see 'The Mandalorian and Grogu'",
       "url": "https://appleinsider.com/articles/26/06/01/wwdc-2026-guests-can-attend-special-screening-of-the-latest-star-wars-movie?utm_source=rss",
       "pubDate": "2026-06-02T11:18:22.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone 18 Pro battery capacity could offer far more modest gains this year",
-      "url": "https://9to5mac.com/2026/06/02/iphone-18-pro-battery-capacity-could-offer-far-more-modest-gains-this-year/",
-      "pubDate": "2026-06-02T11:18:16.000Z"
     },
     {
       "source": "AppleInsider",
@@ -290,53 +339,11 @@
       "pubDate": "2026-06-02T00:33:13.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27: What We Know About the New Siri App",
-      "url": "https://www.macrumors.com/2026/06/01/ios-27-siri-app-rumors/",
-      "pubDate": "2026-06-01T23:25:47.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Meta AI Support Bot Helped Hackers Hijack Instagram Accounts",
-      "url": "https://www.macrumors.com/2026/06/01/meta-ai-instagram-attack/",
-      "pubDate": "2026-06-01T22:19:07.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) Upgrade 618: The WWDC Keynote Draft 2026",
       "url": "https://sixcolors.com/podcast/2026/06/upgrade-618-the-wwdc-keynote-draft-2026/",
       "pubDate": "2026-06-01T21:58:49.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Invites WWDC 2026 Attendees to 'The Mandalorian and Grogu' Screening at Apple Park",
-      "url": "https://www.macrumors.com/2026/06/01/apple-the-mandalorian-screening/",
-      "pubDate": "2026-06-01T21:11:21.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple Card users can earn up to $30 in Uber Cash through Uber Eats",
-      "url": "https://appleinsider.com/articles/26/06/01/apple-card-users-can-earn-up-to-30-in-uber-cash-through-uber-eats?utm_source=rss",
-      "pubDate": "2026-06-01T19:19:53.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iOS 27's bill-splitting feature will help you claw back money from your friends",
-      "url": "https://appleinsider.com/articles/26/06/01/ios-27s-bill-splitting-feature-will-help-you-claw-back-money-from-your-friends?utm_source=rss",
-      "pubDate": "2026-06-01T19:05:35.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Unexpected M5 Mac shutdowns get a fix in macOS Tahoe 26.5.1",
-      "url": "https://appleinsider.com/articles/26/06/01/unexpected-m5-mac-shutdowns-get-a-fix-in-macos-tahoe-2651?utm_source=rss",
-      "pubDate": "2026-06-01T18:14:20.000Z"
     },
     {
       "source": "Six Colors",
@@ -365,13 +372,6 @@
       "title": "“Star City” premieres on Apple TV ↦",
       "url": "https://sixcolors.com/link/2026/05/star-city-premieres-on-apple-tv/",
       "pubDate": "2026-05-29T15:47:13.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Anticipating WWDC 2026: Apple’s AI do-over? (Macworld/Jason Snell)",
-      "url": "https://www.macworld.com/article/3150887",
-      "pubDate": "2026-05-29T15:30:53.000Z"
     }
   ]
 }
