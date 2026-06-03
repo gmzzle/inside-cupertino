@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T17:21:51.889Z",
+  "generatedAt": "2026-06-03T21:30:31.514Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,153 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "WhatsApp’s revamped chat lists interface rolling out on iOS",
+      "url": "https://9to5mac.com/2026/06/03/whatsapps-revamped-chat-lists-interface-rolling-out-on-ios/",
+      "pubDate": "2026-06-03T21:20:44.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Age verification now mandatory for App Store users in Texas",
+      "url": "https://appleinsider.com/articles/26/06/03/age-verification-now-mandatory-for-app-store-users-in-texas?utm_source=rss",
+      "pubDate": "2026-06-03T21:19:09.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "WiiM expands its whole-home ecosystem with a new soundbar",
+      "url": "https://www.theverge.com/tech/942748/wiim-releases-first-soundbar",
+      "pubDate": "2026-06-03T21:12:51.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "New iPads will launch later this year, here’s what rumors say is coming",
+      "url": "https://9to5mac.com/2026/06/03/new-ipads-will-launch-later-this-year-heres-what-rumors-say-is-coming/",
+      "pubDate": "2026-06-03T21:04:40.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "What's on Your iOS 27 Wishlist Ahead of WWDC 2026?",
+      "url": "https://www.macrumors.com/2026/06/03/ios-27-wishlist/",
+      "pubDate": "2026-06-03T21:04:34.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple permanently closing three US stores, here’s when [Updated]",
+      "url": "https://9to5mac.com/2026/06/03/apple-announces-permanent-closure-of-three-us-retail-stores/",
+      "pubDate": "2026-06-03T21:03:52.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Black Apple Vision Pro rumors stoked by even more photographs",
+      "url": "https://appleinsider.com/articles/26/06/03/black-apple-vision-pro-rumors-stoked-by-even-more-photographs?utm_source=rss",
+      "pubDate": "2026-06-03T20:33:18.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Nvidia is already planning N2X and N3X chips — the goal is the Star Trek computer",
+      "url": "https://www.theverge.com/tech/942588/nvidia-rtx-spark-n2x-n3x-r2-d2-star-trek-star-wars-plan",
+      "pubDate": "2026-06-03T20:03:50.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Bringing App Store Age Verification to Texas as SB 2420 Takes Effect June 4",
+      "url": "https://www.macrumors.com/2026/06/03/apple-app-store-texas-sb-2420/",
+      "pubDate": "2026-06-03T19:52:33.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple says Texas App Store age assurance rules start tomorrow after court ruling",
+      "url": "https://9to5mac.com/2026/06/03/apple-says-texas-app-store-age-assurance-rules-start-tomorrow-after-court-ruling/",
+      "pubDate": "2026-06-03T19:46:51.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple is Permanently Closing Three U.S. Stores This Month",
+      "url": "https://www.macrumors.com/2026/06/03/three-apple-stores-closing-this-month/",
+      "pubDate": "2026-06-03T19:28:35.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) Clockwise 659: Use Your Meaty Stuff",
+      "url": "https://sixcolors.com/podcast/2026/06/clockwise-659-use-your-meaty-stuff/",
+      "pubDate": "2026-06-03T19:16:05.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Short-sighted: John Ternus behind Apple Vision project refocuses",
+      "url": "https://appleinsider.com/articles/26/06/03/short-sighted-john-ternus-behind-apple-vision-project-refocuses?utm_source=rss",
+      "pubDate": "2026-06-03T19:06:46.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The best Bluetooth trackers for Apple and Android phones",
+      "url": "https://www.theverge.com/23769840/best-bluetooth-trackers",
+      "pubDate": "2026-06-03T19:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple TV unveils new Anya Taylor-Joy series about a massive heist gone wrong",
+      "url": "https://9to5mac.com/2026/06/03/apple-tv-unveils-new-anya-taylor-joy-series-about-a-massive-heist-gone-wrong/",
+      "pubDate": "2026-06-03T18:36:40.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple touts reality TV binge-ready 24-hour battery life in new Beats Pill speaker ad",
+      "url": "https://9to5mac.com/2026/06/03/apple-touts-tv-binge-ready-24-hour-battery-life-in-fun-new-beats-pill-speaker-ad/",
+      "pubDate": "2026-06-03T18:28:30.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Kuo: Apple's Vision Pro Successors Off the Table as Focus Shifts to Smart Glasses",
+      "url": "https://www.macrumors.com/2026/06/03/kuo-vision-pro-successors-nixed/",
+      "pubDate": "2026-06-03T18:14:01.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's New Beats Pill Ad Leans Into Reality TV Show 'Love Island USA'",
+      "url": "https://www.macrumors.com/2026/06/03/beats-pill-ad-love-island-usa/",
+      "pubDate": "2026-06-03T18:08:24.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The best Qi2 batteries for iPhone and Pixel",
+      "url": "https://www.theverge.com/gadgets/939362/best-magsafe-qi2-2-batteries-power-banks",
+      "pubDate": "2026-06-03T18:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Amazon Undercuts Apple With Quicker MacBook Neo Delivery and Discounted Price",
+      "url": "https://www.macrumors.com/2026/06/03/amazon-macbook-neo/",
+      "pubDate": "2026-06-03T17:47:32.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "As AI gets better, it reveals an empty promise",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise",
+      "pubDate": "2026-06-03T17:45:35.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -108,25 +255,11 @@
       "pubDate": "2026-06-03T15:00:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "These iPhones, iPads, Macs may not support Apple’s new software",
-      "url": "https://9to5mac.com/2026/06/03/these-iphones-ipads-macs-may-not-support-apples-new-software/",
-      "pubDate": "2026-06-03T14:54:04.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Dreame&#8217;s L20 Ultra robovac is an unbeatable deal for $280",
       "url": "https://www.theverge.com/gadgets/942184/dreame-l20-ultra-audible-bose-soundlink-flex-deal-sale",
       "pubDate": "2026-06-03T14:53:10.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Vision Pro gains a free, native app that takes you on an immersive private flight",
-      "url": "https://9to5mac.com/2026/06/03/apple-vision-pro-gains-a-free-native-app-that-takes-you-on-an-immersive-private-flight/",
-      "pubDate": "2026-06-03T14:31:27.000Z"
     },
     {
       "source": "MacRumors",
@@ -143,13 +276,6 @@
       "pubDate": "2026-06-03T14:18:46.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "New Apple TV thriller sounds like the first must-watch of summer, reviews here",
-      "url": "https://9to5mac.com/2026/06/03/new-apple-tv-thriller-sounds-like-the-first-must-watch-of-summer-reviews-here/",
-      "pubDate": "2026-06-03T14:18:28.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Microsoft and OpenAI broke up — now they’re ready to fight",
@@ -157,11 +283,11 @@
       "pubDate": "2026-06-03T14:04:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Global Running Day Challenge on Apple Watch today as Fitness+ adds new workout",
-      "url": "https://9to5mac.com/2026/06/03/global-running-day-challenge-coming-to-apple-watch-next-week/",
-      "pubDate": "2026-06-03T13:36:53.000Z"
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) The Rebound 601: Horse and a Hamburger",
+      "url": "https://sixcolors.com/podcast/2026/06/the-rebound-601-horse-and-a-hamburger/",
+      "pubDate": "2026-06-03T14:00:00.000Z"
     },
     {
       "source": "MacRumors",
@@ -169,13 +295,6 @@
       "title": "Apple Store Seemingly Opening in Japan's Second-Largest City",
       "url": "https://www.macrumors.com/2026/06/03/apple-store-yokohama-japan-job-listings/",
       "pubDate": "2026-06-03T13:34:24.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "A first look at Microsoft’s Surface Laptop Ultra and Surface Dev Box",
-      "url": "https://www.theverge.com/tech/941600/microsoft-surface-laptop-ultra-dev-box-hands-on",
-      "pubDate": "2026-06-03T13:22:17.000Z"
     },
     {
       "source": "AppleInsider",
@@ -192,39 +311,11 @@
       "pubDate": "2026-06-03T13:06:03.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Here’s a look inside Apple’s first developer center in Europe",
-      "url": "https://9to5mac.com/2026/06/03/heres-a-look-inside-apples-first-developer-center-in-europe/",
-      "pubDate": "2026-06-03T12:45:10.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "MacBook Neo Disrupts a PC Market in Decline, IDC Says",
       "url": "https://www.macrumors.com/2026/06/03/macbook-neo-disrupts-a-pc-market-in-decline/",
       "pubDate": "2026-06-03T12:42:49.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Announces Europe's First Developer Center",
-      "url": "https://www.macrumors.com/2026/06/03/apple-announces-first-developer-center-in-europe/",
-      "pubDate": "2026-06-03T12:20:39.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple agrees to reveal India revenue in order to avoid massive $38B fine",
-      "url": "https://9to5mac.com/2026/06/03/apple-agrees-to-reveal-india-revenue-in-order-to-avoid-massive-38b-fine/",
-      "pubDate": "2026-06-03T12:13:55.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "MacBook Neo is the sole bright spot in a crashing global PC market",
-      "url": "https://appleinsider.com/articles/26/06/02/macbook-neo-is-the-sole-bright-spot-in-a-crashing-global-pc-market?utm_source=rss",
-      "pubDate": "2026-06-03T12:08:47.000Z"
     },
     {
       "source": "AppleInsider",
@@ -241,60 +332,11 @@
       "pubDate": "2026-06-03T12:08:09.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "SwitchBot’s acquisition of Nanoleaf is about more than lighting",
-      "url": "https://www.theverge.com/tech/942328/nanoleaf-switchbot-onerobotics-sale-ai-robotics",
-      "pubDate": "2026-06-03T12:00:20.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Music Classical Announces New Partnership With London's Wigmore Hall",
-      "url": "https://www.macrumors.com/2026/06/03/apple-music-classical-wigmore-hall-partnership/",
-      "pubDate": "2026-06-03T11:59:34.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Agrees to Hand Over Financial Data to India's Antitrust Regulator",
-      "url": "https://www.macrumors.com/2026/06/03/apple-agrees-to-hand-over-financial-data-to-india/",
-      "pubDate": "2026-06-03T11:43:09.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Trans teens have something to say",
-      "url": "https://www.theverge.com/features/940977/trans-teens-pediatric-care-closing",
-      "pubDate": "2026-06-03T11:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "AI has a water problem — Google thinks it has a fix",
-      "url": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
-      "pubDate": "2026-06-03T09:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Google must let publishers opt out of AI Search features, rules UK",
-      "url": "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out",
-      "pubDate": "2026-06-03T08:45:48.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Microsoft will allow Office 2019 to self-destruct ↦",
       "url": "https://sixcolors.com/link/2026/06/microsoft-will-allow-office-2019-to-self-destruct/",
       "pubDate": "2026-06-03T02:41:11.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Siri in iOS 27: Every New Feature and Change to Expect",
-      "url": "https://www.macrumors.com/2026/06/02/ios-27-siri-features/",
-      "pubDate": "2026-06-02T22:03:58.000Z"
     },
     {
       "source": "AppleInsider",
@@ -330,48 +372,6 @@
       "title": "It’s all Greeked to me ↦",
       "url": "https://sixcolors.com/link/2026/06/its-all-greeked-to-me/",
       "pubDate": "2026-06-02T19:58:28.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Google Expands AirDrop Support to More Android Phones",
-      "url": "https://www.macrumors.com/2026/06/02/google-airdrop-support-more-android-phones/",
-      "pubDate": "2026-06-02T19:24:12.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "2026 Apple Design Award winners include Cyberpunk 2077, Blue Prince",
-      "url": "https://appleinsider.com/articles/26/06/02/2026-apple-design-award-winners-include-cyberpunk-2077-blue-prince?utm_source=rss",
-      "pubDate": "2026-06-02T18:18:42.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "A naming hint for Apple's macOS 27 may be hiding in plain sight",
-      "url": "https://appleinsider.com/articles/26/06/02/a-naming-hint-for-apples-macos-27-may-be-hiding-in-plain-sight?utm_source=rss",
-      "pubDate": "2026-06-02T18:05:10.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Nintendo Music Now Available on iPad and CarPlay",
-      "url": "https://www.macrumors.com/2026/06/02/nintendo-music-carplay/",
-      "pubDate": "2026-06-02T17:45:29.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) Upgrade 618: The WWDC Keynote Draft 2026",
-      "url": "https://sixcolors.com/podcast/2026/06/upgrade-618-the-wwdc-keynote-draft-2026/",
-      "pubDate": "2026-06-01T21:58:49.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Sponsor) Rogue Amoeba: Mac Audio Capture, for Humans",
-      "url": "https://sixcolors.com/feed-only/2026/06/rogue-amoeba-mac-audio-capture-for-humans/",
-      "pubDate": "2026-06-01T16:00:31.000Z"
     }
   ]
 }
