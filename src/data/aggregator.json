@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T12:14:08.113Z",
+  "generatedAt": "2026-06-03T17:21:51.889Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,195 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "John Ternus scaled back Apple’s Vision products roadmap: report",
+      "url": "https://9to5mac.com/2026/06/03/john-ternus-scaled-back-apples-vision-products-roadmap-report/",
+      "pubDate": "2026-06-03T17:19:04.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "MacBook Neo is So Popular That Apple Reportedly Doubled Production",
+      "url": "https://www.macrumors.com/2026/06/03/macbook-neo-production-doubled-says-kuo/",
+      "pubDate": "2026-06-03T16:24:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Amazon&#8217;s search bar will invent AI-generated products you can&#8217;t buy",
+      "url": "https://www.theverge.com/tech/942547/amazon-search-bar-ai-images",
+      "pubDate": "2026-06-03T16:07:31.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "CardioBot integrates one of my favorite Apple Health metrics for deeper heart insight",
+      "url": "https://9to5mac.com/2026/06/03/cardiobot-integrates-one-of-my-favorite-apple-health-metrics-for-deeper-heart-insight/",
+      "pubDate": "2026-06-03T16:02:32.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's 15-inch MacBook Air M5 plunges to $1,099 in price war",
+      "url": "https://appleinsider.com/articles/26/06/03/apples-15-inch-macbook-air-m5-plunges-to-1099-in-price-war?utm_source=rss",
+      "pubDate": "2026-06-03T15:46:50.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "CarPlay in iOS 26 added new setting that should have always existed",
+      "url": "https://9to5mac.com/2026/06/03/carplay-in-ios-26-added-new-setting-that-should-have-always-existed/",
+      "pubDate": "2026-06-03T15:43:38.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: June 3, 2026 – MacBook Neo shipments, more",
+      "url": "https://9to5mac.com/2026/06/03/daily-june-3-2026/",
+      "pubDate": "2026-06-03T15:40:34.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Deals: Early Prime Day AirPods discounts, 24GB MacBook Air, Apple Watch Ultra 3, Apple cables from $7.50, more",
+      "url": "https://9to5mac.com/2026/06/03/early-prime-day-deals-airpods-macbook-apple-watch-ultra/",
+      "pubDate": "2026-06-03T15:30:30.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "PlayStation is getting back to what it’s good at",
+      "url": "https://www.theverge.com/games/942520/playstation-wolverine-god-of-war-laufey-state-of-play-june-2026",
+      "pubDate": "2026-06-03T15:30:15.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Says macOS 27 Won't Be Compatible With These Macs",
+      "url": "https://www.macrumors.com/2026/06/03/macos-27-wont-run-on-these-macs/",
+      "pubDate": "2026-06-03T15:29:43.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 will reportedly add two major new features to Apple Wallet",
+      "url": "https://9to5mac.com/2026/06/03/ios-27-will-reportedly-add-two-major-new-features-to-apple-wallet/",
+      "pubDate": "2026-06-03T15:08:08.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Supernatural isn’t dead after all",
+      "url": "https://www.theverge.com/news/941816/supernatural-health-meta-quest-vr",
+      "pubDate": "2026-06-03T15:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "These iPhones, iPads, Macs may not support Apple’s new software",
+      "url": "https://9to5mac.com/2026/06/03/these-iphones-ipads-macs-may-not-support-apples-new-software/",
+      "pubDate": "2026-06-03T14:54:04.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Dreame&#8217;s L20 Ultra robovac is an unbeatable deal for $280",
+      "url": "https://www.theverge.com/gadgets/942184/dreame-l20-ultra-audible-bose-soundlink-flex-deal-sale",
+      "pubDate": "2026-06-03T14:53:10.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Vision Pro gains a free, native app that takes you on an immersive private flight",
+      "url": "https://9to5mac.com/2026/06/03/apple-vision-pro-gains-a-free-native-app-that-takes-you-on-an-immersive-private-flight/",
+      "pubDate": "2026-06-03T14:31:27.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "LG Kicks Off Summer Sale With Big Deals on Monitors, TVs, and Appliances",
+      "url": "https://www.macrumors.com/2026/06/03/lg-kicks-off-summer-sale/",
+      "pubDate": "2026-06-03T14:27:57.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple TV Shares Trailer for New Heist Series Starring Anya Taylor-Joy",
+      "url": "https://www.macrumors.com/2026/06/03/apple-tv-lucky-trailer/",
+      "pubDate": "2026-06-03T14:18:46.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "New Apple TV thriller sounds like the first must-watch of summer, reviews here",
+      "url": "https://9to5mac.com/2026/06/03/new-apple-tv-thriller-sounds-like-the-first-must-watch-of-summer-reviews-here/",
+      "pubDate": "2026-06-03T14:18:28.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Microsoft and OpenAI broke up — now they’re ready to fight",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition",
+      "pubDate": "2026-06-03T14:04:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Global Running Day Challenge on Apple Watch today as Fitness+ adds new workout",
+      "url": "https://9to5mac.com/2026/06/03/global-running-day-challenge-coming-to-apple-watch-next-week/",
+      "pubDate": "2026-06-03T13:36:53.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Store Seemingly Opening in Japan's Second-Largest City",
+      "url": "https://www.macrumors.com/2026/06/03/apple-store-yokohama-japan-job-listings/",
+      "pubDate": "2026-06-03T13:34:24.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "A first look at Microsoft’s Surface Laptop Ultra and Surface Dev Box",
+      "url": "https://www.theverge.com/tech/941600/microsoft-surface-laptop-ultra-dev-box-hands-on",
+      "pubDate": "2026-06-03T13:22:17.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "First European Apple Developer Center set to open in Berlin",
+      "url": "https://appleinsider.com/articles/26/06/03/first-european-apple-developer-center-set-to-open-in-berlin?utm_source=rss",
+      "pubDate": "2026-06-03T13:16:17.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "London's Wigmore Hall marks 125 years with new Apple Music Classical collaboration",
+      "url": "https://appleinsider.com/articles/26/06/03/londons-wigmore-hall-marks-125-years-with-new-apple-music-classical-collaboration?utm_source=rss",
+      "pubDate": "2026-06-03T13:06:03.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Here’s a look inside Apple’s first developer center in Europe",
+      "url": "https://9to5mac.com/2026/06/03/heres-a-look-inside-apples-first-developer-center-in-europe/",
+      "pubDate": "2026-06-03T12:45:10.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "MacBook Neo Disrupts a PC Market in Decline, IDC Says",
+      "url": "https://www.macrumors.com/2026/06/03/macbook-neo-disrupts-a-pc-market-in-decline/",
+      "pubDate": "2026-06-03T12:42:49.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Announces Europe's First Developer Center",
+      "url": "https://www.macrumors.com/2026/06/03/apple-announces-first-developer-center-in-europe/",
+      "pubDate": "2026-06-03T12:20:39.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -73,13 +262,6 @@
       "pubDate": "2026-06-03T11:43:09.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Mac beachballs or lagging performance? AI photo scanning may be the reason",
-      "url": "https://9to5mac.com/2026/06/03/mac-beachballs-or-lagging-performance-ai-photo-scanning-may-be-the-reason/",
-      "pubDate": "2026-06-03T11:30:33.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Trans teens have something to say",
@@ -87,16 +269,9 @@
       "pubDate": "2026-06-03T11:00:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "PSA: Those using older Macs and iPhones won’t be able to create or edit Office docs",
-      "url": "https://9to5mac.com/2026/06/03/psa-those-using-older-macs-and-iphones-wont-be-able-to-create-or-edit-office-docs/",
-      "pubDate": "2026-06-03T10:58:50.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
-      "title": "AI has a water problem. Google thinks it has a fix",
+      "title": "AI has a water problem — Google thinks it has a fix",
       "url": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
       "pubDate": "2026-06-03T09:00:00.000Z"
     },
@@ -115,39 +290,11 @@
       "pubDate": "2026-06-03T02:41:11.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Court orders Elon Musk to turn over Tesla and SpaceX emails in Apple/OpenAI lawsuit",
-      "url": "https://9to5mac.com/2026/06/02/court-orders-elon-musk-to-turn-over-tesla-and-spacex-emails-in-apple-openai-lawsuit/",
-      "pubDate": "2026-06-03T01:25:51.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "God of War Laufey is coming to the PS5",
-      "url": "https://www.theverge.com/entertainment/941516/god-of-war-laufey-ps5-trailer",
-      "pubDate": "2026-06-02T22:16:08.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Siri in iOS 27: Every New Feature and Change to Expect",
       "url": "https://www.macrumors.com/2026/06/02/ios-27-siri-features/",
       "pubDate": "2026-06-02T22:03:58.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Remedy’s Control sequel launches in September",
-      "url": "https://www.theverge.com/games/942113/remedy-control-resonant-release-date-trailer",
-      "pubDate": "2026-06-02T21:55:32.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: June 2, 2026 – iOS 26.5.1, new Apple Wallet rumors",
-      "url": "https://9to5mac.com/2026/06/02/daily-june-2-2026/",
-      "pubDate": "2026-06-02T21:50:58.000Z"
     },
     {
       "source": "AppleInsider",
@@ -164,32 +311,11 @@
       "pubDate": "2026-06-02T21:14:03.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Here&#8217;s seven bloody minutes of Wolverine on the PS5",
-      "url": "https://www.theverge.com/games/939378/marvels-wolverine-playstation-trailer-state-of-play-june-2026",
-      "pubDate": "2026-06-02T21:11:46.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Future Apple Vision Pro could gain Apple Pencil that can simulate textures",
       "url": "https://appleinsider.com/articles/26/06/02/future-apple-vision-pro-could-gain-apple-pencil-that-can-simulate-textures?utm_source=rss",
       "pubDate": "2026-06-02T21:01:04.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Maryland Governor calls out Apple over Towson Town Center store closure controversy",
-      "url": "https://9to5mac.com/2026/06/02/maryland-governor-calls-out-apple-over-towson-town-center-store-closure-controversy/",
-      "pubDate": "2026-06-02T20:41:21.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "PlayStation State of Play June 2026: All the news and trailers",
-      "url": "https://www.theverge.com/entertainment/940913/playstation-state-of-play-june-2026-news-trailers",
-      "pubDate": "2026-06-02T20:40:00.000Z"
     },
     {
       "source": "Six Colors",
@@ -199,20 +325,6 @@
       "pubDate": "2026-06-02T20:31:28.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 is coming, here are five new features I’m most excited about",
-      "url": "https://9to5mac.com/2026/06/02/ios-27-is-coming-here-are-five-new-features-im-most-excited-about/",
-      "pubDate": "2026-06-02T20:21:05.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Paste launches MCP support to connect your clipboard history to AI tools",
-      "url": "https://9to5mac.com/2026/06/02/paste-launches-mcp-support-to-connect-your-clipboard-history-to-ai-tools/",
-      "pubDate": "2026-06-02T20:03:07.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "It’s all Greeked to me ↦",
@@ -220,39 +332,11 @@
       "pubDate": "2026-06-02T19:58:28.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "I held the next-gen handheld",
-      "url": "https://www.theverge.com/games/941360/intel-arc-g3-extreme-msi-claw-next-gen-handheld-preview",
-      "pubDate": "2026-06-02T19:56:02.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 could make AirPods a lot more powerful with one upgrade",
-      "url": "https://9to5mac.com/2026/06/02/ios-27-could-make-airpods-a-lot-more-powerful-with-one-upgrade/",
-      "pubDate": "2026-06-02T19:25:13.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Google Expands AirDrop Support to More Android Phones",
       "url": "https://www.macrumors.com/2026/06/02/google-airdrop-support-more-android-phones/",
       "pubDate": "2026-06-02T19:24:12.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Microsoft Build 2026: The 7 biggest announcements",
-      "url": "https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements",
-      "pubDate": "2026-06-02T19:23:52.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Microsoft CEO: We’re moving from OS and apps to agents instead",
-      "url": "https://9to5mac.com/2026/06/02/microsoft-ceo-were-moving-from-os-and-apps-to-agents-instead/",
-      "pubDate": "2026-06-02T18:52:01.000Z"
     },
     {
       "source": "AppleInsider",
@@ -269,95 +353,11 @@
       "pubDate": "2026-06-02T18:05:10.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Perplexity Computer adding ability to split tasks between local and cloud models",
-      "url": "https://9to5mac.com/2026/06/02/perplexity-computer-adding-ability-to-split-tasks-between-local-and-cloud-models/",
-      "pubDate": "2026-06-02T17:55:40.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "DuckDuckGo keeps surging on iPhone after Google’s AI search overhaul",
-      "url": "https://9to5mac.com/2026/06/02/duckduckgo-keeps-surging-on-iphone-after-googles-ai-search-overhaul/",
-      "pubDate": "2026-06-02T17:53:06.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Nintendo Music Now Available on iPad and CarPlay",
       "url": "https://www.macrumors.com/2026/06/02/nintendo-music-carplay/",
       "pubDate": "2026-06-02T17:45:29.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Announces This Year's App Design Award Winners Ahead of WWDC 2026",
-      "url": "https://www.macrumors.com/2026/06/02/apple-design-award-winners-2026/",
-      "pubDate": "2026-06-02T17:18:27.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPhone Fold's wide screen means iPad's Split View is a necessity",
-      "url": "https://appleinsider.com/articles/26/06/02/iphone-folds-wide-screen-means-ipads-split-view-is-a-necessity?utm_source=rss",
-      "pubDate": "2026-06-02T16:54:51.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "MacBook Neo Outsold Every Other Mac in Its Debut Quarter",
-      "url": "https://www.macrumors.com/2026/06/02/macbook-neo-outsold-every-other-mac/",
-      "pubDate": "2026-06-02T16:33:24.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27 Rumored to Include Split-Screen App Adaptation Feature",
-      "url": "https://www.macrumors.com/2026/06/02/ios-27-split-screen-app-adaptation-feature/",
-      "pubDate": "2026-06-02T15:29:53.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "macOS Emerald to macOS Big Bear: What Will Apple Name macOS 27?",
-      "url": "https://www.macrumors.com/2026/06/02/macos-27-name-possibilities/",
-      "pubDate": "2026-06-02T15:20:57.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "AirPods drop to as low as $99 as Prime Day 2026 approaches",
-      "url": "https://appleinsider.com/articles/26/06/02/airpods-drop-to-as-low-as-99-as-prime-day-2026-approaches?utm_source=rss",
-      "pubDate": "2026-06-02T15:07:56.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Amazon Offers Early Prime Day Discounts on Anker, Samsung, Sonos, and More Accessories",
-      "url": "https://www.macrumors.com/2026/06/02/amazon-early-prime-day-deals-2/",
-      "pubDate": "2026-06-02T14:35:39.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Folding iPhone Liquid Metal hinge may pay off 16 years of Apple research",
-      "url": "https://appleinsider.com/articles/26/06/02/folding-iphone-liquid-metal-hinge-may-pay-off-16-years-of-apple-research?utm_source=rss",
-      "pubDate": "2026-06-02T14:19:15.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Releases 'Silo' Season Three Trailer Ahead of Hit Show's Return",
-      "url": "https://www.macrumors.com/2026/06/02/apple-tv-silo-season-three-trailer/",
-      "pubDate": "2026-06-02T14:13:34.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Microsoft Office 2019 for Mac Will Soon Stop Letting You Edit Documents",
-      "url": "https://www.macrumors.com/2026/06/02/microsoft-office-2019-for-mac-no-edit-documents/",
-      "pubDate": "2026-06-02T13:31:46.000Z"
     },
     {
       "source": "Six Colors",
