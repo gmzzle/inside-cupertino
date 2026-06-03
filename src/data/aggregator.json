@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T07:14:10.082Z",
+  "generatedAt": "2026-06-03T12:14:08.113Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,11 +24,88 @@
   ],
   "items": [
     {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple agrees to reveal India revenue in order to avoid massive $38B fine",
+      "url": "https://9to5mac.com/2026/06/03/apple-agrees-to-reveal-india-revenue-in-order-to-avoid-massive-38b-fine/",
+      "pubDate": "2026-06-03T12:13:55.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "MacBook Neo is the sole bright spot in a crashing global PC market",
+      "url": "https://appleinsider.com/articles/26/06/02/macbook-neo-is-the-sole-bright-spot-in-a-crashing-global-pc-market?utm_source=rss",
+      "pubDate": "2026-06-03T12:08:47.000Z"
+    },
+    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Elon Musk's SpaceX & Tesla email accounts must be handed over in Apple lawsuit",
       "url": "https://appleinsider.com/articles/26/06/03/elon-musks-spacex-tesla-email-accounts-must-be-handed-over-in-apple-lawsuit?utm_source=rss",
-      "pubDate": "2026-06-03T02:45:32.000Z"
+      "pubDate": "2026-06-03T12:08:27.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "India's $38 billion antitrust case inches forward as Apple finally agrees to cooperate",
+      "url": "https://appleinsider.com/articles/26/06/03/indias-38-billion-antitrust-case-inches-forward-as-apple-finally-agrees-to-cooperate?utm_source=rss",
+      "pubDate": "2026-06-03T12:08:09.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "SwitchBot’s acquisition of Nanoleaf is about more than lighting",
+      "url": "https://www.theverge.com/tech/942328/nanoleaf-switchbot-onerobotics-sale-ai-robotics",
+      "pubDate": "2026-06-03T12:00:20.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Music Classical Announces New Partnership With London's Wigmore Hall",
+      "url": "https://www.macrumors.com/2026/06/03/apple-music-classical-wigmore-hall-partnership/",
+      "pubDate": "2026-06-03T11:59:34.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Agrees to Hand Over Financial Data to India's Antitrust Regulator",
+      "url": "https://www.macrumors.com/2026/06/03/apple-agrees-to-hand-over-financial-data-to-india/",
+      "pubDate": "2026-06-03T11:43:09.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Mac beachballs or lagging performance? AI photo scanning may be the reason",
+      "url": "https://9to5mac.com/2026/06/03/mac-beachballs-or-lagging-performance-ai-photo-scanning-may-be-the-reason/",
+      "pubDate": "2026-06-03T11:30:33.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Trans teens have something to say",
+      "url": "https://www.theverge.com/features/940977/trans-teens-pediatric-care-closing",
+      "pubDate": "2026-06-03T11:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "PSA: Those using older Macs and iPhones won’t be able to create or edit Office docs",
+      "url": "https://9to5mac.com/2026/06/03/psa-those-using-older-macs-and-iphones-wont-be-able-to-create-or-edit-office-docs/",
+      "pubDate": "2026-06-03T10:58:50.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "AI has a water problem. Google thinks it has a fix",
+      "url": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
+      "pubDate": "2026-06-03T09:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Google must let publishers opt out of AI Search features, rules UK",
+      "url": "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out",
+      "pubDate": "2026-06-03T08:45:48.000Z"
     },
     {
       "source": "Six Colors",
@@ -129,13 +206,6 @@
       "pubDate": "2026-06-02T20:21:05.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "MacBook Neo is the sole bright spot in a crashing global PC market",
-      "url": "https://appleinsider.com/articles/26/06/02/macbook-neo-is-the-sole-bright-spot-in-a-crashing-global-pc-market?utm_source=rss",
-      "pubDate": "2026-06-02T20:11:08.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Paste launches MCP support to connect your clipboard history to AI tools",
@@ -185,39 +255,11 @@
       "pubDate": "2026-06-02T18:52:01.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Trump signs executive order to review AI models before they’re released",
-      "url": "https://www.theverge.com/policy/941775/trump-ai-executive-order",
-      "pubDate": "2026-06-02T18:33:42.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "2026 Apple Design Award winners include Cyberpunk 2077, Blue Prince",
       "url": "https://appleinsider.com/articles/26/06/02/2026-apple-design-award-winners-include-cyberpunk-2077-blue-prince?utm_source=rss",
       "pubDate": "2026-06-02T18:18:42.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Microsoft’s next-gen quantum chip cuts timeline to useful quantum computing",
-      "url": "https://www.theverge.com/news/940874/microsoft-majorana-2-quantum-chip-build",
-      "pubDate": "2026-06-02T18:15:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Microsoft’s first advanced reasoning AI is here",
-      "url": "https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026",
-      "pubDate": "2026-06-02T18:12:44.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The durable, floatable UE Wonderboom 4 speaker is cheaper than ever",
-      "url": "https://www.theverge.com/gadgets/941763/ultimate-ears-wonderboom-fractal-design-scape-deal-sale",
-      "pubDate": "2026-06-02T18:05:35.000Z"
     },
     {
       "source": "AppleInsider",
@@ -255,13 +297,6 @@
       "pubDate": "2026-06-02T17:18:27.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple reveals Apple Design Awards app and game winners for 2026",
-      "url": "https://9to5mac.com/2026/06/02/apple-reveals-apple-design-awards-app-and-game-winners-for-2026/",
-      "pubDate": "2026-06-02T17:09:37.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "iPhone Fold's wide screen means iPad's Split View is a necessity",
@@ -274,20 +309,6 @@
       "title": "MacBook Neo Outsold Every Other Mac in Its Debut Quarter",
       "url": "https://www.macrumors.com/2026/06/02/macbook-neo-outsold-every-other-mac/",
       "pubDate": "2026-06-02T16:33:24.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "OpenAI putting Codex inside ChatGPT app everywhere, releasing 6 business plugins",
-      "url": "https://9to5mac.com/2026/06/02/openai-putting-codex-inside-chatgpt-app-everywhere-releasing-6-business-plugins/",
-      "pubDate": "2026-06-02T16:22:38.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Here’s how MacBook Neo sales compare to M5 MacBook Air and Pro",
-      "url": "https://9to5mac.com/2026/06/02/heres-how-macbook-neo-sales-compare-to-m5-macbook-air-and-pro/",
-      "pubDate": "2026-06-02T16:08:58.000Z"
     },
     {
       "source": "MacRumors",
@@ -337,27 +358,6 @@
       "title": "Microsoft Office 2019 for Mac Will Soon Stop Letting You Edit Documents",
       "url": "https://www.macrumors.com/2026/06/02/microsoft-office-2019-for-mac-no-edit-documents/",
       "pubDate": "2026-06-02T13:31:46.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "A new high-tech display might give a future Apple Watch better battery life",
-      "url": "https://appleinsider.com/articles/26/06/02/a-new-high-tech-display-might-give-a-future-apple-watch-better-battery-life?utm_source=rss",
-      "pubDate": "2026-06-02T13:01:38.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Leaker: Foldable 'iPhone Ultra' Will Feature Liquid Metal Hinge",
-      "url": "https://www.macrumors.com/2026/06/02/foldable-iphone-will-feature-liquid-metal-hinge/",
-      "pubDate": "2026-06-02T12:46:44.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "2027 Apple Watch Could Adopt Next-Generation OLED Display Tech",
-      "url": "https://www.macrumors.com/2026/06/02/2027-apple-watch-efficient-oled-display-tech/",
-      "pubDate": "2026-06-02T10:36:11.000Z"
     },
     {
       "source": "Six Colors",
