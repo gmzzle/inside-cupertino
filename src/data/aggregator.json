@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T23:09:27.801Z",
+  "generatedAt": "2026-06-03T01:48:01.308Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Court orders Elon Musk to turn over Tesla and SpaceX emails in Apple/OpenAI lawsuit",
+      "url": "https://9to5mac.com/2026/06/02/court-orders-elon-musk-to-turn-over-tesla-and-spacex-emails-in-apple-openai-lawsuit/",
+      "pubDate": "2026-06-03T01:25:51.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -269,13 +276,6 @@
       "pubDate": "2026-06-02T16:08:58.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: AirPods Pro 3 $199 or $100 off ‘like-new’, Apple Pencil Pro $49, 32GB M5 MacBook Air $200 off, more",
-      "url": "https://9to5mac.com/2026/06/02/deals-airpods-pro-3-apple-pencil-pro-macbook-air/",
-      "pubDate": "2026-06-02T15:31:10.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iOS 27 Rumored to Include Split-Screen App Adaptation Feature",
@@ -353,13 +353,6 @@
       "pubDate": "2026-06-02T10:36:11.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "40 members of Congress take Towson union's side in letter to Apple's CEO",
-      "url": "https://appleinsider.com/articles/26/06/02/40-members-of-congress-take-towson-unions-side-in-letter-to-apples-ceo?utm_source=rss",
-      "pubDate": "2026-06-02T00:33:13.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) Upgrade 618: The WWDC Keynote Draft 2026",
@@ -372,6 +365,13 @@
       "title": "(Sponsor) Rogue Amoeba: Mac Audio Capture, for Humans",
       "url": "https://sixcolors.com/feed-only/2026/06/rogue-amoeba-mac-audio-capture-for-humans/",
       "pubDate": "2026-06-01T16:00:31.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "‘Designed in California’: Help us bring Apple history to life",
+      "url": "https://sixcolors.com/post/2026/06/designed-in-california-help-up-bring-apple-history-to-life/",
+      "pubDate": "2026-06-01T14:31:36.000Z"
     }
   ]
 }
