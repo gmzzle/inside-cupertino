@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T16:29:32.721Z",
+  "generatedAt": "2026-06-04T19:31:34.459Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,9 +24,107 @@
   ],
   "items": [
     {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Satechi CubeDock Review: A Thunderbolt 5 Dock That Doubles as an SSD Enclosure",
+      "url": "https://www.macrumors.com/review/satechi-cubedock/",
+      "pubDate": "2026-06-04T19:28:20.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Flaky OLED MacBook Ultra rumor contradicts more reliable leakers' timeframes",
+      "url": "https://appleinsider.com/articles/26/06/04/flaky-oled-macbook-ultra-rumor-contradicts-more-reliable-leakerss-timeframes?utm_source=rss",
+      "pubDate": "2026-06-04T19:03:32.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone 18 Pro getting new display upgrade with two benefits, per rumors",
+      "url": "https://9to5mac.com/2026/06/04/iphone-18-pro-getting-new-display-upgrade-with-two-benefits-per-rumors/",
+      "pubDate": "2026-06-04T18:59:29.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Security Bite: DeepSeek trending among US firms as low-cost AI alternative, what could go wrong?",
+      "url": "https://9to5mac.com/2026/06/04/security-bite-deepseek-trending-among-us-firms-as-low-cost-ai-alternative-what-could-go-wrong/",
+      "pubDate": "2026-06-04T18:44:02.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Kevin O’Leary agrees to downsize massive Utah data center",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center",
+      "pubDate": "2026-06-04T18:38:04.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Google is letting social media stars customize their search result page",
+      "url": "https://www.theverge.com/tech/943233/google-search-profiles-custom-page",
+      "pubDate": "2026-06-04T18:32:23.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Wallet’s new Digital ID feature just got way more useful in Texas",
+      "url": "https://9to5mac.com/2026/06/04/apple-wallets-new-digital-id-feature-just-got-way-more-useful-in-texas/",
+      "pubDate": "2026-06-04T18:30:22.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: June 4, 2026 – iPhone Ultra rumors, Siri servers",
+      "url": "https://9to5mac.com/2026/06/04/daily-june-4-2026/",
+      "pubDate": "2026-06-04T18:20:58.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "AirPods got new iPhone camera feature in iOS 26, here’s how to use it",
+      "url": "https://9to5mac.com/2026/06/04/airpods-got-new-iphone-camera-feature-in-ios-26-heres-how-to-use-it/",
+      "pubDate": "2026-06-04T17:40:04.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "LM Studio now lets you use your iPhone to talk to local models on your Mac",
+      "url": "https://9to5mac.com/2026/06/04/lm-studio-now-lets-you-use-your-iphone-to-talk-to-local-models-on-your-mac/",
+      "pubDate": "2026-06-04T17:21:32.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple’s Messages app on iPhone now has a third-party AI agent",
+      "url": "https://9to5mac.com/2026/06/04/apples-messages-app-on-iphone-now-has-a-third-party-ai-agent/",
+      "pubDate": "2026-06-04T17:18:05.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "These photos are the best leak yet of iPhone 18 Pro colors",
+      "url": "https://appleinsider.com/articles/26/06/04/these-photos-are-the-best-leak-yet-of-iphone-18-pro-colors?utm_source=rss",
+      "pubDate": "2026-06-04T17:10:15.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Amazon’s new plan for games: James Bond and AI Snoop Dogg",
+      "url": "https://www.theverge.com/games/943147/amazon-gaming-strategy-james-bond-snoop-dogg-luna",
+      "pubDate": "2026-06-04T17:01:15.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "OpenAI says ChatGPT’s memory feature is getting smarter and coming to free users",
+      "url": "https://9to5mac.com/2026/06/04/openai-says-chatgpts-memory-feature-is-getting-smarter-and-coming-to-free-users/",
+      "pubDate": "2026-06-04T16:40:15.000Z"
+    },
+    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) Upgrade 619: Road to the Apple II: Apple for Sale (Part 1)",
+      "title": "(Podcast) Upgrade 619: Road to the Apple II: Apple for Sale",
       "url": "https://sixcolors.com/podcast/2026/06/upgrade-619-road-to-the-apple-ii-apple-for-sale-part-1/",
       "pubDate": "2026-06-04T16:20:57.000Z"
     },
@@ -129,13 +227,6 @@
       "pubDate": "2026-06-04T14:58:35.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Arcade just got four new games, with more coming soon",
-      "url": "https://9to5mac.com/2026/06/04/apple-arcade-just-got-four-new-games-with-more-coming-soon/",
-      "pubDate": "2026-06-04T14:25:31.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Watch Series 11 Drops to $299 at Amazon, $100 Off Select Models",
@@ -164,13 +255,6 @@
       "pubDate": "2026-06-04T14:15:44.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Weather Channel’s Storm Radar lets you build your own forecast, now on Apple Watch",
-      "url": "https://9to5mac.com/2026/06/04/the-weather-channels-storm-radar-app-lets-you-build-your-own-ai-weather-presenter/",
-      "pubDate": "2026-06-04T14:00:00.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "We’re giving away a Prime Day grab bag loaded with over $800 of free tech",
@@ -192,34 +276,6 @@
       "pubDate": "2026-06-04T13:57:44.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "I still want an Apple Vision Air but would understand it being low priority",
-      "url": "https://9to5mac.com/2026/06/04/i-still-want-an-apple-vision-air-but-would-understand-it-being-low-priority/",
-      "pubDate": "2026-06-04T13:36:22.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "These photos are the best leak yet of iPhone 18 Pro colors",
-      "url": "https://appleinsider.com/articles/26/06/04/these-photos-are-the-best-leak-yet-of-iphone-18-pro-colors?utm_source=rss",
-      "pubDate": "2026-06-04T13:33:12.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "App Store ecosystem generated $1.4 trillion in 2025, 90% commission-free",
-      "url": "https://9to5mac.com/2026/06/04/app-store-ecosystem-generated-1-4-trillion-in-2025-90-commission-free/",
-      "pubDate": "2026-06-04T13:21:23.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple again cuts the interest rate for Apple Card Savings accounts",
-      "url": "https://9to5mac.com/2026/06/04/apple-again-cuts-the-interest-rate-for-apple-card-savings-accounts/",
-      "pubDate": "2026-06-04T13:18:22.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "AirPods Max 2 Hit New Low Price of $499",
@@ -234,39 +290,11 @@
       "pubDate": "2026-06-04T12:44:56.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Let us filter AI slop, you cowards",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok",
-      "pubDate": "2026-06-04T12:30:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iPhone 18 Pro: Dark Cherry, Light Blue, and Dark Gray Chassis Leaked [Update]",
       "url": "https://www.macrumors.com/2026/06/04/iphone-18-pro-dark-cherry-chassis-leaked/",
       "pubDate": "2026-06-04T12:18:30.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "AI leaders call for tougher protections against AI-aided bioweapons",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/942956/ai-biological-weapons-open-letter-congress",
-      "pubDate": "2026-06-04T12:12:12.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Yes, the Oura Ring 5 is noticeably smaller",
-      "url": "https://www.theverge.com/gadgets/942616/oura-ring-5-size-comparison-first-impressions",
-      "pubDate": "2026-06-04T12:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone 18 Pro Max may not be thicker after all",
-      "url": "https://9to5mac.com/2026/06/04/iphone-18-pro-max-may-not-be-thicker-after-all/",
-      "pubDate": "2026-06-04T11:55:37.000Z"
     },
     {
       "source": "AppleInsider",
@@ -290,13 +318,6 @@
       "pubDate": "2026-06-04T11:24:07.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Privacy may still be Apple’s savior when it comes to delayed AI features",
-      "url": "https://9to5mac.com/2026/06/04/privacy-may-still-be-apples-savior-when-it-comes-to-delayed-ai-features/",
-      "pubDate": "2026-06-04T11:17:58.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iPhone 18 Pro Max Device Thickness Allegedly Revealed",
@@ -304,25 +325,11 @@
       "pubDate": "2026-06-04T10:39:14.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple's Overhauled Siri Will Reportedly Run on Nvidia's Blackwell Chips",
-      "url": "https://www.macrumors.com/2026/06/04/apple-siri-rely-on-google-nvidia-chips/",
-      "pubDate": "2026-06-04T09:38:37.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "How to manage your privacy on iPhone and iPad",
       "url": "https://appleinsider.com/inside/iphone/tips/how-to-manage-your-privacy-on-iphone-and-ipad?utm_source=rss",
       "pubDate": "2026-06-04T02:59:32.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Google AI Edge Gallery launches on macOS, letting Mac users run Gemini models locally",
-      "url": "https://9to5mac.com/2026/06/03/google-ai-edge-gallery-launches-to-macos-letting-mac-users-run-gemini-models-locally/",
-      "pubDate": "2026-06-04T02:58:44.000Z"
     },
     {
       "source": "AppleInsider",
@@ -344,13 +351,6 @@
       "title": "Apple TV's 'Prehistoric Planet' brought extinct animals to life with custom instruments",
       "url": "https://appleinsider.com/articles/26/06/03/apple-tvs-prehistoric-planet-brought-extinct-animals-to-life-with-custom-instruments?utm_source=rss",
       "pubDate": "2026-06-03T23:03:05.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Age verification now mandatory for App Store users in Texas",
-      "url": "https://appleinsider.com/articles/26/06/03/age-verification-now-mandatory-for-app-store-users-in-texas?utm_source=rss",
-      "pubDate": "2026-06-03T21:19:09.000Z"
     },
     {
       "source": "Six Colors",
