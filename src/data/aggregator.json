@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T12:20:49.084Z",
+  "generatedAt": "2026-06-04T16:29:32.721Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,18 +24,228 @@
   ],
   "items": [
     {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) Upgrade 619: Road to the Apple II: Apple for Sale (Part 1)",
+      "url": "https://sixcolors.com/podcast/2026/06/upgrade-619-road-to-the-apple-ii-apple-for-sale-part-1/",
+      "pubDate": "2026-06-04T16:20:57.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Cash App launches a payment wand for when Apple Pay just isn’t magical enough",
+      "url": "https://9to5mac.com/2026/06/04/cash-app-launches-a-payment-wand-for-when-apple-pay-just-isnt-magical-enough/",
+      "pubDate": "2026-06-04T16:20:02.000Z"
+    },
+    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone 18 Pro: Dark Cherry, Light Blue, and Dark Gray Chassis Leaked",
-      "url": "https://www.macrumors.com/2026/06/04/iphone-18-pro-dark-cherry-chassis-leaked/",
-      "pubDate": "2026-06-04T12:18:30.000Z"
+      "title": "Apple TV and MLB Release July Schedule for 'Friday Night Baseball'",
+      "url": "https://www.macrumors.com/2026/06/04/apple-tv-friday-night-baseball-july/",
+      "pubDate": "2026-06-04T16:15:52.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "I built the ultimate Cosmic Orange iPhone everyday carry [Video]",
+      "url": "https://9to5mac.com/2026/06/04/i-built-the-ultimate-cosmic-orange-iphone-everyday-carry-video/",
+      "pubDate": "2026-06-04T16:06:40.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Belkin’s new Joy-Con grips also boost the Switch 2’s battery life",
+      "url": "https://www.theverge.com/tech/942617/belkin-gaming-charging-grip-nintendo-switch-2-joy-con-controller",
+      "pubDate": "2026-06-04T16:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Cash App made a magic wand for contactless payments",
+      "url": "https://www.theverge.com/tech/942897/cash-app-tags-magic-wand-contactless-payments-price-launch",
+      "pubDate": "2026-06-04T16:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Windows is back on the Microsoft menu",
+      "url": "https://www.theverge.com/tech/943108/microsoft-build-2026-windows-love-notepad",
+      "pubDate": "2026-06-04T16:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Remarkable’s refurbished Paper Pro bundle is hundreds off",
+      "url": "https://www.theverge.com/gadgets/942999/remarkable-paper-pro-vizio-soundbar-marathon-deal-sale",
+      "pubDate": "2026-06-04T15:46:07.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Deals: AirPods Max 2 hit Amazon all-time low, AirPods Pro 3, iPhone Air $149 off, Watch bands from $15, more",
+      "url": "https://9to5mac.com/2026/06/04/deals-airpods-max-2-airpods-pro-3-iphone-air/",
+      "pubDate": "2026-06-04T15:33:11.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "New MacBook Ultra report covers release timing, display, more",
+      "url": "https://9to5mac.com/2026/06/04/new-macbook-ultra-report-covers-release-timing-display-more/",
+      "pubDate": "2026-06-04T15:32:18.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Leaker Says iOS 27 Won't Be Compatible With These iPhones",
+      "url": "https://www.macrumors.com/2026/06/04/ios-27-compatible-iphones-rumor/",
+      "pubDate": "2026-06-04T15:25:00.000Z"
     },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
-      "title": "Run Google's Gemini LLMs right on your Mac with the new AI Edge Gallery",
+      "title": "App Store ecosystem surges to $1.4 trillion globally in 2025, from a certain point of view",
+      "url": "https://appleinsider.com/articles/26/06/04/app-store-ecosystem-surges-to-14-trillion-globally-in-2025-from-a-certain-point-of-view?utm_source=rss",
+      "pubDate": "2026-06-04T15:17:44.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Run Google's Gemma LLMs right on your Mac with the new AI Edge Gallery",
       "url": "https://appleinsider.com/articles/26/06/04/run-googles-gemini-llms-right-on-your-mac-with-the-new-ai-edge-gallery?utm_source=rss",
-      "pubDate": "2026-06-04T12:16:30.000Z"
+      "pubDate": "2026-06-04T15:13:14.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "AirPods Max 2 plunge to $499 at Amazon, the lowest price ever",
+      "url": "https://appleinsider.com/articles/26/06/04/airpods-max-2-plunge-to-499-at-amazon-the-lowest-price-ever?utm_source=rss",
+      "pubDate": "2026-06-04T15:05:16.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Highlights App Store Study: $1.4 Trillion in Sales Last Year, More Than 90% Commission-Free",
+      "url": "https://www.macrumors.com/2026/06/04/apple-highlights-2025-app-store-study/",
+      "pubDate": "2026-06-04T14:58:35.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Arcade just got four new games, with more coming soon",
+      "url": "https://9to5mac.com/2026/06/04/apple-arcade-just-got-four-new-games-with-more-coming-soon/",
+      "pubDate": "2026-06-04T14:25:31.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Watch Series 11 Drops to $299 at Amazon, $100 Off Select Models",
+      "url": "https://www.macrumors.com/2026/06/04/apple-watch-series-11-100-off-6/",
+      "pubDate": "2026-06-04T14:24:30.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple Card Savings returns keep shrinking as APY falls to 3.4%",
+      "url": "https://appleinsider.com/articles/26/06/04/apple-card-savings-returns-keep-shrinking-as-apy-falls-to-34?utm_source=rss",
+      "pubDate": "2026-06-04T14:23:40.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Arcade Adding Nine New Games, Including 'Family Feud Pocket'",
+      "url": "https://www.macrumors.com/2026/06/04/apple-arcade-adding-nine-new-games/",
+      "pubDate": "2026-06-04T14:21:03.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "TSMC struggles to keep up with AI demand: &#8216;We can only support so much&#8217;",
+      "url": "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles",
+      "pubDate": "2026-06-04T14:15:44.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Weather Channel’s Storm Radar lets you build your own forecast, now on Apple Watch",
+      "url": "https://9to5mac.com/2026/06/04/the-weather-channels-storm-radar-app-lets-you-build-your-own-ai-weather-presenter/",
+      "pubDate": "2026-06-04T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "We’re giving away a Prime Day grab bag loaded with over $800 of free tech",
+      "url": "https://www.theverge.com/gadgets/936396/prime-day-grab-bag-giveaway-sweepstakes",
+      "pubDate": "2026-06-04T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Elon Musk is steamrolling Wall Street to become a trillionaire",
+      "url": "https://www.theverge.com/podcast/942586/elon-musk-spacex-ipo-x-xai-index-funds",
+      "pubDate": "2026-06-04T14:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "'MacBook Ultra' May Drive Industry Shift to Hybrid OLED Laptop Displays",
+      "url": "https://www.macrumors.com/2026/06/04/macbook-ultra-hybrid-oled-laptop-displays/",
+      "pubDate": "2026-06-04T13:57:44.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "I still want an Apple Vision Air but would understand it being low priority",
+      "url": "https://9to5mac.com/2026/06/04/i-still-want-an-apple-vision-air-but-would-understand-it-being-low-priority/",
+      "pubDate": "2026-06-04T13:36:22.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "These photos are the best leak yet of iPhone 18 Pro colors",
+      "url": "https://appleinsider.com/articles/26/06/04/these-photos-are-the-best-leak-yet-of-iphone-18-pro-colors?utm_source=rss",
+      "pubDate": "2026-06-04T13:33:12.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "App Store ecosystem generated $1.4 trillion in 2025, 90% commission-free",
+      "url": "https://9to5mac.com/2026/06/04/app-store-ecosystem-generated-1-4-trillion-in-2025-90-commission-free/",
+      "pubDate": "2026-06-04T13:21:23.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple again cuts the interest rate for Apple Card Savings accounts",
+      "url": "https://9to5mac.com/2026/06/04/apple-again-cuts-the-interest-rate-for-apple-card-savings-accounts/",
+      "pubDate": "2026-06-04T13:18:22.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "AirPods Max 2 Hit New Low Price of $499",
+      "url": "https://www.macrumors.com/2026/06/04/airpods-max-2-low-price-499/",
+      "pubDate": "2026-06-04T13:06:01.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Card Savings Account's Interest Rate Lowered",
+      "url": "https://www.macrumors.com/2026/06/04/apple-card-savings-rate-lower/",
+      "pubDate": "2026-06-04T12:44:56.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Let us filter AI slop, you cowards",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok",
+      "pubDate": "2026-06-04T12:30:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone 18 Pro: Dark Cherry, Light Blue, and Dark Gray Chassis Leaked [Update]",
+      "url": "https://www.macrumors.com/2026/06/04/iphone-18-pro-dark-cherry-chassis-leaked/",
+      "pubDate": "2026-06-04T12:18:30.000Z"
     },
     {
       "source": "The Verge",
@@ -49,13 +259,6 @@
       "sourceHomepage": "https://www.theverge.com",
       "title": "Yes, the Oura Ring 5 is noticeably smaller",
       "url": "https://www.theverge.com/gadgets/942616/oura-ring-5-size-comparison-first-impressions",
-      "pubDate": "2026-06-04T12:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "This Google Photos update has saved your digital photo frame",
-      "url": "https://www.theverge.com/tech/942860/aura-frame-google-photos-api-update-auto-sync",
       "pubDate": "2026-06-04T12:00:00.000Z"
     },
     {
@@ -108,20 +311,6 @@
       "pubDate": "2026-06-04T09:38:37.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Amazon develops a warehouse robot that workers can speak to",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus",
-      "pubDate": "2026-06-04T09:31:14.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Shokz upgraded its open earbuds with better sound and a lighter design",
-      "url": "https://www.theverge.com/tech/942054/shokz-clip-on-opendots-2-air-earbuds-wireless-headphones",
-      "pubDate": "2026-06-04T07:00:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "How to manage your privacy on iPhone and iPad",
@@ -136,32 +325,11 @@
       "pubDate": "2026-06-04T02:58:44.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Report details Apple’s plan to use Nvidia chips for the Gemini-powered Siri",
-      "url": "https://9to5mac.com/2026/06/03/report-details-apples-plan-to-use-nvidia-chips-for-the-gemini-powered-siri/",
-      "pubDate": "2026-06-04T00:25:24.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Latest Apple privacy on iPhone ad takes direct shots at Chrome",
       "url": "https://appleinsider.com/articles/26/06/04/latest-apple-privacy-on-iphone-ad-takes-direct-shots-at-chrome?utm_source=rss",
       "pubDate": "2026-06-04T00:09:31.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple kicks off new ‘Privacy on iPhone’ campaign promoting Safari [Video]",
-      "url": "https://9to5mac.com/2026/06/03/apple-kicks-off-new-privacy-on-iphone-campaign-promoting-safari-video/",
-      "pubDate": "2026-06-04T00:09:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Nintendo confirms it will sell a new Switch 2 with replaceable battery in the EU",
-      "url": "https://www.theverge.com/games/942808/nintendo-switch-2-replaceable-battery-eu",
-      "pubDate": "2026-06-04T00:04:04.000Z"
     },
     {
       "source": "Six Colors",
@@ -178,109 +346,11 @@
       "pubDate": "2026-06-03T23:03:05.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "I’m calling it: Widow’s Bay is the best Apple TV show in years",
-      "url": "https://9to5mac.com/2026/06/03/im-calling-it-widows-bay-is-the-best-apple-tv-show-in-years/",
-      "pubDate": "2026-06-03T23:00:49.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27: All the Rumored App Features",
-      "url": "https://www.macrumors.com/2026/06/03/ios-27-app-rumors/",
-      "pubDate": "2026-06-03T22:48:25.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple is bringing age verification to Texas this week",
-      "url": "https://www.theverge.com/tech/942761/apple-texas-age-verification-app-store",
-      "pubDate": "2026-06-03T21:49:51.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "WhatsApp’s revamped chat lists interface rolling out on iOS",
-      "url": "https://9to5mac.com/2026/06/03/whatsapps-revamped-chat-lists-interface-rolling-out-on-ios/",
-      "pubDate": "2026-06-03T21:20:44.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Age verification now mandatory for App Store users in Texas",
       "url": "https://appleinsider.com/articles/26/06/03/age-verification-now-mandatory-for-app-store-users-in-texas?utm_source=rss",
       "pubDate": "2026-06-03T21:19:09.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "WiiM expands its whole-home ecosystem with a new soundbar",
-      "url": "https://www.theverge.com/tech/942748/wiim-releases-first-soundbar",
-      "pubDate": "2026-06-03T21:12:51.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "New iPads will launch later this year, here’s what rumors say is coming",
-      "url": "https://9to5mac.com/2026/06/03/new-ipads-will-launch-later-this-year-heres-what-rumors-say-is-coming/",
-      "pubDate": "2026-06-03T21:04:40.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "What's on Your iOS 27 Wishlist Ahead of WWDC 2026?",
-      "url": "https://www.macrumors.com/2026/06/03/ios-27-wishlist/",
-      "pubDate": "2026-06-03T21:04:34.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple permanently closing three US stores, here’s when [Updated]",
-      "url": "https://9to5mac.com/2026/06/03/apple-announces-permanent-closure-of-three-us-retail-stores/",
-      "pubDate": "2026-06-03T21:03:52.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Bluetti Elite 10 Mini Power Station Review: Small, Capable, and Apple-Friendly",
-      "url": "https://www.macrumors.com/review/bluetti-elite-10-power-station/",
-      "pubDate": "2026-06-03T20:56:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Black Apple Vision Pro rumors stoked by even more photographs",
-      "url": "https://appleinsider.com/articles/26/06/03/black-apple-vision-pro-rumors-stoked-by-even-more-photographs?utm_source=rss",
-      "pubDate": "2026-06-03T20:33:18.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Nvidia is already planning N2X and N3X chips — the goal is the Star Trek computer",
-      "url": "https://www.theverge.com/tech/942588/nvidia-rtx-spark-n2x-n3x-r2-d2-star-trek-star-wars-plan",
-      "pubDate": "2026-06-03T20:03:50.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Bringing App Store Age Verification to Texas as SB 2420 Takes Effect June 4",
-      "url": "https://www.macrumors.com/2026/06/03/apple-app-store-texas-sb-2420/",
-      "pubDate": "2026-06-03T19:52:33.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple says Texas App Store age assurance rules start tomorrow after court ruling",
-      "url": "https://9to5mac.com/2026/06/03/apple-says-texas-app-store-age-assurance-rules-start-tomorrow-after-court-ruling/",
-      "pubDate": "2026-06-03T19:46:51.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple is Permanently Closing Three U.S. Stores This Month",
-      "url": "https://www.macrumors.com/2026/06/03/three-apple-stores-closing-this-month/",
-      "pubDate": "2026-06-03T19:28:35.000Z"
     },
     {
       "source": "Six Colors",
@@ -290,62 +360,6 @@
       "pubDate": "2026-06-03T19:16:05.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Short-sighted: John Ternus behind Apple Vision project refocuses",
-      "url": "https://appleinsider.com/articles/26/06/03/short-sighted-john-ternus-behind-apple-vision-project-refocuses?utm_source=rss",
-      "pubDate": "2026-06-03T19:06:46.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The best Bluetooth trackers for Apple and Android phones",
-      "url": "https://www.theverge.com/23769840/best-bluetooth-trackers",
-      "pubDate": "2026-06-03T19:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple TV unveils new Anya Taylor-Joy series about a massive heist gone wrong",
-      "url": "https://9to5mac.com/2026/06/03/apple-tv-unveils-new-anya-taylor-joy-series-about-a-massive-heist-gone-wrong/",
-      "pubDate": "2026-06-03T18:36:40.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple touts reality TV binge-ready 24-hour battery life in new Beats Pill speaker ad",
-      "url": "https://9to5mac.com/2026/06/03/apple-touts-tv-binge-ready-24-hour-battery-life-in-fun-new-beats-pill-speaker-ad/",
-      "pubDate": "2026-06-03T18:28:30.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Kuo: Apple's Vision Pro Successors Off the Table as Focus Shifts to Smart Glasses",
-      "url": "https://www.macrumors.com/2026/06/03/kuo-vision-pro-successors-nixed/",
-      "pubDate": "2026-06-03T18:14:01.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple's New Beats Pill Ad Leans Into Reality TV Show 'Love Island USA'",
-      "url": "https://www.macrumors.com/2026/06/03/beats-pill-ad-love-island-usa/",
-      "pubDate": "2026-06-03T18:08:24.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Amazon Undercuts Apple With Quicker MacBook Neo Delivery and Discounted Price",
-      "url": "https://www.macrumors.com/2026/06/03/amazon-macbook-neo/",
-      "pubDate": "2026-06-03T17:47:32.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple's 15-inch MacBook Air M5 plunges to $1,099 in price war",
-      "url": "https://appleinsider.com/articles/26/06/03/apples-15-inch-macbook-air-m5-plunges-to-1099-in-price-war?utm_source=rss",
-      "pubDate": "2026-06-03T15:46:50.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) The Rebound 601: Horse and a Hamburger",
@@ -353,25 +367,11 @@
       "pubDate": "2026-06-03T14:00:00.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "London's Wigmore Hall marks 125 years with new Apple Music Classical collaboration",
-      "url": "https://appleinsider.com/articles/26/06/03/londons-wigmore-hall-marks-125-years-with-new-apple-music-classical-collaboration?utm_source=rss",
-      "pubDate": "2026-06-03T13:06:03.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Microsoft will allow Office 2019 to self-destruct ↦",
       "url": "https://sixcolors.com/link/2026/06/microsoft-will-allow-office-2019-to-self-destruct/",
       "pubDate": "2026-06-03T02:41:11.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "I keep spacing out because I’m out of my depth",
-      "url": "https://sixcolors.com/post/2026/06/i-keep-spacing-out-because-im-out-of-my-depth/",
-      "pubDate": "2026-06-02T21:14:03.000Z"
     }
   ]
 }
