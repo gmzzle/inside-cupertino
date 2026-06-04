@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T09:02:36.213Z",
+  "generatedAt": "2026-06-04T12:20:49.084Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,97 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone 18 Pro: Dark Cherry, Light Blue, and Dark Gray Chassis Leaked",
+      "url": "https://www.macrumors.com/2026/06/04/iphone-18-pro-dark-cherry-chassis-leaked/",
+      "pubDate": "2026-06-04T12:18:30.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Run Google's Gemini LLMs right on your Mac with the new AI Edge Gallery",
+      "url": "https://appleinsider.com/articles/26/06/04/run-googles-gemini-llms-right-on-your-mac-with-the-new-ai-edge-gallery?utm_source=rss",
+      "pubDate": "2026-06-04T12:16:30.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "AI leaders call for tougher protections against AI-aided bioweapons",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942956/ai-biological-weapons-open-letter-congress",
+      "pubDate": "2026-06-04T12:12:12.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Yes, the Oura Ring 5 is noticeably smaller",
+      "url": "https://www.theverge.com/gadgets/942616/oura-ring-5-size-comparison-first-impressions",
+      "pubDate": "2026-06-04T12:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "This Google Photos update has saved your digital photo frame",
+      "url": "https://www.theverge.com/tech/942860/aura-frame-google-photos-api-update-auto-sync",
+      "pubDate": "2026-06-04T12:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone 18 Pro Max may not be thicker after all",
+      "url": "https://9to5mac.com/2026/06/04/iphone-18-pro-max-may-not-be-thicker-after-all/",
+      "pubDate": "2026-06-04T11:55:37.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iPhone 18 Pro Max isn't getting any thinner as Apple focuses elsewhere",
+      "url": "https://appleinsider.com/articles/26/06/04/iphone-18-pro-max-isnt-getting-any-thinner-as-apple-focuses-elsewhere?utm_source=rss",
+      "pubDate": "2026-06-04T11:45:14.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Revamped Siri will tap Nvidia chips for fast, private cloud computing",
+      "url": "https://appleinsider.com/articles/26/06/04/revamped-siri-will-tap-nvidia-chips-for-fast-private-cloud-computing?utm_source=rss",
+      "pubDate": "2026-06-04T11:37:12.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's New Ad Pitches Safari as a More Private Alternative to Chrome",
+      "url": "https://www.macrumors.com/2026/06/04/apples-ad-safari-more-private-than-chrome/",
+      "pubDate": "2026-06-04T11:24:07.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Privacy may still be Apple’s savior when it comes to delayed AI features",
+      "url": "https://9to5mac.com/2026/06/04/privacy-may-still-be-apples-savior-when-it-comes-to-delayed-ai-features/",
+      "pubDate": "2026-06-04T11:17:58.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone 18 Pro Max Device Thickness Allegedly Revealed",
+      "url": "https://www.macrumors.com/2026/06/04/iphone-18-pro-max-device-thickness-revealed/",
+      "pubDate": "2026-06-04T10:39:14.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's Overhauled Siri Will Reportedly Run on Nvidia's Blackwell Chips",
+      "url": "https://www.macrumors.com/2026/06/04/apple-siri-rely-on-google-nvidia-chips/",
+      "pubDate": "2026-06-04T09:38:37.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Amazon develops a warehouse robot that workers can speak to",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus",
+      "pubDate": "2026-06-04T09:31:14.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -241,13 +332,6 @@
       "pubDate": "2026-06-03T18:08:24.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The best Qi2 batteries for iPhone and Pixel",
-      "url": "https://www.theverge.com/gadgets/939362/best-magsafe-qi2-2-batteries-power-banks",
-      "pubDate": "2026-06-03T18:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Amazon Undercuts Apple With Quicker MacBook Neo Delivery and Discounted Price",
@@ -255,74 +339,11 @@
       "pubDate": "2026-06-03T17:47:32.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "As AI gets better, it reveals an empty promise",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise",
-      "pubDate": "2026-06-03T17:45:35.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "John Ternus scaled back Apple’s Vision products roadmap: report",
-      "url": "https://9to5mac.com/2026/06/03/john-ternus-scaled-back-apples-vision-products-roadmap-report/",
-      "pubDate": "2026-06-03T17:19:04.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "MacBook Neo is So Popular That Apple Reportedly Doubled Production",
-      "url": "https://www.macrumors.com/2026/06/03/macbook-neo-production-doubled-says-kuo/",
-      "pubDate": "2026-06-03T16:24:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Amazon&#8217;s search bar will invent AI-generated products you can&#8217;t buy",
-      "url": "https://www.theverge.com/tech/942547/amazon-search-bar-ai-images",
-      "pubDate": "2026-06-03T16:07:31.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "CardioBot integrates one of my favorite Apple Health metrics for deeper heart insight",
-      "url": "https://9to5mac.com/2026/06/03/cardiobot-integrates-one-of-my-favorite-apple-health-metrics-for-deeper-heart-insight/",
-      "pubDate": "2026-06-03T16:02:32.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple's 15-inch MacBook Air M5 plunges to $1,099 in price war",
       "url": "https://appleinsider.com/articles/26/06/03/apples-15-inch-macbook-air-m5-plunges-to-1099-in-price-war?utm_source=rss",
       "pubDate": "2026-06-03T15:46:50.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "PlayStation is getting back to what it’s good at",
-      "url": "https://www.theverge.com/games/942520/playstation-wolverine-god-of-war-laufey-state-of-play-june-2026",
-      "pubDate": "2026-06-03T15:30:15.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Says macOS 27 Won't Be Compatible With These Macs",
-      "url": "https://www.macrumors.com/2026/06/03/macos-27-wont-run-on-these-macs/",
-      "pubDate": "2026-06-03T15:29:43.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "LG Kicks Off Summer Sale With Big Deals on Monitors, TVs, and Appliances",
-      "url": "https://www.macrumors.com/2026/06/03/lg-kicks-off-summer-sale/",
-      "pubDate": "2026-06-03T14:27:57.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple TV Shares Trailer for New Heist Series Starring Anya Taylor-Joy",
-      "url": "https://www.macrumors.com/2026/06/03/apple-tv-lucky-trailer/",
-      "pubDate": "2026-06-03T14:18:46.000Z"
     },
     {
       "source": "Six Colors",
@@ -334,23 +355,9 @@
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
-      "title": "First European Apple Developer Center set to open in Berlin",
-      "url": "https://appleinsider.com/articles/26/06/03/first-european-apple-developer-center-set-to-open-in-berlin?utm_source=rss",
-      "pubDate": "2026-06-03T13:16:17.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
       "title": "London's Wigmore Hall marks 125 years with new Apple Music Classical collaboration",
       "url": "https://appleinsider.com/articles/26/06/03/londons-wigmore-hall-marks-125-years-with-new-apple-music-classical-collaboration?utm_source=rss",
       "pubDate": "2026-06-03T13:06:03.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "India's $38 billion antitrust case inches forward as Apple finally agrees to cooperate",
-      "url": "https://appleinsider.com/articles/26/06/03/indias-38-billion-antitrust-case-inches-forward-as-apple-finally-agrees-to-cooperate?utm_source=rss",
-      "pubDate": "2026-06-03T12:08:09.000Z"
     },
     {
       "source": "Six Colors",
@@ -365,13 +372,6 @@
       "title": "I keep spacing out because I’m out of my depth",
       "url": "https://sixcolors.com/post/2026/06/i-keep-spacing-out-because-im-out-of-my-depth/",
       "pubDate": "2026-06-02T21:14:03.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Andy Ihnatko launches Ihnatko.com ↦",
-      "url": "https://sixcolors.com/link/2026/06/andy-ihnatko-launches-ihnatko-com/",
-      "pubDate": "2026-06-02T20:31:28.000Z"
     }
   ]
 }
