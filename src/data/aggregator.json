@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T21:30:31.514Z",
+  "generatedAt": "2026-06-04T00:02:49.272Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,48 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple kicks off new ‘Privacy on iPhone’ campaign promoting Safari [Video]",
+      "url": "https://9to5mac.com/2026/06/03/apple-kicks-off-new-privacy-on-iphone-campaign-promoting-safari-video/",
+      "pubDate": "2026-06-04T00:00:00.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Road to WWDC 2026: What’s a developer?",
+      "url": "https://sixcolors.com/post/2026/06/road-to-wwdc-2026-whats-a-developer/",
+      "pubDate": "2026-06-03T23:09:55.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple TV's 'Prehistoric Planet' brought extinct animals to life with custom instruments",
+      "url": "https://appleinsider.com/articles/26/06/03/apple-tvs-prehistoric-planet-brought-extinct-animals-to-life-with-custom-instruments?utm_source=rss",
+      "pubDate": "2026-06-03T23:03:05.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "I’m calling it: Widow’s Bay is the best Apple TV show in years",
+      "url": "https://9to5mac.com/2026/06/03/im-calling-it-widows-bay-is-the-best-apple-tv-show-in-years/",
+      "pubDate": "2026-06-03T23:00:49.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iOS 27: All the Rumored App Features",
+      "url": "https://www.macrumors.com/2026/06/03/ios-27-app-rumors/",
+      "pubDate": "2026-06-03T22:48:25.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Apple is bringing age verification to Texas this week",
+      "url": "https://www.theverge.com/tech/942761/apple-texas-age-verification-app-store",
+      "pubDate": "2026-06-03T21:49:51.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -64,6 +106,13 @@
       "title": "Apple permanently closing three US stores, here’s when [Updated]",
       "url": "https://9to5mac.com/2026/06/03/apple-announces-permanent-closure-of-three-us-retail-stores/",
       "pubDate": "2026-06-03T21:03:52.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Bluetti Elite 10 Mini Power Station Review: Small, Capable, and Apple-Friendly",
+      "url": "https://www.macrumors.com/review/bluetti-elite-10-power-station/",
+      "pubDate": "2026-06-03T20:56:00.000Z"
     },
     {
       "source": "AppleInsider",
@@ -220,13 +269,6 @@
       "pubDate": "2026-06-03T15:40:34.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: Early Prime Day AirPods discounts, 24GB MacBook Air, Apple Watch Ultra 3, Apple cables from $7.50, more",
-      "url": "https://9to5mac.com/2026/06/03/early-prime-day-deals-airpods-macbook-apple-watch-ultra/",
-      "pubDate": "2026-06-03T15:30:30.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "PlayStation is getting back to what it’s good at",
@@ -239,13 +281,6 @@
       "title": "Apple Says macOS 27 Won't Be Compatible With These Macs",
       "url": "https://www.macrumors.com/2026/06/03/macos-27-wont-run-on-these-macs/",
       "pubDate": "2026-06-03T15:29:43.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 will reportedly add two major new features to Apple Wallet",
-      "url": "https://9to5mac.com/2026/06/03/ios-27-will-reportedly-add-two-major-new-features-to-apple-wallet/",
-      "pubDate": "2026-06-03T15:08:08.000Z"
     },
     {
       "source": "The Verge",
@@ -276,25 +311,11 @@
       "pubDate": "2026-06-03T14:18:46.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Microsoft and OpenAI broke up — now they’re ready to fight",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition",
-      "pubDate": "2026-06-03T14:04:00.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) The Rebound 601: Horse and a Hamburger",
       "url": "https://sixcolors.com/podcast/2026/06/the-rebound-601-horse-and-a-hamburger/",
       "pubDate": "2026-06-03T14:00:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Store Seemingly Opening in Japan's Second-Largest City",
-      "url": "https://www.macrumors.com/2026/06/03/apple-store-yokohama-japan-job-listings/",
-      "pubDate": "2026-06-03T13:34:24.000Z"
     },
     {
       "source": "AppleInsider",
@@ -309,13 +330,6 @@
       "title": "London's Wigmore Hall marks 125 years with new Apple Music Classical collaboration",
       "url": "https://appleinsider.com/articles/26/06/03/londons-wigmore-hall-marks-125-years-with-new-apple-music-classical-collaboration?utm_source=rss",
       "pubDate": "2026-06-03T13:06:03.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "MacBook Neo Disrupts a PC Market in Decline, IDC Says",
-      "url": "https://www.macrumors.com/2026/06/03/macbook-neo-disrupts-a-pc-market-in-decline/",
-      "pubDate": "2026-06-03T12:42:49.000Z"
     },
     {
       "source": "AppleInsider",
@@ -339,25 +353,11 @@
       "pubDate": "2026-06-03T02:41:11.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple's on-device AI protects privacy, Microsoft's cloud-based plans offer only convenience",
-      "url": "https://appleinsider.com/articles/26/06/02/apples-on-device-ai-protects-privacy-microsofts-cloud-based-plans-offer-only-convenience?utm_source=rss",
-      "pubDate": "2026-06-02T21:14:17.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "I keep spacing out because I’m out of my depth",
       "url": "https://sixcolors.com/post/2026/06/i-keep-spacing-out-because-im-out-of-my-depth/",
       "pubDate": "2026-06-02T21:14:03.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Future Apple Vision Pro could gain Apple Pencil that can simulate textures",
-      "url": "https://appleinsider.com/articles/26/06/02/future-apple-vision-pro-could-gain-apple-pencil-that-can-simulate-textures?utm_source=rss",
-      "pubDate": "2026-06-02T21:01:04.000Z"
     },
     {
       "source": "Six Colors",
