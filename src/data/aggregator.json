@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T08:53:00.354Z",
+  "generatedAt": "2026-06-05T12:19:54.730Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,41 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "I customized a MacBook Neo with colorful spare parts",
+      "url": "https://www.theverge.com/tech/942839/macbook-neo-customization-color-mods-official-parts-frankenlaptop",
+      "pubDate": "2026-06-05T12:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iOS 27: New 'Beta' Siri Features Could Be Gated Behind a Waitlist",
+      "url": "https://www.macrumors.com/2026/06/05/siri-in-ios-27-still-labeled-beta-internally/",
+      "pubDate": "2026-06-05T11:24:31.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Porsche’s Cayenne Coupe Turbo will even make 911 owners nervous",
+      "url": "https://www.theverge.com/transportation/943004/porsche-cayenne-coupe-turbo-review-specs-price",
+      "pubDate": "2026-06-05T11:00:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iOS 27, macOS 27, Siri: What to expect to launch at WWDC 2026",
+      "url": "https://appleinsider.com/articles/26/06/05/ios-27-macos-27-siri-what-to-expect-to-launch-at-wwdc-2026?utm_source=rss",
+      "pubDate": "2026-06-05T10:35:17.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "UK wants to jail John Ternus if children's iPhones don't block nude images",
+      "url": "https://appleinsider.com/articles/26/06/05/uk-wants-to-jail-john-ternus-if-childrens-iphones-dont-block-nude-images?utm_source=rss",
+      "pubDate": "2026-06-05T10:32:21.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -269,13 +304,6 @@
       "pubDate": "2026-06-04T16:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Remarkable’s refurbished Paper Pro bundle is hundreds off",
-      "url": "https://www.theverge.com/gadgets/942999/remarkable-paper-pro-vizio-soundbar-marathon-deal-sale",
-      "pubDate": "2026-06-04T15:46:07.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Leaker Says iOS 27 Won't Be Compatible With These iPhones",
@@ -288,13 +316,6 @@
       "title": "App Store ecosystem surges to $1.4 trillion globally in 2025, from a certain point of view",
       "url": "https://appleinsider.com/articles/26/06/04/app-store-ecosystem-surges-to-14-trillion-globally-in-2025-from-a-certain-point-of-view?utm_source=rss",
       "pubDate": "2026-06-04T15:17:44.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Run Google's Gemma LLMs right on your Mac with the new AI Edge Gallery",
-      "url": "https://appleinsider.com/articles/26/06/04/run-googles-gemini-llms-right-on-your-mac-with-the-new-ai-edge-gallery?utm_source=rss",
-      "pubDate": "2026-06-04T15:13:14.000Z"
     },
     {
       "source": "AppleInsider",
@@ -330,27 +351,6 @@
       "title": "Apple Arcade Adding Nine New Games, Including 'Family Feud Pocket'",
       "url": "https://www.macrumors.com/2026/06/04/apple-arcade-adding-nine-new-games/",
       "pubDate": "2026-06-04T14:21:03.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "TSMC struggles to keep up with AI demand: &#8216;We can only support so much&#8217;",
-      "url": "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles",
-      "pubDate": "2026-06-04T14:15:44.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "'MacBook Ultra' May Drive Industry Shift to Hybrid OLED Laptop Displays",
-      "url": "https://www.macrumors.com/2026/06/04/macbook-ultra-hybrid-oled-laptop-displays/",
-      "pubDate": "2026-06-04T13:57:44.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPhone 18 Pro Max isn't getting any thinner as Apple focuses elsewhere",
-      "url": "https://appleinsider.com/articles/26/06/04/iphone-18-pro-max-isnt-getting-any-thinner-as-apple-focuses-elsewhere?utm_source=rss",
-      "pubDate": "2026-06-04T11:45:14.000Z"
     },
     {
       "source": "Six Colors",
