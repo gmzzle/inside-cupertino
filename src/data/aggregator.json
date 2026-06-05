@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T23:38:01.478Z",
+  "generatedAt": "2026-06-05T04:47:46.579Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,6 +24,27 @@
   ],
   "items": [
     {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple TV debuts a new series remake of thriller Cape Fear, stream now",
+      "url": "https://9to5mac.com/2026/06/04/apple-tv-new-thriller-cape-fear/",
+      "pubDate": "2026-06-05T01:00:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Mova LiDAX Ultra Lawn Mower review: Mostly hands-off lawn care",
+      "url": "https://appleinsider.com/articles/26/06/05/mova-lidax-ultra-lawn-mower-review-mostly-hands-off-lawn-care?utm_source=rss",
+      "pubDate": "2026-06-05T00:05:19.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Epic Games asks U.S. Supreme Court to deny Apple’s petition in App Store case",
+      "url": "https://9to5mac.com/2026/06/04/epic-games-asks-u-s-supreme-court-to-deny-apples-petition-in-app-store-case/",
+      "pubDate": "2026-06-04T23:44:07.000Z"
+    },
+    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "5+ New Features Coming in macOS 27",
@@ -36,6 +57,13 @@
       "title": "Apple's Supreme Court appeals should be thrown out, says Epic",
       "url": "https://appleinsider.com/articles/26/06/04/apples-supreme-court-appeals-should-be-thrown-out-says-epic?utm_source=rss",
       "pubDate": "2026-06-04T23:13:14.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Valve says it&#8217;s ready to launch the Steam Machine this summer",
+      "url": "https://www.theverge.com/games/943657/valve-steam-machine-frame-summer-launch-verified",
+      "pubDate": "2026-06-04T22:48:53.000Z"
     },
     {
       "source": "AppleInsider",
@@ -199,20 +227,6 @@
       "pubDate": "2026-06-04T18:32:23.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Wallet’s new Digital ID feature just got way more useful in Texas",
-      "url": "https://9to5mac.com/2026/06/04/apple-wallets-new-digital-id-feature-just-got-way-more-useful-in-texas/",
-      "pubDate": "2026-06-04T18:30:22.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: June 4, 2026 – iPhone Ultra rumors, Siri servers",
-      "url": "https://9to5mac.com/2026/06/04/daily-june-4-2026/",
-      "pubDate": "2026-06-04T18:20:58.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Amazon’s new plan for games: James Bond and AI Snoop Dogg",
@@ -325,13 +339,6 @@
       "pubDate": "2026-06-04T14:15:44.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "We’re giving away a Prime Day grab bag loaded with over $800 of free tech",
-      "url": "https://www.theverge.com/gadgets/936396/prime-day-grab-bag-giveaway-sweepstakes",
-      "pubDate": "2026-06-04T14:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "'MacBook Ultra' May Drive Industry Shift to Hybrid OLED Laptop Displays",
@@ -346,20 +353,6 @@
       "pubDate": "2026-06-04T11:45:14.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Revamped Siri will tap Nvidia chips for fast, private cloud computing",
-      "url": "https://appleinsider.com/articles/26/06/04/revamped-siri-will-tap-nvidia-chips-for-fast-private-cloud-computing?utm_source=rss",
-      "pubDate": "2026-06-04T11:37:12.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "How to manage your privacy on iPhone and iPad",
-      "url": "https://appleinsider.com/inside/iphone/tips/how-to-manage-your-privacy-on-iphone-and-ipad?utm_source=rss",
-      "pubDate": "2026-06-04T02:59:32.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Road to WWDC 2026: What’s a developer?",
@@ -372,6 +365,13 @@
       "title": "(Podcast) Clockwise 659: Use Your Meaty Stuff",
       "url": "https://sixcolors.com/podcast/2026/06/clockwise-659-use-your-meaty-stuff/",
       "pubDate": "2026-06-03T19:16:05.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) The Rebound 601: Horse and a Hamburger",
+      "url": "https://sixcolors.com/podcast/2026/06/the-rebound-601-horse-and-a-hamburger/",
+      "pubDate": "2026-06-03T14:00:00.000Z"
     }
   ]
 }
