@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T20:16:08.472Z",
+  "generatedAt": "2026-06-05T22:36:05.004Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,48 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Control Resonant is a sequel — and also a starting point",
+      "url": "https://www.theverge.com/games/944151/control-resonant-hands-on",
+      "pubDate": "2026-06-05T21:45:44.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "The better way to use Gemini on the Mac",
+      "url": "https://9to5mac.com/2026/06/05/the-better-way-to-use-gemini-on-the-mac/",
+      "pubDate": "2026-06-05T21:28:26.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Congress still can’t decide what to do about warrantless surveillance",
+      "url": "https://www.theverge.com/policy/944615/section-702-senate-vote-fails-pulte",
+      "pubDate": "2026-06-05T21:15:48.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "What to Expect From WWDC 2026: Gemini-Powered Siri, iOS 27, macOS 27 and More",
+      "url": "https://www.macrumors.com/guide/wwdc-2026-what-to-expect/",
+      "pubDate": "2026-06-05T21:15:47.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Starts Selling Refurbished Apple Watch Series 11, Ultra 3, and SE 3",
+      "url": "https://www.macrumors.com/2026/06/05/apple-watch-series-11-refurbished/",
+      "pubDate": "2026-06-05T21:14:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Summer Game Fest Live 2026: The biggest news, trailers, and announcements",
+      "url": "https://www.theverge.com/games/939484/summer-game-fest-live-2026-biggest-news-trailers-announcements",
+      "pubDate": "2026-06-05T20:40:00.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -248,27 +290,6 @@
       "pubDate": "2026-06-05T13:57:52.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "This AI startup says it can tell if a script will make a hit film",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood",
-      "pubDate": "2026-06-05T13:57:31.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 tidbits: Find My changes, new animations, more",
-      "url": "https://9to5mac.com/2026/06/05/ios-27-tidbits-find-my-changes-new-animations-more/",
-      "pubDate": "2026-06-05T13:53:58.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Why isn’t the Trump phone made in the USA?",
-      "url": "https://www.theverge.com/tech/943852/trump-phone-made-in-the-usa-ftc-assembled-china",
-      "pubDate": "2026-06-05T13:33:12.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple Vision Pro, WWDC, and Apple takes on Chrome, on the AppleInsider Podcast",
@@ -281,13 +302,6 @@
       "title": "I only want one thing from WWDC 2026, and it's got nothing to do with AI",
       "url": "https://appleinsider.com/articles/26/06/05/i-only-want-one-thing-from-wwdc-2026-and-its-got-nothing-to-do-with-ai?utm_source=rss",
       "pubDate": "2026-06-05T13:03:56.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "This chunky little tablet got my kid to clean up his toys",
-      "url": "https://www.theverge.com/tech/943219/skylight-buddy-kids-calendar-chore-tracker-review",
-      "pubDate": "2026-06-05T13:00:00.000Z"
     },
     {
       "source": "MacRumors",
@@ -344,20 +358,6 @@
       "title": "Put your specs on: Two sites for finding Apple details ↦",
       "url": "https://sixcolors.com/link/2026/06/put-your-specs-on-two-sites-for-finding-apple-details/",
       "pubDate": "2026-06-04T22:00:18.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "macOS 27 Wishlist: What Do You Want From Apple at WWDC 2026?",
-      "url": "https://www.macrumors.com/2026/06/04/macos-27-wwdc-2026-wishlist/",
-      "pubDate": "2026-06-04T21:54:47.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Upcoming Beats Headphones Teased in a Second Color by Lamine Yamal",
-      "url": "https://www.macrumors.com/2026/06/04/beats-headphones-lamine-yamal/",
-      "pubDate": "2026-06-04T21:29:00.000Z"
     },
     {
       "source": "Six Colors",
