@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T16:09:25.192Z",
+  "generatedAt": "2026-06-05T18:13:07.293Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,97 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPadOS 27: Four new iPad features being announced next week",
+      "url": "https://9to5mac.com/2026/06/05/ipados-27-four-new-ipad-features-being-announced-next-week/",
+      "pubDate": "2026-06-05T17:44:22.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Chrome Sets Browser Speed Records on M5 MacBook Pro",
+      "url": "https://www.macrumors.com/2026/06/05/chrome-browser-speed-record-2026/",
+      "pubDate": "2026-06-05T17:38:58.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "RSS journeys: Consider the news-reading squirrel",
+      "url": "https://sixcolors.com/post/2026/06/rss-journeys-consider-the-news-reading-squirrel/",
+      "pubDate": "2026-06-05T17:35:45.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The Sonos Era 100 speaker is down to its lowest price in months",
+      "url": "https://www.theverge.com/gadgets/944095/sonos-era-100-google-nest-doorbell-deal-sale",
+      "pubDate": "2026-06-05T17:00:47.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Sponsor) Rogue Amoeba: Mac Audio Capture, for Humans",
+      "url": "https://sixcolors.com/sponsor/2026/06/rogue-amoeba-mac-audio-capture-for-humans-2/",
+      "pubDate": "2026-06-05T17:00:03.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "The MacRumors Show: What to Expect at WWDC 2026",
+      "url": "https://www.macrumors.com/2026/06/05/the-macrumors-show-what-to-expect-at-wwdc26/",
+      "pubDate": "2026-06-05T16:58:05.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Touch ID coming to iPhone Ultra this fall, here’s why",
+      "url": "https://9to5mac.com/2026/06/05/touch-id-coming-to-iphone-ultra-this-fall-heres-why/",
+      "pubDate": "2026-06-05T16:56:38.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "How to watch WWDC 2026 live on Apple TV, YouTube, Safari & web browsers",
+      "url": "https://appleinsider.com/inside/wwdc/tips/how-to-watch-wwdc-2026-live-on-apple-tv-youtube-safari-web-browsers?utm_source=rss",
+      "pubDate": "2026-06-05T16:55:32.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Latest foldable iPhone leak improbably says Apple hasn't decided on colors yet",
+      "url": "https://appleinsider.com/articles/26/06/05/latest-foldable-iphone-leak-improbably-says-apple-hasnt-decided-on-colors-yet?utm_source=rss",
+      "pubDate": "2026-06-05T16:40:14.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "This is your laptop… on AI",
+      "url": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
+      "pubDate": "2026-06-05T16:39:07.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "CalDigit TS5 and Element 5 Hub Review: Two Thunderbolt 5 Docks for Apple's Latest Macs",
+      "url": "https://www.macrumors.com/review/caldigit-ts5-element-5/",
+      "pubDate": "2026-06-05T16:30:27.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "What happens when your phone is confiscated at the airport",
+      "url": "https://www.theverge.com/report/944076/cbp-airport-phone-searches-seizure-minneapolis-activists",
+      "pubDate": "2026-06-05T16:15:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Smart home diary: A fresh look as I start again in my new home",
+      "url": "https://9to5mac.com/2026/06/05/smart-home-diary-a-fresh-look-as-i-start-again-in-my-new-home/",
+      "pubDate": "2026-06-05T16:00:00.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -82,7 +173,7 @@
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
-      "title": "Disguised Russian banking app surges to top three on the US App Store",
+      "title": "Disguised Russian banking app surges to top three on the US App Store [U: Pulled]",
       "url": "https://9to5mac.com/2026/06/05/disguised-russian-banking-app-surges-to-top-three-on-the-us-app-store/",
       "pubDate": "2026-06-05T14:24:45.000Z"
     },
@@ -192,13 +283,6 @@
       "pubDate": "2026-06-05T11:24:31.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Porsche’s Cayenne Coupe Turbo will even make 911 owners nervous",
-      "url": "https://www.theverge.com/transportation/943004/porsche-cayenne-coupe-turbo-review-specs-price",
-      "pubDate": "2026-06-05T11:00:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "iOS 27, macOS 27, Siri: What to expect to launch at WWDC 2026",
@@ -248,25 +332,11 @@
       "pubDate": "2026-06-04T23:13:14.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Valve says it&#8217;s ready to launch the Steam Machine this summer",
-      "url": "https://www.theverge.com/games/943657/valve-steam-machine-frame-summer-launch-verified",
-      "pubDate": "2026-06-04T22:48:53.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "First AI agent for Messages Business Chat approved by Apple",
       "url": "https://appleinsider.com/articles/26/06/04/first-ai-agent-for-messages-business-chat-approved-by-apple?utm_source=rss",
       "pubDate": "2026-06-04T22:47:52.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Lamine Yamal teases second color of upcoming Beats headphones",
-      "url": "https://9to5mac.com/2026/06/04/lamine-yamal-teases-second-color-of-upcoming-beats-headphones/",
-      "pubDate": "2026-06-04T22:31:58.000Z"
     },
     {
       "source": "Six Colors",
@@ -276,13 +346,6 @@
       "pubDate": "2026-06-04T22:00:18.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Room Keys in Apple Wallet are coming to more hotels through Salto",
-      "url": "https://9to5mac.com/2026/06/04/room-keys-in-apple-wallet-are-coming-to-more-hotels-through-salto/",
-      "pubDate": "2026-06-04T21:59:58.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "macOS 27 Wishlist: What Do You Want From Apple at WWDC 2026?",
@@ -290,60 +353,11 @@
       "pubDate": "2026-06-04T21:54:47.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "The best solid-state MagSafe batteries for your iPhone in 2026",
-      "url": "https://appleinsider.com/inside/iphone/best/the-best-solid-state-magsafe-batteries-for-your-iphone-in-2026?utm_source=rss",
-      "pubDate": "2026-06-04T21:47:23.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Upcoming Beats Headphones Teased in a Second Color by Lamine Yamal",
       "url": "https://www.macrumors.com/2026/06/04/beats-headphones-lamine-yamal/",
       "pubDate": "2026-06-04T21:29:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Ugreen MagFlow Air and Nexode Air Review: A Power Bank and Charger Built for iPhone",
-      "url": "https://www.macrumors.com/review/ugreen-magflow-air-nexode-air/",
-      "pubDate": "2026-06-04T21:28:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 bill splitting, new hardware waiting on new Siri, final WWDC expectations",
-      "url": "https://9to5mac.com/2026/06/04/happy-hour-593/",
-      "pubDate": "2026-06-04T21:27:16.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Cyberdecks used to look like little laptops, but now they&#8217;re getting more personal",
-      "url": "https://www.theverge.com/tech/943445/cyberdeck-tiktok",
-      "pubDate": "2026-06-04T20:07:31.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Park Visitor Center Gets New Merch Ahead of WWDC 2026",
-      "url": "https://www.macrumors.com/2026/06/04/apple-park-visitor-center-wwdc-2026-merch/",
-      "pubDate": "2026-06-04T19:35:29.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Satechi CubeDock Review: A Thunderbolt 5 Dock That Doubles as an SSD Enclosure",
-      "url": "https://www.macrumors.com/review/satechi-cubedock/",
-      "pubDate": "2026-06-04T19:28:20.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Flaky OLED MacBook Ultra rumor contradicts more reliable leakers' timeframes",
-      "url": "https://appleinsider.com/articles/26/06/04/flaky-oled-macbook-ultra-rumor-contradicts-more-reliable-leakerss-timeframes?utm_source=rss",
-      "pubDate": "2026-06-04T19:03:32.000Z"
     },
     {
       "source": "Six Colors",
@@ -358,20 +372,6 @@
       "title": "Road to WWDC 2026: What’s a developer?",
       "url": "https://sixcolors.com/post/2026/06/road-to-wwdc-2026-whats-a-developer/",
       "pubDate": "2026-06-03T23:09:55.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) Clockwise 659: Use Your Meaty Stuff",
-      "url": "https://sixcolors.com/podcast/2026/06/clockwise-659-use-your-meaty-stuff/",
-      "pubDate": "2026-06-03T19:16:05.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) The Rebound 601: Horse and a Hamburger",
-      "url": "https://sixcolors.com/podcast/2026/06/the-rebound-601-horse-and-a-hamburger/",
-      "pubDate": "2026-06-03T14:00:00.000Z"
     }
   ]
 }
