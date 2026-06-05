@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T18:13:07.293Z",
+  "generatedAt": "2026-06-05T20:16:08.472Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "New iOS 27 designs reportedly coming to these iPhone apps",
+      "url": "https://9to5mac.com/2026/06/05/new-ios-27-designs-reportedly-coming-to-these-iphone-apps/",
+      "pubDate": "2026-06-05T19:24:35.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "HomeKit Weekly: SwitchBot launches a battery-powered standing fan with Apple Home integration",
+      "url": "https://9to5mac.com/2026/06/05/switchbot-standing-circulator-fan/",
+      "pubDate": "2026-06-05T18:59:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Gone in 60 minutes",
+      "url": "https://www.theverge.com/entertainment/944337/gone-in-60-minutes",
+      "pubDate": "2026-06-05T18:44:20.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Lil Finder Guy pet was the gateway to building my own Mac apps with Codex",
+      "url": "https://9to5mac.com/2026/06/05/lil-finder-guy-pet-was-the-gateway-to-building-my-own-mac-apps-with-codex/",
+      "pubDate": "2026-06-05T18:37:31.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -173,7 +201,7 @@
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
-      "title": "Disguised Russian banking app surges to top three on the US App Store [U: Pulled]",
+      "title": "Disguised Russian banking app surged to top three on the US App Store",
       "url": "https://9to5mac.com/2026/06/05/disguised-russian-banking-app-surges-to-top-three-on-the-us-app-store/",
       "pubDate": "2026-06-05T14:24:45.000Z"
     },
@@ -262,20 +290,6 @@
       "pubDate": "2026-06-05T13:00:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27: You might have to join a waitlist to try new Siri features",
-      "url": "https://9to5mac.com/2026/06/05/ios-27-you-might-have-to-join-a-waitlist-to-try-new-siri-features/",
-      "pubDate": "2026-06-05T12:48:31.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "I customized a MacBook Neo with colorful spare parts",
-      "url": "https://www.theverge.com/tech/942839/macbook-neo-customization-color-mods-official-parts-frankenlaptop",
-      "pubDate": "2026-06-05T12:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iOS 27: New Siri Features Could Be Gated Behind a Waitlist",
@@ -297,25 +311,11 @@
       "pubDate": "2026-06-05T10:32:21.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple TV debuts a new series remake of thriller Cape Fear, stream now",
-      "url": "https://9to5mac.com/2026/06/04/apple-tv-new-thriller-cape-fear/",
-      "pubDate": "2026-06-05T01:00:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Mova LiDAX Ultra Lawn Mower review: Mostly hands-off lawn care",
       "url": "https://appleinsider.com/articles/26/06/05/mova-lidax-ultra-lawn-mower-review-mostly-hands-off-lawn-care?utm_source=rss",
       "pubDate": "2026-06-05T00:05:19.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Epic Games asks U.S. Supreme Court to deny Apple’s petition in App Store case",
-      "url": "https://9to5mac.com/2026/06/04/epic-games-asks-u-s-supreme-court-to-deny-apples-petition-in-app-store-case/",
-      "pubDate": "2026-06-04T23:44:07.000Z"
     },
     {
       "source": "MacRumors",
