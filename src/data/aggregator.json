@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T22:36:05.004Z",
+  "generatedAt": "2026-06-06T00:20:10.994Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,41 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Chrome for Mac breaks benchmark records on the latest MacBook Pro",
+      "url": "https://9to5mac.com/2026/06/05/chrome-for-mac-breaks-benchmark-records-on-the-latest-macbook-pro/",
+      "pubDate": "2026-06-06T00:13:36.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iFixit tears down fake Apple Watch Ultra 3, AirPods Max 2, and AirPods Pro 3",
+      "url": "https://9to5mac.com/2026/06/05/ifixit-tears-down-fake-apple-watch-ultra-3-airpods-max-2-and-airpods-pro-3/",
+      "pubDate": "2026-06-05T23:29:28.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "More than a decade later, the team behind N++ is back with a multiplayer sequel",
+      "url": "https://www.theverge.com/entertainment/943194/metanet-n-plus-plus-multiplayer-sequel",
+      "pubDate": "2026-06-05T23:25:34.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Grand Theft Auto VI is warping the video game release calendar",
+      "url": "https://www.theverge.com/entertainment/944229/grand-theft-auto-6-release-calendar-summer-game-fest",
+      "pubDate": "2026-06-05T23:05:27.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Final Fantasy VII&#8217;s remake trilogy will conclude with Revelation",
+      "url": "https://www.theverge.com/games/939396/final-fantasy-vii-revelation-remake-trilogy-third-game-announcement",
+      "pubDate": "2026-06-05T22:52:06.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -206,13 +241,6 @@
       "pubDate": "2026-06-05T15:29:28.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "New York lawmakers pass one-year ban on new data centers",
-      "url": "https://www.theverge.com/policy/944041/new-york-data-center-moratorium",
-      "pubDate": "2026-06-05T15:25:10.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Foldable iPhone May Not Come in Black, Leaker Suggests",
@@ -241,13 +269,6 @@
       "pubDate": "2026-06-05T14:32:10.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Disguised Russian banking app surged to top three on the US App Store",
-      "url": "https://9to5mac.com/2026/06/05/disguised-russian-banking-app-surges-to-top-three-on-the-us-app-store/",
-      "pubDate": "2026-06-05T14:24:45.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iOS 27 Notifications Will Slide in From Left Side of Your iPhone's Screen",
@@ -260,27 +281,6 @@
       "title": "iOS 27 Will Reportedly Give Your iPhone 'Longer Battery Life'",
       "url": "https://www.macrumors.com/2026/06/05/ios-27-longer-battery-life-report/",
       "pubDate": "2026-06-05T14:21:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "macOS 27 could grant two wishes that longtime Mac users want most",
-      "url": "https://9to5mac.com/2026/06/05/macos-27-could-grant-two-wishes-that-longtime-mac-users-want-most/",
-      "pubDate": "2026-06-05T14:14:52.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "MAHA wants to make cotton the new beef tallow",
-      "url": "https://www.theverge.com/report/943944/maha-rfk-jr-cotton-natural-fiber-clothing-microplastics",
-      "pubDate": "2026-06-05T14:13:21.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "What do you mean my new smart scale is ‘built for GLP-1 users’?",
-      "url": "https://www.theverge.com/column/943639/optimizer-glp-1-tech-withings-oura-health",
-      "pubDate": "2026-06-05T14:00:00.000Z"
     },
     {
       "source": "AppleInsider",
