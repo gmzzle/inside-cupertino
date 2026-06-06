@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T20:35:44.636Z",
+  "generatedAt": "2026-06-06T22:17:57.968Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,13 +23,6 @@
     }
   ],
   "items": [
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Indie App Spotlight: ‘Grit Method’ builds character with 4 daily goals",
-      "url": "https://9to5mac.com/2026/06/06/grit-method-app-builds-character-with-4-daily-goals/",
-      "pubDate": "2026-06-06T19:30:00.000Z"
-    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -225,6 +218,13 @@
       "title": "Lil Finder Guy pet was the gateway to building my own Mac apps with Codex",
       "url": "https://9to5mac.com/2026/06/05/lil-finder-guy-pet-was-the-gateway-to-building-my-own-mac-apps-with-codex/",
       "pubDate": "2026-06-05T18:37:31.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPadOS 27: Four new iPad features being announced next week",
+      "url": "https://9to5mac.com/2026/06/05/ipados-27-four-new-ipad-features-being-announced-next-week/",
+      "pubDate": "2026-06-05T17:44:22.000Z"
     },
     {
       "source": "MacRumors",
