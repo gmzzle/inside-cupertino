@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T18:39:46.042Z",
+  "generatedAt": "2026-06-06T20:35:44.636Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Indie App Spotlight: ‘Grit Method’ builds character with 4 daily goals",
+      "url": "https://9to5mac.com/2026/06/06/grit-method-app-builds-character-with-4-daily-goals/",
+      "pubDate": "2026-06-06T19:30:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 is coming Monday: New features, compatibility, more",
+      "url": "https://9to5mac.com/2026/06/06/ios-27-new-features/",
+      "pubDate": "2026-06-06T19:21:33.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -213,13 +227,6 @@
       "pubDate": "2026-06-05T18:37:31.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPadOS 27: Four new iPad features being announced next week",
-      "url": "https://9to5mac.com/2026/06/05/ipados-27-four-new-ipad-features-being-announced-next-week/",
-      "pubDate": "2026-06-05T17:44:22.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Chrome Sets Browser Speed Records on M5 MacBook Pro",
@@ -246,13 +253,6 @@
       "title": "The MacRumors Show: What to Expect at WWDC 2026",
       "url": "https://www.macrumors.com/2026/06/05/the-macrumors-show-what-to-expect-at-wwdc26/",
       "pubDate": "2026-06-05T16:58:05.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Touch ID coming to iPhone Ultra this fall, here’s why",
-      "url": "https://9to5mac.com/2026/06/05/touch-id-coming-to-iphone-ultra-this-fall-heres-why/",
-      "pubDate": "2026-06-05T16:56:38.000Z"
     },
     {
       "source": "AppleInsider",
