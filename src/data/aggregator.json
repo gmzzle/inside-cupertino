@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T16:34:46.386Z",
+  "generatedAt": "2026-06-06T18:39:46.042Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -26,6 +26,34 @@
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
+      "title": "The first Story-Rich showcase was packed with narrative-driven games",
+      "url": "https://www.theverge.com/games/944406/fellow-traveller-story-rich-showcase-2026-announcements-trailers",
+      "pubDate": "2026-06-06T18:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "GOG apologizes for emailing people Nazi symbols",
+      "url": "https://www.theverge.com/games/945088/gog-apologizes-email-nazi-symbols-the-end-of-the-sun",
+      "pubDate": "2026-06-06T17:59:37.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Hands-on: BenQ’s new MA270S is a glossy 27-inch 5K display made for Mac",
+      "url": "https://9to5mac.com/2026/06/06/benq-ma270s-hands-on-for-mac-studio-display-competitor-27-inch-5k-monitor/",
+      "pubDate": "2026-06-06T17:41:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The cutest games from the Wholesome Direct 2026 showcase",
+      "url": "https://www.theverge.com/entertainment/943977/wholesome-direct-2026-cute-games-trailers",
+      "pubDate": "2026-06-06T17:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
       "title": "Summer Game Fest 2026: All the news from gaming&#8217;s busiest week",
       "url": "https://www.theverge.com/games/939206/summer-game-fest-playstation-xbox-gaming-events-2026",
       "pubDate": "2026-06-06T16:14:23.000Z"
@@ -36,6 +64,13 @@
       "title": "4K Blu-rays are three for $33 ahead of Father’s Day",
       "url": "https://www.theverge.com/gadgets/944347/4k-bluray-gruv-fathers-day-deal-sale",
       "pubDate": "2026-06-06T16:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "tvOS 27 is Apple’s chance to finally fix Apple TV gaming, here’s how",
+      "url": "https://9to5mac.com/2026/06/06/tvos-27-could-be-apples-gaming-renaissance-for-apple-tv/",
+      "pubDate": "2026-06-06T15:19:00.000Z"
     },
     {
       "source": "9to5Mac",
@@ -115,20 +150,6 @@
       "pubDate": "2026-06-06T13:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Here comes new Siri again",
-      "url": "https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini",
-      "pubDate": "2026-06-06T12:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The next YouTube phenomenon hitting the big screen",
-      "url": "https://www.theverge.com/tech/944942/amazing-digital-circus-lego-pokemon-installer",
-      "pubDate": "2026-06-06T12:00:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Steve Jobs made his last WWDC appearance 15 years ago, today",
@@ -148,13 +169,6 @@
       "title": "iFixit tears down fake Apple Watch Ultra 3, AirPods Max 2, and AirPods Pro 3",
       "url": "https://9to5mac.com/2026/06/05/ifixit-tears-down-fake-apple-watch-ultra-3-airpods-max-2-and-airpods-pro-3/",
       "pubDate": "2026-06-05T23:29:28.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "More than a decade later, the team behind N++ is back with a multiplayer sequel",
-      "url": "https://www.theverge.com/entertainment/943194/metanet-n-plus-plus-multiplayer-sequel",
-      "pubDate": "2026-06-05T23:25:34.000Z"
     },
     {
       "source": "9to5Mac",
@@ -262,25 +276,11 @@
       "pubDate": "2026-06-05T16:30:27.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Smart home diary: A fresh look as I start again in my new home",
-      "url": "https://9to5mac.com/2026/06/05/smart-home-diary-a-fresh-look-as-i-start-again-in-my-new-home/",
-      "pubDate": "2026-06-05T16:00:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Brydge Max 13 review: Finally, a compelling Magic Keyboard alternative",
       "url": "https://appleinsider.com/articles/26/06/05/brydge-max-13-review-finally-a-compelling-magic-keyboard-alternative?utm_source=rss",
       "pubDate": "2026-06-05T15:44:08.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple TV has its best summer lineup ever, here’s what’s coming",
-      "url": "https://9to5mac.com/2026/06/05/apple-tv-has-its-best-summer-lineup-ever-heres-whats-coming/",
-      "pubDate": "2026-06-05T15:39:31.000Z"
     },
     {
       "source": "MacRumors",
