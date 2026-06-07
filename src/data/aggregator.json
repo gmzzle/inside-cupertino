@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T12:02:24.265Z",
+  "generatedAt": "2026-06-07T14:20:50.825Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,55 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The Virtual OS Museum lets you relive over 600 operating systems right on your desktop",
+      "url": "https://www.theverge.com/tech/945246/virtual-os-museum-dos-windows-mac-os",
+      "pubDate": "2026-06-07T14:17:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Anker 3-in-1 Wireless Charging Station Now $40 Off Ahead of Amazon Prime Day",
+      "url": "https://www.macrumors.com/2026/06/07/ankers-prime-chargers-low/",
+      "pubDate": "2026-06-07T14:00:15.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Dell&#8217;s new XPS 14 is better in almost every way",
+      "url": "https://www.theverge.com/tech/944360/dell-xps-14-2026-review",
+      "pubDate": "2026-06-07T14:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "New dummy units give our closest look yet at the iPhone Fold",
+      "url": "https://9to5mac.com/2026/06/07/dummy-unit-iphone-fold-ultra-new-look/",
+      "pubDate": "2026-06-07T13:29:38.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Kill some time with these much needed distractions",
+      "url": "https://www.theverge.com/entertainment/945205/weekend-time-waster-internet-browser-game-rabibit-hole",
+      "pubDate": "2026-06-07T13:00:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "More iPhone Fold dummy shots appear in folded, open forms",
+      "url": "https://appleinsider.com/articles/26/06/07/more-iphone-fold-dummy-shots-appear-in-folded-open-forms?utm_source=rss",
+      "pubDate": "2026-06-07T12:54:22.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "AI ‘content creators’ are getting harder to spot",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators",
+      "pubDate": "2026-06-07T12:00:00.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -115,39 +164,11 @@
       "pubDate": "2026-06-06T15:10:49.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The mayor of Shelbyville, Indiana, says only people who live in ‘shitty houses’ oppose data center",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center",
-      "pubDate": "2026-06-06T15:05:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Benn Jordan longs for the days of tech that didn’t spy on you",
-      "url": "https://www.theverge.com/report/942609/benn-jordan-music-gear-cybersecurity-surveillance-questionnaire",
-      "pubDate": "2026-06-06T15:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "82-0 is the best basketball game, to hell with NBA 2K",
-      "url": "https://www.theverge.com/games/944975/82-0-perfect-basketball-stats-game",
-      "pubDate": "2026-06-06T14:30:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "iOS 27, macOS 27, Siri: What to expect to launch at WWDC 2026",
       "url": "https://appleinsider.com/articles/26/06/05/ios-27-macos-27-siri-what-to-expect-to-launch-at-wwdc-2026?utm_source=rss",
       "pubDate": "2026-06-06T14:09:03.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Meta made its own AI-generated clickbait news feed",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
-      "pubDate": "2026-06-06T14:00:00.000Z"
     },
     {
       "source": "AppleInsider",
@@ -234,13 +255,6 @@
       "pubDate": "2026-06-05T18:59:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Lil Finder Guy pet was the gateway to building my own Mac apps with Codex",
-      "url": "https://9to5mac.com/2026/06/05/lil-finder-guy-pet-was-the-gateway-to-building-my-own-mac-apps-with-codex/",
-      "pubDate": "2026-06-05T18:37:31.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Chrome Sets Browser Speed Records on M5 MacBook Pro",
@@ -318,13 +332,6 @@
       "pubDate": "2026-06-05T14:24:12.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27 Will Reportedly Give Your iPhone 'Longer Battery Life'",
-      "url": "https://www.macrumors.com/2026/06/05/ios-27-longer-battery-life-report/",
-      "pubDate": "2026-06-05T14:21:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Stay safe & browse the internet freely with 70% off Proton VPN",
@@ -365,13 +372,6 @@
       "title": "(Podcast) Upgrade 619: Road to the Apple II: Apple for Sale",
       "url": "https://sixcolors.com/podcast/2026/06/upgrade-619-road-to-the-apple-ii-apple-for-sale-part-1/",
       "pubDate": "2026-06-04T16:20:57.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Road to WWDC 2026: What’s a developer?",
-      "url": "https://sixcolors.com/post/2026/06/road-to-wwdc-2026-whats-a-developer/",
-      "pubDate": "2026-06-03T23:09:55.000Z"
     }
   ]
 }
