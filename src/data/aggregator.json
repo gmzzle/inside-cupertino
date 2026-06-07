@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T05:52:27.578Z",
+  "generatedAt": "2026-06-07T09:40:11.233Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,11 +24,25 @@
   ],
   "items": [
     {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "JMGO’s N3 Ultimate projector is the new portable 4K champ",
+      "url": "https://www.theverge.com/reviews/943732/best-portable-4k-projector-review",
+      "pubDate": "2026-06-07T07:00:00.000Z"
+    },
+    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "B&H slashes up to $300 off M5 Pro, M5 Max MacBook Pros for WWDC",
       "url": "https://appleinsider.com/articles/26/06/07/bh-slashes-up-to-300-off-m5-pro-m5-max-macbook-pros-for-wwdc?utm_source=rss",
       "pubDate": "2026-06-07T05:06:05.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Indie App Spotlight: ‘Grit Method’ builds character with 4 daily goals",
+      "url": "https://9to5mac.com/2026/06/06/grit-method-app-builds-character-with-4-daily-goals/",
+      "pubDate": "2026-06-06T19:30:00.000Z"
     },
     {
       "source": "9to5Mac",
@@ -157,13 +171,6 @@
       "pubDate": "2026-06-06T13:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Kabuto Park captures the fleeting joy of summer vacation",
-      "url": "https://www.theverge.com/entertainment/944060/kabuto-park-review-xbox-nintendo-switch-steam",
-      "pubDate": "2026-06-06T13:00:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Steve Jobs made his last WWDC appearance 15 years ago, today",
@@ -225,13 +232,6 @@
       "title": "Lil Finder Guy pet was the gateway to building my own Mac apps with Codex",
       "url": "https://9to5mac.com/2026/06/05/lil-finder-guy-pet-was-the-gateway-to-building-my-own-mac-apps-with-codex/",
       "pubDate": "2026-06-05T18:37:31.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPadOS 27: Four new iPad features being announced next week",
-      "url": "https://9to5mac.com/2026/06/05/ipados-27-four-new-ipad-features-being-announced-next-week/",
-      "pubDate": "2026-06-05T17:44:22.000Z"
     },
     {
       "source": "MacRumors",
