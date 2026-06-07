@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T18:40:07.560Z",
+  "generatedAt": "2026-06-07T20:38:39.864Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,41 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Sunday Reboot: Intel support is on its last legs this WWDC",
+      "url": "https://appleinsider.com/articles/26/06/07/sunday-reboot-intel-support-is-on-its-last-legs-this-wwdc?utm_source=rss",
+      "pubDate": "2026-06-07T20:12:26.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "One fateful meeting in 2025 put Apple Intelligence and Siri on the right course",
+      "url": "https://appleinsider.com/articles/26/06/07/one-fateful-meeting-in-2025-put-apple-intelligence-and-siri-on-the-right-course?utm_source=rss",
+      "pubDate": "2026-06-07T20:05:25.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple embraces Lil Finder Guy with WWDC 2026 swag",
+      "url": "https://9to5mac.com/2026/06/07/apple-embraces-lil-finder-guy-with-wwdc-2026-swag/",
+      "pubDate": "2026-06-07T20:00:01.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Little Finder Guy joins Clarius the Dogcow in the 2026 WWDC swag bag",
+      "url": "https://appleinsider.com/articles/26/06/07/little-finder-guy-joins-clarius-the-dogcow-in-the-2026-wwdc-swag-bag?utm_source=rss",
+      "pubDate": "2026-06-07T19:47:28.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The 7 biggest storylines from Summer Game Fest 2026",
+      "url": "https://www.theverge.com/entertainment/945445/summer-game-fest-2026-biggest-stories",
+      "pubDate": "2026-06-07T18:45:33.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -99,20 +134,6 @@
       "title": "Slow-to-arrive Apple Intelligence upgrades delayed new product category launches",
       "url": "https://appleinsider.com/articles/26/06/07/slow-to-arrive-apple-intelligence-upgrades-delayed-new-product-category-launches?utm_source=rss",
       "pubDate": "2026-06-07T15:09:48.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "One fateful meeting in 2025 put Apple Intelligence and Siri on the right course",
-      "url": "https://appleinsider.com/articles/26/06/07/one-fateful-meeting-in-2025-put-apple-intelligence-and-siri-on-the-right-course?utm_source=rss",
-      "pubDate": "2026-06-07T15:01:28.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Japanese Gothic is a gorgeously grotesque ghost story",
-      "url": "https://www.theverge.com/entertainment/943230/japanese-gothic-kylie-lee-baker-horror-novel",
-      "pubDate": "2026-06-07T15:00:00.000Z"
     },
     {
       "source": "AppleInsider",
@@ -262,13 +283,6 @@
       "pubDate": "2026-06-05T21:14:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "New iOS 27 designs reportedly coming to these iPhone apps",
-      "url": "https://9to5mac.com/2026/06/05/new-ios-27-designs-reportedly-coming-to-these-iphone-apps/",
-      "pubDate": "2026-06-05T19:24:35.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Chrome Sets Browser Speed Records on M5 MacBook Pro",
@@ -344,20 +358,6 @@
       "title": "iOS 27 Notifications Will Slide in From Left Side of Your iPhone's Screen",
       "url": "https://www.macrumors.com/2026/06/05/ios-27-notifications-slide-in-from-left/",
       "pubDate": "2026-06-05T14:24:12.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Stay safe & browse the internet freely with 70% off Proton VPN",
-      "url": "https://appleinsider.com/articles/26/06/05/stay-safe-browse-the-internet-freely-with-70-off-proton-vpn?utm_source=rss",
-      "pubDate": "2026-06-05T13:57:52.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple Vision Pro, WWDC, and Apple takes on Chrome, on the AppleInsider Podcast",
-      "url": "https://appleinsider.com/articles/26/06/05/apple-vision-pro-wwdc-and-apple-takes-on-chrome-on-the-appleinsider-podcast?utm_source=rss",
-      "pubDate": "2026-06-05T13:21:13.000Z"
     },
     {
       "source": "Six Colors",
