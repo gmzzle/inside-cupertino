@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T09:40:11.233Z",
+  "generatedAt": "2026-06-07T12:02:24.265Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,6 +24,13 @@
   ],
   "items": [
     {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Best Look at Foldable iPhone Design Revealed, May Only Come in White",
+      "url": "https://www.macrumors.com/2026/06/07/best-look-yet-at-foldable-iphone-design-revealed/",
+      "pubDate": "2026-06-07T10:28:04.000Z"
+    },
+    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "JMGO’s N3 Ultimate projector is the new portable 4K champ",
@@ -47,7 +54,7 @@
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 is coming Monday: New features, compatibility, more",
+      "title": "iOS 27 is coming tomorrow: Here’s every new feature",
       "url": "https://9to5mac.com/2026/06/06/ios-27-new-features/",
       "pubDate": "2026-06-06T19:21:33.000Z"
     },
@@ -337,13 +344,6 @@
       "title": "I only want one thing from WWDC 2026, and it's got nothing to do with AI",
       "url": "https://appleinsider.com/articles/26/06/05/i-only-want-one-thing-from-wwdc-2026-and-its-got-nothing-to-do-with-ai?utm_source=rss",
       "pubDate": "2026-06-05T13:03:56.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27: New Siri Features Could Be Gated Behind a Waitlist",
-      "url": "https://www.macrumors.com/2026/06/05/siri-in-ios-27-still-labeled-beta-internally/",
-      "pubDate": "2026-06-05T11:24:31.000Z"
     },
     {
       "source": "AppleInsider",
