@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T01:34:39.589Z",
+  "generatedAt": "2026-06-08T07:04:39.913Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "B&H is blowing out MacBook Air inventory at $899 with WWDC Deal Zone",
+      "url": "https://appleinsider.com/articles/26/06/08/bh-is-blowing-out-macbook-air-inventory-at-899-with-wwdc-deal-zone?utm_source=rss",
+      "pubDate": "2026-06-08T06:42:18.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple TV is now an EGOT after Schmigadoon!’s Tony wins",
+      "url": "https://9to5mac.com/2026/06/07/apple-tv-is-now-an-egot-after-schmigadoons-tony-wins/",
+      "pubDate": "2026-06-08T03:18:53.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -262,13 +276,6 @@
       "pubDate": "2026-06-05T23:29:28.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "The better way to use Gemini on the Mac",
-      "url": "https://9to5mac.com/2026/06/05/the-better-way-to-use-gemini-on-the-mac/",
-      "pubDate": "2026-06-05T21:28:26.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "What to Expect From WWDC 2026: Gemini-Powered Siri, iOS 27, macOS 27 and More",
@@ -330,13 +337,6 @@
       "title": "CalDigit TS5 and Element 5 Hub Review: Two Thunderbolt 5 Docks for Apple's Latest Macs",
       "url": "https://www.macrumors.com/review/caldigit-ts5-element-5/",
       "pubDate": "2026-06-05T16:30:27.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Brydge Max 13 review: Finally, a compelling Magic Keyboard alternative",
-      "url": "https://appleinsider.com/articles/26/06/05/brydge-max-13-review-finally-a-compelling-magic-keyboard-alternative?utm_source=rss",
-      "pubDate": "2026-06-05T15:44:08.000Z"
     },
     {
       "source": "MacRumors",
