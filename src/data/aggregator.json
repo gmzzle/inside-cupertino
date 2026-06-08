@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T22:01:46.100Z",
+  "generatedAt": "2026-06-08T23:37:47.345Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,111 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iOS 27 Adds Perimenopause and Menopause Tracking to Health App",
+      "url": "https://www.macrumors.com/2026/06/08/ios-27-adds-perimenopause-and-menopause-tracking/",
+      "pubDate": "2026-06-08T23:33:37.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "5 things I already love from the iOS 27 beta",
+      "url": "https://www.theverge.com/tech/946391/apple-ios-27-developer-beta-1-wwdc-2026-5-things",
+      "pubDate": "2026-06-08T23:30:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Maps Flyover Gets a Visual Upgrade in iOS 27",
+      "url": "https://www.macrumors.com/2026/06/08/apple-maps-flyover-ios-27/",
+      "pubDate": "2026-06-08T23:29:44.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Announces New CarPlay Features on iOS 27, Including Video Apps",
+      "url": "https://www.macrumors.com/2026/06/08/new-apple-carplay-features-ios-27/",
+      "pubDate": "2026-06-08T23:17:37.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Watch Series 9 Mistakenly Left Off watchOS 27 Compatibility List",
+      "url": "https://www.macrumors.com/2026/06/08/apple-watch-series-9-mistakenly-off-watchos-27-list/",
+      "pubDate": "2026-06-08T23:17:22.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Download the official macOS 27 Golden Gate wallpapers here",
+      "url": "https://9to5mac.com/2026/06/08/download-the-official-macos-27-golden-gate-wallpapers-here/",
+      "pubDate": "2026-06-08T23:09:37.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's Private AI Will Run on Google's Servers",
+      "url": "https://www.macrumors.com/2026/06/08/apple-private-cloud-compute-google/",
+      "pubDate": "2026-06-08T23:00:41.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Brings Full-Resolution iCloud Shared Albums to Android and Windows",
+      "url": "https://www.macrumors.com/2026/06/08/apple-brings-icloud-shared-albums-to-android/",
+      "pubDate": "2026-06-08T22:57:48.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) The Rebound 602: Sequoia, Sonoma, Let’s Call the Whole Thing Off",
+      "url": "https://sixcolors.com/podcast/2026/06/the-rebound-602-sequoia-sonoma-lets-call-the-whole-thing-off/",
+      "pubDate": "2026-06-08T22:54:58.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's new foundation models don't contain a drop of Gemini",
+      "url": "https://appleinsider.com/articles/26/06/08/apples-new-foundation-models-dont-contain-a-drop-of-gemini-as-we-said-they-wouldnt?utm_source=rss",
+      "pubDate": "2026-06-08T22:29:50.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 adds extra-large widgets for your extra-large needs",
+      "url": "https://9to5mac.com/2026/06/08/ios-27-adds-extra-large-widgets-for-your-extra-large-needs/",
+      "pubDate": "2026-06-08T22:28:17.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iOS 27 Tidbits: Share a Phone Number on Two iPhones, Independent Alarm Volume, Faster AirPlay and More",
+      "url": "https://www.macrumors.com/2026/06/08/ios-27-tidbits/",
+      "pubDate": "2026-06-08T22:23:03.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Apple is using AI to fix Safari’s extension problem",
+      "url": "https://www.theverge.com/tech/946345/apple-safari-ai-update-extensions",
+      "pubDate": "2026-06-08T22:14:17.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iOS 27 Announced: How to Install the Beta",
+      "url": "https://www.macrumors.com/2026/06/08/how-to-install-the-ios-27-beta/",
+      "pubDate": "2026-06-08T22:05:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Where was tvOS 27 at WWDC?",
+      "url": "https://www.theverge.com/tech/946329/tvos-27-absent-wwdc",
+      "pubDate": "2026-06-08T22:04:42.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -122,20 +227,6 @@
       "pubDate": "2026-06-08T21:08:10.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple's Most Powerful On-Device AI Now Requires iPhone 17 Pro or iPhone Air",
-      "url": "https://www.macrumors.com/2026/06/08/most-powerful-on-device-ai-now-requires-iphone-17-pro-or-air/",
-      "pubDate": "2026-06-08T21:00:54.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Announces tvOS 27 With These New Features",
-      "url": "https://www.macrumors.com/2026/06/08/apple-announces-tvos-27/",
-      "pubDate": "2026-06-08T21:00:45.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "iOS 27 release date: Here’s when the new iPhone update will launch",
@@ -143,39 +234,11 @@
       "pubDate": "2026-06-08T20:51:30.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Siri AI Gains Customizable Voice Expressiveness and Pace",
-      "url": "https://www.macrumors.com/2026/06/08/siri-ai-gains-customizable-voice/",
-      "pubDate": "2026-06-08T20:48:29.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27 Wallet App Gets 'Create a Pass' Feature",
-      "url": "https://www.macrumors.com/2026/06/08/ios-27-wallet-create-pass/",
-      "pubDate": "2026-06-08T20:46:56.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Intelligence Gains Smarter Writing Tools in iOS 27",
-      "url": "https://www.macrumors.com/2026/06/08/apple-intelligence-gains-smarter-writing-tools/",
-      "pubDate": "2026-06-08T20:35:53.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Here’s everything new for Apple Wallet in iOS 27",
       "url": "https://9to5mac.com/2026/06/08/heres-everything-new-for-apple-wallet-in-ios-27/",
       "pubDate": "2026-06-08T20:34:43.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27 Camera App Gets Siri Mode, Updated UI",
-      "url": "https://www.macrumors.com/2026/06/08/ios-27-camera-siri-mode/",
-      "pubDate": "2026-06-08T20:31:46.000Z"
     },
     {
       "source": "The Verge",
@@ -192,13 +255,6 @@
       "pubDate": "2026-06-08T20:20:31.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Brings AI Tab Organization and AI-Generated Extensions to Safari",
-      "url": "https://www.macrumors.com/2026/06/08/safari-tab-organization-and-ai-generated-extensions/",
-      "pubDate": "2026-06-08T20:18:44.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Craig Federighi details Apple’s collaboration with Google for Siri AI in iOS 27",
@@ -211,13 +267,6 @@
       "title": "Game Porting Toolkit 4 ushers in support for agentic coding",
       "url": "https://appleinsider.com/articles/26/06/08/game-porting-toolkit-4-ushers-in-support-for-agentic-coding?utm_source=rss",
       "pubDate": "2026-06-08T20:12:29.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Passwords Can Now Automatically Fix Weak and Compromised Passwords With Agentic AI",
-      "url": "https://www.macrumors.com/2026/06/08/apple-passwords-can-now-automatically-fix-passwords-with-agentic-ai/",
-      "pubDate": "2026-06-08T20:05:12.000Z"
     },
     {
       "source": "9to5Mac",
@@ -269,13 +318,6 @@
       "pubDate": "2026-06-08T19:41:21.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 has new app icon designs for many iPhone apps",
-      "url": "https://9to5mac.com/2026/06/08/ios-27-has-new-app-icon-designs-for-many-iphone-apps/",
-      "pubDate": "2026-06-08T19:41:09.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "tvOS 27 sneaks out with redesigned Podcasts app & AI subtitle generation",
@@ -288,13 +330,6 @@
       "title": "Apple announces watchOS 27, now with Siri AI",
       "url": "https://www.theverge.com/tech/943145/apple-watch-watchos-27-wwdc-2026",
       "pubDate": "2026-06-08T19:34:10.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 beta has a waitlist for accessing new Siri AI and app",
-      "url": "https://9to5mac.com/2026/06/08/ios-27-beta-1-has-a-waitlist-for-accessing-new-siri-ai/",
-      "pubDate": "2026-06-08T19:17:59.000Z"
     },
     {
       "source": "AppleInsider",
@@ -318,13 +353,6 @@
       "pubDate": "2026-06-08T18:48:20.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "macOS 27 compatibility list focuses entirely on Apple Silicon",
-      "url": "https://appleinsider.com/articles/26/06/08/macos-27-compatibility-list-focuses-entirely-on-apple-silicon?utm_source=rss",
-      "pubDate": "2026-06-08T18:47:09.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Apple WWDC 2026: The 7 biggest announcements",
@@ -339,39 +367,11 @@
       "pubDate": "2026-06-08T18:42:53.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Cameras get an Apple Intelligence boost in Apple Home",
-      "url": "https://www.theverge.com/tech/946032/apple-home-ai-camera-descriptions-search-4k",
-      "pubDate": "2026-06-08T18:37:31.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple announces visionOS 27 with Siri AI",
-      "url": "https://www.theverge.com/tech/944129/apple-visionos-updates-wwdc-2026",
-      "pubDate": "2026-06-08T18:32:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple is redesigning Screen Time and overhauling child controls",
-      "url": "https://www.theverge.com/tech/945898/apple-parental-controls-child-accounts-wwdc2026",
-      "pubDate": "2026-06-08T17:55:30.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Sponsor) Unite Pro – Turn websites into Mac apps with native enhancements",
       "url": "https://sixcolors.com/feed-only/2026/06/unite-pro-turn-websites-into-mac-apps-with-native-enhancements-2/",
       "pubDate": "2026-06-08T16:00:15.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "High Performance mode allows sharing another Mac’s display as if your own",
-      "url": "https://sixcolors.com/post/2026/06/high-performance-mode-allows-sharing-another-macs-display-as-if-your-own/",
-      "pubDate": "2026-06-08T10:00:10.000Z"
     }
   ]
 }
