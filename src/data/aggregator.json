@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T22:18:29.789Z",
+  "generatedAt": "2026-06-08T01:34:39.589Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "NASA will wear high-tech Prada long johns to the Moon",
+      "url": "https://www.theverge.com/design/945540/nasa-axiom-space-prada-lcvg-spacesuit-moon-artemis",
+      "pubDate": "2026-06-07T22:16:41.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -120,13 +127,6 @@
       "title": "Here’s how Apple Watch Series 11 stacks up against Oura, Fitbit, and Whoop, per WSJ",
       "url": "https://9to5mac.com/2026/06/07/heres-how-apple-watch-series-11-stacks-up-against-oura-fitbit-and-whoop-per-wsj/",
       "pubDate": "2026-06-07T16:04:54.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Govee’s all-weather smart lamp post is under $200 for the first time",
-      "url": "https://www.theverge.com/gadgets/944439/govee-outdoor-lamp-post-lights-deal-sale",
-      "pubDate": "2026-06-07T16:00:00.000Z"
     },
     {
       "source": "AppleInsider",
