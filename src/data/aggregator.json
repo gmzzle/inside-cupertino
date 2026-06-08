@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T12:09:42.331Z",
+  "generatedAt": "2026-06-08T16:28:49.056Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,6 +24,174 @@
   ],
   "items": [
     {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's Beta Website Says 'We'll Be Back Soon' Just Ahead of WWDC",
+      "url": "https://www.macrumors.com/2026/06/08/apple-beta-website-back-soon/",
+      "pubDate": "2026-06-08T16:20:04.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "WWDC 2026 Apple Event Live Keynote Coverage: iOS 27, Revamped Siri, and More",
+      "url": "https://www.macrumors.com/2026/06/08/wwdc-2026-live-coverage/",
+      "pubDate": "2026-06-08T16:15:09.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "WWDC 2026 Spoiler-Free Video Stream",
+      "url": "https://www.macrumors.com/2026/06/08/wwdc-2026-spoiler-free/",
+      "pubDate": "2026-06-08T16:12:52.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Sponsor) Unite Pro – Turn websites into Mac apps with native enhancements",
+      "url": "https://sixcolors.com/feed-only/2026/06/unite-pro-turn-websites-into-mac-apps-with-native-enhancements-2/",
+      "pubDate": "2026-06-08T16:00:15.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The Verge’s Father’s Day 2026 gift guide",
+      "url": "https://www.theverge.com/gadgets/943212/best-fathers-day-gift-ideas",
+      "pubDate": "2026-06-08T16:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "NotebookLM&#8217;s Gemini 3.5 upgrade adds a cloud computer and help finding sources",
+      "url": "https://www.theverge.com/tech/944325/google-notebooklm-ai-gemini-update",
+      "pubDate": "2026-06-08T16:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "WWDC 2026: All the news from Apple’s developers conference",
+      "url": "https://www.theverge.com/tech/944110/wwdc-2026-news-announcements",
+      "pubDate": "2026-06-08T16:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "WWDC 2026 News Hub live from Apple Park: iOS 27, new Siri, more",
+      "url": "https://9to5mac.com/2026/06/08/wwdc-2026-news-hub-live-from-apple-park-ios-27-new-siri-more/",
+      "pubDate": "2026-06-08T15:49:35.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Eero’s Pro 6E routers are down to their cheapest price yet in 2026",
+      "url": "https://www.theverge.com/gadgets/945656/eero-pro-6e-mesh-wifi-garmin-fenix-asus-oled-gaming-deal-sale",
+      "pubDate": "2026-06-08T15:25:04.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Deals: AirPods, Apple Watch Series 11 up to $160 off, SE 3 25% off, M5 Pro MacBook Pro $300 off, more",
+      "url": "https://9to5mac.com/2026/06/08/deals-airpods-apple-watch-series-11-macbook-pro/",
+      "pubDate": "2026-06-08T15:17:16.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Five things to expect from today’s WWDC keynote",
+      "url": "https://9to5mac.com/2026/06/08/five-things-to-expect-from-todays-wwdc-keynote/",
+      "pubDate": "2026-06-08T14:58:47.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Hackers likely hijacked over 20,000 Instagram accounts with Meta’s AI chatbot",
+      "url": "https://www.theverge.com/tech/945658/meta-ai-support-chatbot-exploit-instagram-accounts",
+      "pubDate": "2026-06-08T14:31:06.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "The last good morning: Celebrities help Tim Cook start WWDC",
+      "url": "https://appleinsider.com/articles/26/06/08/the-last-good-morning-celebrities-help-tim-cook-start-wwdc?utm_source=rss",
+      "pubDate": "2026-06-08T14:16:58.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Microsoft’s AI chief says superintelligence is near, but won’t take your job",
+      "url": "https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation",
+      "pubDate": "2026-06-08T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Nintendo’s next Direct showcase is on June 9th",
+      "url": "https://www.theverge.com/entertainment/945670/nintendo-direct-june-2026-switch-2",
+      "pubDate": "2026-06-08T13:57:58.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Xbox exclusives are back and more complicated than ever",
+      "url": "https://www.theverge.com/report/945639/xbox-exclusives-strategy-complicated-confusing",
+      "pubDate": "2026-06-08T13:54:01.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "New report details Apple’s AI shakeup that led to iOS 27’s major upgrades",
+      "url": "https://9to5mac.com/2026/06/08/new-report-details-apples-ai-shakeup-that-led-to-ios-27s-major-upgrades/",
+      "pubDate": "2026-06-08T13:43:28.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple Intelligence could bring a better Gemini experience than Google does",
+      "url": "https://appleinsider.com/articles/26/06/08/apple-intelligence-could-bring-a-better-gemini-experience-than-google-does?utm_source=rss",
+      "pubDate": "2026-06-08T13:43:20.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Event Today: Tim Cook Kicks Things Off With 'Good Morning' Video",
+      "url": "https://www.macrumors.com/2026/06/08/tim-cook-apple-event-good-morning-video/",
+      "pubDate": "2026-06-08T13:42:34.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Tim Cook posts comedic ‘Good morning’ video to mark final Apple event as CEO",
+      "url": "https://9to5mac.com/2026/06/08/tim-cook-posts-comedic-good-morning-video-to-mark-final-apple-event-as-ceo/",
+      "pubDate": "2026-06-08T13:25:21.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "How to watch Apple’s WWDC keynote: iOS 27, new Siri, and more",
+      "url": "https://9to5mac.com/2026/06/08/how-to-watch-apples-wwdc-keynote-ios-27-new-siri-and-more/",
+      "pubDate": "2026-06-08T13:14:27.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "UK demands Apple makes a child-protecting nudity detector that already exists",
+      "url": "https://appleinsider.com/articles/26/06/08/uk-demands-apple-makes-a-child-protecting-nudity-detector-that-already-exists?utm_source=rss",
+      "pubDate": "2026-06-08T13:01:25.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iOS 27 Beta Available Today With These 12 New Features",
+      "url": "https://www.macrumors.com/2026/06/08/ios-27-beta-available-tomorrow-new-features/",
+      "pubDate": "2026-06-08T12:50:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Google Gemini Could Be the Ceiling on Apple's AI Ambitions",
+      "url": "https://www.macrumors.com/2026/06/08/gemini-could-be-the-ceiling-on-apple-ai-ambitions/",
+      "pubDate": "2026-06-08T12:31:23.000Z"
+    },
+    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "'Schmigadoon!' earns Apple EGOT status faster than Netflix",
@@ -36,13 +204,6 @@
       "title": "How optimistic are you about today’s new Siri announcements? [Poll]",
       "url": "https://9to5mac.com/2026/06/08/how-optimistic-are-you-about-todays-new-siri-announcements-poll/",
       "pubDate": "2026-06-08T11:45:45.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Steve Jobs made his last WWDC appearance 15 years ago",
-      "url": "https://appleinsider.com/articles/26/06/06/steve-jobs-made-his-last-wwdc-appearance-15-years-ago-today?utm_source=rss",
-      "pubDate": "2026-06-08T11:36:51.000Z"
     },
     {
       "source": "The Verge",
@@ -122,13 +283,6 @@
       "pubDate": "2026-06-08T03:18:53.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "NASA will wear high-tech Prada long johns to the Moon",
-      "url": "https://www.theverge.com/design/945540/nasa-axiom-space-prada-lcvg-spacesuit-moon-artemis",
-      "pubDate": "2026-06-07T22:16:41.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Sunday Reboot: Intel support is on its last legs this WWDC",
@@ -148,55 +302,6 @@
       "title": "Apple embraces Lil Finder Guy with WWDC 2026 swag",
       "url": "https://9to5mac.com/2026/06/07/apple-embraces-lil-finder-guy-with-wwdc-2026-swag/",
       "pubDate": "2026-06-07T20:00:01.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The 7 biggest storylines from Summer Game Fest 2026",
-      "url": "https://www.theverge.com/entertainment/945445/summer-game-fest-2026-biggest-stories",
-      "pubDate": "2026-06-07T18:45:33.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Persona 6 exists, and that’s all we know",
-      "url": "https://www.theverge.com/entertainment/945256/persona-6-teaser",
-      "pubDate": "2026-06-07T18:00:41.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Microsoft’s Xbox 25th anniversary console comes in translucent green",
-      "url": "https://www.theverge.com/news/945359/microsoft-xbox-25th-anniversary-console-controller-release-date",
-      "pubDate": "2026-06-07T17:45:48.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Minecraft Dungeons 2 gets a September release date",
-      "url": "https://www.theverge.com/games/939551/minecraft-dungeons-ii-2-release-date-trailer",
-      "pubDate": "2026-06-07T17:45:25.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Fable launches in late February after recent delay",
-      "url": "https://www.theverge.com/games/939536/fable-xbox-games-showcase-2026",
-      "pubDate": "2026-06-07T17:14:57.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Halo: Campaign Evolved arrives July 28th",
-      "url": "https://www.theverge.com/games/939564/halo-campaign-evolved-xbox-games-showcase-2026",
-      "pubDate": "2026-06-07T17:14:08.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Gears of War: E-Day isn’t coming to the PS5",
-      "url": "https://www.theverge.com/entertainment/945269/gears-of-war-e-day-ps5-launch",
-      "pubDate": "2026-06-07T17:08:56.000Z"
     },
     {
       "source": "9to5Mac",
@@ -234,13 +339,6 @@
       "pubDate": "2026-06-07T14:00:15.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "New dummy units give our closest look yet at the iPhone Fold",
-      "url": "https://9to5mac.com/2026/06/07/dummy-unit-iphone-fold-ultra-new-look/",
-      "pubDate": "2026-06-07T13:29:38.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Best Look at Foldable iPhone Design Revealed, May Only Come in White",
@@ -255,81 +353,11 @@
       "pubDate": "2026-06-07T05:06:05.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Indie App Spotlight: ‘Grit Method’ builds character with 4 daily goals",
-      "url": "https://9to5mac.com/2026/06/06/grit-method-app-builds-character-with-4-daily-goals/",
-      "pubDate": "2026-06-06T19:30:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 is coming tomorrow: Here’s every new feature",
-      "url": "https://9to5mac.com/2026/06/06/ios-27-new-features/",
-      "pubDate": "2026-06-06T19:21:33.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Hands-on: BenQ’s new MA270S is a glossy 27-inch 5K display made for Mac",
-      "url": "https://9to5mac.com/2026/06/06/benq-ma270s-hands-on-for-mac-studio-display-competitor-27-inch-5k-monitor/",
-      "pubDate": "2026-06-06T17:41:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "tvOS 27 is Apple’s chance to finally fix Apple TV gaming, here’s how",
-      "url": "https://9to5mac.com/2026/06/06/tvos-27-could-be-apples-gaming-renaissance-for-apple-tv/",
-      "pubDate": "2026-06-06T15:19:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27: Seven new iPhone features are coming soon",
-      "url": "https://9to5mac.com/2026/06/06/ios-27-seven-new-features-are-coming-soon/",
-      "pubDate": "2026-06-06T15:10:49.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Chrome for macOS soundly beats browser benchmark records",
-      "url": "https://appleinsider.com/articles/26/06/06/chrome-for-macos-soundly-beats-browser-benchmark-records?utm_source=rss",
-      "pubDate": "2026-06-06T13:34:09.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "$499 AirPods Max 2? The Best Apple Deals of the Week Are Here",
       "url": "https://www.macrumors.com/2026/06/06/best-apple-deals-of-the-week-6-5-26/",
       "pubDate": "2026-06-06T13:05:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Top Stories: 'All Systems Glow' for WWDC, MacBook Neo Popularity, and More",
-      "url": "https://www.macrumors.com/2026/06/06/top-stories-all-systems-glow-wwdc-2026/",
-      "pubDate": "2026-06-06T13:00:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "What to Expect From WWDC 2026: Gemini-Powered Siri, iOS 27, macOS 27 and More",
-      "url": "https://www.macrumors.com/guide/wwdc-2026-what-to-expect/",
-      "pubDate": "2026-06-05T21:15:47.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Starts Selling Refurbished Apple Watch Series 11, Ultra 3, and SE 3",
-      "url": "https://www.macrumors.com/2026/06/05/apple-watch-series-11-refurbished/",
-      "pubDate": "2026-06-05T21:14:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Chrome Sets Browser Speed Records on M5 MacBook Pro",
-      "url": "https://www.macrumors.com/2026/06/05/chrome-browser-speed-record-2026/",
-      "pubDate": "2026-06-05T17:38:58.000Z"
     },
     {
       "source": "Six Colors",
@@ -344,34 +372,6 @@
       "title": "(Sponsor) Rogue Amoeba: Mac Audio Capture, for Humans",
       "url": "https://sixcolors.com/sponsor/2026/06/rogue-amoeba-mac-audio-capture-for-humans-2/",
       "pubDate": "2026-06-05T17:00:03.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "The MacRumors Show: What to Expect at WWDC 2026",
-      "url": "https://www.macrumors.com/2026/06/05/the-macrumors-show-what-to-expect-at-wwdc26/",
-      "pubDate": "2026-06-05T16:58:05.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "How to watch WWDC 2026 live on Apple TV, YouTube, Safari & web browsers",
-      "url": "https://appleinsider.com/inside/wwdc/tips/how-to-watch-wwdc-2026-live-on-apple-tv-youtube-safari-web-browsers?utm_source=rss",
-      "pubDate": "2026-06-05T16:55:32.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "CalDigit TS5 and Element 5 Hub Review: Two Thunderbolt 5 Docks for Apple's Latest Macs",
-      "url": "https://www.macrumors.com/review/caldigit-ts5-element-5/",
-      "pubDate": "2026-06-05T16:30:27.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Put your specs on: Two sites for finding Apple details ↦",
-      "url": "https://sixcolors.com/link/2026/06/put-your-specs-on-two-sites-for-finding-apple-details/",
-      "pubDate": "2026-06-04T22:00:18.000Z"
     }
   ]
 }
