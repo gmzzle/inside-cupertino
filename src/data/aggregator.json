@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T21:13:34.134Z",
+  "generatedAt": "2026-06-09T22:53:11.694Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,62 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "WWDC26: Watch Apple’s short recap of this year’s Platforms State of the Union",
+      "url": "https://9to5mac.com/2026/06/09/wwdc26-watch-apples-short-recap-of-this-years-platforms-state-of-the-union/",
+      "pubDate": "2026-06-09T22:46:45.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Philips Hue smart lights now react to live sports events in real-time",
+      "url": "https://9to5mac.com/2026/06/09/philips-hue-smart-lights-will-soon-be-able-to-react-to-live-sports-events-in-real-time/",
+      "pubDate": "2026-06-09T22:29:07.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Telegram launches fully native Apple Watch app with messages, GIFs, video, and more",
+      "url": "https://9to5mac.com/2026/06/09/telegram-launches-fully-native-apple-watch-app-with-messages-gifs-video-and-more/",
+      "pubDate": "2026-06-09T22:11:24.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Anthropic Launches Claude Fable 5, Its First Public Mythos-Class Model",
+      "url": "https://www.macrumors.com/2026/06/09/anthropic-fable-5/",
+      "pubDate": "2026-06-09T22:08:37.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Telegram Gets Native Apple Watch App",
+      "url": "https://www.macrumors.com/2026/06/09/telegram-apple-watch-app/",
+      "pubDate": "2026-06-09T21:37:31.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "macOS 27 Golden Gate adds higher resolution support for ultrawide displays",
+      "url": "https://9to5mac.com/2026/06/09/macos-27-golden-gate-adds-higher-resolution-support-for-ultrawide-displays/",
+      "pubDate": "2026-06-09T21:37:12.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Congress just gave DHS another $70 billion",
+      "url": "https://www.theverge.com/policy/947146/dhs-funding-congress-budget-reconciliation",
+      "pubDate": "2026-06-09T21:34:46.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The App Store is going to add subscription bundles soon",
+      "url": "https://www.theverge.com/tech/947365/apple-subscription-bundles-app-store",
+      "pubDate": "2026-06-09T21:30:48.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -164,25 +220,11 @@
       "pubDate": "2026-06-09T17:35:51.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Anthropic just released public Mythos-class AI model called Claude Fable, details here",
-      "url": "https://9to5mac.com/2026/06/09/anthropic-just-released-public-mythos-class-ai-model-called-claude-fable-details-here/",
-      "pubDate": "2026-06-09T17:19:24.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Apple wants Europe to blink",
       "url": "https://www.theverge.com/ai-artificial-intelligence/947051/apple-europe-dma-siri-ai",
       "pubDate": "2026-06-09T17:13:14.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Top watchOS 27 features that will enhance your Apple Watch",
-      "url": "https://9to5mac.com/2026/06/09/top-watchos-27-features-that-will-enhance-your-apple-watch/",
-      "pubDate": "2026-06-09T17:00:12.000Z"
     },
     {
       "source": "The Verge",
@@ -234,25 +276,11 @@
       "pubDate": "2026-06-09T16:08:04.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Nomad debuts limited edition Stand One in color-matching Stellar Orange",
-      "url": "https://9to5mac.com/2026/06/09/nomad-debuts-limited-edition-stand-one-in-color-matching-stellar-orange/",
-      "pubDate": "2026-06-09T16:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Nomad's New Stellar Orange Charger and Find My Card Match the iPhone 17 Pro",
       "url": "https://www.macrumors.com/2026/06/09/nomad-stellar-orange-charger/",
       "pubDate": "2026-06-09T16:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Here’s everything new for Apple Maps in iOS 27",
-      "url": "https://9to5mac.com/2026/06/09/heres-everything-new-for-apple-maps-in-ios-27/",
-      "pubDate": "2026-06-09T15:59:17.000Z"
     },
     {
       "source": "MacRumors",
@@ -304,20 +332,6 @@
       "pubDate": "2026-06-09T15:10:43.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Square Enix teases Kingdom Hearts 4 at Nintendo Direct",
-      "url": "https://www.theverge.com/entertainment/946717/kingdom-hearts-4-switch-2",
-      "pubDate": "2026-06-09T15:03:14.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Meta will use your activity on other websites to personalize your feeds",
-      "url": "https://www.theverge.com/tech/946744/meta-website-activity-personalize-feeds",
-      "pubDate": "2026-06-09T15:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Podcasts Gets Video on Mac and Apple TV, Plus New Search Feature",
@@ -330,20 +344,6 @@
       "title": "How to control separate alarm & notification alert volumes iOS 27",
       "url": "https://appleinsider.com/inside/ios-27/tips/how-to-control-separate-alarm-notification-alert-volumes-ios-27?utm_source=rss",
       "pubDate": "2026-06-09T14:32:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Reveals How Many iPhones Were Running iOS 26 Before WWDC",
-      "url": "https://www.macrumors.com/2026/06/09/ios-26-adoption-stats-wwdc/",
-      "pubDate": "2026-06-09T14:30:50.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "EU Says Decision Not to Launch Siri AI in Europe Is Apple's Alone",
-      "url": "https://www.macrumors.com/2026/06/09/eu-says-decision-not-to-launch-siri-ai-in-europe-is-apples/",
-      "pubDate": "2026-06-09T14:07:35.000Z"
     },
     {
       "source": "Six Colors",
