@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T12:15:58.588Z",
+  "generatedAt": "2026-06-09T16:13:21.088Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -26,6 +26,272 @@
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
+      "title": "WWDC 2026 was somehow even more one note than I expected",
+      "url": "https://appleinsider.com/articles/26/06/09/wwdc-2026-was-somehow-even-more-one-note-than-i-expected?utm_source=rss",
+      "pubDate": "2026-06-09T16:08:04.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Nomad's New Stellar Orange Charger and Find My Card Match the iPhone 17 Pro",
+      "url": "https://www.macrumors.com/2026/06/09/nomad-stellar-orange-charger/",
+      "pubDate": "2026-06-09T16:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Here’s everything new for Apple Maps in iOS 27",
+      "url": "https://9to5mac.com/2026/06/09/heres-everything-new-for-apple-maps-in-ios-27/",
+      "pubDate": "2026-06-09T15:59:17.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "visionOS 27: Siri AI, Eye-Aware Notifications, Curved Windows, and More",
+      "url": "https://www.macrumors.com/2026/06/09/visionos-27-siri-ai-eye-aware-notifications/",
+      "pubDate": "2026-06-09T15:50:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iOS 27 Fixes Justin Bieber's Problem in Messages App",
+      "url": "https://www.macrumors.com/2026/06/09/ios-27-fixes-justin-bieber-problem/",
+      "pubDate": "2026-06-09T15:44:04.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "There's not much new in the iOS 27 Camera app beyond minor refinements",
+      "url": "https://appleinsider.com/articles/26/06/09/dont-expect-much-from-ios-27s-camera-app-beyond-minor-refinements?utm_source=rss",
+      "pubDate": "2026-06-09T15:42:12.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "macOS 27 Golden Gate Adopts iPhone-Like Pull-to-Refresh Support",
+      "url": "https://www.macrumors.com/2026/06/09/macos-27-golden-gate-pull-to-refresh-support/",
+      "pubDate": "2026-06-09T15:36:36.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Don't get excited for big Liquid Glass changes in macOS 27, because they aren't there",
+      "url": "https://appleinsider.com/articles/26/06/09/dont-get-excited-for-big-liquid-glass-changes-in-macos-27-because-they-arent-there?utm_source=rss",
+      "pubDate": "2026-06-09T15:33:53.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Deals: Apple Watch Series 11 $130 off, M5 MacBook Air, iPhone 17 Pro Max $250 off, more",
+      "url": "https://9to5mac.com/2026/06/09/deals-apple-watch-macbook-air-iphone-17-pro-max/",
+      "pubDate": "2026-06-09T15:27:25.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Shares 5-Minute WWDC Platforms State of the Union Recap Video",
+      "url": "https://www.macrumors.com/2026/06/09/apple-shares-state-of-the-union-recap-video/",
+      "pubDate": "2026-06-09T15:16:56.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "watchOS 27’s small but nice updates ↦",
+      "url": "https://sixcolors.com/link/2026/06/watchos-27s-small-but-nice-updates/",
+      "pubDate": "2026-06-09T15:10:43.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Square Enix teases Kingdom Hearts 4 at Nintendo Direct",
+      "url": "https://www.theverge.com/entertainment/946717/kingdom-hearts-4-switch-2",
+      "pubDate": "2026-06-09T15:03:14.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Meta will use your activity on other websites to personalize your feeds",
+      "url": "https://www.theverge.com/tech/946744/meta-website-activity-personalize-feeds",
+      "pubDate": "2026-06-09T15:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The Legend of Zelda: Ocarina of Time is getting a remake for the Switch 2",
+      "url": "https://www.theverge.com/games/945745/nintendo-zelda-ocarina-of-time-remake-direct-june-2026",
+      "pubDate": "2026-06-09T14:56:48.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Microsoft AI chief walks back comments about AI taking over white-collar work",
+      "url": "https://www.theverge.com/tech/946879/microsoft-mustafa-suleyman-ai-white-collar-jobs",
+      "pubDate": "2026-06-09T14:54:51.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Podcasts Gets Video on Mac and Apple TV, Plus New Search Feature",
+      "url": "https://www.macrumors.com/2026/06/09/apple-podcasts-gets-video-on-mac-and-apple-tv/",
+      "pubDate": "2026-06-09T14:40:56.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 gives Apple’s Calendar app new feature I’ve wanted for years",
+      "url": "https://9to5mac.com/2026/06/09/ios-27-gives-apples-calendar-app-new-feature-ive-wanted-for-years/",
+      "pubDate": "2026-06-09T14:35:07.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "How to control separate alarm & notification alert volumes iOS 27",
+      "url": "https://appleinsider.com/inside/ios-27/tips/how-to-control-separate-alarm-notification-alert-volumes-ios-27?utm_source=rss",
+      "pubDate": "2026-06-09T14:32:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Reveals How Many iPhones Were Running iOS 26 Before WWDC",
+      "url": "https://www.macrumors.com/2026/06/09/ios-26-adoption-stats-wwdc/",
+      "pubDate": "2026-06-09T14:30:50.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "PSA: RCS E2EE is missing in iOS 27 beta 1, but it will be back",
+      "url": "https://9to5mac.com/2026/06/09/psa-rcs-e2ee-is-missing-in-ios-27-beta-1-but-it-will-be-back/",
+      "pubDate": "2026-06-09T14:20:49.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Craig Federighi explains why Apple made a Siri chatbot app after all",
+      "url": "https://9to5mac.com/2026/06/09/craig-federighi-explains-why-apple-made-a-siri-chatbot-app-after-all/",
+      "pubDate": "2026-06-09T14:20:13.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Apple’s AI promises are finally, almost, sort of here",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/946780/apples-ai-promises-are-finally-almost-sort-of-here",
+      "pubDate": "2026-06-09T14:18:18.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "macOS 27 Golden Gate makes it clear when apps are sneakily running in background",
+      "url": "https://9to5mac.com/2026/06/09/macos-27-golden-gate-makes-it-clear-when-apps-are-sneakily-running-in-background/",
+      "pubDate": "2026-06-09T14:09:11.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "EU Says Decision Not to Launch Siri AI in Europe Is Apple's Alone",
+      "url": "https://www.macrumors.com/2026/06/09/eu-says-decision-not-to-launch-siri-ai-in-europe-is-apples/",
+      "pubDate": "2026-06-09T14:07:35.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple’s WWDC keynote was very different, but this will be the new normal",
+      "url": "https://9to5mac.com/2026/06/09/apples-wwdc-keynote-was-very-different-but-this-will-be-the-new-normal/",
+      "pubDate": "2026-06-09T14:04:53.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Everything you need to know about Prime Day 2026",
+      "url": "https://www.theverge.com/gadgets/945942/prime-day-2026-frequently-asked-questions",
+      "pubDate": "2026-06-09T14:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's New AI Models Contain 'None' of Google's Gemini Assistant",
+      "url": "https://www.macrumors.com/2026/06/09/apples-new-ai-contains-no-gemini/",
+      "pubDate": "2026-06-09T13:46:06.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Here’s everything new for CarPlay in iOS 27",
+      "url": "https://9to5mac.com/2026/06/09/heres-everything-new-for-carplay-in-ios-27/",
+      "pubDate": "2026-06-09T13:45:49.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Nintendo Direct June 2026: All the news and trailers",
+      "url": "https://www.theverge.com/entertainment/945806/nintendo-direct-june-2026-trailers-news",
+      "pubDate": "2026-06-09T13:40:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Apple’s best AI idea looks a lot like vibe coding",
+      "url": "https://www.theverge.com/tech/946733/apple-shortcuts-ai-safari-tabs-vibe-code",
+      "pubDate": "2026-06-09T13:34:48.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 makes it easier to access Apple TV remote on iPhone and iPad",
+      "url": "https://9to5mac.com/2026/06/09/ios-27-makes-it-easier-to-access-apple-tv-remote-on-iphone-and-ipad/",
+      "pubDate": "2026-06-09T13:23:55.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "How Apple Wallet's Create a Pass works in iOS 27",
+      "url": "https://appleinsider.com/articles/26/06/09/how-apple-wallets-create-a-pass-works-in-ios-27?utm_source=rss",
+      "pubDate": "2026-06-09T13:05:34.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iCloud+ Subscribers Get Higher Apple Intelligence Usage Limits in iOS 27",
+      "url": "https://www.macrumors.com/2026/06/09/icloud-subscribers-get-higher-apple-intelligence-usage-limits/",
+      "pubDate": "2026-06-09T13:05:13.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Apple dials down Liquid Glass, and the Mac looks way better for it",
+      "url": "https://www.theverge.com/tech/946567/apple-macos-27-golden-gate-dev-beta-hands-on",
+      "pubDate": "2026-06-09T13:04:39.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The Rivian R2 is too much fun to let drive itself",
+      "url": "https://www.theverge.com/transportation/946398/rivian-r2-review-price-specs-ai-ev",
+      "pubDate": "2026-06-09T13:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple’s AI announcements: One big question, and 11 key features",
+      "url": "https://9to5mac.com/2026/06/09/apples-ai-announcements-one-big-question-and-11-key-features/",
+      "pubDate": "2026-06-09T12:53:14.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Music Gains AutoMix Upgrades and More in iOS 27",
+      "url": "https://www.macrumors.com/2026/06/09/apple-music-gains-automix-upgrades-and-more-in-ios-27/",
+      "pubDate": "2026-06-09T12:49:13.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iOS 27 Introduces Overhauled AirPods Settings Menu",
+      "url": "https://www.macrumors.com/2026/06/09/ios-27-overhauled-airpods-settings-menu/",
+      "pubDate": "2026-06-09T12:45:47.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
       "title": "uGreen NASync DXP 4800 GT review: The best NAS price to perfomance in 2026",
       "url": "https://appleinsider.com/articles/26/06/09/ugreen-nasync-dxp-4800-gt-review-the-best-nas-price-to-perfomance-in-2026?utm_source=rss",
       "pubDate": "2026-06-09T12:04:41.000Z"
@@ -38,67 +304,11 @@
       "pubDate": "2026-06-09T12:00:42.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Marshall’s Stockwell speaker gets a replaceable battery that runs twice as long",
-      "url": "https://www.theverge.com/tech/945623/marshalls-stockwell-speaker-gets-a-replaceable-battery-that-runs-twice-as-long",
-      "pubDate": "2026-06-09T12:00:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "macOS 27 Golden Gate Gains Native Ultrawide Display Support",
-      "url": "https://www.macrumors.com/2026/06/09/macos-27-golden-gate-gains-ultrawide-support/",
-      "pubDate": "2026-06-09T11:53:13.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Unifies iOS 27, macOS, and Even CarPlay Wallpapers for First Time",
-      "url": "https://www.macrumors.com/2026/06/09/apple-unifies-wallpapers-for-the-first-time/",
-      "pubDate": "2026-06-09T11:44:01.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "macOS 27 Lets You Resize iPhone Mirroring in New Aspect Ratios",
-      "url": "https://www.macrumors.com/2026/06/09/macos-27-lets-you-resize-iphone-mirroring/",
-      "pubDate": "2026-06-09T11:25:04.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27: Find My App Lets You Hide Location From Others Temporarily",
-      "url": "https://www.macrumors.com/2026/06/09/ios-27-find-my-app-hide-location/",
-      "pubDate": "2026-06-09T11:14:53.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Outlines Major AI and Developer Tool Updates at 2026 Platforms State of the Union",
-      "url": "https://www.macrumors.com/2026/06/09/apple-outlines-major-ai-and-developer-tool-updates/",
-      "pubDate": "2026-06-09T11:07:18.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "How impressed were you by Apple’s AI announcements at WWDC? [Poll]",
       "url": "https://9to5mac.com/2026/06/09/how-impressed-were-you-by-apples-ai-announcements-at-wwdc-poll/",
       "pubDate": "2026-06-09T11:04:04.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27 Lets You Dismiss the 'Now Playing' Lock Screen Widget",
-      "url": "https://www.macrumors.com/2026/06/09/ios-27-dismiss-now-playing-lock-screen-widget/",
-      "pubDate": "2026-06-09T11:00:55.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Hue’s SpatialAware finally made me appreciate color-changing lights",
-      "url": "https://www.theverge.com/tech/945624/philips-hue-bridge-pro-review-spatialaware-motionaware",
-      "pubDate": "2026-06-09T11:00:00.000Z"
     },
     {
       "source": "9to5Mac",
@@ -108,69 +318,6 @@
       "pubDate": "2026-06-09T10:27:32.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "watchOS 27 Gains a Consolidated and Redesigned Find My App",
-      "url": "https://www.macrumors.com/2026/06/09/watchos-27-gains-consolidated-and-redesigned-find-my-app/",
-      "pubDate": "2026-06-09T10:15:29.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Amazon employees ask Seattle to put the brakes on new data centers",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/945809/amazon-employees-seattle-data-center-moratorium",
-      "pubDate": "2026-06-09T10:00:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "visionOS 27 Gains New Icelandic Environment Called 'Thórsmörk'",
-      "url": "https://www.macrumors.com/2026/06/09/visionos-27-new-icelandic-environment/",
-      "pubDate": "2026-06-09T09:52:41.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Instagram Now Lets Users Reorder Posts on Their Profile Grid",
-      "url": "https://www.macrumors.com/2026/06/09/instagram-now-lets-users-reorder-posts/",
-      "pubDate": "2026-06-09T09:51:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Expands GymKit to iPhone and AirPods Pro 3",
-      "url": "https://www.macrumors.com/2026/06/09/apple-expands-gymkit-to-iphone-and-airpods-pro-3/",
-      "pubDate": "2026-06-09T09:26:25.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Pay for Transit Now Works in These 14 U.S. Cities",
-      "url": "https://www.macrumors.com/2026/06/09/apple-pay-for-transit-these-14-us-cities/",
-      "pubDate": "2026-06-09T09:07:23.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Donut Lab’s solid-state battery claim debunked by Ziroth",
-      "url": "https://www.theverge.com/science/946608/donut-labs-debunk-solid-state-battery",
-      "pubDate": "2026-06-09T08:40:51.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: June 8, 2026 – WWDC 2026 recap",
-      "url": "https://9to5mac.com/2026/06/08/daily-june-8-2026/",
-      "pubDate": "2026-06-09T02:51:28.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "visionOS 27 features a new Thórsmörk Environment",
-      "url": "https://9to5mac.com/2026/06/08/visionos-27-features-a-new-thorsmork-environment/",
-      "pubDate": "2026-06-09T02:46:49.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "macOS Golden Gate menus revert to having no icons by each item, as it should be",
@@ -178,60 +325,11 @@
       "pubDate": "2026-06-09T02:20:05.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 will let you swipe away the Now Playing widget from the Lock Screen",
-      "url": "https://9to5mac.com/2026/06/08/ios-27-will-let-you-swipe-away-the-now-playing-widget-from-the-lock-screen/",
-      "pubDate": "2026-06-09T02:03:11.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "macOS 27 Golden Gate will let you resize the iPhone Mirroring window",
-      "url": "https://9to5mac.com/2026/06/08/macos-27-golden-gate-will-let-you-resize-the-iphone-mirroring-window/",
-      "pubDate": "2026-06-09T01:31:31.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Everything Apple Announced at WWDC 2026 in 10 Minutes",
-      "url": "https://www.macrumors.com/2026/06/08/wwdc-2026-recap/",
-      "pubDate": "2026-06-09T00:46:58.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Instagram is finally letting everyone reorganize their profile grid",
-      "url": "https://www.theverge.com/tech/946458/instagram-is-finally-letting-everyone-reorganize-their-grid",
-      "pubDate": "2026-06-08T23:58:30.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) Upgrade 620: Sweating the Details",
       "url": "https://sixcolors.com/podcast/2026/06/upgrade-620-sweating-the-details/",
       "pubDate": "2026-06-08T23:55:02.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple’s Screen Time updates are too little, too late",
-      "url": "https://www.theverge.com/tech/946446/apples-screen-time-updates-are-too-little-too-late",
-      "pubDate": "2026-06-08T23:41:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "5 things I already love from the iOS 27 beta",
-      "url": "https://www.theverge.com/tech/946391/apple-ios-27-developer-beta-1-wwdc-2026-5-things",
-      "pubDate": "2026-06-08T23:30:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Download the official macOS 27 Golden Gate wallpapers here",
-      "url": "https://9to5mac.com/2026/06/08/download-the-official-macos-27-golden-gate-wallpapers-here/",
-      "pubDate": "2026-06-08T23:09:37.000Z"
     },
     {
       "source": "Six Colors",
@@ -248,46 +346,11 @@
       "pubDate": "2026-06-08T22:29:50.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 adds extra-large widgets for your extra-large needs",
-      "url": "https://9to5mac.com/2026/06/08/ios-27-adds-extra-large-widgets-for-your-extra-large-needs/",
-      "pubDate": "2026-06-08T22:28:17.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple is using AI to fix Safari’s extension problem",
-      "url": "https://www.theverge.com/tech/946345/apple-safari-ai-update-extensions",
-      "pubDate": "2026-06-08T22:14:17.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Where was tvOS 27 at WWDC?",
-      "url": "https://www.theverge.com/tech/946329/tvos-27-absent-wwdc",
-      "pubDate": "2026-06-08T22:04:42.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "iOS 27 code has clear signs that a folding iPhone is coming soon",
       "url": "https://appleinsider.com/articles/26/06/08/ios-27-code-has-clear-signs-that-a-folding-iphone-is-coming-soon?utm_source=rss",
       "pubDate": "2026-06-08T21:59:16.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple leaks foldable iPhone references in iOS 27 beta",
-      "url": "https://9to5mac.com/2026/06/08/apple-leaks-foldable-iphone-references-in-ios-27-beta/",
-      "pubDate": "2026-06-08T21:55:02.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple’s new parental controls are for keeping Apple out of trouble",
-      "url": "https://www.theverge.com/policy/946331/apple-parental-controls-child-accounts-wwdc",
-      "pubDate": "2026-06-08T21:48:08.000Z"
     },
     {
       "source": "AppleInsider",
@@ -297,20 +360,6 @@
       "pubDate": "2026-06-08T21:46:40.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "You’ll need the latest Apple devices to customize the new Siri’s voice",
-      "url": "https://9to5mac.com/2026/06/08/youll-need-the-latest-apple-devices-to-customize-the-new-siris-voice/",
-      "pubDate": "2026-06-08T21:39:05.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 revamps AirPods settings in a big way, here’s the new design",
-      "url": "https://9to5mac.com/2026/06/08/ios-27-revamps-airpods-settings-in-a-big-way-heres-the-new-design/",
-      "pubDate": "2026-06-08T21:38:06.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Ultrawide displays gain explicit support in macOS 27",
@@ -318,60 +367,11 @@
       "pubDate": "2026-06-08T21:36:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple confirms watchOS 27 will run on Apple Watch Series 9",
-      "url": "https://9to5mac.com/2026/06/08/apple-confirms-watchos-27-will-run-on-apple-watch-series-9/",
-      "pubDate": "2026-06-08T21:09:29.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "WWDC's Siri AI, macOS Golden Gate, and updated Apple Intelligence on the AppleInsider Podcast",
-      "url": "https://appleinsider.com/articles/26/06/08/wwdcs-siri-ai-macos-golden-gate-and-updated-apple-intelligence-on-the-appleinsider-podcast?utm_source=rss",
-      "pubDate": "2026-06-08T21:08:10.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Game Porting Toolkit 4 ushers in support for agentic coding",
-      "url": "https://appleinsider.com/articles/26/06/08/game-porting-toolkit-4-ushers-in-support-for-agentic-coding?utm_source=rss",
-      "pubDate": "2026-06-08T20:12:29.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "App Store overhaul gives developers new ways to sell subscriptions",
-      "url": "https://appleinsider.com/articles/26/06/08/app-store-overhaul-gives-developers-new-ways-to-sell-subscriptions?utm_source=rss",
-      "pubDate": "2026-06-08T19:46:57.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "WWDC 2026: Apple’s AI overhaul leads the changes for this year’s software updates",
       "url": "https://sixcolors.com/post/2026/06/wwdc-2026-apples-ai-overhaul-leads-the-changes-for-this-years-software-updates/",
       "pubDate": "2026-06-08T19:45:39.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "All the little details Apple did show in its WWDC 2026 keynote…just very quickly",
-      "url": "https://sixcolors.com/post/2026/06/all-the-little-details-apple-did-show-in-its-wwdc-2026-keynote-just-very-quickly/",
-      "pubDate": "2026-06-08T19:41:50.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iOS 27 & macOS 27 developer betas are out, but you should probably wait",
-      "url": "https://appleinsider.com/articles/26/06/08/ios-27-macos-27-developer-betas-are-out-but-you-should-probably-wait?utm_source=rss",
-      "pubDate": "2026-06-08T19:41:21.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "tvOS 27 sneaks out with redesigned Podcasts app & AI subtitle generation",
-      "url": "https://appleinsider.com/articles/26/06/08/tvos-27-sneaks-out-with-redesigned-podcasts-app-ai-subtitle-generation?utm_source=rss",
-      "pubDate": "2026-06-08T19:38:03.000Z"
     }
   ]
 }
