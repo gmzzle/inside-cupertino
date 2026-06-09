@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T04:36:45.487Z",
+  "generatedAt": "2026-06-09T08:41:41.948Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Donut Lab’s solid-state battery claim debunked by Ziroth",
+      "url": "https://www.theverge.com/science/946608/donut-labs-debunk-solid-state-battery",
+      "pubDate": "2026-06-09T08:40:51.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -358,13 +365,6 @@
       "title": "tvOS 27 sneaks out with redesigned Podcasts app & AI subtitle generation",
       "url": "https://appleinsider.com/articles/26/06/08/tvos-27-sneaks-out-with-redesigned-podcasts-app-ai-subtitle-generation?utm_source=rss",
       "pubDate": "2026-06-08T19:38:03.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple announces watchOS 27, now with Siri AI",
-      "url": "https://www.theverge.com/tech/943145/apple-watch-watchos-27-wwdc-2026",
-      "pubDate": "2026-06-08T19:34:10.000Z"
     },
     {
       "source": "AppleInsider",
