@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T23:37:47.345Z",
+  "generatedAt": "2026-06-09T04:36:45.487Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,97 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "uGreen NASync DXP 4800 GT review: The best NAS price to perfomance in 2026",
+      "url": "https://appleinsider.com/articles/26/06/09/ugreen-nasync-dxp-4800-gt-review-the-best-nas-price-to-perfomance-in-2026?utm_source=rss",
+      "pubDate": "2026-06-09T03:06:57.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: June 8, 2026 – WWDC 2026 recap",
+      "url": "https://9to5mac.com/2026/06/08/daily-june-8-2026/",
+      "pubDate": "2026-06-09T02:51:28.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "visionOS 27 features a new Thórsmörk Environment",
+      "url": "https://9to5mac.com/2026/06/08/visionos-27-features-a-new-thorsmork-environment/",
+      "pubDate": "2026-06-09T02:46:49.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "macOS Golden Gate menus revert to having no icons by each item, as it should be",
+      "url": "https://appleinsider.com/articles/26/06/09/macos-golden-gate-menus-revert-to-having-no-icons-by-each-item-as-it-should-be?utm_source=rss",
+      "pubDate": "2026-06-09T02:20:05.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 will let you swipe away the Now Playing widget from the Lock Screen",
+      "url": "https://9to5mac.com/2026/06/08/ios-27-will-let-you-swipe-away-the-now-playing-widget-from-the-lock-screen/",
+      "pubDate": "2026-06-09T02:03:11.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "macOS 27 Golden Gate will let you resize the iPhone Mirroring window",
+      "url": "https://9to5mac.com/2026/06/08/macos-27-golden-gate-will-let-you-resize-the-iphone-mirroring-window/",
+      "pubDate": "2026-06-09T01:31:31.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Everything Apple Announced at WWDC 2026 in 10 Minutes",
+      "url": "https://www.macrumors.com/2026/06/08/wwdc-2026-recap/",
+      "pubDate": "2026-06-09T00:46:58.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "watchOS 27 Features Dynamic App Grid, New Gesture Control, and More",
+      "url": "https://www.macrumors.com/2026/06/08/watchos-27-features-dynamic-app-grid-new-and-more/",
+      "pubDate": "2026-06-09T00:16:17.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Photos Finally Gets a Slideshow Maker",
+      "url": "https://www.macrumors.com/2026/06/08/apple-photos-finally-gets-a-slideshow-maker/",
+      "pubDate": "2026-06-09T00:04:42.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Instagram is finally letting everyone reorganize their profile grid",
+      "url": "https://www.theverge.com/tech/946458/instagram-is-finally-letting-everyone-reorganize-their-grid",
+      "pubDate": "2026-06-08T23:58:30.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) Upgrade 620: Sweating the Details",
+      "url": "https://sixcolors.com/podcast/2026/06/upgrade-620-sweating-the-details/",
+      "pubDate": "2026-06-08T23:55:02.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "watchOS 27 Introduces Workout Buddy Upgrades, Better Sleep Tracking, and More",
+      "url": "https://www.macrumors.com/2026/06/08/watchos-27-workout-buddy-upgrades-better-sleep-tracking/",
+      "pubDate": "2026-06-08T23:49:08.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Apple’s Screen Time updates are too little, too late",
+      "url": "https://www.theverge.com/tech/946446/apples-screen-time-updates-are-too-little-too-late",
+      "pubDate": "2026-06-08T23:41:00.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -157,13 +248,6 @@
       "pubDate": "2026-06-08T21:46:40.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Tim Cook Delivers Farewell Remarks at His Last Apple Keynote as CEO",
-      "url": "https://www.macrumors.com/2026/06/08/tim-cook-delivers-remarks-at-his-last-keynote/",
-      "pubDate": "2026-06-08T21:42:19.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "You’ll need the latest Apple devices to customize the new Siri’s voice",
@@ -190,27 +274,6 @@
       "title": "Ultrawide displays gain explicit support in macOS 27",
       "url": "https://appleinsider.com/articles/26/06/08/ultrawide-displays-gain-explicit-support-in-macos-27?utm_source=rss",
       "pubDate": "2026-06-08T21:36:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Overhauls Genmoji in iOS 27",
-      "url": "https://www.macrumors.com/2026/06/08/apple-overhauls-genmoji-in-ios-27/",
-      "pubDate": "2026-06-08T21:29:52.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27 Hints at Foldable iPhone With App Resizability Push and New Framework Strings",
-      "url": "https://www.macrumors.com/2026/06/08/ios-27-hints-at-foldable-iphone-with-app-resizability-push/",
-      "pubDate": "2026-06-08T21:24:04.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "tvOS 27 Drops Support for Two Apple TV Models",
-      "url": "https://www.macrumors.com/2026/06/08/tvos-27-compatible-apple-tv-models/",
-      "pubDate": "2026-06-08T21:17:47.000Z"
     },
     {
       "source": "9to5Mac",
@@ -248,39 +311,11 @@
       "pubDate": "2026-06-08T20:26:52.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 adds independent volume settings for alarms and timers, and for alerts and system sounds",
-      "url": "https://9to5mac.com/2026/06/08/ios-27-adds-independent-volume-settings-for-alarms-and-timers-and-for-alerts-and-system-sounds/",
-      "pubDate": "2026-06-08T20:20:31.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Craig Federighi details Apple’s collaboration with Google for Siri AI in iOS 27",
-      "url": "https://9to5mac.com/2026/06/08/craig-federighi-details-apples-collaboration-with-google-for-siri-ai-in-ios-27/",
-      "pubDate": "2026-06-08T20:16:53.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Game Porting Toolkit 4 ushers in support for agentic coding",
       "url": "https://appleinsider.com/articles/26/06/08/game-porting-toolkit-4-ushers-in-support-for-agentic-coding?utm_source=rss",
       "pubDate": "2026-06-08T20:12:29.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "tvOS 27 drops support for two Apple TV models",
-      "url": "https://9to5mac.com/2026/06/08/tvos-27-drops-support-for-two-apple-tv-models/",
-      "pubDate": "2026-06-08T19:53:48.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27: Here’s all the new Apple Music features",
-      "url": "https://9to5mac.com/2026/06/08/ios-27-heres-all-the-new-apple-music-features/",
-      "pubDate": "2026-06-08T19:50:36.000Z"
     },
     {
       "source": "AppleInsider",
@@ -337,41 +372,6 @@
       "title": "iPadOS 27 cuts off a few favorite iPad models",
       "url": "https://appleinsider.com/articles/26/06/08/ipados-27-cuts-off-a-few-favorite-ipad-models?utm_source=rss",
       "pubDate": "2026-06-08T19:00:13.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "watchOS 27 supported by just five Apple Watch models",
-      "url": "https://appleinsider.com/articles/26/06/08/watchos-27-supported-by-just-five-apple-watch-models?utm_source=rss",
-      "pubDate": "2026-06-08T18:54:05.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Siri AI & new Apple Intelligence not coming to EU right away thanks to DMA",
-      "url": "https://appleinsider.com/articles/26/06/08/siri-ai-new-apple-intelligence-not-coming-to-eu-right-away-thanks-to-dma?utm_source=rss",
-      "pubDate": "2026-06-08T18:48:20.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple WWDC 2026: The 7 biggest announcements",
-      "url": "https://www.theverge.com/tech/945693/apple-wwdc-2026-biggest-announcements-ios-27",
-      "pubDate": "2026-06-08T18:43:56.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "WWDC 2026 bonus live blog: Tech Talk with Craig Federighi",
-      "url": "https://www.theverge.com/tech/946046/wwdc-2026-live-blog-tech-talk-with-craig-federighi",
-      "pubDate": "2026-06-08T18:42:53.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Sponsor) Unite Pro – Turn websites into Mac apps with native enhancements",
-      "url": "https://sixcolors.com/feed-only/2026/06/unite-pro-turn-websites-into-mac-apps-with-native-enhancements-2/",
-      "pubDate": "2026-06-08T16:00:15.000Z"
     }
   ]
 }
