@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T20:45:45.689Z",
+  "generatedAt": "2026-06-10T22:57:45.701Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,76 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Prominent leaker may see default ruling reversed in Apple lawsuit",
+      "url": "https://appleinsider.com/articles/26/06/10/prominent-leaker-may-see-default-ruling-reversed-in-apple-lawsuit?utm_source=rss",
+      "pubDate": "2026-06-10T22:57:39.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Fewer iPhone users are updating to iOS 26 than they did with iOS 18",
+      "url": "https://appleinsider.com/articles/26/06/10/fewer-iphone-users-are-updating-to-ios-26-than-they-did-with-ios-18?utm_source=rss",
+      "pubDate": "2026-06-10T22:52:54.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Apple’s new Siri AI knows when to shut up",
+      "url": "https://www.theverge.com/tech/948155/apple-siri-ai-chatbot-personality",
+      "pubDate": "2026-06-10T22:52:17.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: June 10, 2026 – CarPlay in iOS 27, watchOS 27 features",
+      "url": "https://9to5mac.com/2026/06/10/daily-june-10-2026/",
+      "pubDate": "2026-06-10T22:16:06.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Jon Prosser seeks another shot to respond to Apple’s Liquid Glass leak lawsuit",
+      "url": "https://9to5mac.com/2026/06/10/jon-prosser-seeks-another-shot-to-respond-to-apples-liquid-glass-leak-lawsuit/",
+      "pubDate": "2026-06-10T21:55:26.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Nearly a million passports and photo IDs were left unprotected on the public internet",
+      "url": "https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal",
+      "pubDate": "2026-06-10T21:55:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Xbox warns of a &#8216;reset&#8217; as it prepares for layoffs",
+      "url": "https://www.theverge.com/games/948142/microsoft-xbox-layoffs-reset-asha-sharma",
+      "pubDate": "2026-06-10T21:28:53.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Download the new iOS 27 and iPadOS 27 wallpapers here",
+      "url": "https://9to5mac.com/2026/06/10/download-the-new-ios-27-and-ipados-27-wallpapers-here/",
+      "pubDate": "2026-06-10T21:25:17.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "AirPods keep getting better, and iOS 27’s biggest upgrade is Siri",
+      "url": "https://9to5mac.com/2026/06/10/airpods-keep-getting-better-and-ios-27s-biggest-upgrade-is-siri/",
+      "pubDate": "2026-06-10T21:01:47.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's expanded child safety features aren't going to protect kids from everything",
+      "url": "https://appleinsider.com/articles/26/06/10/apples-expanded-child-safety-features-arent-going-to-protect-kids-from-everything?utm_source=rss",
+      "pubDate": "2026-06-10T20:52:13.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -178,25 +248,11 @@
       "pubDate": "2026-06-10T17:04:41.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Amazon’s Echo speakers can now help kids wind down and fall asleep",
-      "url": "https://www.theverge.com/tech/947871/amazon-sleep-studio-echo-kids-smart-speakers-calm-moshi-headspace",
-      "pubDate": "2026-06-10T16:54:17.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Amazon-owned Woot slashes Dell UltraSharp 32-inch 6K monitor to $1,379",
       "url": "https://appleinsider.com/articles/26/06/10/amazon-owned-woot-slashes-dell-ultrasharp-32-inch-6k-monitor-to-1379?utm_source=rss",
       "pubDate": "2026-06-10T16:51:55.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Microsoft restricts Claude Fable for employees over data retention concerns",
-      "url": "https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally",
-      "pubDate": "2026-06-10T16:50:23.000Z"
     },
     {
       "source": "AppleInsider",
@@ -220,25 +276,11 @@
       "pubDate": "2026-06-10T16:41:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Google will save your Lens photos, Search Live recordings, and Translate audio for AI training",
-      "url": "https://www.theverge.com/tech/947836/google-search-privacy-settings-images-audio",
-      "pubDate": "2026-06-10T16:18:45.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Pocket Casts adopts Liquid Glass design in latest podcast player app update",
       "url": "https://9to5mac.com/2026/06/10/pocket-casts-adopts-liquid-glass-design-in-latest-podcast-player-app-update/",
       "pubDate": "2026-06-10T16:00:03.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: AirPods Pro 3 hit best price ever at $179, MacBook Pro $300 off, Series 11 $130 off, more",
-      "url": "https://9to5mac.com/2026/06/10/deals-airpods-pro-240w-beats-cable-macbook-pro/",
-      "pubDate": "2026-06-10T15:29:49.000Z"
     },
     {
       "source": "MacRumors",
@@ -255,25 +297,11 @@
       "pubDate": "2026-06-10T15:17:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple is giving Screen Time and parental controls a long overdue upgrade in iOS 27",
-      "url": "https://9to5mac.com/2026/06/10/apple-is-giving-screen-time-and-parental-controls-a-long-overdue-upgrade-in-ios-27/",
-      "pubDate": "2026-06-10T15:09:29.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "macOS 27 Hints at 'MacBook Ultra' in Three Ways",
       "url": "https://www.macrumors.com/2026/06/10/macos-27-hints-at-macbook-ultra/",
       "pubDate": "2026-06-10T15:08:27.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "HomePod gets better in two new ways with iOS 27",
-      "url": "https://9to5mac.com/2026/06/10/homepod-gets-better-in-two-new-ways-with-ios-27/",
-      "pubDate": "2026-06-10T14:59:17.000Z"
     },
     {
       "source": "MacRumors",
@@ -311,13 +339,6 @@
       "pubDate": "2026-06-10T14:21:19.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Here’s everything new for Messages in iOS 27",
-      "url": "https://9to5mac.com/2026/06/10/heres-everything-new-for-messages-in-ios-27/",
-      "pubDate": "2026-06-10T14:15:49.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Seemingly Discontinuing Vision Pro Travel Case Around the World",
@@ -337,27 +358,6 @@
       "title": "iOS 27 Brings These Five New Features to Your iPhone Lock Screen",
       "url": "https://www.macrumors.com/2026/06/10/ios-27-five-new-features-iphone-lock-screen/",
       "pubDate": "2026-06-10T13:26:29.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple Silicon MacBooks are way more reliable over time than Intel Macs were",
-      "url": "https://appleinsider.com/articles/26/06/10/apple-silicon-macbooks-are-way-more-reliable-over-time-than-intel-macs-were?utm_source=rss",
-      "pubDate": "2026-06-10T12:53:30.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "How to use Reduce Interruptions on iPhone and what it does",
-      "url": "https://appleinsider.com/inside/ios-18/tips/how-to-use-reduce-interruptions-on-ios-18-and-what-it-does?utm_source=rss",
-      "pubDate": "2026-06-10T11:40:21.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Hands on with AirPods EQ settings in iOS 27",
-      "url": "https://appleinsider.com/inside/airpods/tips/hands-on-with-airpods-eq-settings-in-ios-27?utm_source=rss",
-      "pubDate": "2026-06-09T23:42:35.000Z"
     },
     {
       "source": "Six Colors",
