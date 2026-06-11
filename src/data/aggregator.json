@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T07:06:11.514Z",
+  "generatedAt": "2026-06-11T11:49:02.720Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,90 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+      "pubDate": "2026-06-11T11:40:43.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Deezer Launches AI Music Detector for Apple Music, Spotify, and More",
+      "url": "https://www.macrumors.com/2026/06/11/deezer-launches-ai-music-detector/",
+      "pubDate": "2026-06-11T11:35:38.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The library rules (and so do library streaming services)",
+      "url": "https://www.theverge.com/tech/942657/library-ebook-borrowing-stream-tv-movies-hoopla-kanopy-overdrive",
+      "pubDate": "2026-06-11T11:30:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Amazon’s ‘Story so far’ feature rolling out to US Kindles and iPhone app",
+      "url": "https://9to5mac.com/2026/06/11/amazons-story-so-far-feature-rolling-out-to-us-kindles-and-iphone-app/",
+      "pubDate": "2026-06-11T11:15:39.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple working with British police to tackle iPhone theft",
+      "url": "https://9to5mac.com/2026/06/11/apple-working-with-british-police-to-tackle-iphone-theft/",
+      "pubDate": "2026-06-11T10:55:24.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "iFixit Trump phone teardown confirms it’s an HTC dupe",
+      "url": "https://www.theverge.com/gadgets/948262/trump-phone-t1-ifixit-teardown-htc-u24-pro",
+      "pubDate": "2026-06-11T10:40:21.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "These Older iPhones Will Need an Update to Keep Running WhatsApp",
+      "url": "https://www.macrumors.com/2026/06/11/these-older-iphones-update-keep-running-whatsapp/",
+      "pubDate": "2026-06-11T10:36:41.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27: Your iPhone can now boot into a new Mac-like recovery mode",
+      "url": "https://9to5mac.com/2026/06/11/iphone-ipad-ios-27-recovery-boot-mode/",
+      "pubDate": "2026-06-11T10:19:06.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "YouTube is introducing DMs (again)",
+      "url": "https://www.theverge.com/streaming/948256/youtube-brings-back-private-messaging-feature-availability",
+      "pubDate": "2026-06-11T10:08:24.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Bypass Siri AI Waitlist on macOS 27 Golden Gate Beta: Here's How",
+      "url": "https://www.macrumors.com/how-to/bypass-siri-ai-waitlist-macos-27-beta/",
+      "pubDate": "2026-06-11T09:52:12.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Ryanair is under investigation over charging parents to sit with their kids",
+      "url": "https://www.theverge.com/transportation/948244/ryanair-cma-probe-parents-child-seating-fee",
+      "pubDate": "2026-06-11T08:59:16.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Deezer launches an AI music detector for other streaming services",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
+      "pubDate": "2026-06-11T08:00:00.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -108,13 +192,6 @@
       "pubDate": "2026-06-10T21:55:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Xbox warns of a &#8216;reset&#8217; as it prepares for layoffs",
-      "url": "https://www.theverge.com/games/948142/microsoft-xbox-layoffs-reset-asha-sharma",
-      "pubDate": "2026-06-10T21:28:53.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Download the new iOS 27 and iPadOS 27 wallpapers here",
@@ -150,27 +227,6 @@
       "pubDate": "2026-06-10T20:34:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple, Google add support for Thread 1.4",
-      "url": "https://www.theverge.com/tech/947888/apple-google-add-support-for-thread-1-4",
-      "pubDate": "2026-06-10T20:25:46.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Kalshi adds required employment verification for some prediction market bets",
-      "url": "https://www.theverge.com/business/948083/kalshi-prediction-markets-insider-trading",
-      "pubDate": "2026-06-10T20:18:16.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "WhatsApp to drop support for these older iOS and iPadOS versions later this year",
-      "url": "https://9to5mac.com/2026/06/10/whatsapp-to-drop-support-for-these-older-ios-and-ipados-versions-later-this-year/",
-      "pubDate": "2026-06-10T20:02:52.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Time Capsule support is dead in macOS 27, but you can keep the hardware alive",
@@ -192,27 +248,6 @@
       "pubDate": "2026-06-10T19:40:13.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Xcode 27 expands agentic coding toolset with Gemini integration",
-      "url": "https://9to5mac.com/2026/06/10/xcode-27-expands-agentic-coding-toolset-with-gemini-integration/",
-      "pubDate": "2026-06-10T19:32:54.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone 18 Pro: Three new features might make you want to upgrade",
-      "url": "https://9to5mac.com/2026/06/10/iphone-18-pro-three-new-features-might-make-you-want-to-upgrade/",
-      "pubDate": "2026-06-10T18:51:24.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Claude Fable won’t answer basic biology questions",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
-      "pubDate": "2026-06-10T18:43:34.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "AirPods Pro 3 plunge to $179, lowest price ever, ahead of Prime Day",
@@ -225,20 +260,6 @@
       "title": "iOS 27 Introduces New 'Tap to Share' Feature, But Not Available in EU",
       "url": "https://www.macrumors.com/2026/06/10/ios-27-tap-to-share-feature/",
       "pubDate": "2026-06-10T17:51:46.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Microsoft, like, totally gets why students are booing AI-pilled graduation speakers",
-      "url": "https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft",
-      "pubDate": "2026-06-10T17:45:11.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The future of AI regulation is courting the strangest, most anxious bedfellows",
-      "url": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms",
-      "pubDate": "2026-06-10T17:38:00.000Z"
     },
     {
       "source": "AppleInsider",
@@ -311,13 +332,6 @@
       "pubDate": "2026-06-10T14:32:33.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27 Adds Six New Features to Apple Wallet on Your iPhone",
-      "url": "https://www.macrumors.com/2026/06/10/ios-27-new-apple-wallet-features/",
-      "pubDate": "2026-06-10T14:25:29.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Wireless earbuds market dominated by Apple, open-ear models are rising",
@@ -325,25 +339,11 @@
       "pubDate": "2026-06-10T14:24:39.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Seemingly Discontinuing Vision Pro Travel Case Around the World",
-      "url": "https://www.macrumors.com/2026/06/10/apple-seemingly-discontinuing-vision-pro-case/",
-      "pubDate": "2026-06-10T13:44:12.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Apple’s 27 platform updates plant the seeds of future devices",
       "url": "https://sixcolors.com/post/2026/06/apples-27-platform-updates-plant-the-seeds-of-future-devices/",
       "pubDate": "2026-06-10T13:33:14.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27 Brings These Five New Features to Your iPhone Lock Screen",
-      "url": "https://www.macrumors.com/2026/06/10/ios-27-five-new-features-iphone-lock-screen/",
-      "pubDate": "2026-06-10T13:26:29.000Z"
     },
     {
       "source": "Six Colors",
