@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T19:46:25.561Z",
+  "generatedAt": "2026-06-11T22:16:51.174Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,90 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Amazon&#8217;s Echo Hub gets a customizable new look and Ring&#8217;s AI features",
+      "url": "https://www.theverge.com/tech/948814/amazon-echo-hub-homescreen-redesign",
+      "pubDate": "2026-06-11T22:06:32.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Design resources for iOS 27, iPadOS 27, and macOS 27 Golden Gate now available",
+      "url": "https://9to5mac.com/2026/06/11/design-resources-for-ios-27-ipados-27-and-macos-27-golden-gate-now-available/",
+      "pubDate": "2026-06-11T21:56:37.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple executive: 'We don't do AI for AI's sake'",
+      "url": "https://appleinsider.com/articles/26/06/11/apple-executive-we-dont-do-ai-for-ais-sake?utm_source=rss",
+      "pubDate": "2026-06-11T21:49:19.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Criticizes U.S. Antitrust Bill That Targets the App Store",
+      "url": "https://www.macrumors.com/2026/06/11/apple-aicoa-reintroduction-criticism/",
+      "pubDate": "2026-06-11T21:49:17.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "WhatsApp rolling out multi-account support more widely on iOS",
+      "url": "https://9to5mac.com/2026/06/11/whatsapp-rolling-out-multi-account-support-more-widely-on-ios/",
+      "pubDate": "2026-06-11T21:12:20.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "What's New in the iOS 27 Photos App",
+      "url": "https://www.macrumors.com/guide/ios-27-photos-app/",
+      "pubDate": "2026-06-11T21:04:57.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone Ultra is coming: Six new features in Apple’s top-tier model",
+      "url": "https://9to5mac.com/2026/06/11/iphone-ultra-is-coming-six-new-features-in-apples-top-tier-model/",
+      "pubDate": "2026-06-11T20:49:24.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Are you a developer? Apple wants your thoughts on WWDC26",
+      "url": "https://9to5mac.com/2026/06/11/are-you-a-developer-apple-wants-your-thoughts-on-wwdc26/",
+      "pubDate": "2026-06-11T20:45:11.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple TV just won a highly coveted film deal that had 40 other bidders",
+      "url": "https://9to5mac.com/2026/06/11/apple-tv-just-won-a-highly-coveted-film-deal-that-had-40-other-bidders/",
+      "pubDate": "2026-06-11T20:32:59.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iOS 27's Weather App Has a New Way to View Forecasts",
+      "url": "https://www.macrumors.com/2026/06/11/ios-27-weather-app-forecast-views/",
+      "pubDate": "2026-06-11T20:10:02.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Logitech’s awesome MX Master 3S mouse drops to under $100",
+      "url": "https://www.theverge.com/gadgets/948204/logitech-mx-master-3s-mouse-sale-deal",
+      "pubDate": "2026-06-11T20:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Craig Federighi and Greg Joswiak talk Siri AI and more in new interview [Video]",
+      "url": "https://9to5mac.com/2026/06/11/craig-federighi-and-greg-joswiak-talk-siri-ai-and-more-in-new-interview-video/",
+      "pubDate": "2026-06-11T19:56:17.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -178,39 +262,11 @@
       "pubDate": "2026-06-11T16:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Elon Musk is encouraging race riots on the eve of SpaceX’s IPO",
-      "url": "https://www.theverge.com/policy/948426/elon-musk-belfast-riots-anti-immigration",
-      "pubDate": "2026-06-11T15:51:27.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "AAPL Stock Slides Following WWDC, But Analysts Broadly Raise Targets",
       "url": "https://www.macrumors.com/2026/06/11/aapl-stock-slides-following-wwdc/",
       "pubDate": "2026-06-11T15:51:16.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 brings another very welcome improvement to Camera Control on iPhone",
-      "url": "https://9to5mac.com/2026/06/11/ios-27-brings-another-very-welcome-improvement-to-camera-control-on-iphone/",
-      "pubDate": "2026-06-11T15:50:16.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: AirPods Pro 3, M5 MacBook Pro $220 off, iPhone 17 Pro $250 off, Beats, iPad, more",
-      "url": "https://9to5mac.com/2026/06/11/deals-airpods-pro-3-m5-macbook-iphone-17-pro-beats/",
-      "pubDate": "2026-06-11T15:30:05.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Is Apple TV the new HBO?",
-      "url": "https://www.theverge.com/column/948295/apple-tv-new-hbo",
-      "pubDate": "2026-06-11T15:30:00.000Z"
     },
     {
       "source": "AppleInsider",
@@ -241,20 +297,6 @@
       "pubDate": "2026-06-11T14:57:43.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Here’s everything new for Apple’s Home app in iOS 27",
-      "url": "https://9to5mac.com/2026/06/11/heres-everything-new-for-apples-home-app-in-ios-27/",
-      "pubDate": "2026-06-11T14:54:38.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Here’s everything new for Journal in iOS 27",
-      "url": "https://9to5mac.com/2026/06/11/heres-everything-new-for-journal-in-ios-27/",
-      "pubDate": "2026-06-11T14:38:38.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Touchscreen MacBook '100% Confirmed,' Says Reputable Leaker",
@@ -269,13 +311,6 @@
       "pubDate": "2026-06-11T14:28:30.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple again warns developers not to do what Apple did in macOS 26 Tahoe",
-      "url": "https://9to5mac.com/2026/06/11/apple-again-warns-developers-not-to-do-what-apple-did-in-macos-26-tahoe/",
-      "pubDate": "2026-06-11T14:06:53.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "These Are the Lowest Prices Ever on AirPods Pro 3 and AirPods Max 2",
@@ -283,39 +318,11 @@
       "pubDate": "2026-06-11T13:57:46.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Introduces Major App Store Subscription Overhaul at WWDC 2026",
-      "url": "https://www.macrumors.com/2026/06/11/apple-introduces-app-store-subscription-overhaul/",
-      "pubDate": "2026-06-11T13:50:37.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Leaker says new MacBook is ‘100% confirmed’ to get touchscreen",
-      "url": "https://9to5mac.com/2026/06/11/leaker-says-new-macbook-is-100-confirmed-to-get-touchscreen/",
-      "pubDate": "2026-06-11T13:43:41.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27 Improves FaceTime in Three Ways",
-      "url": "https://www.macrumors.com/2026/06/11/ios-27-improves-facetime-in-three-ways/",
-      "pubDate": "2026-06-11T13:27:42.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple Vision Pro's biggest problem isn't addressed in visionOS 27, but progress is progress",
       "url": "https://appleinsider.com/articles/26/06/11/apple-vision-pros-biggest-problem-isnt-addressed-in-visionos-27-but-progress-is-progress?utm_source=rss",
       "pubDate": "2026-06-11T12:52:48.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "WWDC 2026 Keynote Marked a Major Departure From Previous Years",
-      "url": "https://www.macrumors.com/2026/06/11/wwdc-2026-keynote-major-departure/",
-      "pubDate": "2026-06-11T12:52:31.000Z"
     },
     {
       "source": "AppleInsider",
@@ -337,13 +344,6 @@
       "title": "Prominent leaker may see default ruling reversed in Apple lawsuit",
       "url": "https://appleinsider.com/articles/26/06/10/prominent-leaker-may-see-default-ruling-reversed-in-apple-lawsuit?utm_source=rss",
       "pubDate": "2026-06-10T22:57:39.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Fewer iPhone users are updating to iOS 26 than they did with iOS 18",
-      "url": "https://appleinsider.com/articles/26/06/10/fewer-iphone-users-are-updating-to-ios-26-than-they-did-with-ios-18?utm_source=rss",
-      "pubDate": "2026-06-10T22:52:54.000Z"
     },
     {
       "source": "Six Colors",
