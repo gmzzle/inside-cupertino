@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T01:40:04.337Z",
+  "generatedAt": "2026-06-12T06:56:16.635Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple’s new Foundation Models explained: on-device AI, cloud AI, and everything in between",
+      "url": "https://9to5mac.com/2026/06/11/apples-new-foundation-models-explained-on-device-ai-cloud-ai-and-everything-in-between/",
+      "pubDate": "2026-06-12T02:27:35.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: June 11, 2026 – visionOS 27 features, more",
+      "url": "https://9to5mac.com/2026/06/11/daily-june-11-2026/",
+      "pubDate": "2026-06-12T02:09:17.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -171,13 +185,6 @@
       "pubDate": "2026-06-11T19:56:17.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple hinted at three new products this week with fall launches rumored",
-      "url": "https://9to5mac.com/2026/06/11/apple-hinted-at-three-new-products-this-week-with-fall-launches-rumored/",
-      "pubDate": "2026-06-11T19:42:29.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Early Prime Day Apple deals start at just $14.99, save up to $300",
@@ -197,13 +204,6 @@
       "title": "US legislation outlawing big tech from favoriting their own services resurrected",
       "url": "https://appleinsider.com/articles/26/06/11/us-legislation-outlawing-big-tech-from-favoriting-their-own-services-resurrected?utm_source=rss",
       "pubDate": "2026-06-11T18:16:47.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Spotify fixes iPhone app after everyone complained about its disco ball icon",
-      "url": "https://9to5mac.com/2026/06/11/spotify-fixes-iphone-app-after-everyone-complained-about-its-disco-ball-icon/",
-      "pubDate": "2026-06-11T18:15:33.000Z"
     },
     {
       "source": "The Verge",
