@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T14:18:44.165Z",
+  "generatedAt": "2026-06-12T17:42:13.635Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -26,16 +26,177 @@
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Highlights New Fitness+ Content",
-      "url": "https://www.macrumors.com/2026/06/12/apple-highlights-new-fitness-content/",
-      "pubDate": "2026-06-12T14:16:47.000Z"
+      "title": "macOS 27 Golden Gate Hands-On: Every Major New Feature",
+      "url": "https://www.macrumors.com/2026/06/12/macos-golden-gate-hands-on/",
+      "pubDate": "2026-06-12T17:39:43.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "How to use Visual Intelligence on macOS Golden Gate, and when it's worth it",
+      "url": "https://appleinsider.com/inside/macos-27/tips/how-to-use-visual-intelligence-on-macos-golden-gate-and-when-its-worth-it?utm_source=rss",
+      "pubDate": "2026-06-12T17:26:51.000Z"
     },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
-      "title": "Facebook and Instagram are currently down due to major outage",
+      "title": "How to keep your Mac awake, even when your MacBook lid is closed",
+      "url": "https://9to5mac.com/2026/06/12/how-to-keep-your-mac-awake-even-when-your-macbook-lid-is-closed/",
+      "pubDate": "2026-06-12T17:05:25.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple Vision Pro helped Disney re-engineer a classic EPCOT ride",
+      "url": "https://appleinsider.com/articles/26/06/12/apple-vision-pro-helped-disney-re-engineer-a-classic-epcot-ride?utm_source=rss",
+      "pubDate": "2026-06-12T16:58:36.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iOS 27 and macOS 27 Golden Gate Expand Drawing Tools to Three Apps",
+      "url": "https://www.macrumors.com/2026/06/12/ios-27-macos-27-drawing-tools/",
+      "pubDate": "2026-06-12T16:41:03.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "A trillion dollars is a stupid amount of money",
+      "url": "https://www.theverge.com/tech/948917/elon-musk-trillionaire-how-much-visualization",
+      "pubDate": "2026-06-12T16:26:29.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Elon Musk is the world&#8217;s first trillionaire",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo",
+      "pubDate": "2026-06-12T16:24:39.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "I held the Trump phone",
+      "url": "https://www.theverge.com/tech/948464/trump-phone-t1-hands-on",
+      "pubDate": "2026-06-12T16:05:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: June 12, 2026 – What’s new in Apple Maps, Home, more",
+      "url": "https://9to5mac.com/2026/06/12/daily-june-12-2026/",
+      "pubDate": "2026-06-12T16:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 fixes Liquid Glass, and not just with a slider",
+      "url": "https://9to5mac.com/2026/06/12/ios-27-fixes-liquid-glass-and-not-just-with-a-slider/",
+      "pubDate": "2026-06-12T16:00:00.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Sponsor) Unite Pro",
+      "url": "https://sixcolors.com/sponsor/2026/06/unite-pro-2/",
+      "pubDate": "2026-06-12T16:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Here’s everything new for Reminders in iOS 27",
+      "url": "https://9to5mac.com/2026/06/12/heres-everything-new-for-reminders-in-ios-27/",
+      "pubDate": "2026-06-12T15:45:20.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Deals: Apple Watch Series 11 $130 off, M5 Pro MacBook Pro $300 off, AirPods Pro 3, iPhone 17 Pro $270 off, more",
+      "url": "https://9to5mac.com/2026/06/12/deals-apple-watch-series-11-macbook-pro-airpods-pro-3/",
+      "pubDate": "2026-06-12T15:30:37.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Your ChatGPT Mac app will stop working tonight if you haven't updated it recently",
+      "url": "https://appleinsider.com/articles/26/05/14/another-openai-hack-puts-chatgpt-mac-users-on-an-update-deadline?utm_source=rss",
+      "pubDate": "2026-06-12T15:22:40.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "How and when macOS will finally stop support for Intel apps",
+      "url": "https://appleinsider.com/articles/26/06/12/how-and-when-macos-will-finally-stop-support-for-intel-apps?utm_source=rss",
+      "pubDate": "2026-06-12T15:13:58.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Notion Is Migrating to SwiftUI, Apple Confirms at WWDC",
+      "url": "https://www.macrumors.com/2026/06/12/notion-is-migrating-to-swiftui/",
+      "pubDate": "2026-06-12T15:10:34.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Govee&#8217;s rechargeable smart table lamp is down to $60",
+      "url": "https://www.theverge.com/gadgets/948806/govee-table-lamp-classic-jbl-charge-6-deal-sale",
+      "pubDate": "2026-06-12T15:07:45.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "WWDC 2026: No, Tahoe—yes, Golden Gate",
+      "url": "https://sixcolors.com/post/2026/06/wwdc-2026-no-tahoe-yes-golden-gate/",
+      "pubDate": "2026-06-12T15:00:03.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple to Release These 15 New Products Later This Year",
+      "url": "https://www.macrumors.com/2026/06/12/15-new-apple-products-rumored/",
+      "pubDate": "2026-06-12T14:45:12.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "SpaceX’s massive IPO: all the latest news",
+      "url": "https://www.theverge.com/business/948996/spacex-ipo-elon-musk",
+      "pubDate": "2026-06-12T14:35:48.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Record AirPods Price Drops and a Rare Switch 2 Sale: This Week's Top Tech Deals",
+      "url": "https://www.macrumors.com/2026/06/12/best-apple-deals-of-the-week-6-12-26/",
+      "pubDate": "2026-06-12T14:33:10.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Are Facebook and Instagram down? Here’s what we know",
       "url": "https://9to5mac.com/2026/06/12/psa-facebook-and-instagram-are-currently-down-for-many-people/",
-      "pubDate": "2026-06-12T14:14:45.000Z"
+      "pubDate": "2026-06-12T14:25:55.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple and the American Academy of Pediatrics have a plan to teach healthy digital habits to kids",
+      "url": "https://appleinsider.com/articles/26/06/12/apple-and-the-american-academy-of-pediatrics-have-a-plan-to-teach-healthy-digital-habits-to-kids?utm_source=rss",
+      "pubDate": "2026-06-12T14:24:36.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "watchOS 27 will add two new apps to your Apple Watch",
+      "url": "https://9to5mac.com/2026/06/12/watchos-27-will-add-two-new-apps-to-your-apple-watch/",
+      "pubDate": "2026-06-12T14:19:52.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Highlights New Fitness+ Content",
+      "url": "https://www.macrumors.com/2026/06/12/apple-highlights-new-fitness-content/",
+      "pubDate": "2026-06-12T14:16:47.000Z"
     },
     {
       "source": "The Verge",
@@ -129,13 +290,6 @@
       "pubDate": "2026-06-12T12:30:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Summer Upgrade Week",
-      "url": "https://www.theverge.com/tech/942658/summer-upgrade-week-2026",
-      "pubDate": "2026-06-12T12:30:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "macOS Golden Gate beta review: it's nothing without Siri AI",
@@ -157,13 +311,6 @@
       "pubDate": "2026-06-12T11:37:29.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "This portable light is great for way more than camping",
-      "url": "https://www.theverge.com/tech/942932/portable-light-camping-work-travel",
-      "pubDate": "2026-06-12T11:30:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Audible Launches Connected Subscription for Apple Podcasts",
@@ -176,13 +323,6 @@
       "title": "Save $300 on Apple's M5 Pro MacBook Pro with 48GB RAM this weekend",
       "url": "https://appleinsider.com/articles/26/06/12/save-300-on-apples-m5-pro-macbook-pro-with-48gb-ram-this-weekend?utm_source=rss",
       "pubDate": "2026-06-12T07:43:30.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Siri won’t be your AI girlfriend",
-      "url": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
-      "pubDate": "2026-06-12T07:00:31.000Z"
     },
     {
       "source": "9to5Mac",
@@ -213,32 +353,11 @@
       "pubDate": "2026-06-11T23:35:38.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple TV renews comedy horror Widow’s Bay for a second season",
-      "url": "https://9to5mac.com/2026/06/11/apple-tv-renews-comedy-horror-widows-bay-for-a-second-season/",
-      "pubDate": "2026-06-11T23:20:24.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "WWDC 2026 recap, iOS 27, new Siri and more officially announced",
-      "url": "https://9to5mac.com/2026/06/11/happy-hour-594/",
-      "pubDate": "2026-06-11T23:19:27.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) Clockwise 660: I’m a Dirty Cheater",
       "url": "https://sixcolors.com/podcast/2026/06/clockwise-660-im-a-dirty-cheater/",
       "pubDate": "2026-06-11T23:12:57.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Bipartisan lawmakers reintroduce bill to limit Big Tech gatekeeping, Apple shoots back",
-      "url": "https://9to5mac.com/2026/06/11/bipartisan-lawmakers-reintroduce-bill-to-limit-big-tech-gatekeeping-apple-shoots-back/",
-      "pubDate": "2026-06-11T22:54:47.000Z"
     },
     {
       "source": "Six Colors",
@@ -248,130 +367,11 @@
       "pubDate": "2026-06-11T22:40:36.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple's Craig Federighi: Siri Won't Be Your AI Girlfriend",
-      "url": "https://www.macrumors.com/2026/06/11/apple-siri-ai-interview/",
-      "pubDate": "2026-06-11T22:26:25.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "CrossOver, a Windows to Mac gaming tool, goes Apple Silicon only",
-      "url": "https://appleinsider.com/articles/26/06/11/crossover-a-windows-to-mac-gaming-tool-goes-apple-silicon-only?utm_source=rss",
-      "pubDate": "2026-06-11T22:23:52.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Amazon&#8217;s Echo Hub gets a customizable new look and Ring&#8217;s AI features",
-      "url": "https://www.theverge.com/tech/948814/amazon-echo-hub-homescreen-redesign",
-      "pubDate": "2026-06-11T22:06:32.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Design resources for iOS 27, iPadOS 27, and macOS 27 Golden Gate now available",
-      "url": "https://9to5mac.com/2026/06/11/design-resources-for-ios-27-ipados-27-and-macos-27-golden-gate-now-available/",
-      "pubDate": "2026-06-11T21:56:37.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple executive: 'We don't do AI for AI's sake'",
-      "url": "https://appleinsider.com/articles/26/06/11/apple-executive-we-dont-do-ai-for-ais-sake?utm_source=rss",
-      "pubDate": "2026-06-11T21:49:19.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Criticizes U.S. Antitrust Bill That Targets the App Store",
-      "url": "https://www.macrumors.com/2026/06/11/apple-aicoa-reintroduction-criticism/",
-      "pubDate": "2026-06-11T21:49:17.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "WhatsApp rolling out multi-account support more widely on iOS",
-      "url": "https://9to5mac.com/2026/06/11/whatsapp-rolling-out-multi-account-support-more-widely-on-ios/",
-      "pubDate": "2026-06-11T21:12:20.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "What's New in the iOS 27 Photos App",
-      "url": "https://www.macrumors.com/guide/ios-27-photos-app/",
-      "pubDate": "2026-06-11T21:04:57.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone Ultra is coming: Six new features in Apple’s top-tier model",
-      "url": "https://9to5mac.com/2026/06/11/iphone-ultra-is-coming-six-new-features-in-apples-top-tier-model/",
-      "pubDate": "2026-06-11T20:49:24.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27's Weather App Has a New Way to View Forecasts",
-      "url": "https://www.macrumors.com/2026/06/11/ios-27-weather-app-forecast-views/",
-      "pubDate": "2026-06-11T20:10:02.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Logitech’s awesome MX Master 3S mouse drops to under $100",
-      "url": "https://www.theverge.com/gadgets/948204/logitech-mx-master-3s-mouse-sale-deal",
-      "pubDate": "2026-06-11T20:00:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Early Prime Day Apple deals start at just $14.99, save up to $300",
-      "url": "https://appleinsider.com/articles/26/06/11/early-prime-day-apple-deals-start-at-just-1499-save-up-to-300?utm_source=rss",
-      "pubDate": "2026-06-11T19:07:19.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27 Lets You Add Apple TV Remote to Your iPhone's Home Screen",
-      "url": "https://www.macrumors.com/2026/06/11/ios-27-apple-tv-remote-app/",
-      "pubDate": "2026-06-11T18:51:49.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "US legislation outlawing big tech from favoriting their own services resurrected",
-      "url": "https://appleinsider.com/articles/26/06/11/us-legislation-outlawing-big-tech-from-favoriting-their-own-services-resurrected?utm_source=rss",
-      "pubDate": "2026-06-11T18:16:47.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "If your iPhone or Mac has Apple Intelligence, you're getting Siri AI",
-      "url": "https://appleinsider.com/articles/26/06/11/if-your-iphone-or-mac-has-apple-intelligence-youre-getting-siri-ai?utm_source=rss",
-      "pubDate": "2026-06-11T17:06:38.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) Upgrade 621: Road to the Apple II: The Partnership (Part 2)",
       "url": "https://sixcolors.com/podcast/2026/06/upgrade-621-road-to-the-apple-ii-the-partnership-part-2/",
       "pubDate": "2026-06-11T16:10:03.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Apple’s 27 OS releases are out of the ordinary–in a good way (Macworld/Jason Snell)",
-      "url": "https://www.macworld.com/article/3162650",
-      "pubDate": "2026-06-11T15:00:36.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "WWDC 2026: Emptying the notebook about AI, bug fixes, and more",
-      "url": "https://sixcolors.com/post/2026/06/wwdc-2026-emptying-the-notebook-about-ai-bug-fixes-and-more/",
-      "pubDate": "2026-06-10T19:40:13.000Z"
     }
   ]
 }
