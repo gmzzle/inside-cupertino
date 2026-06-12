@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T06:56:16.635Z",
+  "generatedAt": "2026-06-12T11:09:40.729Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Audible Launches Connected Subscription for Apple Podcasts",
+      "url": "https://www.macrumors.com/2026/06/12/audible-launches-connected-apple-podcasts/",
+      "pubDate": "2026-06-12T10:59:27.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Save $300 on Apple's M5 Pro MacBook Pro with 48GB RAM this weekend",
+      "url": "https://appleinsider.com/articles/26/06/12/save-300-on-apples-m5-pro-macbook-pro-with-48gb-ram-this-weekend?utm_source=rss",
+      "pubDate": "2026-06-12T07:43:30.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Siri won’t be your AI girlfriend",
+      "url": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
+      "pubDate": "2026-06-12T07:00:31.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -290,13 +311,6 @@
       "pubDate": "2026-06-11T16:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "I&#8217;ve found the Goldilocks of portable MIDI controllers",
-      "url": "https://www.theverge.com/tech/948024/arturia-minilab-37-midi-controller-review",
-      "pubDate": "2026-06-11T16:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "AAPL Stock Slides Following WWDC, But Analysts Broadly Raise Targets",
@@ -332,13 +346,6 @@
       "pubDate": "2026-06-11T14:57:43.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Touchscreen MacBook '100% Confirmed,' Says Reputable Leaker",
-      "url": "https://www.macrumors.com/2026/06/11/touchscreen-macbook-confirmed-leaker/",
-      "pubDate": "2026-06-11T14:30:30.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple Vision Pro's biggest problem isn't addressed in visionOS 27, but progress is progress",
@@ -351,13 +358,6 @@
       "title": "iPhone Stolen Device Protection is thwarting prolific London thieves",
       "url": "https://appleinsider.com/articles/26/06/11/iphone-stolen-device-protection-is-thwarting-prolific-london-thieves?utm_source=rss",
       "pubDate": "2026-06-11T12:03:48.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Photographers get a dramatic RAW update with iOS 27",
-      "url": "https://appleinsider.com/articles/26/06/11/photographers-get-a-dramatic-raw-update-with-ios-27?utm_source=rss",
-      "pubDate": "2026-06-11T11:56:12.000Z"
     },
     {
       "source": "Six Colors",
