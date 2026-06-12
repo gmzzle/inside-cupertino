@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T17:42:13.635Z",
+  "generatedAt": "2026-06-12T20:27:24.973Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,6 +24,90 @@
   ],
   "items": [
     {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Unreleased Beats headphones spotted again … with a customizable design?",
+      "url": "https://9to5mac.com/2026/06/12/unreleased-beats-headphones-spotted-again-with-a-customizable-design/",
+      "pubDate": "2026-06-12T20:08:12.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Nothing CEO says phone prices are going to keep going up",
+      "url": "https://www.theverge.com/gadgets/949403/nothing-carl-pei-ram-phone-prices",
+      "pubDate": "2026-06-12T20:02:48.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Owning an Apple Home: Robots, maintenance, and chores",
+      "url": "https://appleinsider.com/articles/26/06/12/owning-an-apple-home-robots-maintenance-and-chores?utm_source=rss",
+      "pubDate": "2026-06-12T19:31:25.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Four new Macs are launching later this year, here’s what’s coming",
+      "url": "https://9to5mac.com/2026/06/12/four-new-macs-are-launching-later-this-year-heres-whats-coming/",
+      "pubDate": "2026-06-12T19:29:22.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple TV has three fan-favorite shows returning soon, here’s what’s coming",
+      "url": "https://9to5mac.com/2026/06/12/apple-tv-has-fan-favorite-shows-returning-soon-heres-whats-coming/",
+      "pubDate": "2026-06-12T19:05:58.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The world’s first trillionaire is a killer",
+      "url": "https://www.theverge.com/tech/949259/the-worlds-first-trillionaire-is-a-killer",
+      "pubDate": "2026-06-12T18:46:40.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Last Chance: Apple Card Sign-Up Promo Can Earn You Free AirPods Pro 3",
+      "url": "https://www.macrumors.com/2026/06/12/last-chance-apple-card-airpods-pro-3-promo/",
+      "pubDate": "2026-06-12T18:26:26.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "HomeKit Weekly: The Qingping thermometer brings Thread and an E-ink display to Apple Home",
+      "url": "https://9to5mac.com/2026/06/12/qingping-thermometer/",
+      "pubDate": "2026-06-12T18:14:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "The new dictation feature is off-by-default in iOS 27 beta 1, here’s how to turn it on",
+      "url": "https://9to5mac.com/2026/06/12/ai-advanced-dictation-preview-ios-27-beta/",
+      "pubDate": "2026-06-12T18:03:22.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Here’s everything new in iOS 27 and more, per Apple’s keynote list",
+      "url": "https://9to5mac.com/2026/06/12/heres-everything-new-in-ios-27-and-more-per-apples-keynote-list/",
+      "pubDate": "2026-06-12T17:57:16.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple explains the goal of iOS 27’s new AI features in Photos",
+      "url": "https://9to5mac.com/2026/06/12/apple-explains-the-goal-of-ios-27s-new-ai-features-in-photos/",
+      "pubDate": "2026-06-12T17:48:36.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Hands-on: iOS 27 makes AirPods even better with these new features [Video]",
+      "url": "https://9to5mac.com/2026/06/12/ios-27-makes-airpods-even-better-with-these-new-features/",
+      "pubDate": "2026-06-12T17:44:10.000Z"
+    },
+    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "macOS 27 Golden Gate Hands-On: Every Major New Feature",
@@ -36,6 +120,13 @@
       "title": "How to use Visual Intelligence on macOS Golden Gate, and when it's worth it",
       "url": "https://appleinsider.com/inside/macos-27/tips/how-to-use-visual-intelligence-on-macos-golden-gate-and-when-its-worth-it?utm_source=rss",
       "pubDate": "2026-06-12T17:26:51.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Siri is good now??",
+      "url": "https://www.theverge.com/podcast/949079/siri-ai-good-vergecast",
+      "pubDate": "2026-06-12T17:17:04.000Z"
     },
     {
       "source": "9to5Mac",
@@ -54,7 +145,7 @@
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27 and macOS 27 Golden Gate Expand Drawing Tools to Three Apps",
+      "title": "iOS 27 Adds New Drawing Tool to Your iPhone's Messages App",
       "url": "https://www.macrumors.com/2026/06/12/ios-27-macos-27-drawing-tools/",
       "pubDate": "2026-06-12T16:41:03.000Z"
     },
@@ -106,13 +197,6 @@
       "title": "Here’s everything new for Reminders in iOS 27",
       "url": "https://9to5mac.com/2026/06/12/heres-everything-new-for-reminders-in-ios-27/",
       "pubDate": "2026-06-12T15:45:20.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: Apple Watch Series 11 $130 off, M5 Pro MacBook Pro $300 off, AirPods Pro 3, iPhone 17 Pro $270 off, more",
-      "url": "https://9to5mac.com/2026/06/12/deals-apple-watch-series-11-macbook-pro-airpods-pro-3/",
-      "pubDate": "2026-06-12T15:30:37.000Z"
     },
     {
       "source": "AppleInsider",
@@ -171,25 +255,11 @@
       "pubDate": "2026-06-12T14:33:10.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Are Facebook and Instagram down? Here’s what we know",
-      "url": "https://9to5mac.com/2026/06/12/psa-facebook-and-instagram-are-currently-down-for-many-people/",
-      "pubDate": "2026-06-12T14:25:55.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple and the American Academy of Pediatrics have a plan to teach healthy digital habits to kids",
       "url": "https://appleinsider.com/articles/26/06/12/apple-and-the-american-academy-of-pediatrics-have-a-plan-to-teach-healthy-digital-habits-to-kids?utm_source=rss",
       "pubDate": "2026-06-12T14:24:36.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "watchOS 27 will add two new apps to your Apple Watch",
-      "url": "https://9to5mac.com/2026/06/12/watchos-27-will-add-two-new-apps-to-your-apple-watch/",
-      "pubDate": "2026-06-12T14:19:52.000Z"
     },
     {
       "source": "MacRumors",
@@ -227,13 +297,6 @@
       "pubDate": "2026-06-12T13:54:49.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Siri AI is coming to newer Apple devices only, here’s the full list",
-      "url": "https://9to5mac.com/2026/06/12/siri-ai-is-coming-to-newer-apple-devices-only-heres-the-full-list/",
-      "pubDate": "2026-06-12T13:49:38.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "WWDC, Siri AI, and all of Apple's platforms, on the AppleInsider Podcast",
@@ -248,13 +311,6 @@
       "pubDate": "2026-06-12T13:38:05.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Sorry, the Ooni pizza oven is totally worth it",
-      "url": "https://www.theverge.com/gadgets/943057/ooni-portable-pizza-oven-is-great-for-bbqs",
-      "pubDate": "2026-06-12T13:30:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Cut Frequencies in WWDC Keynote to Prevent Siri Activations",
@@ -262,32 +318,11 @@
       "pubDate": "2026-06-12T13:23:58.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27: Find My adds new ways to hide your location, more",
-      "url": "https://9to5mac.com/2026/06/12/ios-27-find-my-adds-new-ways-to-hide-your-location-more/",
-      "pubDate": "2026-06-12T13:17:23.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Craig Federighi Swipes at AI Rivals Who Are 'Racing Forward' Without Regard for Users",
       "url": "https://www.macrumors.com/2026/06/12/federighi-swipes-at-ai-rivals/",
       "pubDate": "2026-06-12T13:10:03.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "BMW’s Neue Klasse M concept brings next-gen EV tech to motorsports",
-      "url": "https://www.theverge.com/transportation/948635/bmw-neue-klasse-m-concept-motorsports-ev",
-      "pubDate": "2026-06-12T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Nintendo DS is still the best gaming handheld for travel",
-      "url": "https://www.theverge.com/games/942678/nintendo-ds-rules-for-travel",
-      "pubDate": "2026-06-12T12:30:00.000Z"
     },
     {
       "source": "AppleInsider",
@@ -325,34 +360,6 @@
       "pubDate": "2026-06-12T07:43:30.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple’s new Foundation Models explained: on-device AI, cloud AI, and everything in between",
-      "url": "https://9to5mac.com/2026/06/11/apples-new-foundation-models-explained-on-device-ai-cloud-ai-and-everything-in-between/",
-      "pubDate": "2026-06-12T02:27:35.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: June 11, 2026 – visionOS 27 features, more",
-      "url": "https://9to5mac.com/2026/06/11/daily-june-11-2026/",
-      "pubDate": "2026-06-12T02:09:17.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Strava expands hiking tools with better maps, route planning, and trail navigation",
-      "url": "https://9to5mac.com/2026/06/11/strava-expands-hiking-tools-with-better-maps-route-planning-and-trail-navigation/",
-      "pubDate": "2026-06-12T00:02:13.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27: All the New Health and Fitness Features",
-      "url": "https://www.macrumors.com/guide/ios-27-health-app/",
-      "pubDate": "2026-06-11T23:35:38.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) Clockwise 660: I’m a Dirty Cheater",
@@ -365,13 +372,6 @@
       "title": "Federico between seasons ↦",
       "url": "https://sixcolors.com/link/2026/06/federico-between-seasons/",
       "pubDate": "2026-06-11T22:40:36.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) Upgrade 621: Road to the Apple II: The Partnership (Part 2)",
-      "url": "https://sixcolors.com/podcast/2026/06/upgrade-621-road-to-the-apple-ii-the-partnership-part-2/",
-      "pubDate": "2026-06-11T16:10:03.000Z"
     }
   ]
 }
