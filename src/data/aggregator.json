@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T12:03:24.565Z",
+  "generatedAt": "2026-06-13T14:28:22.095Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,55 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Never Post’s Mike Rugnetta on the creative process and the value of reliable power",
+      "url": "https://www.theverge.com/report/949073/mike-rugnetta-youtube-never-post-podcast-questionnaire",
+      "pubDate": "2026-06-13T14:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Record AirPods Price Drops and a Rare Switch 2 Sale: This Week's Top Tech Deals",
+      "url": "https://www.macrumors.com/2026/06/13/best-apple-deals-of-the-week-6-12-26/",
+      "pubDate": "2026-06-13T13:33:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 makes it easier to switch between Apple Pay cards",
+      "url": "https://9to5mac.com/2026/06/13/ios-27-makes-it-easier-to-switch-between-apple-pay-cards/",
+      "pubDate": "2026-06-13T13:14:10.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Top Stories: WWDC 2026 Recap With Siri AI, iOS 27, macOS Golden Gate, and More",
+      "url": "https://www.macrumors.com/2026/06/13/top-stories-wwdc-2026-recap/",
+      "pubDate": "2026-06-13T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "My yard is dying, so I made an app for that",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
+      "pubDate": "2026-06-13T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
+      "pubDate": "2026-06-13T12:55:49.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "MacBook Neo vs Dell XPS 13: $599 budget battle, compared",
+      "url": "https://appleinsider.com/inside/macbook-neo/vs/macbook-neo-vs-dell-xps-13-599-budget-battle-compared?utm_source=rss",
+      "pubDate": "2026-06-13T12:17:51.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -185,13 +234,6 @@
       "pubDate": "2026-06-12T17:57:16.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple explains the goal of iOS 27’s new AI features in Photos",
-      "url": "https://9to5mac.com/2026/06/12/apple-explains-the-goal-of-ios-27s-new-ai-features-in-photos/",
-      "pubDate": "2026-06-12T17:48:36.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "macOS 27 Golden Gate Hands-On: Every Major New Feature",
@@ -206,13 +248,6 @@
       "pubDate": "2026-06-12T17:26:51.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Siri is good now??",
-      "url": "https://www.theverge.com/podcast/949079/siri-ai-good-vergecast",
-      "pubDate": "2026-06-12T17:17:04.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple Vision Pro helped Disney re-engineer a classic EPCOT ride",
@@ -225,20 +260,6 @@
       "title": "iOS 27 Adds New Drawing Tool to Your iPhone's Messages App",
       "url": "https://www.macrumors.com/2026/06/12/ios-27-macos-27-drawing-tools/",
       "pubDate": "2026-06-12T16:41:03.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "A trillion dollars is a stupid amount of money",
-      "url": "https://www.theverge.com/tech/948917/elon-musk-trillionaire-how-much-visualization",
-      "pubDate": "2026-06-12T16:26:29.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Elon Musk is the world&#8217;s first trillionaire",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo",
-      "pubDate": "2026-06-12T16:24:39.000Z"
     },
     {
       "source": "Six Colors",
@@ -283,13 +304,6 @@
       "pubDate": "2026-06-12T14:45:12.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Record AirPods Price Drops and a Rare Switch 2 Sale: This Week's Top Tech Deals",
-      "url": "https://www.macrumors.com/2026/06/12/best-apple-deals-of-the-week-6-12-26/",
-      "pubDate": "2026-06-12T14:33:10.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple and the American Academy of Pediatrics have a plan to teach healthy digital habits to kids",
@@ -332,13 +346,6 @@
       "pubDate": "2026-06-12T13:38:05.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Cut Frequencies in WWDC Keynote to Prevent Siri Activations",
-      "url": "https://www.macrumors.com/2026/06/12/apple-cut-frequencies-to-prevent-siri-activations/",
-      "pubDate": "2026-06-12T13:23:58.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "macOS Golden Gate beta review: it's nothing without Siri AI",
@@ -365,13 +372,6 @@
       "title": "(Podcast) Clockwise 660: I’m a Dirty Cheater",
       "url": "https://sixcolors.com/podcast/2026/06/clockwise-660-im-a-dirty-cheater/",
       "pubDate": "2026-06-11T23:12:57.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Federico between seasons ↦",
-      "url": "https://sixcolors.com/link/2026/06/federico-between-seasons/",
-      "pubDate": "2026-06-11T22:40:36.000Z"
     }
   ]
 }
