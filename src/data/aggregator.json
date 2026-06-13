@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T16:48:34.362Z",
+  "generatedAt": "2026-06-13T18:44:39.640Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -26,9 +26,30 @@
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
+      "title": "Sealed Super Mario Bros. sells for a record $3 million",
+      "url": "https://www.theverge.com/games/949593/super-mario-bros-3-million-auction",
+      "pubDate": "2026-06-13T18:37:21.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Hands-on: Belkin’s new 25W MagSafe battery packs 10,000mAh for your iPhone",
+      "url": "https://9to5mac.com/2026/06/13/belkin-ultracharge-pro-10000mah-magsafe-battery-hands-on/",
+      "pubDate": "2026-06-13T18:15:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
       "title": "Microsoft hasn’t ruled out spinning off Xbox",
       "url": "https://www.theverge.com/games/949584/microsoft-spinning-off-xbox",
       "pubDate": "2026-06-13T16:29:47.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "HeyPolo is a smarter Find My app for family, friends, and co-workers",
+      "url": "https://9to5mac.com/2026/06/13/heypolo-smarter-find-my-app-for-family-friends-co-workers/",
+      "pubDate": "2026-06-13T16:00:00.000Z"
     },
     {
       "source": "The Verge",
@@ -136,13 +157,6 @@
       "pubDate": "2026-06-13T12:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The future of Hollywood isn’t feeding prompts into vanilla gen AI models",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai",
-      "pubDate": "2026-06-13T11:00:00.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Anthropic pulls Claude Mythos 5 and Claude Fable 5 following US government directive",
@@ -220,25 +234,11 @@
       "pubDate": "2026-06-12T19:29:22.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple TV has three fan-favorite shows returning soon, here’s what’s coming",
-      "url": "https://9to5mac.com/2026/06/12/apple-tv-has-fan-favorite-shows-returning-soon-heres-whats-coming/",
-      "pubDate": "2026-06-12T19:05:58.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Last Chance: Apple Card Sign-Up Promo Can Earn You Free AirPods Pro 3",
       "url": "https://www.macrumors.com/2026/06/12/last-chance-apple-card-airpods-pro-3-promo/",
       "pubDate": "2026-06-12T18:26:26.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "HomeKit Weekly: The Qingping thermometer brings Thread and an E-ink display to Apple Home",
-      "url": "https://9to5mac.com/2026/06/12/qingping-thermometer/",
-      "pubDate": "2026-06-12T18:14:00.000Z"
     },
     {
       "source": "MacRumors",
