@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T10:08:00.746Z",
+  "generatedAt": "2026-06-13T12:03:24.565Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Echo Isle is a pint-sized adventure inspired by classic Zelda",
+      "url": "https://www.theverge.com/games/947136/echo-isle-review-pc",
+      "pubDate": "2026-06-13T12:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Apple’s new AI photo editing tools mostly work, for better and worse",
+      "url": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on",
+      "pubDate": "2026-06-13T12:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "A better way to manage all your screenshots",
+      "url": "https://www.theverge.com/tech/949465/pool-screenshots-app-disclosure-day-installer",
+      "pubDate": "2026-06-13T12:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The future of Hollywood isn’t feeding prompts into vanilla gen AI models",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai",
+      "pubDate": "2026-06-13T11:00:00.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -213,13 +241,6 @@
       "pubDate": "2026-06-12T16:24:39.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "I held the Trump phone",
-      "url": "https://www.theverge.com/tech/948464/trump-phone-t1-hands-on",
-      "pubDate": "2026-06-12T16:05:00.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Sponsor) Unite Pro",
@@ -248,13 +269,6 @@
       "pubDate": "2026-06-12T15:10:34.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Govee&#8217;s rechargeable smart table lamp is down to $60",
-      "url": "https://www.theverge.com/gadgets/948806/govee-table-lamp-classic-jbl-charge-6-deal-sale",
-      "pubDate": "2026-06-12T15:07:45.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "WWDC 2026: No, Tahoe—yes, Golden Gate",
@@ -267,13 +281,6 @@
       "title": "Apple to Release These 15 New Products Later This Year",
       "url": "https://www.macrumors.com/2026/06/12/15-new-apple-products-rumored/",
       "pubDate": "2026-06-12T14:45:12.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "SpaceX’s massive IPO: all the latest news",
-      "url": "https://www.theverge.com/business/948996/spacex-ipo-elon-musk",
-      "pubDate": "2026-06-12T14:35:48.000Z"
     },
     {
       "source": "MacRumors",
@@ -295,13 +302,6 @@
       "title": "Apple Highlights New Fitness+ Content",
       "url": "https://www.macrumors.com/2026/06/12/apple-highlights-new-fitness-content/",
       "pubDate": "2026-06-12T14:16:47.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer",
-      "pubDate": "2026-06-12T14:03:39.000Z"
     },
     {
       "source": "MacRumors",
