@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T18:44:39.640Z",
+  "generatedAt": "2026-06-13T20:41:15.074Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Waymo has bought the Apple Car self-driving test site for $220M",
+      "url": "https://appleinsider.com/articles/26/06/13/waymo-has-bought-the-apple-car-self-driving-test-site-for-220m?utm_source=rss",
+      "pubDate": "2026-06-13T20:13:01.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "X-Men ’97 has what Master of the Universe is missing",
+      "url": "https://www.theverge.com/entertainment/947064/xmen-97-season-2-disney-plus-marvel-masters-of-the-universe-mattel",
+      "pubDate": "2026-06-13T20:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Indie App Spotlight: ‘oh my hours’ counts the hours you’ve wasted, not your screen time",
+      "url": "https://9to5mac.com/2026/06/13/indie-app-spotlight-oh-my-hours-counts-the-hours-youve-wasted-not-your-screen-time/",
+      "pubDate": "2026-06-13T19:30:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's M4 Mac mini is back in stock & on sale for $769, but supply is limited",
+      "url": "https://appleinsider.com/articles/26/06/13/apples-m4-mac-mini-is-back-in-stock-on-sale-for-769-but-supply-is-limited?utm_source=rss",
+      "pubDate": "2026-06-13T19:04:51.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -150,13 +178,6 @@
       "pubDate": "2026-06-13T12:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "A better way to manage all your screenshots",
-      "url": "https://www.theverge.com/tech/949465/pool-screenshots-app-disclosure-day-installer",
-      "pubDate": "2026-06-13T12:00:00.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Anthropic pulls Claude Mythos 5 and Claude Fable 5 following US government directive",
@@ -225,13 +246,6 @@
       "title": "Owning an Apple Home: Robots, maintenance, and chores",
       "url": "https://appleinsider.com/articles/26/06/12/owning-an-apple-home-robots-maintenance-and-chores?utm_source=rss",
       "pubDate": "2026-06-12T19:31:25.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Four new Macs are launching later this year, here’s what’s coming",
-      "url": "https://9to5mac.com/2026/06/12/four-new-macs-are-launching-later-this-year-heres-whats-coming/",
-      "pubDate": "2026-06-12T19:29:22.000Z"
     },
     {
       "source": "MacRumors",
@@ -348,23 +362,9 @@
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
-      "title": "macOS Golden Gate beta review: it's nothing without Siri AI",
-      "url": "https://appleinsider.com/articles/26/06/12/macos-golden-gate-beta-review-its-nothing-without-siri-ai?utm_source=rss",
-      "pubDate": "2026-06-12T12:15:45.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
       "title": "All the Liquid Glass design fixes are in Apple's new Design Resources documents",
       "url": "https://appleinsider.com/articles/26/06/12/all-the-liquid-glass-design-fixes-are-in-apples-new-design-resources-documents?utm_source=rss",
       "pubDate": "2026-06-12T12:06:40.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Save $300 on Apple's M5 Pro MacBook Pro with 48GB RAM this weekend",
-      "url": "https://appleinsider.com/articles/26/06/12/save-300-on-apples-m5-pro-macbook-pro-with-48gb-ram-this-weekend?utm_source=rss",
-      "pubDate": "2026-06-12T07:43:30.000Z"
     },
     {
       "source": "Six Colors",
