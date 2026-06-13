@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T20:41:15.074Z",
+  "generatedAt": "2026-06-13T22:19:25.099Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Antonee Robinson Shows Off Unreleased Two-Tone Beats Over-Ear Headphones at the World Cup",
+      "url": "https://www.macrumors.com/2026/06/13/antonee-robinson-beats-headphones/",
+      "pubDate": "2026-06-13T22:13:22.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "AirPods Pro 3 are getting even better with iOS 27, order them today at their lowest price ever",
+      "url": "https://9to5mac.com/2026/06/13/airpods-pro-3-drop-to-their-best-price-ever-as-apple-announces-new-ios-27-features/",
+      "pubDate": "2026-06-13T22:08:13.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
+      "pubDate": "2026-06-13T21:39:26.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -171,13 +192,6 @@
       "pubDate": "2026-06-13T12:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple’s new AI photo editing tools mostly work, for better and worse",
-      "url": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on",
-      "pubDate": "2026-06-13T12:00:00.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Anthropic pulls Claude Mythos 5 and Claude Fable 5 following US government directive",
@@ -232,13 +246,6 @@
       "title": "Apple's Limited-Edition 2026 'Close Your Rings' Watch Band Revealed",
       "url": "https://www.macrumors.com/2026/06/12/apple-watch-close-your-rings-band/",
       "pubDate": "2026-06-12T20:30:11.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Unreleased Beats headphones spotted again … with a customizable design?",
-      "url": "https://9to5mac.com/2026/06/12/unreleased-beats-headphones-spotted-again-with-a-customizable-design/",
-      "pubDate": "2026-06-12T20:08:12.000Z"
     },
     {
       "source": "AppleInsider",
@@ -330,13 +337,6 @@
       "title": "Apple and the American Academy of Pediatrics have a plan to teach healthy digital habits to kids",
       "url": "https://appleinsider.com/articles/26/06/12/apple-and-the-american-academy-of-pediatrics-have-a-plan-to-teach-healthy-digital-habits-to-kids?utm_source=rss",
       "pubDate": "2026-06-12T14:24:36.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Highlights New Fitness+ Content",
-      "url": "https://www.macrumors.com/2026/06/12/apple-highlights-new-fitness-content/",
-      "pubDate": "2026-06-12T14:16:47.000Z"
     },
     {
       "source": "AppleInsider",
