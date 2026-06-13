@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T14:28:22.095Z",
+  "generatedAt": "2026-06-13T16:48:34.362Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,48 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Microsoft hasn’t ruled out spinning off Xbox",
+      "url": "https://www.theverge.com/games/949584/microsoft-spinning-off-xbox",
+      "pubDate": "2026-06-13T16:29:47.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Bose’s latest QuietComfort Ultra are $70 off, marking a new low price",
+      "url": "https://www.theverge.com/gadgets/949190/bose-quietcomfort-ultra-headphones-deal-sale",
+      "pubDate": "2026-06-13T16:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple needs a better solution for the App Store’s vibe coding flood: Here’s what I’d do",
+      "url": "https://9to5mac.com/2026/06/13/app-store-1000-submissions-a-week-how-id-fix/",
+      "pubDate": "2026-06-13T15:36:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple @ Work: Why Gen-AI will not cause a SaaS apocalypse for IT teams",
+      "url": "https://9to5mac.com/2026/06/13/apple-work-why-gen-ai-will-not-cause-a-saas-apocalypse-for-it-teams/",
+      "pubDate": "2026-06-13T15:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Have One of These 16 Apple Devices? Software Support Ends This Fall",
+      "url": "https://www.macrumors.com/2026/06/13/these-16-apple-devices-lose-software-support-this-fall/",
+      "pubDate": "2026-06-13T15:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "My first 24 hours with Siri AI on the Mac",
+      "url": "https://www.theverge.com/tech/949502/apple-macos-27-golden-gate-siri-ai-apple-intelligence",
+      "pubDate": "2026-06-13T15:00:00.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -101,13 +143,6 @@
       "pubDate": "2026-06-13T11:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Valve just imported 13 tons of VR headsets in one day",
-      "url": "https://www.theverge.com/news/949517/valve-vr-headset-import-records-steam-frame-steam-machine-game-console",
-      "pubDate": "2026-06-13T01:32:18.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Anthropic pulls Claude Mythos 5 and Claude Fable 5 following US government directive",
@@ -171,13 +206,6 @@
       "pubDate": "2026-06-12T20:08:12.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Nothing CEO says phone prices are going to keep going up",
-      "url": "https://www.theverge.com/gadgets/949403/nothing-carl-pei-ram-phone-prices",
-      "pubDate": "2026-06-12T20:02:48.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Owning an Apple Home: Robots, maintenance, and chores",
@@ -199,13 +227,6 @@
       "pubDate": "2026-06-12T19:05:58.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The world’s first trillionaire is a killer",
-      "url": "https://www.theverge.com/tech/949259/the-worlds-first-trillionaire-is-a-killer",
-      "pubDate": "2026-06-12T18:46:40.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Last Chance: Apple Card Sign-Up Promo Can Earn You Free AirPods Pro 3",
@@ -218,20 +239,6 @@
       "title": "HomeKit Weekly: The Qingping thermometer brings Thread and an E-ink display to Apple Home",
       "url": "https://9to5mac.com/2026/06/12/qingping-thermometer/",
       "pubDate": "2026-06-12T18:14:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "The new dictation feature is off-by-default in iOS 27 beta 1, here’s how to turn it on",
-      "url": "https://9to5mac.com/2026/06/12/ai-advanced-dictation-preview-ios-27-beta/",
-      "pubDate": "2026-06-12T18:03:22.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Here’s everything new in iOS 27 and more, per Apple’s keynote list",
-      "url": "https://9to5mac.com/2026/06/12/heres-everything-new-in-ios-27-and-more-per-apples-keynote-list/",
-      "pubDate": "2026-06-12T17:57:16.000Z"
     },
     {
       "source": "MacRumors",
@@ -316,13 +323,6 @@
       "title": "Apple Highlights New Fitness+ Content",
       "url": "https://www.macrumors.com/2026/06/12/apple-highlights-new-fitness-content/",
       "pubDate": "2026-06-12T14:16:47.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27 Adds Landscape Mode to More Apple Apps Ahead of 'iPhone Ultra'",
-      "url": "https://www.macrumors.com/2026/06/12/ios-27-landscape-mode-apps/",
-      "pubDate": "2026-06-12T13:55:04.000Z"
     },
     {
       "source": "AppleInsider",
