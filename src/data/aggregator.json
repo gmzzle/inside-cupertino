@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T22:48:41.506Z",
+  "generatedAt": "2026-06-13T01:34:49.532Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Valve just imported 13 tons of VR headsets in one day",
+      "url": "https://www.theverge.com/news/949517/valve-vr-headset-import-records-steam-frame-steam-machine-game-console",
+      "pubDate": "2026-06-13T01:32:18.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Anthropic pulls Claude Mythos 5 and Claude Fable 5 following US government directive",
+      "url": "https://9to5mac.com/2026/06/12/anthropic-pulls-claude-mythos-5-and-claude-fable-5-following-us-government-directive/",
+      "pubDate": "2026-06-13T01:30:14.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Icon Composer 2 and SF Symbols 8 now available as betas",
+      "url": "https://9to5mac.com/2026/06/12/icon-composer-2-and-sf-symbols-8-now-available-as-betas/",
+      "pubDate": "2026-06-12T23:43:21.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -143,13 +164,6 @@
       "pubDate": "2026-06-12T17:48:36.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Hands-on: iOS 27 makes AirPods even better with these new features [Video]",
-      "url": "https://9to5mac.com/2026/06/12/ios-27-makes-airpods-even-better-with-these-new-features/",
-      "pubDate": "2026-06-12T17:44:10.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "macOS 27 Golden Gate Hands-On: Every Major New Feature",
@@ -169,13 +183,6 @@
       "title": "Siri is good now??",
       "url": "https://www.theverge.com/podcast/949079/siri-ai-good-vergecast",
       "pubDate": "2026-06-12T17:17:04.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "How to keep your Mac awake, even when your MacBook lid is closed",
-      "url": "https://9to5mac.com/2026/06/12/how-to-keep-your-mac-awake-even-when-your-macbook-lid-is-closed/",
-      "pubDate": "2026-06-12T17:05:25.000Z"
     },
     {
       "source": "AppleInsider",
@@ -309,13 +316,6 @@
       "title": "Hands on: iPadOS 27's shortcut builder creates automations from plain English",
       "url": "https://appleinsider.com/articles/26/06/10/hands-on-ipados-27s-shortcut-builder-creates-automations-from-plain-english?utm_source=rss",
       "pubDate": "2026-06-12T13:55:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "SpaceX is now public",
-      "url": "https://www.theverge.com/science/947926/spacex-ipo-stock-shares-trading-elon-musk",
-      "pubDate": "2026-06-12T13:54:49.000Z"
     },
     {
       "source": "AppleInsider",
