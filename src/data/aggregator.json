@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T22:19:25.099Z",
+  "generatedAt": "2026-06-14T01:37:36.155Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 adds an all-new app to your iPhone’s Home Screen",
+      "url": "https://9to5mac.com/2026/06/13/ios-27-adds-an-all-new-app-to-your-iphones-home-screen/",
+      "pubDate": "2026-06-13T22:53:12.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -225,13 +232,6 @@
       "title": "‘Shrinking’ fans get exciting season 4 update from Jason Segel",
       "url": "https://9to5mac.com/2026/06/12/shrinking-fans-get-exciting-season-4-update-from-jason-segel/",
       "pubDate": "2026-06-12T21:58:29.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 brings new keyboards and typing improvements across multiple languages",
-      "url": "https://9to5mac.com/2026/06/12/ios-27-brings-new-keyboards-and-typing-improvements-across-multiple-languages/",
-      "pubDate": "2026-06-12T21:16:36.000Z"
     },
     {
       "source": "MacRumors",
