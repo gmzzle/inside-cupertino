@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T19:59:13.924Z",
+  "generatedAt": "2026-06-14T21:40:44.589Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Enumerating 264 items in the WWDC fine print ↦",
+      "url": "https://sixcolors.com/link/2026/06/enumerating-264-items-in-the-wwdc-fine-print/",
+      "pubDate": "2026-06-14T21:08:59.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Sunday Reboot: The WWDC hangover and Siri AI blindspots",
+      "url": "https://appleinsider.com/articles/26/06/14/sunday-reboot-the-wwdc-hangover-and-siri-ai-blindspots?utm_source=rss",
+      "pubDate": "2026-06-14T20:08:39.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -353,25 +367,11 @@
       "pubDate": "2026-06-12T14:45:12.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple and the American Academy of Pediatrics have a plan to teach healthy digital habits to kids",
-      "url": "https://appleinsider.com/articles/26/06/12/apple-and-the-american-academy-of-pediatrics-have-a-plan-to-teach-healthy-digital-habits-to-kids?utm_source=rss",
-      "pubDate": "2026-06-12T14:24:36.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Siri won’t be your AI girlfriend ↦",
       "url": "https://sixcolors.com/link/2026/06/siri-wont-be-your-ai-girlfriend/",
       "pubDate": "2026-06-12T13:38:05.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) Clockwise 660: I’m a Dirty Cheater",
-      "url": "https://sixcolors.com/podcast/2026/06/clockwise-660-im-a-dirty-cheater/",
-      "pubDate": "2026-06-11T23:12:57.000Z"
     }
   ]
 }
