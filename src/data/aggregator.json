@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T05:29:26.423Z",
+  "generatedAt": "2026-06-15T12:43:18.465Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,111 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Fox is buying Roku for $22B to become 3rd-largest TV player in US",
+      "url": "https://9to5mac.com/2026/06/15/fox-is-buying-roku-for-22b-to-become-3rd-largest-tv-player-in-us/",
+      "pubDate": "2026-06-15T12:23:39.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Adds Personalized Recommendations and New Marketing Tools to the App Store",
+      "url": "https://www.macrumors.com/2026/06/15/app-store-gains-personalized-recommendations/",
+      "pubDate": "2026-06-15T12:18:14.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Beats continues World Cup tease of its mystery headphones",
+      "url": "https://appleinsider.com/articles/26/06/15/beats-continues-world-cup-tease-of-its-mystery-headphones?utm_source=rss",
+      "pubDate": "2026-06-15T12:03:57.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "UK becomes the latest country to ban social media apps for kids",
+      "url": "https://9to5mac.com/2026/06/15/uk-becomes-the-latest-country-to-ban-social-media-apps-for-kids/",
+      "pubDate": "2026-06-15T12:01:31.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Fox is buying Roku",
+      "url": "https://www.theverge.com/business/949727/fox-roku-acquisition-22-billion",
+      "pubDate": "2026-06-15T11:44:08.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "All the gear a 20-year gadget blogging veteran packs when traveling",
+      "url": "https://www.theverge.com/gadgets/947310/gadget-veteran-travel-gear",
+      "pubDate": "2026-06-15T11:30:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "These Three Unannounced iOS 27 Features Are Still Coming",
+      "url": "https://www.macrumors.com/2026/06/15/three-unannounced-ios-27-features-are-still-coming/",
+      "pubDate": "2026-06-15T11:26:48.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "The stability of the first iOS 27 developer beta tells its own story",
+      "url": "https://9to5mac.com/2026/06/15/the-stability-of-the-first-ios-27-developer-beta-tells-its-own-story/",
+      "pubDate": "2026-06-15T11:20:50.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "macOS Golden Gate beta review: it's nothing without Siri AI",
+      "url": "https://appleinsider.com/articles/26/06/12/macos-golden-gate-beta-review-its-nothing-without-siri-ai?utm_source=rss",
+      "pubDate": "2026-06-15T11:16:31.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Here we go again: Supply chain thinks iPhone Fold will ship in 2027, not 2026",
+      "url": "https://appleinsider.com/articles/26/06/15/here-we-go-again-supply-chain-thinks-iphone-fold-will-ship-in-2027-not-2026?utm_source=rss",
+      "pubDate": "2026-06-15T11:08:22.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Honor’s Magic V6 sets three foldable firsts",
+      "url": "https://www.theverge.com/tech/948919/honor-magic-v6-foldable-review",
+      "pubDate": "2026-06-15T11:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Could Build an OpenClaw Competitor Eventually",
+      "url": "https://www.macrumors.com/2026/06/15/apple-could-build-an-openclaw-competitor/",
+      "pubDate": "2026-06-15T10:47:37.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "UK to Ban Social Media for Under-16s Starting in 2027",
+      "url": "https://www.macrumors.com/2026/06/15/uk-ban-social-media-under-16s/",
+      "pubDate": "2026-06-15T09:09:21.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Under-16 social media ban announced by UK government",
+      "url": "https://www.theverge.com/policy/949679/uk-under-16-social-media-ban-announcement",
+      "pubDate": "2026-06-15T08:19:09.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Blowout savings drive MacBook Air prices down to as low as $899",
+      "url": "https://appleinsider.com/articles/26/06/15/blowout-savings-drive-macbook-air-prices-down-to-as-low-as-899?utm_source=rss",
+      "pubDate": "2026-06-15T05:43:10.000Z"
+    },
     {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
@@ -82,7 +187,7 @@
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple still has three unannounced iOS 27 features in the pipeline: report",
+      "title": "Apple still has more iOS 27 and watchOS 27 features in the pipeline: report",
       "url": "https://9to5mac.com/2026/06/14/three-major-unannounced-ios-27-features-coming-soon/",
       "pubDate": "2026-06-14T14:41:31.000Z"
     },
@@ -136,25 +241,11 @@
       "pubDate": "2026-06-13T22:08:13.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
-      "pubDate": "2026-06-13T21:39:26.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Waymo has bought the Apple Car self-driving test site for $220M",
       "url": "https://appleinsider.com/articles/26/06/13/waymo-has-bought-the-apple-car-self-driving-test-site-for-220m?utm_source=rss",
       "pubDate": "2026-06-13T20:13:01.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "X-Men ’97 has what Master of the Universe is missing",
-      "url": "https://www.theverge.com/entertainment/947064/xmen-97-season-2-disney-plus-marvel-masters-of-the-universe-mattel",
-      "pubDate": "2026-06-13T20:00:00.000Z"
     },
     {
       "source": "9to5Mac",
@@ -171,25 +262,11 @@
       "pubDate": "2026-06-13T19:04:51.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Sealed Super Mario Bros. sells for a record $3 million",
-      "url": "https://www.theverge.com/games/949593/super-mario-bros-3-million-auction",
-      "pubDate": "2026-06-13T18:37:21.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Hands-on: Belkin’s new 25W MagSafe battery packs 10,000mAh for your iPhone",
       "url": "https://9to5mac.com/2026/06/13/belkin-ultracharge-pro-10000mah-magsafe-battery-hands-on/",
       "pubDate": "2026-06-13T18:15:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Microsoft hasn’t ruled out spinning off Xbox",
-      "url": "https://www.theverge.com/games/949584/microsoft-spinning-off-xbox",
-      "pubDate": "2026-06-13T16:29:47.000Z"
     },
     {
       "source": "9to5Mac",
@@ -241,27 +318,6 @@
       "pubDate": "2026-06-13T13:00:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Anthropic pulls Claude Mythos 5 and Claude Fable 5 following US government directive",
-      "url": "https://9to5mac.com/2026/06/12/anthropic-pulls-claude-mythos-5-and-claude-fable-5-following-us-government-directive/",
-      "pubDate": "2026-06-13T01:30:14.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Icon Composer 2 and SF Symbols 8 now available as betas",
-      "url": "https://9to5mac.com/2026/06/12/icon-composer-2-and-sf-symbols-8-now-available-as-betas/",
-      "pubDate": "2026-06-12T23:43:21.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Download all 18 wallpapers Apple included in CarPlay with iOS 27",
-      "url": "https://9to5mac.com/2026/06/12/download-all-18-wallpapers-apple-included-in-carplay-with-ios-27/",
-      "pubDate": "2026-06-12T22:41:55.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iOS 27: All the New Safari Features",
@@ -297,34 +353,6 @@
       "pubDate": "2026-06-12T18:26:26.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "macOS 27 Golden Gate Hands-On: Every Major New Feature",
-      "url": "https://www.macrumors.com/2026/06/12/macos-golden-gate-hands-on/",
-      "pubDate": "2026-06-12T17:39:43.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "How to use Visual Intelligence on macOS Golden Gate, and when it's worth it",
-      "url": "https://appleinsider.com/inside/macos-27/tips/how-to-use-visual-intelligence-on-macos-golden-gate-and-when-its-worth-it?utm_source=rss",
-      "pubDate": "2026-06-12T17:26:51.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple Vision Pro helped Disney re-engineer a classic EPCOT ride",
-      "url": "https://appleinsider.com/articles/26/06/12/apple-vision-pro-helped-disney-re-engineer-a-classic-epcot-ride?utm_source=rss",
-      "pubDate": "2026-06-12T16:58:36.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27 Adds New Drawing Tool to Your iPhone's Messages App",
-      "url": "https://www.macrumors.com/2026/06/12/ios-27-macos-27-drawing-tools/",
-      "pubDate": "2026-06-12T16:41:03.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Sponsor) Unite Pro",
@@ -332,39 +360,11 @@
       "pubDate": "2026-06-12T16:00:00.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Your ChatGPT Mac app will stop working tonight if you haven't updated it recently",
-      "url": "https://appleinsider.com/articles/26/05/14/another-openai-hack-puts-chatgpt-mac-users-on-an-update-deadline?utm_source=rss",
-      "pubDate": "2026-06-12T15:22:40.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "How and when macOS will finally stop support for Intel apps",
-      "url": "https://appleinsider.com/articles/26/06/12/how-and-when-macos-will-finally-stop-support-for-intel-apps?utm_source=rss",
-      "pubDate": "2026-06-12T15:13:58.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Notion Is Migrating to SwiftUI, Apple Confirms at WWDC",
-      "url": "https://www.macrumors.com/2026/06/12/notion-is-migrating-to-swiftui/",
-      "pubDate": "2026-06-12T15:10:34.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "WWDC 2026: No, Tahoe—yes, Golden Gate",
       "url": "https://sixcolors.com/post/2026/06/wwdc-2026-no-tahoe-yes-golden-gate/",
       "pubDate": "2026-06-12T15:00:03.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple to Release These 15 New Products Later This Year",
-      "url": "https://www.macrumors.com/2026/06/12/15-new-apple-products-rumored/",
-      "pubDate": "2026-06-12T14:45:12.000Z"
     },
     {
       "source": "Six Colors",
