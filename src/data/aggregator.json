@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T21:20:03.562Z",
+  "generatedAt": "2026-06-16T23:48:59.871Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,41 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Here's What's New With Visual Intelligence in iOS 27",
+      "url": "https://www.macrumors.com/guide/ios-27-visual-intelligence/",
+      "pubDate": "2026-06-16T23:33:30.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Nimble's SharePower Is a 10,000mAh Power Bank That Splits in Two",
+      "url": "https://www.macrumors.com/2026/06/16/nimble-sharepower/",
+      "pubDate": "2026-06-16T23:00:47.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iPhone part factory in India no longer in danger of shutting down",
+      "url": "https://appleinsider.com/articles/26/06/16/iphone-part-factory-in-india-no-longer-in-danger-of-shutting-down?utm_source=rss",
+      "pubDate": "2026-06-16T22:44:47.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: June 16, 2026 – New Screen Time and Child Safety features",
+      "url": "https://9to5mac.com/2026/06/16/daily-june-16-2026/",
+      "pubDate": "2026-06-16T22:31:16.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "WhatsApp working on yet another ephemeral feature on iOS",
+      "url": "https://9to5mac.com/2026/06/16/whatsapp-working-on-yet-another-ephemeral-feature-on-ios/",
+      "pubDate": "2026-06-16T21:52:00.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -185,20 +220,6 @@
       "pubDate": "2026-06-16T17:19:35.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "macOS 26.6 beta 2 rolling out now, plus iPadOS 26.6, watchOS 26.6, tvOS 26.6, more [U: Public]",
-      "url": "https://9to5mac.com/2026/06/16/macos-26-6-beta-2-rolling-out-now-plus-ipados-26-6-watchos-26-6-tvos-26-6-more/",
-      "pubDate": "2026-06-16T17:19:31.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple releases iOS 26.6 beta 2 for iPhone, here’s what to expect [U]",
-      "url": "https://9to5mac.com/2026/06/16/apple-releases-ios-26-6-beta-2-for-iphone-heres-what-to-expect/",
-      "pubDate": "2026-06-16T17:18:57.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Seeds Second Public Betas of iOS 26.6, macOS Tahoe 26.6 and More",
@@ -283,20 +304,6 @@
       "pubDate": "2026-06-16T16:25:24.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27 Revamps App Icons With Sharper Liquid Glass Layers",
-      "url": "https://www.macrumors.com/2026/06/16/ios-27-revamps-app-icons/",
-      "pubDate": "2026-06-16T16:18:40.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Walt Disney World to Offer iOS 27's Upgraded Apple Wallet Key Feature",
-      "url": "https://www.macrumors.com/2026/06/16/disney-world-ios-27-apple-wallet/",
-      "pubDate": "2026-06-16T16:02:24.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Amazon slashes M5 MacBook Air with 24GB RAM, 1TB SSD to $1,329",
@@ -330,13 +337,6 @@
       "title": "How to run Minecraft: Bedrock Edition on a Mac",
       "url": "https://appleinsider.com/articles/26/06/16/how-to-run-minecraft-bedrock-edition-on-a-mac?utm_source=rss",
       "pubDate": "2026-06-16T03:02:50.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Game development diary: Running on Steam",
-      "url": "https://appleinsider.com/articles/26/06/15/game-development-diary-running-on-steam?utm_source=rss",
-      "pubDate": "2026-06-15T18:35:11.000Z"
     },
     {
       "source": "Six Colors",
