@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T05:35:02.546Z",
+  "generatedAt": "2026-06-16T11:35:18.218Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,83 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Apple’s weird anti-nausea dots cured my car sickness",
+      "url": "https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work",
+      "pubDate": "2026-06-16T11:30:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Faces First Italian DMA Probe on iCloud Interoperability",
+      "url": "https://www.macrumors.com/2026/06/16/apple-faces-first-italian-dma-probe-icloud/",
+      "pubDate": "2026-06-16T11:29:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Reports of iPhone Ultra launch delays are ‘false,’ says leaker",
+      "url": "https://9to5mac.com/2026/06/16/reports-of-iphone-ultra-launch-delays-are-false-says-leaker/",
+      "pubDate": "2026-06-16T11:01:13.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Lenovo’s next tablet has a thick speaker bump and an upgraded kickstand",
+      "url": "https://www.theverge.com/tech/949617/lenovo-tab-plus-gen-2-tablet-9-speakers-bluetooth-android-kickstand",
+      "pubDate": "2026-06-16T11:01:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Kodak’s collectible Charmera camera is getting new Y2K-inspired designs",
+      "url": "https://www.theverge.com/tech/949664/kodak-charmera-digital-camera-millennium-edition-collectible",
+      "pubDate": "2026-06-16T11:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Half a billion people are using Threads every month",
+      "url": "https://www.theverge.com/tech/950480/meta-threads-500-million-monthly-active-users-communities-your-algo",
+      "pubDate": "2026-06-16T11:00:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Strident leaker insists iPhone Fold is not delayed at all",
+      "url": "https://appleinsider.com/articles/26/06/16/strident-leaker-insists-iphone-fold-is-not-delayed-at-all?utm_source=rss",
+      "pubDate": "2026-06-16T10:48:54.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone 18 to Pack 12GB of RAM for Smarter Siri Features, No Price Bump",
+      "url": "https://www.macrumors.com/2026/06/16/iphone-18-to-pack-12gb-of-ram/",
+      "pubDate": "2026-06-16T10:34:57.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple @ Work Podcast: Leebry aims to unify your SaaS tools for AI use",
+      "url": "https://9to5mac.com/2026/06/16/apple-work-podcast-leebry-aims-to-unify-your-saas-tools-for-ai-usage/",
+      "pubDate": "2026-06-16T10:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Foldable iPhone Delay Rumors Are 'False,' Leaker Claims",
+      "url": "https://www.macrumors.com/2026/06/16/foldable-iphone-delay-rumors-false-leaker/",
+      "pubDate": "2026-06-16T09:28:29.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "After resurrecting an iconic PC brand, Commodore is getting into flip phones",
+      "url": "https://www.theverge.com/tech/950190/commodore-callback-flip-phone",
+      "pubDate": "2026-06-16T09:00:00.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -150,25 +227,11 @@
       "pubDate": "2026-06-15T20:04:25.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple rolls out RC builds for upcoming macOS Sonoma and macOS Sequoia updates",
-      "url": "https://9to5mac.com/2026/06/15/apple-rolls-out-rc-builds-for-upcoming-macos-sonoma-and-macos-sequoia-updates/",
-      "pubDate": "2026-06-15T19:43:30.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Amazon&#8217;s Smart Thermostat is on sale for just $58",
       "url": "https://www.theverge.com/gadgets/950043/amazon-smart-thermostat-early-prime-day-deal-sale",
       "pubDate": "2026-06-15T19:33:28.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple explains why Siri’s major iOS 27 overhaul took so long",
-      "url": "https://9to5mac.com/2026/06/15/apple-explains-why-siris-major-ios-27-overhaul-took-so-long/",
-      "pubDate": "2026-06-15T19:19:37.000Z"
     },
     {
       "source": "MacRumors",
@@ -178,39 +241,11 @@
       "pubDate": "2026-06-15T19:07:29.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "All the news about Anthropic&#8217;s new AI fight with the White House",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
-      "pubDate": "2026-06-15T19:04:53.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The best early Amazon Prime Day deals so far",
-      "url": "https://www.theverge.com/gadgets/944084/best-early-prime-day-deals",
-      "pubDate": "2026-06-15T18:39:37.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Game development diary: Running on Steam",
       "url": "https://appleinsider.com/articles/26/06/15/game-development-diary-running-on-steam?utm_source=rss",
       "pubDate": "2026-06-15T18:35:11.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Trump’s Anthropic shutdown just made the case for non-American AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
-      "pubDate": "2026-06-15T18:10:27.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Google Chrome is closing the loopholes that let old ad blockers keep working",
-      "url": "https://www.theverge.com/tech/950005/google-chrome-removing-ad-blocker-loopholes",
-      "pubDate": "2026-06-15T18:06:18.000Z"
     },
     {
       "source": "MacRumors",
@@ -232,13 +267,6 @@
       "title": "(Podcast) Upgrade 622: It’s Doing It!",
       "url": "https://sixcolors.com/podcast/2026/06/upgrade-622-its-doing-it/",
       "pubDate": "2026-06-15T17:48:50.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Big Tech’s desperate last push at AI regulation",
-      "url": "https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress",
-      "pubDate": "2026-06-15T17:44:10.000Z"
     },
     {
       "source": "AppleInsider",
@@ -297,13 +325,6 @@
       "pubDate": "2026-06-15T16:00:37.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Philips Hue and WiZ Launch Sports Live Feature for the 2026 World Cup",
-      "url": "https://www.macrumors.com/2026/06/15/philips-hue-and-wiz-launch-sports-live-feature/",
-      "pubDate": "2026-06-15T15:38:21.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "iPhone 18 Pro buyers should watch out for a repeat problem",
@@ -325,13 +346,6 @@
       "pubDate": "2026-06-15T14:42:26.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Watch Ultra 3 Drops to $699.99 Ahead of Prime Day",
-      "url": "https://www.macrumors.com/2026/06/15/apple-watch-ultra-3-drops-699/",
-      "pubDate": "2026-06-15T13:52:34.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "India threatens to shut down iPhone factory for polluting farmland",
@@ -344,20 +358,6 @@
       "title": "WWDC 2026 Apple Home, Apple TV, & HomePod news roundup on Smart Home Insider",
       "url": "https://appleinsider.com/articles/26/06/15/wwdc-2026-apple-home-apple-tv-homepod-news-roundup-on-smart-home-insider?utm_source=rss",
       "pubDate": "2026-06-15T13:23:28.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Leaker Warns iPhone 18 Pro New Colors May Face Same Durability Issues",
-      "url": "https://www.macrumors.com/2026/06/15/iphone-18-pro-may-face-same-durability-issues/",
-      "pubDate": "2026-06-15T12:56:50.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Beats continues World Cup tease of its mystery headphones",
-      "url": "https://appleinsider.com/articles/26/06/15/beats-continues-world-cup-tease-of-its-mystery-headphones?utm_source=rss",
-      "pubDate": "2026-06-15T12:03:57.000Z"
     },
     {
       "source": "Six Colors",
