@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T21:23:44.538Z",
+  "generatedAt": "2026-06-16T00:02:45.260Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,55 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Still seeing ‘Indexing in Progress’ on iOS 27? Here’s how to check the actual status",
+      "url": "https://9to5mac.com/2026/06/15/still-seeing-indexing-in-progress-on-ios-27-heres-how-to-check-the-actual-status/",
+      "pubDate": "2026-06-15T23:57:30.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: June 15, 2026 – More iOS 27 features and changes",
+      "url": "https://9to5mac.com/2026/06/15/daily-june-15-2026/",
+      "pubDate": "2026-06-15T23:35:10.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Siri AI in iOS 27: Features, Requirements, and How It Works",
+      "url": "https://www.macrumors.com/guide/ios-27-siri/",
+      "pubDate": "2026-06-15T23:17:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple to Unify Sign in With Apple and Hide My Email on One Domain",
+      "url": "https://www.macrumors.com/2026/06/15/apple-private-icloud-email-domain/",
+      "pubDate": "2026-06-15T22:56:50.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "WhatsApp Web extends voice and video calls test to group chats",
+      "url": "https://9to5mac.com/2026/06/15/whatsapp-web-extends-voice-and-video-calls-test-to-group-chats/",
+      "pubDate": "2026-06-15T21:56:39.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Card Promo Doubles Daily Cash Back on Nike Purchases",
+      "url": "https://www.macrumors.com/2026/06/15/apple-card-nike-promo-2026/",
+      "pubDate": "2026-06-15T21:45:19.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple among companies ordered to pay nearly $60 million in Brazil over loot boxes",
+      "url": "https://9to5mac.com/2026/06/15/apple-among-companies-ordered-to-pay-nearly-60-million-in-brazil-over-loot-boxes/",
+      "pubDate": "2026-06-15T21:30:17.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -185,25 +234,11 @@
       "pubDate": "2026-06-15T17:25:05.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 26.5.2 update likely coming soon for iPhone users",
-      "url": "https://9to5mac.com/2026/06/15/ios-26-5-2-update-likely-coming-soon-for-iphone-users/",
-      "pubDate": "2026-06-15T17:16:04.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Second macOS Tahoe 26.6 Beta Now Available for Developers",
       "url": "https://www.macrumors.com/2026/06/15/apple-seeds-macos-tahoe-26-6-beta-2/",
       "pubDate": "2026-06-15T17:09:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "macOS 26.6 beta 2 rolling out now, plus iPadOS 26.6, watchOS 26.6, tvOS 26.6, more",
-      "url": "https://9to5mac.com/2026/06/15/macos-26-6-beta-2-rolling-out-now-plus-ipados-26-6-watchos-26-6-tvos-26-6-more/",
-      "pubDate": "2026-06-15T17:08:46.000Z"
     },
     {
       "source": "The Verge",
@@ -218,13 +253,6 @@
       "title": "Apple Seeds Second iOS 26.6 and iPadOS 26.6 Betas to Developers",
       "url": "https://www.macrumors.com/2026/06/15/apple-releases-ios-26-6-beta-2/",
       "pubDate": "2026-06-15T17:07:51.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple releases iOS 26.6 beta 2 for iPhone, here’s what to expect",
-      "url": "https://9to5mac.com/2026/06/15/apple-releases-ios-26-6-beta-2-for-iphone-heres-what-to-expect/",
-      "pubDate": "2026-06-15T17:06:01.000Z"
     },
     {
       "source": "MacRumors",
@@ -246,13 +274,6 @@
       "title": "Adobe crams more AI into Lightroom, Premiere, Photoshop, After Effects",
       "url": "https://appleinsider.com/articles/26/06/15/adobe-crams-more-ai-into-lightroom-premiere-photoshop-after-effects?utm_source=rss",
       "pubDate": "2026-06-15T16:23:16.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Chase adds free Apple TV, discounted Apple One benefit to popular credit card",
-      "url": "https://9to5mac.com/2026/06/15/chase-adds-free-apple-tv-discounted-apple-one-benefit-to-popular-credit-card/",
-      "pubDate": "2026-06-15T16:06:24.000Z"
     },
     {
       "source": "Six Colors",
@@ -325,25 +346,11 @@
       "pubDate": "2026-06-15T12:56:50.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Adds Personalized Recommendations and New Marketing Tools to the App Store",
-      "url": "https://www.macrumors.com/2026/06/15/app-store-gains-personalized-recommendations/",
-      "pubDate": "2026-06-15T12:18:14.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Beats continues World Cup tease of its mystery headphones",
       "url": "https://appleinsider.com/articles/26/06/15/beats-continues-world-cup-tease-of-its-mystery-headphones?utm_source=rss",
       "pubDate": "2026-06-15T12:03:57.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "These Three Unannounced iOS 27 and watchOS 27 Features Are Still Coming",
-      "url": "https://www.macrumors.com/2026/06/15/three-unannounced-ios-27-features-are-still-coming/",
-      "pubDate": "2026-06-15T11:26:48.000Z"
     },
     {
       "source": "AppleInsider",
@@ -358,13 +365,6 @@
       "title": "Here we go again: Supply chain thinks iPhone Fold will ship in 2027, not 2026",
       "url": "https://appleinsider.com/articles/26/06/15/here-we-go-again-supply-chain-thinks-iphone-fold-will-ship-in-2027-not-2026?utm_source=rss",
       "pubDate": "2026-06-15T11:08:22.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Could Build an OpenClaw Competitor Eventually",
-      "url": "https://www.macrumors.com/2026/06/15/apple-could-build-an-openclaw-competitor/",
-      "pubDate": "2026-06-15T10:47:37.000Z"
     },
     {
       "source": "Six Colors",
