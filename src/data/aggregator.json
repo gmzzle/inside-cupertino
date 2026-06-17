@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T23:48:59.871Z",
+  "generatedAt": "2026-06-17T05:17:23.614Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple releases Beats Studio Buds firmware update with important microphone security fix",
+      "url": "https://9to5mac.com/2026/06/16/apple-releases-beats-studio-buds-firmware-update-with-important-microphone-security-fix/",
+      "pubDate": "2026-06-16T23:58:18.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -204,13 +211,6 @@
       "title": "iPhone's 20th anniversary could be marked with an iPhone Fold 2, plus AirPods with cameras",
       "url": "https://appleinsider.com/articles/26/06/16/iphones-20th-anniversary-could-be-marked-with-an-updated-iphone-fold-plus-airpods-with-cameras?utm_source=rss",
       "pubDate": "2026-06-16T17:56:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Siri AI hints at new iPhone 18 Pro design change",
-      "url": "https://9to5mac.com/2026/06/16/siri-ai-hints-at-new-iphone-18-pro-design-change/",
-      "pubDate": "2026-06-16T17:32:37.000Z"
     },
     {
       "source": "The Verge",
