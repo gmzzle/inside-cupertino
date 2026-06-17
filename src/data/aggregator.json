@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T16:05:23.586Z",
+  "generatedAt": "2026-06-17T18:35:18.368Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,97 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Matter 1.6 Announced With NFC Setup, Cross-Ecosystem Device Sharing, and Smarter Thermostats",
+      "url": "https://www.macrumors.com/2026/06/17/matter-1-6-specification/",
+      "pubDate": "2026-06-17T18:29:40.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Anthropic got hit by export rules nobody understands",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
+      "pubDate": "2026-06-17T18:28:50.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "You Can Easily Install the iOS 27 Beta For Free Right Now, Here's How",
+      "url": "https://www.macrumors.com/2026/06/17/install-ios-27-developer-beta-free/",
+      "pubDate": "2026-06-17T18:05:26.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Blink has a big speed advantage against WebKit in browser tests",
+      "url": "https://appleinsider.com/articles/26/06/17/blink-has-a-big-speed-advantage-against-webkit-in-browser-tests?utm_source=rss",
+      "pubDate": "2026-06-17T17:49:47.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple’s new software drops support for these 16 products",
+      "url": "https://9to5mac.com/2026/06/17/apples-new-software-drops-support-for-these-16-products/",
+      "pubDate": "2026-06-17T17:44:22.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iPhone users can now join the 'Pokemon Champions' fray",
+      "url": "https://appleinsider.com/articles/26/06/17/iphone-users-can-now-join-the-pokemon-champions-fray?utm_source=rss",
+      "pubDate": "2026-06-17T17:29:26.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Two-thirds of Americans think AI is advancing too quickly",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly",
+      "pubDate": "2026-06-17T17:20:24.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iOS 27 Adds Four New Features to Notes App, Including Markdown Copy-and-Paste",
+      "url": "https://www.macrumors.com/2026/06/17/ios-27-apple-notes-app-new-features/",
+      "pubDate": "2026-06-17T17:11:40.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Siri AI will make the Apple Watch a fully-fledged AI wearable in watchOS 27",
+      "url": "https://9to5mac.com/2026/06/17/siri-ai-will-make-the-apple-watch-a-fully-fledged-ai-wearable-in-watchos-27/",
+      "pubDate": "2026-06-17T17:11:14.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The Echo Dot Max is cheaper than ever in an early Prime Day sale",
+      "url": "https://www.theverge.com/gadgets/951602/amazon-echo-dot-max-early-prime-day-deal-sale",
+      "pubDate": "2026-06-17T16:47:43.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Vibe-decoding the White House-Anthropic fight over Fable",
+      "url": "https://www.theverge.com/column/951516/trump-anthropic-feud-mythos-fable-white-house",
+      "pubDate": "2026-06-17T16:27:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's WebKit Rules Reportedly Cost iOS Users Almost 30% Browser Performance",
+      "url": "https://www.macrumors.com/2026/06/17/webkit-rule-costs-ios-users-browser-performance/",
+      "pubDate": "2026-06-17T16:14:41.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Can anyone look cool wearing Snap’s $2,000 glasses?",
+      "url": "https://www.theverge.com/report/951481/snap-specs-wearables-smart-glasses-fashion",
+      "pubDate": "2026-06-17T16:13:34.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -129,20 +220,6 @@
       "pubDate": "2026-06-17T14:04:29.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "How to find the best deals during Amazon’s Prime Day sale",
-      "url": "https://www.theverge.com/21502865/amazon-prime-day-best-deals-how-to-find",
-      "pubDate": "2026-06-17T14:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "In Toy Story 5, the problem really is these damn phones (and tablets)",
-      "url": "https://www.theverge.com/entertainment/950739/toy-story-5-review",
-      "pubDate": "2026-06-17T14:00:00.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "iA Writer 8 brings Liquid Glass design, clear icon support, more",
@@ -171,25 +248,11 @@
       "pubDate": "2026-06-17T13:40:39.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "AI search grounded in Facebook posts? What could go wrong?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/951099/meta-ai-mode-search-hands-on",
-      "pubDate": "2026-06-17T13:30:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple 'Records Every Tap' in App Store to Filter New Personalized Recommendations Feature",
       "url": "https://www.macrumors.com/2026/06/17/apple-records-every-tap-app-store-personal/",
       "pubDate": "2026-06-17T13:27:17.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The best Apple deals you can already get ahead of Prime Day",
-      "url": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
-      "pubDate": "2026-06-17T13:21:15.000Z"
     },
     {
       "source": "AppleInsider",
@@ -203,13 +266,6 @@
       "sourceHomepage": "https://9to5mac.com",
       "title": "Jamf announces new native AI Governance control plane for macOS",
       "url": "https://9to5mac.com/2026/06/17/jamf-launches-native-ai-governance-control-plane-for-macos/",
-      "pubDate": "2026-06-17T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Got Thread problems? There’s an app for that",
-      "url": "https://www.theverge.com/tech/949001/thread-network-diagnostic-tools-app-troubleshooting-matter-smart-home",
       "pubDate": "2026-06-17T13:00:00.000Z"
     },
     {
@@ -232,20 +288,6 @@
       "title": "Matter 1.6 and Product Security 1.1 officially announced, here’s what’s new",
       "url": "https://9to5mac.com/2026/06/17/matter-1-6-and-product-security-1-1-officially-announced-heres-whats-new/",
       "pubDate": "2026-06-17T12:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Feature Request: Apple Intelligence provides a new opportunity to block junk notifications",
-      "url": "https://9to5mac.com/2026/06/17/feature-request-apple-intelligence-provides-a-new-opportunity-to-block-junk-notifications/",
-      "pubDate": "2026-06-17T11:47:15.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "AirPods Pro 3 drop to a record-low $169 ahead of Prime Day (Reg. $249)",
-      "url": "https://9to5mac.com/2026/06/17/airpods-pro-3-drop-to-their-best-price-ever-as-apple-announces-new-ios-27-features/",
-      "pubDate": "2026-06-17T11:45:47.000Z"
     },
     {
       "source": "AppleInsider",
@@ -276,32 +318,11 @@
       "pubDate": "2026-06-16T23:33:30.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Nimble's SharePower Is a 10,000mAh Power Bank That Splits in Two",
-      "url": "https://www.macrumors.com/2026/06/16/nimble-sharepower/",
-      "pubDate": "2026-06-16T23:00:47.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "iPhone part factory in India no longer in danger of shutting down",
       "url": "https://appleinsider.com/articles/26/06/16/iphone-part-factory-in-india-no-longer-in-danger-of-shutting-down?utm_source=rss",
       "pubDate": "2026-06-16T22:44:47.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Beats Studio Buds Firmware Update Patches Bluetooth Vulnerability",
-      "url": "https://www.macrumors.com/2026/06/16/beats-studio-buds-bluetooth-vulnerability/",
-      "pubDate": "2026-06-16T20:19:45.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Just Added New Accessories, Including Thinnest-Ever PopSockets",
-      "url": "https://www.macrumors.com/2026/06/16/apple-just-added-new-accessories/",
-      "pubDate": "2026-06-16T19:42:26.000Z"
     },
     {
       "source": "AppleInsider",
@@ -316,27 +337,6 @@
       "title": "AirPods Pro & Beats Studio Buds move to new firmware versions",
       "url": "https://appleinsider.com/articles/26/06/16/airpods-pro-beats-studio-buds-move-to-new-firmware-versions?utm_source=rss",
       "pubDate": "2026-06-16T19:11:58.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Watch Activity Challenge for International Day of Yoga Coming June 21",
-      "url": "https://www.macrumors.com/2026/06/16/apple-watch-challenge-yoga-day-2026/",
-      "pubDate": "2026-06-16T18:55:25.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPhone's 20th anniversary could be marked with an iPhone Fold 2, plus AirPods with cameras",
-      "url": "https://appleinsider.com/articles/26/06/16/iphones-20th-anniversary-could-be-marked-with-an-updated-iphone-fold-plus-airpods-with-cameras?utm_source=rss",
-      "pubDate": "2026-06-16T17:56:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Adobe's glowing AI survey leaves out most of the creative industry",
-      "url": "https://appleinsider.com/articles/26/06/16/adobes-glowing-ai-survey-leaves-out-most-of-the-creative-industry?utm_source=rss",
-      "pubDate": "2026-06-16T17:18:13.000Z"
     },
     {
       "source": "Six Colors",
