@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T05:17:23.614Z",
+  "generatedAt": "2026-06-17T11:17:44.987Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,41 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apps can help you learn an instrument, but they're not enough",
+      "url": "https://appleinsider.com/articles/26/06/17/apps-can-help-you-learn-an-instrument-but-theyre-not-enough?utm_source=rss",
+      "pubDate": "2026-06-17T11:07:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple collects every tap to deliver App Store personalized recommendations",
+      "url": "https://9to5mac.com/2026/06/17/apple-collects-every-tap-to-deliver-app-store-personalized-recommendations/",
+      "pubDate": "2026-06-17T10:57:07.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple TV Time-Limited Deal: $5.99/Month for Amazon Prime Members",
+      "url": "https://www.macrumors.com/2026/06/17/apple-tv-promo-deal-amazon-prime/",
+      "pubDate": "2026-06-17T10:04:20.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The next humanoid robot might not look human at all",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno",
+      "pubDate": "2026-06-17T09:46:56.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "WhatsApp Working on View-Once Text Messages for iPhone",
+      "url": "https://www.macrumors.com/2026/06/17/whatsapp-view-once-text-messages-iphone/",
+      "pubDate": "2026-06-17T08:48:06.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -192,13 +227,6 @@
       "pubDate": "2026-06-16T18:00:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Microsoft just gave Outlook for Mac an ‘app-wide’ Liquid Glass update",
-      "url": "https://9to5mac.com/2026/06/16/microsoft-just-gave-outlook-for-mac-an-app-wide-liquid-glass-update/",
-      "pubDate": "2026-06-16T17:59:30.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Snap Launches $2,195 'Specs' Augmented Reality Glasses",
@@ -276,32 +304,11 @@
       "pubDate": "2026-06-16T17:00:00.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple's 20th Anniversary iPhones to Come in Two Sizes, Will Launch Alongside Gen 2 Foldable iPhone",
-      "url": "https://www.macrumors.com/2026/06/16/20th-anniversary-iphone-size-options/",
-      "pubDate": "2026-06-16T16:50:00.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Snap is finally about to ship AR glasses — and they cost a fortune",
       "url": "https://www.theverge.com/tech/950492/snap-specs-ar-glasses-launch-date-preorder",
       "pubDate": "2026-06-16T16:50:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Everything you need to know about Prime Day 2026",
-      "url": "https://www.theverge.com/gadgets/945942/prime-day-2026-frequently-asked-questions",
-      "pubDate": "2026-06-16T16:31:40.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple's Camera-Equipped AirPods Coming in Late 2027 Alongside 20th Anniversary iPhone",
-      "url": "https://www.macrumors.com/2026/06/16/airpods-camera-late-2027/",
-      "pubDate": "2026-06-16T16:25:24.000Z"
     },
     {
       "source": "AppleInsider",
@@ -330,13 +337,6 @@
       "title": "Strident leaker insists iPhone Fold is not delayed at all",
       "url": "https://appleinsider.com/articles/26/06/16/strident-leaker-insists-iphone-fold-is-not-delayed-at-all?utm_source=rss",
       "pubDate": "2026-06-16T10:48:54.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "How to run Minecraft: Bedrock Edition on a Mac",
-      "url": "https://appleinsider.com/articles/26/06/16/how-to-run-minecraft-bedrock-edition-on-a-mac?utm_source=rss",
-      "pubDate": "2026-06-16T03:02:50.000Z"
     },
     {
       "source": "Six Colors",
