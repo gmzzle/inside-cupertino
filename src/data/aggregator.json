@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T11:17:44.987Z",
+  "generatedAt": "2026-06-17T16:05:23.586Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -26,16 +26,233 @@
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
-      "title": "Apps can help you learn an instrument, but they're not enough",
-      "url": "https://appleinsider.com/articles/26/06/17/apps-can-help-you-learn-an-instrument-but-theyre-not-enough?utm_source=rss",
-      "pubDate": "2026-06-17T11:07:00.000Z"
+      "title": "Sign in with Apple domain consolidation could trip up unprepared services",
+      "url": "https://appleinsider.com/articles/26/06/17/sign-in-with-apple-domain-consolidation-could-trip-up-unprepared-services?utm_source=rss",
+      "pubDate": "2026-06-17T16:00:07.000Z"
     },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple collects every tap to deliver App Store personalized recommendations",
-      "url": "https://9to5mac.com/2026/06/17/apple-collects-every-tap-to-deliver-app-store-personalized-recommendations/",
-      "pubDate": "2026-06-17T10:57:07.000Z"
+      "title": "Apple Weather gets two brand new features in iOS 27",
+      "url": "https://9to5mac.com/2026/06/17/apple-weather-gets-two-brand-new-features-in-ios-27/",
+      "pubDate": "2026-06-17T15:58:28.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "We got free GTA V upgrades before GTA VI",
+      "url": "https://www.theverge.com/games/951533/gta-v-ps5-xbox-series-x-upgrade",
+      "pubDate": "2026-06-17T15:45:36.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "AirPods Pro 3 hit lowest price ever at $169 ahead of Amazon Prime Day",
+      "url": "https://appleinsider.com/articles/26/06/17/airpods-pro-3-hit-lowest-price-ever-at-169-ahead-of-amazon-prime-day?utm_source=rss",
+      "pubDate": "2026-06-17T15:37:56.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "SanDisk’s new PlayStation 5 SSD will cost you more than three PS5 Pros",
+      "url": "https://www.theverge.com/tech/951527/sandisk-optimus-gx-pro-850p-nvme-ssd-8tb-ps5-playstation-sony",
+      "pubDate": "2026-06-17T15:34:29.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 makes your iPhone faster in 40+ ways, here’s the full list",
+      "url": "https://9to5mac.com/2026/06/17/ios-27-makes-your-iphone-faster-in-40-ways-heres-the-full-list/",
+      "pubDate": "2026-06-17T15:33:27.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Deals: AirPods Pro 3 best price ever at $80 off in early Prime Day sale, Apple Watch Ultra/Series 11 up to $160 off, more",
+      "url": "https://9to5mac.com/2026/06/17/airpods-pro-3-best-price-prime-day/",
+      "pubDate": "2026-06-17T15:21:47.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple One is getting better in iOS 27, here’s what’s new",
+      "url": "https://9to5mac.com/2026/06/17/apple-one-is-getting-better-in-ios-27-heres-whats-new/",
+      "pubDate": "2026-06-17T14:59:23.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's App Store search data stores every single keystroke",
+      "url": "https://appleinsider.com/articles/26/06/17/apples-app-store-search-data-stores-every-single-keystroke?utm_source=rss",
+      "pubDate": "2026-06-17T14:58:56.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Powerbeats Pro 2 Available for $199.95 Low Price, Plus More Early Prime Day Deals on Beats",
+      "url": "https://www.macrumors.com/2026/06/17/powerbeats-pro-2-early-prime-day/",
+      "pubDate": "2026-06-17T14:52:35.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's New Hide My Email Domain Makes It Easier to Block iCloud Aliases",
+      "url": "https://www.macrumors.com/2026/06/17/new-hide-my-email-domain-makes-it-easier-to-block/",
+      "pubDate": "2026-06-17T14:41:01.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Paramount Plus is two dollars for two months of ad-free viewing",
+      "url": "https://www.theverge.com/gadgets/950929/paramount-plus-two-month-deal-sale",
+      "pubDate": "2026-06-17T14:30:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "In a big year for horror, Widow’s Bay still stands apart",
+      "url": "https://www.theverge.com/entertainment/951391/widows-bay-season-1-finale-apple-tv-horror",
+      "pubDate": "2026-06-17T14:30:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The best early Amazon Prime Day deals so far",
+      "url": "https://www.theverge.com/gadgets/944084/best-early-prime-day-deals",
+      "pubDate": "2026-06-17T14:12:57.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "AirPods Pro 3 Drops to Record Low $169 on Amazon Ahead of Prime Day",
+      "url": "https://www.macrumors.com/2026/06/17/airpods-pro-3-new-low-price-of-169/",
+      "pubDate": "2026-06-17T14:04:29.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "How to find the best deals during Amazon’s Prime Day sale",
+      "url": "https://www.theverge.com/21502865/amazon-prime-day-best-deals-how-to-find",
+      "pubDate": "2026-06-17T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "In Toy Story 5, the problem really is these damn phones (and tablets)",
+      "url": "https://www.theverge.com/entertainment/950739/toy-story-5-review",
+      "pubDate": "2026-06-17T14:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iA Writer 8 brings Liquid Glass design, clear icon support, more",
+      "url": "https://9to5mac.com/2026/06/17/ia-writer-8-brings-liquid-glass-design-clear-icon-support-more/",
+      "pubDate": "2026-06-17T13:48:50.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "macOS 27 Golden Gate Kills Time Capsule Support",
+      "url": "https://www.macrumors.com/2026/06/17/macos-27-golden-gate-kills-time-capsule-support/",
+      "pubDate": "2026-06-17T13:47:52.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Widow’s Bay creator explains finale twists, teases season 2 plans",
+      "url": "https://9to5mac.com/2026/06/17/widows-bay-creator-explains-finale-twists-teases-season-2-plans/",
+      "pubDate": "2026-06-17T13:43:56.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Android 17 can copy more data from iPhone including your iMessage history and homescreen",
+      "url": "https://9to5google.com/2026/06/17/android-17-iphone-switching-upgrades/",
+      "pubDate": "2026-06-17T13:40:39.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "AI search grounded in Facebook posts? What could go wrong?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/951099/meta-ai-mode-search-hands-on",
+      "pubDate": "2026-06-17T13:30:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple 'Records Every Tap' in App Store to Filter New Personalized Recommendations Feature",
+      "url": "https://www.macrumors.com/2026/06/17/apple-records-every-tap-app-store-personal/",
+      "pubDate": "2026-06-17T13:27:17.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The best Apple deals you can already get ahead of Prime Day",
+      "url": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
+      "pubDate": "2026-06-17T13:21:15.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Home automation setup will be even easier thanks to Matter 1.6",
+      "url": "https://appleinsider.com/articles/26/06/17/home-automation-setup-will-be-even-easier-thanks-to-matter-16?utm_source=rss",
+      "pubDate": "2026-06-17T13:07:56.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Jamf announces new native AI Governance control plane for macOS",
+      "url": "https://9to5mac.com/2026/06/17/jamf-launches-native-ai-governance-control-plane-for-macos/",
+      "pubDate": "2026-06-17T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Got Thread problems? There’s an app for that",
+      "url": "https://www.theverge.com/tech/949001/thread-network-diagnostic-tools-app-troubleshooting-matter-smart-home",
+      "pubDate": "2026-06-17T13:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Seeing Siri AI in action has me excited for the future",
+      "url": "https://9to5mac.com/2026/06/17/seeing-siri-ai-in-action-has-me-excited-for-the-future/",
+      "pubDate": "2026-06-17T12:47:53.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's Silicon Valley real estate assets gain a $162M office building",
+      "url": "https://appleinsider.com/articles/26/06/17/apples-silicon-valley-real-estate-assets-gain-a-162m-office-building?utm_source=rss",
+      "pubDate": "2026-06-17T12:04:13.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Matter 1.6 and Product Security 1.1 officially announced, here’s what’s new",
+      "url": "https://9to5mac.com/2026/06/17/matter-1-6-and-product-security-1-1-officially-announced-heres-whats-new/",
+      "pubDate": "2026-06-17T12:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Feature Request: Apple Intelligence provides a new opportunity to block junk notifications",
+      "url": "https://9to5mac.com/2026/06/17/feature-request-apple-intelligence-provides-a-new-opportunity-to-block-junk-notifications/",
+      "pubDate": "2026-06-17T11:47:15.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "AirPods Pro 3 drop to a record-low $169 ahead of Prime Day (Reg. $249)",
+      "url": "https://9to5mac.com/2026/06/17/airpods-pro-3-drop-to-their-best-price-ever-as-apple-announces-new-ios-27-features/",
+      "pubDate": "2026-06-17T11:45:47.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apps can help you learn an instrument, but they're not enough",
+      "url": "https://appleinsider.com/articles/26/06/17/apps-can-help-you-learn-an-instrument-but-theyre-not-enough?utm_source=rss",
+      "pubDate": "2026-06-17T11:07:00.000Z"
     },
     {
       "source": "MacRumors",
@@ -45,25 +262,11 @@
       "pubDate": "2026-06-17T10:04:20.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The next humanoid robot might not look human at all",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno",
-      "pubDate": "2026-06-17T09:46:56.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "WhatsApp Working on View-Once Text Messages for iPhone",
       "url": "https://www.macrumors.com/2026/06/17/whatsapp-view-once-text-messages-iphone/",
       "pubDate": "2026-06-17T08:48:06.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple releases Beats Studio Buds firmware update with important microphone security fix",
-      "url": "https://9to5mac.com/2026/06/16/apple-releases-beats-studio-buds-firmware-update-with-important-microphone-security-fix/",
-      "pubDate": "2026-06-16T23:58:18.000Z"
     },
     {
       "source": "MacRumors",
@@ -87,60 +290,11 @@
       "pubDate": "2026-06-16T22:44:47.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: June 16, 2026 – New Screen Time and Child Safety features",
-      "url": "https://9to5mac.com/2026/06/16/daily-june-16-2026/",
-      "pubDate": "2026-06-16T22:31:16.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "WhatsApp working on yet another ephemeral feature on iOS",
-      "url": "https://9to5mac.com/2026/06/16/whatsapp-working-on-yet-another-ephemeral-feature-on-ios/",
-      "pubDate": "2026-06-16T21:52:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple supplier Tata avoids regulatory action after pollution warning in India",
-      "url": "https://9to5mac.com/2026/06/16/apple-supplier-tata-avoids-regulatory-action-after-pollution-warning-in-india/",
-      "pubDate": "2026-06-16T21:18:47.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple has started replacing macOS names with version numbers in several ways",
-      "url": "https://9to5mac.com/2026/06/16/apple-has-started-replacing-macos-names-with-version-numbers-in-several-ways/",
-      "pubDate": "2026-06-16T20:41:24.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "MyFitnessPal adds AI-powered Coach for personalized nutrition guidance",
-      "url": "https://9to5mac.com/2026/06/16/myfitnesspal-adds-ai-powered-coach-for-personalized-nutrition-guidance/",
-      "pubDate": "2026-06-16T20:38:55.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Beats Studio Buds Firmware Update Patches Bluetooth Vulnerability",
       "url": "https://www.macrumors.com/2026/06/16/beats-studio-buds-bluetooth-vulnerability/",
       "pubDate": "2026-06-16T20:19:45.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Complete Calvin and Hobbes is a great last-minute Father’s Day gift",
-      "url": "https://www.theverge.com/gadgets/950958/calvin-and-hobbes-fathers-day-gift-idea-deal-sale",
-      "pubDate": "2026-06-16T20:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Eugene Levy’s Apple TV travel series is coming back for season 4",
-      "url": "https://9to5mac.com/2026/06/16/eugene-levys-apple-tv-travel-series-is-coming-back-for-season-4/",
-      "pubDate": "2026-06-16T19:59:07.000Z"
     },
     {
       "source": "MacRumors",
@@ -157,13 +311,6 @@
       "pubDate": "2026-06-16T19:25:02.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "This Sunday’s Apple Watch Activity Challenge celebrates International Day of Yoga",
-      "url": "https://9to5mac.com/2026/06/16/this-sundays-apple-watch-activity-challenge-celebrates-international-day-of-yoga/",
-      "pubDate": "2026-06-16T19:18:38.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "AirPods Pro & Beats Studio Buds move to new firmware versions",
@@ -178,62 +325,6 @@
       "pubDate": "2026-06-16T18:55:25.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Home adds new smart lock with auto-unlock that’s hands-free",
-      "url": "https://9to5mac.com/2026/06/16/apple-home-adds-new-smart-lock-with-auto-unlock-thats-hands-free/",
-      "pubDate": "2026-06-16T18:50:20.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "All the latest news on Android 17, Wear OS 7, and Android XR",
-      "url": "https://www.theverge.com/tech/950936/google-android-17-wear-os-android-xr",
-      "pubDate": "2026-06-16T18:30:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Security Bite Podcast: WWDC26 security and privacy rundown, big changes coming for users and admins",
-      "url": "https://9to5mac.com/2026/06/16/security-bite-podcast-wwdc26-security-and-privacy-rundown-big-changes-coming-for-users-and-admins/",
-      "pubDate": "2026-06-16T18:29:04.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple just released new AirPods Pro 3 firmware, more",
-      "url": "https://9to5mac.com/2026/06/16/apple-just-released-new-airpods-pro-3-firmware-more/",
-      "pubDate": "2026-06-16T18:25:29.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Releases New Firmware for AirPods Pro 2, AirPods Pro 3 and Beats Studio Buds",
-      "url": "https://www.macrumors.com/2026/06/16/airpods-pro-firmware-8b41/",
-      "pubDate": "2026-06-16T18:19:01.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Android 17 arrives on Pixel phones today",
-      "url": "https://www.theverge.com/tech/950651/android-17-release-pixel-drop-google-bubble-screen-reaction",
-      "pubDate": "2026-06-16T18:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Google launches Wear OS 7 with Live Updates and a battery life boost",
-      "url": "https://www.theverge.com/gadgets/950671/wear-os-7-pixel-watches-launch",
-      "pubDate": "2026-06-16T18:00:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Snap Launches $2,195 'Specs' Augmented Reality Glasses",
-      "url": "https://www.macrumors.com/2026/06/16/snap-specs-ar-glasses/",
-      "pubDate": "2026-06-16T17:58:24.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "iPhone's 20th anniversary could be marked with an iPhone Fold 2, plus AirPods with cameras",
@@ -241,102 +332,11 @@
       "pubDate": "2026-06-16T17:56:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Verizon&#8217;s &#8216;Simplicity&#8217; flat-rate plan starts at $30 per month for new customers",
-      "url": "https://www.theverge.com/tech/950881/verizon-simplicity-plan-launch",
-      "pubDate": "2026-06-16T17:19:35.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Seeds Second Public Betas of iOS 26.6, macOS Tahoe 26.6 and More",
-      "url": "https://www.macrumors.com/2026/06/16/apple-ios-26-6-public-beta-2/",
-      "pubDate": "2026-06-16T17:18:20.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Adobe's glowing AI survey leaves out most of the creative industry",
       "url": "https://appleinsider.com/articles/26/06/16/adobes-glowing-ai-survey-leaves-out-most-of-the-creative-industry?utm_source=rss",
       "pubDate": "2026-06-16T17:18:13.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "'Widow's Bay' playlist lasts nearly 10 times longer than the show",
-      "url": "https://appleinsider.com/articles/26/06/16/widows-bay-playlist-lasts-nearly-10-times-longer-than-the-show?utm_source=rss",
-      "pubDate": "2026-06-16T17:15:32.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Schlage Launching Sense Pro Door Lock With Hands-Free Unlocking via iPhone or Apple Watch",
-      "url": "https://www.macrumors.com/2026/06/16/schlage-sense-pro-release-date/",
-      "pubDate": "2026-06-16T17:10:48.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple 2027 rumors: AirPods with cameras for AI and the second folding iPhone",
-      "url": "https://www.theverge.com/tech/950826/apple-airpod-camera-ai-foldable-iphone-rumor",
-      "pubDate": "2026-06-16T17:04:05.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple's 2028 iPhones to Use 1.4nm A22 Pro Chips",
-      "url": "https://www.macrumors.com/2026/06/16/2028-iphones-a22-pro-chips/",
-      "pubDate": "2026-06-16T17:03:42.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Qualcomm’s latest chip hints that more powerful smart glasses could be on the way",
-      "url": "https://www.theverge.com/gadgets/950229/qualcomm-snapdragon-reality-elite-xr-smart-glasses-wearables",
-      "pubDate": "2026-06-16T17:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Google / Xreal Aura XR glasses are now available to preorder",
-      "url": "https://www.theverge.com/gadgets/950597/xreal-google-aura-xr-glasses-deposit-scheme",
-      "pubDate": "2026-06-16T17:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Snap is finally about to ship AR glasses — and they cost a fortune",
-      "url": "https://www.theverge.com/tech/950492/snap-specs-ar-glasses-launch-date-preorder",
-      "pubDate": "2026-06-16T16:50:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Amazon slashes M5 MacBook Air with 24GB RAM, 1TB SSD to $1,329",
-      "url": "https://appleinsider.com/articles/26/06/16/amazon-slashes-m5-macbook-air-with-24gb-ram-1tb-ssd-to-1329?utm_source=rss",
-      "pubDate": "2026-06-16T15:48:45.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Italy targets iCloud interoperability for DMA investigation",
-      "url": "https://appleinsider.com/articles/26/06/16/italy-targets-icloud-interoperability-for-dma-investigation?utm_source=rss",
-      "pubDate": "2026-06-16T13:20:56.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPhone 18 will get 12GB to fully benefit from Siri AI",
-      "url": "https://appleinsider.com/articles/26/06/16/iphone-18-will-get-12gb-to-fully-benefit-from-siri-ai?utm_source=rss",
-      "pubDate": "2026-06-16T12:03:48.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Strident leaker insists iPhone Fold is not delayed at all",
-      "url": "https://appleinsider.com/articles/26/06/16/strident-leaker-insists-iphone-fold-is-not-delayed-at-all?utm_source=rss",
-      "pubDate": "2026-06-16T10:48:54.000Z"
     },
     {
       "source": "Six Colors",
