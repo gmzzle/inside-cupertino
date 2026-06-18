@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T05:03:39.759Z",
+  "generatedAt": "2026-06-18T09:47:00.557Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,6 +24,13 @@
   ],
   "items": [
     {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "12 Reasons to Wait for the iPhone 18 Pro",
+      "url": "https://www.macrumors.com/2026/06/18/12-reasons-wait-iphone-18-pro/",
+      "pubDate": "2026-06-18T09:17:44.000Z"
+    },
+    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "How to update an iPad through the Mac's Finder when Software Update fails",
@@ -33,7 +40,7 @@
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
-      "title": "Midjourney Medical goes from generating ‘cat images’ to full-body ultrasound scans",
+      "title": "Midjourney goes from generating cat images to full-body ultrasound scans",
       "url": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
       "pubDate": "2026-06-18T03:12:31.000Z"
     },
@@ -344,13 +351,6 @@
       "title": "macOS 27 Golden Gate Kills Time Capsule Support",
       "url": "https://www.macrumors.com/2026/06/17/macos-27-golden-gate-kills-time-capsule-support/",
       "pubDate": "2026-06-17T13:47:52.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple 'Records Every Tap' in App Store to Filter New Personalized Recommendations Feature",
-      "url": "https://www.macrumors.com/2026/06/17/apple-records-every-tap-app-store-personal/",
-      "pubDate": "2026-06-17T13:27:17.000Z"
     },
     {
       "source": "Six Colors",
