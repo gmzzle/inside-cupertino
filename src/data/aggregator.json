@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T09:47:00.557Z",
+  "generatedAt": "2026-06-18T13:43:36.621Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,18 +24,88 @@
   ],
   "items": [
     {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Amazon’s Kindle Colorsoft bundle is almost half off for Prime Day",
+      "url": "https://www.theverge.com/gadgets/951234/amazon-kindle-colorsoft-bundle-prime-day-deal-sale",
+      "pubDate": "2026-06-18T13:09:09.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Adobe expands Firefly capabilities, extends agentic tools to Creative Cloud apps",
+      "url": "https://9to5mac.com/2026/06/18/adobe-expands-firefly-capabilities-extends-agentic-tools-to-creative-cloud-apps/",
+      "pubDate": "2026-06-18T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Photoshop and Premiere now have AI assistants",
+      "url": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
+      "pubDate": "2026-06-18T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Adobe’s redesigned AI studio remembers what your creations look like",
+      "url": "https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update",
+      "pubDate": "2026-06-18T13:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Time Capsule survives macOS 27, but Apple really should make a new one",
+      "url": "https://9to5mac.com/2026/06/18/time-capsule-survives-macos-27-but-apple-really-should-make-a-new-one/",
+      "pubDate": "2026-06-18T12:05:53.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "This Ghost in the Shell keyboard makes me want to activate the hundred spidery robot fingers inside my regular fingers",
+      "url": "https://www.theverge.com/tech/951371/iqunix-ev63-ghost-in-the-shell-edition-anime-gaming-mechanical-keyboard-review",
+      "pubDate": "2026-06-18T12:00:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Trump confirms that Apple will buy chips made by Intel",
+      "url": "https://appleinsider.com/articles/26/06/18/trump-confirms-that-apple-will-buy-chips-made-by-intel?utm_source=rss",
+      "pubDate": "2026-06-18T11:59:18.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 speed improvements won’t matter individually, but will collectively",
+      "url": "https://9to5mac.com/2026/06/18/ios-27-speed-improvements-wont-matter-individually-but-will-collectively/",
+      "pubDate": "2026-06-18T11:01:17.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "How to update an iPad with your Mac when Software Update fails",
+      "url": "https://appleinsider.com/inside/ipados-27/tips/how-to-update-an-ipad-through-the-macs-finder-when-software-update-fails?utm_source=rss",
+      "pubDate": "2026-06-18T10:36:54.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple and Intel are working together to build chips in America, says President Trump",
+      "url": "https://9to5mac.com/2026/06/18/apple-intel-chip-manufacturing-american/",
+      "pubDate": "2026-06-18T10:22:50.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple to Make Chips in US With Intel, Trump Says",
+      "url": "https://www.macrumors.com/2026/06/18/apple-make-chips-us-intel-trump-says/",
+      "pubDate": "2026-06-18T09:57:16.000Z"
+    },
+    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "12 Reasons to Wait for the iPhone 18 Pro",
       "url": "https://www.macrumors.com/2026/06/18/12-reasons-wait-iphone-18-pro/",
       "pubDate": "2026-06-18T09:17:44.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "How to update an iPad through the Mac's Finder when Software Update fails",
-      "url": "https://appleinsider.com/inside/ipados-27/tips/how-to-update-an-ipad-through-the-macs-finder-when-software-update-fails?utm_source=rss",
-      "pubDate": "2026-06-18T03:22:30.000Z"
     },
     {
       "source": "The Verge",
@@ -171,25 +241,11 @@
       "pubDate": "2026-06-17T20:06:09.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "VSCO unveils Studio Pro app as it pushes further into professional photography workflows",
-      "url": "https://9to5mac.com/2026/06/17/vsco-unveils-studio-pro-app-as-it-pushes-further-into-professional-photography-workflows/",
-      "pubDate": "2026-06-17T20:05:54.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) Clockwise 661: Committing to the Bit",
       "url": "https://sixcolors.com/podcast/2026/06/clockwise-661-committing-to-the-bit/",
       "pubDate": "2026-06-17T19:54:12.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "OpenAI launches scheduled tasks in ChatGPT, details here",
-      "url": "https://9to5mac.com/2026/06/17/openai-launches-scheduled-tasks-in-chatgpt-details-here/",
-      "pubDate": "2026-06-17T19:15:21.000Z"
     },
     {
       "source": "The Verge",
@@ -227,13 +283,6 @@
       "pubDate": "2026-06-17T17:49:47.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple’s new software drops support for these 16 products",
-      "url": "https://9to5mac.com/2026/06/17/apples-new-software-drops-support-for-these-16-products/",
-      "pubDate": "2026-06-17T17:44:22.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "iPhone users can now join the 'Pokemon Champions' fray",
@@ -255,27 +304,6 @@
       "pubDate": "2026-06-17T17:11:40.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Siri AI will make the Apple Watch a fully-fledged AI wearable in watchOS 27",
-      "url": "https://9to5mac.com/2026/06/17/siri-ai-will-make-the-apple-watch-a-fully-fledged-ai-wearable-in-watchos-27/",
-      "pubDate": "2026-06-17T17:11:14.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Echo Dot Max is cheaper than ever in an early Prime Day sale",
-      "url": "https://www.theverge.com/gadgets/951602/amazon-echo-dot-max-early-prime-day-deal-sale",
-      "pubDate": "2026-06-17T16:47:43.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Vibe-decoding the White House-Anthropic fight over Fable",
-      "url": "https://www.theverge.com/column/951516/trump-anthropic-feud-mythos-fable-white-house",
-      "pubDate": "2026-06-17T16:27:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple's WebKit Rules Reportedly Cost iOS Users Almost 30% Browser Performance",
@@ -283,39 +311,11 @@
       "pubDate": "2026-06-17T16:14:41.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Can anyone look cool wearing Snap’s $2,000 glasses?",
-      "url": "https://www.theverge.com/report/951481/snap-specs-wearables-smart-glasses-fashion",
-      "pubDate": "2026-06-17T16:13:34.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Sign in with Apple domain consolidation could trip up unprepared services",
       "url": "https://appleinsider.com/articles/26/06/17/sign-in-with-apple-domain-consolidation-could-trip-up-unprepared-services?utm_source=rss",
       "pubDate": "2026-06-17T16:00:07.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "We got free GTA V upgrades before GTA VI",
-      "url": "https://www.theverge.com/games/951533/gta-v-ps5-xbox-series-x-upgrade",
-      "pubDate": "2026-06-17T15:45:36.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "AirPods Pro 3 hit lowest price ever at $169 ahead of Amazon Prime Day",
-      "url": "https://appleinsider.com/articles/26/06/17/airpods-pro-3-hit-lowest-price-ever-at-169-ahead-of-amazon-prime-day?utm_source=rss",
-      "pubDate": "2026-06-17T15:37:56.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple's App Store search data stores every single keystroke",
-      "url": "https://appleinsider.com/articles/26/06/17/apples-app-store-search-data-stores-every-single-keystroke?utm_source=rss",
-      "pubDate": "2026-06-17T14:58:56.000Z"
     },
     {
       "source": "MacRumors",
@@ -346,11 +346,11 @@
       "pubDate": "2026-06-17T14:00:00.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "macOS 27 Golden Gate Kills Time Capsule Support",
-      "url": "https://www.macrumors.com/2026/06/17/macos-27-golden-gate-kills-time-capsule-support/",
-      "pubDate": "2026-06-17T13:47:52.000Z"
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "John Sculley, Apple's most maligned CEO, was ousted 33 years ago",
+      "url": "https://appleinsider.com/articles/26/03/27/apple-at-50-john-sculley-apples-most-maligned-ceo?utm_source=rss",
+      "pubDate": "2026-06-17T13:36:43.000Z"
     },
     {
       "source": "Six Colors",
