@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T20:39:09.175Z",
+  "generatedAt": "2026-06-18T23:07:25.082Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,41 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Drake, Taylor Swift, and Future are the 3 most streamed artists in Apple Music history",
+      "url": "https://9to5mac.com/2026/06/18/drake-taylor-swift-and-future-are-the-3-most-streamed-artists-in-apple-music-history/",
+      "pubDate": "2026-06-18T23:02:14.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Watch shipments surged 21% during Q1 2026, per report",
+      "url": "https://9to5mac.com/2026/06/18/apple-watch-shipments-surged-21-during-q1-2026-per-report/",
+      "pubDate": "2026-06-18T22:33:20.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Music Reveals Top 20 Most-Streamed Artists of All Time",
+      "url": "https://www.macrumors.com/2026/06/18/apple-music-most-streamed-all-time-artists/",
+      "pubDate": "2026-06-18T22:26:04.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Vince Gilligan reveals the current status of ‘Pluribus’ season 2",
+      "url": "https://9to5mac.com/2026/06/18/vince-gilligan-reveals-the-current-status-of-pluribus-season-2/",
+      "pubDate": "2026-06-18T21:52:56.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "New unpatchable exploit targets Apple devices with A12 and A13 chips",
+      "url": "https://9to5mac.com/2026/06/18/new-unpatchable-exploit-targets-apple-devices-with-a12-and-a13-chips/",
+      "pubDate": "2026-06-18T21:21:41.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -220,13 +255,6 @@
       "pubDate": "2026-06-18T15:50:43.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: Rare Apple Watch Ultra 3 price drops nearly $100 off, 1TB M5 MacBook Pro $200 off, Beats headphones up to $220 off, more",
-      "url": "https://9to5mac.com/2026/06/18/deals-apple-watch-ultra-3-m5-macbook-pro-beats/",
-      "pubDate": "2026-06-18T15:30:00.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Keep Time Capsules viable under macOS 27 ↦",
@@ -241,13 +269,6 @@
       "pubDate": "2026-06-18T15:18:28.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone 18 Pro is getting larger camera bump per leaks, here’s why",
-      "url": "https://9to5mac.com/2026/06/18/iphone-18-pro-is-getting-larger-camera-bump-per-leaks-heres-why/",
-      "pubDate": "2026-06-18T15:09:13.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iOS 27 Adds These New Features to Find My, Including 'Hide Location'",
@@ -255,25 +276,11 @@
       "pubDate": "2026-06-18T15:06:48.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple announces major App Store changes for Brazil, including alternative app marketplaces",
-      "url": "https://9to5mac.com/2026/06/18/apple-announces-major-app-store-changes-for-brazil-including-alternative-app-marketplaces/",
-      "pubDate": "2026-06-18T15:00:02.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Three Ways macOS 27 Improves iPhone Mirroring",
       "url": "https://www.macrumors.com/2026/06/18/three-ways-macos-27-improves-iphone-mirroring/",
       "pubDate": "2026-06-18T14:31:39.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple TV reveals new comedy series with Matthew McConaughey coming soon",
-      "url": "https://9to5mac.com/2026/06/18/apple-tv-reveals-new-comedy-series-with-matthew-mcconaughey-coming-soon/",
-      "pubDate": "2026-06-18T14:16:46.000Z"
     },
     {
       "source": "MacRumors",
@@ -337,13 +344,6 @@
       "title": "Tim Cook Says Apple Price Increases Are 'Unavoidable' Due to Memory Costs",
       "url": "https://www.macrumors.com/2026/06/17/apple-increasing-prices/",
       "pubDate": "2026-06-17T21:08:32.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPadOS 27 Hands-On: Everything New for iPad",
-      "url": "https://www.macrumors.com/2026/06/17/ipados-27-hands-on/",
-      "pubDate": "2026-06-17T20:51:39.000Z"
     },
     {
       "source": "Six Colors",
