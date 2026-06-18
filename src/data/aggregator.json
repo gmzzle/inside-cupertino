@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T13:43:36.621Z",
+  "generatedAt": "2026-06-18T17:30:40.698Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -26,6 +26,181 @@
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
+      "title": "Firefox’s new home page widgets are helping me focus",
+      "url": "https://www.theverge.com/tech/952354/firefox-home-page-widgets",
+      "pubDate": "2026-06-18T17:29:50.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "EU-style App Store rules reach Brazil with new app stores & payments",
+      "url": "https://appleinsider.com/articles/26/06/18/eu-style-app-store-rules-reach-brazil-with-new-app-stores-payments?utm_source=rss",
+      "pubDate": "2026-06-18T17:05:36.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The Onion’s rebooted InfoWars is coming July 2nd",
+      "url": "https://www.theverge.com/news/952264/the-onion-infowars-takeover-alex-jones-relaunch",
+      "pubDate": "2026-06-18T17:00:00.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) Upgrade 623: Road to the Apple II: A Complete Computer (Part 3)",
+      "url": "https://sixcolors.com/podcast/2026/06/upgrade-623-road-to-the-apple-ii-a-complete-computer-part-3/",
+      "pubDate": "2026-06-18T16:56:30.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Formula 1 Austrian Grand Prix will be free on Apple TV in the US",
+      "url": "https://appleinsider.com/articles/26/06/18/formula-1-austrian-grand-prix-will-be-free-on-apple-tv-in-the-us?utm_source=rss",
+      "pubDate": "2026-06-18T16:54:55.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "You Can Watch All of F1's 2026 Austrian Grand Prix For Free on Apple TV",
+      "url": "https://www.macrumors.com/2026/06/18/f1-2026-austrian-grand-prix-free-on-apple-tv/",
+      "pubDate": "2026-06-18T16:30:38.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's A12 and A13 Chips Facing New Unpatchable Exploit",
+      "url": "https://www.macrumors.com/2026/06/18/a12-and-a13-chips-facing-exploit/",
+      "pubDate": "2026-06-18T16:17:54.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Amazon employees say they’re facing termination for backing data center limits",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action",
+      "pubDate": "2026-06-18T16:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Announces Major App Store Changes on iOS in Brazil",
+      "url": "https://www.macrumors.com/2026/06/18/apple-announces-ios-app-store-changes-in-brazil/",
+      "pubDate": "2026-06-18T15:50:43.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "No more lightbulbs, much more sports: Five predictions for Roku’s future",
+      "url": "https://www.theverge.com/column/951850/fox-roku-predictions",
+      "pubDate": "2026-06-18T15:30:00.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Keep Time Capsules viable under macOS 27 ↦",
+      "url": "https://sixcolors.com/link/2026/06/keep-time-capsules-viable-under-macos-27/",
+      "pubDate": "2026-06-18T15:19:26.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Woody Harrelson and Matthew McConaughey team up in Apple TV's new comedy series \"Brothers\"",
+      "url": "https://appleinsider.com/articles/26/06/18/woody-harrelson-and-matthew-mcconaughey-team-up-in-apple-tvs-new-comedy-series-brothers?utm_source=rss",
+      "pubDate": "2026-06-18T15:18:28.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone 18 Pro is getting larger camera bump per leaks, here’s why",
+      "url": "https://9to5mac.com/2026/06/18/iphone-18-pro-is-getting-larger-camera-bump-per-leaks-heres-why/",
+      "pubDate": "2026-06-18T15:09:13.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iOS 27 Adds These New Features to Find My, Including 'Hide Location'",
+      "url": "https://www.macrumors.com/2026/06/18/ios-27-find-my-features-hide-location/",
+      "pubDate": "2026-06-18T15:06:48.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple announces major App Store changes for Brazil, including alternative app marketplaces",
+      "url": "https://9to5mac.com/2026/06/18/apple-announces-major-app-store-changes-for-brazil-including-alternative-app-marketplaces/",
+      "pubDate": "2026-06-18T15:00:02.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Google Calendar finally has more color options for events",
+      "url": "https://www.theverge.com/tech/952123/google-calendar-event-color-options-expansion",
+      "pubDate": "2026-06-18T14:32:16.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Three Ways macOS 27 Improves iPhone Mirroring",
+      "url": "https://www.macrumors.com/2026/06/18/three-ways-macos-27-improves-iphone-mirroring/",
+      "pubDate": "2026-06-18T14:31:39.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The midterms are going to be a data security nightmare",
+      "url": "https://www.theverge.com/policy/952167/voter-rolls-privacy-election-save-program",
+      "pubDate": "2026-06-18T14:21:37.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The Verge’s guide to Amazon Prime Day 2026",
+      "url": "https://www.theverge.com/gadgets/951437/amazon-prime-day-tech-deals-guide-2026",
+      "pubDate": "2026-06-18T14:17:09.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple TV reveals new comedy series with Matthew McConaughey coming soon",
+      "url": "https://9to5mac.com/2026/06/18/apple-tv-reveals-new-comedy-series-with-matthew-mcconaughey-coming-soon/",
+      "pubDate": "2026-06-18T14:16:46.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Here’s why I think the AI photo features in iOS 27 are so well considered",
+      "url": "https://9to5mac.com/2026/06/18/heres-why-i-think-the-ai-photo-features-in-ios-27-are-so-well-considered/",
+      "pubDate": "2026-06-18T14:00:27.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The best robot vacuum deals available ahead of Prime Day",
+      "url": "https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026",
+      "pubDate": "2026-06-18T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Who decides when AI is too dangerous?",
+      "url": "https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump",
+      "pubDate": "2026-06-18T14:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone 18 Pro could start at $1,399 or more, per report",
+      "url": "https://9to5mac.com/2026/06/18/iphone-18-pro-could-start-at-1399-or-more-per-report/",
+      "pubDate": "2026-06-18T13:58:44.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Samsung Takes $50 Off 2026 Monitors, Plus Credit Towards Future Purchases",
+      "url": "https://www.macrumors.com/2026/06/18/samsung-2026-monitors/",
+      "pubDate": "2026-06-18T13:49:05.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
       "title": "Amazon’s Kindle Colorsoft bundle is almost half off for Prime Day",
       "url": "https://www.theverge.com/gadgets/951234/amazon-kindle-colorsoft-bundle-prime-day-deal-sale",
       "pubDate": "2026-06-18T13:09:09.000Z"
@@ -38,32 +213,11 @@
       "pubDate": "2026-06-18T13:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Photoshop and Premiere now have AI assistants",
-      "url": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
-      "pubDate": "2026-06-18T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Adobe’s redesigned AI studio remembers what your creations look like",
-      "url": "https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update",
-      "pubDate": "2026-06-18T13:00:00.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Time Capsule survives macOS 27, but Apple really should make a new one",
       "url": "https://9to5mac.com/2026/06/18/time-capsule-survives-macos-27-but-apple-really-should-make-a-new-one/",
       "pubDate": "2026-06-18T12:05:53.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "This Ghost in the Shell keyboard makes me want to activate the hundred spidery robot fingers inside my regular fingers",
-      "url": "https://www.theverge.com/tech/951371/iqunix-ev63-ghost-in-the-shell-edition-anime-gaming-mechanical-keyboard-review",
-      "pubDate": "2026-06-18T12:00:00.000Z"
     },
     {
       "source": "AppleInsider",
@@ -108,13 +262,6 @@
       "pubDate": "2026-06-18T09:17:44.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Midjourney goes from generating cat images to full-body ultrasound scans",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
-      "pubDate": "2026-06-18T03:12:31.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Pressure mounts for Apple to give unionized workers better options as Towson store closes",
@@ -150,25 +297,11 @@
       "pubDate": "2026-06-17T21:48:14.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Tim Cook says RAM expenses are &#8216;unsustainable&#8217; and Apple is going to raise prices",
-      "url": "https://www.theverge.com/tech/951948/apple-tim-cook-price-increases-ram",
-      "pubDate": "2026-06-17T21:42:21.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Apple showcases its new developer AI tools in impressive 90-minute presentation",
       "url": "https://9to5mac.com/2026/06/17/apple-showcases-its-new-developer-ai-tools-in-impressive-90-minute-presentation/",
       "pubDate": "2026-06-17T21:28:11.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple confirms price increases are coming to its products due to RAM shortage",
-      "url": "https://9to5mac.com/2026/06/17/apple-confirms-price-increases-are-coming-to-its-products-due-to-ram-shortage/",
-      "pubDate": "2026-06-17T21:17:02.000Z"
     },
     {
       "source": "MacRumors",
@@ -192,46 +325,11 @@
       "pubDate": "2026-06-17T20:51:39.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: June 17, 2026 – Siri overhaul, Messages fixes",
-      "url": "https://9to5mac.com/2026/06/17/daily-june-17-2026/",
-      "pubDate": "2026-06-17T20:49:17.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Watch Ultra 4: Four rumored new features coming this fall",
-      "url": "https://9to5mac.com/2026/06/17/apple-watch-ultra-4-four-rumored-new-features-coming/",
-      "pubDate": "2026-06-17T20:45:27.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "VSCO launches Studio Pro mobile photo editing app and plans $500 per year subscription",
-      "url": "https://www.theverge.com/tech/951863/vsco-studio-pro-vsco-one-subscription",
-      "pubDate": "2026-06-17T20:43:28.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone Air 2 coming next year with two key upgrades: report",
-      "url": "https://9to5mac.com/2026/06/17/iphone-air-2-coming-next-year-with-two-key-upgrades-report/",
-      "pubDate": "2026-06-17T20:20:02.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iPhone Air With Dual Lens Camera Coming in Spring 2027",
       "url": "https://www.macrumors.com/2026/06/17/iphone-air-dual-lens-camera-2027/",
       "pubDate": "2026-06-17T20:18:16.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Here’s everything new for AirPods in iOS 27",
-      "url": "https://9to5mac.com/2026/06/17/heres-everything-new-for-airpods-in-ios-27/",
-      "pubDate": "2026-06-17T20:17:07.000Z"
     },
     {
       "source": "AppleInsider",
@@ -248,95 +346,11 @@
       "pubDate": "2026-06-17T19:54:12.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Epic wants to let you bring your Fortnite skins to other games",
-      "url": "https://www.theverge.com/games/951785/epic-games-fortnite-unreal-fest-2026-unreal-engine-6-ai-metaverse",
-      "pubDate": "2026-06-17T19:09:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Matter 1.6 Announced With NFC Setup, Cross-Ecosystem Device Sharing, and Smarter Thermostats",
       "url": "https://www.macrumors.com/2026/06/17/matter-1-6-specification/",
       "pubDate": "2026-06-17T18:29:40.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Anthropic got hit by export rules nobody understands",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
-      "pubDate": "2026-06-17T18:28:50.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "You Can Easily Install the iOS 27 Beta For Free Right Now, Here's How",
-      "url": "https://www.macrumors.com/2026/06/17/install-ios-27-developer-beta-free/",
-      "pubDate": "2026-06-17T18:05:26.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Blink has a big speed advantage against WebKit in browser tests",
-      "url": "https://appleinsider.com/articles/26/06/17/blink-has-a-big-speed-advantage-against-webkit-in-browser-tests?utm_source=rss",
-      "pubDate": "2026-06-17T17:49:47.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPhone users can now join the 'Pokemon Champions' fray",
-      "url": "https://appleinsider.com/articles/26/06/17/iphone-users-can-now-join-the-pokemon-champions-fray?utm_source=rss",
-      "pubDate": "2026-06-17T17:29:26.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Two-thirds of Americans think AI is advancing too quickly",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly",
-      "pubDate": "2026-06-17T17:20:24.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27 Adds Four New Features to Notes App, Including Markdown Copy-and-Paste",
-      "url": "https://www.macrumors.com/2026/06/17/ios-27-apple-notes-app-new-features/",
-      "pubDate": "2026-06-17T17:11:40.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple's WebKit Rules Reportedly Cost iOS Users Almost 30% Browser Performance",
-      "url": "https://www.macrumors.com/2026/06/17/webkit-rule-costs-ios-users-browser-performance/",
-      "pubDate": "2026-06-17T16:14:41.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Sign in with Apple domain consolidation could trip up unprepared services",
-      "url": "https://appleinsider.com/articles/26/06/17/sign-in-with-apple-domain-consolidation-could-trip-up-unprepared-services?utm_source=rss",
-      "pubDate": "2026-06-17T16:00:07.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Powerbeats Pro 2 Available for $199.95 Low Price, Plus More Early Prime Day Deals on Beats",
-      "url": "https://www.macrumors.com/2026/06/17/powerbeats-pro-2-early-prime-day/",
-      "pubDate": "2026-06-17T14:52:35.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple's New Hide My Email Domain Makes It Easier to Block iCloud Aliases",
-      "url": "https://www.macrumors.com/2026/06/17/new-hide-my-email-domain-makes-it-easier-to-block/",
-      "pubDate": "2026-06-17T14:41:01.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "AirPods Pro 3 Drops to Record Low $169 on Amazon Ahead of Prime Day",
-      "url": "https://www.macrumors.com/2026/06/17/airpods-pro-3-new-low-price-of-169/",
-      "pubDate": "2026-06-17T14:04:29.000Z"
     },
     {
       "source": "Six Colors",
@@ -358,20 +372,6 @@
       "title": "(Podcast) Upgrade 622: It’s Doing It!",
       "url": "https://sixcolors.com/podcast/2026/06/upgrade-622-its-doing-it/",
       "pubDate": "2026-06-15T17:48:50.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Spotlight and iCloud Drive headbang in the CPU mosh pit",
-      "url": "https://sixcolors.com/post/2026/06/spotlight-and-icloud-drive-headbang-in-the-cpu-mosh-pit/",
-      "pubDate": "2026-06-15T16:00:39.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Sponsor) Magic Lasso Adblock: Effortlessly block ads on your iPhone, iPad, Mac and Apple TV",
-      "url": "https://sixcolors.com/feed-only/2026/06/magic-lasso-adblock-effortlessly-block-ads-on-your-iphone-ipad-mac-and-apple-tv-3/",
-      "pubDate": "2026-06-15T16:00:37.000Z"
     }
   ]
 }
