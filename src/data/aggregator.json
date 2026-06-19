@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T16:18:22.933Z",
+  "generatedAt": "2026-06-19T19:10:50.388Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,55 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "HomeKit Weekly: The Qingping Air Monitor Lite brings a retro vibe to Apple Home climate tracking",
+      "url": "https://9to5mac.com/2026/06/19/qingping-air-monitor-lite-2/",
+      "pubDate": "2026-06-19T18:54:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple’s M6 chip launches this fall, with these new products rumored",
+      "url": "https://9to5mac.com/2026/06/19/apples-m6-chip-launches-this-fall-with-these-new-products-rumored/",
+      "pubDate": "2026-06-19T18:48:49.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "NASA selects Eric Schmidt&#8217;s rocket company for a 2028 mission to Mars",
+      "url": "https://www.theverge.com/science/952988/nasa-relativity-space-eric-schmidt-mars",
+      "pubDate": "2026-06-19T18:41:48.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "New Aspekt Touch & Folio displays bring touch-first computing to Macs",
+      "url": "https://appleinsider.com/articles/26/06/19/new-aspekt-touch-folio-displays-bring-touch-first-computing-to-macs?utm_source=rss",
+      "pubDate": "2026-06-19T17:42:55.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "What Siri AI, Apple TV, & more are like with CarPlay in iOS 27",
+      "url": "https://appleinsider.com/articles/26/06/19/what-siri-ai-apple-tv-more-are-like-with-carplay-in-ios-27?utm_source=rss",
+      "pubDate": "2026-06-19T17:27:43.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Hue’s wired wall modules bring non-smart lights into its ecosystem",
+      "url": "https://www.theverge.com/tech/952953/phillips-hue-wired-wall-module-play-lamp-candle-bulb",
+      "pubDate": "2026-06-19T17:24:45.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "visionOS 27 gives the M5 Vision Pro two unique new advantages",
+      "url": "https://9to5mac.com/2026/06/19/visionos-27-gives-the-m5-vision-pro-two-unique-new-advantages/",
+      "pubDate": "2026-06-19T17:22:29.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -157,13 +206,6 @@
       "pubDate": "2026-06-19T13:50:47.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "watchOS 27 drops support for five Apple Watch models, here’s why",
-      "url": "https://9to5mac.com/2026/06/19/watchos-27-drops-support-for-five-apple-watch-models-heres-why/",
-      "pubDate": "2026-06-19T13:34:31.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Explains Why watchOS 27 Drops Support for So Many Models",
@@ -234,20 +276,6 @@
       "pubDate": "2026-06-19T02:58:56.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Epic Games and Coalition for App Fairness slam new App Store terms in Brazil",
-      "url": "https://9to5mac.com/2026/06/18/epic-games-and-coalition-for-app-fairness-slam-new-app-store-terms-in-brazil/",
-      "pubDate": "2026-06-19T02:32:30.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "‘Sugar’ season 2 premiere is now available to stream on Apple TV",
-      "url": "https://9to5mac.com/2026/06/18/sugar-season-2-premiere-is-now-available-to-stream-on-apple-tv/",
-      "pubDate": "2026-06-19T01:39:54.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Top 20 most streamed artists on Apple Music revealed",
@@ -283,25 +311,11 @@
       "pubDate": "2026-06-18T20:26:06.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "You can now use the Game Boy Camera with your phone",
-      "url": "https://www.theverge.com/tech/952173/epilogue-gb-operator-game-boy-camera-ios-android-app-iphone",
-      "pubDate": "2026-06-18T20:22:46.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Hands-On With watchOS 27: Every New Apple Watch Feature",
       "url": "https://www.macrumors.com/2026/06/18/watchos-27-hands-on/",
       "pubDate": "2026-06-18T19:35:28.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "HBO Max&#8217;s annual plans are 28 percent off right now",
-      "url": "https://www.theverge.com/gadgets/952326/hbo-max-annual-plan-deal-sale",
-      "pubDate": "2026-06-18T19:18:30.000Z"
     },
     {
       "source": "MacRumors",
@@ -325,25 +339,11 @@
       "pubDate": "2026-06-18T18:02:15.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "EU-style App Store rules reach Brazil with new app stores & payments",
-      "url": "https://appleinsider.com/articles/26/06/18/eu-style-app-store-rules-reach-brazil-with-new-app-stores-payments?utm_source=rss",
-      "pubDate": "2026-06-18T17:05:36.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) Upgrade 623: Road to the Apple II: A Complete Computer (Part 3)",
       "url": "https://sixcolors.com/podcast/2026/06/upgrade-623-road-to-the-apple-ii-a-complete-computer-part-3/",
       "pubDate": "2026-06-18T16:56:30.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Formula 1 Austrian Grand Prix will be free on Apple TV in the US",
-      "url": "https://appleinsider.com/articles/26/06/18/formula-1-austrian-grand-prix-will-be-free-on-apple-tv-in-the-us?utm_source=rss",
-      "pubDate": "2026-06-18T16:54:55.000Z"
     },
     {
       "source": "MacRumors",
