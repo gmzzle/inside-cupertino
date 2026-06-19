@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T22:13:57.886Z",
+  "generatedAt": "2026-06-19T23:17:28.490Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Bear app developers announce Lettera, a beautiful Markdown editor for Mac",
+      "url": "https://9to5mac.com/2026/06/19/bear-app-developers-announce-lettera-a-beautiful-markdown-editor-for-mac/",
+      "pubDate": "2026-06-19T23:04:54.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -190,13 +197,6 @@
       "title": "The film about Sam Altman has been dropped by Amazon MGM",
       "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
       "pubDate": "2026-06-19T14:15:29.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Hands-on with Denon Home 200: Strong HomePod alternative with Siri integrations",
-      "url": "https://9to5mac.com/2026/06/19/hands-on-with-denon-home-200-strong-homepod-alternative-with-siri-integrations/",
-      "pubDate": "2026-06-19T14:11:28.000Z"
     },
     {
       "source": "AppleInsider",
