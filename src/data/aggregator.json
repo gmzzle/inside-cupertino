@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T12:18:07.903Z",
+  "generatedAt": "2026-06-19T16:18:22.933Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,160 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "The MacRumors Show: Hands-On With iOS 27, Brutal watchOS 27 Cuts, and More",
+      "url": "https://www.macrumors.com/2026/06/19/the-macrumors-show-hands-on-with-ios-27/",
+      "pubDate": "2026-06-19T16:17:27.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Music in iOS 27 introduces new design changes in two key areas",
+      "url": "https://9to5mac.com/2026/06/19/apple-music-in-ios-27-introduces-new-design-changes-in-two-key-areas/",
+      "pubDate": "2026-06-19T16:16:56.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Alogic Debuts New Touchscreen Monitors and Portable Displays With Mac Support",
+      "url": "https://www.macrumors.com/2026/06/19/alogic-touchscreen-monitors-portable-displays/",
+      "pubDate": "2026-06-19T16:12:47.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Amazon's AirPods 4 sale slashes price to $99, with delivery by Father's Day",
+      "url": "https://appleinsider.com/articles/26/06/19/amazons-airpods-4-sale-slashes-price-to-99-with-delivery-by-fathers-day?utm_source=rss",
+      "pubDate": "2026-06-19T16:09:16.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Sponsor) Magic Lasso Adblock: Effortlessly block ads on your iPhone, iPad, Mac and Apple TV",
+      "url": "https://sixcolors.com/sponsor/2026/06/magic-lasso-adblock-effortlessly-block-ads-on-your-iphone-ipad-mac-and-apple-tv-5/",
+      "pubDate": "2026-06-19T16:00:49.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "The Oura Ring 5 is the ultra-smart wearable you won’t know you’re wearing",
+      "url": "https://9to5mac.com/2026/06/19/the-oura-ring-5-is-the-ultra-smart-wearable-you-wont-know-youre-wearing/",
+      "pubDate": "2026-06-19T16:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: June 19, 2026 – Apple confirms looming price increases",
+      "url": "https://9to5mac.com/2026/06/19/daily-june-19-2026/",
+      "pubDate": "2026-06-19T16:00:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Siri AI leaves older Apple Watches behind without a clear reason",
+      "url": "https://appleinsider.com/articles/26/06/19/siri-ai-leaves-older-apple-watches-behind-without-a-clear-reason?utm_source=rss",
+      "pubDate": "2026-06-19T15:37:42.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Deals: iPhone 17 Pro/Max up to $290 off, AirPods $99, Apple Watch price drops, M5 Pro MacBook Pro $200 off, more",
+      "url": "https://9to5mac.com/2026/06/19/deals-iphone-17-pro-airpods-apple-watch-macbook-pro/",
+      "pubDate": "2026-06-19T15:30:37.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple just said the thing about Siri that we’ve long wanted to hear",
+      "url": "https://9to5mac.com/2026/06/19/apple-just-said-the-thing-about-siri-that-weve-long-wanted-to-hear/",
+      "pubDate": "2026-06-19T15:01:41.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "These are my favorite MagSafe accessories for iPhone",
+      "url": "https://9to5mac.com/2026/06/19/just-get-a-new-iphone-here-are-my-favorite-magsafe-accessories/",
+      "pubDate": "2026-06-19T14:54:37.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The NTS Radio Player brings the best of internet radio to your hi-fi",
+      "url": "https://www.theverge.com/entertainment/952910/nts-radio-player-atonemo-music-streaming",
+      "pubDate": "2026-06-19T14:53:53.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Prime Day 2026: Best Early Apple Device and Accessory Deals Now Live",
+      "url": "https://www.macrumors.com/2026/06/19/early-prime-day-deals-apple-2026/",
+      "pubDate": "2026-06-19T14:46:06.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone 18 Pro: Six new features are coming this fall",
+      "url": "https://9to5mac.com/2026/06/19/iphone-18-pro-six-new-features-are-coming-this-fall/",
+      "pubDate": "2026-06-19T14:19:30.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The film about Sam Altman has been dropped by Amazon MGM",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
+      "pubDate": "2026-06-19T14:15:29.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Hands-on with Denon Home 200: Strong HomePod alternative with Siri integrations",
+      "url": "https://9to5mac.com/2026/06/19/hands-on-with-denon-home-200-strong-homepod-alternative-with-siri-integrations/",
+      "pubDate": "2026-06-19T14:11:28.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Siri AI, Snap Spectacles, and iPhone rumors on the AppleInsider Podcast",
+      "url": "https://appleinsider.com/articles/26/06/19/siri-ai-snap-spectacles-and-iphone-rumors-on-the-appleinsider-podcast?utm_source=rss",
+      "pubDate": "2026-06-19T14:05:06.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Our long national sunscreen nightmare is almost over",
+      "url": "https://www.theverge.com/column/952744/optimizer-sunscreen-bemotrizinol-fda-health",
+      "pubDate": "2026-06-19T14:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Joanna Stern spent one week with new Siri AI, and it’s very good",
+      "url": "https://9to5mac.com/2026/06/19/joanna-stern-spent-one-week-with-new-siri-ai-and-its-very-good/",
+      "pubDate": "2026-06-19T13:50:47.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "watchOS 27 drops support for five Apple Watch models, here’s why",
+      "url": "https://9to5mac.com/2026/06/19/watchos-27-drops-support-for-five-apple-watch-models-heres-why/",
+      "pubDate": "2026-06-19T13:34:31.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Explains Why watchOS 27 Drops Support for So Many Models",
+      "url": "https://www.macrumors.com/2026/06/19/apple-explains-why-watchos-27-drops-support/",
+      "pubDate": "2026-06-19T13:07:11.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "T1 Phone PR firm is &#8216;not assisting Trump Mobile any further&#8217;",
+      "url": "https://www.theverge.com/gadgets/952274/t1-phone-pr-firm-not-assisting-trump-mobile-any-further",
+      "pubDate": "2026-06-19T13:00:00.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -101,13 +255,6 @@
       "pubDate": "2026-06-19T00:38:47.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "AltStore PAL now available in Brazil as Apple flips the switch on alternative marketplaces [U]",
-      "url": "https://9to5mac.com/2026/06/18/altstore-pal-now-available-in-brazil-as-apple-flips-the-switch-on-alternative-marketplaces/",
-      "pubDate": "2026-06-19T00:09:06.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Everything New in Calendar and Reminders in iOS 27",
@@ -122,46 +269,11 @@
       "pubDate": "2026-06-19T00:05:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: June 18, 2026 – iOS 27 app features, Beats firmware fix",
-      "url": "https://9to5mac.com/2026/06/18/daily-june-18-2026/",
-      "pubDate": "2026-06-18T23:53:56.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Drake, Taylor Swift, and Future are the 3 most streamed artists in Apple Music history",
-      "url": "https://9to5mac.com/2026/06/18/drake-taylor-swift-and-future-are-the-3-most-streamed-artists-in-apple-music-history/",
-      "pubDate": "2026-06-18T23:02:14.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Watch shipments surged 21% during Q1 2026, per report",
-      "url": "https://9to5mac.com/2026/06/18/apple-watch-shipments-surged-21-during-q1-2026-per-report/",
-      "pubDate": "2026-06-18T22:33:20.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Music Reveals Top 20 Most-Streamed Artists of All Time",
       "url": "https://www.macrumors.com/2026/06/18/apple-music-most-streamed-all-time-artists/",
       "pubDate": "2026-06-18T22:26:04.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Vince Gilligan reveals the current status of ‘Pluribus’ season 2",
-      "url": "https://9to5mac.com/2026/06/18/vince-gilligan-reveals-the-current-status-of-pluribus-season-2/",
-      "pubDate": "2026-06-18T21:52:56.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "New unpatchable exploit targets Apple devices with A12 and A13 chips",
-      "url": "https://9to5mac.com/2026/06/18/new-unpatchable-exploit-targets-apple-devices-with-a12-and-a13-chips/",
-      "pubDate": "2026-06-18T21:21:41.000Z"
     },
     {
       "source": "The Verge",
@@ -178,34 +290,6 @@
       "pubDate": "2026-06-18T20:22:46.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Spotify’s new ticket reservation system for artist superfans goes live in the U.S.",
-      "url": "https://9to5mac.com/2026/06/18/spotifys-new-ticket-reservation-system-for-artist-superfans-goes-live-in-the-u-s/",
-      "pubDate": "2026-06-18T20:07:13.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "watchOS 27 adds new Apple Watch trick that I’ve been loving",
-      "url": "https://9to5mac.com/2026/06/18/watchos-27-adds-new-apple-watch-trick-that-ive-been-loving/",
-      "pubDate": "2026-06-18T19:49:45.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple warns price increases are coming, new Siri continues to impress, more iOS 27 features",
-      "url": "https://9to5mac.com/2026/06/18/happy-hour-595/",
-      "pubDate": "2026-06-18T19:44:03.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Report: iPhone sales rise 10% as global smartphone market declines for ninth straight week",
-      "url": "https://9to5mac.com/2026/06/18/report-iphone-sales-rise-10-as-global-smartphone-market-declines-for-ninth-straight-week/",
-      "pubDate": "2026-06-18T19:37:25.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Hands-On With watchOS 27: Every New Apple Watch Feature",
@@ -220,25 +304,11 @@
       "pubDate": "2026-06-18T19:18:30.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Snap’s Specs look good on nobody",
-      "url": "https://www.theverge.com/podcast/952126/snap-specs-ar-glasses-vergecast",
-      "pubDate": "2026-06-18T19:15:03.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Philips Hue Adds Play Table Lamp, Floor Lamp, and New Candle Bulbs",
       "url": "https://www.macrumors.com/2026/06/18/philips-hue-play-lamps/",
       "pubDate": "2026-06-18T18:57:16.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The best early Amazon Prime Day deals so far",
-      "url": "https://www.theverge.com/gadgets/944084/best-early-prime-day-deals",
-      "pubDate": "2026-06-18T18:54:32.000Z"
     },
     {
       "source": "AppleInsider",
@@ -248,25 +318,11 @@
       "pubDate": "2026-06-18T18:16:50.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "This robotic self-driving toilet comes to you",
-      "url": "https://www.theverge.com/tech/952441/yueban-xiaoban-self-driving-autonomous-toilet",
-      "pubDate": "2026-06-18T18:08:17.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple's 1TB M5 MacBook Pro dips to $1,529 with B&H coupon",
       "url": "https://appleinsider.com/articles/26/06/18/apples-1tb-m5-macbook-pro-dips-to-1529-with-bh-coupon?utm_source=rss",
       "pubDate": "2026-06-18T18:02:15.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "A year of Walmart Plus is half off ahead of Prime Day",
-      "url": "https://www.theverge.com/gadgets/952283/walmart-plus-half-off-deal-sale",
-      "pubDate": "2026-06-18T17:33:00.000Z"
     },
     {
       "source": "AppleInsider",
@@ -304,13 +360,6 @@
       "pubDate": "2026-06-18T16:17:54.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Announces Major App Store Changes on iOS in Brazil",
-      "url": "https://www.macrumors.com/2026/06/18/apple-announces-ios-app-store-changes-in-brazil/",
-      "pubDate": "2026-06-18T15:50:43.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Keep Time Capsules viable under macOS 27 ↦",
@@ -318,60 +367,11 @@
       "pubDate": "2026-06-18T15:19:26.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Woody Harrelson and Matthew McConaughey team up in Apple TV's new comedy series \"Brothers\"",
-      "url": "https://appleinsider.com/articles/26/06/18/woody-harrelson-and-matthew-mcconaughey-team-up-in-apple-tvs-new-comedy-series-brothers?utm_source=rss",
-      "pubDate": "2026-06-18T15:18:28.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27 Adds These New Features to Find My, Including 'Hide Location'",
-      "url": "https://www.macrumors.com/2026/06/18/ios-27-find-my-features-hide-location/",
-      "pubDate": "2026-06-18T15:06:48.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Three Ways macOS 27 Improves iPhone Mirroring",
-      "url": "https://www.macrumors.com/2026/06/18/three-ways-macos-27-improves-iphone-mirroring/",
-      "pubDate": "2026-06-18T14:31:39.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Samsung Takes $50 Off 2026 Monitors, Plus Credit Towards Future Purchases",
-      "url": "https://www.macrumors.com/2026/06/18/samsung-2026-monitors/",
-      "pubDate": "2026-06-18T13:49:05.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Trump confirms that Apple will buy chips made by Intel",
-      "url": "https://appleinsider.com/articles/26/06/18/trump-confirms-that-apple-will-buy-chips-made-by-intel?utm_source=rss",
-      "pubDate": "2026-06-18T11:59:18.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) Clockwise 661: Committing to the Bit",
       "url": "https://sixcolors.com/podcast/2026/06/clockwise-661-committing-to-the-bit/",
       "pubDate": "2026-06-17T19:54:12.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) The Rebound 603: I Can’t Imagine Listening To This",
-      "url": "https://sixcolors.com/podcast/2026/06/the-rebound-603-i-cant-imagine-listening-to-this/",
-      "pubDate": "2026-06-17T14:00:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "John Sculley, Apple's most maligned CEO, was ousted 33 years ago",
-      "url": "https://appleinsider.com/articles/26/03/27/apple-at-50-john-sculley-apples-most-maligned-ceo?utm_source=rss",
-      "pubDate": "2026-06-17T13:36:43.000Z"
     }
   ]
 }
