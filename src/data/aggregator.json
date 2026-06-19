@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T20:47:26.054Z",
+  "generatedAt": "2026-06-19T22:13:57.886Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Nothing cancels this year&#8217;s CMF phone due to RAM prices",
+      "url": "https://www.theverge.com/gadgets/953066/nothing-cmf-phone-delayed-ram-prices",
+      "pubDate": "2026-06-19T21:28:39.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -302,13 +309,6 @@
       "title": "Apple Music Reveals Top 20 Most-Streamed Artists of All Time",
       "url": "https://www.macrumors.com/2026/06/18/apple-music-most-streamed-all-time-artists/",
       "pubDate": "2026-06-18T22:26:04.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Valve is so behind on Steam Controller orders that some won&#8217;t ship until 2027",
-      "url": "https://www.theverge.com/games/952582/valve-steam-controller-reservations-orders-behind-estimated-date",
-      "pubDate": "2026-06-18T20:26:06.000Z"
     },
     {
       "source": "MacRumors",
