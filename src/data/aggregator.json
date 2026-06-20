@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T14:32:13.123Z",
+  "generatedAt": "2026-06-20T16:52:07.270Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Musician and YouTuber Hainbach on ‘Breath of the Wild’ and Swiss Army Knives",
+      "url": "https://www.theverge.com/report/953116/experimental-musician-youtuber-hainbach-interview",
+      "pubDate": "2026-06-20T15:20:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple is permanently closing three stores today, here’s the list",
+      "url": "https://9to5mac.com/2026/06/20/three-apple-stores-are-closing-for-good-today/",
+      "pubDate": "2026-06-20T15:11:42.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Unveiled These Five New Apps Last Week",
+      "url": "https://www.macrumors.com/2026/06/20/apple-unveiled-these-five-new-apps/",
+      "pubDate": "2026-06-20T15:00:00.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -206,13 +227,6 @@
       "pubDate": "2026-06-19T15:01:41.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "These are my favorite MagSafe accessories for iPhone",
-      "url": "https://9to5mac.com/2026/06/19/just-get-a-new-iphone-here-are-my-favorite-magsafe-accessories/",
-      "pubDate": "2026-06-19T14:54:37.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "The NTS Radio Player brings the best of internet radio to your hi-fi",
@@ -253,13 +267,6 @@
       "title": "Apple Explains Why watchOS 27 Drops Support for So Many Models",
       "url": "https://www.macrumors.com/2026/06/19/apple-explains-why-watchos-27-drops-support/",
       "pubDate": "2026-06-19T13:07:11.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "T1 Phone PR firm is &#8216;not assisting Trump Mobile any further&#8217;",
-      "url": "https://www.theverge.com/gadgets/952274/t1-phone-pr-firm-not-assisting-trump-mobile-any-further",
-      "pubDate": "2026-06-19T13:00:00.000Z"
     },
     {
       "source": "AppleInsider",
@@ -330,13 +337,6 @@
       "title": "Hands-On With watchOS 27: Every New Apple Watch Feature",
       "url": "https://www.macrumors.com/2026/06/18/watchos-27-hands-on/",
       "pubDate": "2026-06-18T19:35:28.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Philips Hue Adds Play Table Lamp, Floor Lamp, and New Candle Bulbs",
-      "url": "https://www.macrumors.com/2026/06/18/philips-hue-play-lamps/",
-      "pubDate": "2026-06-18T18:57:16.000Z"
     },
     {
       "source": "AppleInsider",
