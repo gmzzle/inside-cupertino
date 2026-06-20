@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T04:41:31.984Z",
+  "generatedAt": "2026-06-20T08:28:31.389Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "SwitchBot’s Standing Circulator Fan is worth fighting for",
+      "url": "https://www.theverge.com/tech/952855/switchbot-standing-circulator-fan-review",
+      "pubDate": "2026-06-20T07:00:00.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -267,13 +274,6 @@
       "title": "OLED iPad Mini: Release Date, Pricing, and What to Expect",
       "url": "https://www.macrumors.com/2026/06/19/oled-ipad-mini-release-date-price-what-to-expect/",
       "pubDate": "2026-06-19T08:46:05.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Barret Zoph is out at OpenAI again after just five months",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
-      "pubDate": "2026-06-19T04:49:33.000Z"
     },
     {
       "source": "AppleInsider",
