@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T18:46:58.941Z",
+  "generatedAt": "2026-06-20T20:41:42.966Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple @ Work: The era of legacy MDM is over, and declarative management is the new standard",
+      "url": "https://9to5mac.com/2026/06/20/apple-work-the-era-of-legacy-mdm-is-over-and-declarative-management-is-the-new-standard/",
+      "pubDate": "2026-06-20T19:46:08.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Indie App Spotlight: ‘Brink’ brings a feature-rich experience to iPhone podcast listening",
+      "url": "https://9to5mac.com/2026/06/20/indie-app-spotlight-brink-brings-a-feature-rich-experience-to-iphone-podcast-listening/",
+      "pubDate": "2026-06-20T19:30:18.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The Atlantic created a searchable database of the music used to train AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+      "pubDate": "2026-06-20T18:46:48.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -213,20 +234,6 @@
       "pubDate": "2026-06-19T15:37:42.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: iPhone 17 Pro/Max up to $290 off, AirPods $99, Apple Watch price drops, M5 Pro MacBook Pro $200 off, more",
-      "url": "https://9to5mac.com/2026/06/19/deals-iphone-17-pro-airpods-apple-watch-macbook-pro/",
-      "pubDate": "2026-06-19T15:30:37.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple just said the thing about Siri that we’ve long wanted to hear",
-      "url": "https://9to5mac.com/2026/06/19/apple-just-said-the-thing-about-siri-that-weve-long-wanted-to-hear/",
-      "pubDate": "2026-06-19T15:01:41.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "The NTS Radio Player brings the best of internet radio to your hi-fi",
@@ -253,13 +260,6 @@
       "title": "Siri AI, Snap Spectacles, and iPhone rumors on the AppleInsider Podcast",
       "url": "https://appleinsider.com/articles/26/06/19/siri-ai-snap-spectacles-and-iphone-rumors-on-the-appleinsider-podcast?utm_source=rss",
       "pubDate": "2026-06-19T14:05:06.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Our long national sunscreen nightmare is almost over",
-      "url": "https://www.theverge.com/column/952744/optimizer-sunscreen-bemotrizinol-fda-health",
-      "pubDate": "2026-06-19T14:00:00.000Z"
     },
     {
       "source": "MacRumors",
