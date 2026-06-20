@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T20:41:42.966Z",
+  "generatedAt": "2026-06-20T22:35:25.417Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Save up to $300 with these early Prime Day Apple deals",
+      "url": "https://appleinsider.com/articles/26/06/20/save-up-to-300-with-these-early-prime-day-apple-deals?utm_source=rss",
+      "pubDate": "2026-06-20T21:52:02.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -344,13 +351,6 @@
       "title": "A12 & A13 Apple devices face an unpatchable SecureROM vulnerability",
       "url": "https://appleinsider.com/articles/26/06/18/a12-a13-apple-devices-face-an-unpatchable-securerom-vulnerability?utm_source=rss",
       "pubDate": "2026-06-18T18:16:50.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple's 1TB M5 MacBook Pro dips to $1,529 with B&H coupon",
-      "url": "https://appleinsider.com/articles/26/06/18/apples-1tb-m5-macbook-pro-dips-to-1529-with-bh-coupon?utm_source=rss",
-      "pubDate": "2026-06-18T18:02:15.000Z"
     },
     {
       "source": "Six Colors",
