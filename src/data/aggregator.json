@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T11:25:56.811Z",
+  "generatedAt": "2026-06-20T14:32:13.123Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Three Apple Stores in U.S. Are Permanently Closing Today",
+      "url": "https://www.macrumors.com/2026/06/20/three-apple-stores-closing-today/",
+      "pubDate": "2026-06-20T14:14:49.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Moves of the Diamond Hand is an unfinished, irresistibly weird dice-based RPG",
+      "url": "https://www.theverge.com/games/949875/moves-of-the-diamond-hand-rpg-dice-jazz-noir",
+      "pubDate": "2026-06-20T14:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Top Stories: Apple Price Hikes Coming, 20th Anniversary iPhone Rumors, and More",
+      "url": "https://www.macrumors.com/2026/06/20/top-stories-apple-price-hikes/",
+      "pubDate": "2026-06-20T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Toy Story has the right take on tech",
+      "url": "https://www.theverge.com/tech/952547/toy-story-5-tech-android-17-snap-specs-installer",
+      "pubDate": "2026-06-20T12:00:00.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -248,20 +276,6 @@
       "pubDate": "2026-06-19T12:06:07.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "In season 2 of Sugar, Colin Farrell’s quirky detective becomes much more human",
-      "url": "https://www.theverge.com/entertainment/951638/sugar-season-2-colin-farrell-interview-apple-tv",
-      "pubDate": "2026-06-19T12:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Kaleidescape’s movie player blows streaming, and your wallet, away",
-      "url": "https://www.theverge.com/tech/951718/kaleidescape-strato-e-review",
-      "pubDate": "2026-06-19T12:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Report: iPhone 18 Pro Could Start at $1,399 Amid Price Hikes",
@@ -344,20 +358,6 @@
       "title": "(Podcast) Upgrade 623: Road to the Apple II: A Complete Computer (Part 3)",
       "url": "https://sixcolors.com/podcast/2026/06/upgrade-623-road-to-the-apple-ii-a-complete-computer-part-3/",
       "pubDate": "2026-06-18T16:56:30.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "You Can Watch All of F1's 2026 Austrian Grand Prix For Free on Apple TV",
-      "url": "https://www.macrumors.com/2026/06/18/f1-2026-austrian-grand-prix-free-on-apple-tv/",
-      "pubDate": "2026-06-18T16:30:38.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple's A12 and A13 Chips Facing New Unpatchable Exploit",
-      "url": "https://www.macrumors.com/2026/06/18/a12-and-a13-chips-facing-exploit/",
-      "pubDate": "2026-06-18T16:17:54.000Z"
     },
     {
       "source": "Six Colors",
