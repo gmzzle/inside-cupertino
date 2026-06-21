@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T13:18:41.931Z",
+  "generatedAt": "2026-06-21T16:12:01.811Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,69 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "AirPods Pro 3 Return to Record Low $169 Price Ahead of Prime Day",
+      "url": "https://www.macrumors.com/2026/06/21/airpods-pro-3-record-low-169/",
+      "pubDate": "2026-06-21T15:32:39.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Mac game developers need to enable this in Steam to avoid a 32-bit problem",
+      "url": "https://appleinsider.com/inside/macos/tips/mac-game-developers-need-to-enable-this-in-steam-to-avoid-a-32-bit-problem?utm_source=rss",
+      "pubDate": "2026-06-21T15:17:10.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "John Ternus set to re-establish importance of Apple’s design team when he takes over as CEO: report",
+      "url": "https://9to5mac.com/2026/06/21/john-ternus-apple-design-team-influence/",
+      "pubDate": "2026-06-21T14:53:29.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Incoming CEO John Ternus may be looking to fix something that isn't broken",
+      "url": "https://appleinsider.com/articles/26/06/21/incoming-ceo-john-ternus-may-be-looking-to-fix-something-that-isnt-broken?utm_source=rss",
+      "pubDate": "2026-06-21T14:53:19.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple to Release These 20 New Products Across Rest of 2026 and 2027",
+      "url": "https://www.macrumors.com/2026/06/21/20-rumored-apple-products-in-2026-and-2027/",
+      "pubDate": "2026-06-21T14:42:50.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's home automation updates & new product releases will stretch into 2028",
+      "url": "https://appleinsider.com/articles/26/06/21/apples-home-automation-updates-new-product-releases-will-stretch-into-2028?utm_source=rss",
+      "pubDate": "2026-06-21T14:40:56.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Five New iOS 27 Features You Might Have Missed",
+      "url": "https://www.macrumors.com/2026/06/21/five-ios-27-features-you-may-have-missed/",
+      "pubDate": "2026-06-21T14:30:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Tiny Ann Arbor Apple Store will move to a bigger space in July",
+      "url": "https://appleinsider.com/articles/26/06/21/tiny-ann-arbor-apple-store-will-move-to-a-bigger-space-in-july?utm_source=rss",
+      "pubDate": "2026-06-21T14:28:03.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "That viral clip you saw of someone winning big on Polymarket was probably fake",
+      "url": "https://www.theverge.com/tech/953285/polymarket-fake-viral-video-bets",
+      "pubDate": "2026-06-21T14:19:46.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -171,13 +234,6 @@
       "pubDate": "2026-06-19T18:48:49.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "NASA selects Eric Schmidt&#8217;s rocket company for a 2028 mission to Mars",
-      "url": "https://www.theverge.com/science/952988/nasa-relativity-space-eric-schmidt-mars",
-      "pubDate": "2026-06-19T18:41:48.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "New Aspekt Touch & Folio displays bring touch-first computing to Macs",
@@ -241,13 +297,6 @@
       "pubDate": "2026-06-19T16:00:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: June 19, 2026 – Apple confirms looming price increases",
-      "url": "https://9to5mac.com/2026/06/19/daily-june-19-2026/",
-      "pubDate": "2026-06-19T16:00:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Siri AI leaves older Apple Watches behind without a clear reason",
@@ -304,53 +353,11 @@
       "pubDate": "2026-06-19T08:46:05.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Mac game developers need to enable this in Steam to avoid a 32-bit problem",
-      "url": "https://appleinsider.com/inside/macos/tips/mac-game-developers-need-to-enable-this-in-steam-to-avoid-a-32-bit-problem?utm_source=rss",
-      "pubDate": "2026-06-19T02:58:56.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Top 20 most streamed artists on Apple Music revealed",
-      "url": "https://appleinsider.com/articles/26/06/19/top-20-most-streamed-artists-on-apple-music-revealed?utm_source=rss",
-      "pubDate": "2026-06-19T00:38:47.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Everything New in Calendar and Reminders in iOS 27",
-      "url": "https://www.macrumors.com/guide/ios-27-calendar-reminders/",
-      "pubDate": "2026-06-19T00:07:02.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Outgoing Apple CEO delivers the bad news: Prices are going up ↦",
       "url": "https://sixcolors.com/link/2026/06/outgoing-apple-ceo-delivers-the-bad-news-prices-are-going-up/",
       "pubDate": "2026-06-19T00:05:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Music Reveals Top 20 Most-Streamed Artists of All Time",
-      "url": "https://www.macrumors.com/2026/06/18/apple-music-most-streamed-all-time-artists/",
-      "pubDate": "2026-06-18T22:26:04.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Hands-On With watchOS 27: Every New Apple Watch Feature",
-      "url": "https://www.macrumors.com/2026/06/18/watchos-27-hands-on/",
-      "pubDate": "2026-06-18T19:35:28.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "A12 & A13 Apple devices face an unpatchable SecureROM vulnerability",
-      "url": "https://appleinsider.com/articles/26/06/18/a12-a13-apple-devices-face-an-unpatchable-securerom-vulnerability?utm_source=rss",
-      "pubDate": "2026-06-18T18:16:50.000Z"
     },
     {
       "source": "Six Colors",
@@ -365,13 +372,6 @@
       "title": "Keep Time Capsules viable under macOS 27 ↦",
       "url": "https://sixcolors.com/link/2026/06/keep-time-capsules-viable-under-macos-27/",
       "pubDate": "2026-06-18T15:19:26.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) Clockwise 661: Committing to the Bit",
-      "url": "https://sixcolors.com/podcast/2026/06/clockwise-661-committing-to-the-bit/",
-      "pubDate": "2026-06-17T19:54:12.000Z"
     }
   ]
 }
