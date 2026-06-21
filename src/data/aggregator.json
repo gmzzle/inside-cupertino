@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T10:47:34.908Z",
+  "generatedAt": "2026-06-21T13:18:41.931Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "How Roomba started a robot revolution",
+      "url": "https://www.theverge.com/podcast/953275/roomba-robot-vacuum-version-history",
+      "pubDate": "2026-06-21T12:29:01.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Electric air taxis are stuck in the courtroom",
+      "url": "https://www.theverge.com/column/950975/electric-air-taxis-lawsuits",
+      "pubDate": "2026-06-21T12:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Sony’s Xperia 1 VIII is still a phone for the fans",
+      "url": "https://www.theverge.com/tech/952245/sony-xperia-1-viii-review",
+      "pubDate": "2026-06-21T11:00:00.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -171,13 +192,6 @@
       "pubDate": "2026-06-19T17:27:43.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Hue’s wired wall modules bring non-smart lights into its ecosystem",
-      "url": "https://www.theverge.com/tech/952953/phillips-hue-wired-wall-module-play-lamp-candle-bulb",
-      "pubDate": "2026-06-19T17:24:45.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "visionOS 27 gives the M5 Vision Pro two unique new advantages",
@@ -241,25 +255,11 @@
       "pubDate": "2026-06-19T15:37:42.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The NTS Radio Player brings the best of internet radio to your hi-fi",
-      "url": "https://www.theverge.com/entertainment/952910/nts-radio-player-atonemo-music-streaming",
-      "pubDate": "2026-06-19T14:53:53.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Prime Day 2026: Best Early Apple Device and Accessory Deals Now Live",
       "url": "https://www.macrumors.com/2026/06/19/early-prime-day-deals-apple-2026/",
       "pubDate": "2026-06-19T14:46:06.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The film about Sam Altman has been dropped by Amazon MGM",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
-      "pubDate": "2026-06-19T14:15:29.000Z"
     },
     {
       "source": "AppleInsider",
