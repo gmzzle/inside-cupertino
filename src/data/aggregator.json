@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T23:45:31.185Z",
+  "generatedAt": "2026-06-22T05:31:55.199Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "These are the best new MacBook deals currently: June 2026 Buyer’s Guide",
+      "url": "https://9to5mac.com/2026/06/21/best-new-macbook-deals-right-now-june-2026/",
+      "pubDate": "2026-06-22T04:29:49.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Amazon slashes Apple Watch Series 11 to $279 in early Prime Day sale",
+      "url": "https://appleinsider.com/articles/26/06/22/amazon-slashes-apple-watch-series-11-to-279-in-early-prime-day-sale?utm_source=rss",
+      "pubDate": "2026-06-22T04:02:46.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Amazon's $169 AirPods Pro 3 deal is back for Prime Week",
+      "url": "https://appleinsider.com/articles/26/06/22/amazons-169-airpods-pro-3-deal-is-back-for-prime-week?utm_source=rss",
+      "pubDate": "2026-06-22T03:08:54.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Wallet’s Digital ID feature could potentially have a major new use case soon",
+      "url": "https://9to5mac.com/2026/06/21/apple-wallets-digital-id-feature-could-potentially-have-a-major-new-use-case-soon/",
+      "pubDate": "2026-06-22T01:44:55.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -269,13 +297,6 @@
       "pubDate": "2026-06-19T16:17:27.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Music in iOS 27 introduces new design changes in two key areas",
-      "url": "https://9to5mac.com/2026/06/19/apple-music-in-ios-27-introduces-new-design-changes-in-two-key-areas/",
-      "pubDate": "2026-06-19T16:16:56.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Alogic Debuts New Touchscreen Monitors and Portable Displays With Mac Support",
@@ -297,13 +318,6 @@
       "pubDate": "2026-06-19T16:00:49.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "The Oura Ring 5 is the ultra-smart wearable you won’t know you’re wearing",
-      "url": "https://9to5mac.com/2026/06/19/the-oura-ring-5-is-the-ultra-smart-wearable-you-wont-know-youre-wearing/",
-      "pubDate": "2026-06-19T16:00:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Siri AI leaves older Apple Watches behind without a clear reason",
@@ -318,25 +332,11 @@
       "pubDate": "2026-06-19T14:46:06.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Siri AI, Snap Spectacles, and iPhone rumors on the AppleInsider Podcast",
-      "url": "https://appleinsider.com/articles/26/06/19/siri-ai-snap-spectacles-and-iphone-rumors-on-the-appleinsider-podcast?utm_source=rss",
-      "pubDate": "2026-06-19T14:05:06.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Explains Why watchOS 27 Drops Support for So Many Models",
       "url": "https://www.macrumors.com/2026/06/19/apple-explains-why-watchos-27-drops-support/",
       "pubDate": "2026-06-19T13:07:11.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPadOS 27 beta review: Your iPad, now with Siri AI",
-      "url": "https://appleinsider.com/articles/26/06/19/ipados-27-beta-review-your-ipad-now-with-siri-ai?utm_source=rss",
-      "pubDate": "2026-06-19T12:15:24.000Z"
     },
     {
       "source": "MacRumors",
