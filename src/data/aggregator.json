@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T05:31:55.199Z",
+  "generatedAt": "2026-06-22T12:26:46.006Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,76 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Watch Ultra 4 Expected Later This Year",
+      "url": "https://www.macrumors.com/2026/06/22/apple-watch-ultra-4-expected-later-this-year/",
+      "pubDate": "2026-06-22T12:23:15.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Watch Series 11, Ultra 3, and more hit new Prime Day lows (from $199)",
+      "url": "https://9to5mac.com/2026/06/22/apple-watch-best-prime-day-deals/",
+      "pubDate": "2026-06-22T12:18:08.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple’s productivity apps have a small but useful AI enhancement in macOS 27",
+      "url": "https://9to5mac.com/2026/06/22/apples-productivity-apps-have-a-small-but-useful-ai-enhancement-in-macos-27/",
+      "pubDate": "2026-06-22T12:05:59.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iPadOS 27 beta review: Your iPad, now with Siri AI",
+      "url": "https://appleinsider.com/articles/26/06/19/ipados-27-beta-review-your-ipad-now-with-siri-ai?utm_source=rss",
+      "pubDate": "2026-06-22T11:33:02.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple Watch sales rise, but can't get back to previous highs",
+      "url": "https://appleinsider.com/articles/26/06/22/apple-watch-sales-rise-but-cant-get-back-to-previous-highs?utm_source=rss",
+      "pubDate": "2026-06-22T11:32:23.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Three reasons to suspect the Apple price increases could be imminent",
+      "url": "https://9to5mac.com/2026/06/22/three-reasons-to-suspect-the-apple-price-increases-could-be-imminent/",
+      "pubDate": "2026-06-22T11:25:42.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Read this before you vibe-code another app",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
+      "pubDate": "2026-06-22T11:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone 17 Prices Could Go Up as Soon as This Month",
+      "url": "https://www.macrumors.com/2026/06/22/iphone-17-prices-could-go-up-this-month/",
+      "pubDate": "2026-06-22T10:39:50.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple Watch Ultra 3 falls to $649, lowest price ever before Prime Day",
+      "url": "https://appleinsider.com/articles/26/06/22/apple-watch-ultra-3-falls-to-649-lowest-price-ever-before-prime-day?utm_source=rss",
+      "pubDate": "2026-06-22T07:53:23.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "AirPods Max 2 plunge to record-low $399 ahead of Amazon Prime Day",
+      "url": "https://appleinsider.com/articles/26/06/22/airpods-max-2-plunge-to-record-low-399-ahead-of-amazon-prime-day?utm_source=rss",
+      "pubDate": "2026-06-22T06:30:41.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -227,13 +297,6 @@
       "pubDate": "2026-06-20T13:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Toy Story has the right take on tech",
-      "url": "https://www.theverge.com/tech/952547/toy-story-5-tech-android-17-snap-specs-installer",
-      "pubDate": "2026-06-20T12:00:00.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "WhatsApp tests new animated message bubbles on iPhone",
@@ -255,41 +318,6 @@
       "pubDate": "2026-06-19T19:51:38.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "HomeKit Weekly: The Qingping Air Monitor Lite brings a retro vibe to Apple Home climate tracking",
-      "url": "https://9to5mac.com/2026/06/19/qingping-air-monitor-lite-2/",
-      "pubDate": "2026-06-19T18:54:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple’s M6 chip launches this fall, with these new products rumored",
-      "url": "https://9to5mac.com/2026/06/19/apples-m6-chip-launches-this-fall-with-these-new-products-rumored/",
-      "pubDate": "2026-06-19T18:48:49.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "New Aspekt Touch & Folio displays bring touch-first computing to Macs",
-      "url": "https://appleinsider.com/articles/26/06/19/new-aspekt-touch-folio-displays-bring-touch-first-computing-to-macs?utm_source=rss",
-      "pubDate": "2026-06-19T17:42:55.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "What Siri AI, Apple TV, & more are like with CarPlay in iOS 27",
-      "url": "https://appleinsider.com/articles/26/06/19/what-siri-ai-apple-tv-more-are-like-with-carplay-in-ios-27?utm_source=rss",
-      "pubDate": "2026-06-19T17:27:43.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "visionOS 27 gives the M5 Vision Pro two unique new advantages",
-      "url": "https://9to5mac.com/2026/06/19/visionos-27-gives-the-m5-vision-pro-two-unique-new-advantages/",
-      "pubDate": "2026-06-19T17:22:29.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "The MacRumors Show: Hands-On With iOS 27, Brutal watchOS 27 Cuts, and More",
@@ -304,25 +332,11 @@
       "pubDate": "2026-06-19T16:12:47.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Amazon's AirPods 4 sale slashes price to $99, with delivery by Father's Day",
-      "url": "https://appleinsider.com/articles/26/06/19/amazons-airpods-4-sale-slashes-price-to-99-with-delivery-by-fathers-day?utm_source=rss",
-      "pubDate": "2026-06-19T16:09:16.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Sponsor) Magic Lasso Adblock: Effortlessly block ads on your iPhone, iPad, Mac and Apple TV",
       "url": "https://sixcolors.com/sponsor/2026/06/magic-lasso-adblock-effortlessly-block-ads-on-your-iphone-ipad-mac-and-apple-tv-5/",
       "pubDate": "2026-06-19T16:00:49.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Siri AI leaves older Apple Watches behind without a clear reason",
-      "url": "https://appleinsider.com/articles/26/06/19/siri-ai-leaves-older-apple-watches-behind-without-a-clear-reason?utm_source=rss",
-      "pubDate": "2026-06-19T15:37:42.000Z"
     },
     {
       "source": "MacRumors",
@@ -337,20 +351,6 @@
       "title": "Apple Explains Why watchOS 27 Drops Support for So Many Models",
       "url": "https://www.macrumors.com/2026/06/19/apple-explains-why-watchos-27-drops-support/",
       "pubDate": "2026-06-19T13:07:11.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Report: iPhone 18 Pro Could Start at $1,399 Amid Price Hikes",
-      "url": "https://www.macrumors.com/2026/06/19/iphone-18-pro-could-start-at-1399/",
-      "pubDate": "2026-06-19T11:03:15.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "OLED iPad Mini: Release Date, Pricing, and What to Expect",
-      "url": "https://www.macrumors.com/2026/06/19/oled-ipad-mini-release-date-price-what-to-expect/",
-      "pubDate": "2026-06-19T08:46:05.000Z"
     },
     {
       "source": "Six Colors",
