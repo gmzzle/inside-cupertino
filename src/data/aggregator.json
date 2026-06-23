@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T16:43:02.248Z",
+  "generatedAt": "2026-06-23T19:19:56.628Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -26,9 +26,149 @@
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
-      "title": "The best Apple deals you can get during Prime Day",
-      "url": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
-      "pubDate": "2026-06-23T16:33:48.000Z"
+      "title": "Tesla claims driver &#8216;manually overrode self-driving&#8217; in deadly Texas crash",
+      "url": "https://www.theverge.com/transportation/955153/tesla-full-self-driving-texas-crash",
+      "pubDate": "2026-06-23T19:11:04.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Here are the best Prime Day deals on the Verge staff’s favorite stuff",
+      "url": "https://www.theverge.com/gadgets/952503/best-prime-day-deals-verge-favorites-2026",
+      "pubDate": "2026-06-23T19:06:37.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The Lenovo Legion Go S gaming handheld is $549 for Prime Day",
+      "url": "https://www.theverge.com/gadgets/955090/lenovo-legion-go-s-prime-day-deal-sale",
+      "pubDate": "2026-06-23T19:00:39.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Eufy’s Omni C28 is one of the best Prime Day deals on robot vacuums",
+      "url": "https://www.theverge.com/gadgets/951230/eufy-omni-c28-robot-vacuum-amazon-prime-day-deal-sale",
+      "pubDate": "2026-06-23T19:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Cheap stuff that doesn’t suck and is under $25 for Prime Day",
+      "url": "https://www.theverge.com/gadgets/951852/prime-day-deals-cheap-stuff-under-25-sale",
+      "pubDate": "2026-06-23T19:00:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple rolls out watchOS 27 beta 2 for Apple Watch",
+      "url": "https://appleinsider.com/articles/26/06/23/apple-rolls-out-watchos-27-beta-2-for-apple-watch?utm_source=rss",
+      "pubDate": "2026-06-23T18:49:24.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone 18 Pro: Three new features that already have me excited",
+      "url": "https://9to5mac.com/2026/06/23/iphone-18-pro-three-new-features-that-already-have-me-excited/",
+      "pubDate": "2026-06-23T18:45:32.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Zuckerberg reportedly wants a Polymarket clone — but without real money",
+      "url": "https://www.theverge.com/tech/955121/meta-prediction-market-app-arena-polymarket-kalshi-clone",
+      "pubDate": "2026-06-23T18:31:25.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "These are my favorite Prime Day deals on earbuds and headphones",
+      "url": "https://www.theverge.com/gadgets/952601/earbuds-headphones-deals-prime-day-2026",
+      "pubDate": "2026-06-23T18:30:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "LastPass user data stolen by hackers again",
+      "url": "https://appleinsider.com/articles/26/06/23/lastpass-user-data-stolen-by-hackers-again?utm_source=rss",
+      "pubDate": "2026-06-23T18:27:23.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Seeds watchOS 27 Beta 2 to Developers",
+      "url": "https://www.macrumors.com/2026/06/23/apple-seeds-watchos-27-beta-2-to-developers/",
+      "pubDate": "2026-06-23T18:18:05.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "The 10 Best Apple Prime Day Deals You Can Get for Under $100",
+      "url": "https://www.macrumors.com/2026/06/23/best-apple-prime-day-deals-under-100/",
+      "pubDate": "2026-06-23T18:17:49.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The best Prime Day deals we found on our favorite gear",
+      "url": "https://www.theverge.com/gadgets/948610/best-prime-day-tech-deals-sale",
+      "pubDate": "2026-06-23T18:14:44.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "watchOS 27 beta 2 available now for Apple Watch",
+      "url": "https://9to5mac.com/2026/06/23/watchos-27-beta-2-available-now-for-apple-watch/",
+      "pubDate": "2026-06-23T18:10:01.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: June 23, 2026 – iOS 27 beta 2 changes, more",
+      "url": "https://9to5mac.com/2026/06/23/daily-june-23-2026/",
+      "pubDate": "2026-06-23T18:07:13.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The best robot vacuum deals available during Prime Day",
+      "url": "https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026",
+      "pubDate": "2026-06-23T17:42:13.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Anthropic launches Claude Tag enterprise collaborative tool for agentic workflows",
+      "url": "https://9to5mac.com/2026/06/23/anthropic-launches-claude-tag-enterprise-collaborative-tool-for-agentic-workflows/",
+      "pubDate": "2026-06-23T17:30:26.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Best Prime Day iPad deals slash prices to as low as $299",
+      "url": "https://appleinsider.com/articles/26/06/23/best-prime-day-ipad-deals-slash-prices-to-as-low-as-299?utm_source=rss",
+      "pubDate": "2026-06-23T17:19:12.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Formula E&#8217;s new season is starting to look more like F1",
+      "url": "https://www.theverge.com/transportation/955011/formula-e-season-13-electric-racing",
+      "pubDate": "2026-06-23T17:02:28.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Shares Video on How Pro Surfers Use Apple Watch During Competition",
+      "url": "https://www.macrumors.com/2026/06/23/apple-watch-world-surf-league/",
+      "pubDate": "2026-06-23T16:57:57.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "YouTube Music may be working on support for offline downloads on Apple Watch",
+      "url": "https://9to5google.com/2026/06/23/youtube-music-may-soon-support-offline-downloads-on-apple-watch/",
+      "pubDate": "2026-06-23T16:55:18.000Z"
     },
     {
       "source": "Six Colors",
@@ -40,7 +180,7 @@
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
-      "title": "How Apple Watch is enhancing pro surfing for athletes with real-time data and scoring",
+      "title": "Watch how Apple Watch is enhancing professional surfing for athletes",
       "url": "https://9to5mac.com/2026/06/23/how-apple-watch-is-enhancing-pro-surfing-for-athletes-with-real-time-data-and-scoring/",
       "pubDate": "2026-06-23T16:21:22.000Z"
     },
@@ -50,27 +190,6 @@
       "title": "Best Prime Day Thunderbolt dock deals deliver up to $155 in savings",
       "url": "https://appleinsider.com/articles/26/06/23/best-prime-day-thunderbolt-dock-deals-deliver-up-to-155-in-savings?utm_source=rss",
       "pubDate": "2026-06-23T16:12:54.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Here are the best Prime Day deals on the Verge staff’s favorite stuff",
-      "url": "https://www.theverge.com/gadgets/952503/best-prime-day-deals-verge-favorites-2026",
-      "pubDate": "2026-06-23T16:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Netflix’s next TV gaming experiment will scare the hell out of you",
-      "url": "https://www.theverge.com/entertainment/953933/unhinged-netflix-horror-tv-game",
-      "pubDate": "2026-06-23T16:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Something&#8217;s off with Midjourney’s pivot to body scanners",
-      "url": "https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence",
-      "pubDate": "2026-06-23T15:56:35.000Z"
     },
     {
       "source": "MacRumors",
@@ -94,25 +213,11 @@
       "pubDate": "2026-06-23T15:44:40.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Meta’s smart glasses now have a dedicated charging stand",
-      "url": "https://www.theverge.com/tech/954900/meta-glasses-charging-stand-price-launch",
-      "pubDate": "2026-06-23T15:39:38.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Prime Day 1 deals: AirPods, iPhone 17 Pro $365 off, AirTag 2 all-time low, Apple Watch, black Magic Mouse, much more",
       "url": "https://9to5mac.com/2026/06/23/prime-day-deals-airpods-iphone-17-airtag-2-apple-watch/",
       "pubDate": "2026-06-23T15:30:18.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "How much would the Steam Machine cost to build?",
-      "url": "https://www.theverge.com/games/953989/valve-steam-machine-pc-build-alternative",
-      "pubDate": "2026-06-23T15:30:00.000Z"
     },
     {
       "source": "MacRumors",
@@ -129,25 +234,11 @@
       "pubDate": "2026-06-23T15:16:54.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The best Prime Day deals we found on our favorite gear",
-      "url": "https://www.theverge.com/gadgets/948610/best-prime-day-tech-deals-sale",
-      "pubDate": "2026-06-23T15:12:52.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Prime Day monitor deals slash up to 50% off 4K, ultrawide & OLED displays",
       "url": "https://appleinsider.com/articles/26/06/23/prime-day-monitor-deals-slash-up-to-50-off-4k-ultrawide-oled-displays?utm_source=rss",
       "pubDate": "2026-06-23T15:03:33.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Fitbit Air takes a smarter approach to the AI health dumpster fire",
-      "url": "https://www.theverge.com/tech/954768/google-fitbit-air-review-fitness-tracker-wearable-ai-health-coach",
-      "pubDate": "2026-06-23T15:00:00.000Z"
     },
     {
       "source": "MacRumors",
@@ -194,7 +285,7 @@
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
-      "title": "Disguised Russian banking app tops US App Store again",
+      "title": "Disguised Russian banking apps topped US App Store again",
       "url": "https://9to5mac.com/2026/06/23/second-disguised-russian-banking-app-tops-the-app-store-this-month/",
       "pubDate": "2026-06-23T14:14:47.000Z"
     },
@@ -204,13 +295,6 @@
       "title": "Meta Launches Its Own $299 Smart Glasses Ahead of Apple's Debut",
       "url": "https://www.macrumors.com/2026/06/23/meta-launches-its-own-299-smart-glasses/",
       "pubDate": "2026-06-23T14:11:50.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Hoto’s 25-bit electric screwdriver is 40 percent off during Prime Day",
-      "url": "https://www.theverge.com/gadgets/953038/hoto-electric-screwdriver-kit-pro-amazon-deal-sale",
-      "pubDate": "2026-06-23T14:00:00.000Z"
     },
     {
       "source": "AppleInsider",
@@ -248,46 +332,11 @@
       "pubDate": "2026-06-23T13:34:45.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Oura Ring 4 is as low as $226 for Prime Day",
-      "url": "https://www.theverge.com/gadgets/953517/oura-ring-4-prime-day-smart-ring-deal-sale",
-      "pubDate": "2026-06-23T13:30:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple's Foldable iPhone Could Lose Almost $1,300 in Value in First Year, Study Suggests",
       "url": "https://www.macrumors.com/2026/06/23/foldable-iphone-could-lose-1300-in-first-year/",
       "pubDate": "2026-06-23T13:08:20.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Should the iPhone Air 2 have an ultrawide or telephoto as the second camera? [Poll]",
-      "url": "https://9to5mac.com/2026/06/23/should-the-iphone-air-2-have-an-ultrawide-or-telephoto-as-the-second-camera-poll/",
-      "pubDate": "2026-06-23T13:08:03.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Speechify brings voice typing to all iPhone and Mac users",
-      "url": "https://9to5mac.com/2026/06/23/speechify-brings-voice-typing-to-all-iphone-and-mac-users/",
-      "pubDate": "2026-06-23T13:00:09.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "All the best Apple Prime Day deals now live",
-      "url": "https://9to5mac.com/2026/06/23/all-best-apple-prime-day-deals-live/",
-      "pubDate": "2026-06-23T12:51:36.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Buying an iPhone Ultra could be an expensive experiment, warns resale site",
-      "url": "https://9to5mac.com/2026/06/23/buying-an-iphone-ultra-could-be-an-expensive-experiment-warns-resale-site/",
-      "pubDate": "2026-06-23T12:36:53.000Z"
     },
     {
       "source": "AppleInsider",
@@ -297,60 +346,11 @@
       "pubDate": "2026-06-23T12:06:43.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Best Prime Day AirPods deals: Save $150 on AirPods Max 2, AirPods Pro 3, Beats, more (from $99)",
-      "url": "https://9to5mac.com/2026/06/23/best-prime-day-airpods-deals/",
-      "pubDate": "2026-06-23T11:45:54.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "The Best Prime Day Deals on AirPods, Apple Watch, AirTag, and More",
-      "url": "https://www.macrumors.com/2026/06/23/prime-day-2026-best-apple-deals/",
-      "pubDate": "2026-06-23T11:30:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Confidential Apple Files Leaked on Dark Web After Supplier Cyberattack",
-      "url": "https://www.macrumors.com/2026/06/23/apple-files-leaked-dark-web-cyberattack/",
-      "pubDate": "2026-06-23T11:20:41.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Hackers steal Apple and Tesla data from Tata's iPhone factory",
       "url": "https://appleinsider.com/articles/26/06/23/hackers-steal-apple-and-tesla-data-from-tatas-iphone-factory?utm_source=rss",
       "pubDate": "2026-06-23T11:20:13.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "UK iCloud Users Could Claim £77 Each as Apple Case Heads to Trial",
-      "url": "https://www.macrumors.com/2026/06/23/apple-3-billion-uk-icloud-case-cleared-for-trial/",
-      "pubDate": "2026-06-23T08:49:52.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Prime Day MacBook Air deals slash prices to as low as $799",
-      "url": "https://appleinsider.com/articles/26/06/23/prime-day-macbook-air-deals-slash-prices-to-as-low-as-799?utm_source=rss",
-      "pubDate": "2026-06-23T07:46:47.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple Watch Ultra models plunge to as low as $499 for Prime Day",
-      "url": "https://appleinsider.com/articles/26/06/23/apple-watch-ultra-models-plunge-to-as-low-as-499-for-prime-day?utm_source=rss",
-      "pubDate": "2026-06-23T07:11:16.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "How to make OBS chroma key smarter by using Background Replacement in macOS",
-      "url": "https://appleinsider.com/articles/26/06/23/how-to-make-obs-chroma-key-smarter-by-using-background-replacement-in-macos?utm_source=rss",
-      "pubDate": "2026-06-23T02:59:34.000Z"
     },
     {
       "source": "Six Colors",
