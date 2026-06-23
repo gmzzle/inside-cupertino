@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T01:24:20.219Z",
+  "generatedAt": "2026-06-23T06:20:03.630Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "How to make OBS chroma key smarter by using Background Replacement in macOS",
+      "url": "https://appleinsider.com/articles/26/06/23/how-to-make-obs-chroma-key-smarter-by-using-background-replacement-in-macos?utm_source=rss",
+      "pubDate": "2026-06-23T02:59:34.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Cannes Lions 2026 Entertainment Person of the Year is Apple TV chief",
+      "url": "https://appleinsider.com/articles/26/06/23/cannes-lions-2026-entertainment-person-of-the-year-is-apple-tv-chief?utm_source=rss",
+      "pubDate": "2026-06-23T02:30:03.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Eddy Cue accepts Entertainment Person of the Year Award at Cannes Lions",
+      "url": "https://9to5mac.com/2026/06/22/eddy-cue-accepts-entertainment-person-of-the-year-award-at-cannes-lions/",
+      "pubDate": "2026-06-23T01:48:52.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -262,13 +283,6 @@
       "pubDate": "2026-06-22T17:18:13.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple releases beta 2 for tvOS 27, visionOS 27, and more",
-      "url": "https://9to5mac.com/2026/06/22/apple-releases-beta-2-for-tvos-27-visionos-27-and-more/",
-      "pubDate": "2026-06-22T17:16:27.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Valve is working with AMD to bring FSR 4 to the Steam Machine",
@@ -339,25 +353,11 @@
       "pubDate": "2026-06-22T16:57:14.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "AirPods get customizable EQ, improved precision finding, and more in iOS 27",
-      "url": "https://appleinsider.com/articles/26/06/22/airpods-get-customizable-eq-improved-precision-finding-and-more-in-ios-27?utm_source=rss",
-      "pubDate": "2026-06-22T16:12:07.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Sponsor) Mojave Paint",
       "url": "https://sixcolors.com/feed-only/2026/06/mojave-paint/",
       "pubDate": "2026-06-22T16:00:22.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Jon Harros from the CSA talks Matter 1.6 on Smart Home Insider",
-      "url": "https://appleinsider.com/articles/26/06/22/jon-harros-from-the-csa-talks-matter-16-on-smart-home-insider?utm_source=rss",
-      "pubDate": "2026-06-22T15:36:54.000Z"
     },
     {
       "source": "Six Colors",
