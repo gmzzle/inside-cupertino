@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T10:43:59.122Z",
+  "generatedAt": "2026-06-23T13:47:10.971Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,6 +24,174 @@
   ],
   "items": [
     {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Chinese developers rally against App Store fees yet again",
+      "url": "https://appleinsider.com/articles/26/06/23/chinese-developers-rally-against-app-store-fees-yet-again?utm_source=rss",
+      "pubDate": "2026-06-23T13:45:07.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "AirPods Prime Day Deals Arrive With AirPods Max 2 at $399 and AirPods 4 at $99",
+      "url": "https://www.macrumors.com/2026/06/23/airpods-prime-day-deals/",
+      "pubDate": "2026-06-23T13:40:31.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "New Apple TV comedy sees injured tennis star grudgingly embrace pickleball",
+      "url": "https://9to5mac.com/2026/06/23/new-apple-tv-comedy-sees-injured-tennis-star-grudgingly-embrace-pickleball/",
+      "pubDate": "2026-06-23T13:34:45.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The Oura Ring 4 is as low as $226 for Prime Day",
+      "url": "https://www.theverge.com/gadgets/953517/oura-ring-4-prime-day-smart-ring-deal-sale",
+      "pubDate": "2026-06-23T13:30:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Sony’s AI Camera Assistant is exactly as bad as it looks",
+      "url": "https://www.theverge.com/tech/954676/sony-xperia-1-viii-ai-camera-assistant",
+      "pubDate": "2026-06-23T13:25:42.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's Foldable iPhone Could Lose Almost $1,300 in Value in First Year, Study Suggests",
+      "url": "https://www.macrumors.com/2026/06/23/foldable-iphone-could-lose-1300-in-first-year/",
+      "pubDate": "2026-06-23T13:08:20.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Should the iPhone Air 2 have an ultrawide or telephoto as the second camera? [Poll]",
+      "url": "https://9to5mac.com/2026/06/23/should-the-iphone-air-2-have-an-ultrawide-or-telephoto-as-the-second-camera-poll/",
+      "pubDate": "2026-06-23T13:08:03.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Speechify brings voice typing to all iPhone and Mac users",
+      "url": "https://9to5mac.com/2026/06/23/speechify-brings-voice-typing-to-all-iphone-and-mac-users/",
+      "pubDate": "2026-06-23T13:00:09.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "My go-to Kindle is back at its best price yet for Prime Day",
+      "url": "https://www.theverge.com/gadgets/952555/kindle-paperwhite-amazon-deal-sale",
+      "pubDate": "2026-06-23T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Valve confirms it&#8217;s working with Intel and Nvidia on SteamOS for more GPUs",
+      "url": "https://www.theverge.com/games/952634/valve-intel-nvidia-steamos-gpus-linux",
+      "pubDate": "2026-06-23T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "I’m not giving up my Steam Deck for MSI’s new Claw",
+      "url": "https://www.theverge.com/games/952637/msi-claw-8-ex-ai-plus-intel-g3-extreme-steam-deck-hands-on",
+      "pubDate": "2026-06-23T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Meta launches cheaper smart glasses without Ray-Ban",
+      "url": "https://www.theverge.com/tech/954052/meta-glasses-hands-on-kylie-jenner-smart-glasses-price-battery-privacy",
+      "pubDate": "2026-06-23T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The best Prime Day deals we found on our favorite gear",
+      "url": "https://www.theverge.com/gadgets/948610/best-prime-day-tech-deals-sale",
+      "pubDate": "2026-06-23T12:59:36.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "All the best Apple Prime Day deals now live",
+      "url": "https://9to5mac.com/2026/06/23/all-best-apple-prime-day-deals-live/",
+      "pubDate": "2026-06-23T12:51:36.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Buying an iPhone Ultra could be an expensive experiment, warns resale site",
+      "url": "https://9to5mac.com/2026/06/23/buying-an-iphone-ultra-could-be-an-expensive-experiment-warns-resale-site/",
+      "pubDate": "2026-06-23T12:36:53.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "UK's $4.1 billion iCloud suit won't be heard until late 2028",
+      "url": "https://appleinsider.com/articles/26/06/23/uks-41-billion-icloud-suit-wont-be-heard-until-late-2028?utm_source=rss",
+      "pubDate": "2026-06-23T12:06:43.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Best Prime Day AirPods deals: Save $150 on AirPods Max 2, AirPods Pro 3, more (from $99)",
+      "url": "https://9to5mac.com/2026/06/23/best-prime-day-airpods-deals/",
+      "pubDate": "2026-06-23T11:45:54.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "PSA: Watch out for these scams as Amazon Prime Day goes live",
+      "url": "https://9to5mac.com/2026/06/23/psa-watch-out-for-these-scams-as-amazon-prime-day-goes-live/",
+      "pubDate": "2026-06-23T11:39:28.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "The Best Prime Day Deals on AirPods, Apple Watch, AirTag, and More",
+      "url": "https://www.macrumors.com/2026/06/23/prime-day-2026-best-apple-deals/",
+      "pubDate": "2026-06-23T11:30:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Confidential Apple Files Leaked on Dark Web After Supplier Cyberattack",
+      "url": "https://www.macrumors.com/2026/06/23/apple-files-leaked-dark-web-cyberattack/",
+      "pubDate": "2026-06-23T11:20:41.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Hackers steal Apple and Tesla data from Tata's iPhone factory",
+      "url": "https://appleinsider.com/articles/26/06/23/hackers-steal-apple-and-tesla-data-from-tatas-iphone-factory?utm_source=rss",
+      "pubDate": "2026-06-23T11:20:13.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iCloud class action lawsuit could see UK users share $4B payout",
+      "url": "https://9to5mac.com/2026/06/23/icloud-class-action-lawsuit-could-see-uk-users-share-4b-payout/",
+      "pubDate": "2026-06-23T11:02:25.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "These are the best smart home deals this Prime Day",
+      "url": "https://www.theverge.com/tech/953017/best-smart-home-deals-robot-vacuums-locks-doorbell",
+      "pubDate": "2026-06-23T11:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Elon Musk and the plot to hijack America’s broadband",
+      "url": "https://www.theverge.com/policy/953944/bead-broadband-funding-trump-musk-bezos",
+      "pubDate": "2026-06-23T11:00:00.000Z"
+    },
+    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "The best robot vacuum deals available during Prime Day",
@@ -31,31 +199,10 @@
       "pubDate": "2026-06-23T10:24:10.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The best Apple deals you can get during Prime Day",
-      "url": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
-      "pubDate": "2026-06-23T10:15:26.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Verge’s guide to Amazon Prime Day 2026",
-      "url": "https://www.theverge.com/gadgets/951437/amazon-prime-day-tech-deals-guide-2026",
-      "pubDate": "2026-06-23T10:08:27.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Apple @ Work Podcast: WWDC 26 Recap",
       "url": "https://9to5mac.com/2026/06/23/wwdc-26-recap/",
-      "pubDate": "2026-06-23T10:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The best Prime Day deals we found on our favorite gear",
-      "url": "https://www.theverge.com/gadgets/948610/best-prime-day-tech-deals-sale",
       "pubDate": "2026-06-23T10:00:00.000Z"
     },
     {
@@ -68,7 +215,7 @@
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple's £3 Billion UK iCloud Case Cleared for Trial",
+      "title": "UK iCloud Users Could Claim £77 Each as Apple Case Heads to Trial",
       "url": "https://www.macrumors.com/2026/06/23/apple-3-billion-uk-icloud-case-cleared-for-trial/",
       "pubDate": "2026-06-23T08:49:52.000Z"
     },
@@ -85,13 +232,6 @@
       "title": "Apple Watch Ultra models plunge to as low as $499 for Prime Day",
       "url": "https://appleinsider.com/articles/26/06/23/apple-watch-ultra-models-plunge-to-as-low-as-499-for-prime-day?utm_source=rss",
       "pubDate": "2026-06-23T07:11:16.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Amflow&#8217;s TL e-bike is ready for baby&#8217;s first mountain adventure",
-      "url": "https://www.theverge.com/transportation/954291/amflows-tl-e-bike-is-ready-for-babys-first-mountain-adventure",
-      "pubDate": "2026-06-23T07:00:20.000Z"
     },
     {
       "source": "AppleInsider",
@@ -120,13 +260,6 @@
       "title": "9to5Mac Daily: June 22, 2026 – iPhone 18 Pro prices, Apple Store closures",
       "url": "https://9to5mac.com/2026/06/22/daily-june-22-2026/",
       "pubDate": "2026-06-23T00:51:44.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
-      "url": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
-      "pubDate": "2026-06-22T23:24:32.000Z"
     },
     {
       "source": "MacRumors",
@@ -164,20 +297,6 @@
       "pubDate": "2026-06-22T21:25:40.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple confirms AirPort Utility app is going away soon",
-      "url": "https://9to5mac.com/2026/06/22/apple-confirms-airport-utility-app-is-going-away-soon/",
-      "pubDate": "2026-06-22T21:10:42.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Valve describes just how brutal RAM negotiations are in 2026",
-      "url": "https://www.theverge.com/games/953945/valve-steam-machine-memory-component-crisis",
-      "pubDate": "2026-06-22T21:07:14.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple's Camera-Equipped AirPods Ultra: What to Expect",
@@ -192,39 +311,11 @@
       "pubDate": "2026-06-22T20:32:56.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Tata cyberattack allegedly exposes confidential Apple documents",
-      "url": "https://9to5mac.com/2026/06/22/tata-cyberattack-allegedly-exposes-confidential-apple-documents/",
-      "pubDate": "2026-06-22T20:22:10.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "AI is cursing renters with the promise of impossible homes",
-      "url": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings",
-      "pubDate": "2026-06-22T20:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "macOS Tahoe 26.5.2 and iOS 26.5.2 Updates Coming Soon",
       "url": "https://www.macrumors.com/2026/06/22/macos-tahoe-26-5-2-coming-soon/",
       "pubDate": "2026-06-22T19:58:22.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 upgrades Messages app with key new features for RCS",
-      "url": "https://9to5mac.com/2026/06/22/ios-27-upgrades-messages-app-with-key-new-features-for-rcs/",
-      "pubDate": "2026-06-22T19:49:33.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Belkin joins in for Prime Day deals, cutting MagSafe charger prices by up to 42%",
-      "url": "https://appleinsider.com/articles/26/06/22/belkin-joins-in-for-prime-day-deals-cutting-magsafe-charger-prices-by-up-to-42?utm_source=rss",
-      "pubDate": "2026-06-22T19:45:59.000Z"
     },
     {
       "source": "MacRumors",
@@ -234,46 +325,11 @@
       "pubDate": "2026-06-22T19:40:50.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 makes it easier to update your Apple TV software",
-      "url": "https://9to5mac.com/2026/06/22/ios-27-makes-it-easier-to-update-your-apple-tv-software/",
-      "pubDate": "2026-06-22T19:15:35.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Amazon's $769 Mac mini M4 deal is back in stock for Prime Day 2026",
-      "url": "https://appleinsider.com/articles/26/06/22/amazons-769-mac-mini-m4-deal-is-back-in-stock-for-prime-day-2026?utm_source=rss",
-      "pubDate": "2026-06-22T19:13:29.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "The Best Prime Day Deals on AirPods, Apple Watch, AirTag, and More",
-      "url": "https://www.macrumors.com/2026/06/22/prime-day-2026-best-apple-deals/",
-      "pubDate": "2026-06-22T19:11:06.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iOS 27 Beta 2 Adds Inline Replies to iPhone-to-Android RCS Chats",
       "url": "https://www.macrumors.com/2026/06/22/ios-27-beta-2-inline-replies-rcs/",
       "pubDate": "2026-06-22T19:06:13.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Photos' Extend tool in iOS 27 does a good job at expanding your images",
-      "url": "https://appleinsider.com/articles/26/06/22/photos-extend-tool-in-ios-27-does-a-good-job-at-expanding-your-images?utm_source=rss",
-      "pubDate": "2026-06-22T19:03:02.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "AirPods Max 2 firmware beta updates now available with iOS 27 and macOS 27 beta 2",
-      "url": "https://9to5mac.com/2026/06/22/airpods-max-2-firmware-beta-updates-now-available-with-ios-27-and-macos-27-beta-2/",
-      "pubDate": "2026-06-22T18:45:34.000Z"
     },
     {
       "source": "MacRumors",
@@ -283,13 +339,6 @@
       "pubDate": "2026-06-22T18:39:55.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Here’s what’s new with iOS 27 beta 2",
-      "url": "https://9to5mac.com/2026/06/22/heres-whats-new-with-ios-27-beta-2/",
-      "pubDate": "2026-06-22T18:33:58.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Wallet App Gets New 'Insights' Feature in iOS 27 Beta 2",
@@ -297,60 +346,11 @@
       "pubDate": "2026-06-22T18:25:39.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 beta 2 includes Write with Siri, the new version of Apple Intelligence writing tools",
-      "url": "https://9to5mac.com/2026/06/22/ios-27-beta-write-with-siri/",
-      "pubDate": "2026-06-22T18:22:21.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "MagSafe Monday: Upgrade your MagSafe travel gear with the new ESR summer collection",
-      "url": "https://9to5mac.com/2026/06/22/upgrade-your-magsafe-travel-gear-with-the-new-esr-summer-collection/",
-      "pubDate": "2026-06-22T18:13:00.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Prime Day, again?! Why it’s OK to ignore Amazon’s big sales event",
       "url": "https://sixcolors.com/post/2026/06/prime-day-again-why-its-ok-to-ignore-amazons-big-sales-event/",
       "pubDate": "2026-06-22T18:00:37.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Apple Watch SE 3 is just $199 for Prime Day",
-      "url": "https://www.theverge.com/gadgets/953458/apple-watch-se-3-prime-day-deal-sale",
-      "pubDate": "2026-06-22T18:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Steam Machine is the start of an even more expensive future for game consoles",
-      "url": "https://www.theverge.com/entertainment/953615/steam-machine-price-game-consoles-future-ps6-project-helix",
-      "pubDate": "2026-06-22T18:00:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "macOS Golden Gate Beta 2 Now available for Developers",
-      "url": "https://www.macrumors.com/2026/06/22/apple-seeds-macos-golden-gate-beta-2/",
-      "pubDate": "2026-06-22T17:09:55.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Seeds iOS 27 and iPadOS 27 Second Betas to Developers",
-      "url": "https://www.macrumors.com/2026/06/22/apple-seeds-ios-27-beta-2/",
-      "pubDate": "2026-06-22T17:08:57.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Seeds tvOS 27 Beta 2 to Developers",
-      "url": "https://www.macrumors.com/2026/06/22/apple-seeds-tvos-27-beta-2-to-developers/",
-      "pubDate": "2026-06-22T17:06:00.000Z"
     },
     {
       "source": "Six Colors",
