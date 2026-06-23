@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T21:51:29.612Z",
+  "generatedAt": "2026-06-23T23:31:13.700Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,69 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iPhone Fold & touchscreen MacBook Pro again rumored to have Samsung displays",
+      "url": "https://appleinsider.com/articles/26/06/23/iphone-fold-touchscreen-macbook-pro-again-rumored-to-have-samsung-displays?utm_source=rss",
+      "pubDate": "2026-06-23T23:09:34.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iOS 27 Weather App: All the New Features",
+      "url": "https://www.macrumors.com/guide/ios-27-weather/",
+      "pubDate": "2026-06-23T23:08:02.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The Nex Playground is down to its pre-RAMageddon price during Prime Day",
+      "url": "https://www.theverge.com/gadgets/950871/nex-playground-prime-day-deal-sale",
+      "pubDate": "2026-06-23T23:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Swift Package Index joins Apple, pledges to remain open source",
+      "url": "https://9to5mac.com/2026/06/23/swift-package-index-joins-apple-pledges-to-remain-open-source/",
+      "pubDate": "2026-06-23T22:59:53.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Watch Series 11, Ultra 3, and more hit new Prime Day lows (from $199)",
+      "url": "https://9to5mac.com/2026/06/23/apple-watch-best-prime-day-deals/",
+      "pubDate": "2026-06-23T22:47:02.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Google Home will soon get better at recognizing you",
+      "url": "https://www.theverge.com/tech/955385/google-home-familiar-faces-clothing",
+      "pubDate": "2026-06-23T22:28:19.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Co-hosting & guest list visibility finally arrives for Apple Invites",
+      "url": "https://appleinsider.com/articles/26/06/23/co-hosting-guest-list-visibility-finally-arrives-for-apple-invites?utm_source=rss",
+      "pubDate": "2026-06-23T22:06:43.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Hollywood is bending the knee to OpenAI",
+      "url": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
+      "pubDate": "2026-06-23T22:03:18.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Upgrade your home with Roborock’s smartest vacuums at their lowest prices ever this Prime Day",
+      "url": "https://9to5mac.com/2026/06/23/upgrade-home-with-roborocks-smartest-vacuums-at-lowest-prices-ever-prime-day/",
+      "pubDate": "2026-06-23T22:00:00.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -131,7 +194,7 @@
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
-      "title": "App Store Connect is partially unavailable for some developers",
+      "title": "App Store Connect is partially unavailable for some developers [U: Fixed]",
       "url": "https://9to5mac.com/2026/06/23/app-store-connect-is-partially-unavailable-for-some-developers/",
       "pubDate": "2026-06-23T19:34:13.000Z"
     },
@@ -162,27 +225,6 @@
       "title": "Tesla claims driver &#8216;manually overrode self-driving&#8217; in deadly Texas crash",
       "url": "https://www.theverge.com/transportation/955153/tesla-full-self-driving-texas-crash",
       "pubDate": "2026-06-23T19:11:04.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Here are the best Prime Day deals on the Verge staff’s favorite stuff",
-      "url": "https://www.theverge.com/gadgets/952503/best-prime-day-deals-verge-favorites-2026",
-      "pubDate": "2026-06-23T19:06:37.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Lenovo Legion Go S gaming handheld is $549 for Prime Day",
-      "url": "https://www.theverge.com/gadgets/955090/lenovo-legion-go-s-prime-day-deal-sale",
-      "pubDate": "2026-06-23T19:00:39.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Eufy’s Omni C28 is one of the best Prime Day deals on robot vacuums",
-      "url": "https://www.theverge.com/gadgets/951230/eufy-omni-c28-robot-vacuum-amazon-prime-day-deal-sale",
-      "pubDate": "2026-06-23T19:00:00.000Z"
     },
     {
       "source": "AppleInsider",
@@ -218,27 +260,6 @@
       "title": "The 10 Best Apple Prime Day Deals You Can Get for Under $100",
       "url": "https://www.macrumors.com/2026/06/23/best-apple-prime-day-deals-under-100/",
       "pubDate": "2026-06-23T18:17:49.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "watchOS 27 beta 2 available now for Apple Watch",
-      "url": "https://9to5mac.com/2026/06/23/watchos-27-beta-2-available-now-for-apple-watch/",
-      "pubDate": "2026-06-23T18:10:01.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: June 23, 2026 – iOS 27 beta 2 changes, more",
-      "url": "https://9to5mac.com/2026/06/23/daily-june-23-2026/",
-      "pubDate": "2026-06-23T18:07:13.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Anthropic launches Claude Tag enterprise collaborative tool for agentic workflows",
-      "url": "https://9to5mac.com/2026/06/23/anthropic-launches-claude-tag-enterprise-collaborative-tool-for-agentic-workflows/",
-      "pubDate": "2026-06-23T17:30:26.000Z"
     },
     {
       "source": "AppleInsider",
@@ -325,32 +346,11 @@
       "pubDate": "2026-06-23T14:34:00.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Meta Launches Its Own $299 Smart Glasses Ahead of Apple's Debut",
-      "url": "https://www.macrumors.com/2026/06/23/meta-launches-its-own-299-smart-glasses/",
-      "pubDate": "2026-06-23T14:11:50.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "AirPods Max 2 are marked down to $399 for Prime Day, but they're selling out fast",
       "url": "https://appleinsider.com/articles/26/06/23/airpods-max-2-are-marked-down-to-399-for-prime-day-but-theyre-selling-out-fast?utm_source=rss",
       "pubDate": "2026-06-23T13:54:16.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Chinese developers rally against App Store fees yet again",
-      "url": "https://appleinsider.com/articles/26/06/23/chinese-developers-rally-against-app-store-fees-yet-again?utm_source=rss",
-      "pubDate": "2026-06-23T13:45:07.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "UK's $4.1 billion iCloud suit won't be heard until late 2028",
-      "url": "https://appleinsider.com/articles/26/06/23/uks-41-billion-icloud-suit-wont-be-heard-until-late-2028?utm_source=rss",
-      "pubDate": "2026-06-23T12:06:43.000Z"
     },
     {
       "source": "Six Colors",
