@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T23:31:13.700Z",
+  "generatedAt": "2026-06-24T04:37:20.225Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Grab Apple's 15-inch MacBook Air M4 for just $949 today only",
+      "url": "https://appleinsider.com/articles/26/06/24/grab-apples-15-inch-macbook-air-m4-for-just-949-today-only?utm_source=rss",
+      "pubDate": "2026-06-24T04:20:54.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "VSCO launches all-in-one platform for professional photographers",
+      "url": "https://9to5mac.com/2026/06/23/vsco-launches-all-in-one-platform-for-professional-photographers/",
+      "pubDate": "2026-06-24T00:50:18.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The best robot vacuum deals available during Prime Day",
+      "url": "https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026",
+      "pubDate": "2026-06-24T00:17:27.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "This year’s Prime Day deals on Apple products are the best I’ve seen",
+      "url": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
+      "pubDate": "2026-06-23T23:58:13.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -206,13 +234,6 @@
       "pubDate": "2026-06-23T19:32:14.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Prime Day has served up several great deals on 4K TVs",
-      "url": "https://www.theverge.com/gadgets/952282/best-4k-tv-deals-amazon-prime-day-sale",
-      "pubDate": "2026-06-23T19:30:00.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Here’s everything new Apple TV has coming in July",
@@ -220,25 +241,11 @@
       "pubDate": "2026-06-23T19:22:31.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Tesla claims driver &#8216;manually overrode self-driving&#8217; in deadly Texas crash",
-      "url": "https://www.theverge.com/transportation/955153/tesla-full-self-driving-texas-crash",
-      "pubDate": "2026-06-23T19:11:04.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple rolls out watchOS 27 beta 2 for Apple Watch",
       "url": "https://appleinsider.com/articles/26/06/23/apple-rolls-out-watchos-27-beta-2-for-apple-watch?utm_source=rss",
       "pubDate": "2026-06-23T18:49:24.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone 18 Pro: Three new features that already have me excited",
-      "url": "https://9to5mac.com/2026/06/23/iphone-18-pro-three-new-features-that-already-have-me-excited/",
-      "pubDate": "2026-06-23T18:45:32.000Z"
     },
     {
       "source": "AppleInsider",
@@ -304,25 +311,11 @@
       "pubDate": "2026-06-23T15:50:02.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "tvOS 27 beta code backs up HomePod and Apple TV Siri AI rumors",
-      "url": "https://appleinsider.com/articles/26/06/23/tvos-27-beta-code-backs-up-homepod-and-apple-tv-siri-ai-rumors?utm_source=rss",
-      "pubDate": "2026-06-23T15:44:40.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Anker's 3-in-1 Foldable Wireless Charger Drops to $99.74 for Prime Day",
       "url": "https://www.macrumors.com/2026/06/23/ankers-wireless-charger-prime-day-2/",
       "pubDate": "2026-06-23T15:22:18.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Prime Day monitor deals slash up to 50% off 4K, ultrawide & OLED displays",
-      "url": "https://appleinsider.com/articles/26/06/23/prime-day-monitor-deals-slash-up-to-50-off-4k-ultrawide-oled-displays?utm_source=rss",
-      "pubDate": "2026-06-23T15:03:33.000Z"
     },
     {
       "source": "MacRumors",
@@ -346,13 +339,6 @@
       "pubDate": "2026-06-23T14:34:00.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "AirPods Max 2 are marked down to $399 for Prime Day, but they're selling out fast",
-      "url": "https://appleinsider.com/articles/26/06/23/airpods-max-2-are-marked-down-to-399-for-prime-day-but-theyre-selling-out-fast?utm_source=rss",
-      "pubDate": "2026-06-23T13:54:16.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) Upgrade 624: The Memory Guys",
@@ -372,6 +358,20 @@
       "title": "Prime Day, again?! Why it’s OK to ignore Amazon’s big sales event",
       "url": "https://sixcolors.com/post/2026/06/prime-day-again-why-its-ok-to-ignore-amazons-big-sales-event/",
       "pubDate": "2026-06-22T18:00:37.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Where we’re going, there are no Maps",
+      "url": "https://sixcolors.com/post/2026/06/where-were-going-there-are-no-maps/",
+      "pubDate": "2026-06-22T17:00:43.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Sponsor) Mojave Paint",
+      "url": "https://sixcolors.com/feed-only/2026/06/mojave-paint/",
+      "pubDate": "2026-06-22T16:00:22.000Z"
     }
   ]
 }
