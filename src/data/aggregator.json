@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T20:11:09.389Z",
+  "generatedAt": "2026-06-24T21:48:13.507Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,11 +24,46 @@
   ],
   "items": [
     {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 beta 2: Apple tells Siri AI to clearly refuse requests to summarize URLs",
+      "url": "https://9to5mac.com/2026/06/24/ios-27-beta-2-apple-tells-siri-ai-to-clearly-refuse-requests-to-summarize-urls/",
+      "pubDate": "2026-06-24T21:17:21.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "A new paper argues Microsoft exaggerated its quantum claims a year ago",
+      "url": "https://www.theverge.com/tech/956450/nature-microsoft-quantum-computing-majorana-1-claims",
+      "pubDate": "2026-06-24T20:54:57.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Silo returns next week with three major changes for season 3",
+      "url": "https://9to5mac.com/2026/06/24/silo-returns-next-week-with-three-major-changes-for-season-3/",
+      "pubDate": "2026-06-24T20:30:08.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Best Prime Day OLED TV deals from LG, Samsung, Sony start at just $797",
+      "url": "https://appleinsider.com/articles/26/06/24/best-prime-day-oled-tv-deals-from-lg-samsung-sony-start-at-just-797?utm_source=rss",
+      "pubDate": "2026-06-24T20:16:07.000Z"
+    },
+    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) Clockwise 662: Nominally Fine",
       "url": "https://sixcolors.com/podcast/2026/06/clockwise-662-nominally-fine/",
       "pubDate": "2026-06-24T20:06:02.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Hands-on: Kuxiu’s D5 charging station boasts unique design, 25W charging, and a built-in display",
+      "url": "https://9to5mac.com/2026/06/24/hands-on-kuxius-d5-charging-station-boasts-unique-design-25w-charging-and-a-built-in-display/",
+      "pubDate": "2026-06-24T20:00:00.000Z"
     },
     {
       "source": "9to5Mac",
@@ -178,13 +213,6 @@
       "pubDate": "2026-06-24T16:26:47.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Figma now has AI motion graphics and shader tools",
-      "url": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
-      "pubDate": "2026-06-24T16:15:00.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "9to5Mac Daily: June 24, 2026 – New Messages features, watchOS 27 support",
@@ -213,13 +241,6 @@
       "pubDate": "2026-06-24T15:34:37.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Watch Series 11 vs Apple Watch SE 3: Which should you buy?",
-      "url": "https://9to5mac.com/2026/06/24/apple-watch-series-11-vs-apple-watch-se/",
-      "pubDate": "2026-06-24T15:30:30.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Best Prime Day TV Deals Feature Lowest Prices of the Year Across Top Brands",
@@ -227,25 +248,11 @@
       "pubDate": "2026-06-24T15:07:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone 18 Pro might cost less than expected, per report",
-      "url": "https://9to5mac.com/2026/06/24/iphone-18-pro-might-cost-less-than-expected-per-report/",
-      "pubDate": "2026-06-24T14:37:21.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Prime Day Discounts Hit 2026 MacBook Pro With Up to $299 Off Select Models",
       "url": "https://www.macrumors.com/2026/06/24/prime-day-2026-macbook-pro/",
       "pubDate": "2026-06-24T14:26:08.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "What to do if your iPhone is stolen – more detailed advice from Apple",
-      "url": "https://9to5mac.com/2026/06/24/what-to-do-if-your-iphone-is-stolen-more-detailed-advice-from-apple/",
-      "pubDate": "2026-06-24T14:23:45.000Z"
     },
     {
       "source": "AppleInsider",
@@ -365,13 +372,6 @@
       "title": "(Podcast) Upgrade 624: The Memory Guys",
       "url": "https://sixcolors.com/podcast/2026/06/upgrade-624-the-memory-guys/",
       "pubDate": "2026-06-22T21:47:57.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "‘Welcome datacomp’ ↦",
-      "url": "https://sixcolors.com/link/2026/06/welcome-datacomp/",
-      "pubDate": "2026-06-22T21:25:40.000Z"
     }
   ]
 }
