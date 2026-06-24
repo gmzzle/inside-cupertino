@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T08:34:03.970Z",
+  "generatedAt": "2026-06-24T12:01:30.115Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,83 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Seemingly Killed Siri AI Waitlist Workaround in macOS 27 Beta 2",
+      "url": "https://www.macrumors.com/2026/06/24/apple-killed-siri-ai-waitlist-workaround/",
+      "pubDate": "2026-06-24T12:00:26.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Star Fox is the Switch 2’s most impressive visual showcase yet",
+      "url": "https://www.theverge.com/entertainment/955300/star-fox-review-nintendo-switch-2",
+      "pubDate": "2026-06-24T12:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "I drove the Slate Truck — there&#8217;s more to it than EV minimalism",
+      "url": "https://www.theverge.com/transportation/955454/slate-truck-ev-price-drive-specs-minimalism",
+      "pubDate": "2026-06-24T12:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The Slate Auto pickup truck starts at $24,950",
+      "url": "https://www.theverge.com/transportation/955738/slate-auto-truck-ev-price-availability",
+      "pubDate": "2026-06-24T12:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "These are the best Prime Day deals on MacBook Air, MacBook Pro, more (up to $430 off)",
+      "url": "https://9to5mac.com/2026/06/24/these-are-the-best-prime-day-deals-on-macbook-air-macbook-pro-more-up-to-430-off/",
+      "pubDate": "2026-06-24T11:39:29.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The Dyson PencilWash is down to its lowest price ever for Prime Day",
+      "url": "https://www.theverge.com/gadgets/954273/dyson-pencilwash-wet-floor-cleaner-mop-deal-sale",
+      "pubDate": "2026-06-24T11:31:42.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Can you save money with a USB4 cable over a Thunderbolt 4 one?",
+      "url": "https://9to5mac.com/2026/06/24/can-you-save-money-with-a-usb4-cable-over-a-thunderbolt-4-one/",
+      "pubDate": "2026-06-24T11:21:29.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Our favorite Prime Day deals you can shop on day two",
+      "url": "https://www.theverge.com/gadgets/955366/best-prime-day-2026-tech-deals-day-two-sale",
+      "pubDate": "2026-06-24T11:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "GTA VI finally gets a price tag",
+      "url": "https://www.theverge.com/games/952204/grand-theft-auto-vi-price",
+      "pubDate": "2026-06-24T10:29:04.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's iPad mini 7 lands Prime Day price drop to $399",
+      "url": "https://appleinsider.com/articles/26/06/24/apples-ipad-mini-7-lands-prime-day-price-drop-to-399?utm_source=rss",
+      "pubDate": "2026-06-24T10:28:03.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Bob Iger’s Disney wanted Apple, Twitter, and 007",
+      "url": "https://www.theverge.com/streaming/955646/disney-bob-iger-twitter-james-bond-apple-merger",
+      "pubDate": "2026-06-24T10:08:52.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -87,25 +164,11 @@
       "pubDate": "2026-06-23T22:47:02.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Google Home will soon get better at recognizing you",
-      "url": "https://www.theverge.com/tech/955385/google-home-familiar-faces-clothing",
-      "pubDate": "2026-06-23T22:28:19.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Co-hosting & guest list visibility finally arrives for Apple Invites",
       "url": "https://appleinsider.com/articles/26/06/23/co-hosting-guest-list-visibility-finally-arrives-for-apple-invites?utm_source=rss",
       "pubDate": "2026-06-23T22:06:43.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Hollywood is bending the knee to OpenAI",
-      "url": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
-      "pubDate": "2026-06-23T22:03:18.000Z"
     },
     {
       "source": "9to5Mac",
@@ -134,27 +197,6 @@
       "title": "Apple releases new AirPods beta firmware, including first build for AirPods Max 2",
       "url": "https://9to5mac.com/2026/06/23/apple-releases-new-airpods-beta-firmware-including-first-build-for-airpods-max-2/",
       "pubDate": "2026-06-23T21:32:30.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Prime Day takes $240 off Roborock’s Saros 20, one of our favorite robovacs",
-      "url": "https://www.theverge.com/gadgets/953936/roborock-saros-20-amazon-deal-sale",
-      "pubDate": "2026-06-23T21:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Meta Quest 3S is on sale for $297 — which is basically its old price",
-      "url": "https://www.theverge.com/gadgets/954049/meta-quest-3s-vr-headset-prime-day-deal-sale",
-      "pubDate": "2026-06-23T21:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The best Prime Day deals we found on our favorite gear",
-      "url": "https://www.theverge.com/gadgets/948610/best-prime-day-tech-deals-sale",
-      "pubDate": "2026-06-23T20:59:34.000Z"
     },
     {
       "source": "9to5Mac",
@@ -206,39 +248,11 @@
       "pubDate": "2026-06-23T20:12:50.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Xteink’s tiny e-readers are 20 percent off for Prime Day",
-      "url": "https://www.theverge.com/gadgets/955139/xteink-x3-x4-e-ink-reader-amazon-prime-day-deal-sale",
-      "pubDate": "2026-06-23T20:11:24.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Prime Day has some solid deals on Switch 2, PS5, and Xbox games",
-      "url": "https://www.theverge.com/gadgets/951901/prime-day-video-games-switch-playstation-xbox-pc-deal-sale",
-      "pubDate": "2026-06-23T20:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "App Store Connect is partially unavailable for some developers [U: Fixed]",
-      "url": "https://9to5mac.com/2026/06/23/app-store-connect-is-partially-unavailable-for-some-developers/",
-      "pubDate": "2026-06-23T19:34:13.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iOS 27 Wallet App Gets 7 New Features",
       "url": "https://www.macrumors.com/guide/ios-27-wallet/",
       "pubDate": "2026-06-23T19:32:14.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Here’s everything new Apple TV has coming in July",
-      "url": "https://9to5mac.com/2026/06/23/heres-everything-new-apple-tv-has-coming-in-july-2/",
-      "pubDate": "2026-06-23T19:22:31.000Z"
     },
     {
       "source": "AppleInsider",
@@ -304,13 +318,6 @@
       "pubDate": "2026-06-23T15:51:58.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple's Reality Composer Pro 3 uses code from a dead game engine",
-      "url": "https://appleinsider.com/articles/26/06/23/apples-reality-composer-pro-3-uses-code-from-a-dead-game-engine?utm_source=rss",
-      "pubDate": "2026-06-23T15:50:02.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Anker's 3-in-1 Foldable Wireless Charger Drops to $99.74 for Prime Day",
@@ -330,13 +337,6 @@
       "title": "Apple's Latest Vision Pro Tool Contains Traces of Defunct Game Engine 'The Machinery'",
       "url": "https://www.macrumors.com/2026/06/23/apple-reality-composer-pro-the-machinery/",
       "pubDate": "2026-06-23T14:34:51.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "LG Drops Major Fourth of July Deals: OLED TVs, UltraWide Monitors, and More",
-      "url": "https://www.macrumors.com/2026/06/23/lgs-fourth-of-july-sale/",
-      "pubDate": "2026-06-23T14:34:00.000Z"
     },
     {
       "source": "Six Colors",
