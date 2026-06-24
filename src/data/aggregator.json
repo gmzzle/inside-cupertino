@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T15:09:37.389Z",
+  "generatedAt": "2026-06-24T17:19:22.251Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,6 +24,125 @@
   ],
   "items": [
     {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The top tech Prime Day deals to shop on day two",
+      "url": "https://www.theverge.com/gadgets/955366/best-prime-day-2026-tech-deals-day-two-sale",
+      "pubDate": "2026-06-24T17:16:46.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 gives the Camera app on iPhone a brand new mode",
+      "url": "https://9to5mac.com/2026/06/24/ios-27-gives-the-camera-app-on-iphone-a-brand-new-mode/",
+      "pubDate": "2026-06-24T17:09:52.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Riot now lets you enable its anti-cheat when you want to",
+      "url": "https://www.theverge.com/games/956137/riot-games-vanguard-pre-check-anti-cheat-on-demand-valorant",
+      "pubDate": "2026-06-24T17:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "UK staff at the foundation that runs Wikipedia seeks union recognition",
+      "url": "https://www.theverge.com/news/956237/wikipedia-wikimedia-foundation-staff-unionization-volunteer-editor-strike",
+      "pubDate": "2026-06-24T16:51:10.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "AirTag 2 hits $24 and gives shoppers one of the best Apple Prime Day deals",
+      "url": "https://appleinsider.com/articles/26/06/24/airtag-2-hits-24-and-gives-shoppers-one-of-the-best-apple-prime-day-deals?utm_source=rss",
+      "pubDate": "2026-06-24T16:26:47.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Figma now has AI motion graphics and shader tools",
+      "url": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
+      "pubDate": "2026-06-24T16:15:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "52 Prime Day steals under $25 you won&#8217;t want to miss",
+      "url": "https://www.theverge.com/gadgets/951852/prime-day-deals-cheap-stuff-under-25-sale",
+      "pubDate": "2026-06-24T16:09:26.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The solar-powered Birdbuddy Pro is on sale for $168, the lowest price yet",
+      "url": "https://www.theverge.com/gadgets/955351/birdbuddy-pro-solar-prime-day-deal-sale",
+      "pubDate": "2026-06-24T16:08:50.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: June 24, 2026 – New Messages features, watchOS 27 support",
+      "url": "https://9to5mac.com/2026/06/24/daily-june-24-2026/",
+      "pubDate": "2026-06-24T16:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The best Prime Day deals on LG, Samsung, and more 4K TVs",
+      "url": "https://www.theverge.com/gadgets/952282/best-4k-tv-deals-amazon-prime-day-sale",
+      "pubDate": "2026-06-24T16:00:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Cops will soon upgrade to license plate readers that can track your iPhone and AirPods in public",
+      "url": "https://appleinsider.com/articles/26/06/24/cops-will-soon-upgrade-to-license-plate-readers-that-can-track-your-iphone-and-airpods-in-public?utm_source=rss",
+      "pubDate": "2026-06-24T15:55:39.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple’s new MacBook lineup could be its biggest ever this fall",
+      "url": "https://9to5mac.com/2026/06/24/apples-new-macbook-lineup-could-be-its-biggest-ever-this-fall/",
+      "pubDate": "2026-06-24T15:49:41.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The SwitchBot battery-powered fan we love is $90 for Prime Day",
+      "url": "https://www.theverge.com/gadgets/953766/switchbot-circulating-fan-prime-day-deal-sale",
+      "pubDate": "2026-06-24T15:45:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Prime Day 2 deals: MacBook Pro up to $250 off, MacBook Air up to $430 off, AirPods Pro 3, Apple accessories from $7, more",
+      "url": "https://9to5mac.com/2026/06/24/prime-day-2-deals-macbook-airpods-pro-3-apple-cables/",
+      "pubDate": "2026-06-24T15:34:37.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Watch Series 11 vs Apple Watch SE 3: Which should you buy?",
+      "url": "https://9to5mac.com/2026/06/24/apple-watch-series-11-vs-apple-watch-se/",
+      "pubDate": "2026-06-24T15:30:30.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The 16 best robot vacuum deals available during Prime Day",
+      "url": "https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026",
+      "pubDate": "2026-06-24T15:26:54.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "20 Prime Day deals Verge readers are buying right now",
+      "url": "https://www.theverge.com/gadgets/954880/amazon-prime-day-2026-popular-products-verge-readers",
+      "pubDate": "2026-06-24T15:15:00.000Z"
+    },
+    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Best Prime Day TV Deals Feature Lowest Prices of the Year Across Top Brands",
@@ -31,46 +150,11 @@
       "pubDate": "2026-06-24T15:07:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "8BitDo’s all-button controller gets a screen upgrade for customizations without an app",
-      "url": "https://www.theverge.com/tech/954894/8bitdo-arcade-controller-pro-leverless-hitbox-wireless-switch-bluetooth",
-      "pubDate": "2026-06-24T15:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Zoox&#8217;s purpose-built robotaxi is getting a refresh",
-      "url": "https://www.theverge.com/transportation/955822/zoox-robotaxi-refresh-updates-seats-audio-color",
-      "pubDate": "2026-06-24T15:00:00.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "iPhone 18 Pro might cost less than expected, per report",
       "url": "https://9to5mac.com/2026/06/24/iphone-18-pro-might-cost-less-than-expected-per-report/",
       "pubDate": "2026-06-24T14:37:21.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "OpenAI reveals its first AI processor: Jalapeño",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
-      "pubDate": "2026-06-24T14:36:47.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "This year’s Prime Day deals on Apple products are the best I’ve seen",
-      "url": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
-      "pubDate": "2026-06-24T14:33:05.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Laptop prices suck these days, but here are 25 Prime Day deals that help a little",
-      "url": "https://www.theverge.com/gadgets/951105/prime-day-laptop-keyboards-mice-accessories-deal-sale",
-      "pubDate": "2026-06-24T14:32:25.000Z"
     },
     {
       "source": "MacRumors",
@@ -108,25 +192,11 @@
       "pubDate": "2026-06-24T14:06:43.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Philips Hue’s smart lights are getting a connectivity upgrade",
-      "url": "https://www.theverge.com/tech/955767/philips-hue-thread-matter-zigbee-update-silicon-labs",
-      "pubDate": "2026-06-24T14:06:10.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "This May Be Your Last Chance to Get AirPods Max 2 for $399 During Prime Day",
       "url": "https://www.macrumors.com/2026/06/24/last-chance-airpods-max-2/",
       "pubDate": "2026-06-24T14:02:57.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "19 great Prime Day deals on our favorite charging gear",
-      "url": "https://www.theverge.com/gadgets/951249/prime-day-chargers-power-banks-deal-sale",
-      "pubDate": "2026-06-24T14:00:00.000Z"
     },
     {
       "source": "MacRumors",
@@ -148,13 +218,6 @@
       "title": "Developer resource Swift Package Index to stay open source after Apple acquisition",
       "url": "https://appleinsider.com/articles/26/06/24/developer-resource-swift-package-index-to-stay-open-source-after-apple-acquisition?utm_source=rss",
       "pubDate": "2026-06-24T13:43:30.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Google’s TV Streamer 4K is $25 off, its best price ever",
-      "url": "https://www.theverge.com/gadgets/953074/google-tv-streamer-4k-amazon-prime-day-2026-deal-sale",
-      "pubDate": "2026-06-24T13:30:00.000Z"
     },
     {
       "source": "MacRumors",
@@ -185,20 +248,6 @@
       "pubDate": "2026-06-24T13:05:01.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "19 Prime Day deals on our favorite Switch 2 accessories",
-      "url": "https://www.theverge.com/gadgets/951950/prime-day-nintendo-switch-2-accessories-cases-controllers-docks-chargers-deal-sale",
-      "pubDate": "2026-06-24T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Google Home Speaker sounds good and looks great — but it’s finicky",
-      "url": "https://www.theverge.com/gadgets/955537/google-home-smart-speaker-hands-on",
-      "pubDate": "2026-06-24T13:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Prime Day 2026: Top Savings on Anker, Beats, TVs, and More Accessories",
@@ -218,13 +267,6 @@
       "title": "Best Apple Prime Day 2 deals slash prices to as low as $11",
       "url": "https://appleinsider.com/articles/26/06/24/best-apple-prime-day-2-deals-slash-prices-to-as-low-as-11?utm_source=rss",
       "pubDate": "2026-06-24T12:05:54.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Cops will soon upgrade to license plate readers that can track your iPhone and AirPods in public",
-      "url": "https://appleinsider.com/articles/26/06/24/cops-will-soon-upgrade-to-license-plate-readers-that-can-track-your-iphone-and-airpods-in-public?utm_source=rss",
-      "pubDate": "2026-06-24T12:04:25.000Z"
     },
     {
       "source": "MacRumors",
@@ -255,53 +297,11 @@
       "pubDate": "2026-06-24T10:28:03.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Grab Apple's 15-inch MacBook Air M4 for just $949 today only",
-      "url": "https://appleinsider.com/articles/26/06/24/grab-apples-15-inch-macbook-air-m4-for-just-949-today-only?utm_source=rss",
-      "pubDate": "2026-06-24T04:20:54.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "VSCO launches all-in-one platform for professional photographers",
-      "url": "https://9to5mac.com/2026/06/23/vsco-launches-all-in-one-platform-for-professional-photographers/",
-      "pubDate": "2026-06-24T00:50:18.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iOS 27 Weather App: All the New Features",
       "url": "https://www.macrumors.com/guide/ios-27-weather/",
       "pubDate": "2026-06-23T23:08:02.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Swift Package Index joins Apple, pledges to remain open source",
-      "url": "https://9to5mac.com/2026/06/23/swift-package-index-joins-apple-pledges-to-remain-open-source/",
-      "pubDate": "2026-06-23T22:59:53.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Watch Series 11, Ultra 3, and more hit new Prime Day lows (from $199)",
-      "url": "https://9to5mac.com/2026/06/23/apple-watch-best-prime-day-deals/",
-      "pubDate": "2026-06-23T22:47:02.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Upgrade your home with Roborock’s smartest vacuums at their lowest prices ever this Prime Day",
-      "url": "https://9to5mac.com/2026/06/23/upgrade-home-with-roborocks-smartest-vacuums-at-lowest-prices-ever-prime-day/",
-      "pubDate": "2026-06-23T22:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "LastPass notifies users of yet another data breach",
-      "url": "https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/",
-      "pubDate": "2026-06-23T21:48:37.000Z"
     },
     {
       "source": "MacRumors",
