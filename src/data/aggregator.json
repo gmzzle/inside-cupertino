@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T17:19:22.251Z",
+  "generatedAt": "2026-06-24T20:11:09.389Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,125 @@
     }
   ],
   "items": [
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) Clockwise 662: Nominally Fine",
+      "url": "https://sixcolors.com/podcast/2026/06/clockwise-662-nominally-fine/",
+      "pubDate": "2026-06-24T20:06:02.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Here’s how the AirPods’ heart rate sensor fares against Apple Watch and other wearables",
+      "url": "https://9to5mac.com/2026/06/24/heres-how-the-airpods-heart-rate-sensor-fares-against-apple-watch-and-other-wearables/",
+      "pubDate": "2026-06-24T19:58:29.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Congresswoman denies staff used AI to write defense funding amendment",
+      "url": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
+      "pubDate": "2026-06-24T19:36:46.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "MacBook Ultra is coming: Six new features launching this fall",
+      "url": "https://9to5mac.com/2026/06/24/macbook-ultra-is-coming-six-new-features-launching-this-fall/",
+      "pubDate": "2026-06-24T19:33:31.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone 17 set to break a record no flagship has touched in 15 years",
+      "url": "https://9to5mac.com/2026/06/24/iphone-17-availability/",
+      "pubDate": "2026-06-24T19:28:19.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Prime Day Brings Major Deals on Headphones and Speakers From Popular Brands",
+      "url": "https://www.macrumors.com/2026/06/24/prime-day-deals-headphones/",
+      "pubDate": "2026-06-24T18:54:05.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "GTA VI is a worrying sign for the future of physical games",
+      "url": "https://www.theverge.com/games/956389/grand-theft-auto-6-gta-digital-code-in-box-physical-games",
+      "pubDate": "2026-06-24T18:42:07.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Flash deal: Get Paramount Plus for just $0.99/mo for two months",
+      "url": "https://appleinsider.com/articles/26/06/24/flash-deal-get-paramount-plus-for-just-099mo-for-two-months?utm_source=rss",
+      "pubDate": "2026-06-24T18:31:25.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple Ring would dominate the fitness market, which is why it can't exist",
+      "url": "https://appleinsider.com/articles/26/06/24/apple-ring-would-dominate-the-fitness-market-which-is-why-it-cant-exist?utm_source=rss",
+      "pubDate": "2026-06-24T18:17:59.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "OpenAI just updated how ChatGPT’s most-used model works again, details here",
+      "url": "https://9to5mac.com/2026/06/24/openai-just-updated-how-chatgpts-most-used-model-works-again-details-here/",
+      "pubDate": "2026-06-24T18:13:59.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "This year’s Prime Day deals on Apple products are the best I’ve seen",
+      "url": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
+      "pubDate": "2026-06-24T18:05:04.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Vision Pro’s longest immersive concert was harder to film than you’d think",
+      "url": "https://9to5mac.com/2026/06/24/apple-vision-pros-longest-immersive-concert-was-harder-to-film-than-youd-think/",
+      "pubDate": "2026-06-24T18:03:21.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Every New AirPods Feature in iOS 27",
+      "url": "https://www.macrumors.com/guide/ios-27-airpods/",
+      "pubDate": "2026-06-24T17:58:08.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Prime Day Brings Huge Discounts to Every Apple Watch Model",
+      "url": "https://www.macrumors.com/2026/06/24/prime-day-apple-watch-model/",
+      "pubDate": "2026-06-24T17:39:05.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Google is finally opening the Play Store to outside payments",
+      "url": "https://www.theverge.com/policy/956296/google-play-app-store-alternative-billing-fee-antitrust",
+      "pubDate": "2026-06-24T17:36:44.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Prime Day deals under $50 that are really worth it",
+      "url": "https://www.theverge.com/gadgets/951543/best-prime-day-deals-under-50",
+      "pubDate": "2026-06-24T17:28:08.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The $27 million Al proxy war over Alex Bores ends in a draw",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results",
+      "pubDate": "2026-06-24T17:25:00.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -66,31 +185,10 @@
       "pubDate": "2026-06-24T16:15:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "52 Prime Day steals under $25 you won&#8217;t want to miss",
-      "url": "https://www.theverge.com/gadgets/951852/prime-day-deals-cheap-stuff-under-25-sale",
-      "pubDate": "2026-06-24T16:09:26.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The solar-powered Birdbuddy Pro is on sale for $168, the lowest price yet",
-      "url": "https://www.theverge.com/gadgets/955351/birdbuddy-pro-solar-prime-day-deal-sale",
-      "pubDate": "2026-06-24T16:08:50.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "9to5Mac Daily: June 24, 2026 – New Messages features, watchOS 27 support",
       "url": "https://9to5mac.com/2026/06/24/daily-june-24-2026/",
-      "pubDate": "2026-06-24T16:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The best Prime Day deals on LG, Samsung, and more 4K TVs",
-      "url": "https://www.theverge.com/gadgets/952282/best-4k-tv-deals-amazon-prime-day-sale",
       "pubDate": "2026-06-24T16:00:00.000Z"
     },
     {
@@ -108,13 +206,6 @@
       "pubDate": "2026-06-24T15:49:41.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The SwitchBot battery-powered fan we love is $90 for Prime Day",
-      "url": "https://www.theverge.com/gadgets/953766/switchbot-circulating-fan-prime-day-deal-sale",
-      "pubDate": "2026-06-24T15:45:00.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Prime Day 2 deals: MacBook Pro up to $250 off, MacBook Air up to $430 off, AirPods Pro 3, Apple accessories from $7, more",
@@ -127,20 +218,6 @@
       "title": "Apple Watch Series 11 vs Apple Watch SE 3: Which should you buy?",
       "url": "https://9to5mac.com/2026/06/24/apple-watch-series-11-vs-apple-watch-se/",
       "pubDate": "2026-06-24T15:30:30.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The 16 best robot vacuum deals available during Prime Day",
-      "url": "https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026",
-      "pubDate": "2026-06-24T15:26:54.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "20 Prime Day deals Verge readers are buying right now",
-      "url": "https://www.theverge.com/gadgets/954880/amazon-prime-day-2026-popular-products-verge-readers",
-      "pubDate": "2026-06-24T15:15:00.000Z"
     },
     {
       "source": "MacRumors",
@@ -185,18 +262,18 @@
       "pubDate": "2026-06-24T14:15:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Here’s everything new for Apple Calendar in iOS 27",
-      "url": "https://9to5mac.com/2026/06/24/heres-everything-new-for-apple-calendar-in-ios-27/",
-      "pubDate": "2026-06-24T14:06:43.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "This May Be Your Last Chance to Get AirPods Max 2 for $399 During Prime Day",
       "url": "https://www.macrumors.com/2026/06/24/last-chance-airpods-max-2/",
       "pubDate": "2026-06-24T14:02:57.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) The Rebound 604: Seg It Away, Dan",
+      "url": "https://sixcolors.com/podcast/2026/06/the-rebound-604-seg-it-away-dan/",
+      "pubDate": "2026-06-24T14:00:00.000Z"
     },
     {
       "source": "MacRumors",
@@ -234,13 +311,6 @@
       "pubDate": "2026-06-24T13:10:26.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone Ultra 3D-printed hinge problems reportedly solved, ready for September launch",
-      "url": "https://9to5mac.com/2026/06/24/iphone-ultra-3d-printed-hinge-problems-reportedly-solved-ready-for-september-launch/",
-      "pubDate": "2026-06-24T13:05:08.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple Watch Series 11 (46mm, cellular) plunges to record-low $379 for Prime Day",
@@ -253,13 +323,6 @@
       "title": "Prime Day 2026: Top Savings on Anker, Beats, TVs, and More Accessories",
       "url": "https://www.macrumors.com/2026/06/24/the-best-prime-day-deals-accessories-3/",
       "pubDate": "2026-06-24T12:21:58.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Eddy Cue says ‘better and more’ coming to Apple TV",
-      "url": "https://9to5mac.com/2026/06/24/eddy-cue-says-better-and-more-coming-to-apple-tv/",
-      "pubDate": "2026-06-24T12:20:42.000Z"
     },
     {
       "source": "AppleInsider",
@@ -276,20 +339,6 @@
       "pubDate": "2026-06-24T12:00:26.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "These are the best Prime Day deals on MacBook Air, MacBook Pro, more (up to $430 off)",
-      "url": "https://9to5mac.com/2026/06/24/these-are-the-best-prime-day-deals-on-macbook-air-macbook-pro-more-up-to-430-off/",
-      "pubDate": "2026-06-24T11:39:29.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Can you save money with a USB4 cable over a Thunderbolt 4 one?",
-      "url": "https://9to5mac.com/2026/06/24/can-you-save-money-with-a-usb4-cable-over-a-thunderbolt-4-one/",
-      "pubDate": "2026-06-24T11:21:29.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple's iPad mini 7 lands Prime Day price drop to $399",
@@ -304,39 +353,11 @@
       "pubDate": "2026-06-23T23:08:02.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Releases Updated AirPods Beta Firmware With iOS 27 Features",
-      "url": "https://www.macrumors.com/2026/06/23/apple-airpods-beta-firmware-2-ios-27/",
-      "pubDate": "2026-06-23T21:34:53.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Invites App Gets Co-Hosting",
-      "url": "https://www.macrumors.com/2026/06/23/apple-invites-app-gets-co-hosting/",
-      "pubDate": "2026-06-23T20:30:57.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27 Wallet App Gets 7 New Features",
-      "url": "https://www.macrumors.com/guide/ios-27-wallet/",
-      "pubDate": "2026-06-23T19:32:14.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) The Talk Show 450: Perp Walk for Selfies",
       "url": "https://sixcolors.com/podcast/2026/06/the-talk-show-450-perp-walk-for-selfies/",
       "pubDate": "2026-06-23T16:26:37.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple Watch Ultra models plunge to as low as $499 for Prime Day",
-      "url": "https://appleinsider.com/articles/26/06/23/apple-watch-ultra-models-plunge-to-as-low-as-499-for-prime-day?utm_source=rss",
-      "pubDate": "2026-06-23T07:11:16.000Z"
     },
     {
       "source": "Six Colors",
@@ -351,27 +372,6 @@
       "title": "‘Welcome datacomp’ ↦",
       "url": "https://sixcolors.com/link/2026/06/welcome-datacomp/",
       "pubDate": "2026-06-22T21:25:40.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Prime Day, again?! Why it’s OK to ignore Amazon’s big sales event",
-      "url": "https://sixcolors.com/post/2026/06/prime-day-again-why-its-ok-to-ignore-amazons-big-sales-event/",
-      "pubDate": "2026-06-22T18:00:37.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Where we’re going, there are no Maps",
-      "url": "https://sixcolors.com/post/2026/06/where-were-going-there-are-no-maps/",
-      "pubDate": "2026-06-22T17:00:43.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Sponsor) Mojave Paint",
-      "url": "https://sixcolors.com/feed-only/2026/06/mojave-paint/",
-      "pubDate": "2026-06-22T16:00:22.000Z"
     }
   ]
 }
