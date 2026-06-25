@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T21:02:51.467Z",
+  "generatedAt": "2026-06-25T22:47:10.560Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,62 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Micron exec suggests Apple’s aggressive purchasing tactics helped fuel memory shortage",
+      "url": "https://9to5mac.com/2026/06/25/micron-exec-suggests-apples-aggressive-purchasing-tactics-helped-fuel-memory-shortage/",
+      "pubDate": "2026-06-25T22:35:32.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "YouTube updates Shorts to make it even more like TikTok",
+      "url": "https://www.theverge.com/streaming/957422/youtube-shorts-update-tiktok",
+      "pubDate": "2026-06-25T22:08:30.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "OpenAI will delay GPT-5.6 after Trump administration request",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
+      "pubDate": "2026-06-25T21:57:06.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "WhatsApp channels are finally getting search on iPhone",
+      "url": "https://9to5mac.com/2026/06/25/whatsapp-channels-are-finally-getting-search-on-iphone/",
+      "pubDate": "2026-06-25T21:45:37.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "M5 Ultra Mac Studio Could Launch in 2026 With Up to 768GB of RAM",
+      "url": "https://www.macrumors.com/2026/06/25/m5-ultra-mac-studio-2026/",
+      "pubDate": "2026-06-25T21:30:42.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Framework has good news and bad news",
+      "url": "https://www.theverge.com/gadgets/957338/framework-laptop-13-pro-ssd-price-cpu",
+      "pubDate": "2026-06-25T21:23:47.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "That new Mac or iPad is gonna cost you even more now",
+      "url": "https://sixcolors.com/post/2026/06/that-new-mac-or-ipad-is-gonna-cost-you-even-more-now/",
+      "pubDate": "2026-06-25T21:23:03.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Russia wants to know why Apple removed Russian apps from the U.S. App Store",
+      "url": "https://9to5mac.com/2026/06/25/russia-wants-to-know-why-apple-removed-russian-apps-from-the-u-s-app-store/",
+      "pubDate": "2026-06-25T21:08:41.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -143,13 +199,6 @@
       "pubDate": "2026-06-25T17:58:37.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Here’s a bunch of Prime Day deals on keyboards, mice, and other peripherals we like",
-      "url": "https://www.theverge.com/gadgets/956938/prime-day-deals-keyboards-mice-monitors-peripherals",
-      "pubDate": "2026-06-25T17:47:20.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Beat Apple's Price Hike: Last Chance to Score Cheap iPads and Macs for Prime Day",
@@ -176,20 +225,6 @@
       "title": "2027 Macs to Get AI-Focused M7 Chips as Apple Skips High-End M6",
       "url": "https://www.macrumors.com/2026/06/25/2027-macs-m7-chips/",
       "pubDate": "2026-06-25T17:14:21.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "This year’s Prime Day deals on Apple products are the best I’ve seen",
-      "url": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
-      "pubDate": "2026-06-25T17:12:48.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "54 Prime Day steals under $25 you won&#8217;t want to miss",
-      "url": "https://www.theverge.com/gadgets/951852/prime-day-deals-cheap-stuff-under-25-sale",
-      "pubDate": "2026-06-25T17:09:43.000Z"
     },
     {
       "source": "9to5Mac",
@@ -248,32 +283,11 @@
       "pubDate": "2026-06-25T15:40:20.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Prime Day 3 deals: M5 MacBook Air $350 off new price, MacBook Neo $110 off, M5/Max up to $800 off, AirPods Pro 3, more",
-      "url": "https://9to5mac.com/2026/06/25/prime-day-deals-macbook-air-macbook-neo-airpods-pro-3/",
-      "pubDate": "2026-06-25T15:30:14.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Wall Street isn’t buying Apple’s unprecedented price hikes on products",
-      "url": "https://9to5mac.com/2026/06/25/wall-street-isnt-buying-apples-unprecedented-price-hikes-on-products/",
-      "pubDate": "2026-06-25T15:25:58.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Raises Refurbished Mac and iPad Prices After New Product Hikes",
       "url": "https://www.macrumors.com/2026/06/25/apple-raises-refurbished-mac-ipad-prices/",
       "pubDate": "2026-06-25T15:25:50.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: June 25, 2026 – Disney and Apple, more",
-      "url": "https://9to5mac.com/2026/06/25/daily-june-25-2026/",
-      "pubDate": "2026-06-25T15:22:44.000Z"
     },
     {
       "source": "MacRumors",
@@ -353,25 +367,11 @@
       "pubDate": "2026-06-25T13:10:45.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Just Raised the Price of the MacBook Neo",
-      "url": "https://www.macrumors.com/2026/06/25/apple-just-raised-macbook-neo-prices/",
-      "pubDate": "2026-06-25T13:04:35.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Apple’s eras keep changing, and so do mine (Macworld/Jason Snell)",
       "url": "https://www.macworld.com/article/3175482",
       "pubDate": "2026-06-25T11:00:42.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) Clockwise 662: Nominally Fine",
-      "url": "https://sixcolors.com/podcast/2026/06/clockwise-662-nominally-fine/",
-      "pubDate": "2026-06-24T20:06:02.000Z"
     }
   ]
 }
