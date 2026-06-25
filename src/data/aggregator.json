@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T04:35:04.927Z",
+  "generatedAt": "2026-06-25T08:31:24.548Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "B&H slashes Samsung M8 32-inch USB-C monitor to $299 today only",
+      "url": "https://appleinsider.com/articles/26/06/25/bh-slashes-samsung-m8-32-inch-usb-c-monitor-to-299-today-only?utm_source=rss",
+      "pubDate": "2026-06-25T04:41:08.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -337,13 +344,6 @@
       "title": "New macOS security flaw could let hackers disable protection tools, researchers say",
       "url": "https://appleinsider.com/articles/26/06/24/new-macos-security-flaw-could-let-hackers-disable-protection-tools-researchers-say?utm_source=rss",
       "pubDate": "2026-06-24T13:10:26.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple Watch Series 11 (46mm, cellular) plunges to record-low $379 for Prime Day",
-      "url": "https://appleinsider.com/articles/26/06/24/apple-watch-series-11-46mm-cellular-plunges-to-record-low-379-for-prime-day?utm_source=rss",
-      "pubDate": "2026-06-24T13:05:01.000Z"
     },
     {
       "source": "MacRumors",
