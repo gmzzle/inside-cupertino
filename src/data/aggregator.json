@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T16:28:50.330Z",
+  "generatedAt": "2026-06-26T19:04:41.871Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,11 +24,193 @@
   ],
   "items": [
     {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "MacBook Ultra and new MacBook Pro both launching this fall, per rumors",
+      "url": "https://9to5mac.com/2026/06/26/macbook-ultra-and-new-macbook-pro-both-launching-this-fall-per-rumors/",
+      "pubDate": "2026-06-26T19:03:19.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "LG UltraFine 6K Review: A Premium 6K Display Designed With Mac Users in Mind",
+      "url": "https://www.macrumors.com/review/lg-ultrafine-6k-32u990a-display/",
+      "pubDate": "2026-06-26T18:57:01.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Level Lock team gutting leaves unanswered questions",
+      "url": "https://appleinsider.com/articles/26/06/26/level-lock-team-gutting-leaves-unanswered-questions?utm_source=rss",
+      "pubDate": "2026-06-26T18:55:02.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Our 36 favorite gaming deals on Prime Day for Switch, PS5, and Xbox",
+      "url": "https://www.theverge.com/gadgets/951901/prime-day-video-games-switch-playstation-xbox-pc-deal-sale",
+      "pubDate": "2026-06-26T18:43:39.000Z"
+    },
+    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Touchscreen MacBook Pro will stick with M5 for first release",
       "url": "https://appleinsider.com/articles/26/06/26/touchscreen-macbook-pro-will-stick-with-m5-for-first-release?utm_source=rss",
-      "pubDate": "2026-06-26T16:19:43.000Z"
+      "pubDate": "2026-06-26T18:32:23.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "OLED, touchscreen, and more: What to expect from the 2027 MacBook PRo",
+      "url": "https://appleinsider.com/articles/26/06/26/oled-touchscreen-and-more-what-to-expect-from-the-2027-macbook-pro?utm_source=rss",
+      "pubDate": "2026-06-26T18:28:59.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "OpenAI Launches GPT-5.6 Sol, Terra, and Luna in Limited Preview",
+      "url": "https://www.macrumors.com/2026/06/26/openai-gpt-5-6-sol/",
+      "pubDate": "2026-06-26T18:16:09.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "HomeKit Weekly: SwitchBot Weather Station brings an E-ink calendar and climate dashboard to Apple Home",
+      "url": "https://9to5mac.com/2026/06/26/switchbot-weather-station/",
+      "pubDate": "2026-06-26T18:15:00.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Sponsor) Mojave Paint",
+      "url": "https://sixcolors.com/sponsor/2026/06/mojave-paint-2/",
+      "pubDate": "2026-06-26T18:00:49.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Level Lock founders and engineers kicked by parent company ↦",
+      "url": "https://sixcolors.com/link/2026/06/level-lock-founders-and-engineers-kicked-by-parent-company/",
+      "pubDate": "2026-06-26T18:00:46.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The beautiful shame",
+      "url": "https://www.theverge.com/report/957948/world-cup-us-visa-policies-trump",
+      "pubDate": "2026-06-26T18:00:00.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Apple should free the macOS icons from squircle jail ↦",
+      "url": "https://sixcolors.com/link/2026/06/apple-should-free-the-macos-icons-from-squircle-jail/",
+      "pubDate": "2026-06-26T17:59:15.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "This video bird feeder is the surprise hit of Prime Day",
+      "url": "https://www.theverge.com/gadgets/957791/birdbuddy-pro-solar-prime-day-deal-sale",
+      "pubDate": "2026-06-26T17:56:25.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Report: Apple changes chip and OLED MacBook Pro release plans",
+      "url": "https://sixcolors.com/post/2026/06/report-apple-changes-chip-and-oled-macbook-pro-release-plans/",
+      "pubDate": "2026-06-26T17:51:11.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Prime Day's Final Hours Bring Rare Low Prices on AirPods, Apple Watches, and More",
+      "url": "https://www.macrumors.com/2026/06/26/prime-days-final-hours/",
+      "pubDate": "2026-06-26T17:49:15.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iPhone 18 rumored to have slightly more RAM, might improve AI performance",
+      "url": "https://appleinsider.com/articles/26/06/26/iphone-18-rumored-to-have-slightly-more-ram-might-improve-ai-performance?utm_source=rss",
+      "pubDate": "2026-06-26T17:49:14.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's first cinematic event in 2026 is Everest ascent saga 'Tenzing'",
+      "url": "https://appleinsider.com/articles/26/06/26/apples-first-cinematic-event-in-2026-is-everest-ascent-saga-tenzing?utm_source=rss",
+      "pubDate": "2026-06-26T17:47:45.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "MacRumors Giveaway: Win an iPad Air and Rock Paper Pencil From Astropad",
+      "url": "https://www.macrumors.com/2026/06/26/macrumors-giveaway-ipad-air-astropad-june-2026/",
+      "pubDate": "2026-06-26T17:33:10.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "OpenAI upgrading ChatGPT and Codex with new GPT-5.6 models in limited release",
+      "url": "https://9to5mac.com/2026/06/26/openai-upgrading-chatgpt-and-codex-with-new-gpt-5-6-models-in-limited-release/",
+      "pubDate": "2026-06-26T17:19:53.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "It’s the last day of Prime Day — here are over 140 great deals to choose from",
+      "url": "https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four",
+      "pubDate": "2026-06-26T17:15:27.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple just announced its first film this year with a theatrical release",
+      "url": "https://9to5mac.com/2026/06/26/apple-just-announced-its-first-film-this-year-with-a-theatrical-release/",
+      "pubDate": "2026-06-26T17:06:08.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
+      "pubDate": "2026-06-26T17:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Smart lock maker Level has been gutted and its founders are out",
+      "url": "https://www.theverge.com/tech/957802/level-lock-layoffs-assa-abloy-kwikset-smart-lock-cloud",
+      "pubDate": "2026-06-26T16:59:16.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "2027 iPhone 18 and iPhone 18e to Get 9GB RAM and A20 Chip",
+      "url": "https://www.macrumors.com/2026/06/26/iphone-18-9gb-ram/",
+      "pubDate": "2026-06-26T16:57:31.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "New iPhone 18 specs report raises big question of iOS 27 limitations",
+      "url": "https://9to5mac.com/2026/06/26/new-iphone-18-specs-report-raises-big-question-of-ios-27-limitations/",
+      "pubDate": "2026-06-26T16:57:19.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "I tested 200+ iOS 27 features and changes, here are 10 of my favorites [Video]",
+      "url": "https://9to5mac.com/2026/06/26/ios-27-200-features-and-changes-10-best-new-features-video/",
+      "pubDate": "2026-06-26T16:33:58.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "You won&#8217;t have long to get these iPad deals before Apple&#8217;s price hike",
+      "url": "https://www.theverge.com/gadgets/957106/prime-day-ipad-deals-apple-price-hikes",
+      "pubDate": "2026-06-26T16:26:06.000Z"
     },
     {
       "source": "MacRumors",
@@ -52,6 +234,13 @@
       "pubDate": "2026-06-26T16:07:34.000Z"
     },
     {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Will Apple reverse the price increases when the memory shortage eases? [Poll]",
+      "url": "https://9to5mac.com/2026/06/26/will-apple-reverse-the-price-increases-when-the-memory-shortage-eases-poll/",
+      "pubDate": "2026-06-26T16:00:00.000Z"
+    },
+    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Xreal’s best USB-C smart glasses are $50 off, but not for long",
@@ -71,13 +260,6 @@
       "title": "Prime Day is almost over, but these are still the best Apple deals I&#8217;ve seen",
       "url": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
       "pubDate": "2026-06-26T15:40:58.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "It’s now the Arduino Uno Q’s turn to get a price hike",
-      "url": "https://www.theverge.com/tech/957751/arduino-q-microcomputer-price-increase-ram-crisis",
-      "pubDate": "2026-06-26T15:35:31.000Z"
     },
     {
       "source": "9to5Mac",
@@ -101,13 +283,6 @@
       "pubDate": "2026-06-26T15:30:45.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Fitbit’s Charge 6 and kid-friendly Ace LTE are much cheaper for Prime Day",
-      "url": "https://www.theverge.com/gadgets/952995/fitbit-charge-6-ace-lte-amazon-prime-day-2026-deal-sale",
-      "pubDate": "2026-06-26T15:27:07.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Prime Day deals – Last chance: MacBook Pro $850 off new list, MacBook Neo $110 off, AirPods Pro 3, Series 11, AirTag 2, more",
@@ -129,13 +304,6 @@
       "pubDate": "2026-06-26T15:11:10.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Sometimes, health tracking accuracy is overrated",
-      "url": "https://www.theverge.com/column/957703/optimizer-withings-dexa-body-composition-health-fitness",
-      "pubDate": "2026-06-26T15:00:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "How to play Steam VR games on an Apple Vision Pro using ALVR",
@@ -148,13 +316,6 @@
       "title": "Prime Day Apple Watch deals from $199 end today, shop now before it's too late",
       "url": "https://appleinsider.com/articles/26/06/26/prime-day-apple-watch-deals-from-199-end-today-shop-now-before-its-too-late?utm_source=rss",
       "pubDate": "2026-06-26T14:17:17.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Of course Meta thinks gambling is the future",
-      "url": "https://www.theverge.com/podcast/957673/meta-polymarket-apple-prices-vergecast",
-      "pubDate": "2026-06-26T14:16:29.000Z"
     },
     {
       "source": "MacRumors",
@@ -185,39 +346,11 @@
       "pubDate": "2026-06-26T14:10:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 adds three new iPhone features I’ve been really loving",
-      "url": "https://9to5mac.com/2026/06/26/ios-27-adds-three-new-iphone-features-ive-been-really-loving/",
-      "pubDate": "2026-06-26T14:09:07.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Anthropic&#8217;s Mythos mess is only getting worse",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
-      "pubDate": "2026-06-26T14:07:03.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Overtime 070: The Siri Redemption Tour",
-      "url": "https://9to5mac.com/2026/06/26/9to5mac-overtime-070-the-siri-redemption-tour/",
-      "pubDate": "2026-06-26T13:58:23.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Amazon's $1,149 15-inch MacBook Air deal is selling out, save up to $450 across line",
       "url": "https://appleinsider.com/articles/26/06/26/amazons-1149-15-inch-macbook-air-deal-is-selling-out-save-up-to-450-across-line?utm_source=rss",
       "pubDate": "2026-06-26T13:49:40.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple&#8217;s AirPods Max 2 headphones are still $150 off — for now",
-      "url": "https://www.theverge.com/gadgets/957605/apple-airpods-max-2-headphones-prime-day-deal-sale",
-      "pubDate": "2026-06-26T13:06:02.000Z"
     },
     {
       "source": "AppleInsider",
@@ -227,34 +360,6 @@
       "pubDate": "2026-06-26T12:49:54.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Prime Day is offering rare discounts on Philips Hue smart lights",
-      "url": "https://www.theverge.com/tech/957269/philips-hue-amazon-prime-day-2026-deal-sale",
-      "pubDate": "2026-06-26T12:30:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple 'iRing' Rumor Re-Emerges Amid Oura Ring Popularity",
-      "url": "https://www.macrumors.com/2026/06/26/apple-iring-rumor-returns-oura-ring-rival/",
-      "pubDate": "2026-06-26T12:24:47.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "The best last-minute Prime Day deals on AirTag, AirPods, MagSafe chargers, more",
-      "url": "https://9to5mac.com/2026/06/26/best-last-minute-prime-day-deals/",
-      "pubDate": "2026-06-26T11:56:33.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple now sells refurbished MacBook Neo, but you probably shouldn’t buy it",
-      "url": "https://9to5mac.com/2026/06/26/apple-now-sells-refurbished-macbook-neo-but-you-probably-shouldnt-buy-it/",
-      "pubDate": "2026-06-26T11:25:23.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "These iPhone accessibility settings can make everyday tasks easier",
@@ -262,116 +367,11 @@
       "pubDate": "2026-06-26T11:12:43.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Refurbished MacBook Neo Models Now Available, a Day After Price Hike",
-      "url": "https://www.macrumors.com/2026/06/26/refurbished-macbook-neo-now-available/",
-      "pubDate": "2026-06-26T10:59:19.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "All the best Apple Prime Day deals now live [Day 4 Update]",
-      "url": "https://9to5mac.com/2026/06/26/all-best-apple-prime-day-deals-live/",
-      "pubDate": "2026-06-26T07:02:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: June 26, 2026 – Apple announces significant price increases",
-      "url": "https://9to5mac.com/2026/06/26/9to5mac-daily-june-26-2026-apple-announces-significant-price-increases/",
-      "pubDate": "2026-06-26T07:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple adds Google Gemini coding assistant in Xcode 26.6 update",
-      "url": "https://9to5mac.com/2026/06/25/apple-adds-google-gemini-coding-assistant-in-xcode-26-6-update/",
-      "pubDate": "2026-06-26T01:49:47.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Elgato 4K S review: An excellent capture card for Mac streamers",
-      "url": "https://appleinsider.com/articles/25/08/26/elgato-4k-s-review-an-excellent-capture-card-for-mac-streamers?utm_source=rss",
-      "pubDate": "2026-06-26T00:25:55.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "M6 MacBook Pro Expected This Year With Apple's First 2nm Chip",
-      "url": "https://www.macrumors.com/2026/06/25/m6-macbook-pro-2026/",
-      "pubDate": "2026-06-25T23:21:59.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "M5 Ultra Mac Studio Could Launch in 2026 With Up to 768GB of RAM",
-      "url": "https://www.macrumors.com/2026/06/25/m5-ultra-mac-studio-2026/",
-      "pubDate": "2026-06-25T21:30:42.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "That new Mac or iPad is gonna cost you even more now",
       "url": "https://sixcolors.com/post/2026/06/that-new-mac-or-ipad-is-gonna-cost-you-even-more-now/",
       "pubDate": "2026-06-25T21:23:03.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple's Stock Has Worst Day in More Than a Year After Price Increases",
-      "url": "https://www.macrumors.com/2026/06/25/apple-stock-worst-day-in-more-than-a-year/",
-      "pubDate": "2026-06-25T20:39:42.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "watchOS 27 beta 2 now available for Apple Watch Ultra 3",
-      "url": "https://appleinsider.com/articles/26/06/25/watchos-27-beta-2-now-available-for-apple-watch-ultra-3?utm_source=rss",
-      "pubDate": "2026-06-25T19:56:20.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Amazon's $299 iPad deal is in stock now, $150 off Apple's new $449 price",
-      "url": "https://appleinsider.com/articles/26/06/25/amazons-299-ipad-deal-is-in-stock-now-150-off-apples-new-449-price?utm_source=rss",
-      "pubDate": "2026-06-25T19:27:28.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple will skip M6 Pro, Max chips in favor of M7 AI alternatives",
-      "url": "https://appleinsider.com/articles/26/06/25/apple-will-skip-m6-pro-max-chips-in-favor-of-m7-ai-alternatives?utm_source=rss",
-      "pubDate": "2026-06-25T17:39:41.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) Upgrade 625: Road to the Apple II: Computer Faire (Part 4)",
-      "url": "https://sixcolors.com/podcast/2026/06/upgrade-625-road-to-the-apple-ii-computer-faire-part-4/",
-      "pubDate": "2026-06-25T16:14:00.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Realizing the user automation dream",
-      "url": "https://sixcolors.com/post/2026/06/realizing-the-user-automation-dream/",
-      "pubDate": "2026-06-25T15:00:19.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Apple’s eras keep changing, and so do mine (Macworld/Jason Snell)",
-      "url": "https://www.macworld.com/article/3175482",
-      "pubDate": "2026-06-25T11:00:42.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) Clockwise 662: Nominally Fine",
-      "url": "https://sixcolors.com/podcast/2026/06/clockwise-662-nominally-fine/",
-      "pubDate": "2026-06-24T20:06:02.000Z"
     }
   ]
 }
