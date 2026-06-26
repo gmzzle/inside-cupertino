@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T19:04:41.871Z",
+  "generatedAt": "2026-06-26T20:55:44.266Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,55 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Save $850 on M5 Max MacBook Pro 16-inch with last-minute Prime Day deal",
+      "url": "https://appleinsider.com/articles/26/06/26/save-850-on-m5-max-macbook-pro-16-inch-with-last-minute-prime-day-deal?utm_source=rss",
+      "pubDate": "2026-06-26T20:38:23.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "OpenAI has poached another Apple executive for its hardware division",
+      "url": "https://appleinsider.com/articles/26/06/26/openai-has-poached-another-apple-executive-for-its-hardware-division?utm_source=rss",
+      "pubDate": "2026-06-26T20:27:40.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple working with supplier Tata after sensitive files leak online",
+      "url": "https://9to5mac.com/2026/06/26/apple-works-with-supplier-tata-after-sensitive-files-leak-online/",
+      "pubDate": "2026-06-26T20:18:09.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Loses Another Top Executive to OpenAI",
+      "url": "https://www.macrumors.com/2026/06/26/apple-loses-another-executive-to-openai/",
+      "pubDate": "2026-06-26T19:46:16.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "OpenAI poaches Apple Vision Pro and smart glasses chief",
+      "url": "https://9to5mac.com/2026/06/26/openai-poaches-apple-vision-pro-and-smart-glasses-chief/",
+      "pubDate": "2026-06-26T19:45:23.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple will launch 15+ new products this fall, here’s what’s coming",
+      "url": "https://9to5mac.com/2026/06/26/apple-will-launch-15-new-products-this-fall-heres-whats-coming/",
+      "pubDate": "2026-06-26T19:29:32.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone 18 Pro and Pro Max May See $200 Price Increase",
+      "url": "https://www.macrumors.com/2026/06/26/iphone-18-pro-price-increase-estimate/",
+      "pubDate": "2026-06-26T19:17:59.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -283,25 +332,11 @@
       "pubDate": "2026-06-26T15:30:45.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Prime Day deals – Last chance: MacBook Pro $850 off new list, MacBook Neo $110 off, AirPods Pro 3, Series 11, AirTag 2, more",
-      "url": "https://9to5mac.com/2026/06/26/prime-day-deals-macbook-pro-neo-airpods-pro-3/",
-      "pubDate": "2026-06-26T15:26:26.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple will provide aid to victims of devastating back-to-back earthquakes in Venezuela",
       "url": "https://appleinsider.com/articles/26/06/26/apple-will-provide-aid-to-victims-of-devastating-back-to-back-earthquakes-in-venezuela?utm_source=rss",
       "pubDate": "2026-06-26T15:13:19.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "New iPhone Ultra report has latest pricing and release timing updates",
-      "url": "https://9to5mac.com/2026/06/26/new-iphone-ultra-report-has-latest-pricing-and-release-timing-updates/",
-      "pubDate": "2026-06-26T15:11:10.000Z"
     },
     {
       "source": "AppleInsider",
@@ -325,34 +360,6 @@
       "pubDate": "2026-06-26T14:14:02.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple supporting Venezuela relief efforts after catastrophic earthquake",
-      "url": "https://9to5mac.com/2026/06/26/apple-supporting-venezuela-relief-efforts-after-catastrophic-earthquake/",
-      "pubDate": "2026-06-26T14:13:58.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Adds More 2026 Macs and Studio Display 2 to Refurbished Store",
-      "url": "https://www.macrumors.com/2026/06/26/more-refurbished-2026-apple-products/",
-      "pubDate": "2026-06-26T14:12:48.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Donating to Relief Efforts in Venezuela Following Devastating Earthquakes",
-      "url": "https://www.macrumors.com/2026/06/26/apple-donating-to-venezuela-earthquake-relief/",
-      "pubDate": "2026-06-26T14:10:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Amazon's $1,149 15-inch MacBook Air deal is selling out, save up to $450 across line",
-      "url": "https://appleinsider.com/articles/26/06/26/amazons-1149-15-inch-macbook-air-deal-is-selling-out-save-up-to-450-across-line?utm_source=rss",
-      "pubDate": "2026-06-26T13:49:40.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Price hikes, new betas, and iPhone Fold, on the AppleInsider Podcast",
@@ -365,13 +372,6 @@
       "title": "These iPhone accessibility settings can make everyday tasks easier",
       "url": "https://appleinsider.com/inside/iphone/tips/these-iphone-accessibility-settings-can-make-everyday-tasks-easier?utm_source=rss",
       "pubDate": "2026-06-26T11:12:43.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "That new Mac or iPad is gonna cost you even more now",
-      "url": "https://sixcolors.com/post/2026/06/that-new-mac-or-ipad-is-gonna-cost-you-even-more-now/",
-      "pubDate": "2026-06-25T21:23:03.000Z"
     }
   ]
 }
