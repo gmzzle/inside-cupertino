@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T22:47:10.560Z",
+  "generatedAt": "2026-06-26T01:30:56.378Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,11 +24,53 @@
   ],
   "items": [
     {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Amazon's $1,149 15-inch MacBook Air deal is selling out, save up to $450 across line",
+      "url": "https://appleinsider.com/articles/26/06/26/amazons-1149-15-inch-macbook-air-deal-is-selling-out-save-up-to-450-across-line?utm_source=rss",
+      "pubDate": "2026-06-26T01:15:45.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Camp Snoopy season 2 now available on Apple TV",
+      "url": "https://9to5mac.com/2026/06/25/camp-snoopy-season-2-now-available-on-apple-tv/",
+      "pubDate": "2026-06-26T01:15:41.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Elgato 4K S review: An excellent capture card for Mac streamers",
+      "url": "https://appleinsider.com/articles/25/08/26/elgato-4k-s-review-an-excellent-capture-card-for-mac-streamers?utm_source=rss",
+      "pubDate": "2026-06-26T00:25:55.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "M6 MacBook Pro Expected This Year With Apple's First 2nm Chip",
+      "url": "https://www.macrumors.com/2026/06/25/m6-macbook-pro-2026/",
+      "pubDate": "2026-06-25T23:21:59.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "This year’s Prime Day deals on Apple products are the best I’ve seen",
+      "url": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
+      "pubDate": "2026-06-25T23:04:23.000Z"
+    },
+    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Micron exec suggests Apple’s aggressive purchasing tactics helped fuel memory shortage",
       "url": "https://9to5mac.com/2026/06/25/micron-exec-suggests-apples-aggressive-purchasing-tactics-helped-fuel-memory-shortage/",
       "pubDate": "2026-06-25T22:35:32.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Android 17&#8217;s new foldable gaming mode could make flippy phones more fun",
+      "url": "https://www.theverge.com/tech/957450/android-17-foldable-gaming-mode-virtual-controller",
+      "pubDate": "2026-06-25T22:33:54.000Z"
     },
     {
       "source": "The Verge",
@@ -178,25 +220,11 @@
       "pubDate": "2026-06-25T18:20:17.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "You won&#8217;t have long to get these iPad deals before Apple&#8217;s price hike",
-      "url": "https://www.theverge.com/gadgets/957106/prime-day-ipad-deals-apple-price-hikes",
-      "pubDate": "2026-06-25T18:04:13.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Apple hints at more price increases coming later",
       "url": "https://9to5mac.com/2026/06/25/apple-hints-at-more-price-increases-coming-later/",
       "pubDate": "2026-06-25T18:01:16.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Polestar has been muscled out of the US market",
-      "url": "https://www.theverge.com/transportation/957033/polestar-banned-us-sales-china-software",
-      "pubDate": "2026-06-25T17:58:37.000Z"
     },
     {
       "source": "MacRumors",
@@ -276,13 +304,6 @@
       "pubDate": "2026-06-25T15:51:11.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Notes adds a power user feature in iOS 27 that’s rare in other apps",
-      "url": "https://9to5mac.com/2026/06/25/apple-notes-adds-a-power-user-feature-in-ios-27-thats-rare-in-other-apps/",
-      "pubDate": "2026-06-25T15:40:20.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Raises Refurbished Mac and iPad Prices After New Product Hikes",
@@ -334,13 +355,6 @@
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple confirms price hikes across Macs, iPads, and more",
-      "url": "https://appleinsider.com/articles/26/06/25/apple-confirms-price-nikes-across-macs-ipads-and-more?utm_source=rss",
-      "pubDate": "2026-06-25T14:13:58.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
       "title": "Apple just increased prices, now is the time to grab Prime Day deals from $11",
       "url": "https://appleinsider.com/articles/26/06/25/apple-just-increased-prices-now-is-the-time-to-grab-prime-day-deals-from-11?utm_source=rss",
       "pubDate": "2026-06-25T13:40:00.000Z"
@@ -351,20 +365,6 @@
       "title": "iPhone, Apple Watch & AirPods escape Apple's latest price increases",
       "url": "https://appleinsider.com/articles/26/06/25/iphone-apple-watch-airpods-escape-apples-latest-price-increases?utm_source=rss",
       "pubDate": "2026-06-25T13:34:45.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple Store was down, to implement price hikes",
-      "url": "https://appleinsider.com/articles/26/06/25/apple-store-is-down-for-one-of-two-reasons?utm_source=rss",
-      "pubDate": "2026-06-25T13:32:45.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Hikes M4 Pro Mac Mini Starting Price Amid Rising Memory Costs",
-      "url": "https://www.macrumors.com/2026/06/25/apple-hikes-m4-pro-mac-mini-starting-price/",
-      "pubDate": "2026-06-25T13:10:45.000Z"
     },
     {
       "source": "Six Colors",
