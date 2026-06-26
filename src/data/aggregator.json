@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T20:55:44.266Z",
+  "generatedAt": "2026-06-26T22:37:08.390Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,55 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "AI-generated knockoffs of Joanna Stern’s book keep appearing on Apple Books",
+      "url": "https://9to5mac.com/2026/06/26/ai-generated-knockoffs-of-joanna-sterns-book-keep-appearing-on-apple-books/",
+      "pubDate": "2026-06-26T22:36:41.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iOS 27 Makes the Shortcuts App Much Less Intimidating",
+      "url": "https://www.macrumors.com/guide/ios-27-shortcuts/",
+      "pubDate": "2026-06-26T22:16:41.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "After covering Prime Day for 36 hours over four days, this is the one thing I bought",
+      "url": "https://www.theverge.com/gadgets/958179/prime-day-what-i-bought-vampliers-stripped-screw-extractor",
+      "pubDate": "2026-06-26T22:09:46.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Ron Johnson breaks his silence on forging Apple Retail with Steve Jobs",
+      "url": "https://appleinsider.com/articles/26/06/26/ron-johnson-breaks-his-silence-on-forging-apple-retail-with-steve-jobs?utm_source=rss",
+      "pubDate": "2026-06-26T21:48:02.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "WhatsApp beta brings Liquid Glass design to the iPad app, here’s what it looks like",
+      "url": "https://9to5mac.com/2026/06/26/whatsapp-beta-brings-liquid-glass-design-to-the-ipad-app-heres-what-it-looks-like/",
+      "pubDate": "2026-06-26T21:43:10.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Our favorite Prime Day gadgets under $100 you don&#8217;t need but will really want",
+      "url": "https://www.theverge.com/gadgets/957473/prime-day-2026-fun-gadgets-under-100-deal-sale",
+      "pubDate": "2026-06-26T21:25:22.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "It’s the last day of Prime Day — here are over 140 great deals to choose from",
+      "url": "https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four",
+      "pubDate": "2026-06-26T20:38:57.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -57,6 +106,13 @@
       "title": "OpenAI poaches Apple Vision Pro and smart glasses chief",
       "url": "https://9to5mac.com/2026/06/26/openai-poaches-apple-vision-pro-and-smart-glasses-chief/",
       "pubDate": "2026-06-26T19:45:23.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "These are the best deals you can still get on MacBooks before Apple&#8217;s price hike kicks in",
+      "url": "https://www.theverge.com/gadgets/956830/prime-day-macbook-deals-apple-price-hikes",
+      "pubDate": "2026-06-26T19:42:52.000Z"
     },
     {
       "source": "9to5Mac",
@@ -206,13 +262,6 @@
       "pubDate": "2026-06-26T17:19:53.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "It’s the last day of Prime Day — here are over 140 great deals to choose from",
-      "url": "https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four",
-      "pubDate": "2026-06-26T17:15:27.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Apple just announced its first film this year with a theatrical release",
@@ -276,25 +325,11 @@
       "pubDate": "2026-06-26T16:15:03.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The 16 best robot vacuum deals you can still get before Prime Day ends",
-      "url": "https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026",
-      "pubDate": "2026-06-26T16:07:34.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Will Apple reverse the price increases when the memory shortage eases? [Poll]",
       "url": "https://9to5mac.com/2026/06/26/will-apple-reverse-the-price-increases-when-the-memory-shortage-eases-poll/",
       "pubDate": "2026-06-26T16:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Xreal’s best USB-C smart glasses are $50 off, but not for long",
-      "url": "https://www.theverge.com/gadgets/952261/xreal-one-pro-1s-smart-glasses-deal-sale",
-      "pubDate": "2026-06-26T15:53:08.000Z"
     },
     {
       "source": "MacRumors",
@@ -304,32 +339,11 @@
       "pubDate": "2026-06-26T15:52:50.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Prime Day is almost over, but these are still the best Apple deals I&#8217;ve seen",
-      "url": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
-      "pubDate": "2026-06-26T15:40:58.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "These iOS 27 features make so much sense for Apple’s ‘HomePad’",
-      "url": "https://9to5mac.com/2026/06/26/these-ios-27-features-make-so-much-sense-for-apples-homepad/",
-      "pubDate": "2026-06-26T15:35:12.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple's OLED 'MacBook Ultra' Will Stick With M5 Pro and M5 Max Chips",
       "url": "https://www.macrumors.com/2026/06/26/oled-macbook-stick-with-m5-pro-and-m5-max/",
       "pubDate": "2026-06-26T15:35:12.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple’s touchscreen MacBook to use M5 Pro and M5 Max chips, not M6: report",
-      "url": "https://9to5mac.com/2026/06/26/report-apples-touchscreen-macbook-to-use-m5-pro-and-m5-max-chips-not-m6/",
-      "pubDate": "2026-06-26T15:30:45.000Z"
     },
     {
       "source": "AppleInsider",
@@ -353,25 +367,11 @@
       "pubDate": "2026-06-26T14:17:17.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone 18 Pro and Foldable iPhone Tipped to Get Price Hikes Too",
-      "url": "https://www.macrumors.com/2026/06/26/iphone-18-pro-and-foldable-to-get-price-hikes/",
-      "pubDate": "2026-06-26T14:14:02.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Price hikes, new betas, and iPhone Fold, on the AppleInsider Podcast",
       "url": "https://appleinsider.com/articles/26/06/26/price-hikes-new-betas-and-iphone-fold-on-the-appleinsider-podcast?utm_source=rss",
       "pubDate": "2026-06-26T12:49:54.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "These iPhone accessibility settings can make everyday tasks easier",
-      "url": "https://appleinsider.com/inside/iphone/tips/these-iphone-accessibility-settings-can-make-everyday-tasks-easier?utm_source=rss",
-      "pubDate": "2026-06-26T11:12:43.000Z"
     }
   ]
 }
