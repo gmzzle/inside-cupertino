@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T16:33:12.945Z",
+  "generatedAt": "2026-06-27T18:18:33.931Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Apple wants permission to buy memory from a blacklisted Chinese supplier",
+      "url": "https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt",
+      "pubDate": "2026-06-27T17:28:18.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -155,13 +162,6 @@
       "title": "24 Prime Day deals Verge readers are grabbing before Prime Day ends",
       "url": "https://www.theverge.com/gadgets/954880/amazon-prime-day-2026-popular-products-verge-readers",
       "pubDate": "2026-06-27T02:33:54.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The 17 best robot vacuum deals you can still get before Prime Day ends",
-      "url": "https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026",
-      "pubDate": "2026-06-27T00:42:42.000Z"
     },
     {
       "source": "AppleInsider",
