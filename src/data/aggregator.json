@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T11:04:09.727Z",
+  "generatedAt": "2026-06-27T12:19:46.256Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "This puzzle game&#8217;s simple premise hides surprising depth",
+      "url": "https://www.theverge.com/games/957474/whats-the-password-review-pc-ios-android",
+      "pubDate": "2026-06-27T12:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "This might be the new best smart speaker",
+      "url": "https://www.theverge.com/tech/958127/google-home-speaker-star-fox-installer",
+      "pubDate": "2026-06-27T12:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple @ Work: Deploying a new PC made me appreciate everything Apple built into macOS",
+      "url": "https://9to5mac.com/2026/06/27/apple-work-deploying-a-new-pc-made-me-appreciate-everything-apple-built-into-macos/",
+      "pubDate": "2026-06-27T11:08:34.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -129,13 +150,6 @@
       "pubDate": "2026-06-26T21:43:10.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Our favorite Prime Day gadgets under $100 you don&#8217;t need but will really want",
-      "url": "https://www.theverge.com/gadgets/957473/prime-day-2026-fun-gadgets-under-100-deal-sale",
-      "pubDate": "2026-06-26T21:25:22.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Save $850 on M5 Max MacBook Pro 16-inch with last-minute Prime Day deal",
@@ -169,13 +183,6 @@
       "title": "OpenAI poaches Apple Vision Pro and smart glasses chief",
       "url": "https://9to5mac.com/2026/06/26/openai-poaches-apple-vision-pro-and-smart-glasses-chief/",
       "pubDate": "2026-06-26T19:45:23.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "These are the best deals you can still get on MacBooks before Apple&#8217;s price hike kicks in",
-      "url": "https://www.theverge.com/gadgets/956830/prime-day-macbook-deals-apple-price-hikes",
-      "pubDate": "2026-06-26T19:42:52.000Z"
     },
     {
       "source": "9to5Mac",
@@ -309,13 +316,6 @@
       "title": "2027 iPhone 18 and iPhone 18e to Get 9GB RAM and A20 Chip",
       "url": "https://www.macrumors.com/2026/06/26/iphone-18-9gb-ram/",
       "pubDate": "2026-06-26T16:57:31.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "New iPhone 18 specs report raises big question of iOS 27 limitations",
-      "url": "https://9to5mac.com/2026/06/26/new-iphone-18-specs-report-raises-big-question-of-ios-27-limitations/",
-      "pubDate": "2026-06-26T16:57:19.000Z"
     },
     {
       "source": "MacRumors",
