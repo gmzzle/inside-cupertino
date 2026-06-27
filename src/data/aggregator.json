@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T01:23:48.279Z",
+  "generatedAt": "2026-06-27T06:02:56.565Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple asks Trump admin to approve Chinese RAM after product price increases",
+      "url": "https://9to5mac.com/2026/06/26/apple-asks-trump-admin-to-approve-chinese-ram-after-product-price-increases/",
+      "pubDate": "2026-06-27T03:04:56.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Prime Day is almost over, but these are still the best Apple deals I&#8217;ve seen",
+      "url": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
+      "pubDate": "2026-06-27T02:56:52.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "It’s the last day of Prime Day — here are over 140 great deals to choose from",
+      "url": "https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four",
+      "pubDate": "2026-06-27T02:54:45.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "24 Prime Day deals Verge readers are grabbing before Prime Day ends",
+      "url": "https://www.theverge.com/gadgets/954880/amazon-prime-day-2026-popular-products-verge-readers",
+      "pubDate": "2026-06-27T02:33:54.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -50,20 +78,6 @@
       "title": "OLED, touchscreen, and more: What to expect from the 2027 MacBook Pro",
       "url": "https://appleinsider.com/articles/26/06/26/oled-touchscreen-and-more-what-to-expect-from-the-2027-macbook-pro?utm_source=rss",
       "pubDate": "2026-06-27T00:01:22.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Prime Day is almost over, but these are still the best Apple deals I&#8217;ve seen",
-      "url": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
-      "pubDate": "2026-06-26T23:41:12.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "It’s the last day of Prime Day — here are over 140 great deals to choose from",
-      "url": "https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four",
-      "pubDate": "2026-06-26T23:26:09.000Z"
     },
     {
       "source": "9to5Mac",
@@ -199,13 +213,6 @@
       "pubDate": "2026-06-26T18:55:02.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Our 36 favorite gaming deals on Prime Day for Switch, PS5, and Xbox",
-      "url": "https://www.theverge.com/gadgets/951901/prime-day-video-games-switch-playstation-xbox-pc-deal-sale",
-      "pubDate": "2026-06-26T18:43:39.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Touchscreen MacBook Pro will stick with M5 for first release",
@@ -309,13 +316,6 @@
       "title": "New iPhone 18 specs report raises big question of iOS 27 limitations",
       "url": "https://9to5mac.com/2026/06/26/new-iphone-18-specs-report-raises-big-question-of-ios-27-limitations/",
       "pubDate": "2026-06-26T16:57:19.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "I tested 200+ iOS 27 features and changes, here are 10 of my favorites [Video]",
-      "url": "https://9to5mac.com/2026/06/26/ios-27-200-features-and-changes-10-best-new-features-video/",
-      "pubDate": "2026-06-26T16:33:58.000Z"
     },
     {
       "source": "MacRumors",
