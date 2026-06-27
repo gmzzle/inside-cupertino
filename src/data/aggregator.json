@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T20:33:08.678Z",
+  "generatedAt": "2026-06-27T22:16:51.803Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Teenage Engineering adds lo-fi mode, USB audio, and more to its KO II sampler",
+      "url": "https://www.theverge.com/entertainment/958723/teenage-engineering-os-25-ep-133-ko-ii-sampler",
+      "pubDate": "2026-06-27T21:20:32.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -162,13 +169,6 @@
       "title": "Prime Day is almost over, but these are still the best Apple deals I&#8217;ve seen",
       "url": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
       "pubDate": "2026-06-27T02:56:52.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "It’s the last day of Prime Day — here are over 140 great deals to choose from",
-      "url": "https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four",
-      "pubDate": "2026-06-27T02:54:45.000Z"
     },
     {
       "source": "AppleInsider",
