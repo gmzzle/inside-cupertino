@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T14:55:55.840Z",
+  "generatedAt": "2026-06-27T16:33:12.945Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPadOS 27: Apple is leaving these five iPad models behind, but owners deserve better",
+      "url": "https://9to5mac.com/2026/06/27/these-five-ipad-models-wont-run-ipados-27-but-deserve-better/",
+      "pubDate": "2026-06-27T16:21:52.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "PSA: Lifetime Plex Plan goes from $249.99 to a painful $749.99 on July 1",
+      "url": "https://appleinsider.com/articles/26/06/27/psa-lifetime-plex-plan-goes-from-24999-to-a-painful-74999-on-july-1?utm_source=rss",
+      "pubDate": "2026-06-27T16:05:41.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The Guardian&#8217;s Kai Wright refuses to buy a new phone",
+      "url": "https://www.theverge.com/report/958695/kai-wright-npr-guardian-interview-questionnaire",
+      "pubDate": "2026-06-27T15:15:00.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -143,13 +164,6 @@
       "pubDate": "2026-06-27T00:42:42.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Anthropic&#8217;s Mythos 5 is back",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
-      "pubDate": "2026-06-27T00:33:44.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "OLED, touchscreen, and more: What to expect from the 2027 MacBook Pro",
@@ -262,13 +276,6 @@
       "pubDate": "2026-06-26T18:55:02.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Touchscreen MacBook Pro will stick with M5 for first release",
-      "url": "https://appleinsider.com/articles/26/06/26/touchscreen-macbook-pro-will-stick-with-m5-for-first-release?utm_source=rss",
-      "pubDate": "2026-06-26T18:32:23.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "OpenAI Launches GPT-5.6 Sol, Terra, and Luna in Limited Preview",
@@ -337,13 +344,6 @@
       "title": "MacRumors Giveaway: Win an iPad Air and Rock Paper Pencil From Astropad",
       "url": "https://www.macrumors.com/2026/06/26/macrumors-giveaway-ipad-air-astropad-june-2026/",
       "pubDate": "2026-06-26T17:33:10.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "OpenAI upgrading ChatGPT and Codex with new GPT-5.6 models in limited release",
-      "url": "https://9to5mac.com/2026/06/26/openai-upgrading-chatgpt-and-codex-with-new-gpt-5-6-models-in-limited-release/",
-      "pubDate": "2026-06-26T17:19:53.000Z"
     },
     {
       "source": "MacRumors",
