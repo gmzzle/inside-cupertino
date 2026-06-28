@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T18:18:19.482Z",
+  "generatedAt": "2026-06-28T20:37:03.850Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
+      "pubDate": "2026-06-28T20:27:36.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Sunday Reboot: Apple's gameshow phobia won't change anytime soon",
+      "url": "https://appleinsider.com/articles/26/06/28/sunday-reboot-apples-gameshow-phobia-wont-change-anytime-soon?utm_source=rss",
+      "pubDate": "2026-06-28T20:05:07.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "China claims the world&#8217;s fastest supercomputer",
+      "url": "https://www.theverge.com/tech/958768/china-claims-the-worlds-fastest-supercomputer",
+      "pubDate": "2026-06-28T17:20:59.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -157,25 +178,11 @@
       "pubDate": "2026-06-27T16:05:41.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Guardian&#8217;s Kai Wright refuses to buy a new phone",
-      "url": "https://www.theverge.com/report/958695/kai-wright-npr-guardian-interview-questionnaire",
-      "pubDate": "2026-06-27T15:15:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple Prime Day deals are still live, save up to $650 on Mac, iPad, AirPods",
       "url": "https://appleinsider.com/articles/26/06/27/apple-prime-day-deals-are-still-live-save-up-to-650-on-mac-ipad-airpods?utm_source=rss",
       "pubDate": "2026-06-27T14:43:09.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Indie developers got tired of waiting for a new Star Fox, so they’re making their own",
-      "url": "https://www.theverge.com/entertainment/957679/indie-developers-star-fox-games",
-      "pubDate": "2026-06-27T14:00:00.000Z"
     },
     {
       "source": "AppleInsider",
@@ -295,13 +302,6 @@
       "title": "LG UltraFine 6K Review: A Premium 6K Display Designed With Mac Users in Mind",
       "url": "https://www.macrumors.com/review/lg-ultrafine-6k-32u990a-display/",
       "pubDate": "2026-06-26T18:57:01.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Level Lock team gutting leaves unanswered questions",
-      "url": "https://appleinsider.com/articles/26/06/26/level-lock-team-gutting-leaves-unanswered-questions?utm_source=rss",
-      "pubDate": "2026-06-26T18:55:02.000Z"
     },
     {
       "source": "MacRumors",
