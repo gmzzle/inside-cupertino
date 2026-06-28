@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T11:58:48.254Z",
+  "generatedAt": "2026-06-28T14:17:00.790Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,41 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
+      "pubDate": "2026-06-28T14:12:06.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "How to create a macOS Golden Gate USB install drive [Video]",
+      "url": "https://9to5mac.com/2026/06/28/how-to-create-a-macos-golden-gate-usb-install-drive-video/",
+      "pubDate": "2026-06-28T13:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "How to watch the Formula 1 race for free right now",
+      "url": "https://9to5mac.com/2026/06/28/how-to-watch-the-formula-1-race-for-free-right-now/",
+      "pubDate": "2026-06-28T12:50:56.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Nest&#8217;s quest to fix your thermostat",
+      "url": "https://www.theverge.com/podcast/958735/nest-thermostat-version-history",
+      "pubDate": "2026-06-28T12:02:44.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Ad-free streaming is a luxury now",
+      "url": "https://www.theverge.com/column/958379/streaming-industry-ads",
+      "pubDate": "2026-06-28T12:00:00.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -136,13 +171,6 @@
       "pubDate": "2026-06-27T13:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Inside the room where the smart home industry is still betting on Matter",
-      "url": "https://www.theverge.com/tech/958008/matter-unify-conference-csa-apple-google-amazon-samsung-smart-home-interoperability",
-      "pubDate": "2026-06-27T13:00:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple wants to buy RAM from Chinese supplier blacklisted in the US",
@@ -155,20 +183,6 @@
       "title": "Amazon's $1,149 1TB MacBook Air M5 deal has been extended, save $450",
       "url": "https://appleinsider.com/articles/26/06/27/amazons-1149-1tb-macbook-air-m5-deal-has-been-extended-save-450?utm_source=rss",
       "pubDate": "2026-06-27T12:33:12.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "This puzzle game&#8217;s simple premise hides surprising depth",
-      "url": "https://www.theverge.com/games/957474/whats-the-password-review-pc-ios-android",
-      "pubDate": "2026-06-27T12:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "This might be the new best smart speaker",
-      "url": "https://www.theverge.com/tech/958127/google-home-speaker-star-fox-installer",
-      "pubDate": "2026-06-27T12:00:00.000Z"
     },
     {
       "source": "9to5Mac",
@@ -253,20 +267,6 @@
       "title": "Apple Loses Another Top Executive to OpenAI",
       "url": "https://www.macrumors.com/2026/06/26/apple-loses-another-executive-to-openai/",
       "pubDate": "2026-06-26T19:46:16.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "OpenAI poaches Apple Vision Pro and smart glasses chief",
-      "url": "https://9to5mac.com/2026/06/26/openai-poaches-apple-vision-pro-and-smart-glasses-chief/",
-      "pubDate": "2026-06-26T19:45:23.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple will launch 15+ new products this fall, here’s what’s coming",
-      "url": "https://9to5mac.com/2026/06/26/apple-will-launch-15-new-products-this-fall-heres-whats-coming/",
-      "pubDate": "2026-06-26T19:29:32.000Z"
     },
     {
       "source": "MacRumors",
