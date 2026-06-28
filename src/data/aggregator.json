@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T09:33:07.779Z",
+  "generatedAt": "2026-06-28T11:58:48.254Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Crime blotter: School board vice president accused of having illicit images on iPhone",
+      "url": "https://appleinsider.com/articles/26/06/28/crime-blotter-school-board-vice-president-accused-of-having-illicit-images-on-iphone?utm_source=rss",
+      "pubDate": "2026-06-28T11:04:01.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -330,13 +337,6 @@
       "title": "iPhone 18 rumored to have slightly more RAM, might improve AI performance",
       "url": "https://appleinsider.com/articles/26/06/26/iphone-18-rumored-to-have-slightly-more-ram-might-improve-ai-performance?utm_source=rss",
       "pubDate": "2026-06-26T17:49:14.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple's first cinematic event in 2026 is Everest ascent saga 'Tenzing'",
-      "url": "https://appleinsider.com/articles/26/06/26/apples-first-cinematic-event-in-2026-is-everest-ascent-saga-tenzing?utm_source=rss",
-      "pubDate": "2026-06-26T17:47:45.000Z"
     },
     {
       "source": "MacRumors",
