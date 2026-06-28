@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T05:44:38.985Z",
+  "generatedAt": "2026-06-28T09:33:07.779Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "TMD’s keyless bike lock is a $280 solution to a $60 problem",
+      "url": "https://www.theverge.com/tech/957603/tmd-smart-keyless-bike-lock-review",
+      "pubDate": "2026-06-28T07:00:00.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -169,13 +176,6 @@
       "title": "Apple asks Trump admin to approve Chinese RAM after product price increases",
       "url": "https://9to5mac.com/2026/06/26/apple-asks-trump-admin-to-approve-chinese-ram-after-product-price-increases/",
       "pubDate": "2026-06-27T03:04:56.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Prime Day is almost over, but these are still the best Apple deals I&#8217;ve seen",
-      "url": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
-      "pubDate": "2026-06-27T02:56:52.000Z"
     },
     {
       "source": "AppleInsider",
