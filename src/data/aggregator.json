@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T14:17:00.790Z",
+  "generatedAt": "2026-06-28T16:37:27.229Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,41 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The Cube is Jim Henson’s little-known proto-Black Mirror masterpiece",
+      "url": "https://www.theverge.com/entertainment/958757/jim-henson-the-cube-black-mirror-tv-movie-review",
+      "pubDate": "2026-06-28T16:30:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "This homebrew Apple II skips emulation, does it all in hardware",
+      "url": "https://appleinsider.com/articles/26/06/28/this-homebrew-apple-ii-skips-emulation-does-it-all-in-hardware?utm_source=rss",
+      "pubDate": "2026-06-28T16:27:21.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Missed Prime Day? You Can Still Grab Record Low Apple Discounts This Weekend",
+      "url": "https://www.macrumors.com/2026/06/28/missed-prime-day-discounts-weekend/",
+      "pubDate": "2026-06-28T16:25:56.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "M5 Ultra Mac Studio still due in 2026, M7 Ultra in 2028",
+      "url": "https://appleinsider.com/articles/26/06/28/m5-ultra-mac-studio-still-due-in-2026-m7-ultra-in-2028?utm_source=rss",
+      "pubDate": "2026-06-28T15:07:04.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple working on M7 Ultra Mac Studio for 2028 with potential major upgrade: report",
+      "url": "https://9to5mac.com/2026/06/28/m7-ultra-mac-studio-coming-in-2028-after-m5-ultra-model-later-this-year/",
+      "pubDate": "2026-06-28T14:31:16.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -143,13 +178,6 @@
       "pubDate": "2026-06-27T14:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
-      "url": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
-      "pubDate": "2026-06-27T13:30:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Amazon extends $279 Apple Watch Series 11, $649 Ultra 3 Prime Day deals",
@@ -199,13 +227,6 @@
       "pubDate": "2026-06-27T03:04:56.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "OLED, touchscreen, and more: What to expect from the 2027 MacBook Pro",
-      "url": "https://appleinsider.com/articles/26/06/26/oled-touchscreen-and-more-what-to-expect-from-the-2027-macbook-pro?utm_source=rss",
-      "pubDate": "2026-06-27T00:01:22.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Anthropic cleared to release Claude Mythos 5 to over 100 US institutions [U]",
@@ -253,13 +274,6 @@
       "title": "OpenAI has poached another Apple executive for its hardware division",
       "url": "https://appleinsider.com/articles/26/06/26/openai-has-poached-another-apple-executive-for-its-hardware-division?utm_source=rss",
       "pubDate": "2026-06-26T20:27:40.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple working with supplier Tata after sensitive files leak online",
-      "url": "https://9to5mac.com/2026/06/26/apple-works-with-supplier-tata-after-sensitive-files-leak-online/",
-      "pubDate": "2026-06-26T20:18:09.000Z"
     },
     {
       "source": "MacRumors",
@@ -332,13 +346,6 @@
       "pubDate": "2026-06-26T17:49:15.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPhone 18 rumored to have slightly more RAM, might improve AI performance",
-      "url": "https://appleinsider.com/articles/26/06/26/iphone-18-rumored-to-have-slightly-more-ram-might-improve-ai-performance?utm_source=rss",
-      "pubDate": "2026-06-26T17:49:14.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "MacRumors Giveaway: Win an iPad Air and Rock Paper Pencil From Astropad",
@@ -365,13 +372,6 @@
       "title": "Micron Suggests Apple Helped Cause Memory Price Crisis",
       "url": "https://www.macrumors.com/2026/06/26/micron-suggests-apple-helped-cause-memory-crisis/",
       "pubDate": "2026-06-26T16:15:03.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Amazon and Best Buy Still Offering Pre-Hike Prices on iPads and Macs",
-      "url": "https://www.macrumors.com/2026/06/26/pre-hike-prices-on-ipads-macs/",
-      "pubDate": "2026-06-26T15:52:50.000Z"
     }
   ]
 }
