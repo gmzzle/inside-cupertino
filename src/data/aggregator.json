@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T16:11:38.820Z",
+  "generatedAt": "2026-06-29T18:25:04.513Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,139 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Third RCs for macOS Sonoma 14.8.8 and macOS Sequoia 15.7.8 now available",
+      "url": "https://9to5mac.com/2026/06/29/third-rcs-for-macos-sonoma-14-8-8-and-macos-sequoia-15-7-8-now-available/",
+      "pubDate": "2026-06-29T18:07:23.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "New 26.5.2 security patch arrives for iOS, iPadOS, macOS",
+      "url": "https://appleinsider.com/articles/26/06/29/new-2652-security-patch-arrives-for-ios-ipados-macos?utm_source=rss",
+      "pubDate": "2026-06-29T18:02:55.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "macOS 26.5.2 now available, here’s what’s new",
+      "url": "https://9to5mac.com/2026/06/29/macos-26-5-2-now-available-heres-whats-new/",
+      "pubDate": "2026-06-29T17:51:50.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "At $499, Apple&#8217;s M3-powered iPad Air is a good deal",
+      "url": "https://www.theverge.com/gadgets/959080/ipad-air-m3-5g-wifi-deal-sale",
+      "pubDate": "2026-06-29T17:49:12.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Third developer betas of iOS 26.6, macOS 26.6 arrive with iOS 26.5.2 release",
+      "url": "https://appleinsider.com/articles/26/06/29/third-developer-betas-of-ios-266-macos-266-arrive-with-ios-2652-release?utm_source=rss",
+      "pubDate": "2026-06-29T17:37:13.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Cursor releases iPhone and iPad app following recent acquisition by SpaceX",
+      "url": "https://9to5mac.com/2026/06/29/cursor-releases-iphone-and-ipad-app-following-recent-acquisition-by-spacex/",
+      "pubDate": "2026-06-29T17:36:52.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Beta 3 for iPadOS 26.6, watchOS 26.6, and more now available",
+      "url": "https://9to5mac.com/2026/06/29/beta-3-for-ipados-26-6-watchos-26-6-and-more-now-available/",
+      "pubDate": "2026-06-29T17:23:43.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Releases macOS Tahoe 26.5.2",
+      "url": "https://www.macrumors.com/2026/06/29/apple-releases-macos-tahoe-26-5-2/",
+      "pubDate": "2026-06-29T17:23:11.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "macOS 26.6 beta 3 rolling out now, here’s what to expect",
+      "url": "https://9to5mac.com/2026/06/29/macos-26-6-beta-rolling-out-now-heres-what-to-expect/",
+      "pubDate": "2026-06-29T17:22:30.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Releases iOS 26.5.2 With Security Fixes",
+      "url": "https://www.macrumors.com/2026/06/29/apple-releases-ios-26-5-2-with-security-fixes/",
+      "pubDate": "2026-06-29T17:21:48.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple releases iOS 26.5.2 for iPhone, here’s what’s new",
+      "url": "https://9to5mac.com/2026/06/29/apple-releases-ios-26-5-2-for-iphone-heres-whats-new/",
+      "pubDate": "2026-06-29T17:20:21.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple releases iOS 26.6 beta 3 for iPhone, here’s what to expect",
+      "url": "https://9to5mac.com/2026/06/29/apple-releases-ios-26-6-beta-3-for-iphone-heres-what-to-expect/",
+      "pubDate": "2026-06-29T17:19:55.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "OpenAI teases Codex-branded hardware collaboration coming, here’s what to expect",
+      "url": "https://9to5mac.com/2026/06/29/openai-teases-codex-branded-hardware-collaboration-coming-heres-what-to-expect/",
+      "pubDate": "2026-06-29T17:16:53.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Seeds Third iOS 26.6 and iPadOS 26.6 Betas to Developers",
+      "url": "https://www.macrumors.com/2026/06/29/apple-seeds-ios-26-6-beta-3/",
+      "pubDate": "2026-06-29T17:10:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Third macOS Tahoe 26.6 Beta Now Available for Developers",
+      "url": "https://www.macrumors.com/2026/06/29/apple-seeds-macos-tahoe-26-6-beta-3/",
+      "pubDate": "2026-06-29T17:09:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Releases Third watchOS 26.6, tvOS 26.6 and visionOS 26.6 Betas",
+      "url": "https://www.macrumors.com/2026/06/29/apple-seeds-watchos-26-6-beta-3/",
+      "pubDate": "2026-06-29T17:08:00.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "My credit card number? Sure! It’s 4242 4242 4242 4242",
+      "url": "https://sixcolors.com/post/2026/06/my-credit-card-number-sure-its-4242-4242-4242-4242/",
+      "pubDate": "2026-06-29T17:00:37.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The best July 4th sales we found so far",
+      "url": "https://www.theverge.com/gadgets/958906/best-july-4th-tech-deal-sale",
+      "pubDate": "2026-06-29T16:42:48.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple Design award winner acquired by Apple for new Swift tools",
+      "url": "https://appleinsider.com/articles/26/06/29/apple-design-award-winner-acquired-by-apple-for-new-swift-tools?utm_source=rss",
+      "pubDate": "2026-06-29T16:15:39.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -54,7 +187,7 @@
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
-      "title": "Dbrand&#8217;s Steam Machine Companion Cube is canceled",
+      "title": "Dbrand cancels Companion Cube because it didn’t actually ask Valve for permission",
       "url": "https://www.theverge.com/games/959056/dbrand-steam-machine-companion-cube-valve-take-down-canceled",
       "pubDate": "2026-06-29T15:59:45.000Z"
     },
@@ -171,13 +304,6 @@
       "pubDate": "2026-06-29T13:51:24.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Leaker outlines iPhone lineup for next year, with six new models coming",
-      "url": "https://9to5mac.com/2026/06/29/leaker-outlines-iphone-lineup-for-next-year-with-six-new-models-coming/",
-      "pubDate": "2026-06-29T13:50:22.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Plans Wider Color Gamut for Future MacBook Pro, iMac, and iPad Pro",
@@ -199,25 +325,11 @@
       "pubDate": "2026-06-29T13:17:18.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "When will Apple prices drop again? Maybe years, maybe never …",
-      "url": "https://9to5mac.com/2026/06/29/when-will-apple-prices-drop-again-maybe-years-maybe-never/",
-      "pubDate": "2026-06-29T13:09:11.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "The Flipper Zero creators’ Busy Bar productivity display will go on sale next month",
       "url": "https://www.theverge.com/tech/957784/flipper-devices-busy-bar-productivity-multitool-timer-led-display-presale",
       "pubDate": "2026-06-29T13:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "T-Mobile closing 1,100 legacy plans, with price increases likely",
-      "url": "https://9to5mac.com/2026/06/29/t-mobile-closing-1100-legacy-plans-with-price-increases-likely/",
-      "pubDate": "2026-06-29T12:46:23.000Z"
     },
     {
       "source": "AppleInsider",
@@ -227,20 +339,6 @@
       "pubDate": "2026-06-29T12:33:46.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "How to end a TV show",
-      "url": "https://www.theverge.com/entertainment/957707/from-season-4-finale-tv-show-endings",
-      "pubDate": "2026-06-29T12:00:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Leaked A20 Pro Image Hints at iPhone 18 Pro Performance Gains",
-      "url": "https://www.macrumors.com/2026/06/29/leaked-a20-pro-image-iphone-18-pro-performance/",
-      "pubDate": "2026-06-29T11:57:34.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "These iPhone accessibility settings can make everyday tasks easier",
@@ -248,102 +346,11 @@
       "pubDate": "2026-06-29T11:36:56.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "A maxed-out 16-inch MacBook Pro now has a 5-figure price tag",
-      "url": "https://9to5mac.com/2026/06/29/a-maxed-out-16-inch-macbook-pro-now-has-a-5-figure-price-tag/",
-      "pubDate": "2026-06-29T11:32:36.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Comcast is splitting in two",
-      "url": "https://www.theverge.com/tech/958849/comcast-nbcuniversal-company-spinoff-announcement",
-      "pubDate": "2026-06-29T11:29:40.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "No ProMotion for iPhone 18e, claims leaker",
       "url": "https://appleinsider.com/articles/26/06/29/no-promotion-for-iphone-18e-claims-leaker?utm_source=rss",
       "pubDate": "2026-06-29T11:13:21.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple may struggle to get clearance for Chinese RAM, even for Chinese iPhones",
-      "url": "https://9to5mac.com/2026/06/29/apple-may-struggle-to-get-clearance-for-chinese-ram-even-for-chinese-iphones/",
-      "pubDate": "2026-06-29T11:06:40.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone 18e Won't Get ProMotion Display, Says Leaker",
-      "url": "https://www.macrumors.com/2026/06/29/iphone-18e-wont-get-promotion-display-says-leaker/",
-      "pubDate": "2026-06-29T09:54:29.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Save up to $650 on Apple's latest MacBook Pros with month-end deals",
-      "url": "https://appleinsider.com/articles/26/06/29/save-up-to-650-on-apples-latest-macbook-pros-with-month-end-deals?utm_source=rss",
-      "pubDate": "2026-06-29T05:14:01.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Your Mac and iPad prices just went up, here’s why AI data centers are to blame",
-      "url": "https://9to5mac.com/2026/06/28/heres-why-your-ipad-and-mac-just-got-much-more-expensive/",
-      "pubDate": "2026-06-29T02:33:02.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Sunday Reboot: Apple's gameshow phobia won't change anytime soon",
-      "url": "https://appleinsider.com/articles/26/06/28/sunday-reboot-apples-gameshow-phobia-wont-change-anytime-soon?utm_source=rss",
-      "pubDate": "2026-06-28T20:05:07.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "This homebrew Apple II skips emulation, does it all in hardware",
-      "url": "https://appleinsider.com/articles/26/06/28/this-homebrew-apple-ii-skips-emulation-does-it-all-in-hardware?utm_source=rss",
-      "pubDate": "2026-06-28T16:27:21.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Missed Prime Day? You Can Still Grab Record Low Apple Discounts This Weekend",
-      "url": "https://www.macrumors.com/2026/06/28/missed-prime-day-discounts-weekend/",
-      "pubDate": "2026-06-28T16:25:56.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple working on M7 Ultra Mac Studio for 2028 with potential major upgrade: report",
-      "url": "https://9to5mac.com/2026/06/28/m7-ultra-mac-studio-coming-in-2028-after-m5-ultra-model-later-this-year/",
-      "pubDate": "2026-06-28T14:31:16.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "How to create a macOS Golden Gate USB install drive [Video]",
-      "url": "https://9to5mac.com/2026/06/28/how-to-create-a-macos-golden-gate-usb-install-drive-video/",
-      "pubDate": "2026-06-28T13:00:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Top Stories: Massive Apple Price Increases, iOS 27 Beta 2, and More",
-      "url": "https://www.macrumors.com/2026/06/27/top-stories-massive-apple-price-increases/",
-      "pubDate": "2026-06-27T13:00:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27 Makes the Shortcuts App Much Less Intimidating",
-      "url": "https://www.macrumors.com/guide/ios-27-shortcuts/",
-      "pubDate": "2026-06-26T22:16:41.000Z"
     },
     {
       "source": "Six Colors",
@@ -365,13 +372,6 @@
       "title": "Apple should free the macOS icons from squircle jail ↦",
       "url": "https://sixcolors.com/link/2026/06/apple-should-free-the-macos-icons-from-squircle-jail/",
       "pubDate": "2026-06-26T17:59:15.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Report: Apple changes chip and OLED MacBook Pro release plans",
-      "url": "https://sixcolors.com/post/2026/06/report-apple-changes-chip-and-oled-macbook-pro-release-plans/",
-      "pubDate": "2026-06-26T17:51:11.000Z"
     }
   ]
 }
