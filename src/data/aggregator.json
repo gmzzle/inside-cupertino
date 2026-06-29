@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T06:05:31.025Z",
+  "generatedAt": "2026-06-29T11:23:53.309Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "No ProMotion for iPhone 18e, claims leaker",
+      "url": "https://appleinsider.com/articles/26/06/29/no-promotion-for-iphone-18e-claims-leaker?utm_source=rss",
+      "pubDate": "2026-06-29T11:13:21.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple may struggle to get clearance for Chinese RAM, even for Chinese iPhones",
+      "url": "https://9to5mac.com/2026/06/29/apple-may-struggle-to-get-clearance-for-chinese-ram-even-for-chinese-iphones/",
+      "pubDate": "2026-06-29T11:06:40.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone 18e Won't Get ProMotion Display, Says Leaker",
+      "url": "https://www.macrumors.com/2026/06/29/iphone-18e-wont-get-promotion-display-says-leaker/",
+      "pubDate": "2026-06-29T09:54:29.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -255,13 +276,6 @@
       "pubDate": "2026-06-26T23:03:33.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "AI-generated knockoffs of Joanna Stern’s book keep appearing on Apple Books",
-      "url": "https://9to5mac.com/2026/06/26/ai-generated-knockoffs-of-joanna-sterns-book-keep-appearing-on-apple-books/",
-      "pubDate": "2026-06-26T22:36:41.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iOS 27 Makes the Shortcuts App Much Less Intimidating",
@@ -274,13 +288,6 @@
       "title": "Ron Johnson breaks his silence on forging Apple Retail with Steve Jobs",
       "url": "https://appleinsider.com/articles/26/06/26/ron-johnson-breaks-his-silence-on-forging-apple-retail-with-steve-jobs?utm_source=rss",
       "pubDate": "2026-06-26T21:48:02.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Save $850 on M5 Max MacBook Pro 16-inch with last-minute Prime Day deal",
-      "url": "https://appleinsider.com/articles/26/06/26/save-850-on-m5-max-macbook-pro-16-inch-with-last-minute-prime-day-deal?utm_source=rss",
-      "pubDate": "2026-06-26T20:38:23.000Z"
     },
     {
       "source": "MacRumors",
@@ -365,13 +372,6 @@
       "title": "The MacRumors Show: iPhone 18 Pro Has a Pricing Problem",
       "url": "https://www.macrumors.com/2026/06/26/the-macrumors-show-iphone-18-pro-pricing-problem/",
       "pubDate": "2026-06-26T16:16:31.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Micron Suggests Apple Helped Cause Memory Price Crisis",
-      "url": "https://www.macrumors.com/2026/06/26/micron-suggests-apple-helped-cause-memory-crisis/",
-      "pubDate": "2026-06-26T16:15:03.000Z"
     }
   ]
 }
