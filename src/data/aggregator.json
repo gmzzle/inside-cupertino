@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T00:19:37.058Z",
+  "generatedAt": "2026-06-29T06:05:31.025Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Save up to $650 on Apple's latest MacBook Pros with month-end deals",
+      "url": "https://appleinsider.com/articles/26/06/29/save-up-to-650-on-apples-latest-macbook-pros-with-month-end-deals?utm_source=rss",
+      "pubDate": "2026-06-29T05:14:01.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Your Mac and iPad prices just went up, here’s why AI data centers are to blame",
+      "url": "https://9to5mac.com/2026/06/28/heres-why-your-ipad-and-mac-just-got-much-more-expensive/",
+      "pubDate": "2026-06-29T02:33:02.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+      "pubDate": "2026-06-28T21:42:51.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -157,13 +178,6 @@
       "pubDate": "2026-06-27T18:39:32.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple wants permission to buy memory from a blacklisted Chinese supplier",
-      "url": "https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt",
-      "pubDate": "2026-06-27T17:28:18.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "iPadOS 27: Apple is leaving these five iPad models behind, but owners deserve better",
@@ -262,25 +276,11 @@
       "pubDate": "2026-06-26T21:48:02.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "WhatsApp beta brings Liquid Glass design to the iPad app, here’s what it looks like",
-      "url": "https://9to5mac.com/2026/06/26/whatsapp-beta-brings-liquid-glass-design-to-the-ipad-app-heres-what-it-looks-like/",
-      "pubDate": "2026-06-26T21:43:10.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Save $850 on M5 Max MacBook Pro 16-inch with last-minute Prime Day deal",
       "url": "https://appleinsider.com/articles/26/06/26/save-850-on-m5-max-macbook-pro-16-inch-with-last-minute-prime-day-deal?utm_source=rss",
       "pubDate": "2026-06-26T20:38:23.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "OpenAI has poached another Apple executive for its hardware division",
-      "url": "https://appleinsider.com/articles/26/06/26/openai-has-poached-another-apple-executive-for-its-hardware-division?utm_source=rss",
-      "pubDate": "2026-06-26T20:27:40.000Z"
     },
     {
       "source": "MacRumors",
