@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T22:15:39.743Z",
+  "generatedAt": "2026-06-29T00:19:37.058Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,13 +23,6 @@
     }
   ],
   "items": [
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
-      "pubDate": "2026-06-28T21:42:51.000Z"
-    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -162,6 +155,13 @@
       "title": "Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;",
       "url": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
       "pubDate": "2026-06-27T18:39:32.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Apple wants permission to buy memory from a blacklisted Chinese supplier",
+      "url": "https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt",
+      "pubDate": "2026-06-27T17:28:18.000Z"
     },
     {
       "source": "9to5Mac",
