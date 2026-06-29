@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T18:25:04.513Z",
+  "generatedAt": "2026-06-29T20:57:30.000Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,118 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Future OLED Macs and iPads could support a much wider color gamut, per report",
+      "url": "https://9to5mac.com/2026/06/29/future-oled-macs-and-ipads-could-support-a-much-wider-color-gamut-per-report/",
+      "pubDate": "2026-06-29T20:56:35.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "OpenClaw just launched an official app for iPhone, details here",
+      "url": "https://9to5mac.com/2026/06/29/openclaw-just-launched-an-official-app-for-iphone-details-here/",
+      "pubDate": "2026-06-29T20:52:20.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Leaked iPhone 18 Pro photos reportedly wound up on the dark web",
+      "url": "https://www.theverge.com/tech/959229/iphone-18-pro-leak-apple-dark-web",
+      "pubDate": "2026-06-29T20:18:26.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iOS 26.5.2 Patches More Than 25 Security Vulnerabilities",
+      "url": "https://www.macrumors.com/2026/06/29/ios-26-5-2-vulnerabilities/",
+      "pubDate": "2026-06-29T20:15:47.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "MagSafe Monday: The ESR OmniLock mount proves MagSafe is not just for charging",
+      "url": "https://9to5mac.com/2026/06/29/esr-omnilock-for-magsafe-car-mount/",
+      "pubDate": "2026-06-29T20:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple says India built its App Store antitrust case on ‘copy-pasted’ claims from rivals",
+      "url": "https://9to5mac.com/2026/06/29/apple-says-india-built-its-app-store-antitrust-case-on-copy-pasted-claims-from-rivals/",
+      "pubDate": "2026-06-29T19:56:13.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Tidal won’t pay royalties on AI-generated music but isn’t banning it outright",
+      "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
+      "pubDate": "2026-06-29T19:47:35.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "watchOS 27 has brand new default Home Screen for Apple Watch",
+      "url": "https://9to5mac.com/2026/06/29/watchos-27-has-brand-new-default-home-screen-for-apple-watch/",
+      "pubDate": "2026-06-29T19:32:51.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Sony&#8217;s next-gen PlayStation will go ‘beyond the living room’",
+      "url": "https://www.theverge.com/games/959191/sony-next-generation-playstation-ps6-beyond-the-living-room",
+      "pubDate": "2026-06-29T19:12:15.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Don't wait to update: iOS 26.5.2 includes over 25 security fixes for web browsing",
+      "url": "https://appleinsider.com/articles/26/06/29/dont-wait-to-update-ios-2652-includes-over-25-security-fixes-for-web-browsing?utm_source=rss",
+      "pubDate": "2026-06-29T19:00:49.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "OpenAI is teasing new hardware… for Codex",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
+      "pubDate": "2026-06-29T18:52:03.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple suppliers Samsung, SK hynix & Micron hit by RAM price fixing suit",
+      "url": "https://appleinsider.com/articles/26/06/29/apple-suppliers-samsung-sk-hynix-micron-hit-by-ram-price-fixing-suit?utm_source=rss",
+      "pubDate": "2026-06-29T18:47:46.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Photos of iPhone 18 Pro drop tests and other sensitive info hits the dark web",
+      "url": "https://9to5mac.com/2026/06/29/iphone-18-pro-drop-tests-dark-web/",
+      "pubDate": "2026-06-29T18:46:39.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple 'Concerned' Over iPhone 18 Pro Data Leak From Supplier Tata",
+      "url": "https://www.macrumors.com/2026/06/29/apple-tata-leak-iphone-18-pro/",
+      "pubDate": "2026-06-29T18:46:01.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "The best way to run macOS Tahoe and Golden Gate on the same Mac [Video]",
+      "url": "https://9to5mac.com/2026/06/29/how-to-install-macos-golden-gate-on-a-separate-apfs-volume-video/",
+      "pubDate": "2026-06-29T18:32:43.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 26.5.2 has fixes for 25+ security issues on iPhone, details here",
+      "url": "https://9to5mac.com/2026/06/29/ios-26-5-2-has-fixes-for-25-security-issues-on-iphone-details-here/",
+      "pubDate": "2026-06-29T18:27:38.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -80,39 +192,11 @@
       "pubDate": "2026-06-29T17:23:11.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "macOS 26.6 beta 3 rolling out now, here’s what to expect",
-      "url": "https://9to5mac.com/2026/06/29/macos-26-6-beta-rolling-out-now-heres-what-to-expect/",
-      "pubDate": "2026-06-29T17:22:30.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Releases iOS 26.5.2 With Security Fixes",
       "url": "https://www.macrumors.com/2026/06/29/apple-releases-ios-26-5-2-with-security-fixes/",
       "pubDate": "2026-06-29T17:21:48.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple releases iOS 26.5.2 for iPhone, here’s what’s new",
-      "url": "https://9to5mac.com/2026/06/29/apple-releases-ios-26-5-2-for-iphone-heres-whats-new/",
-      "pubDate": "2026-06-29T17:20:21.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple releases iOS 26.6 beta 3 for iPhone, here’s what to expect",
-      "url": "https://9to5mac.com/2026/06/29/apple-releases-ios-26-6-beta-3-for-iphone-heres-what-to-expect/",
-      "pubDate": "2026-06-29T17:19:55.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "OpenAI teases Codex-branded hardware collaboration coming, here’s what to expect",
-      "url": "https://9to5mac.com/2026/06/29/openai-teases-codex-branded-hardware-collaboration-coming-heres-what-to-expect/",
-      "pubDate": "2026-06-29T17:16:53.000Z"
     },
     {
       "source": "MacRumors",
@@ -164,13 +248,6 @@
       "pubDate": "2026-06-29T16:10:09.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "WhatsApp username reservations are now open, here’s how to claim yours",
-      "url": "https://9to5mac.com/2026/06/29/whatsapp-username-reservations-are-now-open-heres-how-to-claim-yours/",
-      "pubDate": "2026-06-29T16:00:00.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "WhatsApp is launching usernames: here’s how to reserve yours",
@@ -206,20 +283,6 @@
       "pubDate": "2026-06-29T15:28:28.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple just acquired the app that won last year’s ‘Innovation’ Apple Design Award",
-      "url": "https://9to5mac.com/2026/06/29/apple-just-acquired-the-app-that-won-last-years-innovation-apple-design-award/",
-      "pubDate": "2026-06-29T15:27:50.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: MacBook Pro still up to $650 off after price hikes, M4 iPad Air $350 off, black Magic Mouse, AirTag 2, more",
-      "url": "https://9to5mac.com/2026/06/29/deals-macbook-pro-m4-ipad-air-magic-mouse-airtag-2/",
-      "pubDate": "2026-06-29T15:27:07.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "These camera-free smart glasses made me feel like Tony Stark",
@@ -241,13 +304,6 @@
       "pubDate": "2026-06-29T15:11:47.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Supreme Court allows firing of FTC commissioners, ends agency independence",
-      "url": "https://www.theverge.com/policy/958974/supreme-court-slaughter-trump-decision-ftc-agency-independence",
-      "pubDate": "2026-06-29T15:10:45.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Save $350 on Apple's 14-inch MacBook Pro M5 right now at Amazon",
@@ -260,13 +316,6 @@
       "title": "iPhone 18 Pro is Just a Few Months Away With These 10 New Features",
       "url": "https://www.macrumors.com/2026/06/29/iphone-18-pro-has-10-rumored-features/",
       "pubDate": "2026-06-29T15:05:12.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Silo season 3 hailed as ‘best season yet,’ here are the first reviews",
-      "url": "https://9to5mac.com/2026/06/29/silo-season-3-hailed-as-best-season-yet-here-are-the-first-reviews/",
-      "pubDate": "2026-06-29T15:01:27.000Z"
     },
     {
       "source": "AppleInsider",
@@ -290,27 +339,6 @@
       "pubDate": "2026-06-29T14:14:43.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Let him cook: How Weber Blackstone CEO Roger Dahle went from upstart to the biggest name in grilling",
-      "url": "https://www.theverge.com/podcast/958790/weber-blackstone-ceo-roger-dahle-grilling-griddles-merger-outdoor-cooking",
-      "pubDate": "2026-06-29T14:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Rocket Lab is buying Iridium&#8217;s satellite network for $8 billion to take on SpaceX",
-      "url": "https://www.theverge.com/science/958891/rocket-lab-iridium-acquisition-satellite-communications",
-      "pubDate": "2026-06-29T13:51:24.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Plans Wider Color Gamut for Future MacBook Pro, iMac, and iPad Pro",
-      "url": "https://www.macrumors.com/2026/06/29/apple-plans-wider-color-gamut-for-future-devices/",
-      "pubDate": "2026-06-29T13:35:38.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "A20 Pro leak shows how iPhone 18 Pro will run faster and cooler",
@@ -318,39 +346,11 @@
       "pubDate": "2026-06-29T13:21:19.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Mac Studio M7 Ultra Expected in 2028 With Better Cooling",
-      "url": "https://www.macrumors.com/2026/06/29/mac-studio-m7-ultra-2028-better-cooling/",
-      "pubDate": "2026-06-29T13:17:18.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Flipper Zero creators’ Busy Bar productivity display will go on sale next month",
-      "url": "https://www.theverge.com/tech/957784/flipper-devices-busy-bar-productivity-multitool-timer-led-display-presale",
-      "pubDate": "2026-06-29T13:00:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "India's $38 billion antitrust case is plagiarized and should be scrapped, says Apple",
       "url": "https://appleinsider.com/articles/26/06/29/indias-38-billion-antitrust-case-is-plagiarized-and-should-be-scrapped-says-apple?utm_source=rss",
       "pubDate": "2026-06-29T12:33:46.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "These iPhone accessibility settings can make everyday tasks easier",
-      "url": "https://appleinsider.com/inside/iphone/tips/these-iphone-accessibility-settings-can-make-everyday-tasks-easier?utm_source=rss",
-      "pubDate": "2026-06-29T11:36:56.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "No ProMotion for iPhone 18e, claims leaker",
-      "url": "https://appleinsider.com/articles/26/06/29/no-promotion-for-iphone-18e-claims-leaker?utm_source=rss",
-      "pubDate": "2026-06-29T11:13:21.000Z"
     },
     {
       "source": "Six Colors",
