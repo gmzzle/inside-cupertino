@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T20:57:30.000Z",
+  "generatedAt": "2026-06-29T22:32:00.026Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,55 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "SCOTUS says detailed cellphone location data is protected by the Fourth Amendment",
+      "url": "https://9to5mac.com/2026/06/29/scotus-says-detailed-cellphone-location-data-is-protected-by-the-fourth-amendment/",
+      "pubDate": "2026-06-29T22:29:28.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple asks UK Supreme Court to overturn $502 million patent ruling in Optis dispute",
+      "url": "https://9to5mac.com/2026/06/29/apple-asks-uk-supreme-court-to-overturn-502-million-patent-ruling-in-optis-dispute/",
+      "pubDate": "2026-06-29T21:48:46.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "User location data that Google & Apple have is protected by Fourth Amendment, says SCOTUS",
+      "url": "https://appleinsider.com/articles/26/06/29/user-location-data-that-google-apple-have-is-protected-by-fourth-amendment-says-scotus?utm_source=rss",
+      "pubDate": "2026-06-29T21:41:47.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) Upgrade 626: Unprecedented Weirdness",
+      "url": "https://sixcolors.com/podcast/2026/06/upgrade-626-unprecedented-weirdness/",
+      "pubDate": "2026-06-29T21:39:58.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Released iOS 26.5.2 Security Fixes Early to Thwart AI-Assisted Hacks",
+      "url": "https://www.macrumors.com/2026/06/29/apple-ios-26-5-2-early-release/",
+      "pubDate": "2026-06-29T21:14:23.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "T-Mobile is booting customers from its oldest plans",
+      "url": "https://www.theverge.com/tech/959144/t-mobile-legacy-plan-retire-sprint",
+      "pubDate": "2026-06-29T21:06:14.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "After a great start, DC’s new cinematic universe is already slowing down",
+      "url": "https://www.theverge.com/entertainment/958953/supergirl-dcu-warner-bros-discovery-box-office-flop",
+      "pubDate": "2026-06-29T21:00:00.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -171,20 +220,6 @@
       "pubDate": "2026-06-29T17:37:13.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Cursor releases iPhone and iPad app following recent acquisition by SpaceX",
-      "url": "https://9to5mac.com/2026/06/29/cursor-releases-iphone-and-ipad-app-following-recent-acquisition-by-spacex/",
-      "pubDate": "2026-06-29T17:36:52.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Beta 3 for iPadOS 26.6, watchOS 26.6, and more now available",
-      "url": "https://9to5mac.com/2026/06/29/beta-3-for-ipados-26-6-watchos-26-6-and-more-now-available/",
-      "pubDate": "2026-06-29T17:23:43.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Releases macOS Tahoe 26.5.2",
@@ -262,13 +297,6 @@
       "pubDate": "2026-06-29T16:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Dbrand cancels Companion Cube because it didn’t actually ask Valve for permission",
-      "url": "https://www.theverge.com/games/959056/dbrand-steam-machine-companion-cube-valve-take-down-canceled",
-      "pubDate": "2026-06-29T15:59:45.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Says India's Antitrust Case Against It Is 'Copy-Pasted'",
@@ -281,13 +309,6 @@
       "title": "Apple's iPhone went on sale 19 years ago today, and changed the world",
       "url": "https://appleinsider.com/articles/26/06/29/apples-original-iphone-went-on-sale-14-years-ago?utm_source=rss",
       "pubDate": "2026-06-29T15:28:28.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "These camera-free smart glasses made me feel like Tony Stark",
-      "url": "https://www.theverge.com/tech/957933/xgimi-memomind-one-ai-smart-glasses-kickstarter-hands-on",
-      "pubDate": "2026-06-29T15:16:24.000Z"
     },
     {
       "source": "AppleInsider",
@@ -332,25 +353,11 @@
       "pubDate": "2026-06-29T14:39:48.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Best Buy Hosts July 4th Sale With Notable Apple and Tech Deals",
-      "url": "https://www.macrumors.com/2026/06/29/best-buy-hosts-july-4th-sale/",
-      "pubDate": "2026-06-29T14:14:43.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "A20 Pro leak shows how iPhone 18 Pro will run faster and cooler",
       "url": "https://appleinsider.com/articles/26/06/29/a20-pro-leak-shows-how-iphone-18-pro-will-run-faster-and-cooler?utm_source=rss",
       "pubDate": "2026-06-29T13:21:19.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "India's $38 billion antitrust case is plagiarized and should be scrapped, says Apple",
-      "url": "https://appleinsider.com/articles/26/06/29/indias-38-billion-antitrust-case-is-plagiarized-and-should-be-scrapped-says-apple?utm_source=rss",
-      "pubDate": "2026-06-29T12:33:46.000Z"
     },
     {
       "source": "Six Colors",
@@ -365,13 +372,6 @@
       "title": "Level Lock founders and engineers kicked by parent company ↦",
       "url": "https://sixcolors.com/link/2026/06/level-lock-founders-and-engineers-kicked-by-parent-company/",
       "pubDate": "2026-06-26T18:00:46.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Apple should free the macOS icons from squircle jail ↦",
-      "url": "https://sixcolors.com/link/2026/06/apple-should-free-the-macos-icons-from-squircle-jail/",
-      "pubDate": "2026-06-26T17:59:15.000Z"
     }
   ]
 }
