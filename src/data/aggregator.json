@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T06:33:22.300Z",
+  "generatedAt": "2026-06-30T10:38:43.955Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "This motor could be the future of e-bikes",
+      "url": "https://www.theverge.com/news/959382/avinox-mg-concept-gobao-mgu-ecvt",
+      "pubDate": "2026-06-30T10:30:04.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "UK Pushes Apple to Loosen App Store Payment and NFC Rules",
+      "url": "https://www.macrumors.com/2026/06/30/uk-apple-loosen-app-store-payment-rules/",
+      "pubDate": "2026-06-30T10:00:21.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Proton launches Lumo 2.0 with image generation, memory, private web search, more",
+      "url": "https://9to5mac.com/2026/06/30/proton-launches-lumo-2-0-with-image-generation-memory-private-web-search-more/",
+      "pubDate": "2026-06-30T10:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Our best look yet at Samsung’s new wide foldable",
+      "url": "https://www.theverge.com/tech/959372/samsung-galaxy-z-fold-wide-image-leaks",
+      "pubDate": "2026-06-30T09:54:44.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -173,7 +201,7 @@
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
-      "title": "Tidal won’t pay royalties on AI-generated music but isn’t banning it outright",
+      "title": "Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright",
       "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
       "pubDate": "2026-06-29T19:47:35.000Z"
     },
@@ -225,13 +253,6 @@
       "title": "Apple 'Concerned' Over iPhone 18 Pro Data Leak From Supplier Tata",
       "url": "https://www.macrumors.com/2026/06/29/apple-tata-leak-iphone-18-pro/",
       "pubDate": "2026-06-29T18:46:01.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "The best way to run macOS Tahoe and Golden Gate on the same Mac [Video]",
-      "url": "https://9to5mac.com/2026/06/29/how-to-install-macos-golden-gate-on-a-separate-apfs-volume-video/",
-      "pubDate": "2026-06-29T18:32:43.000Z"
     },
     {
       "source": "AppleInsider",
@@ -316,27 +337,6 @@
       "title": "WhatsApp's new username system keeps phone numbers private by design",
       "url": "https://appleinsider.com/articles/26/06/29/whatsapps-new-username-system-keeps-phone-numbers-private-by-design?utm_source=rss",
       "pubDate": "2026-06-29T16:10:09.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "WhatsApp is launching usernames: here’s how to reserve yours",
-      "url": "https://www.theverge.com/tech/958832/whatsapp-usernames-rollout-reservation-availability",
-      "pubDate": "2026-06-29T16:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Lawmakers want to ban AI companies from selling your health data",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
-      "pubDate": "2026-06-29T16:00:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Says India's Antitrust Case Against It Is 'Copy-Pasted'",
-      "url": "https://www.macrumors.com/2026/06/29/apple-says-indias-antitrust-case-is-copy-pasted/",
-      "pubDate": "2026-06-29T15:34:32.000Z"
     },
     {
       "source": "AppleInsider",
