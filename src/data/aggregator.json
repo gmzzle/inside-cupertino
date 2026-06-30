@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T10:38:43.955Z",
+  "generatedAt": "2026-06-30T13:16:24.930Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,6 +24,62 @@
   ],
   "items": [
     {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's legal team is striking social media sharing stolen iPhone 18 Pro data",
+      "url": "https://appleinsider.com/articles/26/06/30/apples-legal-team-is-striking-social-media-sharing-stolen-iphone-18-pro-data?utm_source=rss",
+      "pubDate": "2026-06-30T12:54:32.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Netflix ramps up account sharing protections via new email requirement",
+      "url": "https://9to5mac.com/2026/06/30/netflix-ramps-up-account-sharing-protections-via-new-email-requirement/",
+      "pubDate": "2026-06-30T12:37:44.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Alleged iPhone 18 Pro Sim Tray Again Shows Dark Cherry Color",
+      "url": "https://www.macrumors.com/2026/06/30/iphone-18-pro-sim-tray-dark-cherry-color/",
+      "pubDate": "2026-06-30T12:23:52.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Meet the lawyer who beat Elon Musk — twice",
+      "url": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
+      "pubDate": "2026-06-30T12:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Three AirDrop vulnerabilities discovered, with Apple working on a full fix",
+      "url": "https://9to5mac.com/2026/06/30/three-airdrop-vulnerabilities-discovered-with-apple-working-on-a-full-fix/",
+      "pubDate": "2026-06-30T11:53:17.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "UK ponders copying more EU App Store rules",
+      "url": "https://appleinsider.com/articles/26/06/30/uk-ponders-copying-more-eu-app-store-rules?utm_source=rss",
+      "pubDate": "2026-06-30T11:29:49.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple may have to allow 3rd-party app payments and Apple Pay rivals in UK",
+      "url": "https://9to5mac.com/2026/06/30/apple-may-have-to-allow-3rd-party-app-payments-and-apple-pay-rivals-in-uk/",
+      "pubDate": "2026-06-30T11:27:12.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Crackdown Suspected After iPhone 18 Pro Leak Videos Disappear",
+      "url": "https://www.macrumors.com/2026/06/30/apple-crackdown-iphone-18-pro-leak-video-gone/",
+      "pubDate": "2026-06-30T11:08:42.000Z"
+    },
+    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "This motor could be the future of e-bikes",
@@ -42,6 +98,13 @@
       "sourceHomepage": "https://9to5mac.com",
       "title": "Proton launches Lumo 2.0 with image generation, memory, private web search, more",
       "url": "https://9to5mac.com/2026/06/30/proton-launches-lumo-2-0-with-image-generation-memory-private-web-search-more/",
+      "pubDate": "2026-06-30T10:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple @ Work Podcast: macOS ClickFix is back for more",
+      "url": "https://9to5mac.com/2026/06/30/podcast-macos-clickfix-is-back-for-more/",
       "pubDate": "2026-06-30T10:00:00.000Z"
     },
     {
@@ -185,32 +248,11 @@
       "pubDate": "2026-06-29T20:15:47.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "MagSafe Monday: The ESR OmniLock mount proves MagSafe is not just for charging",
-      "url": "https://9to5mac.com/2026/06/29/esr-omnilock-for-magsafe-car-mount/",
-      "pubDate": "2026-06-29T20:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple says India built its App Store antitrust case on ‘copy-pasted’ claims from rivals",
-      "url": "https://9to5mac.com/2026/06/29/apple-says-india-built-its-app-store-antitrust-case-on-copy-pasted-claims-from-rivals/",
-      "pubDate": "2026-06-29T19:56:13.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright",
       "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
       "pubDate": "2026-06-29T19:47:35.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "watchOS 27 has brand new default Home Screen for Apple Watch",
-      "url": "https://9to5mac.com/2026/06/29/watchos-27-has-brand-new-default-home-screen-for-apple-watch/",
-      "pubDate": "2026-06-29T19:32:51.000Z"
     },
     {
       "source": "The Verge",
@@ -239,13 +281,6 @@
       "title": "Apple suppliers Samsung, SK hynix & Micron hit by RAM price fixing suit",
       "url": "https://appleinsider.com/articles/26/06/29/apple-suppliers-samsung-sk-hynix-micron-hit-by-ram-price-fixing-suit?utm_source=rss",
       "pubDate": "2026-06-29T18:47:46.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Photos of iPhone 18 Pro drop tests and other sensitive info hits the dark web",
-      "url": "https://9to5mac.com/2026/06/29/iphone-18-pro-drop-tests-dark-web/",
-      "pubDate": "2026-06-29T18:46:39.000Z"
     },
     {
       "source": "MacRumors",
@@ -297,32 +332,11 @@
       "pubDate": "2026-06-29T17:10:00.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Third macOS Tahoe 26.6 Beta Now Available for Developers",
-      "url": "https://www.macrumors.com/2026/06/29/apple-seeds-macos-tahoe-26-6-beta-3/",
-      "pubDate": "2026-06-29T17:09:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Releases Third watchOS 26.6, tvOS 26.6 and visionOS 26.6 Betas",
-      "url": "https://www.macrumors.com/2026/06/29/apple-seeds-watchos-26-6-beta-3/",
-      "pubDate": "2026-06-29T17:08:00.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "My credit card number? Sure! It’s 4242 4242 4242 4242",
       "url": "https://sixcolors.com/post/2026/06/my-credit-card-number-sure-its-4242-4242-4242-4242/",
       "pubDate": "2026-06-29T17:00:37.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The best July 4th sales we found so far",
-      "url": "https://www.theverge.com/gadgets/958906/best-july-4th-tech-deal-sale",
-      "pubDate": "2026-06-29T16:42:48.000Z"
     },
     {
       "source": "AppleInsider",
@@ -337,20 +351,6 @@
       "title": "WhatsApp's new username system keeps phone numbers private by design",
       "url": "https://appleinsider.com/articles/26/06/29/whatsapps-new-username-system-keeps-phone-numbers-private-by-design?utm_source=rss",
       "pubDate": "2026-06-29T16:10:09.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "How Thread is fixing smart home networks on Smart Home Insider",
-      "url": "https://appleinsider.com/articles/26/06/29/how-thread-is-fixing-smart-home-networks-on-smart-home-insider?utm_source=rss",
-      "pubDate": "2026-06-29T15:12:02.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Save $350 on Apple's 14-inch MacBook Pro M5 right now at Amazon",
-      "url": "https://appleinsider.com/articles/26/06/29/save-350-on-apples-14-inch-macbook-pro-m5-right-now-at-amazon?utm_source=rss",
-      "pubDate": "2026-06-29T15:07:45.000Z"
     },
     {
       "source": "Six Colors",
