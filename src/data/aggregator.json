@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T19:06:07.472Z",
+  "generatedAt": "2026-06-30T21:05:42.467Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,76 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Maps is currently down for some users",
+      "url": "https://9to5mac.com/2026/06/30/apple-maps-is-currently-down-for-some-users/",
+      "pubDate": "2026-06-30T21:04:44.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Gemini Spark rolling out to macOS app for local tasks, automation",
+      "url": "https://9to5google.com/2026/06/30/gemini-spark-mac-app/",
+      "pubDate": "2026-06-30T20:44:39.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "MacBook Ultra could be very good news for MacBook Pro users",
+      "url": "https://9to5mac.com/2026/06/30/macbook-ultra-could-be-very-good-news-for-macbook-pro-users/",
+      "pubDate": "2026-06-30T20:42:48.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "This iconic iPhone design will get closer to retirement with iPhone 18 Pro",
+      "url": "https://9to5mac.com/2026/06/30/this-iconic-iphone-design-will-get-closer-to-retirement-with-iphone-18-pro/",
+      "pubDate": "2026-06-30T20:22:58.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iPhone 18 Pro leaks: Qualcomm or Apple C2 model, A20 details, camera upgrades",
+      "url": "https://appleinsider.com/articles/26/06/30/iphone-18-pro-leaks-qualcomm-or-apple-c2-model-a20-details-camera-upgrades?utm_source=rss",
+      "pubDate": "2026-06-30T20:22:01.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Best Buy nabs retailer-exclusive Orange Beats Solo Buds",
+      "url": "https://appleinsider.com/articles/26/06/30/best-buy-nabs-retailer-exclusive-orange-beats-solo-buds?utm_source=rss",
+      "pubDate": "2026-06-30T20:16:54.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Threads adds translation to Live Chats and expands chat creation to more users",
+      "url": "https://9to5mac.com/2026/06/30/threads-adds-translation-to-live-chats-and-expands-chat-creation-to-more-users/",
+      "pubDate": "2026-06-30T20:11:56.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Acer&#8217;s Swift Go 16 is a lot of laptop for $900",
+      "url": "https://www.theverge.com/gadgets/959687/acer-swift-go-16-ai-deal-sale",
+      "pubDate": "2026-06-30T20:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Family Feud Pocket lands on Apple Arcade, with 4 more games coming later this week",
+      "url": "https://9to5mac.com/2026/06/30/family-feud-pocket-lands-on-apple-arcade-with-4-more-games-coming-later-this-week/",
+      "pubDate": "2026-06-30T19:43:57.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
+      "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
+      "pubDate": "2026-06-30T19:24:51.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -220,46 +290,11 @@
       "pubDate": "2026-06-30T16:05:22.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "What is a quantum computer good for? Absolutely nothing — yet",
-      "url": "https://www.theverge.com/science/959466/quantum-computer-majorana-2-microsoft-trump-eo",
-      "pubDate": "2026-06-30T16:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Report: Apple Watch Redesign Coming Next Year With New Band System",
       "url": "https://www.macrumors.com/2026/06/30/apple-watch-redesign-coming-next-year/",
       "pubDate": "2026-06-30T15:45:44.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Pay now lets you pay using American Express points",
-      "url": "https://9to5mac.com/2026/06/30/apple-pay-now-lets-you-pay-using-american-express-points/",
-      "pubDate": "2026-06-30T15:33:20.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Libby will filter out AI content, kind of",
-      "url": "https://www.theverge.com/column/959433/libby-ai-filter",
-      "pubDate": "2026-06-30T15:30:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: M5 iPad Pro $350 off, M5 Pro MacBook $450 off, Beats 240W cable $19, Sport Bands $15, more",
-      "url": "https://9to5mac.com/2026/06/30/deals-m5-ipad-pro-m5-pro-macbook-beats-240w-cable/",
-      "pubDate": "2026-06-30T15:29:48.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 makes Apple’s Shortcuts app exactly what I’ve always wanted",
-      "url": "https://9to5mac.com/2026/06/30/ios-27-makes-apples-shortcuts-app-exactly-what-ive-always-wanted/",
-      "pubDate": "2026-06-30T15:01:46.000Z"
     },
     {
       "source": "MacRumors",
@@ -283,13 +318,6 @@
       "pubDate": "2026-06-30T14:14:39.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Watch to get ‘major overhaul’ next year, says leaker",
-      "url": "https://9to5mac.com/2026/06/30/apple-watch-to-get-major-overhaul-next-year-says-leaker/",
-      "pubDate": "2026-06-30T14:09:30.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Save $450 on Apple's M5 Pro 14-inch MacBook Pro with 2TB SSD",
@@ -311,13 +339,6 @@
       "pubDate": "2026-06-30T13:33:45.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Law proposed to ban AI companies from selling your health data",
-      "url": "https://9to5mac.com/2026/06/30/law-proposed-to-ban-ai-companies-from-selling-your-health-data/",
-      "pubDate": "2026-06-30T13:32:29.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Hey old school Mac gamers, Bolo is back!",
@@ -325,32 +346,11 @@
       "pubDate": "2026-06-30T13:22:33.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple's legal team is striking social media sharing stolen iPhone 18 Pro data",
-      "url": "https://appleinsider.com/articles/26/06/30/apples-legal-team-is-striking-social-media-sharing-stolen-iphone-18-pro-data?utm_source=rss",
-      "pubDate": "2026-06-30T12:54:32.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Netflix ramps up account sharing protections via new email requirement",
-      "url": "https://9to5mac.com/2026/06/30/netflix-ramps-up-account-sharing-protections-via-new-email-requirement/",
-      "pubDate": "2026-06-30T12:37:44.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Alleged iPhone 18 Pro Sim Tray Again Shows Dark Cherry Color",
       "url": "https://www.macrumors.com/2026/06/30/iphone-18-pro-sim-tray-dark-cherry-color/",
       "pubDate": "2026-06-30T12:23:52.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "UK ponders copying more EU App Store rules",
-      "url": "https://appleinsider.com/articles/26/06/30/uk-ponders-copying-more-eu-app-store-rules?utm_source=rss",
-      "pubDate": "2026-06-30T11:29:49.000Z"
     },
     {
       "source": "Six Colors",
