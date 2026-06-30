@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T21:05:42.467Z",
+  "generatedAt": "2026-06-30T22:41:14.044Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -26,7 +26,42 @@
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Maps is currently down for some users",
+      "title": "9to5Mac Daily: June 30, 2026 – iPhone 18 and Ultra rumors, more",
+      "url": "https://9to5mac.com/2026/06/30/9to5mac-daily-june-30-2026-iphone-18-and-ultra-rumors-more/",
+      "pubDate": "2026-06-30T21:59:52.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "US offers $10 million to identify hackers targeting Signal and WhatsApp users",
+      "url": "https://9to5mac.com/2026/06/30/us-offers-10-million-to-identify-hackers-targeting-signal-and-whatsapp-users/",
+      "pubDate": "2026-06-30T21:56:06.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Anthropic Launches Claude Sonnet 5 With Near-Opus Performance at a Lower Price",
+      "url": "https://www.macrumors.com/2026/06/30/anthropic-claude-sonnet-5/",
+      "pubDate": "2026-06-30T21:35:56.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "OpenAI’s personal finance features for ChatGPT expands to more customers",
+      "url": "https://9to5mac.com/2026/06/30/openai-just-released-new-personal-finance-features-for-chatgpt-customers/",
+      "pubDate": "2026-06-30T21:33:45.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Amazon fined $2.25 million for failing to help identity theft victims",
+      "url": "https://www.theverge.com/tech/959847/amazon-ftc-identity-theft-fine",
+      "pubDate": "2026-06-30T21:20:01.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Maps is currently down for some users [U: Fixed]",
       "url": "https://9to5mac.com/2026/06/30/apple-maps-is-currently-down-for-some-users/",
       "pubDate": "2026-06-30T21:04:44.000Z"
     },
@@ -227,13 +262,6 @@
       "pubDate": "2026-06-30T17:15:49.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Anthropic just released a brand-new Claude Science app for Mac",
-      "url": "https://9to5mac.com/2026/06/30/anthropic-just-released-a-brand-new-claude-science-app-for-mac/",
-      "pubDate": "2026-06-30T17:14:01.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Rockstar workers push to unionize ahead of GTA VI’s launch",
@@ -267,27 +295,6 @@
       "title": "New AirDrop security flaws are significant, but aren't a giant threat",
       "url": "https://appleinsider.com/articles/26/06/30/new-airdrop-security-flaws-are-significant-but-arent-a-giant-threat?utm_source=rss",
       "pubDate": "2026-06-30T16:39:19.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Cibby is a beautifully designed iOS app for physical video game collectors",
-      "url": "https://9to5mac.com/2026/06/30/cibby-is-a-beautifully-designed-ios-app-for-physical-video-game-collectors/",
-      "pubDate": "2026-06-30T16:37:03.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Supreme Court agrees to hear Apple appeal over Epic Games ruling",
-      "url": "https://9to5mac.com/2026/06/30/supreme-court-agrees-to-hear-apple-appeal-over-epic-games-ruling/",
-      "pubDate": "2026-06-30T16:34:45.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Bose Soundlink Max is $120 off ahead of the July 4th weekend",
-      "url": "https://www.theverge.com/gadgets/959264/bose-soundlink-max-wd-black-deal-sale",
-      "pubDate": "2026-06-30T16:05:22.000Z"
     },
     {
       "source": "MacRumors",
@@ -344,13 +351,6 @@
       "title": "Hey old school Mac gamers, Bolo is back!",
       "url": "https://appleinsider.com/articles/26/06/30/hey-old-school-mac-gamers-bolo-is-back?utm_source=rss",
       "pubDate": "2026-06-30T13:22:33.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Alleged iPhone 18 Pro Sim Tray Again Shows Dark Cherry Color",
-      "url": "https://www.macrumors.com/2026/06/30/iphone-18-pro-sim-tray-dark-cherry-color/",
-      "pubDate": "2026-06-30T12:23:52.000Z"
     },
     {
       "source": "Six Colors",
