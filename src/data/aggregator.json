@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T16:32:40.570Z",
+  "generatedAt": "2026-06-30T19:06:07.472Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,195 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Beats Launches Solo Buds in Retailer-Exclusive Orange Color in the U.S. and Japan",
+      "url": "https://www.macrumors.com/2026/06/30/beats-solo-buds-orange-best-buy/",
+      "pubDate": "2026-06-30T18:59:27.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "LG’s 27-inch Tandem OLED gaming monitor is cheaper than ever",
+      "url": "https://www.theverge.com/gadgets/906880/lg-ultragear-tandem-oled-1440p-gaming-monitor-deal-sale",
+      "pubDate": "2026-06-30T18:42:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Amex cardholders can now use Membership Rewards during Apple Pay checkout",
+      "url": "https://appleinsider.com/articles/26/06/30/amex-cardholders-can-now-use-membership-rewards-during-apple-pay-checkout?utm_source=rss",
+      "pubDate": "2026-06-30T18:27:58.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "007 First Light&#8217;s developer lays off staff but claims its next franchise will continue",
+      "url": "https://www.theverge.com/games/959713/io-interactive-project-fantasy-layoffs",
+      "pubDate": "2026-06-30T18:14:05.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "If you wanted more AI in Apple's Creator Studio, Tuesday's update gives it to you",
+      "url": "https://appleinsider.com/articles/26/06/30/if-you-wanted-more-ai-in-apples-creator-studio-tuesdays-update-gives-it-to-you?utm_source=rss",
+      "pubDate": "2026-06-30T18:08:09.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Now Sells Refurbished iPhone 16e Starting at $419",
+      "url": "https://www.macrumors.com/2026/06/30/apple-refurbished-iphone-16e/",
+      "pubDate": "2026-06-30T18:06:37.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Amazon's $99 AirPods 4 deal is still in stock with month-end savings",
+      "url": "https://appleinsider.com/articles/26/06/30/amazons-99-airpods-4-month-end-deal-is-still-in-stock?utm_source=rss",
+      "pubDate": "2026-06-30T18:00:03.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Anthropic upgrades Claude with new Sonnet 5 model, details here",
+      "url": "https://9to5mac.com/2026/06/30/anthropic-upgrades-claude-with-new-sonnet-5-model-details-here/",
+      "pubDate": "2026-06-30T17:57:51.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Arcade Adding 5 Games This Week, Including 'Family Feud Pocket'",
+      "url": "https://www.macrumors.com/2026/06/30/apple-arcade-adding-five-games-this-week/",
+      "pubDate": "2026-06-30T17:44:14.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Moto&#8217;s Tag 2 tracker is $20 for a limited time",
+      "url": "https://www.theverge.com/gadgets/959657/moto-tag-2-deal-sale",
+      "pubDate": "2026-06-30T17:38:23.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Seeds Third Public Betas of iOS 26.6, macOS Tahoe 26.6 and More",
+      "url": "https://www.macrumors.com/2026/06/30/ios-26-6-public-beta-3/",
+      "pubDate": "2026-06-30T17:38:04.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Pages, Keynote, and Numbers updates arrive with these new features",
+      "url": "https://9to5mac.com/2026/06/30/pages-keynote-and-numbers-updates-arrive-with-these-new-features/",
+      "pubDate": "2026-06-30T17:37:25.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "US Supreme Court agrees to hear Apple's Epic Games appeal",
+      "url": "https://appleinsider.com/articles/26/06/30/us-supreme-court-agrees-to-hear-apples-epic-games-appeal?utm_source=rss",
+      "pubDate": "2026-06-30T17:37:23.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Supreme Court Will Hear Apple's Appeal in Epic Games App Store Fight",
+      "url": "https://www.macrumors.com/2026/06/30/apple-epic-games-supreme-court/",
+      "pubDate": "2026-06-30T17:34:20.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Apple brings forward 26.6 security fixes into 26.5.2 update ↦",
+      "url": "https://sixcolors.com/link/2026/06/apple-brings-forward-26-6-security-fixes-into-26-5-1-update/",
+      "pubDate": "2026-06-30T17:32:22.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "American Express Announces New Apple Pay Feature",
+      "url": "https://www.macrumors.com/2026/06/30/american-express-apple-pay-redeem-points/",
+      "pubDate": "2026-06-30T17:27:02.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Creator Studio Gets New AI Features",
+      "url": "https://www.macrumors.com/2026/06/30/apple-creator-studio-gets-new-ai-features/",
+      "pubDate": "2026-06-30T17:21:51.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
+      "url": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
+      "pubDate": "2026-06-30T17:19:15.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Creator Studio just got better, here’s what’s new",
+      "url": "https://9to5mac.com/2026/06/30/apple-creator-studio-just-got-better-heres-whats-new/",
+      "pubDate": "2026-06-30T17:15:49.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Anthropic just released a brand-new Claude Science app for Mac",
+      "url": "https://9to5mac.com/2026/06/30/anthropic-just-released-a-brand-new-claude-science-app-for-mac/",
+      "pubDate": "2026-06-30T17:14:01.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Rockstar workers push to unionize ahead of GTA VI’s launch",
+      "url": "https://www.theverge.com/games/959668/rockstar-games-workers-union-gta-vi",
+      "pubDate": "2026-06-30T17:04:14.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Google&#8217;s killing off Tenor GIF searches in other apps",
+      "url": "https://www.theverge.com/tech/959658/google-tenor-api-shutdown-gif-picker",
+      "pubDate": "2026-06-30T17:00:05.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Xbox weighs canceling Blade game and shuttering Arkane",
+      "url": "https://www.theverge.com/report/959467/microsoft-xbox-cancel-blade-game-arkane-studios-closure",
+      "pubDate": "2026-06-30T17:00:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Stop us if you've heard this before: Apple Watch redesign will have new band attachment points",
+      "url": "https://appleinsider.com/articles/26/06/30/stop-us-if-youve-heard-this-before-apple-watch-redesign-will-have-new-band-attachment-points?utm_source=rss",
+      "pubDate": "2026-06-30T16:51:37.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "New AirDrop security flaws are significant, but aren't a giant threat",
+      "url": "https://appleinsider.com/articles/26/06/30/new-airdrop-security-flaws-are-significant-but-arent-a-giant-threat?utm_source=rss",
+      "pubDate": "2026-06-30T16:39:19.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Cibby is a beautifully designed iOS app for physical video game collectors",
+      "url": "https://9to5mac.com/2026/06/30/cibby-is-a-beautifully-designed-ios-app-for-physical-video-game-collectors/",
+      "pubDate": "2026-06-30T16:37:03.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Supreme Court agrees to hear Apple appeal over Epic Games ruling",
+      "url": "https://9to5mac.com/2026/06/30/supreme-court-agrees-to-hear-apple-appeal-over-epic-games-ruling/",
+      "pubDate": "2026-06-30T16:34:45.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -73,13 +262,6 @@
       "pubDate": "2026-06-30T15:01:46.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple's $502M Optis patent infringement payment headed to UK Supreme Court",
-      "url": "https://appleinsider.com/articles/26/06/29/apples-502m-payment-to-optis-over-patent-infringement-goes-to-uk-supreme-court?utm_source=rss",
-      "pubDate": "2026-06-30T14:58:35.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Proton Lumo 2.0 Adds Image Generation, Memory, Stronger Web Search",
@@ -92,13 +274,6 @@
       "title": "Apple's $502M Optis Patent Case Heads to UK Supreme Court",
       "url": "https://www.macrumors.com/2026/06/30/optis-patent-case-heads-to-uk-supreme-court/",
       "pubDate": "2026-06-30T14:45:05.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Supreme Court stops Trump&#8217;s attempt to end birthright citizenship",
-      "url": "https://www.theverge.com/news/959487/supreme-court-birthright-citizenship-trump",
-      "pubDate": "2026-06-30T14:44:42.000Z"
     },
     {
       "source": "AppleInsider",
@@ -127,13 +302,6 @@
       "title": "Samsung's 2026 Monitors Hit New Record Low Prices at Up to $350 Off",
       "url": "https://www.macrumors.com/2026/06/30/samsungs-2026-monitors-record-low/",
       "pubDate": "2026-06-30T13:59:19.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "iPhone 18 Pro ‘drop test’ leaks get yanked from X",
-      "url": "https://www.theverge.com/tech/959474/iphone-18-pro-leaked-videos-pulled",
-      "pubDate": "2026-06-30T13:57:41.000Z"
     },
     {
       "source": "AppleInsider",
@@ -178,20 +346,6 @@
       "pubDate": "2026-06-30T12:23:52.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Meet the lawyer who beat Elon Musk — twice",
-      "url": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
-      "pubDate": "2026-06-30T12:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Three AirDrop vulnerabilities discovered, with Apple working on a full fix",
-      "url": "https://9to5mac.com/2026/06/30/three-airdrop-vulnerabilities-discovered-with-apple-working-on-a-full-fix/",
-      "pubDate": "2026-06-30T11:53:17.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "UK ponders copying more EU App Store rules",
@@ -199,151 +353,11 @@
       "pubDate": "2026-06-30T11:29:49.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple may have to allow 3rd-party app payments and Apple Pay rivals in UK",
-      "url": "https://9to5mac.com/2026/06/30/apple-may-have-to-allow-3rd-party-app-payments-and-apple-pay-rivals-in-uk/",
-      "pubDate": "2026-06-30T11:27:12.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Crackdown Suspected After iPhone 18 Pro Leak Videos Disappear",
-      "url": "https://www.macrumors.com/2026/06/30/apple-crackdown-iphone-18-pro-leak-video-gone/",
-      "pubDate": "2026-06-30T11:08:42.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "This motor could be the future of e-bikes",
-      "url": "https://www.theverge.com/news/959382/avinox-mg-concept-gobao-mgu-ecvt",
-      "pubDate": "2026-06-30T10:30:04.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "UK Pushes Apple to Loosen App Store Payment and NFC Rules",
-      "url": "https://www.macrumors.com/2026/06/30/uk-apple-loosen-app-store-payment-rules/",
-      "pubDate": "2026-06-30T10:00:21.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Proton launches Lumo 2.0 with image generation, memory, private web search, more",
-      "url": "https://9to5mac.com/2026/06/30/proton-launches-lumo-2-0-with-image-generation-memory-private-web-search-more/",
-      "pubDate": "2026-06-30T10:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple @ Work Podcast: macOS ClickFix is back for more",
-      "url": "https://9to5mac.com/2026/06/30/podcast-macos-clickfix-is-back-for-more/",
-      "pubDate": "2026-06-30T10:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Our best look yet at Samsung’s new wide foldable",
-      "url": "https://www.theverge.com/tech/959372/samsung-galaxy-z-fold-wide-image-leaks",
-      "pubDate": "2026-06-30T09:54:44.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "How to use Tailscale to remotely connect to your Mac from anywhere",
-      "url": "https://appleinsider.com/articles/26/06/30/how-to-use-tailscale-to-remotely-connect-to-your-mac-from-anywhere?utm_source=rss",
-      "pubDate": "2026-06-30T02:57:06.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: June 29, 2026 – Apple Silicon roadmap leaks",
-      "url": "https://9to5mac.com/2026/06/29/daily-june-29-2026/",
-      "pubDate": "2026-06-30T01:23:21.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "T-Mobile Automatically Moving Legacy Plan Customers to New Plans",
-      "url": "https://www.macrumors.com/2026/06/29/t-mobile-legacy-plan-transition/",
-      "pubDate": "2026-06-29T23:46:41.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Stop paying monthly for cloud storage with up to 70% off pCloud Lifetime this 4th of July",
-      "url": "https://9to5mac.com/2026/06/29/stop-paying-monthly-cloud-storage-up-to-70-off-pcloud-lifetime-4th-of-july/",
-      "pubDate": "2026-06-29T23:30:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "WhatsApp Now Lets You Reserve a Username",
-      "url": "https://www.macrumors.com/2026/06/29/whatsapp-username-reservations/",
-      "pubDate": "2026-06-29T23:01:05.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Open Source AI Agent OpenClaw Gets Native iOS App",
-      "url": "https://www.macrumors.com/2026/06/29/openclaw-ios-app/",
-      "pubDate": "2026-06-29T22:42:11.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "User location data that Google & Apple have is protected by Fourth Amendment, says SCOTUS",
-      "url": "https://appleinsider.com/articles/26/06/29/user-location-data-that-google-apple-have-is-protected-by-fourth-amendment-says-scotus?utm_source=rss",
-      "pubDate": "2026-06-29T21:41:47.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) Upgrade 626: Unprecedented Weirdness",
       "url": "https://sixcolors.com/podcast/2026/06/upgrade-626-unprecedented-weirdness/",
       "pubDate": "2026-06-29T21:39:58.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Released iOS 26.5.2 Security Fixes Early to Thwart AI-Assisted Hacks",
-      "url": "https://www.macrumors.com/2026/06/29/apple-ios-26-5-2-early-release/",
-      "pubDate": "2026-06-29T21:14:23.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "T-Mobile is booting customers from its oldest plans",
-      "url": "https://www.theverge.com/tech/959144/t-mobile-legacy-plan-retire-sprint",
-      "pubDate": "2026-06-29T21:06:14.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "After a great start, DC’s new cinematic universe is already slowing down",
-      "url": "https://www.theverge.com/entertainment/958953/supergirl-dcu-warner-bros-discovery-box-office-flop",
-      "pubDate": "2026-06-29T21:00:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 26.5.2 Patches More Than 25 Security Vulnerabilities",
-      "url": "https://www.macrumors.com/2026/06/29/ios-26-5-2-vulnerabilities/",
-      "pubDate": "2026-06-29T20:15:47.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Don't wait to update: iOS 26.5.2 includes over 25 security fixes for web browsing",
-      "url": "https://appleinsider.com/articles/26/06/29/dont-wait-to-update-ios-2652-includes-over-25-security-fixes-for-web-browsing?utm_source=rss",
-      "pubDate": "2026-06-29T19:00:49.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple suppliers Samsung, SK hynix & Micron hit by RAM price fixing suit",
-      "url": "https://appleinsider.com/articles/26/06/29/apple-suppliers-samsung-sk-hynix-micron-hit-by-ram-price-fixing-suit?utm_source=rss",
-      "pubDate": "2026-06-29T18:47:46.000Z"
     },
     {
       "source": "Six Colors",
@@ -358,20 +372,6 @@
       "title": "(Sponsor) Mojave Paint",
       "url": "https://sixcolors.com/sponsor/2026/06/mojave-paint-2/",
       "pubDate": "2026-06-26T18:00:49.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Level Lock founders and engineers kicked by parent company ↦",
-      "url": "https://sixcolors.com/link/2026/06/level-lock-founders-and-engineers-kicked-by-parent-company/",
-      "pubDate": "2026-06-26T18:00:46.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Apple should free the macOS icons from squircle jail ↦",
-      "url": "https://sixcolors.com/link/2026/06/apple-should-free-the-macos-icons-from-squircle-jail/",
-      "pubDate": "2026-06-26T17:59:15.000Z"
     }
   ]
 }
