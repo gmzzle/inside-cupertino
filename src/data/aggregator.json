@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T06:45:14.064Z",
+  "generatedAt": "2026-07-01T10:49:05.995Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Fujifilm launches two new QuickSnap cameras because Gen Z can&#8217;t get enough",
+      "url": "https://www.theverge.com/gadgets/960067/fujifilm-quicksnap-active-black-and-white-price-availability",
+      "pubDate": "2026-07-01T10:05:28.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Cleared by the US, derailed by the UK: Getty’s Shutterstock merger falls apart",
+      "url": "https://www.theverge.com/tech/960047/getty-shutterstock-merger-agreement-termination",
+      "pubDate": "2026-07-01T08:41:26.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -75,7 +89,7 @@
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
-      "title": "Dish files for bankruptcy, but not shutting down",
+      "title": "Dish files for bankruptcy, but is not shutting down",
       "url": "https://www.theverge.com/tech/959894/dish-chapter-11-bankruptcy",
       "pubDate": "2026-06-30T22:46:52.000Z"
     },
@@ -248,13 +262,6 @@
       "pubDate": "2026-06-30T17:44:14.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Moto&#8217;s Tag 2 tracker is $20 for a limited time",
-      "url": "https://www.theverge.com/gadgets/959657/moto-tag-2-deal-sale",
-      "pubDate": "2026-06-30T17:38:23.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Seeds Third Public Betas of iOS 26.6, macOS Tahoe 26.6 and More",
@@ -295,13 +302,6 @@
       "title": "Apple Creator Studio Gets New AI Features",
       "url": "https://www.macrumors.com/2026/06/30/apple-creator-studio-gets-new-ai-features/",
       "pubDate": "2026-06-30T17:21:51.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
-      "url": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
-      "pubDate": "2026-06-30T17:19:15.000Z"
     },
     {
       "source": "AppleInsider",
