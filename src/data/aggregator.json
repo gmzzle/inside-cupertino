@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T13:41:05.240Z",
+  "generatedAt": "2026-07-01T16:40:31.844Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,132 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 breaks 15 years of muscle memory on iPhone and iPad",
+      "url": "https://9to5mac.com/2026/07/01/ios-27-just-broke-15-years-of-muscle-memory-on-iphone-and-ipad/",
+      "pubDate": "2026-07-01T16:34:22.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "My favorite Kindle alternative is $30 off after a recent price increase",
+      "url": "https://www.theverge.com/gadgets/960282/kobo-libra-colour-july-fourth-sale-deal-sale",
+      "pubDate": "2026-07-01T16:28:40.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Here’s everything new for Apple Mail in iOS 27",
+      "url": "https://9to5mac.com/2026/07/01/heres-everything-new-for-apple-mail-in-ios-27/",
+      "pubDate": "2026-07-01T16:10:47.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Google Gemini Spark Comes to Mac With Local File Automation",
+      "url": "https://www.macrumors.com/2026/07/01/google-gemini-spark-comes-to-mac/",
+      "pubDate": "2026-07-01T16:10:20.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "You’re paying for 80+ iPhone and iPad games through Netflix, here’s the full catalog",
+      "url": "https://9to5mac.com/2026/07/01/youre-paying-for-80-iphone-and-ipad-games-through-netflix-heres-the-full-catalog/",
+      "pubDate": "2026-07-01T16:02:13.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Save up to $400 on Apple's iPad Air, iPad Pro this July",
+      "url": "https://appleinsider.com/articles/26/07/01/save-up-to-400-on-apples-ipad-air-ipad-pro-this-july?utm_source=rss",
+      "pubDate": "2026-07-01T15:52:45.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "New Final Cut Camera tries to be more useful for Mac users",
+      "url": "https://appleinsider.com/articles/26/07/01/new-final-cut-camera-tries-to-be-more-useful-for-mac-users?utm_source=rss",
+      "pubDate": "2026-07-01T15:43:14.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Comcast’s split could make or break Peacock",
+      "url": "https://www.theverge.com/streaming/960235/comcast-breakup-peacock-streaming",
+      "pubDate": "2026-07-01T15:30:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Deals: AirTag 2, M4 iPad Air $350 off, Magic Keyboard from $80, Satechi Mac mini and iPhone gear, more",
+      "url": "https://9to5mac.com/2026/07/01/deals-airtag-2-m4-ipad-air-magic-keyboard-satechi/",
+      "pubDate": "2026-07-01T15:29:02.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iOS 27 Adds a Useful New Copy-and-Paste Feature to Your iPhone",
+      "url": "https://www.macrumors.com/2026/07/01/ios-27-new-copy-and-paste-feature/",
+      "pubDate": "2026-07-01T15:05:44.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The best Switch 2 case I’ve tried is cheaper than usual",
+      "url": "https://www.theverge.com/gadgets/960185/dbrand-killswitch-switch-2-deal-sale",
+      "pubDate": "2026-07-01T15:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Sony is killing discs — and showing us why it’s a terrible idea",
+      "url": "https://www.theverge.com/games/960212/sony-playstation-killing-discs-digital-preservation",
+      "pubDate": "2026-07-01T15:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone 17 Pro just got an exclusive new pro-focused camera feature",
+      "url": "https://9to5mac.com/2026/07/01/iphone-17-pro-just-got-an-exclusive-new-pro-focused-camera-feature/",
+      "pubDate": "2026-07-01T14:37:49.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Researchers scapegoat iPhone for declining US birthrates",
+      "url": "https://appleinsider.com/articles/26/07/01/researchers-scapegoat-iphone-for-declining-us-birthrates?utm_source=rss",
+      "pubDate": "2026-07-01T14:29:30.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Has Reportedly Cut iPhone 17 Lineup Production",
+      "url": "https://www.macrumors.com/2026/07/01/apple-has-cut-iphone-17-production/",
+      "pubDate": "2026-07-01T14:13:49.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "New Jamf Beacon gives businesses active Mac threat hunting",
+      "url": "https://appleinsider.com/articles/26/07/01/new-jamf-beacon-gives-businesses-active-mac-threat-hunting?utm_source=rss",
+      "pubDate": "2026-07-01T14:09:51.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 26.6 release date: Here’s when the new iPhone update is coming",
+      "url": "https://9to5mac.com/2026/07/01/ios-26-6-release-date-heres-when-the-new-iphone-update-is-coming/",
+      "pubDate": "2026-07-01T14:02:00.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Report: Security vulnerability makes Hide My Email not so anonymous ↦",
+      "url": "https://sixcolors.com/link/2026/07/report-security-vulnerability-makes-hide-my-email-not-so-anonymous/",
+      "pubDate": "2026-07-01T13:42:58.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -122,13 +248,6 @@
       "pubDate": "2026-07-01T11:49:25.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Would a sleeker Apple Watch design justify losing band compatibility? [Poll]",
-      "url": "https://9to5mac.com/2026/07/01/would-a-sleeker-apple-watch-design-justify-losing-band-compatibility-poll/",
-      "pubDate": "2026-07-01T11:05:05.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Range anxiety",
@@ -143,46 +262,11 @@
       "pubDate": "2026-07-01T11:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Fujifilm launches two new QuickSnap cameras because Gen Z can&#8217;t get enough",
-      "url": "https://www.theverge.com/gadgets/960067/fujifilm-quicksnap-active-black-and-white-price-availability",
-      "pubDate": "2026-07-01T10:05:28.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Cleared by the US, derailed by the UK: Getty’s Shutterstock merger falls apart",
-      "url": "https://www.theverge.com/tech/960047/getty-shutterstock-merger-agreement-termination",
-      "pubDate": "2026-07-01T08:41:26.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Meta is adding ridiculous &#8216;rate limits&#8217; and a soft paywall to its smart glasses",
-      "url": "https://www.theverge.com/gadgets/959899/meta-ai-glasses-paywall-rate-limit",
-      "pubDate": "2026-07-01T00:51:03.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Claude Fable 5 cleared to return as US lifts Anthropic’s export control restriction [U]",
-      "url": "https://9to5mac.com/2026/06/30/claude-fable-5-cleared-to-return-as-us-lifts-anthropics-export-control-restriction/",
-      "pubDate": "2026-07-01T00:24:11.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Tim Cook's government liaison position comes into focus before stepping down as Apple CEO",
       "url": "https://appleinsider.com/articles/26/07/01/tim-cooks-government-liaison-position-comes-into-focus-before-stepping-down-as-apple-ceo?utm_source=rss",
       "pubDate": "2026-07-01T00:21:19.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
-      "pubDate": "2026-07-01T00:03:55.000Z"
     },
     {
       "source": "MacRumors",
@@ -192,13 +276,6 @@
       "pubDate": "2026-06-30T23:26:39.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Tim Cook and EU tech chief hold ‘constructive’ virtual meeting over Siri AI standoff",
-      "url": "https://9to5mac.com/2026/06/30/tim-cook-and-eu-tech-chief-hold-constructive-virtual-meeting-over-siri-ai-standoff/",
-      "pubDate": "2026-06-30T23:17:15.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Nanoleaf's New $80 Smart Ceiling Light Works With Matter and HomeKit",
@@ -206,32 +283,11 @@
       "pubDate": "2026-06-30T23:16:24.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: June 30, 2026 – iPhone 18 and Ultra rumors, more",
-      "url": "https://9to5mac.com/2026/06/30/9to5mac-daily-june-30-2026-iphone-18-and-ultra-rumors-more/",
-      "pubDate": "2026-06-30T21:59:52.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "US offers $10 million to identify hackers targeting Signal and WhatsApp users",
-      "url": "https://9to5mac.com/2026/06/30/us-offers-10-million-to-identify-hackers-targeting-signal-and-whatsapp-users/",
-      "pubDate": "2026-06-30T21:56:06.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Anthropic Launches Claude Sonnet 5 With Near-Opus Performance at a Lower Price",
       "url": "https://www.macrumors.com/2026/06/30/anthropic-claude-sonnet-5/",
       "pubDate": "2026-06-30T21:35:56.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "OpenAI’s personal finance features for ChatGPT expands to more customers",
-      "url": "https://9to5mac.com/2026/06/30/openai-just-released-new-personal-finance-features-for-chatgpt-customers/",
-      "pubDate": "2026-06-30T21:33:45.000Z"
     },
     {
       "source": "AppleInsider",
@@ -276,13 +332,6 @@
       "pubDate": "2026-06-30T18:06:37.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Amazon's $99 AirPods 4 deal is still in stock with month-end savings",
-      "url": "https://appleinsider.com/articles/26/06/30/amazons-99-airpods-4-month-end-deal-is-still-in-stock?utm_source=rss",
-      "pubDate": "2026-06-30T18:00:03.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Arcade Adding 5 Games This Week, Including 'Family Feud Pocket'",
@@ -290,53 +339,11 @@
       "pubDate": "2026-06-30T17:44:14.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Seeds Third Public Betas of iOS 26.6, macOS Tahoe 26.6 and More",
-      "url": "https://www.macrumors.com/2026/06/30/ios-26-6-public-beta-3/",
-      "pubDate": "2026-06-30T17:38:04.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "US Supreme Court agrees to hear Apple's Epic Games appeal",
-      "url": "https://appleinsider.com/articles/26/06/30/us-supreme-court-agrees-to-hear-apples-epic-games-appeal?utm_source=rss",
-      "pubDate": "2026-06-30T17:37:23.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Supreme Court Will Hear Apple's Appeal in Epic Games App Store Fight",
-      "url": "https://www.macrumors.com/2026/06/30/apple-epic-games-supreme-court/",
-      "pubDate": "2026-06-30T17:34:20.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Apple brings forward 26.6 security fixes into 26.5.2 update ↦",
       "url": "https://sixcolors.com/link/2026/06/apple-brings-forward-26-6-security-fixes-into-26-5-1-update/",
       "pubDate": "2026-06-30T17:32:22.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "American Express Announces New Apple Pay Feature",
-      "url": "https://www.macrumors.com/2026/06/30/american-express-apple-pay-redeem-points/",
-      "pubDate": "2026-06-30T17:27:02.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Stop us if you've heard this before: Apple Watch redesign will have new band attachment points",
-      "url": "https://appleinsider.com/articles/26/06/30/stop-us-if-youve-heard-this-before-apple-watch-redesign-will-have-new-band-attachment-points?utm_source=rss",
-      "pubDate": "2026-06-30T16:51:37.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "New AirDrop security flaws are significant, but aren't a giant threat",
-      "url": "https://appleinsider.com/articles/26/06/30/new-airdrop-security-flaws-are-significant-but-arent-a-giant-threat?utm_source=rss",
-      "pubDate": "2026-06-30T16:39:19.000Z"
     },
     {
       "source": "Six Colors",
@@ -365,13 +372,6 @@
       "title": "Level Lock founders and engineers kicked by parent company ↦",
       "url": "https://sixcolors.com/link/2026/06/level-lock-founders-and-engineers-kicked-by-parent-company/",
       "pubDate": "2026-06-26T18:00:46.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Apple should free the macOS icons from squircle jail ↦",
-      "url": "https://sixcolors.com/link/2026/06/apple-should-free-the-macos-icons-from-squircle-jail/",
-      "pubDate": "2026-06-26T17:59:15.000Z"
     }
   ]
 }
