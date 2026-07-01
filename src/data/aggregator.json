@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T19:12:45.658Z",
+  "generatedAt": "2026-07-01T20:56:17.278Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,11 +24,67 @@
   ],
   "items": [
     {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone Fold expected to fuel rebound in foldable phone panel shipments, per report",
+      "url": "https://9to5mac.com/2026/07/01/iphone-fold-expected-to-fuel-rebound-in-foldable-phone-panel-shipments-per-report/",
+      "pubDate": "2026-07-01T20:51:04.000Z"
+    },
+    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Elon Musk's SpaceX AI prototype is thinner than an iPhone",
       "url": "https://appleinsider.com/articles/26/07/01/elon-musks-spacex-ai-prototype-is-thinner-than-an-iphone?utm_source=rss",
-      "pubDate": "2026-07-01T19:07:32.000Z"
+      "pubDate": "2026-07-01T20:33:42.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple ‘in negotiations’ with two banned Chinese RAM firms after price increases",
+      "url": "https://9to5mac.com/2026/07/01/apple-in-negotiations-with-two-banned-chinese-ram-firms-after-price-increases/",
+      "pubDate": "2026-07-01T20:25:28.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Elon Musk's SpaceX Showed Off Prototype AI Device",
+      "url": "https://www.macrumors.com/2026/07/01/spacex-ai-device/",
+      "pubDate": "2026-07-01T20:10:24.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Elon Musk denies a report about SpaceX&#8217;s AI phone prototype",
+      "url": "https://www.theverge.com/science/960442/spacex-phone-prototype-elon-musk",
+      "pubDate": "2026-07-01T20:10:21.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Report: MacBook price hikes expected to contribute to 13.6% drop in global laptop shipments",
+      "url": "https://9to5mac.com/2026/07/01/report-macbook-price-hikes-expected-to-contribute-to-13-6-drop-in-global-laptop-shipments/",
+      "pubDate": "2026-07-01T20:01:39.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) Clockwise 663: Fear-Based Approach",
+      "url": "https://sixcolors.com/podcast/2026/07/clockwise-663-fear-based-approach/",
+      "pubDate": "2026-07-01T19:54:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "The New York Times app adopts Liquid Glass on iPhone",
+      "url": "https://9to5mac.com/2026/07/01/the-new-york-times-app-adopts-liquid-glass-on-iphone/",
+      "pubDate": "2026-07-01T19:36:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Claude Fable 5 cleared to return as US lifts Anthropic’s export control restriction [U: Now available]",
+      "url": "https://9to5mac.com/2026/07/01/claude-fable-5-cleared-to-return-as-us-lifts-anthropics-export-control-restriction/",
+      "pubDate": "2026-07-01T19:35:44.000Z"
     },
     {
       "source": "9to5Mac",
@@ -136,13 +192,6 @@
       "pubDate": "2026-07-01T15:30:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: AirTag 2, M4 iPad Air $350 off, Magic Keyboard from $80, Satechi Mac mini and iPhone gear, more",
-      "url": "https://9to5mac.com/2026/07/01/deals-airtag-2-m4-ipad-air-magic-keyboard-satechi/",
-      "pubDate": "2026-07-01T15:29:02.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iOS 27 Adds a Useful New Copy-and-Paste Feature to Your iPhone",
@@ -162,13 +211,6 @@
       "title": "Sony is killing discs — and showing us why it’s a terrible idea",
       "url": "https://www.theverge.com/games/960212/sony-playstation-killing-discs-digital-preservation",
       "pubDate": "2026-07-01T15:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone 17 Pro just got an exclusive new pro-focused camera feature",
-      "url": "https://9to5mac.com/2026/07/01/iphone-17-pro-just-got-an-exclusive-new-pro-focused-camera-feature/",
-      "pubDate": "2026-07-01T14:37:49.000Z"
     },
     {
       "source": "AppleInsider",
@@ -192,13 +234,6 @@
       "pubDate": "2026-07-01T14:09:51.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 26.6 release date: Here’s when the new iPhone update is coming",
-      "url": "https://9to5mac.com/2026/07/01/ios-26-6-release-date-heres-when-the-new-iphone-update-is-coming/",
-      "pubDate": "2026-07-01T14:02:00.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) The Rebound 605: I Don’t Want to Go to Tatooine",
@@ -213,25 +248,11 @@
       "pubDate": "2026-07-01T13:42:58.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone 18 Pro to offer only these three colors, per leaker",
-      "url": "https://9to5mac.com/2026/07/01/iphone-18-pro-to-offer-only-these-three-colors-per-leaker/",
-      "pubDate": "2026-07-01T13:40:09.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Last Chance: Get the 2026 MacBook Pro and iPad Air for Pre-Hike Prices Before They're Gone for Good",
       "url": "https://www.macrumors.com/2026/07/01/last-chance-macbook-pro-ipad-air/",
       "pubDate": "2026-07-01T13:36:49.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Hide My Email bug seemingly allows 100% of real email addresses to be discovered",
-      "url": "https://9to5mac.com/2026/07/01/apple-hide-my-email-bug-seemingly-allows-100-of-real-email-addresses-to-be-discovered/",
-      "pubDate": "2026-07-01T13:24:15.000Z"
     },
     {
       "source": "MacRumors",
@@ -266,13 +287,6 @@
       "sourceHomepage": "https://www.theverge.com",
       "title": "Google built a great smart speaker, but Gemini isn’t ready for it",
       "url": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
-      "pubDate": "2026-07-01T12:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Rhythm Heaven never misses a beat",
-      "url": "https://www.theverge.com/entertainment/959757/rhythm-heaven-groove-review-nintendo-switch",
       "pubDate": "2026-07-01T12:00:00.000Z"
     },
     {
@@ -339,13 +353,6 @@
       "pubDate": "2026-06-30T18:06:37.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Arcade Adding 5 Games This Week, Including 'Family Feud Pocket'",
-      "url": "https://www.macrumors.com/2026/06/30/apple-arcade-adding-five-games-this-week/",
-      "pubDate": "2026-06-30T17:44:14.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Apple brings forward 26.6 security fixes into 26.5.2 update ↦",
@@ -365,13 +372,6 @@
       "title": "My credit card number? Sure! It’s 4242 4242 4242 4242",
       "url": "https://sixcolors.com/post/2026/06/my-credit-card-number-sure-its-4242-4242-4242-4242/",
       "pubDate": "2026-06-29T17:00:37.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Sponsor) Mojave Paint",
-      "url": "https://sixcolors.com/sponsor/2026/06/mojave-paint-2/",
-      "pubDate": "2026-06-26T18:00:49.000Z"
     }
   ]
 }
