@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T20:56:17.278Z",
+  "generatedAt": "2026-07-01T22:40:48.111Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,18 +24,116 @@
   ],
   "items": [
     {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Apple’s entry-level MacBook Pro could be up for a redesign",
+      "url": "https://www.theverge.com/news/960541/apple-macbook-pro-entry-level-redesign-ipad-pro-update",
+      "pubDate": "2026-07-01T22:39:43.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Russia threatens Apple with $52 million fine over alleged app discrimination",
+      "url": "https://9to5mac.com/2026/07/01/russia-threatens-apple-with-52-million-fine-over-alleged-app-discrimination/",
+      "pubDate": "2026-07-01T22:30:02.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iPhone Fold expected to take 29% of 2026 foldable phone screen orders",
+      "url": "https://appleinsider.com/articles/26/07/01/iphone-fold-expected-to-take-29-of-2026-foldable-phone-screen-orders?utm_source=rss",
+      "pubDate": "2026-07-01T22:08:03.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The funeral for PlayStation discs has begun",
+      "url": "https://www.theverge.com/games/960476/playstation-physical-games-discs-stop-production-preservation-retail-stores",
+      "pubDate": "2026-07-01T22:03:37.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Safari’s new MCP server lets coding agents inspect and debug websites",
+      "url": "https://9to5mac.com/2026/07/01/safaris-new-mcp-server-lets-coding-agents-inspect-and-debug-websites/",
+      "pubDate": "2026-07-01T21:59:20.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple weighs buying RAM from two blacklisted Chinese suppliers to curb rising costs",
+      "url": "https://appleinsider.com/articles/26/07/01/apple-weighs-buying-ram-from-two-blacklisted-chinese-suppliers-to-curb-rising-costs?utm_source=rss",
+      "pubDate": "2026-07-01T21:28:07.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple reportedly testing new iPad Pro models and redesigned entry-level MacBook Pro for 2027",
+      "url": "https://9to5mac.com/2026/07/01/apple-reportedly-testing-new-ipad-pro-models-and-redesigned-entry-level-macbook-pro-for-2027/",
+      "pubDate": "2026-07-01T21:17:59.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple to Launch New iPad Pro in Spring 2027",
+      "url": "https://www.macrumors.com/2026/07/01/apple-ipad-pro-spring-2027/",
+      "pubDate": "2026-07-01T21:17:11.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple in Russia's crosshairs again, facing $52M fine for not installing state-required apps",
+      "url": "https://appleinsider.com/articles/26/07/01/apple-in-russias-crosshairs-again-facing-52m-fine-for-not-installing-state-required-apps?utm_source=rss",
+      "pubDate": "2026-07-01T21:15:47.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "If it exists, Elon Musk's SpaceX AI prototype hardware is thinner than iPhone",
+      "url": "https://appleinsider.com/articles/26/07/01/elon-musks-spacex-ai-prototype-is-thinner-than-an-iphone?utm_source=rss",
+      "pubDate": "2026-07-01T21:14:16.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple readying four iPad Pro models & entry M7 MacBook Pro for early 2027 release",
+      "url": "https://appleinsider.com/articles/26/07/01/apple-readying-four-ipad-pro-models-entry-m7-macbook-pro-for-early-2027-release?utm_source=rss",
+      "pubDate": "2026-07-01T21:12:07.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "M6 MacBook Pro Coming in Late 2026, Redesigned M7 Model Launching in 1H 2027",
+      "url": "https://www.macrumors.com/2026/07/01/redesigned-m7-macbook-pro-2027/",
+      "pubDate": "2026-07-01T21:12:03.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Releases Safari Technology Preview 247 With MCP Server for AI Agent Integration",
+      "url": "https://www.macrumors.com/2026/07/01/apple-releases-safari-technology-preview-247/",
+      "pubDate": "2026-07-01T21:11:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple in Talks to Buy Memory Chips From Chinese Makers CXMT and YMTC",
+      "url": "https://www.macrumors.com/2026/07/01/apple-memory-chips-chinese-companies/",
+      "pubDate": "2026-07-01T21:06:50.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Xbox’s ‘reset’: all the news about Microsoft&#8217;s looming layoffs and studio closures",
+      "url": "https://www.theverge.com/games/959900/xbox-reset-layoffs-studio-closures",
+      "pubDate": "2026-07-01T21:00:00.000Z"
+    },
+    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "iPhone Fold expected to fuel rebound in foldable phone panel shipments, per report",
       "url": "https://9to5mac.com/2026/07/01/iphone-fold-expected-to-fuel-rebound-in-foldable-phone-panel-shipments-per-report/",
       "pubDate": "2026-07-01T20:51:04.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Elon Musk's SpaceX AI prototype is thinner than an iPhone",
-      "url": "https://appleinsider.com/articles/26/07/01/elon-musks-spacex-ai-prototype-is-thinner-than-an-iphone?utm_source=rss",
-      "pubDate": "2026-07-01T20:33:42.000Z"
     },
     {
       "source": "9to5Mac",
@@ -136,13 +234,6 @@
       "pubDate": "2026-07-01T17:16:31.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 breaks 15 years of muscle memory on iPhone and iPad",
-      "url": "https://9to5mac.com/2026/07/01/ios-27-just-broke-15-years-of-muscle-memory-on-iphone-and-ipad/",
-      "pubDate": "2026-07-01T16:34:22.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "My favorite Kindle alternative is $30 off after a recent price increase",
@@ -150,25 +241,11 @@
       "pubDate": "2026-07-01T16:28:40.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Here’s everything new for Apple Mail in iOS 27",
-      "url": "https://9to5mac.com/2026/07/01/heres-everything-new-for-apple-mail-in-ios-27/",
-      "pubDate": "2026-07-01T16:10:47.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Google Gemini Spark Comes to Mac With Local File Automation",
       "url": "https://www.macrumors.com/2026/07/01/google-gemini-spark-comes-to-mac/",
       "pubDate": "2026-07-01T16:10:20.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "You’re paying for 80+ iPhone and iPad games through Netflix, here’s the full catalog",
-      "url": "https://9to5mac.com/2026/07/01/youre-paying-for-80-iphone-and-ipad-games-through-netflix-heres-the-full-catalog/",
-      "pubDate": "2026-07-01T16:02:13.000Z"
     },
     {
       "source": "AppleInsider",
@@ -262,32 +339,11 @@
       "pubDate": "2026-07-01T13:20:19.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Sony is closing the PS3 and Vita digital stores",
-      "url": "https://www.theverge.com/games/960168/sony-playstation-ps3-vita-store-shut-down",
-      "pubDate": "2026-07-01T12:37:52.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple hasn't fixed a Hide My Email privacy bug in over a year",
       "url": "https://appleinsider.com/articles/26/07/01/apple-hasnt-fixed-a-hide-my-email-privacy-bug-in-over-a-year?utm_source=rss",
       "pubDate": "2026-07-01T12:20:45.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Sony is killing all physical PlayStation game discs",
-      "url": "https://www.theverge.com/games/960160/sony-playstation-disc-production-ending",
-      "pubDate": "2026-07-01T12:15:13.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Google built a great smart speaker, but Gemini isn’t ready for it",
-      "url": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
-      "pubDate": "2026-07-01T12:00:00.000Z"
     },
     {
       "source": "MacRumors",
@@ -297,60 +353,11 @@
       "pubDate": "2026-07-01T11:49:25.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Tim Cook's government liaison position comes into focus before stepping down as Apple CEO",
-      "url": "https://appleinsider.com/articles/26/07/01/tim-cooks-government-liaison-position-comes-into-focus-before-stepping-down-as-apple-ceo?utm_source=rss",
-      "pubDate": "2026-07-01T00:21:19.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "MacBook Ultra: Everything We Know About Apple's OLED Touchscreen Mac",
       "url": "https://www.macrumors.com/guide/macbook-ultra/",
       "pubDate": "2026-06-30T23:26:39.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Nanoleaf's New $80 Smart Ceiling Light Works With Matter and HomeKit",
-      "url": "https://www.macrumors.com/2026/06/30/nanoleaf-smart-ceiling-light/",
-      "pubDate": "2026-06-30T23:16:24.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Anthropic Launches Claude Sonnet 5 With Near-Opus Performance at a Lower Price",
-      "url": "https://www.macrumors.com/2026/06/30/anthropic-claude-sonnet-5/",
-      "pubDate": "2026-06-30T21:35:56.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPhone 18 Pro leaks: Qualcomm or Apple C2 model, A20 details, camera upgrades",
-      "url": "https://appleinsider.com/articles/26/06/30/iphone-18-pro-leaks-qualcomm-or-apple-c2-model-a20-details-camera-upgrades?utm_source=rss",
-      "pubDate": "2026-06-30T20:22:01.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Best Buy nabs retailer-exclusive Orange Beats Solo Buds",
-      "url": "https://appleinsider.com/articles/26/06/30/best-buy-nabs-retailer-exclusive-orange-beats-solo-buds?utm_source=rss",
-      "pubDate": "2026-06-30T20:16:54.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Beats Launches Solo Buds in Retailer-Exclusive Orange Color in the U.S. and Japan",
-      "url": "https://www.macrumors.com/2026/06/30/beats-solo-buds-orange-best-buy/",
-      "pubDate": "2026-06-30T18:59:27.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Now Sells Refurbished iPhone 16e Starting at $419",
-      "url": "https://www.macrumors.com/2026/06/30/apple-refurbished-iphone-16e/",
-      "pubDate": "2026-06-30T18:06:37.000Z"
     },
     {
       "source": "Six Colors",
@@ -365,13 +372,6 @@
       "title": "(Podcast) Upgrade 626: Unprecedented Weirdness",
       "url": "https://sixcolors.com/podcast/2026/06/upgrade-626-unprecedented-weirdness/",
       "pubDate": "2026-06-29T21:39:58.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "My credit card number? Sure! It’s 4242 4242 4242 4242",
-      "url": "https://sixcolors.com/post/2026/06/my-credit-card-number-sure-its-4242-4242-4242-4242/",
-      "pubDate": "2026-06-29T17:00:37.000Z"
     }
   ]
 }
