@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T16:40:31.844Z",
+  "generatedAt": "2026-07-01T19:12:45.658Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,62 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Elon Musk's SpaceX AI prototype is thinner than an iPhone",
+      "url": "https://appleinsider.com/articles/26/07/01/elon-musks-spacex-ai-prototype-is-thinner-than-an-iphone?utm_source=rss",
+      "pubDate": "2026-07-01T19:07:32.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "SpaceX developing AI hardware product that’s ‘slimmer than an iPhone,’ reports WSJ",
+      "url": "https://9to5mac.com/2026/07/01/spacex-developing-ai-hardware-product-thats-slimmer-than-an-iphone-reports-wsj/",
+      "pubDate": "2026-07-01T18:17:52.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple launches ‘How Did We Lose This World?’ site for Silo season 3",
+      "url": "https://9to5mac.com/2026/07/01/apple-launches-how-did-we-lose-this-world-site-for-silo-season-3/",
+      "pubDate": "2026-07-01T18:04:33.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Krafton settles with Subnautica 2 developer after drawn-out dispute over $250 million",
+      "url": "https://www.theverge.com/games/960354/krafton-subnautica-2-settlement-bonuses-unknown-worlds",
+      "pubDate": "2026-07-01T17:45:23.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Xbox testing disc-to-digital feature that digitizes a physical game collection",
+      "url": "https://www.theverge.com/report/960173/microsoft-xbox-disc-to-digital-feature-physical-game-collection",
+      "pubDate": "2026-07-01T17:41:23.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Google's Gemini Spark for macOS will work on your local Mac files",
+      "url": "https://appleinsider.com/articles/26/07/01/googles-gemini-spark-for-macos-will-work-on-your-local-mac-files?utm_source=rss",
+      "pubDate": "2026-07-01T17:27:30.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple TV teases major new sci-fi series: Neuromancer",
+      "url": "https://9to5mac.com/2026/07/01/apple-tv-teases-major-new-sci-fi-series-neuromancer/",
+      "pubDate": "2026-07-01T17:24:55.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "MLB app gives baseball fans a new iPhone and iPad real-time scores widget",
+      "url": "https://9to5mac.com/2026/07/01/mlb-app-gives-baseball-fans-a-new-iphone-and-ipad-real-time-scores-widget/",
+      "pubDate": "2026-07-01T17:16:31.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -145,6 +201,13 @@
     {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) The Rebound 605: I Don’t Want to Go to Tatooine",
+      "url": "https://sixcolors.com/podcast/2026/07/the-rebound-605-i-dont-want-to-go-to-tatooine/",
+      "pubDate": "2026-07-01T14:00:00.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
       "title": "Report: Security vulnerability makes Hide My Email not so anonymous ↦",
       "url": "https://sixcolors.com/link/2026/07/report-security-vulnerability-makes-hide-my-email-not-so-anonymous/",
       "pubDate": "2026-07-01T13:42:58.000Z"
@@ -178,32 +241,11 @@
       "pubDate": "2026-07-01T13:20:19.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Here’s everything new Apple TV has coming in July",
-      "url": "https://9to5mac.com/2026/07/01/heres-everything-new-apple-tv-has-coming-in-july-2/",
-      "pubDate": "2026-07-01T13:03:27.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Jamf launches Beacon premium threat hunting service for enterprise Mac fleets",
-      "url": "https://9to5mac.com/2026/07/01/jamf-launches-beacon-premium-threat-hunting-service-for-enterprise-mac-fleets/",
-      "pubDate": "2026-07-01T13:00:00.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Sony is closing the PS3 and Vita digital stores",
       "url": "https://www.theverge.com/games/960168/sony-playstation-ps3-vita-store-shut-down",
       "pubDate": "2026-07-01T12:37:52.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "The iPhone contributed to ‘a collapse in US fertility,’ claims scientific study",
-      "url": "https://9to5mac.com/2026/07/01/the-iphone-contributed-to-a-collapse-in-us-fertility-claims-scientific-study/",
-      "pubDate": "2026-07-01T12:27:21.000Z"
     },
     {
       "source": "AppleInsider",
@@ -234,32 +276,11 @@
       "pubDate": "2026-07-01T12:00:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "An accessibility paywall on Meta Glasses could be good news for Apple Glasses",
-      "url": "https://9to5mac.com/2026/07/01/an-accessibility-paywall-on-meta-glasses-could-be-good-news-for-apple-glasses/",
-      "pubDate": "2026-07-01T11:58:59.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Tim Cook Holds 'Constructive' Talks With EU Over Siri AI Launch",
       "url": "https://www.macrumors.com/2026/07/01/tim-cook-constructive-talks-eu-siri-ai-launch/",
       "pubDate": "2026-07-01T11:49:25.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Range anxiety",
-      "url": "https://www.theverge.com/cs/features/938196/rivian-r2-ev-factory-supply-chain",
-      "pubDate": "2026-07-01T11:00:02.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The cube was a lie: up close with our Dbrand Companion Cube before it gets destroyed",
-      "url": "https://www.theverge.com/games/959890/dbrand-companion-cube-photos-hands-on",
-      "pubDate": "2026-07-01T11:00:00.000Z"
     },
     {
       "source": "AppleInsider",
@@ -311,20 +332,6 @@
       "pubDate": "2026-06-30T18:59:27.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Amex cardholders can now use Membership Rewards during Apple Pay checkout",
-      "url": "https://appleinsider.com/articles/26/06/30/amex-cardholders-can-now-use-membership-rewards-during-apple-pay-checkout?utm_source=rss",
-      "pubDate": "2026-06-30T18:27:58.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "If you wanted more AI in Apple's Creator Studio, Tuesday's update gives it to you",
-      "url": "https://appleinsider.com/articles/26/06/30/if-you-wanted-more-ai-in-apples-creator-studio-tuesdays-update-gives-it-to-you?utm_source=rss",
-      "pubDate": "2026-06-30T18:08:09.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Now Sells Refurbished iPhone 16e Starting at $419",
@@ -365,13 +372,6 @@
       "title": "(Sponsor) Mojave Paint",
       "url": "https://sixcolors.com/sponsor/2026/06/mojave-paint-2/",
       "pubDate": "2026-06-26T18:00:49.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Level Lock founders and engineers kicked by parent company ↦",
-      "url": "https://sixcolors.com/link/2026/06/level-lock-founders-and-engineers-kicked-by-parent-company/",
-      "pubDate": "2026-06-26T18:00:46.000Z"
     }
   ]
 }
