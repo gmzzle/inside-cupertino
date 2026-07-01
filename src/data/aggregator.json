@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T10:49:05.995Z",
+  "generatedAt": "2026-07-01T13:41:05.240Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,6 +24,125 @@
   ],
   "items": [
     {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone 18 Pro to offer only these three colors, per leaker",
+      "url": "https://9to5mac.com/2026/07/01/iphone-18-pro-to-offer-only-these-three-colors-per-leaker/",
+      "pubDate": "2026-07-01T13:40:09.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Last Chance: Get the 2026 MacBook Pro and iPad Air for Pre-Hike Prices Before They're Gone for Good",
+      "url": "https://www.macrumors.com/2026/07/01/last-chance-macbook-pro-ipad-air/",
+      "pubDate": "2026-07-01T13:36:49.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Hide My Email bug seemingly allows 100% of real email addresses to be discovered",
+      "url": "https://9to5mac.com/2026/07/01/apple-hide-my-email-bug-seemingly-allows-100-of-real-email-addresses-to-be-discovered/",
+      "pubDate": "2026-07-01T13:24:15.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Hide My Email Vulnerability Exposes Real Email Addresses",
+      "url": "https://www.macrumors.com/2026/07/01/hide-my-email-vulnerability-exposes-real-addresses/",
+      "pubDate": "2026-07-01T13:20:19.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Here’s everything new Apple TV has coming in July",
+      "url": "https://9to5mac.com/2026/07/01/heres-everything-new-apple-tv-has-coming-in-july-2/",
+      "pubDate": "2026-07-01T13:03:27.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Jamf launches Beacon premium threat hunting service for enterprise Mac fleets",
+      "url": "https://9to5mac.com/2026/07/01/jamf-launches-beacon-premium-threat-hunting-service-for-enterprise-mac-fleets/",
+      "pubDate": "2026-07-01T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Sony is closing the PS3 and Vita digital stores",
+      "url": "https://www.theverge.com/games/960168/sony-playstation-ps3-vita-store-shut-down",
+      "pubDate": "2026-07-01T12:37:52.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "The iPhone contributed to ‘a collapse in US fertility,’ claims scientific study",
+      "url": "https://9to5mac.com/2026/07/01/the-iphone-contributed-to-a-collapse-in-us-fertility-claims-scientific-study/",
+      "pubDate": "2026-07-01T12:27:21.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple hasn't fixed a Hide My Email privacy bug in over a year",
+      "url": "https://appleinsider.com/articles/26/07/01/apple-hasnt-fixed-a-hide-my-email-privacy-bug-in-over-a-year?utm_source=rss",
+      "pubDate": "2026-07-01T12:20:45.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Sony is killing all physical PlayStation game discs",
+      "url": "https://www.theverge.com/games/960160/sony-playstation-disc-production-ending",
+      "pubDate": "2026-07-01T12:15:13.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Google built a great smart speaker, but Gemini isn’t ready for it",
+      "url": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
+      "pubDate": "2026-07-01T12:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Rhythm Heaven never misses a beat",
+      "url": "https://www.theverge.com/entertainment/959757/rhythm-heaven-groove-review-nintendo-switch",
+      "pubDate": "2026-07-01T12:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "An accessibility paywall on Meta Glasses could be good news for Apple Glasses",
+      "url": "https://9to5mac.com/2026/07/01/an-accessibility-paywall-on-meta-glasses-could-be-good-news-for-apple-glasses/",
+      "pubDate": "2026-07-01T11:58:59.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Tim Cook Holds 'Constructive' Talks With EU Over Siri AI Launch",
+      "url": "https://www.macrumors.com/2026/07/01/tim-cook-constructive-talks-eu-siri-ai-launch/",
+      "pubDate": "2026-07-01T11:49:25.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Would a sleeker Apple Watch design justify losing band compatibility? [Poll]",
+      "url": "https://9to5mac.com/2026/07/01/would-a-sleeker-apple-watch-design-justify-losing-band-compatibility-poll/",
+      "pubDate": "2026-07-01T11:05:05.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Range anxiety",
+      "url": "https://www.theverge.com/cs/features/938196/rivian-r2-ev-factory-supply-chain",
+      "pubDate": "2026-07-01T11:00:02.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The cube was a lie: up close with our Dbrand Companion Cube before it gets destroyed",
+      "url": "https://www.theverge.com/games/959890/dbrand-companion-cube-photos-hands-on",
+      "pubDate": "2026-07-01T11:00:00.000Z"
+    },
+    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Fujifilm launches two new QuickSnap cameras because Gen Z can&#8217;t get enough",
@@ -47,7 +166,7 @@
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
-      "title": "Claude Fable 5 cleared to return as US lifts Anthropic’s export control restriction",
+      "title": "Claude Fable 5 cleared to return as US lifts Anthropic’s export control restriction [U]",
       "url": "https://9to5mac.com/2026/06/30/claude-fable-5-cleared-to-return-as-us-lifts-anthropics-export-control-restriction/",
       "pubDate": "2026-07-01T00:24:11.000Z"
     },
@@ -87,13 +206,6 @@
       "pubDate": "2026-06-30T23:16:24.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Dish files for bankruptcy, but is not shutting down",
-      "url": "https://www.theverge.com/tech/959894/dish-chapter-11-bankruptcy",
-      "pubDate": "2026-06-30T22:46:52.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "9to5Mac Daily: June 30, 2026 – iPhone 18 and Ultra rumors, more",
@@ -122,41 +234,6 @@
       "pubDate": "2026-06-30T21:33:45.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Amazon fined $2.25 million for failing to help identity theft victims",
-      "url": "https://www.theverge.com/tech/959847/amazon-ftc-identity-theft-fine",
-      "pubDate": "2026-06-30T21:20:01.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Maps is currently down for some users [U: Fixed]",
-      "url": "https://9to5mac.com/2026/06/30/apple-maps-is-currently-down-for-some-users/",
-      "pubDate": "2026-06-30T21:04:44.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Gemini Spark rolling out to macOS app for local tasks, automation",
-      "url": "https://9to5google.com/2026/06/30/gemini-spark-mac-app/",
-      "pubDate": "2026-06-30T20:44:39.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "MacBook Ultra could be very good news for MacBook Pro users",
-      "url": "https://9to5mac.com/2026/06/30/macbook-ultra-could-be-very-good-news-for-macbook-pro-users/",
-      "pubDate": "2026-06-30T20:42:48.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "This iconic iPhone design will get closer to retirement with iPhone 18 Pro",
-      "url": "https://9to5mac.com/2026/06/30/this-iconic-iphone-design-will-get-closer-to-retirement-with-iphone-18-pro/",
-      "pubDate": "2026-06-30T20:22:58.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "iPhone 18 Pro leaks: Qualcomm or Apple C2 model, A20 details, camera upgrades",
@@ -171,34 +248,6 @@
       "pubDate": "2026-06-30T20:16:54.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Threads adds translation to Live Chats and expands chat creation to more users",
-      "url": "https://9to5mac.com/2026/06/30/threads-adds-translation-to-live-chats-and-expands-chat-creation-to-more-users/",
-      "pubDate": "2026-06-30T20:11:56.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Acer&#8217;s Swift Go 16 is a lot of laptop for $900",
-      "url": "https://www.theverge.com/gadgets/959687/acer-swift-go-16-ai-deal-sale",
-      "pubDate": "2026-06-30T20:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Family Feud Pocket lands on Apple Arcade, with 4 more games coming later this week",
-      "url": "https://9to5mac.com/2026/06/30/family-feud-pocket-lands-on-apple-arcade-with-4-more-games-coming-later-this-week/",
-      "pubDate": "2026-06-30T19:43:57.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
-      "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
-      "pubDate": "2026-06-30T19:24:51.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Beats Launches Solo Buds in Retailer-Exclusive Orange Color in the U.S. and Japan",
@@ -206,25 +255,11 @@
       "pubDate": "2026-06-30T18:59:27.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "LG’s 27-inch Tandem OLED gaming monitor is cheaper than ever",
-      "url": "https://www.theverge.com/gadgets/906880/lg-ultragear-tandem-oled-1440p-gaming-monitor-deal-sale",
-      "pubDate": "2026-06-30T18:42:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Amex cardholders can now use Membership Rewards during Apple Pay checkout",
       "url": "https://appleinsider.com/articles/26/06/30/amex-cardholders-can-now-use-membership-rewards-during-apple-pay-checkout?utm_source=rss",
       "pubDate": "2026-06-30T18:27:58.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "007 First Light&#8217;s developer lays off staff but claims its next franchise will continue",
-      "url": "https://www.theverge.com/games/959713/io-interactive-project-fantasy-layoffs",
-      "pubDate": "2026-06-30T18:14:05.000Z"
     },
     {
       "source": "AppleInsider",
@@ -246,13 +281,6 @@
       "title": "Amazon's $99 AirPods 4 deal is still in stock with month-end savings",
       "url": "https://appleinsider.com/articles/26/06/30/amazons-99-airpods-4-month-end-deal-is-still-in-stock?utm_source=rss",
       "pubDate": "2026-06-30T18:00:03.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Anthropic upgrades Claude with new Sonnet 5 model, details here",
-      "url": "https://9to5mac.com/2026/06/30/anthropic-upgrades-claude-with-new-sonnet-5-model-details-here/",
-      "pubDate": "2026-06-30T17:57:51.000Z"
     },
     {
       "source": "MacRumors",
@@ -297,13 +325,6 @@
       "pubDate": "2026-06-30T17:27:02.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Creator Studio Gets New AI Features",
-      "url": "https://www.macrumors.com/2026/06/30/apple-creator-studio-gets-new-ai-features/",
-      "pubDate": "2026-06-30T17:21:51.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Stop us if you've heard this before: Apple Watch redesign will have new band attachment points",
@@ -316,27 +337,6 @@
       "title": "New AirDrop security flaws are significant, but aren't a giant threat",
       "url": "https://appleinsider.com/articles/26/06/30/new-airdrop-security-flaws-are-significant-but-arent-a-giant-threat?utm_source=rss",
       "pubDate": "2026-06-30T16:39:19.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Report: Apple Watch Redesign Coming Next Year With New Band System",
-      "url": "https://www.macrumors.com/2026/06/30/apple-watch-redesign-coming-next-year/",
-      "pubDate": "2026-06-30T15:45:44.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Proton Lumo 2.0 Adds Image Generation, Memory, Stronger Web Search",
-      "url": "https://www.macrumors.com/2026/06/30/proton-lumo-version-2-new-features/",
-      "pubDate": "2026-06-30T14:52:20.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple Music's billions of streams, billions of dollars in fines, and one failure",
-      "url": "https://appleinsider.com/articles/25/06/30/apple-musics-ten-years-billions-of-dollars-in-fines-and-one-failure?utm_source=rss",
-      "pubDate": "2026-06-30T14:14:39.000Z"
     },
     {
       "source": "Six Colors",
