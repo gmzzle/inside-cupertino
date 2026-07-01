@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T01:33:07.481Z",
+  "generatedAt": "2026-07-01T06:45:14.064Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -339,13 +339,6 @@
       "pubDate": "2026-06-30T14:14:39.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Save $450 on Apple's M5 Pro 14-inch MacBook Pro with 2TB SSD",
-      "url": "https://appleinsider.com/articles/26/06/30/save-450-on-apples-m5-pro-14-inch-macbook-pro-with-2tb-ssd?utm_source=rss",
-      "pubDate": "2026-06-30T14:04:29.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) Upgrade 626: Unprecedented Weirdness",
@@ -372,6 +365,13 @@
       "title": "Level Lock founders and engineers kicked by parent company ↦",
       "url": "https://sixcolors.com/link/2026/06/level-lock-founders-and-engineers-kicked-by-parent-company/",
       "pubDate": "2026-06-26T18:00:46.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Apple should free the macOS icons from squircle jail ↦",
+      "url": "https://sixcolors.com/link/2026/06/apple-should-free-the-macos-icons-from-squircle-jail/",
+      "pubDate": "2026-06-26T17:59:15.000Z"
     }
   ]
 }
