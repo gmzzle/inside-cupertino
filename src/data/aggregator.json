@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T15:31:14.254Z",
+  "generatedAt": "2026-07-02T18:02:20.316Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,69 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Car Keys in Apple Wallet coming to major new vehicle brand: report",
+      "url": "https://9to5mac.com/2026/07/02/car-keys-in-apple-wallet-coming-to-major-new-vehicle-brand-report/",
+      "pubDate": "2026-07-02T17:52:56.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "VW Planning to Offer Apple Wallet Car Keys on iPhone",
+      "url": "https://www.macrumors.com/2026/07/02/vw-planning-apple-wallet-car-keys/",
+      "pubDate": "2026-07-02T17:09:56.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "EveryMac turns 30 ↦",
+      "url": "https://sixcolors.com/link/2026/07/everymac-turns-30/",
+      "pubDate": "2026-07-02T16:49:38.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 public beta release date: When you can install the new iPhone update",
+      "url": "https://9to5mac.com/2026/07/02/ios-27-public-beta-release-date-when-you-can-install-the-new-iphone-update/",
+      "pubDate": "2026-07-02T16:46:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The video game disc is dead",
+      "url": "https://www.theverge.com/podcast/960810/video-game-disc-dead-vergecast",
+      "pubDate": "2026-07-02T16:31:09.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iPhone 18 Pro rumor recycles claims of slower SSD on high capacity models",
+      "url": "https://appleinsider.com/articles/26/07/02/iphone-18-pro-rumor-recycles-claims-of-slower-ssd-on-high-capacity-models?utm_source=rss",
+      "pubDate": "2026-07-02T16:30:51.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone 18 Pro Could Use Qualcomm Modem in the US and C2 Elsewhere",
+      "url": "https://www.macrumors.com/2026/07/02/iphone-18-pro-could-use-qualcomm-modem-in-the-us/",
+      "pubDate": "2026-07-02T16:15:41.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Influencer screenings aren’t going away",
+      "url": "https://www.theverge.com/entertainment/960260/the-odyssey-christopher-nolan-influencers-screenings",
+      "pubDate": "2026-07-02T15:50:26.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone 18 Pro Max’s huge battery size reportedly leaked",
+      "url": "https://9to5mac.com/2026/07/02/iphone-18-pro-maxs-huge-battery-size-reportedly-leaked/",
+      "pubDate": "2026-07-02T15:42:24.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -206,13 +269,6 @@
       "pubDate": "2026-07-02T04:24:35.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple to ask court to halt Epic Games proceedings pending Supreme Court ruling",
-      "url": "https://9to5mac.com/2026/07/01/apple-to-ask-court-to-halt-epic-games-proceedings-pending-supreme-court-ruling/",
-      "pubDate": "2026-07-02T01:52:31.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Steve Jobs' Bicentennial check captures the birth of Apple and the PC revolution",
@@ -234,13 +290,6 @@
       "pubDate": "2026-07-01T23:35:17.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: July 1, 2026 – iOS 26.5.2 and Apple’s new update strategy",
-      "url": "https://9to5mac.com/2026/07/01/daily-july-1-2026/",
-      "pubDate": "2026-07-01T23:18:42.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Apple’s entry-level MacBook Pro could be up for a redesign",
@@ -248,25 +297,11 @@
       "pubDate": "2026-07-01T22:39:43.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Russia threatens Apple with $52 million fine over alleged app discrimination",
-      "url": "https://9to5mac.com/2026/07/01/russia-threatens-apple-with-52-million-fine-over-alleged-app-discrimination/",
-      "pubDate": "2026-07-01T22:30:02.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "iPhone Fold expected to take 29% of 2026 foldable phone screen orders",
       "url": "https://appleinsider.com/articles/26/07/01/iphone-fold-expected-to-take-29-of-2026-foldable-phone-screen-orders?utm_source=rss",
       "pubDate": "2026-07-01T22:08:03.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The funeral for PlayStation discs has begun",
-      "url": "https://www.theverge.com/games/960476/playstation-physical-games-discs-stop-production-preservation-retail-stores",
-      "pubDate": "2026-07-01T22:03:37.000Z"
     },
     {
       "source": "AppleInsider",
@@ -304,27 +339,6 @@
       "pubDate": "2026-07-01T21:12:07.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "M6 MacBook Pro Coming in Late 2026, Redesigned M7 Model Launching in 1H 2027",
-      "url": "https://www.macrumors.com/2026/07/01/redesigned-m7-macbook-pro-2027/",
-      "pubDate": "2026-07-01T21:12:03.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Releases Safari Technology Preview 247 With MCP Server for AI Agent Integration",
-      "url": "https://www.macrumors.com/2026/07/01/apple-releases-safari-technology-preview-247/",
-      "pubDate": "2026-07-01T21:11:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Xbox’s ‘reset’: all the news about Microsoft&#8217;s looming layoffs and studio closures",
-      "url": "https://www.theverge.com/games/959900/xbox-reset-layoffs-studio-closures",
-      "pubDate": "2026-07-01T21:00:00.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) Clockwise 663: Fear-Based Approach",
@@ -337,13 +351,6 @@
       "title": "Google's Gemini Spark for macOS will work on your local Mac files",
       "url": "https://appleinsider.com/articles/26/07/01/googles-gemini-spark-for-macos-will-work-on-your-local-mac-files?utm_source=rss",
       "pubDate": "2026-07-01T17:27:30.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Save up to $400 on Apple's iPad Air, iPad Pro this July",
-      "url": "https://appleinsider.com/articles/26/07/01/save-up-to-400-on-apples-ipad-air-ipad-pro-this-july?utm_source=rss",
-      "pubDate": "2026-07-01T15:52:45.000Z"
     },
     {
       "source": "Six Colors",
@@ -365,13 +372,6 @@
       "title": "Apple brings forward 26.6 security fixes into 26.5.2 update ↦",
       "url": "https://sixcolors.com/link/2026/06/apple-brings-forward-26-6-security-fixes-into-26-5-1-update/",
       "pubDate": "2026-06-30T17:32:22.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) Upgrade 626: Unprecedented Weirdness",
-      "url": "https://sixcolors.com/podcast/2026/06/upgrade-626-unprecedented-weirdness/",
-      "pubDate": "2026-06-29T21:39:58.000Z"
     }
   ]
 }
