@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T06:10:16.546Z",
+  "generatedAt": "2026-07-02T09:33:26.235Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Amazon has enough satellites to launch its Starlink competitor",
+      "url": "https://www.theverge.com/science/960563/amazon-leo-service-tipping-point",
+      "pubDate": "2026-07-02T09:13:39.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Opera’s new Paste Protect feature blocks suspicious commands copied from websites",
+      "url": "https://9to5mac.com/2026/07/02/operas-new-paste-protect-feature-blocks-suspicious-commands-copied-from-websites/",
+      "pubDate": "2026-07-02T08:00:00.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -227,13 +241,6 @@
       "pubDate": "2026-07-01T19:35:44.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "SpaceX developing AI hardware product that’s ‘slimmer than an iPhone,’ reports WSJ",
-      "url": "https://9to5mac.com/2026/07/01/spacex-developing-ai-hardware-product-thats-slimmer-than-an-iphone-reports-wsj/",
-      "pubDate": "2026-07-01T18:17:52.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Krafton settles with Subnautica 2 developer after drawn-out dispute over $250 million",
@@ -301,13 +308,6 @@
       "sourceHomepage": "https://www.theverge.com",
       "title": "The best Switch 2 case I’ve tried is cheaper than usual",
       "url": "https://www.theverge.com/gadgets/960185/dbrand-killswitch-switch-2-deal-sale",
-      "pubDate": "2026-07-01T15:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Sony is killing discs — and showing us why it’s a terrible idea",
-      "url": "https://www.theverge.com/games/960212/sony-playstation-killing-discs-digital-preservation",
       "pubDate": "2026-07-01T15:00:00.000Z"
     },
     {
