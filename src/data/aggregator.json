@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T09:33:26.235Z",
+  "generatedAt": "2026-07-02T12:21:36.741Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,83 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "MacBook Pro models sharing the MacBook Ultra redesign is, and isn’t, surprising",
+      "url": "https://9to5mac.com/2026/07/02/macbook-pro-models-sharing-the-macbook-ultra-redesign-is-and-isnt-surprising/",
+      "pubDate": "2026-07-02T12:16:51.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Gorgeous shots winning 2026 iPhone Photography Awards show old models still cut it",
+      "url": "https://appleinsider.com/articles/26/07/02/gorgeous-shots-winning-2026-iphone-photography-awards-show-old-models-still-cut-it?utm_source=rss",
+      "pubDate": "2026-07-02T12:14:54.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Mystery box shows are complicated for everyone — even the actors",
+      "url": "https://www.theverge.com/entertainment/960265/silo-season-3-apple-tv-interview-mystery-box",
+      "pubDate": "2026-07-02T12:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Most Americans would ban social media for under-16s, with parents the most vocal",
+      "url": "https://9to5mac.com/2026/07/02/most-americans-would-ban-social-media-for-under-16s-with-parents-the-most-vocal/",
+      "pubDate": "2026-07-02T11:40:10.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone Photography Awards Highlight Best Images of 2026",
+      "url": "https://www.macrumors.com/2026/07/02/iphone-photography-awards-winners-revealed-2026/",
+      "pubDate": "2026-07-02T11:39:23.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Confident Apple increases its iPhone Fold orders to 10 million",
+      "url": "https://appleinsider.com/articles/26/07/02/confident-apple-increases-its-iphone-fold-orders-to-10-million?utm_source=rss",
+      "pubDate": "2026-07-02T11:33:49.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Popular Show Tracking App TV Time Shutting Down on July 15",
+      "url": "https://www.macrumors.com/2026/07/02/show-tracking-app-tv-time-shutting-down/",
+      "pubDate": "2026-07-02T11:05:06.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "BitTorrent&#8217;s disastrous, legendary, and controversial story",
+      "url": "https://www.theverge.com/tech/959848/bittorrent-story-25-years-piracy",
+      "pubDate": "2026-07-02T11:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Check out all the winning shots in the 2026 iPhone Photography Awards",
+      "url": "https://9to5mac.com/2026/07/02/check-out-all-the-winning-shots-in-the-2026-iphone-photography-awards/",
+      "pubDate": "2026-07-02T10:54:09.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
+      "pubDate": "2026-07-02T10:23:27.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Ramps Foldable iPhone 'Ultra' Production to 10 Million Units",
+      "url": "https://www.macrumors.com/2026/07/02/apple-ramps-foldable-iphone-ultra-production-10m/",
+      "pubDate": "2026-07-02T10:05:03.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -213,32 +290,11 @@
       "pubDate": "2026-07-01T20:10:21.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Report: MacBook price hikes expected to contribute to 13.6% drop in global laptop shipments",
-      "url": "https://9to5mac.com/2026/07/01/report-macbook-price-hikes-expected-to-contribute-to-13-6-drop-in-global-laptop-shipments/",
-      "pubDate": "2026-07-01T20:01:39.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) Clockwise 663: Fear-Based Approach",
       "url": "https://sixcolors.com/podcast/2026/07/clockwise-663-fear-based-approach/",
       "pubDate": "2026-07-01T19:54:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "The New York Times app adopts Liquid Glass on iPhone",
-      "url": "https://9to5mac.com/2026/07/01/the-new-york-times-app-adopts-liquid-glass-on-iphone/",
-      "pubDate": "2026-07-01T19:36:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Claude Fable 5 cleared to return as US lifts Anthropic’s export control restriction [U: Now available]",
-      "url": "https://9to5mac.com/2026/07/01/claude-fable-5-cleared-to-return-as-us-lifts-anthropics-export-control-restriction/",
-      "pubDate": "2026-07-01T19:35:44.000Z"
     },
     {
       "source": "The Verge",
@@ -262,13 +318,6 @@
       "pubDate": "2026-07-01T17:27:30.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "My favorite Kindle alternative is $30 off after a recent price increase",
-      "url": "https://www.theverge.com/gadgets/960282/kobo-libra-colour-july-fourth-sale-deal-sale",
-      "pubDate": "2026-07-01T16:28:40.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Google Gemini Spark Comes to Mac With Local File Automation",
@@ -290,46 +339,11 @@
       "pubDate": "2026-07-01T15:43:14.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Comcast’s split could make or break Peacock",
-      "url": "https://www.theverge.com/streaming/960235/comcast-breakup-peacock-streaming",
-      "pubDate": "2026-07-01T15:30:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iOS 27 Adds a Useful New Copy-and-Paste Feature to Your iPhone",
       "url": "https://www.macrumors.com/2026/07/01/ios-27-new-copy-and-paste-feature/",
       "pubDate": "2026-07-01T15:05:44.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The best Switch 2 case I’ve tried is cheaper than usual",
-      "url": "https://www.theverge.com/gadgets/960185/dbrand-killswitch-switch-2-deal-sale",
-      "pubDate": "2026-07-01T15:00:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Researchers scapegoat iPhone for declining US birthrates",
-      "url": "https://appleinsider.com/articles/26/07/01/researchers-scapegoat-iphone-for-declining-us-birthrates?utm_source=rss",
-      "pubDate": "2026-07-01T14:29:30.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Has Reportedly Cut iPhone 17 Lineup Production",
-      "url": "https://www.macrumors.com/2026/07/01/apple-has-cut-iphone-17-production/",
-      "pubDate": "2026-07-01T14:13:49.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "New Jamf Beacon gives businesses active Mac threat hunting",
-      "url": "https://appleinsider.com/articles/26/07/01/new-jamf-beacon-gives-businesses-active-mac-threat-hunting?utm_source=rss",
-      "pubDate": "2026-07-01T14:09:51.000Z"
     },
     {
       "source": "Six Colors",
@@ -344,20 +358,6 @@
       "title": "Report: Security vulnerability makes Hide My Email not so anonymous ↦",
       "url": "https://sixcolors.com/link/2026/07/report-security-vulnerability-makes-hide-my-email-not-so-anonymous/",
       "pubDate": "2026-07-01T13:42:58.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Last Chance: Get the 2026 MacBook Pro and iPad Air for Pre-Hike Prices Before They're Gone for Good",
-      "url": "https://www.macrumors.com/2026/07/01/last-chance-macbook-pro-ipad-air/",
-      "pubDate": "2026-07-01T13:36:49.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Hide My Email Vulnerability Exposes Real Email Addresses",
-      "url": "https://www.macrumors.com/2026/07/01/hide-my-email-vulnerability-exposes-real-addresses/",
-      "pubDate": "2026-07-01T13:20:19.000Z"
     },
     {
       "source": "Six Colors",
