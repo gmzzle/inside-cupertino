@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T22:40:48.111Z",
+  "generatedAt": "2026-07-02T01:25:31.075Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Steve Jobs' Bicentennial check captures the birth of Apple and the PC revolution",
+      "url": "https://appleinsider.com/articles/26/07/02/steve-jobs-bicentennial-check-captures-the-birth-of-apple-and-the-pc-revolution?utm_source=rss",
+      "pubDate": "2026-07-02T01:23:50.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iOS 27: All the New Apple Maps Features",
+      "url": "https://www.macrumors.com/guide/ios-27-maps/",
+      "pubDate": "2026-07-01T23:46:42.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Anthropic's Claude Fable 5 Available Again After U.S. Lifts Export Controls",
+      "url": "https://www.macrumors.com/2026/07/01/anthropic-fable-5-relaunch/",
+      "pubDate": "2026-07-01T23:35:17.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: July 1, 2026 – iOS 26.5.2 and Apple’s new update strategy",
+      "url": "https://9to5mac.com/2026/07/01/daily-july-1-2026/",
+      "pubDate": "2026-07-01T23:18:42.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -227,13 +255,6 @@
       "pubDate": "2026-07-01T17:24:55.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "MLB app gives baseball fans a new iPhone and iPad real-time scores widget",
-      "url": "https://9to5mac.com/2026/07/01/mlb-app-gives-baseball-fans-a-new-iphone-and-ipad-real-time-scores-widget/",
-      "pubDate": "2026-07-01T17:16:31.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "My favorite Kindle alternative is $30 off after a recent price increase",
@@ -346,32 +367,11 @@
       "pubDate": "2026-07-01T12:20:45.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Tim Cook Holds 'Constructive' Talks With EU Over Siri AI Launch",
-      "url": "https://www.macrumors.com/2026/07/01/tim-cook-constructive-talks-eu-siri-ai-launch/",
-      "pubDate": "2026-07-01T11:49:25.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "MacBook Ultra: Everything We Know About Apple's OLED Touchscreen Mac",
-      "url": "https://www.macrumors.com/guide/macbook-ultra/",
-      "pubDate": "2026-06-30T23:26:39.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Apple brings forward 26.6 security fixes into 26.5.2 update ↦",
       "url": "https://sixcolors.com/link/2026/06/apple-brings-forward-26-6-security-fixes-into-26-5-1-update/",
       "pubDate": "2026-06-30T17:32:22.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) Upgrade 626: Unprecedented Weirdness",
-      "url": "https://sixcolors.com/podcast/2026/06/upgrade-626-unprecedented-weirdness/",
-      "pubDate": "2026-06-29T21:39:58.000Z"
     }
   ]
 }
