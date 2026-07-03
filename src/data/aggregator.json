@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T11:00:35.538Z",
+  "generatedAt": "2026-07-03T13:12:49.580Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,11 +24,67 @@
   ],
   "items": [
     {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The Verge’s annual summer ‘in’ and ‘out’ list",
+      "url": "https://www.theverge.com/entertainment/960665/the-verge-2026-summer-in-out-list",
+      "pubDate": "2026-07-03T13:00:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Siri AI is finally good, and Apple is going to win the AI wars",
+      "url": "https://appleinsider.com/articles/26/07/03/siri-ai-is-finally-good-and-apple-is-going-to-with-the-ai-wars?utm_source=rss",
+      "pubDate": "2026-07-03T12:50:18.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Apple TV is hitting its stride",
+      "url": "https://www.theverge.com/entertainment/960985/apple-tv-hits-2026",
+      "pubDate": "2026-07-03T12:00:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple Watch Series 12 may get new health sensor in its band",
+      "url": "https://appleinsider.com/articles/26/07/03/apple-watch-series-12-may-get-new-health-sensor-in-its-band?utm_source=rss",
+      "pubDate": "2026-07-03T11:53:39.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
+      "pubDate": "2026-07-03T11:49:10.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "All of the best 4th of July deals on Apple gear, accessories, OLED TVs, and much more",
+      "url": "https://9to5mac.com/2026/07/03/all-best-4th-of-july-deals-apple/",
+      "pubDate": "2026-07-03T11:19:13.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "AirPods with Cameras won't be coming any time soon after all",
+      "url": "https://appleinsider.com/articles/26/07/03/airpods-with-cameras-wont-be-coming-any-time-soon-after-all?utm_source=rss",
+      "pubDate": "2026-07-03T11:03:53.000Z"
+    },
+    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Camera-Equipped AirPods Pro Development 'Suspended,' Leaker Claims",
       "url": "https://www.macrumors.com/2026/07/03/camera-airpods-pro-development-suspended-leaker/",
       "pubDate": "2026-07-03T10:12:53.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: July 3, 2026 – Apple Creator Studio updates, more",
+      "url": "https://9to5mac.com/2026/07/03/daily-july-3-2026/",
+      "pubDate": "2026-07-03T10:00:00.000Z"
     },
     {
       "source": "AppleInsider",
@@ -178,20 +234,6 @@
       "pubDate": "2026-07-02T20:15:45.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "CarPlay in iOS 26 added new setting that should have always existed",
-      "url": "https://9to5mac.com/2026/07/02/carplay-in-ios-26-added-new-setting-that-should-have-always-existed/",
-      "pubDate": "2026-07-02T19:51:30.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Arcade gets four new games, including Pocket City 2+",
-      "url": "https://9to5mac.com/2026/07/02/apple-arcade-gets-four-new-games-including-pocket-city-2/",
-      "pubDate": "2026-07-02T19:47:55.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Best 4th of July Apple deals: $89 AirTags, iPads up to $400 off, Macs up to $650 off",
@@ -262,27 +304,6 @@
       "pubDate": "2026-07-02T15:20:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Godox’s feature-packed key light is down to its best price yet",
-      "url": "https://www.theverge.com/gadgets/960664/godox-key-light-elgato-insta360-deal-sale",
-      "pubDate": "2026-07-02T15:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Tesla&#8217;s Q2 sales jump 25 percent",
-      "url": "https://www.theverge.com/transportation/957685/tesla-q2-2026-sales-production-delivery-report",
-      "pubDate": "2026-07-02T14:14:48.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "AI won’t save advertising, says Digitas’ Amy Lanzi",
-      "url": "https://www.theverge.com/podcast/959792/digitas-ceo-amy-lanzi-cannes-ad-industry-marketing-ai-creators",
-      "pubDate": "2026-07-02T14:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "AirTag 2 Still Available for Best-Ever Price of $89 for 4-Pack",
@@ -311,25 +332,11 @@
       "pubDate": "2026-07-02T12:40:52.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Gorgeous shots winning 2026 iPhone Photography Awards show old models still cut it",
-      "url": "https://appleinsider.com/articles/26/07/02/gorgeous-shots-winning-2026-iphone-photography-awards-show-old-models-still-cut-it?utm_source=rss",
-      "pubDate": "2026-07-02T12:14:54.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iPhone Photography Awards Highlight Best Images of 2026",
       "url": "https://www.macrumors.com/2026/07/02/iphone-photography-awards-winners-revealed-2026/",
       "pubDate": "2026-07-02T11:39:23.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Confident Apple increases its iPhone Fold orders to 10 million",
-      "url": "https://appleinsider.com/articles/26/07/02/confident-apple-increases-its-iphone-fold-orders-to-10-million?utm_source=rss",
-      "pubDate": "2026-07-02T11:33:49.000Z"
     },
     {
       "source": "MacRumors",
@@ -365,13 +372,6 @@
       "title": "Apple brings forward 26.6 security fixes into 26.5.2 update ↦",
       "url": "https://sixcolors.com/link/2026/06/apple-brings-forward-26-6-security-fixes-into-26-5-1-update/",
       "pubDate": "2026-06-30T17:32:22.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) Upgrade 626: Unprecedented Weirdness",
-      "url": "https://sixcolors.com/podcast/2026/06/upgrade-626-unprecedented-weirdness/",
-      "pubDate": "2026-06-29T21:39:58.000Z"
     }
   ]
 }
