@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T19:50:26.667Z",
+  "generatedAt": "2026-07-03T21:32:43.322Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Which iPad is right for you? Here’s what Apple has to say",
+      "url": "https://9to5mac.com/2026/07/03/which-ipad-is-right-for-you/",
+      "pubDate": "2026-07-03T20:55:07.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -71,6 +78,13 @@
       "title": "Stop previews from autoplaying on Apple TV",
       "url": "https://sixcolors.com/post/2026/07/stop-previews-from-autoplaying-on-apple-tv/",
       "pubDate": "2026-07-03T16:00:14.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "We really need a way to hand over ownership of an Apple Home",
+      "url": "https://9to5mac.com/2026/07/03/we-really-need-a-way-to-hand-over-ownership-of-an-apple-home/",
+      "pubDate": "2026-07-03T16:00:00.000Z"
     },
     {
       "source": "MacRumors",
@@ -316,20 +330,6 @@
       "title": "iPhone Fold could help raise average foldable phone prices by 18%, per report",
       "url": "https://9to5mac.com/2026/07/02/iphone-fold-could-help-raise-average-foldable-phone-prices-by-18-per-report/",
       "pubDate": "2026-07-02T20:54:29.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple’s stock recovers after hit from unprecedented price hikes on products",
-      "url": "https://9to5mac.com/2026/07/02/apples-stock-recovers-after-hit-from-unprecedented-price-hikes-on-products/",
-      "pubDate": "2026-07-02T20:19:40.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "New iFixit video shows how an iPhone battery is made",
-      "url": "https://9to5mac.com/2026/07/02/new-ifixit-video-shows-how-an-iphone-battery-is-made/",
-      "pubDate": "2026-07-02T20:15:56.000Z"
     },
     {
       "source": "MacRumors",
