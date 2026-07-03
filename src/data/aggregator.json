@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T23:30:33.642Z",
+  "generatedAt": "2026-07-03T04:09:58.658Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,55 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple says public YouTube videos can be used in AI lawsuit defense",
+      "url": "https://appleinsider.com/articles/26/07/03/apple-says-public-youtube-videos-can-be-used-in-ai-lawsuit-defense?utm_source=rss",
+      "pubDate": "2026-07-03T03:23:40.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Prosser denies conspiring to steal Apple secrets in lawsuit response, blames Ramacciotti",
+      "url": "https://9to5mac.com/2026/07/02/prosser-denies-conspiring-to-steal-apple-secrets-in-lawsuit-response-blames-ramacciotti/",
+      "pubDate": "2026-07-03T02:54:16.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Responds to Lawsuit Filed by Three YouTube Channels",
+      "url": "https://www.macrumors.com/2026/07/02/apple-responds-to-youtuber-ai-lawsuit/",
+      "pubDate": "2026-07-03T02:47:37.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "YouTuber Jon Prosser Responds to Apple's Lawsuit Over iOS 26 Leaks",
+      "url": "https://www.macrumors.com/2026/07/02/jon-prosser-responds-to-apple-leaks-lawsuit/",
+      "pubDate": "2026-07-03T01:42:05.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Sony’s PlayStation disc factory is already being repurposed",
+      "url": "https://www.theverge.com/games/961203/sony-austria-thalgau-end-disc-production-microlenses-instead",
+      "pubDate": "2026-07-03T01:05:13.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Silo season three is streaming today on Apple TV",
+      "url": "https://9to5mac.com/2026/07/02/apple-tv-silo-season-three/",
+      "pubDate": "2026-07-03T01:00:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Anker Solix E10 review: Whole home battery backups finally come within reach",
+      "url": "https://appleinsider.com/articles/26/07/03/anker-solix-e10-review-whole-home-battery-backups-finally-come-within-reach?utm_source=rss",
+      "pubDate": "2026-07-03T00:20:38.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -129,13 +178,6 @@
       "pubDate": "2026-07-02T19:42:45.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "tvOS 27: Four new features coming soon to Apple TV 4K",
-      "url": "https://9to5mac.com/2026/07/02/tvos-27-four-new-features-coming-soon-to-apple-tv-4k/",
-      "pubDate": "2026-07-02T19:29:13.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iOS 27 Public Beta Available This Month, Here's How to Get Your iPhone Ready Now",
@@ -148,13 +190,6 @@
       "title": "Weber marks down grills and griddles to their best prices ever for July 4th",
       "url": "https://www.theverge.com/gadgets/960558/weber-july-4th-grill-griddle-sale-deal",
       "pubDate": "2026-07-02T18:19:03.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Car Keys in Apple Wallet coming to major new vehicle brand: report",
-      "url": "https://9to5mac.com/2026/07/02/car-keys-in-apple-wallet-coming-to-major-new-vehicle-brand-report/",
-      "pubDate": "2026-07-02T17:52:56.000Z"
     },
     {
       "source": "MacRumors",
@@ -262,13 +297,6 @@
       "pubDate": "2026-07-02T12:14:54.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Mystery box shows are complicated for everyone — even the actors",
-      "url": "https://www.theverge.com/entertainment/960265/silo-season-3-apple-tv-interview-mystery-box",
-      "pubDate": "2026-07-02T12:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iPhone Photography Awards Highlight Best Images of 2026",
@@ -304,46 +332,11 @@
       "pubDate": "2026-07-02T01:23:50.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27: All the New Apple Maps Features",
-      "url": "https://www.macrumors.com/guide/ios-27-maps/",
-      "pubDate": "2026-07-01T23:46:42.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Anthropic's Claude Fable 5 Available Again After U.S. Lifts Export Controls",
-      "url": "https://www.macrumors.com/2026/07/01/anthropic-fable-5-relaunch/",
-      "pubDate": "2026-07-01T23:35:17.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "iPhone Fold expected to take 29% of 2026 foldable phone screen orders",
       "url": "https://appleinsider.com/articles/26/07/01/iphone-fold-expected-to-take-29-of-2026-foldable-phone-screen-orders?utm_source=rss",
       "pubDate": "2026-07-01T22:08:03.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple weighs buying RAM from two blacklisted Chinese suppliers to curb rising costs",
-      "url": "https://appleinsider.com/articles/26/07/01/apple-weighs-buying-ram-from-two-blacklisted-chinese-suppliers-to-curb-rising-costs?utm_source=rss",
-      "pubDate": "2026-07-01T21:28:07.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple in Russia's crosshairs again, facing $52M fine for not installing state-required apps",
-      "url": "https://appleinsider.com/articles/26/07/01/apple-in-russias-crosshairs-again-facing-52m-fine-for-not-installing-state-required-apps?utm_source=rss",
-      "pubDate": "2026-07-01T21:15:47.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple readying four iPad Pro models & entry M7 MacBook Pro for early 2027 release",
-      "url": "https://appleinsider.com/articles/26/07/01/apple-readying-four-ipad-pro-models-entry-m7-macbook-pro-for-early-2027-release?utm_source=rss",
-      "pubDate": "2026-07-01T21:12:07.000Z"
     },
     {
       "source": "Six Colors",
@@ -372,6 +365,13 @@
       "title": "Apple brings forward 26.6 security fixes into 26.5.2 update ↦",
       "url": "https://sixcolors.com/link/2026/06/apple-brings-forward-26-6-security-fixes-into-26-5-1-update/",
       "pubDate": "2026-06-30T17:32:22.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) Upgrade 626: Unprecedented Weirdness",
+      "url": "https://sixcolors.com/podcast/2026/06/upgrade-626-unprecedented-weirdness/",
+      "pubDate": "2026-06-29T21:39:58.000Z"
     }
   ]
 }
