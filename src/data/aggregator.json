@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T07:38:33.205Z",
+  "generatedAt": "2026-07-03T11:00:35.538Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Camera-Equipped AirPods Pro Development 'Suspended,' Leaker Claims",
+      "url": "https://www.macrumors.com/2026/07/03/camera-airpods-pro-development-suspended-leaker/",
+      "pubDate": "2026-07-03T10:12:53.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Leaker Jon Prosser denies Apple's charges and blames everything on his co-defendant",
+      "url": "https://appleinsider.com/articles/26/07/03/leaker-jon-prosser-denies-apples-charges-and-blames-everything-on-his-co-defendant?utm_source=rss",
+      "pubDate": "2026-07-03T09:46:18.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Grab OWC Thunderbolt docks, cables, enclosures from just $19.99 with exclusive deals",
+      "url": "https://appleinsider.com/articles/26/07/03/grab-owc-thunderbolt-docks-cables-enclosures-from-just-1999-with-exclusive-deals?utm_source=rss",
+      "pubDate": "2026-07-03T09:16:49.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -316,27 +337,6 @@
       "title": "Popular Show Tracking App TV Time Shutting Down on July 15",
       "url": "https://www.macrumors.com/2026/07/02/show-tracking-app-tv-time-shutting-down/",
       "pubDate": "2026-07-02T11:05:06.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Ramps Foldable iPhone 'Ultra' Production to 10 Million Units",
-      "url": "https://www.macrumors.com/2026/07/02/apple-ramps-foldable-iphone-ultra-production-10m/",
-      "pubDate": "2026-07-02T10:05:03.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Steve Jobs' Bicentennial check captures the birth of Apple and the PC revolution",
-      "url": "https://appleinsider.com/articles/26/07/02/steve-jobs-bicentennial-check-captures-the-birth-of-apple-and-the-pc-revolution?utm_source=rss",
-      "pubDate": "2026-07-02T01:23:50.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPhone Fold expected to take 29% of 2026 foldable phone screen orders",
-      "url": "https://appleinsider.com/articles/26/07/01/iphone-fold-expected-to-take-29-of-2026-foldable-phone-screen-orders?utm_source=rss",
-      "pubDate": "2026-07-01T22:08:03.000Z"
     },
     {
       "source": "Six Colors",
