@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T18:13:52.562Z",
+  "generatedAt": "2026-07-04T19:40:33.690Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -26,9 +26,23 @@
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
+      "title": "NASA launched an emergency mission to stop the Swift Observatory from crashing to Earth",
+      "url": "https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies",
+      "pubDate": "2026-07-04T19:06:27.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
       "title": "White House deletes thousands of web pages about energy conservation as heatwave slams US",
       "url": "https://www.theverge.com/policy/961449/white-house-mamdani-heatwave-deletion",
       "pubDate": "2026-07-04T16:19:06.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple @ Work: As Apple grows in the enterprise, these are the kind of update bugs it has to squash immediately",
+      "url": "https://9to5mac.com/2026/07/04/apple-work-as-apple-grows-in-the-enterprise-these-are-the-kind-of-update-bugs-it-has-to-squash-immediately/",
+      "pubDate": "2026-07-04T16:00:00.000Z"
     },
     {
       "source": "The Verge",
@@ -213,13 +227,6 @@
       "pubDate": "2026-07-03T15:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "This slim camera has a transparent LCD screen for a viewfinder",
-      "url": "https://www.theverge.com/tech/961362/godox-c100-digital-camera-transparent-lcd-screen",
-      "pubDate": "2026-07-03T14:51:38.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Fourth of July Sales: Save on AirTag 2, M3 iPad Air, Charging Accessories and More",
@@ -337,13 +344,6 @@
       "title": "iOS 27 helps apps detect when a user may be getting scammed in real time",
       "url": "https://9to5mac.com/2026/07/02/ios-27-helps-apps-detect-when-a-user-may-be-getting-scammed-in-real-time/",
       "pubDate": "2026-07-02T22:54:18.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple sets Q3 2026 earnings release for July 30",
-      "url": "https://9to5mac.com/2026/07/02/apple-sets-q3-2026-earnings-release-for-july-30/",
-      "pubDate": "2026-07-02T21:59:14.000Z"
     },
     {
       "source": "Six Colors",
