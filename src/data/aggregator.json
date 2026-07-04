@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T10:26:03.354Z",
+  "generatedAt": "2026-07-04T12:19:31.062Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The fanfiction community is at war with AI — and itself",
+      "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+      "pubDate": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Hands-on: BenQ’s new MA270S is a glossy 27-inch 5K display made for Mac [U]",
+      "url": "https://9to5mac.com/2026/07/04/benq-ma270s-hands-on-for-mac-27-inch-5k-monitor/",
+      "pubDate": "2026-07-04T11:17:35.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -199,13 +213,6 @@
       "pubDate": "2026-07-03T12:50:18.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple TV is hitting its stride",
-      "url": "https://www.theverge.com/entertainment/960985/apple-tv-hits-2026",
-      "pubDate": "2026-07-03T12:00:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple Watch Series 12 may get new health sensor in its band",
@@ -323,13 +330,6 @@
       "title": "Explore every iPad ever released in this interactive timeline",
       "url": "https://9to5mac.com/2026/07/02/explore-every-ipad-ever-released-in-this-interactive-timeline/",
       "pubDate": "2026-07-02T21:24:35.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "M7 chip coming sooner than expected, visionOS 27 features, Ask9to5Mac",
-      "url": "https://9to5mac.com/2026/07/02/happy-hour-597/",
-      "pubDate": "2026-07-02T21:00:27.000Z"
     },
     {
       "source": "MacRumors",
