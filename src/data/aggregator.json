@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T04:02:49.273Z",
+  "generatedAt": "2026-07-04T07:15:48.482Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Qi fan fan",
+      "url": "https://www.theverge.com/tech/961332/qi-active-cooling-really-works",
+      "pubDate": "2026-07-04T07:00:00.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -197,13 +204,6 @@
       "title": "Apple Watch Series 12 may get new health sensor in its band",
       "url": "https://appleinsider.com/articles/26/07/03/apple-watch-series-12-may-get-new-health-sensor-in-its-band?utm_source=rss",
       "pubDate": "2026-07-03T11:53:39.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
-      "pubDate": "2026-07-03T11:49:10.000Z"
     },
     {
       "source": "9to5Mac",
