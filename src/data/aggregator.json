@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T12:19:31.062Z",
+  "generatedAt": "2026-07-04T14:45:45.439Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Hey number pad lovers, this is a keyboard we can finally agree on",
+      "url": "https://www.theverge.com/tech/960837/epomaker-rt98-mechanical-keyboard-modular-numpad-review",
+      "pubDate": "2026-07-04T14:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 beta 2 hints at AirPods Pro with cameras: Here’s what we know so far",
+      "url": "https://9to5mac.com/2026/07/04/airpods-pro-with-cameras-leaked-in-ios-27-beta-2-code/",
+      "pubDate": "2026-07-04T13:18:56.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Top Stories: 'MacBook Ultra' and iPhone 18 Rumors, iOS 26.5.2 Security Fixes, and More",
+      "url": "https://www.macrumors.com/2026/07/04/top-stories-macbook-ultra-iphone-18-rumors/",
+      "pubDate": "2026-07-04T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The square-ish phone that I wanted to love",
+      "url": "https://www.theverge.com/tech/960509/ikko-mindone-pro-hands-on",
+      "pubDate": "2026-07-04T13:00:00.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -192,20 +220,6 @@
       "pubDate": "2026-07-03T13:56:52.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Jon Prosser responds to Apple lawsuit by blaming the other guy",
-      "url": "https://www.theverge.com/tech/961285/jon-prosser-apple-lawsuit-response-ios-leak",
-      "pubDate": "2026-07-03T13:12:35.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Verge’s annual summer ‘in’ and ‘out’ list",
-      "url": "https://www.theverge.com/entertainment/960665/the-verge-2026-summer-in-out-list",
-      "pubDate": "2026-07-03T13:00:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Siri AI is finally good, and Apple is going to win the AI wars",
@@ -325,25 +339,11 @@
       "pubDate": "2026-07-02T21:33:09.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Explore every iPad ever released in this interactive timeline",
-      "url": "https://9to5mac.com/2026/07/02/explore-every-ipad-ever-released-in-this-interactive-timeline/",
-      "pubDate": "2026-07-02T21:24:35.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iOS 27 Public Beta Available This Month, Here's How to Get Your iPhone Ready Now",
       "url": "https://www.macrumors.com/2026/07/02/ios-27-public-beta-release-date/",
       "pubDate": "2026-07-02T18:51:01.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "VW Planning to Offer Apple Wallet Car Keys on iPhone",
-      "url": "https://www.macrumors.com/2026/07/02/vw-planning-apple-wallet-car-keys/",
-      "pubDate": "2026-07-02T17:09:56.000Z"
     },
     {
       "source": "Six Colors",
