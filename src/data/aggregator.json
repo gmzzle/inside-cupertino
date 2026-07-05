@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T16:18:56.719Z",
+  "generatedAt": "2026-07-05T18:17:08.548Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "'iPhone Ultra' Likely to 'Repeat the iPhone X Story'",
+      "url": "https://www.macrumors.com/2026/07/05/foldable-iphone-to-repeat-iphone-x-story/",
+      "pubDate": "2026-07-05T17:28:32.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -337,13 +344,6 @@
       "title": "Apple Responds to Lawsuit Filed by Three YouTube Channels",
       "url": "https://www.macrumors.com/2026/07/02/apple-responds-to-youtuber-ai-lawsuit/",
       "pubDate": "2026-07-03T02:47:37.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "YouTuber Jon Prosser Responds to Apple's Lawsuit Over iOS 26 Leaks",
-      "url": "https://www.macrumors.com/2026/07/02/jon-prosser-responds-to-apple-leaks-lawsuit/",
-      "pubDate": "2026-07-03T01:42:05.000Z"
     },
     {
       "source": "Six Colors",
