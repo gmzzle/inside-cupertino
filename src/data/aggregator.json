@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T20:31:14.012Z",
+  "generatedAt": "2026-07-05T22:13:53.712Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Report: iPhone Ultra to have incredibly limited availability at launch, may ship slightly later",
+      "url": "https://9to5mac.com/2026/07/05/iphone-fold-low-supply-at-launch-delayed-release/",
+      "pubDate": "2026-07-05T20:38:55.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -337,13 +344,6 @@
       "title": "Apple says public YouTube videos can be used in AI lawsuit defense",
       "url": "https://appleinsider.com/articles/26/07/03/apple-says-public-youtube-videos-can-be-used-in-ai-lawsuit-defense?utm_source=rss",
       "pubDate": "2026-07-03T03:23:40.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Prosser denies conspiring to steal Apple secrets in lawsuit response, blames Ramacciotti",
-      "url": "https://9to5mac.com/2026/07/02/prosser-denies-conspiring-to-steal-apple-secrets-in-lawsuit-response-blames-ramacciotti/",
-      "pubDate": "2026-07-03T02:54:16.000Z"
     },
     {
       "source": "MacRumors",
