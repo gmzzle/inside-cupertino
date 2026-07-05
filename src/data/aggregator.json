@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T18:17:08.548Z",
+  "generatedAt": "2026-07-05T20:31:14.012Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Sunday Reboot: Stats, iPhones, and AI devices are still a threat",
+      "url": "https://appleinsider.com/articles/26/07/05/sunday-reboot-stats-iphones-and-ai-devices-are-still-a-threat?utm_source=rss",
+      "pubDate": "2026-07-05T20:02:13.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Mr. Lif’s Emergency Rations EP is post-9/11 hip hop at its most daring",
+      "url": "https://www.theverge.com/entertainment/961484/mr-lif-emergency-rations-ep-post-9-11-review",
+      "pubDate": "2026-07-05T18:30:00.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -141,13 +155,6 @@
       "title": "MacBook Pro overhaul: entry-level model to gain new design sooner than expected",
       "url": "https://9to5mac.com/2026/07/04/apple-introducing-m7-macbook-pro-with-touchscreen-redesign-in-early-2027/",
       "pubDate": "2026-07-04T15:03:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Flatbush Zombies’ Erick the Architect misses his BlackBerry keyboard",
-      "url": "https://www.theverge.com/entertainment/960958/flatbush-zombies-erick-the-architect-interview",
-      "pubDate": "2026-07-04T15:00:00.000Z"
     },
     {
       "source": "9to5Mac",
@@ -365,13 +372,6 @@
       "title": "(Podcast) The Rebound 605: I Don’t Want to Go to Tatooine",
       "url": "https://sixcolors.com/podcast/2026/07/the-rebound-605-i-dont-want-to-go-to-tatooine/",
       "pubDate": "2026-07-01T14:00:00.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Report: Security vulnerability makes Hide My Email not so anonymous ↦",
-      "url": "https://sixcolors.com/link/2026/07/report-security-vulnerability-makes-hide-my-email-not-so-anonymous/",
-      "pubDate": "2026-07-01T13:42:58.000Z"
     }
   ]
 }
