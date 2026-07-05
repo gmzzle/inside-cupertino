@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T22:13:53.712Z",
+  "generatedAt": "2026-07-05T23:31:19.508Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Some of the nation’s rich are letting AI teach their kids",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
+      "pubDate": "2026-07-05T22:30:54.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -133,13 +140,6 @@
       "sourceHomepage": "https://9to5mac.com",
       "title": "Apple @ Work: As Apple grows in the enterprise, these are the kind of update bugs it has to squash immediately",
       "url": "https://9to5mac.com/2026/07/04/apple-work-as-apple-grows-in-the-enterprise-these-are-the-kind-of-update-bugs-it-has-to-squash-immediately/",
-      "pubDate": "2026-07-04T16:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Matic’s robot vacuum is getting a $250 price hike in September",
-      "url": "https://www.theverge.com/gadgets/960753/matic-robot-vacuum-mop-price-increase-cost-buy",
       "pubDate": "2026-07-04T16:00:00.000Z"
     },
     {
