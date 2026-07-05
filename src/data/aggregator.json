@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T12:43:25.373Z",
+  "generatedAt": "2026-07-05T14:53:30.066Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,41 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Folding iPhone may launch in September, good luck getting it before 2027",
+      "url": "https://appleinsider.com/articles/26/07/05/folding-iphone-may-launch-in-september-good-luck-getting-it-before-2027?utm_source=rss",
+      "pubDate": "2026-07-05T14:44:07.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
+      "pubDate": "2026-07-05T14:23:11.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The Sourdough Sidekick automates the boring bit of baking",
+      "url": "https://www.theverge.com/tech/959604/sourdough-sidekick-review-king-arthur-starter",
+      "pubDate": "2026-07-05T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "How Keurig saved — and ruined — your coffee",
+      "url": "https://www.theverge.com/podcast/961470/keurig-coffee-k-up-version-history",
+      "pubDate": "2026-07-05T13:51:56.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Vizio accidentally made the best dumb TV on the market",
+      "url": "https://www.theverge.com/tech/960916/vizio-mini-led-quantum-tv-review",
+      "pubDate": "2026-07-05T13:00:00.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -122,20 +157,6 @@
       "pubDate": "2026-07-04T13:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The square-ish phone that I wanted to love",
-      "url": "https://www.theverge.com/tech/960509/ikko-mindone-pro-hands-on",
-      "pubDate": "2026-07-04T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The fanfiction community is at war with AI — and itself",
-      "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
-      "pubDate": "2026-07-04T12:00:00.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Hands-on: BenQ’s new MA270S is a glossy 27-inch 5K display made for Mac [U]",
@@ -148,13 +169,6 @@
       "title": "Security Bite: A note on camera covers in 2026",
       "url": "https://9to5mac.com/2026/07/04/security-bite-why-i-stopped-using-camera-covers-and-you-should-too/",
       "pubDate": "2026-07-04T10:21:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Qi fan fan",
-      "url": "https://www.theverge.com/tech/961332/qi-active-cooling-really-works",
-      "pubDate": "2026-07-04T07:00:00.000Z"
     },
     {
       "source": "9to5Mac",
@@ -183,13 +197,6 @@
       "title": "Leaker Jon Prosser denies Apple's charges, rolls co-defendant under the bus",
       "url": "https://appleinsider.com/articles/26/07/03/leaker-jon-prosser-denies-apples-charges-and-blames-everything-on-his-co-defendant?utm_source=rss",
       "pubDate": "2026-07-03T17:47:41.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Amazon updated 2023’s Fire HD 10 tablet with 4GB of RAM",
-      "url": "https://www.theverge.com/tech/961387/amazon-2023-fire-hd-10-tablet-4gb-update",
-      "pubDate": "2026-07-03T17:33:55.000Z"
     },
     {
       "source": "AppleInsider",
@@ -337,13 +344,6 @@
       "title": "YouTuber Jon Prosser Responds to Apple's Lawsuit Over iOS 26 Leaks",
       "url": "https://www.macrumors.com/2026/07/02/jon-prosser-responds-to-apple-leaks-lawsuit/",
       "pubDate": "2026-07-03T01:42:05.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Anker Solix E10 review: Whole home battery backups finally come within reach",
-      "url": "https://appleinsider.com/articles/26/07/03/anker-solix-e10-review-whole-home-battery-backups-finally-come-within-reach?utm_source=rss",
-      "pubDate": "2026-07-03T00:20:38.000Z"
     },
     {
       "source": "Six Colors",
