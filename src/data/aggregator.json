@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T11:14:02.654Z",
+  "generatedAt": "2026-07-05T12:43:25.373Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Xbox is a disaster",
+      "url": "https://www.theverge.com/column/960600/xbox-is-a-disaster",
+      "pubDate": "2026-07-05T12:00:00.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -232,13 +239,6 @@
       "title": "Apple Already Testing iOS 27.4",
       "url": "https://www.macrumors.com/2026/07/03/apple-already-testing-ios-27-4/",
       "pubDate": "2026-07-03T15:42:28.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "While you’re watching the World Cup, the feds may be watching you",
-      "url": "https://www.theverge.com/policy/961004/world-cup-america-250-surveillance-drones-cameras",
-      "pubDate": "2026-07-03T15:00:00.000Z"
     },
     {
       "source": "MacRumors",
