@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T16:30:30.884Z",
+  "generatedAt": "2026-07-06T19:05:46.396Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -26,6 +26,195 @@
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
+      "title": "watchOS 27 beta 3 includes upgraded Siri AI experience and dedicated Siri app",
+      "url": "https://9to5mac.com/2026/07/06/watchos-27-beta-3-includes-upgraded-siri-ai-experience-and-dedicated-siri-app/",
+      "pubDate": "2026-07-06T18:54:40.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "New in iOS 27 beta 3: Siri AI voice customization options",
+      "url": "https://appleinsider.com/articles/26/07/06/new-in-ios-27-beta-3-siri-ai-voice-customization-options?utm_source=rss",
+      "pubDate": "2026-07-06T18:42:08.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "macOS 27 Golden Gate adds these new wallpapers and screen savers to your Mac",
+      "url": "https://9to5mac.com/2026/07/06/macos-27-golden-gate-adds-these-new-wallpapers-and-screen-savers-to-your-mac/",
+      "pubDate": "2026-07-06T18:41:21.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "America’s greatest idea is still under threat",
+      "url": "https://www.theverge.com/policy/961802/america-250-free-speech",
+      "pubDate": "2026-07-06T18:36:33.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Here’s what’s new with iOS 27 beta 3",
+      "url": "https://9to5mac.com/2026/07/06/heres-whats-new-with-ios-27-beta-3/",
+      "pubDate": "2026-07-06T18:11:31.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple rolls out the third iOS 27, macOS 27 developer betas",
+      "url": "https://appleinsider.com/articles/26/07/06/apple-rolls-out-the-third-ios-27-macos-27-developer-betas?utm_source=rss",
+      "pubDate": "2026-07-06T17:45:29.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple rolls out fourth Release Candidates for macOS Sonoma 14.8.8 and Sequoia 15.7.8",
+      "url": "https://9to5mac.com/2026/07/06/apple-rolls-out-fourth-release-candidates-for-macos-sonoma-14-8-8-and-sequoia-15-7-8/",
+      "pubDate": "2026-07-06T17:40:50.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Fourth developer betas of iOS 26.6, macOS 26.6 land for testing",
+      "url": "https://appleinsider.com/articles/26/07/06/fourth-developer-betas-of-ios-266-macos-266-land-for-testing?utm_source=rss",
+      "pubDate": "2026-07-06T17:36:25.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple releases beta 3 for iPadOS 27, tvOS 27, and more",
+      "url": "https://9to5mac.com/2026/07/06/apple-releases-beta-3-for-ipados-27-tvos-27-and-more/",
+      "pubDate": "2026-07-06T17:26:48.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "macOS Golden Gate Beta 3 Now Available for Developers",
+      "url": "https://www.macrumors.com/2026/07/06/apple-seeds-macos-27-beta-3/",
+      "pubDate": "2026-07-06T17:25:59.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Seeds Third iOS 27 and iPadOS 27 Betas to Developers",
+      "url": "https://www.macrumors.com/2026/07/06/apple-seeds-ios-27-beta-3/",
+      "pubDate": "2026-07-06T17:24:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "macOS 27 Golden Gate beta 3 now available, here’s what’s to expect",
+      "url": "https://9to5mac.com/2026/07/06/macos-27-golden-gate-beta-3-now-available-heres-whats-to-expect/",
+      "pubDate": "2026-07-06T17:23:38.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 beta 3 now available as Apple tests major Siri AI upgrade",
+      "url": "https://9to5mac.com/2026/07/06/ios-27-beta-3/",
+      "pubDate": "2026-07-06T17:23:37.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Seeds Third visionOS 27 Beta to Developers",
+      "url": "https://www.macrumors.com/2026/07/06/apple-seeds-visionos-27-beta-3/",
+      "pubDate": "2026-07-06T17:23:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Seeds watchOS 27 Beta 3 to Developers",
+      "url": "https://www.macrumors.com/2026/07/06/apple-seeds-watchos-27-beta-3/",
+      "pubDate": "2026-07-06T17:23:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Seeds tvOS 27 Beta 3 to Developers",
+      "url": "https://www.macrumors.com/2026/07/06/apple-seeds-tvos-27-beta-3/",
+      "pubDate": "2026-07-06T17:22:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "macOS 26.6 beta 4 rolling out now, here’s what to expect",
+      "url": "https://9to5mac.com/2026/07/06/macos-26-6-beta-4-rolling-out-now-heres-what-to-expect/",
+      "pubDate": "2026-07-06T17:21:06.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple releases beta 4 for iPadOS 26.6, watchOS 26.6, more",
+      "url": "https://9to5mac.com/2026/07/06/apple-releases-beta-4-for-ipados-26-6-watchos-26-6-more/",
+      "pubDate": "2026-07-06T17:20:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple releases iOS 26.6 beta 4 for iPhone, here’s what to expect",
+      "url": "https://9to5mac.com/2026/07/06/apple-releases-ios-26-6-beta-4-for-iphone-heres-what-to-expect/",
+      "pubDate": "2026-07-06T17:18:42.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Fourth macOS Tahoe 26.6 Beta Now Available for Developers",
+      "url": "https://www.macrumors.com/2026/07/06/apple-seeds-macos-26-6-beta-4/",
+      "pubDate": "2026-07-06T17:18:37.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Seeds Fourth iOS 26.6 and iPadOS 26.6 Betas to Developers",
+      "url": "https://www.macrumors.com/2026/07/06/apple-seeds-ios-26-6-beta-4/",
+      "pubDate": "2026-07-06T17:17:55.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Releases Fourth watchOS 26.6, tvOS 26.6 and visionOS 26.6 Betas",
+      "url": "https://www.macrumors.com/2026/07/06/apple-seeds-watchos-26-6-beta-4/",
+      "pubDate": "2026-07-06T17:16:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Five questions for Dr. Rubin, who’s armed with a mic and a bowtie",
+      "url": "https://www.theverge.com/science/961483/doctor-zachary-rubin-md-interview",
+      "pubDate": "2026-07-06T17:15:29.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iPhone 17 Pro Max will represent America's present, in 250 years",
+      "url": "https://appleinsider.com/articles/26/07/06/iphone-17-pro-max-will-represent-americas-present-in-250-years?utm_source=rss",
+      "pubDate": "2026-07-06T17:09:41.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "A visit to the App Library: Hiding and deleting apps on iOS",
+      "url": "https://sixcolors.com/post/2026/07/it-jiggles-when-you-poke-it-relocating-iphone-and-ipad-apps/",
+      "pubDate": "2026-07-06T17:00:38.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: July 6, 2026 – New iOS 27 framework, more",
+      "url": "https://9to5mac.com/2026/07/06/daily-july-6-2026/",
+      "pubDate": "2026-07-06T16:57:13.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Former Xbox studios Double Fine and Compulsion will keep games after going indie",
+      "url": "https://www.theverge.com/games/961749/xbox-layoffs-compulsion-double-fine-indie",
+      "pubDate": "2026-07-06T16:22:34.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
       "title": "Apple starts offering free 4K upgrades for purchased TV shows",
       "url": "https://9to5mac.com/2026/07/06/apple-starts-offering-free-4k-upgrades-for-purchased-tv-shows/",
       "pubDate": "2026-07-06T16:17:56.000Z"
@@ -38,25 +227,11 @@
       "pubDate": "2026-07-06T16:11:30.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Netflix viewers keep abandoning hit series after one season",
-      "url": "https://9to5mac.com/2026/07/06/netflix-viewers-keep-abandoning-hit-series-after-one-season/",
-      "pubDate": "2026-07-06T16:03:40.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Overtime 071: A weird time for Apple",
-      "url": "https://9to5mac.com/2026/07/06/9to5mac-overtime-071-a-weird-time-for-apple/",
-      "pubDate": "2026-07-06T16:01:20.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: M5 iPad Pro $420 off, AirTag 2 from $22 each, Apple Watch Ultra 3, Anker 25W MagSafe chargers, more",
-      "url": "https://9to5mac.com/2026/07/06/deals-m5-ipad-pro-airtag-2-apple-watch-ultra-3/",
-      "pubDate": "2026-07-06T15:26:31.000Z"
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "I spy",
+      "url": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
+      "pubDate": "2026-07-06T16:00:00.000Z"
     },
     {
       "source": "The Verge",
@@ -64,13 +239,6 @@
       "title": "The DJI Osmo Pocket 3 lookalike is down to $329",
       "url": "https://www.theverge.com/gadgets/961612/xtra-muse-dji-osmo-pocket-3-ipad-air-magic-mouse-deal-sale",
       "pubDate": "2026-07-06T15:09:18.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple’s M6 chip could skip many new products, here’s what’s rumored",
-      "url": "https://9to5mac.com/2026/07/06/apples-m6-chip-could-skip-many-new-products-heres-whats-rumored/",
-      "pubDate": "2026-07-06T15:09:10.000Z"
     },
     {
       "source": "AppleInsider",
@@ -103,7 +271,7 @@
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
-      "title": "Here's How the iPhone 18 Pro Max Will Compare to the iPhone 18 Pro",
+      "title": "iPhone 18 Pro vs. iPhone 18 Pro Max: Here's What the Latest Leak Says",
       "url": "https://www.macrumors.com/2026/07/06/iphone-18-pro-vs-pro-max-rumors/",
       "pubDate": "2026-07-06T14:17:54.000Z"
     },
@@ -120,13 +288,6 @@
       "title": "Apple & Broadcom renew partnership through 2031",
       "url": "https://appleinsider.com/articles/26/07/06/apple-broadcom-renew-partnership-through-2031?utm_source=rss",
       "pubDate": "2026-07-06T14:15:01.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone 18 Pro Max vs Pro: Leak reveals Apple’s plan to differentiate models",
-      "url": "https://9to5mac.com/2026/07/06/iphone-18-pro-max-vs-pro-leak-reveals-apples-plan-to-differentiate-models/",
-      "pubDate": "2026-07-06T14:10:02.000Z"
     },
     {
       "source": "The Verge",
@@ -150,25 +311,11 @@
       "pubDate": "2026-07-06T13:30:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple radio chips switch likely to take five more years, suggests Broadcom deal",
-      "url": "https://9to5mac.com/2026/07/06/apple-radio-chips-switch-likely-to-take-five-more-years-suggests-broadcom-deal/",
-      "pubDate": "2026-07-06T13:25:26.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple and Broadcom Extend Chip Supply Deal to 2031",
       "url": "https://www.macrumors.com/2026/07/06/apple-and-broadcom-extend-deal/",
       "pubDate": "2026-07-06T13:04:17.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Watch Ultra 3 Now $99 Off on Amazon, Starting at $699.99",
-      "url": "https://www.macrumors.com/2026/07/06/apple-watch-ultra-3-99-off-3/",
-      "pubDate": "2026-07-06T12:54:25.000Z"
     },
     {
       "source": "AppleInsider",
@@ -192,95 +339,11 @@
       "pubDate": "2026-07-06T12:42:53.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone 18 Pro Battery Capacities Revealed by Regulatory Filings",
-      "url": "https://www.macrumors.com/2026/07/06/iphone-18-pro-battery-capacities-revealed/",
-      "pubDate": "2026-07-06T12:41:44.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "WhatsApp iPhone app getting a green dot to show who’s online",
-      "url": "https://9to5mac.com/2026/07/06/whatsapp-iphone-app-getting-a-green-dot-to-show-whos-online/",
-      "pubDate": "2026-07-06T12:19:34.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
-      "url": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
-      "pubDate": "2026-07-06T12:10:43.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Watch sleep score became more useful for me with these settings",
-      "url": "https://9to5mac.com/2026/07/06/apple-watch-sleep-score-became-more-useful-for-me-with-these-settings/",
-      "pubDate": "2026-07-06T12:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Here’s how to turn any iPhone into a dumb phone for you or your kids",
-      "url": "https://9to5mac.com/2026/07/06/heres-how-to-turn-any-iphone-into-a-dumb-phone-for-you-or-your-kids/",
-      "pubDate": "2026-07-06T11:49:48.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Limited initial availability of the iPhone Ultra may be a feature, not a bug",
-      "url": "https://9to5mac.com/2026/07/06/limited-initial-availability-of-the-iphone-ultra-may-be-a-feature-not-a-bug/",
-      "pubDate": "2026-07-06T11:20:23.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "WhatsApp Beta Adds Green Dot to Show Who's Online",
-      "url": "https://www.macrumors.com/2026/07/06/whatsapp-adds-green-dot-show-who-online/",
-      "pubDate": "2026-07-06T10:56:55.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Some of the nation’s rich are letting AI teach their kids",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
-      "pubDate": "2026-07-05T22:30:54.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Report: iPhone Ultra to have incredibly limited availability at launch, may ship slightly later",
-      "url": "https://9to5mac.com/2026/07/05/iphone-fold-low-supply-at-launch-delayed-release/",
-      "pubDate": "2026-07-05T20:38:55.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Sunday Reboot: Stats, iPhones, and AI devices are still a threat",
       "url": "https://appleinsider.com/articles/26/07/05/sunday-reboot-stats-iphones-and-ai-devices-are-still-a-threat?utm_source=rss",
       "pubDate": "2026-07-05T20:02:13.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Mr. Lif’s Emergency Rations EP is post-9/11 hip-hop at its most daring",
-      "url": "https://www.theverge.com/entertainment/961484/mr-lif-emergency-rations-ep-post-9-11-review",
-      "pubDate": "2026-07-05T18:30:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "'iPhone Ultra' Likely to 'Repeat the iPhone X Story'",
-      "url": "https://www.macrumors.com/2026/07/05/foldable-iphone-to-repeat-iphone-x-story/",
-      "pubDate": "2026-07-05T17:28:32.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Where to preorder Grand Theft Auto VI",
-      "url": "https://www.theverge.com/gadgets/960838/grand-theft-auto-gta-6-vi-preorder-editions-buy",
-      "pubDate": "2026-07-05T16:00:00.000Z"
     },
     {
       "source": "AppleInsider",
@@ -290,67 +353,11 @@
       "pubDate": "2026-07-05T15:04:52.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
-      "pubDate": "2026-07-05T14:23:11.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Beat the Apple Price Hikes: These MacBook Pro Deals Won't Last Long",
-      "url": "https://www.macrumors.com/2026/07/04/beat-the-apple-price-hikes/",
-      "pubDate": "2026-07-04T15:35:12.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Top Stories: 'MacBook Ultra' and iPhone 18 Rumors, iOS 26.5.2 Security Fixes, and More",
-      "url": "https://www.macrumors.com/2026/07/04/top-stories-macbook-ultra-iphone-18-rumors/",
-      "pubDate": "2026-07-04T13:00:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Three changes Apple could do to make iPhone Air 2 a hit",
-      "url": "https://appleinsider.com/articles/26/07/03/three-changes-apple-could-do-to-make-iphone-air-2-a-hit?utm_source=rss",
-      "pubDate": "2026-07-03T19:14:05.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone 18 With 9GB RAM Still Won't Support Two New iOS 27 Features",
-      "url": "https://www.macrumors.com/2026/07/03/iphone-18-wont-support-two-ios-27-features/",
-      "pubDate": "2026-07-03T19:10:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "AirPods with cameras show up in iOS 27 beta code",
-      "url": "https://appleinsider.com/articles/26/07/03/airpods-with-cameras-show-up-in-ios-27-beta-code?utm_source=rss",
-      "pubDate": "2026-07-03T16:28:34.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Stop previews from autoplaying on Apple TV",
       "url": "https://sixcolors.com/post/2026/07/stop-previews-from-autoplaying-on-apple-tv/",
       "pubDate": "2026-07-03T16:00:14.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPhone 18 Pro leaks, AirDrop security concerns, and increased iPhone Fold orders, on the AppleInsider Podcast",
-      "url": "https://appleinsider.com/articles/26/07/03/iphone-18-pro-leaks-airdrop-security-concerns-and-increased-iphone-fold-orders-on-the-appleinsider-podcast?utm_source=rss",
-      "pubDate": "2026-07-03T14:18:12.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple Watch Series 12 may get new health sensor in its band",
-      "url": "https://appleinsider.com/articles/26/07/03/apple-watch-series-12-may-get-new-health-sensor-in-its-band?utm_source=rss",
-      "pubDate": "2026-07-03T11:53:39.000Z"
     },
     {
       "source": "Six Colors",
@@ -365,13 +372,6 @@
       "title": "(Podcast) Clockwise 663: Fear-Based Approach",
       "url": "https://sixcolors.com/podcast/2026/07/clockwise-663-fear-based-approach/",
       "pubDate": "2026-07-01T19:54:00.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) The Rebound 605: I Don’t Want to Go to Tatooine",
-      "url": "https://sixcolors.com/podcast/2026/07/the-rebound-605-i-dont-want-to-go-to-tatooine/",
-      "pubDate": "2026-07-01T14:00:00.000Z"
     }
   ]
 }
