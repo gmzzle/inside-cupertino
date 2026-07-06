@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T21:01:40.096Z",
+  "generatedAt": "2026-07-06T22:38:50.855Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,55 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Everything New in iOS 27 Beta 3",
+      "url": "https://www.macrumors.com/2026/07/06/ios-27-beta-3-features/",
+      "pubDate": "2026-07-06T22:19:23.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Report: Apple Watch accounted for nearly all Edge AI smartwatch shipments in Q1 2026",
+      "url": "https://9to5mac.com/2026/07/06/report-apple-watch-accounted-for-nearly-all-edge-ai-smartwatch-shipments-in-q1-2026/",
+      "pubDate": "2026-07-06T22:01:17.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple Home AI features locked behind 2TB iCloud+ plan",
+      "url": "https://appleinsider.com/articles/26/07/06/apple-home-ai-features-locked-behind-2tb-icloud-plan?utm_source=rss",
+      "pubDate": "2026-07-06T21:34:08.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) Upgrade 627: Do Not Use, Do Not Turn Off",
+      "url": "https://sixcolors.com/podcast/2026/07/upgrade-627-do-not-use-do-not-turn-off/",
+      "pubDate": "2026-07-06T21:32:57.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Intelligence Home Features Require 2TB iCloud+ Plan in iOS 27",
+      "url": "https://www.macrumors.com/2026/07/06/ios-27-home-app-features-icloud/",
+      "pubDate": "2026-07-06T21:13:16.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Julia Garner to headline new Apple TV murder thriller series",
+      "url": "https://9to5mac.com/2026/07/06/julia-garner-to-headline-new-apple-tv-murder-thriller-series/",
+      "pubDate": "2026-07-06T21:11:47.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple is warning when your AI prompts go to Google's servers, just like with ChatGPT",
+      "url": "https://appleinsider.com/articles/26/07/06/apple-is-warning-when-your-ai-prompts-go-to-googles-servers-just-like-with-chatgpt?utm_source=rss",
+      "pubDate": "2026-07-06T21:05:57.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -157,13 +206,6 @@
       "pubDate": "2026-07-06T17:36:25.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple releases beta 3 for iPadOS 27, tvOS 27, and more",
-      "url": "https://9to5mac.com/2026/07/06/apple-releases-beta-3-for-ipados-27-tvos-27-and-more/",
-      "pubDate": "2026-07-06T17:26:48.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "macOS Golden Gate Beta 3 Now Available for Developers",
@@ -176,13 +218,6 @@
       "title": "Apple Seeds Third iOS 27 and iPadOS 27 Betas to Developers",
       "url": "https://www.macrumors.com/2026/07/06/apple-seeds-ios-27-beta-3/",
       "pubDate": "2026-07-06T17:24:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "macOS 27 Golden Gate beta 3 now available, here’s what’s to expect",
-      "url": "https://9to5mac.com/2026/07/06/macos-27-golden-gate-beta-3-now-available-heres-whats-to-expect/",
-      "pubDate": "2026-07-06T17:23:38.000Z"
     },
     {
       "source": "MacRumors",
@@ -255,13 +290,6 @@
       "pubDate": "2026-07-06T16:22:34.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone 17 Pro Max Sealed in Time Capsule Until 2276",
-      "url": "https://www.macrumors.com/2026/07/06/iphone-17-pro-max-sealed-in-time-capsule/",
-      "pubDate": "2026-07-06T16:11:30.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "I spy",
@@ -288,13 +316,6 @@
       "title": "Inside the big business of the creator economy, with the agents making it happen",
       "url": "https://www.theverge.com/podcast/961603/raina-penchansky-ali-berman-dba-uta-influencer-cliff-marketing",
       "pubDate": "2026-07-06T14:30:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Anker's 3-in-1 Foldable Wireless Charger Matches Prime Day Low at $99.74",
-      "url": "https://www.macrumors.com/2026/07/06/ankers-charger-matches-prime-day/",
-      "pubDate": "2026-07-06T14:28:18.000Z"
     },
     {
       "source": "AppleInsider",
@@ -334,23 +355,9 @@
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
-      "title": "Four years later, Apple bends to India's demands over card payments",
-      "url": "https://appleinsider.com/articles/26/07/06/four-years-on-apple-bends-to-indias-demands-over-card-payments?utm_source=rss",
-      "pubDate": "2026-07-06T12:48:42.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
       "title": "Siri AI is finally good, and Apple is going to win the AI wars",
       "url": "https://appleinsider.com/articles/26/07/03/siri-ai-is-finally-good-and-apple-is-going-to-with-the-ai-wars?utm_source=rss",
       "pubDate": "2026-07-06T12:42:53.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Sunday Reboot: Stats, iPhones, and AI devices are still a threat",
-      "url": "https://appleinsider.com/articles/26/07/05/sunday-reboot-stats-iphones-and-ai-devices-are-still-a-threat?utm_source=rss",
-      "pubDate": "2026-07-05T20:02:13.000Z"
     },
     {
       "source": "Six Colors",
@@ -365,13 +372,6 @@
       "title": "EveryMac turns 30 ↦",
       "url": "https://sixcolors.com/link/2026/07/everymac-turns-30/",
       "pubDate": "2026-07-02T16:49:38.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) Clockwise 663: Fear-Based Approach",
-      "url": "https://sixcolors.com/podcast/2026/07/clockwise-663-fear-based-approach/",
-      "pubDate": "2026-07-01T19:54:00.000Z"
     }
   ]
 }
