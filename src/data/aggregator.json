@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T09:11:04.198Z",
+  "generatedAt": "2026-07-06T12:59:11.571Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,6 +24,76 @@
   ],
   "items": [
     {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Watch Ultra 3 Now $99 Off on Amazon, Starting at $699.99",
+      "url": "https://www.macrumors.com/2026/07/06/apple-watch-ultra-3-99-off-3/",
+      "pubDate": "2026-07-06T12:54:25.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Four years later, Apple bends to India's demands over card payments",
+      "url": "https://appleinsider.com/articles/26/07/06/four-years-on-apple-bends-to-indias-demands-over-card-payments?utm_source=rss",
+      "pubDate": "2026-07-06T12:48:42.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Plex's $249.99 five-year pass arrives after $749.99 Lifetime Pass price hike",
+      "url": "https://appleinsider.com/articles/26/07/04/plexs-24999-five-year-pass-arrives-after-74999-lifetime-pass-price-hike?utm_source=rss",
+      "pubDate": "2026-07-06T12:48:22.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Siri AI is finally good, and Apple is going to win the AI wars",
+      "url": "https://appleinsider.com/articles/26/07/03/siri-ai-is-finally-good-and-apple-is-going-to-with-the-ai-wars?utm_source=rss",
+      "pubDate": "2026-07-06T12:42:53.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone 18 Pro Battery Capacities Revealed by Regulatory Filings",
+      "url": "https://www.macrumors.com/2026/07/06/iphone-18-pro-battery-capacities-revealed/",
+      "pubDate": "2026-07-06T12:41:44.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "WhatsApp iPhone app getting a green dot to show who’s online",
+      "url": "https://9to5mac.com/2026/07/06/whatsapp-iphone-app-getting-a-green-dot-to-show-whos-online/",
+      "pubDate": "2026-07-06T12:19:34.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
+      "url": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
+      "pubDate": "2026-07-06T12:10:43.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Here’s how to turn any iPhone into a dumb phone for you or your kids",
+      "url": "https://9to5mac.com/2026/07/06/heres-how-to-turn-any-iphone-into-a-dumb-phone-for-you-or-your-kids/",
+      "pubDate": "2026-07-06T11:49:48.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Limited initial availability of the iPhone Ultra may be a feature, not a bug",
+      "url": "https://9to5mac.com/2026/07/06/limited-initial-availability-of-the-iphone-ultra-may-be-a-feature-not-a-bug/",
+      "pubDate": "2026-07-06T11:20:23.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "WhatsApp Beta Adds Green Dot to Show Who's Online",
+      "url": "https://www.macrumors.com/2026/07/06/whatsapp-adds-green-dot-show-who-online/",
+      "pubDate": "2026-07-06T10:56:55.000Z"
+    },
+    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Some of the nation’s rich are letting AI teach their kids",
@@ -47,7 +117,7 @@
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
-      "title": "Mr. Lif’s Emergency Rations EP is post-9/11 hip hop at its most daring",
+      "title": "Mr. Lif’s Emergency Rations EP is post-9/11 hip-hop at its most daring",
       "url": "https://www.theverge.com/entertainment/961484/mr-lif-emergency-rations-ep-post-9-11-review",
       "pubDate": "2026-07-05T18:30:00.000Z"
     },
@@ -131,7 +201,7 @@
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
-      "title": "White House deletes thousands of web pages about energy conservation as heatwave slams US",
+      "title": "White House deletes thousands of webpages about energy conservation as heatwave slams US",
       "url": "https://www.theverge.com/policy/961449/white-house-mamdani-heatwave-deletion",
       "pubDate": "2026-07-04T16:19:06.000Z"
     },
@@ -141,13 +211,6 @@
       "title": "Apple @ Work: As Apple grows in the enterprise, these are the kind of update bugs it has to squash immediately",
       "url": "https://9to5mac.com/2026/07/04/apple-work-as-apple-grows-in-the-enterprise-these-are-the-kind-of-update-bugs-it-has-to-squash-immediately/",
       "pubDate": "2026-07-04T16:00:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Plex's $249.99 five-year pass arrives after $749.99 Lifetime Pass price hike",
-      "url": "https://appleinsider.com/articles/26/07/04/plexs-24999-five-year-pass-arrives-after-74999-lifetime-pass-price-hike?utm_source=rss",
-      "pubDate": "2026-07-04T15:38:57.000Z"
     },
     {
       "source": "MacRumors",
@@ -241,13 +304,6 @@
       "pubDate": "2026-07-03T16:00:14.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "We really need a way to hand over ownership of an Apple Home",
-      "url": "https://9to5mac.com/2026/07/03/we-really-need-a-way-to-hand-over-ownership-of-an-apple-home/",
-      "pubDate": "2026-07-03T16:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Sketchy Rumor Claims Apple Watch Series 12 Could Introduce Sensor in Band",
@@ -269,20 +325,6 @@
       "pubDate": "2026-07-03T15:42:28.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Fourth of July Sales: Save on AirTag 2, M3 iPad Air, Charging Accessories and More",
-      "url": "https://www.macrumors.com/2026/07/03/best-apple-deals-of-the-week-7-3-26/",
-      "pubDate": "2026-07-03T14:40:02.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "12 New Things Your iPhone Can Do in iOS 27",
-      "url": "https://www.macrumors.com/2026/07/03/new-things-iphone-can-do-ios-27/",
-      "pubDate": "2026-07-03T14:25:41.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "iPhone 18 Pro leaks, AirDrop security concerns, and increased iPhone Fold orders, on the AppleInsider Podcast",
@@ -292,23 +334,9 @@
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
-      "title": "Siri AI is finally good, and Apple is going to win the AI wars",
-      "url": "https://appleinsider.com/articles/26/07/03/siri-ai-is-finally-good-and-apple-is-going-to-with-the-ai-wars?utm_source=rss",
-      "pubDate": "2026-07-03T12:50:18.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
       "title": "Apple Watch Series 12 may get new health sensor in its band",
       "url": "https://appleinsider.com/articles/26/07/03/apple-watch-series-12-may-get-new-health-sensor-in-its-band?utm_source=rss",
       "pubDate": "2026-07-03T11:53:39.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "All of the best 4th of July deals on Apple gear, accessories, OLED TVs, and much more",
-      "url": "https://9to5mac.com/2026/07/03/all-best-4th-of-july-deals-apple/",
-      "pubDate": "2026-07-03T11:19:13.000Z"
     },
     {
       "source": "AppleInsider",
@@ -318,39 +346,11 @@
       "pubDate": "2026-07-03T11:03:53.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Camera-Equipped AirPods Pro Development 'Suspended,' Leaker Claims",
-      "url": "https://www.macrumors.com/2026/07/03/camera-airpods-pro-development-suspended-leaker/",
-      "pubDate": "2026-07-03T10:12:53.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: July 3, 2026 – Apple Creator Studio updates, more",
-      "url": "https://9to5mac.com/2026/07/03/daily-july-3-2026/",
-      "pubDate": "2026-07-03T10:00:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Grab OWC Thunderbolt docks, cables, enclosures from just $19.99 with exclusive deals",
       "url": "https://appleinsider.com/articles/26/07/03/grab-owc-thunderbolt-docks-cables-enclosures-from-just-1999-with-exclusive-deals?utm_source=rss",
       "pubDate": "2026-07-03T09:16:49.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple says public YouTube videos can be used in AI lawsuit defense",
-      "url": "https://appleinsider.com/articles/26/07/03/apple-says-public-youtube-videos-can-be-used-in-ai-lawsuit-defense?utm_source=rss",
-      "pubDate": "2026-07-03T03:23:40.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Responds to Lawsuit Filed by Three YouTube Channels",
-      "url": "https://www.macrumors.com/2026/07/02/apple-responds-to-youtuber-ai-lawsuit/",
-      "pubDate": "2026-07-03T02:47:37.000Z"
     },
     {
       "source": "Six Colors",
