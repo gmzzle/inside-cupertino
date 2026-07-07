@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T22:38:50.855Z",
+  "generatedAt": "2026-07-07T01:08:08.849Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Terramaster F4-425 Pro review: Excellent set-and-forget networking hardware",
+      "url": "https://appleinsider.com/articles/26/07/07/terramaster-f4-425-pro-review-excellent-set-and-forget-networking-hardware?utm_source=rss",
+      "pubDate": "2026-07-07T00:23:29.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 beta 3 makes it easier to adjust AirPods Adaptive mode intensity",
+      "url": "https://9to5mac.com/2026/07/06/ios-27-beta-3-makes-it-easier-to-adjust-airpods-adaptive-mode-intensity/",
+      "pubDate": "2026-07-06T23:49:08.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple overhauls RAW photo processing with iOS 27, showcases impressive results",
+      "url": "https://9to5mac.com/2026/07/06/apple-overhauls-raw-photo-processing-with-ios-27-showcases-impressive-results/",
+      "pubDate": "2026-07-06T22:52:54.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -178,25 +199,11 @@
       "pubDate": "2026-07-06T18:36:33.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Here’s what’s new with iOS 27 beta 3",
-      "url": "https://9to5mac.com/2026/07/06/heres-whats-new-with-ios-27-beta-3/",
-      "pubDate": "2026-07-06T18:11:31.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple rolls out the third iOS 27, macOS 27 developer betas",
       "url": "https://appleinsider.com/articles/26/07/06/apple-rolls-out-the-third-ios-27-macos-27-developer-betas?utm_source=rss",
       "pubDate": "2026-07-06T17:45:29.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple rolls out fourth Release Candidates for macOS Sonoma 14.8.8 and Sequoia 15.7.8",
-      "url": "https://9to5mac.com/2026/07/06/apple-rolls-out-fourth-release-candidates-for-macos-sonoma-14-8-8-and-sequoia-15-7-8/",
-      "pubDate": "2026-07-06T17:40:50.000Z"
     },
     {
       "source": "AppleInsider",
@@ -351,13 +358,6 @@
       "title": "Microsoft is selling off four Xbox studios as part of significant gaming cuts",
       "url": "https://www.theverge.com/news/961546/xbox-layoffs-studio-sales-2026",
       "pubDate": "2026-07-06T13:31:24.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Siri AI is finally good, and Apple is going to win the AI wars",
-      "url": "https://appleinsider.com/articles/26/07/03/siri-ai-is-finally-good-and-apple-is-going-to-with-the-ai-wars?utm_source=rss",
-      "pubDate": "2026-07-06T12:42:53.000Z"
     },
     {
       "source": "Six Colors",
