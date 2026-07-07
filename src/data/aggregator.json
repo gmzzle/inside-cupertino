@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T08:44:09.601Z",
+  "generatedAt": "2026-07-07T12:10:03.718Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,11 +24,102 @@
   ],
   "items": [
     {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Marshall upgrades the bass and repairability of two wireless speakers",
+      "url": "https://www.theverge.com/tech/961601/marshall-acton-stanmore-iv-bluetooth-wireless-speakers-repair",
+      "pubDate": "2026-07-07T12:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Xbox’s bold plan for the future sounds nearly impossible",
+      "url": "https://www.theverge.com/entertainment/961924/xbox-billion-users",
+      "pubDate": "2026-07-07T12:00:00.000Z"
+    },
+    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Terramaster F4-425 Pro review: Excellent set-and-forget networking hardware",
       "url": "https://appleinsider.com/articles/26/07/07/terramaster-f4-425-pro-review-excellent-set-and-forget-networking-hardware?utm_source=rss",
-      "pubDate": "2026-07-07T01:44:02.000Z"
+      "pubDate": "2026-07-07T11:54:44.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Our choice of AI assistant really matters, says Tony Fadell – and raises big questions",
+      "url": "https://9to5mac.com/2026/07/07/our-choice-of-ai-assistant-really-matters-says-tony-fadell-and-raises-big-questions/",
+      "pubDate": "2026-07-07T11:22:05.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iPhone Air 2 battery expected to hit 30 hours of use from a single charge",
+      "url": "https://appleinsider.com/articles/26/07/07/iphone-air-2-battery-expected-to-hit-30-hours-of-use-from-a-single-charge?utm_source=rss",
+      "pubDate": "2026-07-07T11:21:12.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Leaker backs reports of two iPhone Air 2 improvements, with more detail",
+      "url": "https://9to5mac.com/2026/07/07/leaker-backs-reports-of-two-iphone-air-2-improvements-with-more-detail/",
+      "pubDate": "2026-07-07T11:00:35.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Are you ready for what it takes to stop ghost guns?",
+      "url": "https://www.theverge.com/tech/960802/3d-printed-gun-laws-ghost-guns",
+      "pubDate": "2026-07-07T11:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Free Dropbox Client Maestral Will Eventually Stop Working",
+      "url": "https://www.macrumors.com/2026/07/07/free-dropbox-client-maestral-retired/",
+      "pubDate": "2026-07-07T10:59:49.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Nothing’s first B-series phone is also skipping the US",
+      "url": "https://www.theverge.com/tech/962020/nothing-phone-4b-price-release-date-specs",
+      "pubDate": "2026-07-07T10:30:54.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Nothing’s new earbuds can record calls and what you’re listening to",
+      "url": "https://www.theverge.com/tech/961845/nothing-ear-3a-wireless-earbuds-call-recording-price-availability",
+      "pubDate": "2026-07-07T10:30:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone Air 2 Could Get an 11% Battery Capacity Boost",
+      "url": "https://www.macrumors.com/2026/07/07/iphone-air-2-battery-capacity-3500mah/",
+      "pubDate": "2026-07-07T10:04:21.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: July 7, 2026 – New iPad Pro and MacBook Pro rumors",
+      "url": "https://9to5mac.com/2026/07/07/daily-july-7-2026/",
+      "pubDate": "2026-07-07T10:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple @ Work Podcast: The 3 pillars of AI for the Apple enterprise",
+      "url": "https://9to5mac.com/2026/07/07/the-3-pillars-of-ai-for-the-apple-enterprise/",
+      "pubDate": "2026-07-07T10:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "MagSafe Monday: The NOCO XGrid XDS3 is the perfect StandBy mode companion",
+      "url": "https://9to5mac.com/2026/07/06/noco-xgrid-xds3/",
+      "pubDate": "2026-07-07T00:18:10.000Z"
     },
     {
       "source": "9to5Mac",
@@ -136,27 +227,6 @@
       "pubDate": "2026-07-06T19:55:04.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "How to upgrade your CarPlay experience with Ottocast products [15% off]",
-      "url": "https://9to5mac.com/2026/07/06/ottocast-turns-your-car-screen-into-a-match-day-hub-for-summer-soccer-celebration-15-off/",
-      "pubDate": "2026-07-06T19:46:36.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Judge agrees to postpone deadlines as Apple seeks broader pause in Epic Games case",
-      "url": "https://9to5mac.com/2026/07/06/judge-agrees-to-postpone-deadlines-as-apple-seeks-broader-pause-in-epic-games-case/",
-      "pubDate": "2026-07-06T19:33:26.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple adds new popup for AI features that send data to Google Cloud",
-      "url": "https://9to5mac.com/2026/07/06/apple-adds-new-popup-for-ai-features-that-send-data-to-google-cloud/",
-      "pubDate": "2026-07-06T19:27:07.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "macOS Golden Gate Gets New Wallpaper",
@@ -171,25 +241,11 @@
       "pubDate": "2026-07-06T19:18:25.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "watchOS 27 beta 3 includes upgraded Siri AI experience and dedicated Siri app",
-      "url": "https://9to5mac.com/2026/07/06/watchos-27-beta-3-includes-upgraded-siri-ai-experience-and-dedicated-siri-app/",
-      "pubDate": "2026-07-06T18:54:40.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "New in iOS 27 beta 3: Siri AI voice customization options",
       "url": "https://appleinsider.com/articles/26/07/06/new-in-ios-27-beta-3-siri-ai-voice-customization-options?utm_source=rss",
       "pubDate": "2026-07-06T18:42:08.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "macOS 27 Golden Gate adds these new wallpapers and screen savers to your Mac",
-      "url": "https://9to5mac.com/2026/07/06/macos-27-golden-gate-adds-these-new-wallpapers-and-screen-savers-to-your-mac/",
-      "pubDate": "2026-07-06T18:41:21.000Z"
     },
     {
       "source": "The Verge",
@@ -255,20 +311,6 @@
       "pubDate": "2026-07-06T17:18:37.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Seeds Fourth iOS 26.6 and iPadOS 26.6 Betas to Developers",
-      "url": "https://www.macrumors.com/2026/07/06/apple-seeds-ios-26-6-beta-4/",
-      "pubDate": "2026-07-06T17:17:55.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Releases Fourth watchOS 26.6, tvOS 26.6 and visionOS 26.6 Betas",
-      "url": "https://www.macrumors.com/2026/07/06/apple-seeds-watchos-26-6-beta-4/",
-      "pubDate": "2026-07-06T17:16:00.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Five questions for Dr. Rubin, who’s armed with a mic and a bowtie",
@@ -304,53 +346,11 @@
       "pubDate": "2026-07-06T16:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The DJI Osmo Pocket 3 lookalike is down to $329",
-      "url": "https://www.theverge.com/gadgets/961612/xtra-muse-dji-osmo-pocket-3-ipad-air-magic-mouse-deal-sale",
-      "pubDate": "2026-07-06T15:09:18.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple Watch Ultra 3 drops to $699 with $100 Amazon discount",
       "url": "https://appleinsider.com/articles/26/07/06/apple-watch-ultra-3-drops-to-699-with-100-amazon-discount?utm_source=rss",
       "pubDate": "2026-07-06T14:37:25.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Inside the big business of the creator economy, with the agents making it happen",
-      "url": "https://www.theverge.com/podcast/961603/raina-penchansky-ali-berman-dba-uta-influencer-cliff-marketing",
-      "pubDate": "2026-07-06T14:30:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPhone 18 Pro Max may get significantly longer battery life after all",
-      "url": "https://appleinsider.com/articles/26/07/06/iphone-18-pro-max-may-get-significantly-longer-battery-life-after-all?utm_source=rss",
-      "pubDate": "2026-07-06T14:27:23.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Nintendo will stop selling the original Switch in Europe next year",
-      "url": "https://www.theverge.com/games/961632/nintendo-switch-europe-discontinued",
-      "pubDate": "2026-07-06T14:15:48.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Can Partiful keep the party going?",
-      "url": "https://www.theverge.com/report/960635/partiful-app-event-planning-data-palantir",
-      "pubDate": "2026-07-06T14:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Microsoft is selling off four Xbox studios as part of significant gaming cuts",
-      "url": "https://www.theverge.com/news/961546/xbox-layoffs-studio-sales-2026",
-      "pubDate": "2026-07-06T13:31:24.000Z"
     },
     {
       "source": "Six Colors",
