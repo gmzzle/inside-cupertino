@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T01:08:08.849Z",
+  "generatedAt": "2026-07-07T05:08:09.401Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -28,7 +28,7 @@
       "sourceHomepage": "https://appleinsider.com",
       "title": "Terramaster F4-425 Pro review: Excellent set-and-forget networking hardware",
       "url": "https://appleinsider.com/articles/26/07/07/terramaster-f4-425-pro-review-excellent-set-and-forget-networking-hardware?utm_source=rss",
-      "pubDate": "2026-07-07T00:23:29.000Z"
+      "pubDate": "2026-07-07T01:44:02.000Z"
     },
     {
       "source": "9to5Mac",
@@ -339,13 +339,6 @@
       "pubDate": "2026-07-06T14:15:48.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple & Broadcom renew partnership through 2031",
-      "url": "https://appleinsider.com/articles/26/07/06/apple-broadcom-renew-partnership-through-2031?utm_source=rss",
-      "pubDate": "2026-07-06T14:15:01.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Can Partiful keep the party going?",
@@ -372,6 +365,13 @@
       "title": "EveryMac turns 30 ↦",
       "url": "https://sixcolors.com/link/2026/07/everymac-turns-30/",
       "pubDate": "2026-07-02T16:49:38.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) Clockwise 663: Fear-Based Approach",
+      "url": "https://sixcolors.com/podcast/2026/07/clockwise-663-fear-based-approach/",
+      "pubDate": "2026-07-01T19:54:00.000Z"
     }
   ]
 }
