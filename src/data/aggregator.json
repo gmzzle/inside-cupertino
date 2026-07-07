@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T20:58:30.412Z",
+  "generatedAt": "2026-07-07T22:31:40.235Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Flighty Update Adds Step-by-Step Guide for Connecting Flights",
+      "url": "https://www.macrumors.com/2026/07/07/flighty-connection-assistant/",
+      "pubDate": "2026-07-07T22:14:49.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Of course viewers are giving up on Netflix shows",
+      "url": "https://www.theverge.com/entertainment/962382/netflix-season-two-viewrship-dropoff-beef-avatar-one-piece-tiktok",
+      "pubDate": "2026-07-07T21:58:39.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Netflix is about to host videos from BuzzFeed, Condé Nast, and other publishers",
+      "url": "https://www.theverge.com/streaming/962528/netflix-digital-media-brands-streaming",
+      "pubDate": "2026-07-07T21:37:19.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Lamborghini launches Apple Vision Pro app with interactive full-size cars",
+      "url": "https://9to5mac.com/2026/07/07/lamborghini-launches-apple-vision-pro-app-with-interactive-full-size-cars/",
+      "pubDate": "2026-07-07T21:18:41.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -206,13 +234,6 @@
       "pubDate": "2026-07-07T15:41:11.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "AirPods Max condensation lawsuit significantly narrowed by judge",
-      "url": "https://9to5mac.com/2026/07/07/airpods-max-condensation-lawsuit-significantly-narrowed-by-judge/",
-      "pubDate": "2026-07-07T15:25:36.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Discord accidentally banned over 8,000 people for posting grids and other &#8216;benign&#8217; images",
@@ -241,13 +262,6 @@
       "pubDate": "2026-07-07T14:32:40.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Anker&#8217;s noise-blocking earbuds for sleeping are nearly half off",
-      "url": "https://www.theverge.com/gadgets/961962/anker-soundcore-sleep-a20-jbl-go-5-deal-sale",
-      "pubDate": "2026-07-07T14:30:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Amazon Discounts All Wi-Fi iPad Mini 7 Models by Up to $130",
@@ -259,13 +273,6 @@
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Beats Charging Cables Now Available in 'Power Pink'",
       "url": "https://www.macrumors.com/2026/07/07/beats-cables-power-pink/",
-      "pubDate": "2026-07-07T14:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "iRobot’s newest floor cleaner isn’t a robot",
-      "url": "https://www.theverge.com/tech/962034/irobot-roomba-electro-plus-smaller-cheaper-robot-vacuums",
       "pubDate": "2026-07-07T14:00:00.000Z"
     },
     {
@@ -316,13 +323,6 @@
       "title": "iPhone Air 2 Could Get an 11% Battery Capacity Boost",
       "url": "https://www.macrumors.com/2026/07/07/iphone-air-2-battery-capacity-3500mah/",
       "pubDate": "2026-07-07T10:04:21.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Everything New in iOS 27 Beta 3",
-      "url": "https://www.macrumors.com/2026/07/06/ios-27-beta-3-features/",
-      "pubDate": "2026-07-06T22:19:23.000Z"
     },
     {
       "source": "AppleInsider",
