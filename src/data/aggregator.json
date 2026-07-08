@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T06:39:08.671Z",
+  "generatedAt": "2026-07-08T09:38:23.149Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Loses EU Fight Over App Store Gatekeeper Label",
+      "url": "https://www.macrumors.com/2026/07/08/apple-loses-eu-fight-app-store-gatekeeper-label/",
+      "pubDate": "2026-07-08T08:54:59.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Samsung will launch its new wide foldable on July 22nd",
+      "url": "https://www.theverge.com/tech/962658/samsung-galaxy-unpacked-wide-foldable-watch-july",
+      "pubDate": "2026-07-08T08:13:52.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -241,13 +255,6 @@
       "pubDate": "2026-07-07T16:24:52.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Doom developer id reportedly cut in half as part of Xbox layoffs",
-      "url": "https://www.theverge.com/games/962223/doom-id-software-xbox-layoffs",
-      "pubDate": "2026-07-07T16:09:48.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "iPhone 18 Pro's camera bump could be a little bit thicker",
@@ -316,13 +323,6 @@
       "title": "iPhone Air 2 battery expected to hit 30 hours of use from a single charge",
       "url": "https://appleinsider.com/articles/26/07/07/iphone-air-2-battery-expected-to-hit-30-hours-of-use-from-a-single-charge?utm_source=rss",
       "pubDate": "2026-07-07T11:21:12.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Free Dropbox Client Maestral Will Eventually Stop Working",
-      "url": "https://www.macrumors.com/2026/07/07/free-dropbox-client-maestral-retired/",
-      "pubDate": "2026-07-07T10:59:49.000Z"
     },
     {
       "source": "Six Colors",
