@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T20:37:57.689Z",
+  "generatedAt": "2026-07-08T22:17:31.102Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 adds nine new languages and accents to Apple Translate",
+      "url": "https://9to5mac.com/2026/07/08/ios-27-adds-nine-new-languages-and-accents-to-apple-translate/",
+      "pubDate": "2026-07-08T21:23:54.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Meta's New AI Image Tool Can Use Your Public Instagram Photos by Default",
+      "url": "https://www.macrumors.com/2026/07/08/meta-ai-muse-image/",
+      "pubDate": "2026-07-08T20:52:31.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Halide 3.1 to add perspective correction, RAW-only capture, and a new Scarlet look",
+      "url": "https://9to5mac.com/2026/07/08/halide-3-1-to-add-perspective-correction-raw-only-capture-and-a-new-scarlet-look/",
+      "pubDate": "2026-07-08T20:42:01.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -201,7 +222,7 @@
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: MacBook Neo $110 off, M5 Pro MacBook Pro $449 off, M5 iPad Pro $250 off, chargers, accessories, more",
+      "title": "Deals: AirPods 4, rare discounts on Magic Keyboards/Mouse, Apple Watch Ultra 3 $99 off, chargers, accessories, more",
       "url": "https://9to5mac.com/2026/07/08/deals-macbook-neo-m5-pro-macbook-pro-ipad-pro/",
       "pubDate": "2026-07-08T15:20:29.000Z"
     },
@@ -304,13 +325,6 @@
       "pubDate": "2026-07-08T14:13:21.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Spotify just gave users a highly requested feature after years of feedback",
-      "url": "https://9to5mac.com/2026/07/08/spotify-just-gave-users-a-highly-requested-feature-after-years-of-feedback/",
-      "pubDate": "2026-07-08T14:02:44.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) The Rebound 606: Kick ‘Em When They’re Up",
@@ -325,13 +339,6 @@
       "pubDate": "2026-07-08T13:47:08.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "PSA: macOS 28 will drop support for encrypted Mac OS Extended volumes",
-      "url": "https://9to5mac.com/2026/07/08/psa-macos-28-will-drop-support-for-encrypted-mac-os-extended-volumes/",
-      "pubDate": "2026-07-08T13:40:25.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Tim Cook and John Ternus Attend Sun Valley Conference Together",
@@ -344,13 +351,6 @@
       "title": "Report: Cheaper Apple Vision Pro Display Work Winds Down at Samsung",
       "url": "https://www.macrumors.com/2026/07/08/cheaper-apple-vision-pro-display-work-ended/",
       "pubDate": "2026-07-08T12:16:54.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Samsung Galaxy Unpacked Event Set for July 22 With Foldable iPhone Rival Expected to Debut",
-      "url": "https://www.macrumors.com/2026/07/08/samsung-galaxy-unpacked-event-july-22-rival-apple/",
-      "pubDate": "2026-07-08T11:11:16.000Z"
     },
     {
       "source": "AppleInsider",
