@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T22:31:40.235Z",
+  "generatedAt": "2026-07-08T00:12:13.944Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Boox Go 6 Gen II review: Delightful, just not that impressive",
+      "url": "https://appleinsider.com/articles/26/07/08/boox-go-6-gen-ii-review-delightful-just-not-that-impressive?utm_source=rss",
+      "pubDate": "2026-07-08T00:03:25.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Meta’s glasses will turn off the camera if you tamper with the privacy light",
+      "url": "https://www.theverge.com/gadgets/962514/meta-privacy-light-tampering-smart-glasses-update",
+      "pubDate": "2026-07-07T23:55:19.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Tim Cook attends Sun Valley Conference alongside Eddy Cue",
+      "url": "https://9to5mac.com/2026/07/07/tim-cook-attends-sun-valley-conference-alongside-eddy-cue/",
+      "pubDate": "2026-07-07T23:38:06.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iOS 27: 13 Ways the Messages App is Smarter and Less Annoying",
+      "url": "https://www.macrumors.com/guide/ios-27-messages/",
+      "pubDate": "2026-07-07T23:25:08.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -220,25 +248,11 @@
       "pubDate": "2026-07-07T15:58:47.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Pocket Casts update brings three new features, including CarPlay chapter artwork",
-      "url": "https://9to5mac.com/2026/07/07/pocket-casts-update-brings-three-new-features-including-carplay-chapter-artwork/",
-      "pubDate": "2026-07-07T15:42:05.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "iPhone 18 Pro's camera bump could be a little bit thicker",
       "url": "https://appleinsider.com/articles/26/07/07/iphone-18-pros-camera-bump-could-be-a-little-bit-thicker?utm_source=rss",
       "pubDate": "2026-07-07T15:41:11.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Discord accidentally banned over 8,000 people for posting grids and other &#8216;benign&#8217; images",
-      "url": "https://www.theverge.com/games/962156/discord-accidental-bans-grid-images",
-      "pubDate": "2026-07-07T15:02:30.000Z"
     },
     {
       "source": "MacRumors",
@@ -316,20 +330,6 @@
       "title": "Free Dropbox Client Maestral Will Eventually Stop Working",
       "url": "https://www.macrumors.com/2026/07/07/free-dropbox-client-maestral-retired/",
       "pubDate": "2026-07-07T10:59:49.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone Air 2 Could Get an 11% Battery Capacity Boost",
-      "url": "https://www.macrumors.com/2026/07/07/iphone-air-2-battery-capacity-3500mah/",
-      "pubDate": "2026-07-07T10:04:21.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple Home AI features locked behind 2TB iCloud+ plan",
-      "url": "https://appleinsider.com/articles/26/07/06/apple-home-ai-features-locked-behind-2tb-icloud-plan?utm_source=rss",
-      "pubDate": "2026-07-06T21:34:08.000Z"
     },
     {
       "source": "Six Colors",
