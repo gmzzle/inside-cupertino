@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T09:38:23.149Z",
+  "generatedAt": "2026-07-08T11:57:44.039Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,62 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Europe throws out Apple's attempt to free App Store & iMessage from regulations",
+      "url": "https://appleinsider.com/articles/26/07/08/europe-throws-out-apples-attempt-to-free-app-store-imessage-from-regulations?utm_source=rss",
+      "pubDate": "2026-07-08T11:30:09.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple loses major antitrust appeal in Europe, remains a ‘gatekeeper’",
+      "url": "https://9to5mac.com/2026/07/08/apple-loses-major-antitrust-appeal-in-europe-remains-a-gatekeeper/",
+      "pubDate": "2026-07-08T11:18:16.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Samsung Galaxy Unpacked Event Set for July 22 With Foldable iPhone Rival Expected to Debut",
+      "url": "https://www.macrumors.com/2026/07/08/samsung-galaxy-unpacked-event-july-22-rival-apple/",
+      "pubDate": "2026-07-08T11:11:16.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The robotaxi law that could ban Tesla",
+      "url": "https://www.theverge.com/transportation/962309/new-jersey-robotaxi-bill-lidar-tesla",
+      "pubDate": "2026-07-08T11:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple announces its largest US manufacturing investment: a $30B Broadcom chip contract",
+      "url": "https://9to5mac.com/2026/07/08/apple-announces-its-largest-us-manufacturing-investment-a-30b-broadcom-chip-contract/",
+      "pubDate": "2026-07-08T10:45:16.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Announces $30 Billion Broadcom Deal to Make More US Chips",
+      "url": "https://www.macrumors.com/2026/07/08/apple-announces-30-billion-broadcom-deal/",
+      "pubDate": "2026-07-08T10:21:19.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone Ultra Reportedly in Mass Production, No Delay Envisaged",
+      "url": "https://www.macrumors.com/2026/07/08/foldable-iphone-ultra-mass-production-no-delay/",
+      "pubDate": "2026-07-08T10:10:33.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: July 8, 2026 – iOS 27 and watchOS 27 beta 3",
+      "url": "https://9to5mac.com/2026/07/08/daily-july-8-2026/",
+      "pubDate": "2026-07-08T10:00:00.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -227,34 +283,6 @@
       "pubDate": "2026-07-07T17:46:59.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Weibo leaker says iPhone 18 Pro thickness will be ‘surprising’",
-      "url": "https://9to5mac.com/2026/07/07/weibo-leaker-says-iphone-18-pro-thickness-will-be-surprising/",
-      "pubDate": "2026-07-07T17:42:20.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Google announces Pixel 11 launch event in August",
-      "url": "https://www.theverge.com/tech/962313/made-by-google-pixel-11-launch-event",
-      "pubDate": "2026-07-07T17:22:48.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Xbox Family Settings for iPhone and iPad expands console parental control tools",
-      "url": "https://9to5mac.com/2026/07/07/xbox-family-settings-for-iphone-and-ipad-expands-console-parental-control-tools/",
-      "pubDate": "2026-07-07T17:19:03.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Anthropic expanding Claude Cowork to mobile and web, details here",
-      "url": "https://9to5mac.com/2026/07/07/anthropic-expanding-claude-cowork-to-mobile-and-web-details-here/",
-      "pubDate": "2026-07-07T16:24:52.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "iPhone 18 Pro's camera bump could be a little bit thicker",
@@ -283,32 +311,11 @@
       "pubDate": "2026-07-07T14:32:40.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Amazon Discounts All Wi-Fi iPad Mini 7 Models by Up to $130",
-      "url": "https://www.macrumors.com/2026/07/07/wi-fi-ipad-mini-7-models/",
-      "pubDate": "2026-07-07T14:13:40.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Beats Charging Cables Now Available in 'Power Pink'",
-      "url": "https://www.macrumors.com/2026/07/07/beats-cables-power-pink/",
-      "pubDate": "2026-07-07T14:00:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Everyone should have a trustworthy VPN & at $2.99 per month, Proton is a great choice",
       "url": "https://appleinsider.com/articles/26/07/07/everyone-should-have-a-trustworthy-vpn-at-299-per-month-proton-is-a-great-choice?utm_source=rss",
       "pubDate": "2026-07-07T13:48:13.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "AirPods Max Condensation Lawsuit Largely Dismissed by NY Judge",
-      "url": "https://www.macrumors.com/2026/07/07/airpods-max-condensation-lawsuit-largely-dismissed/",
-      "pubDate": "2026-07-07T13:14:02.000Z"
     },
     {
       "source": "AppleInsider",
@@ -365,13 +372,6 @@
       "title": "(Podcast) Clockwise 663: Fear-Based Approach",
       "url": "https://sixcolors.com/podcast/2026/07/clockwise-663-fear-based-approach/",
       "pubDate": "2026-07-01T19:54:00.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) The Rebound 605: I Don’t Want to Go to Tatooine",
-      "url": "https://sixcolors.com/podcast/2026/07/the-rebound-605-i-dont-want-to-go-to-tatooine/",
-      "pubDate": "2026-07-01T14:00:00.000Z"
     }
   ]
 }
