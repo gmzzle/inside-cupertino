@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T18:11:19.689Z",
+  "generatedAt": "2026-07-09T20:05:32.550Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,48 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple stops signing iOS versions for several older iPhones and iPads [U: Signing restored]",
+      "url": "https://9to5mac.com/2026/07/09/apple-stops-signing-ios-versions-for-several-older-iphones-and-ipads/",
+      "pubDate": "2026-07-09T19:34:12.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "AI agents move deeper into business workflows with ChatGPT Work & GPT-5.6",
+      "url": "https://appleinsider.com/articles/26/07/09/ai-agents-move-deeper-into-business-workflows-with-chatgpt-work-gpt-56?utm_source=rss",
+      "pubDate": "2026-07-09T19:26:39.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "WhatCable gives you the download on your USB cables",
+      "url": "https://sixcolors.com/post/2026/07/whatcable-gives-you-the-download-on-your-usb-cables/",
+      "pubDate": "2026-07-09T19:13:19.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone 18 Pro could bring three controversial design changes",
+      "url": "https://9to5mac.com/2026/07/09/iphone-18-pro-could-bring-three-controversial-design-changes/",
+      "pubDate": "2026-07-09T19:00:25.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "OpenAI is discontinuing ChatGPT Atlas, its standalone desktop browser",
+      "url": "https://9to5mac.com/2026/07/09/openai-is-discontinuing-chatgpt-atlas-its-standalone-desktop-browser/",
+      "pubDate": "2026-07-09T18:56:07.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Strava gets an Events tab with upcoming races, group runs, more",
+      "url": "https://9to5mac.com/2026/07/09/strava-gets-an-events-tab-with-upcoming-races-group-runs-more/",
+      "pubDate": "2026-07-09T18:35:46.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -82,7 +124,7 @@
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
-      "title": "OpenAI announcing ‘the next chapter for ChatGPT’ today, watch here",
+      "title": "OpenAI unveils ChatGPT Work agent, GPT-5.6 models now available",
       "url": "https://9to5mac.com/2026/07/09/openai-announcing-the-next-chapter-for-chatgpt-today-watch-here/",
       "pubDate": "2026-07-09T16:45:22.000Z"
     },
@@ -206,13 +248,6 @@
       "pubDate": "2026-07-09T14:08:54.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Claude AI may ask you if you’re using it too much",
-      "url": "https://9to5mac.com/2026/07/09/claude-ai-may-ask-you-if-youre-using-it-too-much/",
-      "pubDate": "2026-07-09T14:05:04.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Sony brings back the superzoom RX10 with a stacked sensor and a high price",
@@ -241,32 +276,11 @@
       "pubDate": "2026-07-09T13:45:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Report: Apple interested in startup that runs giant AI models on iPhone without servers",
-      "url": "https://9to5mac.com/2026/07/09/report-apple-interested-in-startup-that-runs-giant-ai-models-on-iphone-without-servers/",
-      "pubDate": "2026-07-09T13:43:32.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone manufacturing in India gets a tariff boost",
-      "url": "https://9to5mac.com/2026/07/09/iphone-manufacturing-in-india-gets-a-tariff-boost/",
-      "pubDate": "2026-07-09T13:32:54.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple supplier Luxshare share listing sets new record then fell back",
-      "url": "https://9to5mac.com/2026/07/09/apple-supplier-luxshare-share-listing-sets-new-record-then-fell-back/",
-      "pubDate": "2026-07-09T12:35:21.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Pulls Ability to Restore iPhone 5c, iPad Mini, and More",
+      "title": "Apple Pulls Ability to Restore iPhone 5c, iPad Mini, and More [Updated]",
       "url": "https://www.macrumors.com/2026/07/09/apple-pulls-ability-to-restore-iphone-5c-and-more/",
-      "pubDate": "2026-07-09T12:31:13.000Z"
+      "pubDate": "2026-07-09T12:31:06.000Z"
     },
     {
       "source": "MacRumors",
@@ -302,13 +316,6 @@
       "title": "Make an iPhone into a Dumb Phone ↦",
       "url": "https://sixcolors.com/link/2026/07/make-an-iphone-into-a-dumb-phone/",
       "pubDate": "2026-07-09T02:40:32.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "'Widow's Bay' & 'Pluribus' lead Apple's record-breaking charge for 2026 Emmy Awards",
-      "url": "https://appleinsider.com/articles/26/07/08/widows-bay-and-pluribus-nominated-for-the-most-prestigious-emmy-awards?utm_source=rss",
-      "pubDate": "2026-07-09T01:01:28.000Z"
     },
     {
       "source": "MacRumors",
@@ -365,13 +372,6 @@
       "title": "(Podcast) Upgrade 627: Do Not Use, Do Not Turn Off",
       "url": "https://sixcolors.com/podcast/2026/07/upgrade-627-do-not-use-do-not-turn-off/",
       "pubDate": "2026-07-06T21:32:57.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "A visit to the App Library: Hiding and deleting apps on iOS",
-      "url": "https://sixcolors.com/post/2026/07/it-jiggles-when-you-poke-it-relocating-iphone-and-ipad-apps/",
-      "pubDate": "2026-07-06T17:00:38.000Z"
     }
   ]
 }
