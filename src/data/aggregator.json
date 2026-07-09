@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T16:09:37.412Z",
+  "generatedAt": "2026-07-09T18:11:19.689Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,90 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "OpenAI Debuts ChatGPT Work Agent and New GPT-5.6 Models",
+      "url": "https://www.macrumors.com/2026/07/09/openai-chatgpt-work/",
+      "pubDate": "2026-07-09T18:01:16.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple going big at Comic Con with a 2-hour panel and show preview",
+      "url": "https://appleinsider.com/articles/26/07/09/apple-going-big-at-comic-con-with-a-2-hour-panel-and-show-preview?utm_source=rss",
+      "pubDate": "2026-07-09T17:58:05.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Google&#8217;s Nest Thermostat has hit its best price of the year",
+      "url": "https://www.theverge.com/gadgets/963475/google-nest-thermostat-deal-sale",
+      "pubDate": "2026-07-09T17:33:46.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Import duty cuts make India even more attractive for iPhone manufacturing",
+      "url": "https://appleinsider.com/articles/26/07/09/import-duty-cuts-make-india-even-more-attractive-for-iphone-manufacturing?utm_source=rss",
+      "pubDate": "2026-07-09T17:28:52.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Last Call: M5 Pro MacBook Pro Remains at Pre-Hike Price But Not for Much Longer",
+      "url": "https://www.macrumors.com/2026/07/09/last-call-m5-macbook-pro/",
+      "pubDate": "2026-07-09T17:20:13.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple TV sets major Comic-Con lineup with Silo, Dark Matter, Widow’s Bay, more",
+      "url": "https://9to5mac.com/2026/07/09/apple-tv-sets-major-comic-con-lineup-with-silo-dark-matter-widows-bay-more/",
+      "pubDate": "2026-07-09T17:06:26.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Microsoft’s patch Tuesdays are about to get bigger",
+      "url": "https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates",
+      "pubDate": "2026-07-09T17:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
+      "pubDate": "2026-07-09T17:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "OpenAI announcing ‘the next chapter for ChatGPT’ today, watch here",
+      "url": "https://9to5mac.com/2026/07/09/openai-announcing-the-next-chapter-for-chatgpt-today-watch-here/",
+      "pubDate": "2026-07-09T16:45:22.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "As TV Time prepares to shut down, JustWatch launches migration tool",
+      "url": "https://9to5mac.com/2026/07/09/as-tv-time-prepares-to-shut-down-justwatch-launches-migration-tool/",
+      "pubDate": "2026-07-09T16:38:59.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Exploring Ways to Run Much Larger AI Models Directly on iPhones",
+      "url": "https://www.macrumors.com/2026/07/09/apple-prismml-larger-on-device-ai-models/",
+      "pubDate": "2026-07-09T16:24:50.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple TV and MLB Release August Schedule for 'Friday Night Baseball'",
+      "url": "https://www.macrumors.com/2026/07/09/apple-tv-friday-night-baseball-august/",
+      "pubDate": "2026-07-09T16:13:51.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -171,27 +255,6 @@
       "pubDate": "2026-07-09T13:32:54.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Say hello to Claude Wrapped",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage",
-      "pubDate": "2026-07-09T13:30:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Character.AI wants a piece of the microdrama pie",
-      "url": "https://www.theverge.com/entertainment/962897/character-ai-series-microdrama-vertical-video",
-      "pubDate": "2026-07-09T13:11:53.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "FL Studio 2026 turns its AI chatbot into your assistant engineer",
-      "url": "https://www.theverge.com/tech/963052/fl-studio-2026-music-daw-ai-chatbot",
-      "pubDate": "2026-07-09T13:00:00.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Apple supplier Luxshare share listing sets new record then fell back",
@@ -213,25 +276,11 @@
       "pubDate": "2026-07-09T12:14:39.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "PSA: Flip these two Instagram toggles now to stop people using your face",
-      "url": "https://9to5mac.com/2026/07/09/psa-flip-these-two-instagram-toggles-now-to-stop-people-using-your-face/",
-      "pubDate": "2026-07-09T11:27:26.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Meta's 'Super Sensing' Prototype Glasses Quietly Record Everything",
       "url": "https://www.macrumors.com/2026/07/09/meta-super-sensing-glasses-record-everything/",
       "pubDate": "2026-07-09T11:20:28.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Memory prices are bad news for Android brands but may actually help Apple",
-      "url": "https://9to5mac.com/2026/07/09/memory-prices-are-bad-news-for-android-brands-but-may-actually-help-apple/",
-      "pubDate": "2026-07-09T11:05:09.000Z"
     },
     {
       "source": "AppleInsider",
@@ -276,39 +325,11 @@
       "pubDate": "2026-07-08T23:31:33.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 adds nine new languages and accents to Apple Translate",
-      "url": "https://9to5mac.com/2026/07/08/ios-27-adds-nine-new-languages-and-accents-to-apple-translate/",
-      "pubDate": "2026-07-08T21:23:54.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Meta's New AI Image Tool Can Use Your Public Instagram Photos by Default",
-      "url": "https://www.macrumors.com/2026/07/08/meta-ai-muse-image/",
-      "pubDate": "2026-07-08T20:52:31.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Nintendo Shutting Down Mario Kart Tour iOS Game",
-      "url": "https://www.macrumors.com/2026/07/08/mario-kart-tour-shutting-down/",
-      "pubDate": "2026-07-08T19:59:19.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) Clockwise 664: How I Use My Life",
       "url": "https://sixcolors.com/podcast/2026/07/clockwise-664-how-i-use-my-life/",
       "pubDate": "2026-07-08T19:48:23.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "OpenAI Introduces GPT-Live to Make ChatGPT Voice Feel Like a Real Conversation",
-      "url": "https://www.macrumors.com/2026/07/08/openai-gpt-live-voice/",
-      "pubDate": "2026-07-08T19:03:52.000Z"
     },
     {
       "source": "AppleInsider",
@@ -330,27 +351,6 @@
       "title": "Final lap for 'Mario Kart Tour' badly closes another Nintendo mobile gaming chapter",
       "url": "https://appleinsider.com/articles/26/07/08/final-lap-for-mario-kart-tour-badly-closes-another-nintendo-mobile-gaming-chapter?utm_source=rss",
       "pubDate": "2026-07-08T17:40:32.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple TV Earns Record 87 Emmy Nominations for 2026, Led by 'Pluribus' and 'Widow's Bay'",
-      "url": "https://www.macrumors.com/2026/07/08/apple-tv-emmy-nominations-2026/",
-      "pubDate": "2026-07-08T17:37:10.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple testing banned vendor RAM is a Band-Aid, not a cure",
-      "url": "https://appleinsider.com/articles/26/07/08/apple-testing-banned-vendor-ram-is-a-band-aid-not-a-cure?utm_source=rss",
-      "pubDate": "2026-07-08T16:21:39.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple the only bright spot in a declining PC market, savaged by RAM price hikes",
-      "url": "https://appleinsider.com/articles/26/07/08/apple-the-only-bright-spot-in-a-declining-pc-market-savaged-by-ram-price-hikes?utm_source=rss",
-      "pubDate": "2026-07-08T16:02:33.000Z"
     },
     {
       "source": "Six Colors",
