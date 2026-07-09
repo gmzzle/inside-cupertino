@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T21:46:39.504Z",
+  "generatedAt": "2026-07-09T23:37:29.449Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,55 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Netflix looking for engagement in live TV and bundles while Apple TV app integration is right there",
+      "url": "https://9to5mac.com/2026/07/09/netflix-looking-for-engagement-in-live-tv-and-bundles-while-apple-tv-app-integration-is-right-there/",
+      "pubDate": "2026-07-09T23:31:24.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
+      "pubDate": "2026-07-09T23:24:04.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iOS 27: 8+ New CarPlay Features",
+      "url": "https://www.macrumors.com/guide/ios-27-carplay/",
+      "pubDate": "2026-07-09T23:23:59.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple TV Taking Over Comic-Con's Hall H for the First Time With Widow's Bay, Silo and More",
+      "url": "https://www.macrumors.com/2026/07/09/apple-tv-comic-con-2026/",
+      "pubDate": "2026-07-09T23:05:19.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Netflix reportedly considers adding always-on channels",
+      "url": "https://www.theverge.com/streaming/963733/netflix-always-on-channels-bundles",
+      "pubDate": "2026-07-09T23:00:31.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 beta 3 changes, Siri AI on Apple Watch, macOS Golden Gate features",
+      "url": "https://9to5mac.com/2026/07/09/happy-hour-598/",
+      "pubDate": "2026-07-09T22:58:39.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iVANKY FusionDock Ultra: The Thunderbolt 5 dock built for Mac workflows",
+      "url": "https://9to5mac.com/2026/07/09/ivanky-fusiondock-ultra-thunderbolt-5-dock-built-for-mac-workflows/",
+      "pubDate": "2026-07-09T22:30:00.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -213,20 +262,6 @@
       "pubDate": "2026-07-09T15:33:22.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple TV shares first trailer for ‘There’s No Place Like Home, Snoopy’",
-      "url": "https://9to5mac.com/2026/07/09/apple-tv-shares-first-trailer-for-theres-no-place-like-home-snoopy/",
-      "pubDate": "2026-07-09T15:17:27.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: Apple Watch Ultra 3 $140 off, Apple TV 4K, iPhone 17 Pro/Max up to $449 off, charging gear, more",
-      "url": "https://9to5mac.com/2026/07/09/deals-apple-watch-ultra-3-apple-tv-iphone-17-pro/",
-      "pubDate": "2026-07-09T15:14:26.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Amazon's $659 Apple Watch Ultra 3 deal is about to sell out, grab the discount now",
@@ -248,13 +283,6 @@
       "pubDate": "2026-07-09T14:20:19.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Rumored iPhone 18 Pro Max specs point to Apple’s heaviest iPhone in years",
-      "url": "https://9to5mac.com/2026/07/09/rumored-iphone-18-pro-max-specs-point-to-apples-heaviest-iphone-in-years/",
-      "pubDate": "2026-07-09T14:18:57.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Sonos, Sony, Anker and More: The Best Amazon Accessory Deals Right Now",
@@ -262,25 +290,11 @@
       "pubDate": "2026-07-09T14:15:34.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The PocketMage resurrects the PDA with an e-paper screen",
-      "url": "https://www.theverge.com/tech/963281/pocketmage-pda-e-paper-oled-clamshell-crowd-supply",
-      "pubDate": "2026-07-09T14:11:40.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "'Siri AI' Lawsuit Update: Apple to Pay Owners of These iPhone Models",
       "url": "https://www.macrumors.com/2026/07/09/siri-ai-lawsuit-settlement-claims-timing/",
       "pubDate": "2026-07-09T14:08:54.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Sony brings back the superzoom RX10 with a stacked sensor and a high price",
-      "url": "https://www.theverge.com/tech/962439/sony-rx10v-superzoom-camera-price-specs-hands-on",
-      "pubDate": "2026-07-09T14:00:00.000Z"
     },
     {
       "source": "MacRumors",
@@ -297,25 +311,11 @@
       "pubDate": "2026-07-09T12:14:39.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Meta's 'Super Sensing' Prototype Glasses Quietly Record Everything",
-      "url": "https://www.macrumors.com/2026/07/09/meta-super-sensing-glasses-record-everything/",
-      "pubDate": "2026-07-09T11:20:28.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "iPhone 18 Pro Max's longer battery life comes at a cost in weight and size",
       "url": "https://appleinsider.com/articles/26/07/09/iphone-18-pro-maxs-longer-battery-life-comes-at-a-cost-in-weight-and-size?utm_source=rss",
       "pubDate": "2026-07-09T10:15:20.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone 18 Pro Max Said to Be Thicker and Heavier Than Predecessor",
-      "url": "https://www.macrumors.com/2026/07/09/iphone-18-pro-max-thicker-heavier/",
-      "pubDate": "2026-07-09T08:59:23.000Z"
     },
     {
       "source": "Six Colors",
