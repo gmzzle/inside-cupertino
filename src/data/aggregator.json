@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T12:15:55.592Z",
+  "generatedAt": "2026-07-09T16:09:37.412Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -26,16 +26,191 @@
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
-      "title": "DuckDuckGo Browser Now Blocks YouTube Ads on iPhone and Mac",
-      "url": "https://www.macrumors.com/2026/07/09/duckduckgo-browser-blocks-youtube-ads/",
-      "pubDate": "2026-07-09T12:14:39.000Z"
+      "title": "Apple's Manufacturing in India Gets Boost From New Tariff Exemptions",
+      "url": "https://www.macrumors.com/2026/07/09/apple-gets-boost-from-india-tariff-exemptions/",
+      "pubDate": "2026-07-09T16:06:08.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone 18 Pro Max component costs could jump by nearly $300, per report",
+      "url": "https://9to5mac.com/2026/07/09/iphone-18-pro-max-component-costs-could-jump-by-nearly-300-per-report/",
+      "pubDate": "2026-07-09T15:58:43.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: July 9, 2026 – Apple’s DMA battle, Vision Pro rumors",
+      "url": "https://9to5mac.com/2026/07/09/daily-july-9-2026/",
+      "pubDate": "2026-07-09T15:57:50.000Z"
     },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
-      "title": "SpaceX is on track for record-setting Starlink deployments",
-      "url": "https://www.theverge.com/news/963196/spacex-is-on-track-for-record-setting-starlink-deployments",
-      "pubDate": "2026-07-09T11:51:31.000Z"
+      "title": "Schlage’s Sense Pro unlocks the door so I don’t have to",
+      "url": "https://www.theverge.com/tech/963100/schlage-sense-pro-review-apple-home-key-uwb-handsfree-unlock",
+      "pubDate": "2026-07-09T15:45:46.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Price rises certain as iPhone 18 Pro Max component costs soar",
+      "url": "https://appleinsider.com/articles/26/07/09/price-rises-certain-as-iphone-18-pro-max-component-costs-soar?utm_source=rss",
+      "pubDate": "2026-07-09T15:33:22.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple TV shares first trailer for ‘There’s No Place Like Home, Snoopy’",
+      "url": "https://9to5mac.com/2026/07/09/apple-tv-shares-first-trailer-for-theres-no-place-like-home-snoopy/",
+      "pubDate": "2026-07-09T15:17:27.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Deals: Apple Watch Ultra 3 $140 off, Apple TV 4K, iPhone 17 Pro/Max up to $449 off, charging gear, more",
+      "url": "https://9to5mac.com/2026/07/09/deals-apple-watch-ultra-3-apple-tv-iphone-17-pro/",
+      "pubDate": "2026-07-09T15:14:26.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Amazon's $659 Apple Watch Ultra 3 deal is about to sell out, grab the discount now",
+      "url": "https://appleinsider.com/articles/26/07/09/amazons-659-apple-watch-ultra-3-deal-is-about-to-sell-out-grab-the-discount-now?utm_source=rss",
+      "pubDate": "2026-07-09T15:13:01.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Sonos Ace wireless headphones are steeply discounted",
+      "url": "https://www.theverge.com/gadgets/963121/sonos-ace-headphones-dashpass-best-buy-apple-watch-ultra-deal-sale",
+      "pubDate": "2026-07-09T14:30:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "New AI startup could shrink server-sized models for use on iPhones",
+      "url": "https://appleinsider.com/articles/26/07/09/new-ai-startup-could-shrink-server-sized-models-for-use-on-iphones?utm_source=rss",
+      "pubDate": "2026-07-09T14:20:19.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Rumored iPhone 18 Pro Max specs point to Apple’s heaviest iPhone in years",
+      "url": "https://9to5mac.com/2026/07/09/rumored-iphone-18-pro-max-specs-point-to-apples-heaviest-iphone-in-years/",
+      "pubDate": "2026-07-09T14:18:57.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Sonos, Sony, Anker and More: The Best Amazon Accessory Deals Right Now",
+      "url": "https://www.macrumors.com/2026/07/09/sonos-sony-anker-and-more/",
+      "pubDate": "2026-07-09T14:15:34.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The PocketMage resurrects the PDA with an e-paper screen",
+      "url": "https://www.theverge.com/tech/963281/pocketmage-pda-e-paper-oled-clamshell-crowd-supply",
+      "pubDate": "2026-07-09T14:11:40.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "'Siri AI' Lawsuit Update: Apple to Pay Owners of These iPhone Models",
+      "url": "https://www.macrumors.com/2026/07/09/siri-ai-lawsuit-settlement-claims-timing/",
+      "pubDate": "2026-07-09T14:08:54.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Claude AI may ask you if you’re using it too much",
+      "url": "https://9to5mac.com/2026/07/09/claude-ai-may-ask-you-if-youre-using-it-too-much/",
+      "pubDate": "2026-07-09T14:05:04.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Sony brings back the superzoom RX10 with a stacked sensor and a high price",
+      "url": "https://www.theverge.com/tech/962439/sony-rx10v-superzoom-camera-price-specs-hands-on",
+      "pubDate": "2026-07-09T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Comcast is breaking up with NBCU. Why did it ever buy it in the first place?",
+      "url": "https://www.theverge.com/podcast/962994/comcast-nbc-universal-split-versant-content-plus-pipes-media-broadband",
+      "pubDate": "2026-07-09T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Meta says its new AI model is ready to compete on coding",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
+      "pubDate": "2026-07-09T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "ICE agents are making house calls for online critics",
+      "url": "https://www.theverge.com/report/963106/ice-doxxing-office-of-professional-responsibility-free-speech",
+      "pubDate": "2026-07-09T13:45:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Report: Apple interested in startup that runs giant AI models on iPhone without servers",
+      "url": "https://9to5mac.com/2026/07/09/report-apple-interested-in-startup-that-runs-giant-ai-models-on-iphone-without-servers/",
+      "pubDate": "2026-07-09T13:43:32.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone manufacturing in India gets a tariff boost",
+      "url": "https://9to5mac.com/2026/07/09/iphone-manufacturing-in-india-gets-a-tariff-boost/",
+      "pubDate": "2026-07-09T13:32:54.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Say hello to Claude Wrapped",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage",
+      "pubDate": "2026-07-09T13:30:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Character.AI wants a piece of the microdrama pie",
+      "url": "https://www.theverge.com/entertainment/962897/character-ai-series-microdrama-vertical-video",
+      "pubDate": "2026-07-09T13:11:53.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "FL Studio 2026 turns its AI chatbot into your assistant engineer",
+      "url": "https://www.theverge.com/tech/963052/fl-studio-2026-music-daw-ai-chatbot",
+      "pubDate": "2026-07-09T13:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple supplier Luxshare share listing sets new record then fell back",
+      "url": "https://9to5mac.com/2026/07/09/apple-supplier-luxshare-share-listing-sets-new-record-then-fell-back/",
+      "pubDate": "2026-07-09T12:35:21.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Pulls Ability to Restore iPhone 5c, iPad Mini, and More",
+      "url": "https://www.macrumors.com/2026/07/09/apple-pulls-ability-to-restore-iphone-5c-and-more/",
+      "pubDate": "2026-07-09T12:31:13.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "DuckDuckGo Browser Now Blocks YouTube Ads on iPhone and Mac",
+      "url": "https://www.macrumors.com/2026/07/09/duckduckgo-browser-blocks-youtube-ads/",
+      "pubDate": "2026-07-09T12:14:39.000Z"
     },
     {
       "source": "9to5Mac",
@@ -101,13 +276,6 @@
       "pubDate": "2026-07-08T23:31:33.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Meta is reportedly working on smart glasses that would be recording all the time",
-      "url": "https://www.theverge.com/tech/963138/meta-smart-glasses-recording-super-sensing-ai",
-      "pubDate": "2026-07-08T22:37:25.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "iOS 27 adds nine new languages and accents to Apple Translate",
@@ -122,39 +290,11 @@
       "pubDate": "2026-07-08T20:52:31.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Halide 3.1 to add perspective correction, RAW-only capture, and a new Scarlet look",
-      "url": "https://9to5mac.com/2026/07/08/halide-3-1-to-add-perspective-correction-raw-only-capture-and-a-new-scarlet-look/",
-      "pubDate": "2026-07-08T20:42:01.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Emmy Awards 2026: Apple TV just landed a record 89 nominations [Full list]",
-      "url": "https://9to5mac.com/2026/07/08/emmy-awards-2026-apple-tv-just-landed-a-record-87-nominations-full-list/",
-      "pubDate": "2026-07-08T20:12:30.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Get a $30 credit when you reserve Samsung’s upcoming Galaxy phones",
-      "url": "https://www.theverge.com/gadgets/962999/samsung-unpacked-z-fold-flip-wide-reserve-credit-preorder",
-      "pubDate": "2026-07-08T20:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Nintendo Shutting Down Mario Kart Tour iOS Game",
       "url": "https://www.macrumors.com/2026/07/08/mario-kart-tour-shutting-down/",
       "pubDate": "2026-07-08T19:59:19.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "When is Apple releasing new AirPods?",
-      "url": "https://9to5mac.com/2026/07/08/when-is-apple-releasing-new-airpods/",
-      "pubDate": "2026-07-08T19:53:01.000Z"
     },
     {
       "source": "Six Colors",
@@ -164,25 +304,11 @@
       "pubDate": "2026-07-08T19:48:23.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple stops signing iOS versions for several older iPhones and iPads [U]",
-      "url": "https://9to5mac.com/2026/07/08/apple-stops-signing-ios-versions-for-several-older-iphones-and-ipads/",
-      "pubDate": "2026-07-08T19:35:47.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "OpenAI Introduces GPT-Live to Make ChatGPT Voice Feel Like a Real Conversation",
       "url": "https://www.macrumors.com/2026/07/08/openai-gpt-live-voice/",
       "pubDate": "2026-07-08T19:03:52.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Microsoft&#8217;s Xbox reset is pivoting Obsidian to make Fallout instead of Avowed",
-      "url": "https://www.theverge.com/games/963024/microsoft-xbox-reset-obsidian-fallout-layoffs",
-      "pubDate": "2026-07-08T18:50:27.000Z"
     },
     {
       "source": "AppleInsider",
@@ -199,13 +325,6 @@
       "pubDate": "2026-07-08T18:38:05.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "America’s cheapest new EV is smaller than a ping-pong table and tops out at 19mph",
-      "url": "https://www.theverge.com/transportation/962753/fiat-topolino-ev-us-price-specs-micromobiilty",
-      "pubDate": "2026-07-08T17:57:53.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Final lap for 'Mario Kart Tour' badly closes another Nintendo mobile gaming chapter",
@@ -220,41 +339,6 @@
       "pubDate": "2026-07-08T17:37:10.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Cockroaches will learn to fear my SwitchBot Bot Rechargeable",
-      "url": "https://www.theverge.com/gadgets/962163/switchbot-bot-rechargeable-hands-on-review",
-      "pubDate": "2026-07-08T17:30:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "If Microsoft sold off Xbox, who would even buy it?",
-      "url": "https://www.theverge.com/games/962837/microsoft-xbox-spin-off-sell-divest-layoffs-asha-sharma",
-      "pubDate": "2026-07-08T17:10:05.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Twelve South’s AirFly Pro is a great travel companion, and it&#8217;s on sale for $40",
-      "url": "https://www.theverge.com/gadgets/962910/twelve-south-airfly-pro-summer-travel-gadgets-deal-sale",
-      "pubDate": "2026-07-08T17:09:28.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "ChatGPT’s upgraded voice mode is better at shutting up",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
-      "pubDate": "2026-07-08T17:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "OpenAI just upgraded ChatGPT voice mode in a major way, including CarPlay",
-      "url": "https://9to5mac.com/2026/07/08/openai-upgrading-chatgpt-with-all-new-voice-mode-experience-watch-here/",
-      "pubDate": "2026-07-08T16:55:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple testing banned vendor RAM is a Band-Aid, not a cure",
@@ -267,90 +351,6 @@
       "title": "Apple the only bright spot in a declining PC market, savaged by RAM price hikes",
       "url": "https://appleinsider.com/articles/26/07/08/apple-the-only-bright-spot-in-a-declining-pc-market-savaged-by-ram-price-hikes?utm_source=rss",
       "pubDate": "2026-07-08T16:02:33.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple to Drop Support for Encrypted Mac OS Extended Drives Next Year",
-      "url": "https://www.macrumors.com/2026/07/08/apple-to-drop-support-for-encrypted-mac-os-extended/",
-      "pubDate": "2026-07-08T16:02:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 hints at Apple Wallet car key support for two new automakers",
-      "url": "https://9to5mac.com/2026/07/08/ios-27-hints-at-apple-wallet-car-key-support-for-two-new-automakers/",
-      "pubDate": "2026-07-08T15:45:14.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Component development for cheaper Apple Vision Pro reportedly scrapped",
-      "url": "https://9to5mac.com/2026/07/08/component-development-for-cheaper-apple-vision-pro-reportedly-scrapped/",
-      "pubDate": "2026-07-08T15:45:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "All the Qualcomm parts used in the iPhone, iPad, Apple Watch, and more",
-      "url": "https://appleinsider.com/articles/26/07/08/all-the-qualcomm-parts-used-in-the-iphone-ipad-apple-watch-and-more?utm_source=rss",
-      "pubDate": "2026-07-08T15:34:30.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: AirPods 4, rare discounts on Magic Keyboards/Mouse, Apple Watch Ultra 3 $99 off, chargers, accessories, more",
-      "url": "https://9to5mac.com/2026/07/08/deals-macbook-neo-m5-pro-macbook-pro-ipad-pro/",
-      "pubDate": "2026-07-08T15:20:29.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Amazon knocks $110 off Apple's MacBook Neo today",
-      "url": "https://appleinsider.com/articles/26/07/08/amazon-knocks-110-off-apples-macbook-neo-today?utm_source=rss",
-      "pubDate": "2026-07-08T15:15:27.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27 Code Points to Car Key Support for Lucid and Xiaomi",
-      "url": "https://www.macrumors.com/2026/07/08/ios-27-car-key-support-for-lucid-and-xiaomi/",
-      "pubDate": "2026-07-08T15:13:40.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "This jumping $800 robot camera dog filled me with joy",
-      "url": "https://www.theverge.com/gadgets/962538/mondo-robotics-beni-robot-dog-preview",
-      "pubDate": "2026-07-08T15:00:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "When is Apple's 2026 Back to School Offer?",
-      "url": "https://www.macrumors.com/2026/07/08/when-is-apple-2026-back-to-school-offer/",
-      "pubDate": "2026-07-08T14:59:45.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "IDC: Apple grows Mac shipments as broader PC market declines",
-      "url": "https://9to5mac.com/2026/07/08/idc-apple-grows-mac-shipments-as-broader-pc-market-declines/",
-      "pubDate": "2026-07-08T14:54:39.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple's M5 Pro 16-inch MacBook Pro with 48GB RAM plunges to $3,049",
-      "url": "https://appleinsider.com/articles/26/07/08/apples-m5-pro-16-inch-macbook-pro-with-48gb-ram-plunges-to-3049?utm_source=rss",
-      "pubDate": "2026-07-08T14:54:27.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Amazon Offers First Major Post-Hike Discount on 512GB MacBook Neo [Updated]",
-      "url": "https://www.macrumors.com/2026/07/08/512gb-macbook-neo-amazon/",
-      "pubDate": "2026-07-08T14:53:43.000Z"
     },
     {
       "source": "Six Colors",
