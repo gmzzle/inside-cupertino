@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T20:05:32.550Z",
+  "generatedAt": "2026-07-09T21:46:39.504Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Anthropic Adds 'Reflect' Feature to Claude for Tracking Your Usage",
+      "url": "https://www.macrumors.com/2026/07/09/anthropic-reflect-claude-tracking/",
+      "pubDate": "2026-07-09T20:52:44.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The ChatGPT browser is already dead",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
+      "pubDate": "2026-07-09T20:34:05.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The floatable, powerful Soundcore Boom 2 speaker is over half off",
+      "url": "https://www.theverge.com/gadgets/963537/anker-soundcore-boom-2-bluetooth-speaker-deal-sale",
+      "pubDate": "2026-07-09T20:32:18.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Google will now tell you if an ad was made with AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
+      "pubDate": "2026-07-09T20:11:38.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -255,27 +283,6 @@
       "pubDate": "2026-07-09T14:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Comcast is breaking up with NBCU. Why did it ever buy it in the first place?",
-      "url": "https://www.theverge.com/podcast/962994/comcast-nbc-universal-split-versant-content-plus-pipes-media-broadband",
-      "pubDate": "2026-07-09T14:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Meta says its new AI model is ready to compete on coding",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
-      "pubDate": "2026-07-09T14:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "ICE agents are making house calls for online critics",
-      "url": "https://www.theverge.com/report/963106/ice-doxxing-office-of-professional-responsibility-free-speech",
-      "pubDate": "2026-07-09T13:45:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Pulls Ability to Restore iPhone 5c, iPad Mini, and More [Updated]",
@@ -316,13 +323,6 @@
       "title": "Make an iPhone into a Dumb Phone ↦",
       "url": "https://sixcolors.com/link/2026/07/make-an-iphone-into-a-dumb-phone/",
       "pubDate": "2026-07-09T02:40:32.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Everything Coming in the 2026 Apple TV 4K",
-      "url": "https://www.macrumors.com/2026/07/08/apple-tv-4k-latest-rumors/",
-      "pubDate": "2026-07-08T23:51:25.000Z"
     },
     {
       "source": "AppleInsider",
