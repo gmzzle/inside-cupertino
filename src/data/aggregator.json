@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T22:17:31.102Z",
+  "generatedAt": "2026-07-09T01:03:18.316Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,6 +24,34 @@
   ],
   "items": [
     {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "'Widow's Bay' & 'Pluribus' lead Apple's record-breaking charge for 2026 Emmy Awards",
+      "url": "https://appleinsider.com/articles/26/07/08/widows-bay-and-pluribus-nominated-for-the-most-prestigious-emmy-awards?utm_source=rss",
+      "pubDate": "2026-07-09T01:01:28.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Everything Coming in the 2026 Apple TV 4K",
+      "url": "https://www.macrumors.com/2026/07/08/apple-tv-4k-latest-rumors/",
+      "pubDate": "2026-07-08T23:51:25.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apolosign 32-inch Smart Portable TV review: Very cool, but not great for Apple users",
+      "url": "https://appleinsider.com/articles/26/07/08/apolosign-32-inch-smart-portable-tv-review-very-cool-but-not-great-for-apple-users?utm_source=rss",
+      "pubDate": "2026-07-08T23:31:33.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Meta is reportedly working on smart glasses that would be recording all the time",
+      "url": "https://www.theverge.com/tech/963138/meta-smart-glasses-recording-super-sensing-ai",
+      "pubDate": "2026-07-08T22:37:25.000Z"
+    },
+    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "iOS 27 adds nine new languages and accents to Apple Translate",
@@ -47,7 +75,7 @@
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
-      "title": "Emmy Awards 2026: Apple TV just landed a record 87 nominations [Full list]",
+      "title": "Emmy Awards 2026: Apple TV just landed a record 89 nominations [Full list]",
       "url": "https://9to5mac.com/2026/07/08/emmy-awards-2026-apple-tv-just-landed-a-record-87-nominations-full-list/",
       "pubDate": "2026-07-08T20:12:30.000Z"
     },
@@ -134,13 +162,6 @@
       "title": "Apple TV Earns Record 87 Emmy Nominations for 2026, Led by 'Pluribus' and 'Widow's Bay'",
       "url": "https://www.macrumors.com/2026/07/08/apple-tv-emmy-nominations-2026/",
       "pubDate": "2026-07-08T17:37:10.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "'Widow's Bay' & 'Pluribus' lead Apple's record-breaking charge for 2026 Emmy Awards",
-      "url": "https://appleinsider.com/articles/26/07/08/widows-bay-and-pluribus-nominated-for-the-most-prestigious-emmy-awards?utm_source=rss",
-      "pubDate": "2026-07-08T17:32:15.000Z"
     },
     {
       "source": "The Verge",
@@ -283,13 +304,6 @@
       "pubDate": "2026-07-08T14:43:13.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Gaming laptops are too expensive right now, but this one’s a good value",
-      "url": "https://www.theverge.com/gadgets/962754/msi-gaming-laptop-ethernet-switch-pc-steam-game-deal-sale",
-      "pubDate": "2026-07-08T14:43:00.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Apple now testing DRAM chips from banned Chinese memory supplier, per report",
@@ -344,20 +358,6 @@
       "title": "Tim Cook and John Ternus Attend Sun Valley Conference Together",
       "url": "https://www.macrumors.com/2026/07/08/cook-and-ternus-attend-sun-valley-conference/",
       "pubDate": "2026-07-08T13:07:17.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Report: Cheaper Apple Vision Pro Display Work Winds Down at Samsung",
-      "url": "https://www.macrumors.com/2026/07/08/cheaper-apple-vision-pro-display-work-ended/",
-      "pubDate": "2026-07-08T12:16:54.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Everyone should have a trustworthy VPN & at $2.99 per month, Proton is a great choice",
-      "url": "https://appleinsider.com/articles/26/07/07/everyone-should-have-a-trustworthy-vpn-at-299-per-month-proton-is-a-great-choice?utm_source=rss",
-      "pubDate": "2026-07-07T13:48:13.000Z"
     },
     {
       "source": "Six Colors",
