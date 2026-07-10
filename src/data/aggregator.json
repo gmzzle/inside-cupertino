@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T17:09:36.715Z",
+  "generatedAt": "2026-07-10T18:46:02.425Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "US eases restrictions on Apple’s access to AI chips and data center equipment in the UAE",
+      "url": "https://9to5mac.com/2026/07/10/us-eases-restrictions-on-apples-access-to-ai-chips-and-data-center-equipment-in-the-uae/",
+      "pubDate": "2026-07-10T18:10:28.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "HomeKit Weekly: The LNDU HK01W brings Apple Home Key and Wi-Fi to a budget-friendly lock",
+      "url": "https://9to5mac.com/2026/07/10/lndu-hk01w/",
+      "pubDate": "2026-07-10T18:07:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Anthropic highlights Claude Code’s in-app browser on the desktop",
+      "url": "https://9to5mac.com/2026/07/10/anthropic-highlights-claude-codes-in-app-browser-on-the-desktop/",
+      "pubDate": "2026-07-10T17:54:21.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Nvidia&#8217;s biggest RAM supplier just had a trillion-dollar debut on Wall Street",
+      "url": "https://www.theverge.com/tech/964121/sk-hynix-nvidia-ram-stock-market-debut",
+      "pubDate": "2026-07-10T17:31:35.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -192,13 +220,6 @@
       "pubDate": "2026-07-10T13:13:58.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Xreal&#8217;s new AR glasses are way cheaper and almost just right",
-      "url": "https://www.theverge.com/tech/963465/xreal-a01-plus-xbx-ar-glasses-hands-on",
-      "pubDate": "2026-07-10T13:00:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "iPhone Fold battery now rumored to have less capacity than expected",
@@ -253,27 +274,6 @@
       "title": "Foldable iPhone Ultra Battery Capacity Allegedly Registered by Supplier",
       "url": "https://www.macrumors.com/2026/07/10/foldable-iphone-ultra-battery-capacity-revealed/",
       "pubDate": "2026-07-10T09:44:28.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 basically turns your iPhone and AirPods into an Apple Watch at the gym",
-      "url": "https://9to5mac.com/2026/07/10/ios-27-basically-turns-your-iphone-and-airpods-into-an-apple-watch-at-the-gym/",
-      "pubDate": "2026-07-10T09:30:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple TV unveils August ‘Friday Night Baseball’ schedule",
-      "url": "https://9to5mac.com/2026/07/09/apple-tv-unveils-august-friday-night-baseball-schedule/",
-      "pubDate": "2026-07-10T00:36:58.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "The best CarPlay tips and tricks",
-      "url": "https://9to5mac.com/2026/07/09/best-carplay-features-tips/",
-      "pubDate": "2026-07-10T00:03:44.000Z"
     },
     {
       "source": "AppleInsider",
