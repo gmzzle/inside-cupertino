@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T12:08:43.595Z",
+  "generatedAt": "2026-07-10T15:01:59.574Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,6 +24,125 @@
   ],
   "items": [
     {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone 18 Pro Max Component Costs Could Rise Nearly $300",
+      "url": "https://www.macrumors.com/2026/07/10/iphone-18-pro-max-costs-could-rise/",
+      "pubDate": "2026-07-10T14:36:18.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "I spent a week using the Trump phone — it sucks",
+      "url": "https://www.theverge.com/tech/963382/trump-mobile-t1-phone-review",
+      "pubDate": "2026-07-10T14:19:59.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "With ChatGPT Atlas shutting down, here are the AI browsers people actually use",
+      "url": "https://9to5mac.com/2026/07/10/with-chatgpt-atlas-shutting-down-here-are-the-ai-browsers-people-actually-use/",
+      "pubDate": "2026-07-10T14:19:25.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "$450 Off a MacBook Pro? The Best Apple Discounts You Can Grab Today",
+      "url": "https://www.macrumors.com/2026/07/10/best-apple-deals-of-the-week-7-10-26/",
+      "pubDate": "2026-07-10T14:10:06.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "I’m filling in at The Verge for 6 weeks. Ask me anything!",
+      "url": "https://www.theverge.com/column/963495/im-filling-in-at-the-verge-for-6-weeks-ask-me-anything",
+      "pubDate": "2026-07-10T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Empathy for the optimizers",
+      "url": "https://www.theverge.com/column/963917/optimizer-bryan-johnson-biohacking-health",
+      "pubDate": "2026-07-10T14:00:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Facebook & Instagram's addictive design could cost Meta $12.5 billion",
+      "url": "https://appleinsider.com/articles/26/07/10/facebook-instagrams-addictive-design-could-cost-meta-125-billion?utm_source=rss",
+      "pubDate": "2026-07-10T13:50:22.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Instagram’s Adam Mosseri: If you don&#8217;t like AI, &#8216;then you shouldn&#8217;t have it in your feed&#8217;",
+      "url": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
+      "pubDate": "2026-07-10T13:45:02.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone Ultra battery details allegedly revealed in new leak",
+      "url": "https://9to5mac.com/2026/07/10/iphone-ultra-battery-details-allegedly-revealed-in-new-leak/",
+      "pubDate": "2026-07-10T13:23:34.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Would you host part of an AI data center in your home?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
+      "pubDate": "2026-07-10T13:20:25.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iPhone Fold, AirPods with cameras, & time capsules all in question on the AppleInsider Podcast",
+      "url": "https://appleinsider.com/articles/26/07/10/iphone-fold-airpods-with-cameras-time-capsules-all-in-question-on-the-appleinsider-podcast?utm_source=rss",
+      "pubDate": "2026-07-10T13:13:58.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Xreal&#8217;s new AR glasses are way cheaper and almost just right",
+      "url": "https://www.theverge.com/tech/963465/xreal-a01-plus-xbx-ar-glasses-hands-on",
+      "pubDate": "2026-07-10T13:00:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iPhone Fold battery now rumored to have less capacity than expected",
+      "url": "https://appleinsider.com/articles/26/07/10/iphone-fold-battery-now-rumored-to-have-less-capacity-than-expected?utm_source=rss",
+      "pubDate": "2026-07-10T12:45:14.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "EU: Facebook and Instagram's Infinite Scroll May Break Digital Rules",
+      "url": "https://www.macrumors.com/2026/07/10/eu-facebook-instagram-break-digital-rules/",
+      "pubDate": "2026-07-10T12:37:10.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "From rumors to titanium, bad debts and a new backer -- Apple Card is seven years old",
+      "url": "https://appleinsider.com/articles/26/07/10/from-rumors-to-titanium-bad-debts-and-a-new-backer----apple-card-is-seven-years-old?utm_source=rss",
+      "pubDate": "2026-07-10T12:31:25.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Security Bite: Passkeys were supposed to have killed the password by now…",
+      "url": "https://9to5mac.com/2026/07/10/security-bite-passkeys-were-supposed-to-have-killed-the-password-by-now/",
+      "pubDate": "2026-07-10T12:31:16.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "No, EU iPhones won't have a removable battery door in 2027",
+      "url": "https://appleinsider.com/articles/26/07/10/no-eu-iphones-wont-have-a-removable-battery-door-in-2027?utm_source=rss",
+      "pubDate": "2026-07-10T12:25:23.000Z"
+    },
+    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Doom&#8217;s new expansion shows just what makes id Software special",
@@ -36,13 +155,6 @@
       "title": "OpenAI's ChatGPT Atlas Browser Is Shutting Down",
       "url": "https://www.macrumors.com/2026/07/10/openais-chatgpt-atlas-browser-shutting-down/",
       "pubDate": "2026-07-10T11:54:18.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPhone Fold battery now rumored to have less capacity than expected",
-      "url": "https://appleinsider.com/articles/26/07/10/iphone-fold-battery-now-rumored-to-have-less-capacity-than-expected?utm_source=rss",
-      "pubDate": "2026-07-10T11:47:12.000Z"
     },
     {
       "source": "The Verge",
@@ -70,7 +182,14 @@
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Foldable iPhone Ultra Battery Capacity Allegedly Registered by Supplier",
       "url": "https://www.macrumors.com/2026/07/10/foldable-iphone-ultra-battery-capacity-revealed/",
-      "pubDate": "2026-07-10T09:44:38.000Z"
+      "pubDate": "2026-07-10T09:44:28.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 basically turns your iPhone and AirPods into an Apple Watch at the gym",
+      "url": "https://9to5mac.com/2026/07/10/ios-27-basically-turns-your-iphone-and-airpods-into-an-apple-watch-at-the-gym/",
+      "pubDate": "2026-07-10T09:30:00.000Z"
     },
     {
       "source": "9to5Mac",
@@ -115,13 +234,6 @@
       "pubDate": "2026-07-09T23:31:24.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
-      "pubDate": "2026-07-09T23:24:04.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iOS 27: 8+ New CarPlay Features",
@@ -134,13 +246,6 @@
       "title": "Apple TV Taking Over Comic-Con's Hall H for the First Time With Widow's Bay, Silo and More",
       "url": "https://www.macrumors.com/2026/07/09/apple-tv-comic-con-2026/",
       "pubDate": "2026-07-09T23:05:19.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Netflix reportedly considers adding always-on channels",
-      "url": "https://www.theverge.com/streaming/963733/netflix-always-on-channels-bundles",
-      "pubDate": "2026-07-09T23:00:31.000Z"
     },
     {
       "source": "9to5Mac",
@@ -162,27 +267,6 @@
       "title": "Anthropic Adds 'Reflect' Feature to Claude for Tracking Your Usage",
       "url": "https://www.macrumors.com/2026/07/09/anthropic-reflect-claude-tracking/",
       "pubDate": "2026-07-09T20:52:44.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The ChatGPT browser is already dead",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
-      "pubDate": "2026-07-09T20:34:05.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The floatable, powerful Soundcore Boom 2 speaker is over half off",
-      "url": "https://www.theverge.com/gadgets/963537/anker-soundcore-boom-2-bluetooth-speaker-deal-sale",
-      "pubDate": "2026-07-09T20:32:18.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Google will now tell you if an ad was made with AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
-      "pubDate": "2026-07-09T20:11:38.000Z"
     },
     {
       "source": "9to5Mac",
@@ -213,20 +297,6 @@
       "pubDate": "2026-07-09T19:00:25.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "OpenAI is discontinuing ChatGPT Atlas, its standalone desktop browser",
-      "url": "https://9to5mac.com/2026/07/09/openai-is-discontinuing-chatgpt-atlas-its-standalone-desktop-browser/",
-      "pubDate": "2026-07-09T18:56:07.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Strava gets an Events tab with upcoming races, group runs, more",
-      "url": "https://9to5mac.com/2026/07/09/strava-gets-an-events-tab-with-upcoming-races-group-runs-more/",
-      "pubDate": "2026-07-09T18:35:46.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "OpenAI Debuts ChatGPT Work Agent and New GPT-5.6 Models",
@@ -241,13 +311,6 @@
       "pubDate": "2026-07-09T17:58:05.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Google&#8217;s Nest Thermostat has hit its best price of the year",
-      "url": "https://www.theverge.com/gadgets/963475/google-nest-thermostat-deal-sale",
-      "pubDate": "2026-07-09T17:33:46.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Import duty cuts make India even more attractive for iPhone manufacturing",
@@ -259,21 +322,7 @@
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Last Call: M5 Pro MacBook Pro Remains at Pre-Hike Price But Not for Much Longer",
       "url": "https://www.macrumors.com/2026/07/09/last-call-m5-macbook-pro/",
-      "pubDate": "2026-07-09T17:20:13.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple TV sets major Comic-Con lineup with Silo, Dark Matter, Widow’s Bay, more",
-      "url": "https://9to5mac.com/2026/07/09/apple-tv-sets-major-comic-con-lineup-with-silo-dark-matter-widows-bay-more/",
-      "pubDate": "2026-07-09T17:06:26.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "OpenAI unveils ChatGPT Work agent, GPT-5.6 models now available",
-      "url": "https://9to5mac.com/2026/07/09/openai-announcing-the-next-chapter-for-chatgpt-today-watch-here/",
-      "pubDate": "2026-07-09T16:45:22.000Z"
+      "pubDate": "2026-07-09T17:20:05.000Z"
     },
     {
       "source": "MacRumors",
@@ -281,20 +330,6 @@
       "title": "Apple Exploring Ways to Run Much Larger AI Models Directly on iPhones",
       "url": "https://www.macrumors.com/2026/07/09/apple-prismml-larger-on-device-ai-models/",
       "pubDate": "2026-07-09T16:24:50.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple TV and MLB Release August Schedule for 'Friday Night Baseball'",
-      "url": "https://www.macrumors.com/2026/07/09/apple-tv-friday-night-baseball-august/",
-      "pubDate": "2026-07-09T16:13:51.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple's Manufacturing in India Gets Boost From New Tariff Exemptions",
-      "url": "https://www.macrumors.com/2026/07/09/apple-gets-boost-from-india-tariff-exemptions/",
-      "pubDate": "2026-07-09T16:06:08.000Z"
     },
     {
       "source": "AppleInsider",
@@ -311,39 +346,11 @@
       "pubDate": "2026-07-09T15:13:01.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "New AI startup could shrink server-sized models for use on iPhones",
-      "url": "https://appleinsider.com/articles/26/07/09/new-ai-startup-could-shrink-server-sized-models-for-use-on-iphones?utm_source=rss",
-      "pubDate": "2026-07-09T14:20:19.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Sonos, Sony, Anker and More: The Best Amazon Accessory Deals Right Now",
-      "url": "https://www.macrumors.com/2026/07/09/sonos-sony-anker-and-more/",
-      "pubDate": "2026-07-09T14:15:34.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPhone 18 Pro Max's longer battery life comes at a cost in weight and size",
-      "url": "https://appleinsider.com/articles/26/07/09/iphone-18-pro-maxs-longer-battery-life-comes-at-a-cost-in-weight-and-size?utm_source=rss",
-      "pubDate": "2026-07-09T10:15:20.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Make an iPhone into a Dumb Phone ↦",
       "url": "https://sixcolors.com/link/2026/07/make-an-iphone-into-a-dumb-phone/",
       "pubDate": "2026-07-09T02:40:32.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apolosign 32-inch Smart Portable TV review: Very cool, but not great for Apple users",
-      "url": "https://appleinsider.com/articles/26/07/08/apolosign-32-inch-smart-portable-tv-review-very-cool-but-not-great-for-apple-users?utm_source=rss",
-      "pubDate": "2026-07-08T23:31:33.000Z"
     },
     {
       "source": "Six Colors",
@@ -365,13 +372,6 @@
       "title": "(Podcast) Upgrade 627: Do Not Use, Do Not Turn Off",
       "url": "https://sixcolors.com/podcast/2026/07/upgrade-627-do-not-use-do-not-turn-off/",
       "pubDate": "2026-07-06T21:32:57.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "A visit to the App Library: Hiding and deleting apps on iOS",
-      "url": "https://sixcolors.com/post/2026/07/it-jiggles-when-you-poke-it-relocating-iphone-and-ipad-apps/",
-      "pubDate": "2026-07-06T17:00:38.000Z"
     }
   ]
 }
