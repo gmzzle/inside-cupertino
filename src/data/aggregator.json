@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T03:44:10.744Z",
+  "generatedAt": "2026-07-11T06:26:59.521Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "WSJ: Apple avoided semiconductor tariffs last year thanks to Intel chip deal",
+      "url": "https://9to5mac.com/2026/07/10/wsj-apple-avoided-semiconductor-tariffs-last-year-thanks-to-intel-chip-deal/",
+      "pubDate": "2026-07-11T06:03:08.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -211,13 +218,6 @@
       "title": "Smart Home Diary: Sometimes the smart thing is to live with dumb switches",
       "url": "https://9to5mac.com/2026/07/10/smart-home-diary-sometimes-the-smart-thing-is-to-live-with-dumb-switches/",
       "pubDate": "2026-07-10T16:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: AirPods, Apple Watch Ultra 3 $140 off, M5 MacBook Air, Bose speakers $150 off, Anker chargers, more",
-      "url": "https://9to5mac.com/2026/07/10/deals-airpods-apple-watch-ultra-3-m5-macbook-air/",
-      "pubDate": "2026-07-10T15:36:32.000Z"
     },
     {
       "source": "The Verge",
