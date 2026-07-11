@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T06:26:59.521Z",
+  "generatedAt": "2026-07-11T08:59:22.409Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Are you filthy enough for a $700 portable shower?",
+      "url": "https://www.theverge.com/reviews/963814/joolca-hottap-portable-shower-review",
+      "pubDate": "2026-07-11T07:00:00.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -218,13 +225,6 @@
       "title": "Smart Home Diary: Sometimes the smart thing is to live with dumb switches",
       "url": "https://9to5mac.com/2026/07/10/smart-home-diary-sometimes-the-smart-thing-is-to-live-with-dumb-switches/",
       "pubDate": "2026-07-10T16:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Disney Plus is reportedly looking into a free streaming tier",
-      "url": "https://www.theverge.com/streaming/964056/disney-plus-free-tier-report",
-      "pubDate": "2026-07-10T15:33:58.000Z"
     },
     {
       "source": "AppleInsider",
