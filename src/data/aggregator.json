@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T12:06:25.100Z",
+  "generatedAt": "2026-07-11T13:55:42.316Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,41 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Top Stories: 'iPhone Ultra' and Apple TV Rumors, iOS 27 Beta 3, and More",
+      "url": "https://www.macrumors.com/2026/07/11/top-stories-iphone-ultra-apple-tv-rumors/",
+      "pubDate": "2026-07-11T13:00:10.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "ICE are heavily armed killers. They’re also huge losers",
+      "url": "https://www.theverge.com/policy/964302/ice-donald-trump-killings",
+      "pubDate": "2026-07-11T13:00:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's 100% tariff exemption may have been helped by Intel supply deal",
+      "url": "https://appleinsider.com/articles/26/07/11/apples-100-tariff-exemption-may-have-been-helped-by-intel-supply-deal?utm_source=rss",
+      "pubDate": "2026-07-11T12:56:40.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple weekend deals: AirPods, Apple Watch Ultra 3, MagSafe chargers, Magic Mouse, more",
+      "url": "https://9to5mac.com/2026/07/11/weekend-apple-deals-airpods/",
+      "pubDate": "2026-07-11T12:15:18.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple @ Work: The M1 MacBook Air has the longest usable lifespan of any Apple laptop in history",
+      "url": "https://9to5mac.com/2026/07/11/the-m1-macbook-air-has-the-longest-usable-lifespan-of-any-apple-laptop-in-history/",
+      "pubDate": "2026-07-11T12:00:00.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -185,13 +220,6 @@
       "pubDate": "2026-07-10T17:54:21.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Nvidia&#8217;s biggest RAM supplier just had a trillion-dollar debut on Wall Street",
-      "url": "https://www.theverge.com/tech/964121/sk-hynix-nvidia-ram-stock-market-debut",
-      "pubDate": "2026-07-10T17:31:35.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Spotify makes Release Radar more customizable with new listening filters",
@@ -218,20 +246,6 @@
       "title": "The MacRumors Show: Goodbye MacBook Pro? MacBook Ultra Is Coming",
       "url": "https://www.macrumors.com/2026/07/10/the-macrumors-show-macbook-ultra-is-coming/",
       "pubDate": "2026-07-10T16:12:24.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Will you miss the Walkie-Talkie Apple Watch app when watchOS 27 drops push-to-talk?",
-      "url": "https://9to5mac.com/2026/07/10/will-you-miss-the-walkie-talkie-apple-watch-app-when-watchos-27-drops-push-to-talk/",
-      "pubDate": "2026-07-10T16:03:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Smart Home Diary: Sometimes the smart thing is to live with dumb switches",
-      "url": "https://9to5mac.com/2026/07/10/smart-home-diary-sometimes-the-smart-thing-is-to-live-with-dumb-switches/",
-      "pubDate": "2026-07-10T16:00:00.000Z"
     },
     {
       "source": "AppleInsider",
@@ -311,13 +325,6 @@
       "pubDate": "2026-07-10T10:37:58.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Foldable iPhone Ultra Battery Capacity Allegedly Registered by Supplier",
-      "url": "https://www.macrumors.com/2026/07/10/foldable-iphone-ultra-battery-capacity-revealed/",
-      "pubDate": "2026-07-10T09:44:28.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Govee 21-inch Smart Ceiling Light Ultra review: blurry motifs & excellent lighting",
@@ -344,13 +351,6 @@
       "title": "Apple going big at Comic Con with a 2-hour panel and show preview",
       "url": "https://appleinsider.com/articles/26/07/09/apple-going-big-at-comic-con-with-a-2-hour-panel-and-show-preview?utm_source=rss",
       "pubDate": "2026-07-09T17:58:05.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Import duty cuts make India even more attractive for iPhone manufacturing",
-      "url": "https://appleinsider.com/articles/26/07/09/import-duty-cuts-make-india-even-more-attractive-for-iphone-manufacturing?utm_source=rss",
-      "pubDate": "2026-07-09T17:28:52.000Z"
     },
     {
       "source": "Six Colors",
