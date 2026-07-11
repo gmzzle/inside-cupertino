@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T10:34:38.422Z",
+  "generatedAt": "2026-07-11T12:06:25.100Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "A tasty RPG that will make you very hungry",
+      "url": "https://www.theverge.com/entertainment/964061/dosa-divas-review-ps5-steam-switch",
+      "pubDate": "2026-07-11T12:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The perfect kit for all your tiny repairs",
+      "url": "https://www.theverge.com/tech/964169/ifixit-repairs-kit-nothing-3a-installer",
+      "pubDate": "2026-07-11T12:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "OpenAI Responds After Being Sued by Apple",
+      "url": "https://www.macrumors.com/2026/07/11/openai-responds-after-apple-lawsuit/",
+      "pubDate": "2026-07-11T11:57:26.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -171,13 +192,6 @@
       "pubDate": "2026-07-10T17:31:35.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Spotify will let you fine-tune your weekly Release Radar playlist",
-      "url": "https://www.theverge.com/entertainment/964021/spotify-release-radar-algorithm-controls",
-      "pubDate": "2026-07-10T17:02:13.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Spotify makes Release Radar more customizable with new listening filters",
@@ -197,13 +211,6 @@
       "title": "Apple Watch Accounts for 90% of AI Smartwatch Shipments",
       "url": "https://www.macrumors.com/2026/07/10/apple-watch-accounts-for-most-ai-smartwatches/",
       "pubDate": "2026-07-10T16:33:36.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Netflix is turning into YouTube",
-      "url": "https://www.theverge.com/podcast/964082/netflix-youtube-smart-glasses-vergecast",
-      "pubDate": "2026-07-10T16:29:50.000Z"
     },
     {
       "source": "MacRumors",
@@ -316,13 +323,6 @@
       "title": "Govee 21-inch Smart Ceiling Light Ultra review: blurry motifs & excellent lighting",
       "url": "https://appleinsider.com/articles/26/07/09/govee-21-inch-smart-ceiling-light-ultra-review-blurry-motifs-excellent-lighting?utm_source=rss",
       "pubDate": "2026-07-09T23:44:36.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27: 8+ New CarPlay Features",
-      "url": "https://www.macrumors.com/guide/ios-27-carplay/",
-      "pubDate": "2026-07-09T23:23:59.000Z"
     },
     {
       "source": "AppleInsider",
