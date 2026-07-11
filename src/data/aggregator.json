@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T22:17:18.647Z",
+  "generatedAt": "2026-07-11T00:10:32.533Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,48 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
+      "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+      "pubDate": "2026-07-10T23:49:50.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "OpenAI responds to Apple’s trade secret theft lawsuit",
+      "url": "https://9to5mac.com/2026/07/10/openai-responds-to-apples-trade-secret-theft-lawsuit/",
+      "pubDate": "2026-07-10T22:56:45.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Meta removes feature that let users generate AI images from public Instagram posts",
+      "url": "https://9to5mac.com/2026/07/10/meta-removes-feature-that-let-users-generate-ai-images-from-public-instagram-posts/",
+      "pubDate": "2026-07-10T22:37:05.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The FCC is cracking down on DJI tech that dodged the foreign drone ban",
+      "url": "https://www.theverge.com/policy/964342/fcc-crack-down-dji-front-companies-xtra-skyrover-sgs-lab",
+      "pubDate": "2026-07-10T22:35:18.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iOS 27: What's New With the Mail App",
+      "url": "https://www.macrumors.com/guide/ios-27-mail/",
+      "pubDate": "2026-07-10T22:26:37.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Two Apple Stores in U.S. Are Moving Soon",
+      "url": "https://www.macrumors.com/2026/07/10/two-apple-stores-moving-soon/",
+      "pubDate": "2026-07-10T22:15:00.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -185,13 +227,6 @@
       "pubDate": "2026-07-10T15:32:37.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "These are my favorite new Messages features in iOS 27 [Video]",
-      "url": "https://9to5mac.com/2026/07/10/these-are-my-favorite-new-messages-features-in-ios-27-video/",
-      "pubDate": "2026-07-10T15:28:17.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Anker&#8217;s 3-in-1 Qi2.2 charging station is $95 off",
@@ -206,32 +241,11 @@
       "pubDate": "2026-07-10T14:36:18.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "I spent a week using the Trump phone — it sucks",
-      "url": "https://www.theverge.com/tech/963382/trump-mobile-t1-phone-review",
-      "pubDate": "2026-07-10T14:19:59.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "With ChatGPT Atlas shutting down, here are the AI browsers people actually use",
-      "url": "https://9to5mac.com/2026/07/10/with-chatgpt-atlas-shutting-down-here-are-the-ai-browsers-people-actually-use/",
-      "pubDate": "2026-07-10T14:19:25.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "$450 Off a MacBook Pro? The Best Apple Discounts You Can Grab Today",
       "url": "https://www.macrumors.com/2026/07/10/best-apple-deals-of-the-week-7-10-26/",
       "pubDate": "2026-07-10T14:10:06.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "I’m filling in at The Verge for 6 weeks. Ask me anything!",
-      "url": "https://www.theverge.com/column/963495/im-filling-in-at-the-verge-for-6-weeks-ask-me-anything",
-      "pubDate": "2026-07-10T14:00:00.000Z"
     },
     {
       "source": "AppleInsider",
@@ -309,20 +323,6 @@
       "title": "iOS 27: 8+ New CarPlay Features",
       "url": "https://www.macrumors.com/guide/ios-27-carplay/",
       "pubDate": "2026-07-09T23:23:59.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple TV Taking Over Comic-Con's Hall H for the First Time With Widow's Bay, Silo and More",
-      "url": "https://www.macrumors.com/2026/07/09/apple-tv-comic-con-2026/",
-      "pubDate": "2026-07-09T23:05:19.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Anthropic Adds 'Reflect' Feature to Claude for Tracking Your Usage",
-      "url": "https://www.macrumors.com/2026/07/09/anthropic-reflect-claude-tracking/",
-      "pubDate": "2026-07-09T20:52:44.000Z"
     },
     {
       "source": "AppleInsider",
