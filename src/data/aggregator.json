@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T19:32:52.822Z",
+  "generatedAt": "2026-07-11T21:08:00.706Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPadOS 27 still needs simpler multitasking, here’s what I’d like to see",
+      "url": "https://9to5mac.com/2026/07/11/ipad-pro-needs-simpler-multitasking-with-ipados-27/",
+      "pubDate": "2026-07-11T21:05:01.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "After years of teasing, the viral Nopia synth is ‘basically finished’",
+      "url": "https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo",
+      "pubDate": "2026-07-11T20:57:42.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -150,13 +164,6 @@
       "pubDate": "2026-07-11T00:10:38.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
-      "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-      "pubDate": "2026-07-10T23:49:50.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "OpenAI responds to Apple’s trade secret theft lawsuit",
@@ -232,13 +239,6 @@
       "title": "HomeKit Weekly: The LNDU HK01W brings Apple Home Key and Wi-Fi to a budget-friendly lock",
       "url": "https://9to5mac.com/2026/07/10/lndu-hk01w/",
       "pubDate": "2026-07-10T18:07:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Anthropic highlights Claude Code’s in-app browser on the desktop",
-      "url": "https://9to5mac.com/2026/07/10/anthropic-highlights-claude-codes-in-app-browser-on-the-desktop/",
-      "pubDate": "2026-07-10T17:54:21.000Z"
     },
     {
       "source": "MacRumors",
