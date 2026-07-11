@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T17:16:43.726Z",
+  "generatedAt": "2026-07-11T19:32:52.822Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Indie App Spotlight: ‘Route 25’ is an all-in-one social app for Pokémon collectors",
+      "url": "https://9to5mac.com/2026/07/11/indie-app-spotlight-route-25-is-an-all-in-one-social-app-for-pokemon-collectors/",
+      "pubDate": "2026-07-11T19:30:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Oregon’s Attorney General withdraws effort to delay Paramount and Warner Bros. merger",
+      "url": "https://www.theverge.com/policy/964493/oregons-ag-delay-paramount-warner-bros-merger",
+      "pubDate": "2026-07-11T18:44:12.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "SANDISK Phone Drive for iPhone is a great solution to low storage",
+      "url": "https://9to5mac.com/2026/07/11/sandisk-phone-drive-iphone-great-solution-to-low-storage/",
+      "pubDate": "2026-07-11T16:00:00.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -150,13 +171,6 @@
       "pubDate": "2026-07-10T22:37:05.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The FCC is cracking down on DJI tech that dodged the foreign drone ban",
-      "url": "https://www.theverge.com/policy/964342/fcc-crack-down-dji-front-companies-xtra-skyrover-sgs-lab",
-      "pubDate": "2026-07-10T22:35:18.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iOS 27: What's New With the Mail App",
@@ -225,20 +239,6 @@
       "title": "Anthropic highlights Claude Code’s in-app browser on the desktop",
       "url": "https://9to5mac.com/2026/07/10/anthropic-highlights-claude-codes-in-app-browser-on-the-desktop/",
       "pubDate": "2026-07-10T17:54:21.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Spotify makes Release Radar more customizable with new listening filters",
-      "url": "https://9to5mac.com/2026/07/10/spotify-makes-release-radar-more-customizable-with-new-listening-filters/",
-      "pubDate": "2026-07-10T17:00:05.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Netflix among many companies showing interest in acquiring Letterboxd: report",
-      "url": "https://9to5mac.com/2026/07/10/netflix-among-many-companies-showing-interest-in-acquiring-letterboxd-report/",
-      "pubDate": "2026-07-10T16:34:40.000Z"
     },
     {
       "source": "MacRumors",
