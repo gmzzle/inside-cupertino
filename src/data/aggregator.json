@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T00:11:34.211Z",
+  "generatedAt": "2026-07-13T04:02:26.621Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Overtime 072: Apple Watch and the new Siri",
+      "url": "https://9to5mac.com/2026/07/12/9to5mac-overtime-072-apple-watch-and-the-new-siri/",
+      "pubDate": "2026-07-13T00:14:05.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -82,9 +89,9 @@
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27 Public Beta Reportedly Available This Week",
+      "title": "iOS 27 Public Beta Reportedly Coming This Week",
       "url": "https://www.macrumors.com/2026/07/12/ios-27-public-beta-release-date-timing/",
-      "pubDate": "2026-07-12T15:27:42.000Z"
+      "pubDate": "2026-07-12T15:27:39.000Z"
     },
     {
       "source": "MacRumors",
@@ -323,13 +330,6 @@
       "title": "Apple sues OpenAI, alleging trade secret theft ↦",
       "url": "https://sixcolors.com/link/2026/07/apple-sues-openai-alleging-trade-secret-theft/",
       "pubDate": "2026-07-10T21:14:37.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
-      "pubDate": "2026-07-10T20:29:43.000Z"
     },
     {
       "source": "AppleInsider",
