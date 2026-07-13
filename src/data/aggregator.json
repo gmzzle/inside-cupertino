@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T15:12:23.940Z",
+  "generatedAt": "2026-07-13T17:24:05.631Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,55 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI",
+      "url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
+      "pubDate": "2026-07-13T17:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Meta challenges Apple’s plan for EU-mandated third-party device interoperability",
+      "url": "https://9to5mac.com/2026/07/13/meta-challenges-apples-plan-for-eu-mandated-third-party-device-interoperability/",
+      "pubDate": "2026-07-13T16:59:40.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "WordPress just released a brand-new Apple TV app with thousands of free videos",
+      "url": "https://9to5mac.com/2026/07/13/wordpress-just-released-a-brand-new-apple-tv-app-with-thousands-of-free-videos/",
+      "pubDate": "2026-07-13T16:55:39.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Report: Apple's OpenAI Lawsuit Threatens iPhone Rival Plans",
+      "url": "https://www.macrumors.com/2026/07/13/openai-lawsuit-threatens-plans/",
+      "pubDate": "2026-07-13T16:31:48.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Pulling the Thread to know if my garage door is closed",
+      "url": "https://sixcolors.com/post/2026/07/pulling-the-thread-to-know-if-my-garage-door-is-closed/",
+      "pubDate": "2026-07-13T16:30:44.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple lawsuit reveals how many of its former employees now work at OpenAI",
+      "url": "https://9to5mac.com/2026/07/13/apple-lawsuit-reveals-how-many-former-employees-now-work-at-openai/",
+      "pubDate": "2026-07-13T16:04:15.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Deals: AirPods Pro 3 $50 off, Apple Watch Series 11 up to $130 off, chargers, new Bose Lifestyle speakers, more",
+      "url": "https://9to5mac.com/2026/07/13/deals-airpods-pro-3-apple-watch-series-11-bose/",
+      "pubDate": "2026-07-13T15:28:06.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -199,13 +248,6 @@
       "pubDate": "2026-07-13T11:08:48.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Anthropic expanding Claude Cowork to mobile and web, details here [U]",
-      "url": "https://9to5mac.com/2026/07/13/anthropic-expanding-claude-cowork-to-mobile-and-web-details-here/",
-      "pubDate": "2026-07-13T11:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "5 New Waze Features Rolling Out Now: Here Are All the Details",
@@ -246,13 +288,6 @@
       "title": "Amazon revives $199 AirPods Pro 3 deal after Prime Day",
       "url": "https://appleinsider.com/articles/26/07/13/amazon-revives-199-airpods-pro-3-deal-after-prime-day?utm_source=rss",
       "pubDate": "2026-07-13T05:49:59.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Overtime 072: Apple Watch and the new Siri",
-      "url": "https://9to5mac.com/2026/07/12/9to5mac-overtime-072-apple-watch-and-the-new-siri/",
-      "pubDate": "2026-07-13T00:14:05.000Z"
     },
     {
       "source": "The Verge",
@@ -304,13 +339,6 @@
       "pubDate": "2026-07-12T15:45:42.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27 Public Beta Reportedly Coming This Week",
-      "url": "https://www.macrumors.com/2026/07/12/ios-27-public-beta-release-date-timing/",
-      "pubDate": "2026-07-12T15:27:39.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "M6 era will last just six months as Apple pushes for AI-focused M7",
@@ -323,27 +351,6 @@
       "title": "One of SteelSeries&#8217; best gaming headsets is over $100 off",
       "url": "https://www.theverge.com/gadgets/964125/steelseries-arctis-nova-pro-wireless-headset-deal-sale",
       "pubDate": "2026-07-12T15:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "How Philips Hue got the smart home right",
-      "url": "https://www.theverge.com/podcast/964515/philips-hue-smart-lights-version-history",
-      "pubDate": "2026-07-12T14:38:01.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "M7 Ultra to potentially feature up to 1.5TB of RAM, finally matching 2019 Mac Pro: report",
-      "url": "https://9to5mac.com/2026/07/12/m7-ultra-mac-studio-to-support-up-to-1-5-tb-unified-memory/",
-      "pubDate": "2026-07-12T14:34:28.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple developing new Apple Pencil models for release next year, possibly with replaceable batteries",
-      "url": "https://9to5mac.com/2026/07/12/apple-pencil-ipad-new-battery-replacement/",
-      "pubDate": "2026-07-12T14:17:27.000Z"
     },
     {
       "source": "Six Colors",
@@ -365,13 +372,6 @@
       "title": "Make an iPhone into a Dumb Phone ↦",
       "url": "https://sixcolors.com/link/2026/07/make-an-iphone-into-a-dumb-phone/",
       "pubDate": "2026-07-09T02:40:32.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) Clockwise 664: How I Use My Life",
-      "url": "https://sixcolors.com/podcast/2026/07/clockwise-664-how-i-use-my-life/",
-      "pubDate": "2026-07-08T19:48:23.000Z"
     }
   ]
 }
