@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T17:24:05.631Z",
+  "generatedAt": "2026-07-13T19:50:10.332Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,83 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple TV has a packed lineup of sports premieres coming soon",
+      "url": "https://9to5mac.com/2026/07/13/apple-tv-has-a-packed-lineup-of-sports-premieres-coming-soon/",
+      "pubDate": "2026-07-13T19:20:37.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "States make last-ditch effort to stop the Paramount ‘media behemoth’",
+      "url": "https://www.theverge.com/policy/964916/paramount-warner-bros-discovery-states-lawsuit",
+      "pubDate": "2026-07-13T18:35:48.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The EV market is on the road to recovery thanks to high gas prices",
+      "url": "https://www.theverge.com/transportation/964663/ev-sales-q2-2026-gas-prices-tesla-toyota",
+      "pubDate": "2026-07-13T18:03:20.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "macOS Sonoma 14.8.8 and macOS Sequoia 15.7.8 get a rare fifth RC",
+      "url": "https://9to5mac.com/2026/07/13/macos-sonoma-14-8-8-and-macos-sequoia-15-7-8-get-a-rare-fifth-rc/",
+      "pubDate": "2026-07-13T18:01:13.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Fifth developer betas of iOS 26.6, macOS 26.6 are out now",
+      "url": "https://appleinsider.com/articles/26/07/13/fifth-developer-betas-of-ios-266-macos-266-are-out-now?utm_source=rss",
+      "pubDate": "2026-07-13T17:40:02.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple rolls beta 5 for iPadOS 26.6, tvOS 26.6, watchOS 26.6, more",
+      "url": "https://9to5mac.com/2026/07/13/apple-rolls-beta-5-for-ipados-26-6-tvos-26-6-watchos-26-6-more/",
+      "pubDate": "2026-07-13T17:37:30.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "macOS 26.6 beta 5 now available, here’s what’s coming",
+      "url": "https://9to5mac.com/2026/07/13/macos-26-6-beta-5-now-available-heres-whats-coming/",
+      "pubDate": "2026-07-13T17:30:43.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Seeds Fifth iOS 26.6 and iPadOS 26.6 Betas to Developers",
+      "url": "https://www.macrumors.com/2026/07/13/apple-seeds-ios-26-6-beta-5/",
+      "pubDate": "2026-07-13T17:28:35.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple releases iOS 26.6 beta 5 for iPhone, here’s what to expect",
+      "url": "https://9to5mac.com/2026/07/13/apple-releases-ios-26-6-beta-5-for-iphone-heres-what-to-expect/",
+      "pubDate": "2026-07-13T17:28:32.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Fifth macOS Tahoe 26.6 Beta Now Available for Developers",
+      "url": "https://www.macrumors.com/2026/07/13/apple-seeds-macos-tahoe-26-6-beta-5/",
+      "pubDate": "2026-07-13T17:28:15.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Releases Fifth watchOS 26.6, tvOS 26.6 and visionOS 26.6 Betas",
+      "url": "https://www.macrumors.com/2026/07/13/apple-seeds-watchos-26-6-beta-5/",
+      "pubDate": "2026-07-13T17:28:00.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -157,13 +234,6 @@
       "pubDate": "2026-07-13T13:49:21.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Epic Games fights Apple’s request to pause App Store commission proceedings",
-      "url": "https://9to5mac.com/2026/07/13/epic-games-fights-apples-request-to-pause-app-store-commission-proceedings/",
-      "pubDate": "2026-07-13T13:48:09.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Plans AirPods-Like Pairing for Meta's Glasses and Quest",
@@ -171,25 +241,11 @@
       "pubDate": "2026-07-13T13:46:02.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "AAPL stock rallies 15% as investors favor AI caution and welcome price increases",
-      "url": "https://9to5mac.com/2026/07/13/aapl-stock-rallies-15-as-investors-favor-ai-caution-and-welcome-price-increases/",
-      "pubDate": "2026-07-13T13:11:08.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "'CrashStealer' malware poses as an Apple tool to steal passwords & Mac data",
       "url": "https://appleinsider.com/articles/26/07/13/crashstealer-malware-poses-as-an-apple-tool-to-steal-passwords-mac-data?utm_source=rss",
       "pubDate": "2026-07-13T13:00:14.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Should Apple get out of the ad business altogether? [Poll]",
-      "url": "https://9to5mac.com/2026/07/13/should-apple-get-out-of-the-ad-business-altogether-poll/",
-      "pubDate": "2026-07-13T12:43:16.000Z"
     },
     {
       "source": "MacRumors",
@@ -204,13 +260,6 @@
       "title": "Time for change: 50 Apple Watch updates coming in watchOS 27",
       "url": "https://appleinsider.com/articles/26/07/13/time-for-change-50-apple-watch-updates-coming-in-watchos-27?utm_source=rss",
       "pubDate": "2026-07-13T12:02:40.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "EU plans to ban under-13s from social media, with ‘phased access’ afterwards",
-      "url": "https://9to5mac.com/2026/07/13/eu-plans-to-ban-under-13s-from-social-media-with-phased-access-afterwards/",
-      "pubDate": "2026-07-13T11:52:44.000Z"
     },
     {
       "source": "AppleInsider",
@@ -239,13 +288,6 @@
       "title": "Meta Pulls AI Image Feature From Instagram Days After Launch",
       "url": "https://www.macrumors.com/2026/07/13/meta-pulls-ai-image-feature-from-instagram/",
       "pubDate": "2026-07-13T11:19:19.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Free Mac app WhatCable tells you what each of your USB-C cables can really do",
-      "url": "https://9to5mac.com/2026/07/13/free-mac-app-whatcable-tells-you-what-each-of-your-usb-c-cables-can-really-do/",
-      "pubDate": "2026-07-13T11:08:48.000Z"
     },
     {
       "source": "MacRumors",
@@ -309,48 +351,6 @@
       "title": "Apple Watch Series 11 drops to $299 with Amazon deal, save $100",
       "url": "https://appleinsider.com/articles/26/07/12/apple-watch-series-11-drops-to-299-with-amazon-deal-save-100?utm_source=rss",
       "pubDate": "2026-07-12T19:35:18.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
-      "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
-      "pubDate": "2026-07-12T16:27:06.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Stores to Expand Use of 'Tap to Pay on iPhone'",
-      "url": "https://www.macrumors.com/2026/07/12/apple-stores-to-expand-tap-to-pay-on-iphone/",
-      "pubDate": "2026-07-12T16:11:18.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple's M7 Ultra Chip Designed to Match a 2019 Mac Pro Feat",
-      "url": "https://www.macrumors.com/2026/07/12/m7-ultra-chip-may-match-2019-mac-pro-feat/",
-      "pubDate": "2026-07-12T15:53:10.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Two New Apple Pencils Reportedly Launching Next Year",
-      "url": "https://www.macrumors.com/2026/07/12/two-new-apple-pencils-next-year-report/",
-      "pubDate": "2026-07-12T15:45:42.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "M6 era will last just six months as Apple pushes for AI-focused M7",
-      "url": "https://appleinsider.com/articles/26/07/12/m6-era-will-last-just-six-months-as-apple-pushes-for-ai-focused-m7?utm_source=rss",
-      "pubDate": "2026-07-12T15:06:52.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "One of SteelSeries&#8217; best gaming headsets is over $100 off",
-      "url": "https://www.theverge.com/gadgets/964125/steelseries-arctis-nova-pro-wireless-headset-deal-sale",
-      "pubDate": "2026-07-12T15:00:00.000Z"
     },
     {
       "source": "Six Colors",
