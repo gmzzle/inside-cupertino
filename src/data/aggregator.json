@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T19:50:10.332Z",
+  "generatedAt": "2026-07-13T21:13:21.462Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,167 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iPadOS 27 & macOS 27 beta 3 get a version 2 update as public betas drop",
+      "url": "https://appleinsider.com/articles/26/07/13/ipados-27-macos-27-beta-3-get-a-version-2-update-as-public-betas-drop?utm_source=rss",
+      "pubDate": "2026-07-13T21:07:42.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "A two-pack of DJI&#8217;s most capable wireless mics just got its first price cut",
+      "url": "https://www.theverge.com/gadgets/964914/dji-mic-three-bundle-deal-sale",
+      "pubDate": "2026-07-13T21:03:14.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: July 13, 2026 – Apple sues OpenAI",
+      "url": "https://9to5mac.com/2026/07/13/daily-july-13-2026/",
+      "pubDate": "2026-07-13T20:59:45.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "tvOS 27 and HomePod 27 public betas now available, here’s what’s new",
+      "url": "https://9to5mac.com/2026/07/13/tvos-27-and-homepod-27-public-betas-now-available-heres-whats-new/",
+      "pubDate": "2026-07-13T20:59:32.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The Shokz OpenRun Pro are the cheapest they’ve been since January",
+      "url": "https://www.theverge.com/gadgets/964982/shokz-openrun-pro-bone-conduction-headphones-summer-deal-sale",
+      "pubDate": "2026-07-13T20:57:44.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "First iOS 27, macOS 27 public betas are out, but you should still be careful",
+      "url": "https://appleinsider.com/articles/26/07/13/first-ios-27-macos-27-public-betas-are-out-but-you-should-still-be-careful?utm_source=rss",
+      "pubDate": "2026-07-13T20:53:56.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple rolls out revised beta 3 builds for iPadOS 27 and macOS 27 Golden Gate",
+      "url": "https://9to5mac.com/2026/07/13/apple-rolls-out-revised-beta-3-builds-for-ipados-27-and-macos-27-golden-gate/",
+      "pubDate": "2026-07-13T20:53:31.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "First Look: iOS 27 Public Beta",
+      "url": "https://sixcolors.com/post/2026/07/first-look-ios-27-public-beta/",
+      "pubDate": "2026-07-13T20:52:28.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The Pixel colors might rule this year",
+      "url": "https://www.theverge.com/tech/964972/google-pixel-11-colors-rumor",
+      "pubDate": "2026-07-13T20:52:27.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "First Look: macOS Golden Gate Public Beta",
+      "url": "https://sixcolors.com/post/2026/07/first-look-macos-golden-gate-public-beta/",
+      "pubDate": "2026-07-13T20:49:42.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Product managers & engineering leads are the target for Apple's next WWDC26 session",
+      "url": "https://appleinsider.com/articles/26/07/13/product-managers-engineering-leads-are-the-target-for-apples-next-wwdc26-session?utm_source=rss",
+      "pubDate": "2026-07-13T20:46:07.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Apple’s public betas for iOS 27 and more are out now",
+      "url": "https://www.theverge.com/tech/964307/apple-public-betas-ios-27-siri-ai",
+      "pubDate": "2026-07-13T20:45:40.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "macOS 27 public beta now available, here’s how to install it",
+      "url": "https://9to5mac.com/2026/07/13/macos-27-public-beta-now-available-heres-how-to-install-it/",
+      "pubDate": "2026-07-13T20:45:39.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "watchOS 27 public beta is here with Siri AI and smarter Apple Watch features",
+      "url": "https://9to5mac.com/2026/07/13/watchos-27-public-beta/",
+      "pubDate": "2026-07-13T20:45:12.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 public beta is here with Siri AI, iPhone speed upgrades, and more",
+      "url": "https://9to5mac.com/2026/07/13/ios-27-public-beta/",
+      "pubDate": "2026-07-13T20:45:07.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple releases iPadOS 27 public beta, here’s what’s new",
+      "url": "https://9to5mac.com/2026/07/13/apple-releases-ipados-27-public-beta-heres-whats-new/",
+      "pubDate": "2026-07-13T20:44:47.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Siri AI makes the Apple Watch finally feel like a wrist computer",
+      "url": "https://www.theverge.com/tech/964800/watchos-27-preview-siri-ai-apple-watch-gestures-smartwatch",
+      "pubDate": "2026-07-13T20:44:20.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Siri AI is already changing how I use my iPhone",
+      "url": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
+      "pubDate": "2026-07-13T20:43:20.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The macOS 27 public beta is worth it just for the Liquid Glass tweaks",
+      "url": "https://www.theverge.com/tech/964701/apple-macos-27-golden-gate-public-beta-impressions-liquid-glass-siri-ai",
+      "pubDate": "2026-07-13T20:43:15.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "First macOS Golden Gate Public Beta Now Available",
+      "url": "https://www.macrumors.com/2026/07/13/macos-golden-gate-public-beta/",
+      "pubDate": "2026-07-13T20:41:27.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iOS 27 and iPadOS 27 Now Available to Public Beta Testers",
+      "url": "https://www.macrumors.com/2026/07/13/apple-seeds-ios-27-public-beta-1/",
+      "pubDate": "2026-07-13T20:39:18.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "tvOS 27 and watchOS 27 Now Available to Public Beta Testers",
+      "url": "https://www.macrumors.com/2026/07/13/watchos-27-public-beta/",
+      "pubDate": "2026-07-13T20:38:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "MagSafe Monday: The Twelve South PowerBug clears your counters",
+      "url": "https://9to5mac.com/2026/07/13/twelve-south-powerbug/",
+      "pubDate": "2026-07-13T20:00:00.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -80,13 +241,6 @@
       "pubDate": "2026-07-13T17:28:35.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple releases iOS 26.6 beta 5 for iPhone, here’s what to expect",
-      "url": "https://9to5mac.com/2026/07/13/apple-releases-ios-26-6-beta-5-for-iphone-heres-what-to-expect/",
-      "pubDate": "2026-07-13T17:28:32.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Fifth macOS Tahoe 26.6 Beta Now Available for Developers",
@@ -108,20 +262,6 @@
       "pubDate": "2026-07-13T17:00:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Meta challenges Apple’s plan for EU-mandated third-party device interoperability",
-      "url": "https://9to5mac.com/2026/07/13/meta-challenges-apples-plan-for-eu-mandated-third-party-device-interoperability/",
-      "pubDate": "2026-07-13T16:59:40.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "WordPress just released a brand-new Apple TV app with thousands of free videos",
-      "url": "https://9to5mac.com/2026/07/13/wordpress-just-released-a-brand-new-apple-tv-app-with-thousands-of-free-videos/",
-      "pubDate": "2026-07-13T16:55:39.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Report: Apple's OpenAI Lawsuit Threatens iPhone Rival Plans",
@@ -134,34 +274,6 @@
       "title": "Pulling the Thread to know if my garage door is closed",
       "url": "https://sixcolors.com/post/2026/07/pulling-the-thread-to-know-if-my-garage-door-is-closed/",
       "pubDate": "2026-07-13T16:30:44.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple lawsuit reveals how many of its former employees now work at OpenAI",
-      "url": "https://9to5mac.com/2026/07/13/apple-lawsuit-reveals-how-many-former-employees-now-work-at-openai/",
-      "pubDate": "2026-07-13T16:04:15.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: AirPods Pro 3 $50 off, Apple Watch Series 11 up to $130 off, chargers, new Bose Lifestyle speakers, more",
-      "url": "https://9to5mac.com/2026/07/13/deals-airpods-pro-3-apple-watch-series-11-bose/",
-      "pubDate": "2026-07-13T15:28:06.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Report: Apple hits record 20% global smartphone shipment share as market plunges",
-      "url": "https://9to5mac.com/2026/07/13/report-apple-hits-record-20-global-smartphone-shipment-share-as-market-plunges/",
-      "pubDate": "2026-07-13T15:12:11.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Even Nvidia’s head of automotive fights with Nvidia for compute",
-      "url": "https://www.theverge.com/podcast/964614/nvidia-auto-xinzhou-wu-ev-ai-hyperion-autonomy-cars-tesla",
-      "pubDate": "2026-07-13T15:00:00.000Z"
     },
     {
       "source": "AppleInsider",
@@ -178,13 +290,6 @@
       "pubDate": "2026-07-13T14:57:07.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Asus ROG Flow Z13 gaming tablet with 64GB RAM is down to $2,100",
-      "url": "https://www.theverge.com/gadgets/964652/asus-rog-flow-z13-switch-2-camera-amd-ryzen-ddr4-deal-sale",
-      "pubDate": "2026-07-13T14:52:14.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple's Steady iPhone Pricing Pays Off as Rivals Scramble",
@@ -192,25 +297,11 @@
       "pubDate": "2026-07-13T14:44:21.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "OpenAI hardware timeline reportedly unchanged after Apple trade secret theft lawsuit",
-      "url": "https://9to5mac.com/2026/07/13/openai-hardware-timeline-reportedly-unchanged-after-apple-trade-secret-theft-lawsuit/",
-      "pubDate": "2026-07-13T14:36:09.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple's corporate espionage suit against OpenAI isn't the first",
       "url": "https://appleinsider.com/articles/26/07/13/apples-corporate-espionage-suit-against-openai-isnt-the-first?utm_source=rss",
       "pubDate": "2026-07-13T14:14:29.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple acquires observability startup SigScalr",
-      "url": "https://9to5mac.com/2026/07/13/apple-acquires-observability-startup-sigscalr/",
-      "pubDate": "2026-07-13T14:12:10.000Z"
     },
     {
       "source": "AppleInsider",
@@ -276,102 +367,11 @@
       "pubDate": "2026-07-13T11:33:27.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Sunday Reboot: No cell service for 250 years",
-      "url": "https://appleinsider.com/articles/26/07/12/sunday-reboot-no-cell-service-for-250-years?utm_source=rss",
-      "pubDate": "2026-07-13T11:20:55.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Meta Pulls AI Image Feature From Instagram Days After Launch",
-      "url": "https://www.macrumors.com/2026/07/13/meta-pulls-ai-image-feature-from-instagram/",
-      "pubDate": "2026-07-13T11:19:19.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "5 New Waze Features Rolling Out Now: Here Are All the Details",
-      "url": "https://www.macrumors.com/2026/07/13/five-new-waze-features-rolling-out/",
-      "pubDate": "2026-07-13T10:42:42.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "This free Mac app reveals the truth about your mystery USB-C cables",
-      "url": "https://www.theverge.com/gadgets/963759/whatcable-usb-c-cable-tester-app-mac",
-      "pubDate": "2026-07-13T10:00:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Report: Apple Agreed to Intel Chips Amid White House Tariff Talks",
-      "url": "https://www.macrumors.com/2026/07/13/apple-agreed-intel-chips-trump-tariff-talks/",
-      "pubDate": "2026-07-13T09:54:10.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Social media limits are coming for teens across Europe",
-      "url": "https://www.theverge.com/tech/964565/eu-children-social-media-online-safety-rules",
-      "pubDate": "2026-07-13T09:22:52.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Waze is getting a bunch of new AI-powered features",
-      "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
-      "pubDate": "2026-07-13T09:00:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Amazon revives $199 AirPods Pro 3 deal after Prime Day",
-      "url": "https://appleinsider.com/articles/26/07/13/amazon-revives-199-airpods-pro-3-deal-after-prime-day?utm_source=rss",
-      "pubDate": "2026-07-13T05:49:59.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
-      "pubDate": "2026-07-12T20:10:19.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Shall We Go On Sinning So That Grace May Increase? is hypnotic, healing, and hopeful",
-      "url": "https://www.theverge.com/entertainment/964532/the-soft-pink-truth-shall-we-go-on-sinning-so-that-grace-may-increase-review",
-      "pubDate": "2026-07-12T19:40:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple Watch Series 11 drops to $299 with Amazon deal, save $100",
-      "url": "https://appleinsider.com/articles/26/07/12/apple-watch-series-11-drops-to-299-with-amazon-deal-save-100?utm_source=rss",
-      "pubDate": "2026-07-12T19:35:18.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Apple sues OpenAI, alleging trade secret theft ↦",
       "url": "https://sixcolors.com/link/2026/07/apple-sues-openai-alleging-trade-secret-theft/",
       "pubDate": "2026-07-10T21:14:37.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "WhatCable gives you the download on your USB cables",
-      "url": "https://sixcolors.com/post/2026/07/whatcable-gives-you-the-download-on-your-usb-cables/",
-      "pubDate": "2026-07-09T19:13:19.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Make an iPhone into a Dumb Phone ↦",
-      "url": "https://sixcolors.com/link/2026/07/make-an-iphone-into-a-dumb-phone/",
-      "pubDate": "2026-07-09T02:40:32.000Z"
     }
   ]
 }
