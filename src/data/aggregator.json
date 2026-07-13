@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T11:29:42.516Z",
+  "generatedAt": "2026-07-13T15:12:23.940Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,6 +24,160 @@
   ],
   "items": [
     {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Report: Apple hits record 20% global smartphone shipment share as market plunges",
+      "url": "https://9to5mac.com/2026/07/13/report-apple-hits-record-20-global-smartphone-shipment-share-as-market-plunges/",
+      "pubDate": "2026-07-13T15:12:11.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Even Nvidia’s head of automotive fights with Nvidia for compute",
+      "url": "https://www.theverge.com/podcast/964614/nvidia-auto-xinzhou-wu-ev-ai-hyperion-autonomy-cars-tesla",
+      "pubDate": "2026-07-13T15:00:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Channel Master Floodlight Pro review & listener question roundup on the Smart Home Insider podcast",
+      "url": "https://appleinsider.com/articles/26/07/13/channel-master-floodlight-pro-review-listener-question-roundup-on-the-smart-home-insider-podcast?utm_source=rss",
+      "pubDate": "2026-07-13T14:58:10.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Facebook demands AirPods-like pairing for its glasses and headsets",
+      "url": "https://appleinsider.com/articles/26/07/13/facebook-demands-airpods-like-pairing-for-its-glasses-and-headsets?utm_source=rss",
+      "pubDate": "2026-07-13T14:57:07.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The Asus ROG Flow Z13 gaming tablet with 64GB RAM is down to $2,100",
+      "url": "https://www.theverge.com/gadgets/964652/asus-rog-flow-z13-switch-2-camera-amd-ryzen-ddr4-deal-sale",
+      "pubDate": "2026-07-13T14:52:14.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's Steady iPhone Pricing Pays Off as Rivals Scramble",
+      "url": "https://www.macrumors.com/2026/07/13/apples-steady-iphone-pricing-pays-off/",
+      "pubDate": "2026-07-13T14:44:21.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "OpenAI hardware timeline reportedly unchanged after Apple trade secret theft lawsuit",
+      "url": "https://9to5mac.com/2026/07/13/openai-hardware-timeline-reportedly-unchanged-after-apple-trade-secret-theft-lawsuit/",
+      "pubDate": "2026-07-13T14:36:09.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's corporate espionage suit against OpenAI isn't the first",
+      "url": "https://appleinsider.com/articles/26/07/13/apples-corporate-espionage-suit-against-openai-isnt-the-first?utm_source=rss",
+      "pubDate": "2026-07-13T14:14:29.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple acquires observability startup SigScalr",
+      "url": "https://9to5mac.com/2026/07/13/apple-acquires-observability-startup-sigscalr/",
+      "pubDate": "2026-07-13T14:12:10.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iPhone growth defies the smartphone market's worst second quarter in 13 years",
+      "url": "https://appleinsider.com/articles/26/07/13/iphone-growth-defies-the-smartphone-markets-worst-second-quarter-in-13-years?utm_source=rss",
+      "pubDate": "2026-07-13T14:08:48.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Acquiring SigScalr",
+      "url": "https://www.macrumors.com/2026/07/13/apple-acquires-sigscalr-assets/",
+      "pubDate": "2026-07-13T14:01:26.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Missed the Last Apple Watch Sale? Series 11 Now $100 Off on Amazon",
+      "url": "https://www.macrumors.com/2026/07/13/apple-watch-11-to-299/",
+      "pubDate": "2026-07-13T13:49:21.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Epic Games fights Apple’s request to pause App Store commission proceedings",
+      "url": "https://9to5mac.com/2026/07/13/epic-games-fights-apples-request-to-pause-app-store-commission-proceedings/",
+      "pubDate": "2026-07-13T13:48:09.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Plans AirPods-Like Pairing for Meta's Glasses and Quest",
+      "url": "https://www.macrumors.com/2026/07/13/apple-plans-airpods-like-pairing-for-meta/",
+      "pubDate": "2026-07-13T13:46:02.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "AAPL stock rallies 15% as investors favor AI caution and welcome price increases",
+      "url": "https://9to5mac.com/2026/07/13/aapl-stock-rallies-15-as-investors-favor-ai-caution-and-welcome-price-increases/",
+      "pubDate": "2026-07-13T13:11:08.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "'CrashStealer' malware poses as an Apple tool to steal passwords & Mac data",
+      "url": "https://appleinsider.com/articles/26/07/13/crashstealer-malware-poses-as-an-apple-tool-to-steal-passwords-mac-data?utm_source=rss",
+      "pubDate": "2026-07-13T13:00:14.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Should Apple get out of the ad business altogether? [Poll]",
+      "url": "https://9to5mac.com/2026/07/13/should-apple-get-out-of-the-ad-business-altogether-poll/",
+      "pubDate": "2026-07-13T12:43:16.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Stock Hits Record Territory as Traders Sour on AI Spending",
+      "url": "https://www.macrumors.com/2026/07/13/apple-stock-record-territory/",
+      "pubDate": "2026-07-13T12:09:34.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Time for change: 50 Apple Watch updates coming in watchOS 27",
+      "url": "https://appleinsider.com/articles/26/07/13/time-for-change-50-apple-watch-updates-coming-in-watchos-27?utm_source=rss",
+      "pubDate": "2026-07-13T12:02:40.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "EU plans to ban under-13s from social media, with ‘phased access’ afterwards",
+      "url": "https://9to5mac.com/2026/07/13/eu-plans-to-ban-under-13s-from-social-media-with-phased-access-afterwards/",
+      "pubDate": "2026-07-13T11:52:44.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "SigLens acquired by Apple for debugging massive apps and services",
+      "url": "https://appleinsider.com/articles/26/07/13/siglens-acquired-by-apple-for-debugging-massive-apps-and-services?utm_source=rss",
+      "pubDate": "2026-07-13T11:45:14.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "From rumors to titanium, bad debts and a new backer -- Apple Card is seven years old",
+      "url": "https://appleinsider.com/articles/26/07/10/from-rumors-to-titanium-bad-debts-and-a-new-backer----apple-card-is-seven-years-old?utm_source=rss",
+      "pubDate": "2026-07-13T11:33:27.000Z"
+    },
+    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Sunday Reboot: No cell service for 250 years",
@@ -35,7 +189,7 @@
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Meta Pulls AI Image Feature From Instagram Days After Launch",
       "url": "https://www.macrumors.com/2026/07/13/meta-pulls-ai-image-feature-from-instagram/",
-      "pubDate": "2026-07-13T11:19:26.000Z"
+      "pubDate": "2026-07-13T11:19:19.000Z"
     },
     {
       "source": "9to5Mac",
@@ -45,11 +199,18 @@
       "pubDate": "2026-07-13T11:08:48.000Z"
     },
     {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Anthropic expanding Claude Cowork to mobile and web, details here [U]",
+      "url": "https://9to5mac.com/2026/07/13/anthropic-expanding-claude-cowork-to-mobile-and-web-details-here/",
+      "pubDate": "2026-07-13T11:00:00.000Z"
+    },
+    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "5 New Waze Features Rolling Out Now: Here Are All the Details",
       "url": "https://www.macrumors.com/2026/07/13/five-new-waze-features-rolling-out/",
-      "pubDate": "2026-07-13T10:42:50.000Z"
+      "pubDate": "2026-07-13T10:42:42.000Z"
     },
     {
       "source": "The Verge",
@@ -150,13 +311,6 @@
       "pubDate": "2026-07-12T15:27:39.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Here's Why Apple is Reportedly Skipping M6 Pro and M6 Max Chips",
-      "url": "https://www.macrumors.com/2026/07/12/why-apple-is-skipping-m6-pro-m6-max-chips/",
-      "pubDate": "2026-07-12T15:12:10.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "M6 era will last just six months as Apple pushes for AI-focused M7",
@@ -169,13 +323,6 @@
       "title": "One of SteelSeries&#8217; best gaming headsets is over $100 off",
       "url": "https://www.theverge.com/gadgets/964125/steelseries-arctis-nova-pro-wireless-headset-deal-sale",
       "pubDate": "2026-07-12T15:00:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Power of Apple's M7 & M8 chips was born from Apple Car research",
-      "url": "https://appleinsider.com/articles/26/07/12/power-of-apples-m7-m8-chips-was-born-from-apple-car-research?utm_source=rss",
-      "pubDate": "2026-07-12T14:59:59.000Z"
     },
     {
       "source": "The Verge",
@@ -192,27 +339,6 @@
       "pubDate": "2026-07-12T14:34:28.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "AirPods Pro 3 Hit Best Price Since Prime Day at $199.99",
-      "url": "https://www.macrumors.com/2026/07/12/airpods-pro-3-at-199-99/",
-      "pubDate": "2026-07-12T14:32:47.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple's 2026 Back to School Offer is Coming Soon",
-      "url": "https://www.macrumors.com/2026/07/12/apple-2026-back-to-school-offer-soon/",
-      "pubDate": "2026-07-12T14:29:39.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "EU regulations could force an Apple Pencil upgrade in early 2027",
-      "url": "https://appleinsider.com/articles/26/07/12/eu-regulations-could-force-an-apple-pencil-upgrade-in-early-2027?utm_source=rss",
-      "pubDate": "2026-07-12T14:28:53.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Apple developing new Apple Pencil models for release next year, possibly with replaceable batteries",
@@ -220,137 +346,11 @@
       "pubDate": "2026-07-12T14:17:27.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Assess Apple's imminent Back to School sales, before you pull the trigger on a bad deal",
-      "url": "https://appleinsider.com/articles/26/07/12/assess-apples-imminent-back-to-school-sales-before-you-pull-the-trigger-on-a-bad-deal?utm_source=rss",
-      "pubDate": "2026-07-12T14:11:24.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Gurman: Apple’s ‘Back to School’ deal for U.S. students likely launching later this week",
-      "url": "https://9to5mac.com/2026/07/12/gurman-apples-back-to-school-deal-for-u-s-students-likely-launching-later-this-week/",
-      "pubDate": "2026-07-12T14:04:23.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Less is more with the Oura Ring 5",
-      "url": "https://www.theverge.com/tech/964386/oura-ring-5-review-smart-ring-wearables",
-      "pubDate": "2026-07-12T14:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Blue Prince became a bonding — and learning — experience for my family",
-      "url": "https://www.theverge.com/games/964262/blue-prince-family-bonding",
-      "pubDate": "2026-07-12T13:00:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Crime blotter: Stolen iPad leads to arrest of accused bank robber",
-      "url": "https://appleinsider.com/articles/26/07/12/crime-blotter-stolen-ipad-leads-to-arrest-of-accused-bank-robber?utm_source=rss",
-      "pubDate": "2026-07-12T11:41:31.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPadOS 27 still needs simpler multitasking, here’s what I’d like to see",
-      "url": "https://9to5mac.com/2026/07/11/ipad-pro-needs-simpler-multitasking-with-ipados-27/",
-      "pubDate": "2026-07-11T21:05:01.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Indie App Spotlight: ‘Route 25’ is an all-in-one social app for Pokémon collectors",
-      "url": "https://9to5mac.com/2026/07/11/indie-app-spotlight-route-25-is-an-all-in-one-social-app-for-pokemon-collectors/",
-      "pubDate": "2026-07-11T19:30:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "SANDISK Phone Drive for iPhone is a great solution to low storage",
-      "url": "https://9to5mac.com/2026/07/11/sandisk-phone-drive-iphone-great-solution-to-low-storage/",
-      "pubDate": "2026-07-11T16:00:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Score Summer-Ready Anker Accessories at Rare Low Prices This Weekend",
-      "url": "https://www.macrumors.com/2026/07/11/summer-anker-accessories-low-prices/",
-      "pubDate": "2026-07-11T14:54:39.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Top Stories: 'iPhone Ultra' and Apple TV Rumors, iOS 27 Beta 3, and More",
-      "url": "https://www.macrumors.com/2026/07/11/top-stories-iphone-ultra-apple-tv-rumors/",
-      "pubDate": "2026-07-11T13:00:10.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple's 100% tariff exemption may have been helped by Intel supply deal",
-      "url": "https://appleinsider.com/articles/26/07/11/apples-100-tariff-exemption-may-have-been-helped-by-intel-supply-deal?utm_source=rss",
-      "pubDate": "2026-07-11T12:56:40.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple weekend deals: AirPods, Apple Watch Series 11, MagSafe chargers, Magic Mouse, more",
-      "url": "https://9to5mac.com/2026/07/11/weekend-apple-deals-airpods/",
-      "pubDate": "2026-07-11T12:15:18.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple @ Work: The M1 MacBook Air has the longest usable lifespan of any Apple laptop in history",
-      "url": "https://9to5mac.com/2026/07/11/the-m1-macbook-air-has-the-longest-usable-lifespan-of-any-apple-laptop-in-history/",
-      "pubDate": "2026-07-11T12:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "WSJ: Apple avoided semiconductor tariffs last year thanks to Intel chip deal",
-      "url": "https://9to5mac.com/2026/07/10/wsj-apple-avoided-semiconductor-tariffs-last-year-thanks-to-intel-chip-deal/",
-      "pubDate": "2026-07-11T06:03:08.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "OpenAI responds to Apple’s trade secret theft lawsuit",
-      "url": "https://9to5mac.com/2026/07/10/openai-responds-to-apples-trade-secret-theft-lawsuit/",
-      "pubDate": "2026-07-10T22:56:45.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple sues OpenAI & previous VP of product design over mass IP theft",
-      "url": "https://appleinsider.com/articles/26/07/10/apple-sues-openai-previous-vp-of-product-design-over-mass-ip-theft?utm_source=rss",
-      "pubDate": "2026-07-10T21:25:08.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Apple sues OpenAI, alleging trade secret theft ↦",
       "url": "https://sixcolors.com/link/2026/07/apple-sues-openai-alleging-trade-secret-theft/",
       "pubDate": "2026-07-10T21:14:37.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Save $700 on LG's 32-inch UltraFine evo 6K Thunderbolt 5 monitor",
-      "url": "https://appleinsider.com/articles/26/07/10/save-700-on-lgs-32-inch-ultrafine-evo-6k-thunderbolt-5-monitor?utm_source=rss",
-      "pubDate": "2026-07-10T15:32:37.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Facebook & Instagram's addictive design could cost Meta $12.5 billion",
-      "url": "https://appleinsider.com/articles/26/07/10/facebook-instagrams-addictive-design-could-cost-meta-125-billion?utm_source=rss",
-      "pubDate": "2026-07-10T13:50:22.000Z"
     },
     {
       "source": "Six Colors",
