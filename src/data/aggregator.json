@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T07:39:32.823Z",
+  "generatedAt": "2026-07-13T11:29:42.516Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -26,6 +26,62 @@
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
+      "title": "Sunday Reboot: No cell service for 250 years",
+      "url": "https://appleinsider.com/articles/26/07/12/sunday-reboot-no-cell-service-for-250-years?utm_source=rss",
+      "pubDate": "2026-07-13T11:20:55.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Meta Pulls AI Image Feature From Instagram Days After Launch",
+      "url": "https://www.macrumors.com/2026/07/13/meta-pulls-ai-image-feature-from-instagram/",
+      "pubDate": "2026-07-13T11:19:26.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Free Mac app WhatCable tells you what each of your USB-C cables can really do",
+      "url": "https://9to5mac.com/2026/07/13/free-mac-app-whatcable-tells-you-what-each-of-your-usb-c-cables-can-really-do/",
+      "pubDate": "2026-07-13T11:08:48.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "5 New Waze Features Rolling Out Now: Here Are All the Details",
+      "url": "https://www.macrumors.com/2026/07/13/five-new-waze-features-rolling-out/",
+      "pubDate": "2026-07-13T10:42:50.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "This free Mac app reveals the truth about your mystery USB-C cables",
+      "url": "https://www.theverge.com/gadgets/963759/whatcable-usb-c-cable-tester-app-mac",
+      "pubDate": "2026-07-13T10:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Report: Apple Agreed to Intel Chips Amid White House Tariff Talks",
+      "url": "https://www.macrumors.com/2026/07/13/apple-agreed-intel-chips-trump-tariff-talks/",
+      "pubDate": "2026-07-13T09:54:10.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Social media limits are coming for teens across Europe",
+      "url": "https://www.theverge.com/tech/964565/eu-children-social-media-online-safety-rules",
+      "pubDate": "2026-07-13T09:22:52.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Waze is getting a bunch of new AI-powered features",
+      "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+      "pubDate": "2026-07-13T09:00:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
       "title": "Amazon revives $199 AirPods Pro 3 deal after Prime Day",
       "url": "https://appleinsider.com/articles/26/07/13/amazon-revives-199-airpods-pro-3-deal-after-prime-day?utm_source=rss",
       "pubDate": "2026-07-13T05:49:59.000Z"
@@ -36,13 +92,6 @@
       "title": "9to5Mac Overtime 072: Apple Watch and the new Siri",
       "url": "https://9to5mac.com/2026/07/12/9to5mac-overtime-072-apple-watch-and-the-new-siri/",
       "pubDate": "2026-07-13T00:14:05.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Sunday Reboot: No cell service for 250 years",
-      "url": "https://appleinsider.com/articles/26/07/12/sunday-reboot-no-cell-service-for-250-years?utm_source=rss",
-      "pubDate": "2026-07-12T21:30:53.000Z"
     },
     {
       "source": "The Verge",
@@ -199,13 +248,6 @@
       "pubDate": "2026-07-12T13:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The fight against AI data centers is just beginning",
-      "url": "https://www.theverge.com/column/963346/ai-data-centers-fight",
-      "pubDate": "2026-07-12T12:00:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Crime blotter: Stolen iPad leads to arrest of accused bank robber",
@@ -220,25 +262,11 @@
       "pubDate": "2026-07-11T21:05:01.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "After years of teasing, the viral Nopia synth is ‘basically finished’",
-      "url": "https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo",
-      "pubDate": "2026-07-11T20:57:42.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Indie App Spotlight: ‘Route 25’ is an all-in-one social app for Pokémon collectors",
       "url": "https://9to5mac.com/2026/07/11/indie-app-spotlight-route-25-is-an-all-in-one-social-app-for-pokemon-collectors/",
       "pubDate": "2026-07-11T19:30:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Oregon’s Attorney General withdraws effort to delay Paramount and Warner Bros. merger",
-      "url": "https://www.theverge.com/policy/964493/oregons-ag-delay-paramount-warner-bros-merger",
-      "pubDate": "2026-07-11T18:44:12.000Z"
     },
     {
       "source": "9to5Mac",
@@ -283,13 +311,6 @@
       "pubDate": "2026-07-11T12:00:00.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "OpenAI Responds After Being Sued by Apple",
-      "url": "https://www.macrumors.com/2026/07/11/openai-responds-after-apple-lawsuit/",
-      "pubDate": "2026-07-11T11:57:26.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "WSJ: Apple avoided semiconductor tariffs last year thanks to Intel chip deal",
@@ -302,27 +323,6 @@
       "title": "OpenAI responds to Apple’s trade secret theft lawsuit",
       "url": "https://9to5mac.com/2026/07/10/openai-responds-to-apples-trade-secret-theft-lawsuit/",
       "pubDate": "2026-07-10T22:56:45.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Meta removes feature that let users generate AI images from public Instagram posts",
-      "url": "https://9to5mac.com/2026/07/10/meta-removes-feature-that-let-users-generate-ai-images-from-public-instagram-posts/",
-      "pubDate": "2026-07-10T22:37:05.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27: What's New With the Mail App",
-      "url": "https://www.macrumors.com/guide/ios-27-mail/",
-      "pubDate": "2026-07-10T22:26:37.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Two Apple Stores in U.S. Are Moving Soon",
-      "url": "https://www.macrumors.com/2026/07/10/two-apple-stores-moving-soon/",
-      "pubDate": "2026-07-10T22:15:00.000Z"
     },
     {
       "source": "AppleInsider",
