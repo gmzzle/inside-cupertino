@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T23:15:29.487Z",
+  "generatedAt": "2026-07-14T03:35:21.982Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "How to use Playlist Playground to build Apple Music playlists in seconds",
+      "url": "https://appleinsider.com/inside/apple-music/tips/how-to-use-playlist-playground-to-build-apple-music-playlists-in-seconds?utm_source=rss",
+      "pubDate": "2026-07-14T03:01:08.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 public beta: Should you install it on your iPhone?",
+      "url": "https://9to5mac.com/2026/07/13/ios-27-public-beta-should-you-install-it-on-your-iphone/",
+      "pubDate": "2026-07-14T00:28:57.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "OpenAI could force Apple into an awkward fight with Jony Ive",
+      "url": "https://9to5mac.com/2026/07/13/openai-could-force-apple-into-an-awkward-fight-with-jony-ive/",
+      "pubDate": "2026-07-13T23:52:44.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -241,25 +262,11 @@
       "pubDate": "2026-07-13T18:35:48.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "macOS Sonoma 14.8.8 and macOS Sequoia 15.7.8 get a rare fifth RC [U: Public]",
-      "url": "https://9to5mac.com/2026/07/13/macos-sonoma-14-8-8-and-macos-sequoia-15-7-8-get-a-rare-fifth-rc/",
-      "pubDate": "2026-07-13T18:01:13.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Fifth developer betas of iOS 26.6, macOS 26.6 are out now",
       "url": "https://appleinsider.com/articles/26/07/13/fifth-developer-betas-of-ios-266-macos-266-are-out-now?utm_source=rss",
       "pubDate": "2026-07-13T17:40:02.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple rolls beta 5 for iPadOS 26.6, tvOS 26.6, watchOS 26.6, more [U: Public betas]",
-      "url": "https://9to5mac.com/2026/07/13/apple-rolls-beta-5-for-ipados-26-6-tvos-26-6-watchos-26-6-more/",
-      "pubDate": "2026-07-13T17:37:30.000Z"
     },
     {
       "source": "MacRumors",
@@ -360,18 +367,11 @@
       "pubDate": "2026-07-13T12:02:40.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "SigLens acquired by Apple for debugging massive apps and services",
-      "url": "https://appleinsider.com/articles/26/07/13/siglens-acquired-by-apple-for-debugging-massive-apps-and-services?utm_source=rss",
-      "pubDate": "2026-07-13T11:45:14.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "From rumors to titanium, bad debts and a new backer -- Apple Card is seven years old",
-      "url": "https://appleinsider.com/articles/26/07/10/from-rumors-to-titanium-bad-debts-and-a-new-backer----apple-card-is-seven-years-old?utm_source=rss",
-      "pubDate": "2026-07-13T11:33:27.000Z"
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Apple sues OpenAI, alleging trade secret theft ↦",
+      "url": "https://sixcolors.com/link/2026/07/apple-sues-openai-alleging-trade-secret-theft/",
+      "pubDate": "2026-07-10T21:14:37.000Z"
     }
   ]
 }
