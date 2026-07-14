@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T06:25:56.694Z",
+  "generatedAt": "2026-07-14T09:17:39.725Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "New York becomes the first state to enact a data center moratorium",
+      "url": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium",
+      "pubDate": "2026-07-14T09:00:00.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -260,13 +267,6 @@
       "title": "Apple TV has a packed lineup of sports premieres coming soon",
       "url": "https://9to5mac.com/2026/07/13/apple-tv-has-a-packed-lineup-of-sports-premieres-coming-soon/",
       "pubDate": "2026-07-13T19:20:37.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "States make last-ditch effort to stop the Paramount ‘media behemoth’",
-      "url": "https://www.theverge.com/policy/964916/paramount-warner-bros-discovery-states-lawsuit",
-      "pubDate": "2026-07-13T18:35:48.000Z"
     },
     {
       "source": "AppleInsider",
