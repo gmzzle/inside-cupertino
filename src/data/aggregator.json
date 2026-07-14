@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T17:34:49.099Z",
+  "generatedAt": "2026-07-14T19:44:11.488Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -26,14 +26,84 @@
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
+      "title": "iCloud $32.8B CSAM lawsuit dismissed, Apple protected under Section 230 laws",
+      "url": "https://appleinsider.com/articles/26/07/14/icloud-328b-csam-lawsuit-dismissed-apple-protected-under-section-230-laws?utm_source=rss",
+      "pubDate": "2026-07-14T19:42:59.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Judge dismisses lawsuit accusing Apple of failing to stop CSAM on iCloud",
+      "url": "https://9to5mac.com/2026/07/14/judge-dismisses-lawsuit-accusing-apple-of-failing-to-stop-csam-on-icloud/",
+      "pubDate": "2026-07-14T19:19:36.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple Watch, Meta Glasses, AirPods get reprieve from EU replaceable battery law",
+      "url": "https://appleinsider.com/articles/26/07/14/apple-watch-meta-glasses-airpods-get-reprieve-from-eu-replaceable-battery-law?utm_source=rss",
+      "pubDate": "2026-07-14T18:49:08.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Canva Code 2.0 adds visual editing, HTML imports, and real-time collaboration",
+      "url": "https://9to5mac.com/2026/07/14/canva-code-2-0-adds-visual-editing-html-imports-and-real-time-collaboration/",
+      "pubDate": "2026-07-14T18:37:21.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Amazon Hosts Rare Nintendo Switch 2 Deal, Get $49 Off Game Bundle",
+      "url": "https://www.macrumors.com/2026/07/14/amazon-switch-2-deal/",
+      "pubDate": "2026-07-14T18:32:31.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Releases New iOS 27 AirPods Firmware For Public Beta Testers",
+      "url": "https://www.macrumors.com/2026/07/14/airpods-public-beta-firmware/",
+      "pubDate": "2026-07-14T18:29:56.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "AirPods public betas arrive one day after iOS 27 public beta, here’s how to enroll",
+      "url": "https://9to5mac.com/2026/07/14/airpods-public-betas-arrive-one-day-after-ios-27-public-beta-heres-how-to-enroll/",
+      "pubDate": "2026-07-14T18:25:21.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "macOS Golden Gate Public Beta: 10 Features to Try First",
+      "url": "https://www.macrumors.com/guide/macos-golden-gate-10-features/",
+      "pubDate": "2026-07-14T18:11:10.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
       "title": "PrismML confirms it is in talks with Apple about AI model-shrinking tech",
       "url": "https://appleinsider.com/articles/26/07/14/prismml-confirms-it-is-in-talks-with-apple-about-ai-model-shrinking-tech?utm_source=rss",
-      "pubDate": "2026-07-14T17:31:50.000Z"
+      "pubDate": "2026-07-14T18:08:37.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "PrismML releases Bonsai 27B, claiming first major AI model of its size fit for iPhone",
+      "url": "https://9to5mac.com/2026/07/14/prismml-releases-bonsai-27b-claiming-first-major-ai-model-of-its-size-fit-for-iphone/",
+      "pubDate": "2026-07-14T18:02:52.000Z"
     },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
-      "title": "Plex is down",
+      "title": "Philips Hue&#8217;s budget-friendly Essential starter kit has hit a new low price",
+      "url": "https://www.theverge.com/gadgets/965476/philips-hue-essential-starter-kit-hue-bridge-deal-sale",
+      "pubDate": "2026-07-14T17:36:05.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Plex problems prevented users from streaming movies and shows",
       "url": "https://www.theverge.com/tech/965518/plex-tv-down-outage-issues",
       "pubDate": "2026-07-14T17:23:25.000Z"
     },
@@ -82,7 +152,7 @@
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 compatibility: Does your iPhone support all the new features?",
+      "title": "Your iPhone might miss out on these iOS 27 features",
       "url": "https://9to5mac.com/2026/07/14/ios-27-new-features-compatibility/",
       "pubDate": "2026-07-14T16:40:16.000Z"
     },
@@ -171,13 +241,6 @@
       "pubDate": "2026-07-14T15:27:36.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "X admits its broken algorithm made the site feel like a &#8216;battleground&#8217;",
-      "url": "https://www.theverge.com/tech/965360/x-algorithm-tweak-mutuals-strangers-community",
-      "pubDate": "2026-07-14T15:20:21.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Madden NFL 27 Arcade Edition Coming to Apple Arcade",
@@ -199,39 +262,11 @@
       "pubDate": "2026-07-14T14:54:05.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "IDC: Apple shipped nearly 1 in 5 smartphones in China in Q2 2026",
-      "url": "https://9to5mac.com/2026/07/14/idc-apple-shipped-nearly-1-in-5-smartphones-in-china-in-q2-2026/",
-      "pubDate": "2026-07-14T14:47:03.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Arcade adding the ultimate NFL game just in time for football season",
-      "url": "https://9to5mac.com/2026/07/14/apple-arcade-adding-the-ultimate-nfl-game-just-in-time-for-football-season/",
-      "pubDate": "2026-07-14T14:29:11.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "WhatsApp is building its own iCloud alternative for chat backups",
-      "url": "https://9to5mac.com/2026/07/14/whatsapp-is-building-its-own-icloud-alternative-for-chat-backups/",
-      "pubDate": "2026-07-14T14:25:34.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "OLED iPad mini may still launch before the end of 2026",
       "url": "https://appleinsider.com/articles/26/07/14/oled-ipad-mini-may-still-launch-before-the-end-of-2026?utm_source=rss",
       "pubDate": "2026-07-14T14:17:51.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple’s MacBook Pro overhaul is coming soon, with a big twist",
-      "url": "https://9to5mac.com/2026/07/14/apples-huge-macbook-pro-overhaul-is-coming-soon-heres-what-we-know/",
-      "pubDate": "2026-07-14T14:08:48.000Z"
     },
     {
       "source": "AppleInsider",
@@ -311,20 +346,6 @@
       "pubDate": "2026-07-13T23:07:18.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 26.6 Will Warn You About Malicious iMessages",
-      "url": "https://www.macrumors.com/2026/07/13/ios-26-6-malicious-message-warning/",
-      "pubDate": "2026-07-13T23:02:48.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPadOS 27 & macOS 27 beta 3 get a version 2 update as public betas drop",
-      "url": "https://appleinsider.com/articles/26/07/13/ipados-27-macos-27-beta-3-get-a-version-2-update-as-public-betas-drop?utm_source=rss",
-      "pubDate": "2026-07-13T21:07:42.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "First Look: iOS 27 Public Beta",
@@ -339,20 +360,6 @@
       "pubDate": "2026-07-13T20:49:42.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "First macOS Golden Gate Public Beta Now Available",
-      "url": "https://www.macrumors.com/2026/07/13/macos-golden-gate-public-beta/",
-      "pubDate": "2026-07-13T20:41:27.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27 and iPadOS 27 Now Available to Public Beta Testers",
-      "url": "https://www.macrumors.com/2026/07/13/apple-seeds-ios-27-public-beta-1/",
-      "pubDate": "2026-07-13T20:39:18.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) Upgrade 628: Conspiracy to Steal Trade Secrets",
@@ -365,13 +372,6 @@
       "title": "Pulling the Thread to know if my garage door is closed",
       "url": "https://sixcolors.com/post/2026/07/pulling-the-thread-to-know-if-my-garage-door-is-closed/",
       "pubDate": "2026-07-13T16:30:44.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Apple sues OpenAI, alleging trade secret theft ↦",
-      "url": "https://sixcolors.com/link/2026/07/apple-sues-openai-alleging-trade-secret-theft/",
-      "pubDate": "2026-07-10T21:14:37.000Z"
     }
   ]
 }
