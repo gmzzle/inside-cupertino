@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T21:15:38.087Z",
+  "generatedAt": "2026-07-14T23:11:42.207Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "OpenAI's first hardware device will be a HomePod, but don't tell them that",
+      "url": "https://appleinsider.com/articles/26/07/14/openais-first-hardware-device-will-be-a-homepod-but-dont-tell-them-that?utm_source=rss",
+      "pubDate": "2026-07-14T21:41:48.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "OpenAI's First AI Device Will Be a Portable Smart Speaker",
+      "url": "https://www.macrumors.com/2026/07/14/openai-ai-hardware-device-speaker/",
+      "pubDate": "2026-07-14T21:38:08.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -89,9 +103,9 @@
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
-      "title": "Amazon Hosts Rare Nintendo Switch 2 Deal, Get $49 Off Game Bundle",
+      "title": "Amazon Hosts Rare Nintendo Switch 2 Deal, Get $49 Off Game Bundle [Sold Out]",
       "url": "https://www.macrumors.com/2026/07/14/amazon-switch-2-deal/",
-      "pubDate": "2026-07-14T18:32:31.000Z"
+      "pubDate": "2026-07-14T18:32:08.000Z"
     },
     {
       "source": "MacRumors",
@@ -311,13 +325,6 @@
       "pubDate": "2026-07-14T12:36:48.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Owning an Apple Home: The broken promise of Matter",
-      "url": "https://appleinsider.com/articles/26/07/14/owning-an-apple-home-the-broken-promise-of-matter?utm_source=rss",
-      "pubDate": "2026-07-14T12:20:22.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iPhone 17 Pricing Helped Apple Buck China's Q2 Smartphone Decline",
@@ -337,13 +344,6 @@
       "title": "Google Chrome's Gemini AI Features Roll Out to UK Users",
       "url": "https://www.macrumors.com/2026/07/14/google-chrome-gemini-ai-features-uk/",
       "pubDate": "2026-07-14T09:32:37.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "How to Install iOS 27 Public Beta on Your iPhone",
-      "url": "https://www.macrumors.com/how-to/install-ios-27-public-beta-iphone-ipad/",
-      "pubDate": "2026-07-14T06:16:27.000Z"
     },
     {
       "source": "Six Colors",
