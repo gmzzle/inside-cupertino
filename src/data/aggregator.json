@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T09:17:39.725Z",
+  "generatedAt": "2026-07-14T11:45:07.485Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,69 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US",
+      "url": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
+      "pubDate": "2026-07-14T11:43:29.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone 17 Pricing Helped Apple Buck China's Q2 Smartphone Decline",
+      "url": "https://www.macrumors.com/2026/07/14/iphone-17-pricing-helped-apple-china-q2-26/",
+      "pubDate": "2026-07-14T11:27:09.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Waze now learns your preferences, and gets more conversational but less chatty",
+      "url": "https://9to5mac.com/2026/07/14/waze-now-learns-your-preferences-and-gets-more-conversational-but-less-chatty/",
+      "pubDate": "2026-07-14T11:26:01.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The first sunlight reflecting space mirror has been cleared for launch",
+      "url": "https://www.theverge.com/science/965263/reflect-orbital-space-mirror-launch-fcc-clearance",
+      "pubDate": "2026-07-14T11:10:39.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Safety regulator says Apple needs to do more to combat sextortion",
+      "url": "https://9to5mac.com/2026/07/14/safety-regulator-says-apple-needs-to-do-more-to-combat-sextortion/",
+      "pubDate": "2026-07-14T11:00:16.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Let’s build a children’s public internet",
+      "url": "https://www.theverge.com/report/962823/childrens-public-internet-child-safety-proposal",
+      "pubDate": "2026-07-14T11:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "WhatsApp Beta Reveals iCloud Backup Alternative for iPhone",
+      "url": "https://www.macrumors.com/2026/07/14/whatsapp-backup-cloud-provider-for-ios/",
+      "pubDate": "2026-07-14T10:06:46.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple @ Work Podcast: Breaking down the recent IDC PC shipment report",
+      "url": "https://9to5mac.com/2026/07/14/apple-work-podcast-breaking-down-the-recent-idc-pc-shipment-report/",
+      "pubDate": "2026-07-14T10:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Google Chrome's Gemini AI Features Roll Out to UK Users",
+      "url": "https://www.macrumors.com/2026/07/14/google-chrome-gemini-ai-features-uk/",
+      "pubDate": "2026-07-14T09:32:37.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -199,34 +262,6 @@
       "pubDate": "2026-07-13T20:45:07.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple releases iPadOS 27 public beta, here’s what’s new",
-      "url": "https://9to5mac.com/2026/07/13/apple-releases-ipados-27-public-beta-heres-whats-new/",
-      "pubDate": "2026-07-13T20:44:47.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Siri AI makes the Apple Watch finally feel like a wrist computer",
-      "url": "https://www.theverge.com/tech/964800/watchos-27-preview-siri-ai-apple-watch-gestures-smartwatch",
-      "pubDate": "2026-07-13T20:44:20.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Siri AI is already changing how I use my iPhone",
-      "url": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
-      "pubDate": "2026-07-13T20:43:20.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The macOS 27 public beta is worth it just for the Liquid Glass tweaks",
-      "url": "https://www.theverge.com/tech/964701/apple-macos-27-golden-gate-public-beta-impressions-liquid-glass-siri-ai",
-      "pubDate": "2026-07-13T20:43:15.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "First macOS Golden Gate Public Beta Now Available",
@@ -248,25 +283,11 @@
       "pubDate": "2026-07-13T20:38:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "MagSafe Monday: The Twelve South PowerBug clears your counters",
-      "url": "https://9to5mac.com/2026/07/13/twelve-south-powerbug/",
-      "pubDate": "2026-07-13T20:00:00.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) Upgrade 628: Conspiracy to Steal Trade Secrets",
       "url": "https://sixcolors.com/podcast/2026/07/upgrade-628-conspiracy-to-steal-trade-secrets/",
       "pubDate": "2026-07-13T19:29:59.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple TV has a packed lineup of sports premieres coming soon",
-      "url": "https://9to5mac.com/2026/07/13/apple-tv-has-a-packed-lineup-of-sports-premieres-coming-soon/",
-      "pubDate": "2026-07-13T19:20:37.000Z"
     },
     {
       "source": "AppleInsider",
@@ -297,13 +318,6 @@
       "pubDate": "2026-07-13T17:28:00.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Report: Apple's OpenAI Lawsuit Threatens iPhone Rival Plans",
-      "url": "https://www.macrumors.com/2026/07/13/openai-lawsuit-threatens-plans/",
-      "pubDate": "2026-07-13T16:31:48.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Pulling the Thread to know if my garage door is closed",
@@ -325,13 +339,6 @@
       "pubDate": "2026-07-13T14:57:07.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple's Steady iPhone Pricing Pays Off as Rivals Scramble",
-      "url": "https://www.macrumors.com/2026/07/13/apples-steady-iphone-pricing-pays-off/",
-      "pubDate": "2026-07-13T14:44:21.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple's corporate espionage suit against OpenAI isn't the first",
@@ -344,13 +351,6 @@
       "title": "iPhone growth defies the smartphone market's worst second quarter in 13 years",
       "url": "https://appleinsider.com/articles/26/07/13/iphone-growth-defies-the-smartphone-markets-worst-second-quarter-in-13-years?utm_source=rss",
       "pubDate": "2026-07-13T14:08:48.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Acquiring SigScalr",
-      "url": "https://www.macrumors.com/2026/07/13/apple-acquires-sigscalr-assets/",
-      "pubDate": "2026-07-13T14:01:26.000Z"
     },
     {
       "source": "AppleInsider",
