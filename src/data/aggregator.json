@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T06:28:39.180Z",
+  "generatedAt": "2026-07-15T09:22:04.999Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Starlink’s V5 dish is now available — here’s how it compares",
+      "url": "https://www.theverge.com/science/965824/starlink-v5-vs-v4-dish-comparison",
+      "pubDate": "2026-07-15T07:17:27.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -239,13 +246,6 @@
       "title": "Apple Watch among wearables exempted from EU user-replaceable battery rules",
       "url": "https://9to5mac.com/2026/07/14/apple-watch-among-wearables-exempted-from-eu-user-replaceable-battery-rules/",
       "pubDate": "2026-07-14T17:10:22.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Boston Dynamics tries using &#8216;robot dogs&#8217; for deliveries",
-      "url": "https://www.theverge.com/tech/965378/boston-dynamics-spot-robot-dog-delivery-assistant",
-      "pubDate": "2026-07-14T16:52:47.000Z"
     },
     {
       "source": "9to5Mac",
