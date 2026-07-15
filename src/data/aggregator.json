@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T23:11:42.207Z",
+  "generatedAt": "2026-07-15T00:07:07.563Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -26,6 +26,27 @@
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
+      "title": "LaserPecker LX2 review: Leveling up your laser game, for a price",
+      "url": "https://appleinsider.com/articles/26/07/15/laserpecker-lx2-review-leveling-up-your-laser-game-for-a-price?utm_source=rss",
+      "pubDate": "2026-07-15T00:01:04.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Opera gains ground among iPhone users in the US and UK",
+      "url": "https://9to5mac.com/2026/07/14/opera-gains-ground-among-iphone-users-in-the-us-and-uk/",
+      "pubDate": "2026-07-14T23:40:54.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Nothing’s good-looking Watch 3 Pro smartwatch is just $69",
+      "url": "https://www.theverge.com/gadgets/965565/cmf-nothing-watch-3-pro-smartwatch-ios-android-deal-sale",
+      "pubDate": "2026-07-14T22:24:26.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
       "title": "OpenAI's first hardware device will be a HomePod, but don't tell them that",
       "url": "https://appleinsider.com/articles/26/07/14/openais-first-hardware-device-will-be-a-homepod-but-dont-tell-them-that?utm_source=rss",
       "pubDate": "2026-07-14T21:41:48.000Z"
@@ -36,6 +57,20 @@
       "title": "OpenAI's First AI Device Will Be a Portable Smart Speaker",
       "url": "https://www.macrumors.com/2026/07/14/openai-ai-hardware-device-speaker/",
       "pubDate": "2026-07-14T21:38:08.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Windows 11&#8217;s big patch Tuesday allows you to hold off on updates for longer",
+      "url": "https://www.theverge.com/tech/965643/microsoft-windows-11-july-2026-patch-tuesday-updates",
+      "pubDate": "2026-07-14T21:32:04.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "OpenAI may announce a ChatGPT smart speaker this year",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
+      "pubDate": "2026-07-14T21:26:32.000Z"
     },
     {
       "source": "9to5Mac",
@@ -192,13 +227,6 @@
       "pubDate": "2026-07-14T16:47:49.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Nomad&#8217;s high-end phone accessories are up to 30 percent off",
-      "url": "https://www.theverge.com/gadgets/965108/nomad-magsafe-charger-tracker-samsung-galaxy-buds-3-fe-deal-sale",
-      "pubDate": "2026-07-14T16:46:27.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Your iPhone might miss out on these iOS 27 features",
@@ -213,25 +241,11 @@
       "pubDate": "2026-07-14T16:32:56.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The OLED Xbox Ally X20 is so good, Asus will sell it solo",
-      "url": "https://www.theverge.com/games/965123/asus-rog-xbox-ally-x20-oled-preview",
-      "pubDate": "2026-07-14T16:09:09.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Port-limited MacBook Neo gets color-matching hub & mouse",
       "url": "https://appleinsider.com/articles/26/07/14/port-limited-macbook-neo-gets-color-matching-hub-mouse?utm_source=rss",
       "pubDate": "2026-07-14T16:01:34.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Google Images homepage will recommend photos even before you search",
-      "url": "https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana",
-      "pubDate": "2026-07-14T16:00:00.000Z"
     },
     {
       "source": "AppleInsider",
@@ -253,13 +267,6 @@
       "title": "9to5Mac Daily: July 14, 2026 – M7 Ultra rumors, iPhone 18 costs",
       "url": "https://9to5mac.com/2026/07/14/daily-july-14-2026/",
       "pubDate": "2026-07-14T15:42:27.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: AirPods Pro 3, Nomad 25W MagSafe stands, Find My cards, titanium/leather Apple Watch bands, more",
-      "url": "https://9to5mac.com/2026/07/14/deals-airpods-pro-3-nomad-25w-magsafe-find-my-card-bands/",
-      "pubDate": "2026-07-14T15:34:48.000Z"
     },
     {
       "source": "AppleInsider",
@@ -295,13 +302,6 @@
       "title": "OLED iPad mini may still launch before the end of 2026",
       "url": "https://appleinsider.com/articles/26/07/14/oled-ipad-mini-may-still-launch-before-the-end-of-2026?utm_source=rss",
       "pubDate": "2026-07-14T14:17:51.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Glass production plans give the iPhone 20 redesign new credibility",
-      "url": "https://appleinsider.com/articles/26/07/14/glass-production-plans-give-the-iphone-20-redesign-new-credibility?utm_source=rss",
-      "pubDate": "2026-07-14T13:57:18.000Z"
     },
     {
       "source": "MacRumors",
