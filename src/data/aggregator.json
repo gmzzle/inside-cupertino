@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T21:15:39.376Z",
+  "generatedAt": "2026-07-15T23:12:49.218Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,55 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "HP&#8217;s OLED-equipped 2-in-1 laptop is a solid back-to-school deal",
+      "url": "https://www.theverge.com/gadgets/966209/hp-omnibook-x-flip-oled-laptop-windows-11-deal-sale",
+      "pubDate": "2026-07-15T22:47:11.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Apple’s reportedly raising the price for AppleCare Plus on Macs and iPads",
+      "url": "https://www.theverge.com/tech/966219/apple-care-plus-price-increase",
+      "pubDate": "2026-07-15T22:39:40.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Closes Unlocked iPhone Loophole for T-Mobile and Verizon Financing",
+      "url": "https://www.macrumors.com/2026/07/15/apple-carrier-iphone-financing/",
+      "pubDate": "2026-07-15T22:20:40.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Valve says iFixit will keep selling Steam Deck batteries after all",
+      "url": "https://www.theverge.com/games/966106/valve-ifixit-will-keep-selling-steam-deck-lcd-battery",
+      "pubDate": "2026-07-15T22:16:46.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "xAI sues a man for using Grok to generate CSAM &#8216;deepfakes&#8217;",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
+      "pubDate": "2026-07-15T21:33:20.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "AppleCare+ for Macs and iPads Just Got More Expensive",
+      "url": "https://www.macrumors.com/2026/07/15/applecare-plus-price-increase/",
+      "pubDate": "2026-07-15T21:32:09.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Brendan Carr plans to let broadcast giants dominate the airwaves",
+      "url": "https://www.theverge.com/policy/966283/fcc-broadcast-ownership-cap-brendan-carr",
+      "pubDate": "2026-07-15T21:30:17.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -56,7 +105,7 @@
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Lists Products Eligible for Tax-Free Holidays in 10 U.S. States",
       "url": "https://www.macrumors.com/2026/07/15/apple-2026-sales-tax-holidays/",
-      "pubDate": "2026-07-15T19:33:27.000Z"
+      "pubDate": "2026-07-15T19:33:19.000Z"
     },
     {
       "source": "AppleInsider",
@@ -171,25 +220,11 @@
       "pubDate": "2026-07-15T17:30:30.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Lucid’s bankruptcy rumor is a bad sign for the EV future",
-      "url": "https://www.theverge.com/transportation/965924/lucids-bankruptcy-rumor-is-a-bad-sign-for-the-ev-future",
-      "pubDate": "2026-07-15T17:17:56.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Apple marks the return of MLS with new Apple Maps guides, Apple Music playlists, more",
       "url": "https://9to5mac.com/2026/07/15/apple-marks-the-return-of-mls-with-new-apple-maps-guides-apple-music-playlists-more/",
       "pubDate": "2026-07-15T16:38:16.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Netflix tries to recapture Stranger Things magic with nostalgic re-release",
-      "url": "https://www.theverge.com/entertainment/965980/stranger-things-vhs-edition-netflix",
-      "pubDate": "2026-07-15T16:37:08.000Z"
     },
     {
       "source": "9to5Mac",
@@ -206,13 +241,6 @@
       "pubDate": "2026-07-15T16:18:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Samsung shows off ‘brand new shape’ for Z Fold 8 in Spider-Man teaser",
-      "url": "https://www.theverge.com/tech/965997/samsung-spider-man-galaxy-z-fold-8-teaser",
-      "pubDate": "2026-07-15T16:05:34.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Report: OnePlus to Pull Out of US and Europe",
@@ -225,13 +253,6 @@
       "title": "Suno now lets iPhone users generate songs directly in iMessage",
       "url": "https://9to5mac.com/2026/07/15/suno-now-lets-iphone-users-generate-songs-directly-in-imessage/",
       "pubDate": "2026-07-15T16:00:36.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "OpenAI finally launches hardware… for Codex",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
-      "pubDate": "2026-07-15T16:00:00.000Z"
     },
     {
       "source": "AppleInsider",
@@ -253,13 +274,6 @@
       "title": "Deals: Apple Watch Series 11 $130 off, AirPods, M5 MacBook Air, iPhone 17 Pro, HomeKit lamp, Bose, more",
       "url": "https://9to5mac.com/2026/07/15/deals-apple-watch-airpods-macbook-air-iphone-17-pro/",
       "pubDate": "2026-07-15T15:31:43.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Daylight saving time is a step closer to becoming permanent in the US",
-      "url": "https://www.theverge.com/policy/965952/daylight-saving-time-permanent-us-house",
-      "pubDate": "2026-07-15T15:29:37.000Z"
     },
     {
       "source": "9to5Mac",
@@ -311,25 +325,11 @@
       "pubDate": "2026-07-15T14:00:00.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Amazon Offers $150 Discount on M5 MacBook Air Models",
-      "url": "https://www.macrumors.com/2026/07/15/amazon-150-on-m5-macbook-air/",
-      "pubDate": "2026-07-15T12:24:55.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple Intelligence finally on the road to release in China",
       "url": "https://appleinsider.com/articles/26/07/15/apple-intelligence-finally-on-the-road-to-release-in-china?utm_source=rss",
       "pubDate": "2026-07-15T11:48:21.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Intelligence Finally Cleared to Launch in China",
-      "url": "https://www.macrumors.com/2026/07/15/apple-intelligence-cleared-to-launch-in-china/",
-      "pubDate": "2026-07-15T11:25:57.000Z"
     },
     {
       "source": "AppleInsider",
