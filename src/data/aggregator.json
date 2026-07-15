@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T17:39:54.828Z",
+  "generatedAt": "2026-07-15T19:37:31.750Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,118 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Lists Products Eligible for Tax-Free Holidays in 10 U.S. States",
+      "url": "https://www.macrumors.com/2026/07/15/apple-2026-sales-tax-holidays/",
+      "pubDate": "2026-07-15T19:33:27.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple Maps ads exclude home services, political ads, and more",
+      "url": "https://appleinsider.com/articles/26/07/15/apple-maps-ads-exclude-home-services-political-ads-and-more?utm_source=rss",
+      "pubDate": "2026-07-15T19:29:14.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple bumps monthly AppleCare+ for iPad, Mac by 50 cents",
+      "url": "https://appleinsider.com/articles/26/07/15/apple-bumps-monthly-applecare-for-ipad-mac-by-50-cents?utm_source=rss",
+      "pubDate": "2026-07-15T19:25:38.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple faces new questions from Brazil over betting apps accessible to minors",
+      "url": "https://9to5mac.com/2026/07/15/apple-faces-new-questions-from-brazil-over-betting-apps-accessible-to-minors/",
+      "pubDate": "2026-07-15T19:23:20.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Maps won’t allow ads from these categories at launch",
+      "url": "https://9to5mac.com/2026/07/15/apple-maps-wont-allow-ads-from-these-categories-at-launch/",
+      "pubDate": "2026-07-15T19:14:31.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "AppleCare+ gets a price increase for new Mac and iPad plans",
+      "url": "https://9to5mac.com/2026/07/15/applecare-gets-a-price-increase-for-new-mac-and-ipad-plans/",
+      "pubDate": "2026-07-15T19:04:31.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) Clockwise 665: A Little Too Raw",
+      "url": "https://sixcolors.com/podcast/2026/07/clockwise-665-a-little-too-raw/",
+      "pubDate": "2026-07-15T18:51:07.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's 2026 Back to School Offer Just Went Live in Select Countries",
+      "url": "https://www.macrumors.com/2026/07/15/apple-2026-back-to-school-offer-rolling-out/",
+      "pubDate": "2026-07-15T18:48:45.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's new 36-month cellular iPad financing plan is good, but you can save money elsewhere",
+      "url": "https://appleinsider.com/articles/26/07/15/apples-new-36-month-cellular-ipad-financing-plan-is-good-but-you-can-save-money-elsewhere?utm_source=rss",
+      "pubDate": "2026-07-15T18:46:14.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Enshittification",
+      "url": "https://www.theverge.com/policy/966111/cyclospora-explosive-diarrhea-parasite-fda-cdc-taco-bell",
+      "pubDate": "2026-07-15T18:40:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Something&#8217;s glowing on the Pixel 11&#8217;s camera bar",
+      "url": "https://www.theverge.com/tech/966120/google-pixel-11-camera-bar-teaser",
+      "pubDate": "2026-07-15T18:24:22.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Nomad Kicks Off Anniversary Sale With Up to 30% Off Sitewide",
+      "url": "https://www.macrumors.com/2026/07/15/nomad-anniversary-sale/",
+      "pubDate": "2026-07-15T18:11:15.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's 2026 Smart Home Lineup: New Apple TV, HomePod, and Home Hub",
+      "url": "https://www.macrumors.com/2026/07/15/apple-smart-home-lineup-rumors/",
+      "pubDate": "2026-07-15T18:03:47.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Who is Tang Tan, the ex-Apple VP at the core of OpenAI's trade secret theft lawsuits",
+      "url": "https://appleinsider.com/articles/26/07/15/who-is-tang-tan-the-ex-apple-vp-at-the-core-of-openais-trade-secret-theft-lawsuits?utm_source=rss",
+      "pubDate": "2026-07-15T18:01:41.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple wins discovery fight over federal agency documents in DOJ antitrust case",
+      "url": "https://9to5mac.com/2026/07/15/apple-wins-discovery-fight-over-federal-agency-documents-in-doj-antitrust-case/",
+      "pubDate": "2026-07-15T17:51:55.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Suno snatched millions of songs from YouTube, Genius, and Deezer",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
+      "pubDate": "2026-07-15T17:48:01.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -178,13 +290,6 @@
       "pubDate": "2026-07-15T14:26:05.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: July 15, 2026 – iOS 27 public beta is here",
-      "url": "https://9to5mac.com/2026/07/15/daily-july-15-2026/",
-      "pubDate": "2026-07-15T14:22:46.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "EU Drops Battery Removal Requirement for Apple Watch and AirPods",
@@ -192,53 +297,18 @@
       "pubDate": "2026-07-15T14:02:38.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple adds new 36-month financing options for iPad purchases",
-      "url": "https://9to5mac.com/2026/07/15/apple-adds-new-36-month-financing-options-for-ipad-purchases/",
-      "pubDate": "2026-07-15T13:54:29.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple TV reveals first look and return date for ‘Where’s Wanda?’ season two",
-      "url": "https://9to5mac.com/2026/07/15/apple-tv-reveals-first-look-and-return-date-for-wheres-wanda-season-two/",
-      "pubDate": "2026-07-15T13:30:51.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple just closed a popular workaround for buying an unlocked iPhone",
-      "url": "https://9to5mac.com/2026/07/15/unlocked-iphone-carrier-financing/",
-      "pubDate": "2026-07-15T13:19:28.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The tiniest MMO",
-      "url": "https://www.theverge.com/entertainment/965621/playdate-mmo-pointlessquest",
-      "pubDate": "2026-07-15T13:00:00.000Z"
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) The Rebound 607: He’s a Developer Beta",
+      "url": "https://sixcolors.com/podcast/2026/07/the-rebound-607-hes-a-developer-beta/",
+      "pubDate": "2026-07-15T14:00:00.000Z"
     },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Amazon Offers $150 Discount on M5 MacBook Air Models",
       "url": "https://www.macrumors.com/2026/07/15/amazon-150-on-m5-macbook-air/",
-      "pubDate": "2026-07-15T12:25:03.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Motorola Edge 70 Max is all about power",
-      "url": "https://www.theverge.com/tech/965884/motorola-edge-70-max-qi2-wireless-price-availability",
-      "pubDate": "2026-07-15T12:18:22.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Home Depot’s viral 12-foot skeleton now talks",
-      "url": "https://www.theverge.com/tech/964051/home-depot-halloween-skelly-skeleton-12-foot-mobile-app-sounds",
-      "pubDate": "2026-07-15T12:00:00.000Z"
+      "pubDate": "2026-07-15T12:24:55.000Z"
     },
     {
       "source": "AppleInsider",
@@ -276,67 +346,11 @@
       "pubDate": "2026-07-14T21:41:48.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "OpenAI's First AI Device Will Be a Portable Smart Speaker",
-      "url": "https://www.macrumors.com/2026/07/14/openai-ai-hardware-device-speaker/",
-      "pubDate": "2026-07-14T21:38:08.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "OpenAI shrugs, denies responsibility for trade secret theft with vague statements",
       "url": "https://appleinsider.com/articles/26/07/14/openai-shrugs-denies-responsibility-for-trade-secret-theft-with-vague-statements?utm_source=rss",
       "pubDate": "2026-07-14T21:06:36.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "OpenAI: No Evidence Apple's Trade Secret Complaint Has Merit",
-      "url": "https://www.macrumors.com/2026/07/14/openai-apple-lawsuit-response/",
-      "pubDate": "2026-07-14T20:45:17.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iCloud $32.8B CSAM lawsuit dismissed, Apple protected under Section 230 laws",
-      "url": "https://appleinsider.com/articles/26/07/14/icloud-328b-csam-lawsuit-dismissed-apple-protected-under-section-230-laws?utm_source=rss",
-      "pubDate": "2026-07-14T19:42:59.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple Watch, Meta Glasses, AirPods get reprieve from EU replaceable battery law",
-      "url": "https://appleinsider.com/articles/26/07/14/apple-watch-meta-glasses-airpods-get-reprieve-from-eu-replaceable-battery-law?utm_source=rss",
-      "pubDate": "2026-07-14T18:49:08.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Amazon Hosts Rare Nintendo Switch 2 Deal, Get $49 Off Game Bundle [Sold Out]",
-      "url": "https://www.macrumors.com/2026/07/14/amazon-switch-2-deal/",
-      "pubDate": "2026-07-14T18:32:08.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Releases New iOS 27 AirPods Firmware For Public Beta Testers",
-      "url": "https://www.macrumors.com/2026/07/14/airpods-public-beta-firmware/",
-      "pubDate": "2026-07-14T18:29:56.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "PrismML confirms it is in talks with Apple about AI model-shrinking tech",
-      "url": "https://appleinsider.com/articles/26/07/14/prismml-confirms-it-is-in-talks-with-apple-about-ai-model-shrinking-tech?utm_source=rss",
-      "pubDate": "2026-07-14T18:08:37.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Port-limited MacBook Neo gets color-matching hub & mouse",
-      "url": "https://appleinsider.com/articles/26/07/14/port-limited-macbook-neo-gets-color-matching-hub-mouse?utm_source=rss",
-      "pubDate": "2026-07-14T16:01:34.000Z"
     },
     {
       "source": "Six Colors",
@@ -358,20 +372,6 @@
       "title": "(Podcast) Upgrade 628: Conspiracy to Steal Trade Secrets",
       "url": "https://sixcolors.com/podcast/2026/07/upgrade-628-conspiracy-to-steal-trade-secrets/",
       "pubDate": "2026-07-13T19:29:59.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Pulling the Thread to know if my garage door is closed",
-      "url": "https://sixcolors.com/post/2026/07/pulling-the-thread-to-know-if-my-garage-door-is-closed/",
-      "pubDate": "2026-07-13T16:30:44.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Apple sues OpenAI, alleging trade secret theft ↦",
-      "url": "https://sixcolors.com/link/2026/07/apple-sues-openai-alleging-trade-secret-theft/",
-      "pubDate": "2026-07-10T21:14:37.000Z"
     }
   ]
 }
