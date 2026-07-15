@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T09:22:04.999Z",
+  "generatedAt": "2026-07-15T11:49:43.483Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,62 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple Intelligence finally on the road to release in China",
+      "url": "https://appleinsider.com/articles/26/07/15/apple-intelligence-finally-on-the-road-to-release-in-china?utm_source=rss",
+      "pubDate": "2026-07-15T11:48:21.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "PSA: Beware of fake Mac crash reports out to steal your passwords, crypto wallets, more",
+      "url": "https://9to5mac.com/2026/07/15/psa-beware-of-fake-mac-crash-reports-out-to-steal-your-passwords-crypto-wallets-more/",
+      "pubDate": "2026-07-15T11:43:11.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Intelligence Finally Cleared to Launch in China",
+      "url": "https://www.macrumors.com/2026/07/15/apple-intelligence-cleared-to-launch-in-china/",
+      "pubDate": "2026-07-15T11:25:57.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple reaches agreement with Chinese government on Apple Intelligence rollout",
+      "url": "https://9to5mac.com/2026/07/15/apple-reaches-agreement-with-chinese-government-on-apple-intelligence-rollout/",
+      "pubDate": "2026-07-15T11:19:15.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "A sneak peek at nine new(ish) emoji on the way",
+      "url": "https://9to5mac.com/2026/07/15/a-sneak-peek-at-nine-newish-emoji-on-the-way/",
+      "pubDate": "2026-07-15T10:57:56.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Samsung’s new foldable display is harder to crease and damage",
+      "url": "https://www.theverge.com/tech/965850/samsung-display-flex-titanium-galaxy-foldables",
+      "pubDate": "2026-07-15T10:19:36.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Spotify’s Daniel Ek is bringing his body-scanning clinics to the US",
+      "url": "https://www.theverge.com/science/965849/spotify-founder-ek-startup-neko-health-scanner-us-push",
+      "pubDate": "2026-07-15T10:13:47.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The PS6 sure sounds like a handheld",
+      "url": "https://www.theverge.com/games/963132/sony-playstation-future-handheld-pc-business-meeting-end-of-discs",
+      "pubDate": "2026-07-15T10:00:00.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -220,48 +276,6 @@
       "pubDate": "2026-07-14T17:36:05.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Plex problems prevented users from streaming movies and shows",
-      "url": "https://www.theverge.com/tech/965518/plex-tv-down-outage-issues",
-      "pubDate": "2026-07-14T17:23:25.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Nintendo’s Switch 2 bundle that includes a game is $50 off",
-      "url": "https://www.theverge.com/gadgets/965490/nintendo-switch-2-choose-your-game-bundle-deal-sale",
-      "pubDate": "2026-07-14T17:20:34.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Meta accused of using biased AI targeting for mass layoffs",
-      "url": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
-      "pubDate": "2026-07-14T17:18:11.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Watch among wearables exempted from EU user-replaceable battery rules",
-      "url": "https://9to5mac.com/2026/07/14/apple-watch-among-wearables-exempted-from-eu-user-replaceable-battery-rules/",
-      "pubDate": "2026-07-14T17:10:22.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Your iPhone might miss out on these iOS 27 features",
-      "url": "https://9to5mac.com/2026/07/14/ios-27-new-features-compatibility/",
-      "pubDate": "2026-07-14T16:40:16.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "MacWhisper 14 launches with a new transcript editor, faster performance, more",
-      "url": "https://9to5mac.com/2026/07/14/macwhisper-14-launches-with-a-new-transcript-editor-faster-performance-more/",
-      "pubDate": "2026-07-14T16:32:56.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Port-limited MacBook Neo gets color-matching hub & mouse",
@@ -297,13 +311,6 @@
       "pubDate": "2026-07-14T14:56:59.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Madden football returns to Mac for the first time in 19 years",
-      "url": "https://appleinsider.com/articles/26/07/14/madden-football-returns-to-mac-for-the-first-time-in-19-years?utm_source=rss",
-      "pubDate": "2026-07-14T14:54:05.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Amazon Takes $30 Off AirPods 4 Models This Week",
@@ -330,13 +337,6 @@
       "title": "iPhone 17 Pricing Helped Apple Buck China's Q2 Smartphone Decline",
       "url": "https://www.macrumors.com/2026/07/14/iphone-17-pricing-helped-apple-china-q2-26/",
       "pubDate": "2026-07-14T11:27:09.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "WhatsApp Beta Reveals iCloud Backup Alternative for iPhone",
-      "url": "https://www.macrumors.com/2026/07/14/whatsapp-backup-cloud-provider-for-ios/",
-      "pubDate": "2026-07-14T10:06:46.000Z"
     },
     {
       "source": "Six Colors",
