@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T19:37:31.750Z",
+  "generatedAt": "2026-07-15T21:15:39.376Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Won't Allow These Ad Categories in the Maps App",
+      "url": "https://www.macrumors.com/2026/07/15/apple-maps-ad-prohibitied-categories/",
+      "pubDate": "2026-07-15T21:01:12.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "I can’t work on my Mac without this little keypad anymore",
+      "url": "https://9to5mac.com/2026/07/15/macro-keypad-productivity-on-macos/",
+      "pubDate": "2026-07-15T20:59:37.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Roblox is shutting down its video chat service",
+      "url": "https://www.theverge.com/games/966181/roblox-connect-video-chat-calling-service-shut-down",
+      "pubDate": "2026-07-15T20:02:26.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "AI slop movies are the new direct-to-video cash grabs",
+      "url": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
+      "pubDate": "2026-07-15T20:00:00.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -255,20 +283,6 @@
       "pubDate": "2026-07-15T15:20:31.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "JBL&#8217;s Flip 7 speaker is small, versatile, and 40 percent off",
-      "url": "https://www.theverge.com/gadgets/965640/jbl-flip-7-nothing-cmf-buds-pro-2-deal-sale",
-      "pubDate": "2026-07-15T15:16:53.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "8BitDo’s FlipPad is the most pocketable way to turn your phone into a Game Boy",
-      "url": "https://www.theverge.com/tech/964658/8bitdo-flippad-controller-gamepad-smartphone-price-hands-on-availability",
-      "pubDate": "2026-07-15T15:00:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Save $150 on Apple's 1TB M5 MacBook Air at Amazon",
@@ -281,13 +295,6 @@
       "title": "Apple Adds 36-Month Carrier Financing for Cellular iPads",
       "url": "https://www.macrumors.com/2026/07/15/apple-adds-36-month-carrier-financing-for-ipads/",
       "pubDate": "2026-07-15T14:41:13.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Report: How an email mistake derailed talks between Apple and OpenAI ahead of the lawsuit",
-      "url": "https://9to5mac.com/2026/07/15/report-how-an-email-mistake-derailed-talks-between-apple-and-openai-ahead-of-the-lawsuit/",
-      "pubDate": "2026-07-15T14:26:05.000Z"
     },
     {
       "source": "MacRumors",
@@ -330,13 +337,6 @@
       "title": "LaserPecker LX2 review: Leveling up your laser game, for a price",
       "url": "https://appleinsider.com/articles/26/07/15/laserpecker-lx2-review-leveling-up-your-laser-game-for-a-price?utm_source=rss",
       "pubDate": "2026-07-15T01:20:32.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "LEGO Considering Bondi Blue iMac G3 Set",
-      "url": "https://www.macrumors.com/2026/07/14/lego-imac-g3-set/",
-      "pubDate": "2026-07-15T00:12:27.000Z"
     },
     {
       "source": "AppleInsider",
