@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T06:32:05.526Z",
+  "generatedAt": "2026-07-16T09:29:33.304Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "How to Install macOS 27 Golden Gate Public Beta",
+      "url": "https://www.macrumors.com/how-to/how-to-install-macos-27-golden-gate-public-beta/",
+      "pubDate": "2026-07-16T08:12:12.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's 2026 Back to School Offer Goes Live in the US: Up to $150 Gift Card With Mac or iPad",
+      "url": "https://www.macrumors.com/2026/07/16/apple-2026-back-to-school-offer-goes-live-us/",
+      "pubDate": "2026-07-16T07:59:21.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Store launches 2026 Back to School offer: get up to $150 gift card with Mac or iPad purchase",
+      "url": "https://9to5mac.com/2026/07/16/apple-store-back-to-school-gift-card-deal-promo/",
+      "pubDate": "2026-07-16T07:22:56.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -281,27 +302,6 @@
       "title": "Big AI acquisitions are not off the table under new CEO John Ternus",
       "url": "https://appleinsider.com/articles/26/07/15/big-ai-acquisitions-are-not-off-the-table-under-new-ceo-john-ternus?utm_source=rss",
       "pubDate": "2026-07-15T15:36:12.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple TV Announces Return of MLS Following the 2026 FIFA World Cup",
-      "url": "https://www.macrumors.com/2026/07/15/apple-tv-announces-return-of-mls/",
-      "pubDate": "2026-07-15T15:33:01.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: Apple Watch Series 11 $130 off, AirPods, M5 MacBook Air, iPhone 17 Pro, HomeKit lamp, Bose, more",
-      "url": "https://9to5mac.com/2026/07/15/deals-apple-watch-airpods-macbook-air-iphone-17-pro/",
-      "pubDate": "2026-07-15T15:31:43.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Reportedly Looking to Acquire AI Chip Companies",
-      "url": "https://www.macrumors.com/2026/07/15/apple-looking-to-acquire-ai-chip-companies/",
-      "pubDate": "2026-07-15T15:21:49.000Z"
     },
     {
       "source": "AppleInsider",
