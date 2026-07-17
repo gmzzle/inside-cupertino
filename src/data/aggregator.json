@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T09:21:47.150Z",
+  "generatedAt": "2026-07-17T11:41:26.190Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,88 +24,102 @@
   ],
   "items": [
     {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The war on ‘woke science’ comes for space research",
+      "url": "https://www.theverge.com/science/966711/omb-grant-science-space-nasa-planetary-society",
+      "pubDate": "2026-07-17T11:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "God Of War TV series is recasting Kratos",
+      "url": "https://www.theverge.com/entertainment/966995/god-of-war-amazon-prime-video-kratos-ryan-hurst-recast",
+      "pubDate": "2026-07-17T10:14:04.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Report: Apple Sends Legal Letters to Dozens of OpenAI Employees",
+      "url": "https://www.macrumors.com/2026/07/17/apple-sends-legal-letters-openai/",
+      "pubDate": "2026-07-17T08:40:45.000Z"
+    },
+    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "EU Orders Google to Give Rival AI Apps the Same Android Access as Gemini",
       "url": "https://www.macrumors.com/2026/07/16/eu-google-ai-apps-android-access/",
-      "pubDate": "2026-07-17T06:21:04.000Z"
+      "pubDate": "2026-07-17T08:40:45.000Z"
     },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Google Search Now Connects to Instacart, Canva and YouTube Music",
       "url": "https://www.macrumors.com/2026/07/16/google-search-app-connectors/",
-      "pubDate": "2026-07-17T06:21:04.000Z"
+      "pubDate": "2026-07-17T08:40:45.000Z"
     },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Roblox is Adding AI Game Creation to iPhone and iPad",
       "url": "https://www.macrumors.com/2026/07/16/roblox-ai-game-creation/",
-      "pubDate": "2026-07-17T06:21:04.000Z"
+      "pubDate": "2026-07-17T08:40:45.000Z"
     },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "1Password for Claude Lets AI Log In Without Seeing Your Passwords",
       "url": "https://www.macrumors.com/2026/07/16/1password-claude-integration/",
-      "pubDate": "2026-07-17T06:21:04.000Z"
+      "pubDate": "2026-07-17T08:40:45.000Z"
     },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Sued Over Reported 'Hide My Email' Flaw",
       "url": "https://www.macrumors.com/2026/07/16/apple-sued-over-reported-hide-my-email-flaw/",
-      "pubDate": "2026-07-17T06:21:04.000Z"
+      "pubDate": "2026-07-17T08:40:45.000Z"
     },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple's Chipmaker Pledges $100 Billion More for US Plants",
       "url": "https://www.macrumors.com/2026/07/16/tsmc-pledges-100-billion-for-us-plants/",
-      "pubDate": "2026-07-17T06:21:04.000Z"
+      "pubDate": "2026-07-17T08:40:45.000Z"
     },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Begins Selling Refurbished iPad Mini With A17 Pro Chip at a Discount",
       "url": "https://www.macrumors.com/2026/07/16/apple-refurbished-ipad-mini-a17-pro/",
-      "pubDate": "2026-07-17T06:21:04.000Z"
+      "pubDate": "2026-07-17T08:40:45.000Z"
     },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Here's When to Expect the iPad 12 to Launch",
       "url": "https://www.macrumors.com/2026/07/16/ipad-12-release-date/",
-      "pubDate": "2026-07-17T06:21:04.000Z"
+      "pubDate": "2026-07-17T08:40:45.000Z"
     },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Missed Pre-Hike MacBook Pro Prices? Amazon's New Deals Still Save Up to $500",
       "url": "https://www.macrumors.com/2026/07/16/macbook-pro-save-up-to-500/",
-      "pubDate": "2026-07-17T06:21:04.000Z"
+      "pubDate": "2026-07-17T08:40:45.000Z"
     },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "New iPad Mini With Four Upgrades Reportedly Launching by October",
       "url": "https://www.macrumors.com/2026/07/16/oled-ipad-mini-by-october-report/",
-      "pubDate": "2026-07-17T06:21:04.000Z"
+      "pubDate": "2026-07-17T08:40:45.000Z"
     },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Reportedly Ramps Up Vapor Chamber Orders for Foldable iPhone",
       "url": "https://www.macrumors.com/2026/07/16/apple-vapor-chamber-orders-foldable-iphone/",
-      "pubDate": "2026-07-17T06:21:04.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "How to Install macOS 27 Golden Gate Public Beta",
-      "url": "https://www.macrumors.com/how-to/how-to-install-macos-27-golden-gate-public-beta/",
-      "pubDate": "2026-07-17T06:21:04.000Z"
+      "pubDate": "2026-07-17T08:40:45.000Z"
     },
     {
       "source": "9to5Mac",
@@ -248,25 +262,11 @@
       "pubDate": "2026-07-16T16:55:54.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Roblox will let people use AI to make games on their phone",
-      "url": "https://www.theverge.com/games/966589/roblox-build-ai-phone-moblie-games",
-      "pubDate": "2026-07-16T16:45:29.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "NotebookLM is now Gemini Notebook, with 3.5 + Antigravity upgrade coming to AI Pro",
       "url": "https://9to5google.com/2026/07/16/notebooklm-gemini-notebook/",
       "pubDate": "2026-07-16T16:04:18.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Google is renaming NotebookLM to Gemini Notebook",
-      "url": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
-      "pubDate": "2026-07-16T16:00:00.000Z"
     },
     {
       "source": "9to5Mac",
