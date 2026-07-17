@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T14:04:10.208Z",
+  "generatedAt": "2026-07-17T15:41:56.988Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Deals: AirPods Pro 3, Magic Keyboard all-time low, iPhone 17 Pro Max up to $449 off, ChargeKey tool, more",
+      "url": "https://9to5mac.com/2026/07/17/deals-airpods-pro-3-magic-keyboard-iphone-17-pro-max/",
+      "pubDate": "2026-07-17T15:29:33.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Amazon slashes $200 off 512GB M4 iPad Air 13-inch with weekend deal",
+      "url": "https://appleinsider.com/articles/26/07/17/amazon-slashes-200-off-512gb-m4-ipad-air-13-inch-with-weekend-deal?utm_source=rss",
+      "pubDate": "2026-07-17T15:19:15.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Over half a million power tool batteries have been recalled due to a USB-C charging fire risk",
+      "url": "https://www.theverge.com/tech/967049/greenworks-kobalt-power-tools-lithium-ion-battery-recall",
+      "pubDate": "2026-07-17T14:05:29.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -94,6 +115,90 @@
       "pubDate": "2026-07-17T12:49:57.000Z"
     },
     {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "The MacRumors Show: iPhone XX? Next Year's Major Upgrades Will Change Everything",
+      "url": "https://www.macrumors.com/2026/07/17/the-macrumors-show-iphone-xx/",
+      "pubDate": "2026-07-17T12:41:56.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple and Google Hit With Demand to Pull AI 'Nudify' Apps",
+      "url": "https://www.macrumors.com/2026/07/17/demand-to-pull-nudify-apps/",
+      "pubDate": "2026-07-17T12:41:56.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Watch Series 11 Drops to $299, MacBook Pro Up to $500 Off in Latest Apple Deals",
+      "url": "https://www.macrumors.com/2026/07/17/best-apple-deals-of-the-week-7-17-26/",
+      "pubDate": "2026-07-17T12:41:56.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iOS 27: Access the New iPhone Recovery Screen",
+      "url": "https://www.macrumors.com/how-to/ios-27-access-the-new-iphone-recovery-screen/",
+      "pubDate": "2026-07-17T12:41:56.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Car Key Support Coming to Future GWM Tank SUVs",
+      "url": "https://www.macrumors.com/2026/07/17/apple-car-key-support-gwm-tank-suvs/",
+      "pubDate": "2026-07-17T12:41:56.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "WhatsApp Begins Rolling Out New Username Feature",
+      "url": "https://www.macrumors.com/2026/07/17/whatsapp-rolling-out-new-username-feature/",
+      "pubDate": "2026-07-17T12:41:56.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "How to Downgrade From iOS 27 Beta to iOS 26",
+      "url": "https://www.macrumors.com/how-to/downgrade-from-ios-27-beta-to-ios-26/",
+      "pubDate": "2026-07-17T12:41:56.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Report: Apple Sends Legal Letters to Dozens of OpenAI Employees",
+      "url": "https://www.macrumors.com/2026/07/17/apple-sends-legal-letters-openai/",
+      "pubDate": "2026-07-17T12:41:56.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "EU Orders Google to Give Rival AI Apps the Same Android Access as Gemini",
+      "url": "https://www.macrumors.com/2026/07/16/eu-google-ai-apps-android-access/",
+      "pubDate": "2026-07-17T12:41:56.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Google Search Now Connects to Instacart, Canva and YouTube Music",
+      "url": "https://www.macrumors.com/2026/07/16/google-search-app-connectors/",
+      "pubDate": "2026-07-17T12:41:56.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Roblox is Adding AI Game Creation to iPhone and iPad",
+      "url": "https://www.macrumors.com/2026/07/16/roblox-ai-game-creation/",
+      "pubDate": "2026-07-17T12:41:56.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "1Password for Claude Lets AI Log In Without Seeing Your Passwords",
+      "url": "https://www.macrumors.com/2026/07/16/1password-claude-integration/",
+      "pubDate": "2026-07-17T12:41:56.000Z"
+    },
+    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Apple sends legal letters to former employees now at OpenAI",
@@ -113,90 +218,6 @@
       "title": "OpenAI and Apple legal battle escalates, poached employees warned about data deletion",
       "url": "https://appleinsider.com/articles/26/07/17/openai-and-apple-legal-battle-escalates-poached-employees-warned-about-data-deletion?utm_source=rss",
       "pubDate": "2026-07-17T11:54:21.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Watch Series 11 Drops to $299, MacBook Pro Up to $500 Off in Latest Apple Deals",
-      "url": "https://www.macrumors.com/2026/07/17/best-apple-deals-of-the-week-7-17-26/",
-      "pubDate": "2026-07-17T11:03:52.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27: Access the New iPhone Recovery Screen",
-      "url": "https://www.macrumors.com/how-to/ios-27-access-the-new-iphone-recovery-screen/",
-      "pubDate": "2026-07-17T11:03:52.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Car Key Support Coming to Future GWM Tank SUVs",
-      "url": "https://www.macrumors.com/2026/07/17/apple-car-key-support-gwm-tank-suvs/",
-      "pubDate": "2026-07-17T11:03:52.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "WhatsApp Begins Rolling Out New Username Feature",
-      "url": "https://www.macrumors.com/2026/07/17/whatsapp-rolling-out-new-username-feature/",
-      "pubDate": "2026-07-17T11:03:52.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "How to Downgrade From iOS 27 Beta to iOS 26",
-      "url": "https://www.macrumors.com/how-to/downgrade-from-ios-27-beta-to-ios-26/",
-      "pubDate": "2026-07-17T11:03:52.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Report: Apple Sends Legal Letters to Dozens of OpenAI Employees",
-      "url": "https://www.macrumors.com/2026/07/17/apple-sends-legal-letters-openai/",
-      "pubDate": "2026-07-17T11:03:52.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "EU Orders Google to Give Rival AI Apps the Same Android Access as Gemini",
-      "url": "https://www.macrumors.com/2026/07/16/eu-google-ai-apps-android-access/",
-      "pubDate": "2026-07-17T11:03:52.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Google Search Now Connects to Instacart, Canva and YouTube Music",
-      "url": "https://www.macrumors.com/2026/07/16/google-search-app-connectors/",
-      "pubDate": "2026-07-17T11:03:52.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Roblox is Adding AI Game Creation to iPhone and iPad",
-      "url": "https://www.macrumors.com/2026/07/16/roblox-ai-game-creation/",
-      "pubDate": "2026-07-17T11:03:52.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "1Password for Claude Lets AI Log In Without Seeing Your Passwords",
-      "url": "https://www.macrumors.com/2026/07/16/1password-claude-integration/",
-      "pubDate": "2026-07-17T11:03:52.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Sued Over Reported 'Hide My Email' Flaw",
-      "url": "https://www.macrumors.com/2026/07/16/apple-sued-over-reported-hide-my-email-flaw/",
-      "pubDate": "2026-07-17T11:03:52.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple's Chipmaker Pledges $100 Billion More for US Plants",
-      "url": "https://www.macrumors.com/2026/07/16/tsmc-pledges-100-billion-for-us-plants/",
-      "pubDate": "2026-07-17T11:03:52.000Z"
     },
     {
       "source": "The Verge",
@@ -276,13 +297,6 @@
       "pubDate": "2026-07-16T19:58:30.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Why are people buying so many CDs?",
-      "url": "https://www.theverge.com/entertainment/966726/cd-sales-vinyl-physical-media-luminate",
-      "pubDate": "2026-07-16T19:55:29.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "AI-generated Roblox games are about to get much easier to make on iPhone",
@@ -311,13 +325,6 @@
       "pubDate": "2026-07-16T17:58:02.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Roblox adding game creation feature to iPhone and iPad app",
-      "url": "https://9to5mac.com/2026/07/16/roblox-adding-game-creation-feature-to-iphone-and-ipad-app/",
-      "pubDate": "2026-07-16T17:47:00.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Apple TV is “essentially dead”? No, long live Apple TV.",
@@ -337,13 +344,6 @@
       "title": "iPad mini with OLED release imminent, pricing unclear",
       "url": "https://appleinsider.com/articles/26/07/16/ipad-mini-with-oled-release-imminent-pricing-unclear?utm_source=rss",
       "pubDate": "2026-07-16T14:04:53.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Mass production of folding iPhone vapor cooling system has begun",
-      "url": "https://appleinsider.com/articles/26/07/16/mass-production-of-folding-iphone-vapor-cooling-system-has-begun?utm_source=rss",
-      "pubDate": "2026-07-16T11:46:58.000Z"
     },
     {
       "source": "Six Colors",
