@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T17:31:25.491Z",
+  "generatedAt": "2026-07-17T19:33:56.574Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,76 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Pebble founder Eric Migicovsky says his 30-day warranty is all about trust",
+      "url": "https://www.theverge.com/gadgets/967471/pebble-smartwatch-warranty-repairs-migicovsky-interview",
+      "pubDate": "2026-07-17T19:14:42.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple ordered to remove 8 AI nonconsensual undressing apps from the App Store",
+      "url": "https://9to5mac.com/2026/07/17/apple-ordered-to-remove-8-ai-nonconsensual-undressing-apps-from-the-app-store/",
+      "pubDate": "2026-07-17T19:13:07.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Is Apple One worth it in summer 2026 after the latest price increases?",
+      "url": "https://appleinsider.com/articles/26/07/17/is-apple-one-worth-it-in-summer-2026-after-the-latest-price-increases?utm_source=rss",
+      "pubDate": "2026-07-17T18:58:05.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple Music gets first U.S. price hike in four years",
+      "url": "https://appleinsider.com/articles/26/07/17/apple-music-gets-first-us-price-hike-in-four-years?utm_source=rss",
+      "pubDate": "2026-07-17T18:28:07.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Overtime 073: iOS 27 Public Beta",
+      "url": "https://9to5mac.com/2026/07/17/9to5mac-overtime-073-ios-27-public-beta/",
+      "pubDate": "2026-07-17T18:21:38.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Apple Music is getting a price hike",
+      "url": "https://www.theverge.com/tech/967379/apple-music-price-increase",
+      "pubDate": "2026-07-17T18:14:26.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple raises prices for Apple Music and Apple One subscriptions",
+      "url": "https://9to5mac.com/2026/07/17/apple-raises-prices-for-apple-music-and-apple-one-subscriptions/",
+      "pubDate": "2026-07-17T18:07:18.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "OpenAI fixes chat access in the ChatGPT app for Mac",
+      "url": "https://9to5mac.com/2026/07/17/openai-fixes-chat-access-in-the-chatgpt-app-for-mac/",
+      "pubDate": "2026-07-17T18:01:27.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's long-running DOJ antitrust case may not make it to trial",
+      "url": "https://appleinsider.com/articles/26/07/17/apples-long-running-doj-antitrust-case-may-not-make-it-to-trial?utm_source=rss",
+      "pubDate": "2026-07-17T17:42:30.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Apple’s plot to crush OpenAI",
+      "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+      "pubDate": "2026-07-17T17:41:32.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -50,6 +120,90 @@
       "title": "Asus’ top-end 4K QD-OLED gaming monitor is $400 off",
       "url": "https://www.theverge.com/gadgets/966907/asus-rog-swift-qd-oled-marathon-steam-deal-sale",
       "pubDate": "2026-07-17T16:47:13.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Raises iCloud+ Prices in 8 Countries",
+      "url": "https://www.macrumors.com/2026/07/17/apple-icloud-plus-price-increase/",
+      "pubDate": "2026-07-17T16:33:24.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Music Now Costs $11.99 as Apple Increases Subscription Prices",
+      "url": "https://www.macrumors.com/2026/07/17/apple-music-price-increase/",
+      "pubDate": "2026-07-17T16:33:24.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple and DOJ Hold Early Settlement Talks in iPhone Antitrust Case",
+      "url": "https://www.macrumors.com/2026/07/17/apple-doj-antitrust-settlement/",
+      "pubDate": "2026-07-17T16:33:24.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone 18 Pro Launching in Two Months With These 12 New Features",
+      "url": "https://www.macrumors.com/2026/07/17/iphone-18-pro-12-rumored-features/",
+      "pubDate": "2026-07-17T16:33:24.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "MacRumors Giveaway: Win a MacBook Neo Plus Color-Matched Satechi Accessories",
+      "url": "https://www.macrumors.com/2026/07/17/macrumors-giveaway-satechi-macbook-neo/",
+      "pubDate": "2026-07-17T16:33:24.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone Loyalty Rate Climbs to 87% as Switching to Android Slows",
+      "url": "https://www.macrumors.com/2026/07/17/iphone-loyalty-rate-climbs-to-87/",
+      "pubDate": "2026-07-17T16:33:24.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "The MacRumors Show: iPhone XX? Next Year's Major Upgrades Will Change Everything",
+      "url": "https://www.macrumors.com/2026/07/17/the-macrumors-show-iphone-xx/",
+      "pubDate": "2026-07-17T16:33:24.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple and Google Hit With Demand to Pull AI 'Nudify' Apps",
+      "url": "https://www.macrumors.com/2026/07/17/demand-to-pull-nudify-apps/",
+      "pubDate": "2026-07-17T16:33:24.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Watch Series 11 Drops to $299, MacBook Pro Up to $500 Off in Latest Apple Deals",
+      "url": "https://www.macrumors.com/2026/07/17/best-apple-deals-of-the-week-7-17-26/",
+      "pubDate": "2026-07-17T16:33:24.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iOS 27: Access the New iPhone Recovery Screen",
+      "url": "https://www.macrumors.com/how-to/ios-27-access-the-new-iphone-recovery-screen/",
+      "pubDate": "2026-07-17T16:33:24.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Car Key Support Coming to Future GWM Tank SUVs",
+      "url": "https://www.macrumors.com/2026/07/17/apple-car-key-support-gwm-tank-suvs/",
+      "pubDate": "2026-07-17T16:33:24.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "WhatsApp Begins Rolling Out New Username Feature",
+      "url": "https://www.macrumors.com/2026/07/17/whatsapp-rolling-out-new-username-feature/",
+      "pubDate": "2026-07-17T16:33:24.000Z"
     },
     {
       "source": "9to5Mac",
@@ -115,90 +269,6 @@
       "pubDate": "2026-07-17T15:19:15.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "MacRumors Giveaway: Win a MacBook Neo Plus Color-Matched Satechi Accessories",
-      "url": "https://www.macrumors.com/2026/07/17/macrumors-giveaway-satechi-macbook-neo/",
-      "pubDate": "2026-07-17T14:31:25.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone Loyalty Rate Climbs to 87% as Switching to Android Slows",
-      "url": "https://www.macrumors.com/2026/07/17/iphone-loyalty-rate-climbs-to-87/",
-      "pubDate": "2026-07-17T14:31:25.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "The MacRumors Show: iPhone XX? Next Year's Major Upgrades Will Change Everything",
-      "url": "https://www.macrumors.com/2026/07/17/the-macrumors-show-iphone-xx/",
-      "pubDate": "2026-07-17T14:31:25.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple and Google Hit With Demand to Pull AI 'Nudify' Apps",
-      "url": "https://www.macrumors.com/2026/07/17/demand-to-pull-nudify-apps/",
-      "pubDate": "2026-07-17T14:31:25.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Watch Series 11 Drops to $299, MacBook Pro Up to $500 Off in Latest Apple Deals",
-      "url": "https://www.macrumors.com/2026/07/17/best-apple-deals-of-the-week-7-17-26/",
-      "pubDate": "2026-07-17T14:31:25.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27: Access the New iPhone Recovery Screen",
-      "url": "https://www.macrumors.com/how-to/ios-27-access-the-new-iphone-recovery-screen/",
-      "pubDate": "2026-07-17T14:31:25.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Car Key Support Coming to Future GWM Tank SUVs",
-      "url": "https://www.macrumors.com/2026/07/17/apple-car-key-support-gwm-tank-suvs/",
-      "pubDate": "2026-07-17T14:31:25.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "WhatsApp Begins Rolling Out New Username Feature",
-      "url": "https://www.macrumors.com/2026/07/17/whatsapp-rolling-out-new-username-feature/",
-      "pubDate": "2026-07-17T14:31:25.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "How to Downgrade From iOS 27 Beta to iOS 26",
-      "url": "https://www.macrumors.com/how-to/downgrade-from-ios-27-beta-to-ios-26/",
-      "pubDate": "2026-07-17T14:31:25.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Report: Apple Sends Legal Letters to Dozens of OpenAI Employees",
-      "url": "https://www.macrumors.com/2026/07/17/apple-sends-legal-letters-openai/",
-      "pubDate": "2026-07-17T14:31:25.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "EU Orders Google to Give Rival AI Apps the Same Android Access as Gemini",
-      "url": "https://www.macrumors.com/2026/07/16/eu-google-ai-apps-android-access/",
-      "pubDate": "2026-07-17T14:31:25.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Google Search Now Connects to Instacart, Canva and YouTube Music",
-      "url": "https://www.macrumors.com/2026/07/16/google-search-app-connectors/",
-      "pubDate": "2026-07-17T14:31:25.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Over half a million power tool batteries have been recalled due to a USB-C charging fire risk",
@@ -215,7 +285,7 @@
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
-      "title": "The manosphere&#8217;s testosterone fever is coming for the troops",
+      "title": "The manosphere&#8217;s testosterone obsession reaches the highest levels of US military",
       "url": "https://www.theverge.com/column/966770/optimizer-manosphere-testosterone-troops",
       "pubDate": "2026-07-17T14:00:00.000Z"
     },
@@ -248,39 +318,11 @@
       "pubDate": "2026-07-17T13:35:12.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Even Microsoft couldn’t make Windows 11 work well on 8GB of RAM",
-      "url": "https://www.theverge.com/tech/966937/microsoft-surface-laptop-13-inch-8gb-ram-2026-review",
-      "pubDate": "2026-07-17T13:30:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple sues OpenAI, public betas, & super apps on the AppleInsider Podcast",
       "url": "https://appleinsider.com/articles/26/07/17/apple-sues-openai-public-betas-super-apps-on-the-appleinsider-podcast?utm_source=rss",
       "pubDate": "2026-07-17T13:17:43.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: July 17, 2026 – Apple’s Back to School promo, AirPods public beta",
-      "url": "https://9to5mac.com/2026/07/17/daily-july-17-2026/",
-      "pubDate": "2026-07-17T13:05:44.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Trump is selling high-speed access to his market-moving Truth Social posts",
-      "url": "https://www.theverge.com/policy/967020/trump-truth-social-api-wall-street-traders",
-      "pubDate": "2026-07-17T12:49:57.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple sends legal letters to former employees now at OpenAI",
-      "url": "https://9to5mac.com/2026/07/17/apple-sends-legal-letters-to-former-employees-now-at-openai/",
-      "pubDate": "2026-07-17T12:30:36.000Z"
     },
     {
       "source": "AppleInsider",
@@ -295,48 +337,6 @@
       "title": "OpenAI and Apple legal battle escalates, poached employees warned about data deletion",
       "url": "https://appleinsider.com/articles/26/07/17/openai-and-apple-legal-battle-escalates-poached-employees-warned-about-data-deletion?utm_source=rss",
       "pubDate": "2026-07-17T11:54:21.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The war on ‘woke science’ comes for space research",
-      "url": "https://www.theverge.com/science/966711/omb-grant-science-space-nasa-planetary-society",
-      "pubDate": "2026-07-17T11:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple’s M6 chip is coming soon, here’s everything we know",
-      "url": "https://9to5mac.com/2026/07/16/apples-m6-chip-is-coming-soon-heres-everything-we-know/",
-      "pubDate": "2026-07-16T23:33:24.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple TV for Android adds widgets, Apple Music gets WhatsApp sharing",
-      "url": "https://9to5google.com/2026/07/16/apple-tv-widgets/",
-      "pubDate": "2026-07-16T22:47:21.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Save $400 on Apple's M5 Max MacBook Pro 16-inch with spacious 2TB SSD",
-      "url": "https://appleinsider.com/articles/26/07/16/save-400-on-apples-m5-max-macbook-pro-16-inch-with-spacious-2tb-ssd?utm_source=rss",
-      "pubDate": "2026-07-16T19:58:30.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "AI-generated Roblox games are about to get much easier to make on iPhone",
-      "url": "https://appleinsider.com/articles/26/07/16/ai-generated-roblox-games-are-about-to-get-much-easier-to-make-on-iphone?utm_source=rss",
-      "pubDate": "2026-07-16T19:25:32.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Hide My Email class action lawsuit seeks payout without evidence of any attacks",
-      "url": "https://appleinsider.com/articles/26/07/16/hide-my-email-class-action-lawsuit-seeks-payout-without-evidence-of-any-attacks?utm_source=rss",
-      "pubDate": "2026-07-16T18:29:08.000Z"
     },
     {
       "source": "Six Colors",
