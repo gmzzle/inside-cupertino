@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T23:11:29.359Z",
+  "generatedAt": "2026-07-17T00:13:47.868Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -26,6 +26,20 @@
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple’s M6 chip is coming soon, here’s everything we know",
+      "url": "https://9to5mac.com/2026/07/16/apples-m6-chip-is-coming-soon-heres-everything-we-know/",
+      "pubDate": "2026-07-16T23:33:24.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple TV for Android adds widgets, Apple Music gets WhatsApp sharing",
+      "url": "https://9to5google.com/2026/07/16/apple-tv-widgets/",
+      "pubDate": "2026-07-16T22:47:21.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
       "title": "iOS 27 adds an all-new app to your iPhone’s Home Screen",
       "url": "https://9to5mac.com/2026/07/16/ios-27-adds-an-all-new-app-to-your-iphones-home-screen/",
       "pubDate": "2026-07-16T22:42:45.000Z"
@@ -36,6 +50,90 @@
       "title": "Fortnite is getting a bunch of AI-powered ‘personas’",
       "url": "https://www.theverge.com/games/966815/epic-games-fortnite-ai-powered-personas",
       "pubDate": "2026-07-16T21:30:35.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "EU Orders Google to Give Rival AI Apps the Same Android Access as Gemini",
+      "url": "https://www.macrumors.com/2026/07/16/eu-google-ai-apps-android-access/",
+      "pubDate": "2026-07-16T21:13:25.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Google Search Now Connects to Instacart, Canva and YouTube Music",
+      "url": "https://www.macrumors.com/2026/07/16/google-search-app-connectors/",
+      "pubDate": "2026-07-16T21:13:25.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Roblox is Adding AI Game Creation to iPhone and iPad",
+      "url": "https://www.macrumors.com/2026/07/16/roblox-ai-game-creation/",
+      "pubDate": "2026-07-16T21:13:25.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "1Password for Claude Lets AI Log In Without Seeing Your Passwords",
+      "url": "https://www.macrumors.com/2026/07/16/1password-claude-integration/",
+      "pubDate": "2026-07-16T21:13:25.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Sued Over Reported 'Hide My Email' Flaw",
+      "url": "https://www.macrumors.com/2026/07/16/apple-sued-over-reported-hide-my-email-flaw/",
+      "pubDate": "2026-07-16T21:13:25.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's Chipmaker Pledges $100 Billion More for US Plants",
+      "url": "https://www.macrumors.com/2026/07/16/tsmc-pledges-100-billion-for-us-plants/",
+      "pubDate": "2026-07-16T21:13:25.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Begins Selling Refurbished iPad Mini With A17 Pro Chip at a Discount",
+      "url": "https://www.macrumors.com/2026/07/16/apple-refurbished-ipad-mini-a17-pro/",
+      "pubDate": "2026-07-16T21:13:25.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Here's When to Expect the iPad 12 to Launch",
+      "url": "https://www.macrumors.com/2026/07/16/ipad-12-release-date/",
+      "pubDate": "2026-07-16T21:13:25.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Missed Pre-Hike MacBook Pro Prices? Amazon's New Deals Still Save Up to $500",
+      "url": "https://www.macrumors.com/2026/07/16/macbook-pro-save-up-to-500/",
+      "pubDate": "2026-07-16T21:13:25.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "New iPad Mini With Four Upgrades Reportedly Launching by October",
+      "url": "https://www.macrumors.com/2026/07/16/oled-ipad-mini-by-october-report/",
+      "pubDate": "2026-07-16T21:13:25.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Reportedly Ramps Up Vapor Chamber Orders for Foldable iPhone",
+      "url": "https://www.macrumors.com/2026/07/16/apple-vapor-chamber-orders-foldable-iphone/",
+      "pubDate": "2026-07-16T21:13:25.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "How to Install macOS 27 Golden Gate Public Beta",
+      "url": "https://www.macrumors.com/how-to/how-to-install-macos-27-golden-gate-public-beta/",
+      "pubDate": "2026-07-16T21:13:25.000Z"
     },
     {
       "source": "The Verge",
@@ -64,90 +162,6 @@
       "title": "LM Studio expands beyond chat with Bionic, a new AI agent app for open models",
       "url": "https://9to5mac.com/2026/07/16/lm-studio-expands-beyond-chat-with-bionic-a-new-ai-agent-app-for-open-models/",
       "pubDate": "2026-07-16T20:14:46.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "EU Orders Google to Give Rival AI Apps the Same Android Access as Gemini",
-      "url": "https://www.macrumors.com/2026/07/16/eu-google-ai-apps-android-access/",
-      "pubDate": "2026-07-16T20:11:07.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Google Search Now Connects to Instacart, Canva and YouTube Music",
-      "url": "https://www.macrumors.com/2026/07/16/google-search-app-connectors/",
-      "pubDate": "2026-07-16T20:11:07.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Roblox is Adding AI Game Creation to iPhone and iPad",
-      "url": "https://www.macrumors.com/2026/07/16/roblox-ai-game-creation/",
-      "pubDate": "2026-07-16T20:11:07.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "1Password for Claude Lets AI Log In Without Seeing Your Passwords",
-      "url": "https://www.macrumors.com/2026/07/16/1password-claude-integration/",
-      "pubDate": "2026-07-16T20:11:07.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Sued Over Reported 'Hide My Email' Flaw",
-      "url": "https://www.macrumors.com/2026/07/16/apple-sued-over-reported-hide-my-email-flaw/",
-      "pubDate": "2026-07-16T20:11:07.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple's Chipmaker Pledges $100 Billion More for US Plants",
-      "url": "https://www.macrumors.com/2026/07/16/tsmc-pledges-100-billion-for-us-plants/",
-      "pubDate": "2026-07-16T20:11:07.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Begins Selling Refurbished iPad Mini With A17 Pro Chip at a Discount",
-      "url": "https://www.macrumors.com/2026/07/16/apple-refurbished-ipad-mini-a17-pro/",
-      "pubDate": "2026-07-16T20:11:07.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Here's When to Expect the iPad 12 to Launch",
-      "url": "https://www.macrumors.com/2026/07/16/ipad-12-release-date/",
-      "pubDate": "2026-07-16T20:11:07.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Missed Pre-Hike MacBook Pro Prices? Amazon's New Deals Still Save Up to $500",
-      "url": "https://www.macrumors.com/2026/07/16/macbook-pro-save-up-to-500/",
-      "pubDate": "2026-07-16T20:11:07.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "New iPad Mini With Four Upgrades Reportedly Launching by October",
-      "url": "https://www.macrumors.com/2026/07/16/oled-ipad-mini-by-october-report/",
-      "pubDate": "2026-07-16T20:11:07.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Reportedly Ramps Up Vapor Chamber Orders for Foldable iPhone",
-      "url": "https://www.macrumors.com/2026/07/16/apple-vapor-chamber-orders-foldable-iphone/",
-      "pubDate": "2026-07-16T20:11:07.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "How to Install macOS 27 Golden Gate Public Beta",
-      "url": "https://www.macrumors.com/how-to/how-to-install-macos-27-golden-gate-public-beta/",
-      "pubDate": "2026-07-16T20:11:07.000Z"
     },
     {
       "source": "AppleInsider",
@@ -274,20 +288,6 @@
       "title": "AppleCare One warranty bundle just became an even better value for customers",
       "url": "https://9to5mac.com/2026/07/16/applecare-one-warranty-bundle-just-became-an-even-better-value-for-customers/",
       "pubDate": "2026-07-16T15:05:12.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Hands-on: Satechi’s new color-matched MacBook Neo accessories add ports and extra functionality",
-      "url": "https://9to5mac.com/2026/07/16/hands-on-satechis-new-color-matched-macbook-neo-accessories-add-ports-and-extra-functionality/",
-      "pubDate": "2026-07-16T15:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Rumor: Apple increases orders for key component ahead of foldable iPhone launch",
-      "url": "https://9to5mac.com/2026/07/16/rumor-apple-increases-orders-for-key-component-ahead-of-foldable-iphone-launch/",
-      "pubDate": "2026-07-16T14:52:57.000Z"
     },
     {
       "source": "AppleInsider",
