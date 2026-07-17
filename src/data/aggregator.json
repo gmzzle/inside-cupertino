@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T22:06:48.298Z",
+  "generatedAt": "2026-07-17T23:09:28.835Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Taylor Farms pulls iceberg lettuce from the US market after cyclosporiasis outbreak",
+      "url": "https://www.theverge.com/science/967563/cyclospora-taylor-farms-taco-bell-iceberg-lettuce",
+      "pubDate": "2026-07-17T22:09:47.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -59,6 +66,90 @@
       "pubDate": "2026-07-17T20:12:23.000Z"
     },
     {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Raises iPhone Prices in Japan",
+      "url": "https://www.macrumors.com/2026/07/17/apple-raises-iphone-prices-in-japan/",
+      "pubDate": "2026-07-17T20:08:46.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Passed Nvidia to Become World's Most Valuable Company Again",
+      "url": "https://www.macrumors.com/2026/07/17/apple-passed-nvidia-most-valuable-company/",
+      "pubDate": "2026-07-17T20:08:46.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Raises iCloud+ Prices in 8 Countries",
+      "url": "https://www.macrumors.com/2026/07/17/apple-icloud-plus-price-increase/",
+      "pubDate": "2026-07-17T20:08:46.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Music Now Costs $11.99 as Apple Increases Subscription Prices",
+      "url": "https://www.macrumors.com/2026/07/17/apple-music-price-increase/",
+      "pubDate": "2026-07-17T20:08:46.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple and DOJ Hold Early Settlement Talks in iPhone Antitrust Case",
+      "url": "https://www.macrumors.com/2026/07/17/apple-doj-antitrust-settlement/",
+      "pubDate": "2026-07-17T20:08:46.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone 18 Pro Launching in Two Months With These 12 New Features",
+      "url": "https://www.macrumors.com/2026/07/17/iphone-18-pro-12-rumored-features/",
+      "pubDate": "2026-07-17T20:08:46.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "MacRumors Giveaway: Win a MacBook Neo Plus Color-Matched Satechi Accessories",
+      "url": "https://www.macrumors.com/2026/07/17/macrumors-giveaway-satechi-macbook-neo/",
+      "pubDate": "2026-07-17T20:08:46.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone Loyalty Rate Climbs to 87% as Switching to Android Slows",
+      "url": "https://www.macrumors.com/2026/07/17/iphone-loyalty-rate-climbs-to-87/",
+      "pubDate": "2026-07-17T20:08:46.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "The MacRumors Show: iPhone XX? Next Year's Major Upgrades Will Change Everything",
+      "url": "https://www.macrumors.com/2026/07/17/the-macrumors-show-iphone-xx/",
+      "pubDate": "2026-07-17T20:08:46.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple and Google Hit With Demand to Pull AI 'Nudify' Apps",
+      "url": "https://www.macrumors.com/2026/07/17/demand-to-pull-nudify-apps/",
+      "pubDate": "2026-07-17T20:08:46.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Watch Series 11 Drops to $299, MacBook Pro Up to $500 Off in Latest Apple Deals",
+      "url": "https://www.macrumors.com/2026/07/17/best-apple-deals-of-the-week-7-17-26/",
+      "pubDate": "2026-07-17T20:08:46.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iOS 27: Access the New iPhone Recovery Screen",
+      "url": "https://www.macrumors.com/how-to/ios-27-access-the-new-iphone-recovery-screen/",
+      "pubDate": "2026-07-17T20:08:46.000Z"
+    },
+    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "TikTok is testing an AI likeness detection tool",
@@ -78,90 +169,6 @@
       "title": "Apple ordered to remove 8 AI nonconsensual undressing apps from the App Store [U]",
       "url": "https://9to5mac.com/2026/07/17/apple-ordered-to-remove-8-ai-nonconsensual-undressing-apps-from-the-app-store/",
       "pubDate": "2026-07-17T19:13:07.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Raises iPhone Prices in Japan",
-      "url": "https://www.macrumors.com/2026/07/17/apple-raises-iphone-prices-in-japan/",
-      "pubDate": "2026-07-17T19:06:48.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Passed Nvidia to Become World's Most Valuable Company Again",
-      "url": "https://www.macrumors.com/2026/07/17/apple-passed-nvidia-most-valuable-company/",
-      "pubDate": "2026-07-17T19:06:48.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Raises iCloud+ Prices in 8 Countries",
-      "url": "https://www.macrumors.com/2026/07/17/apple-icloud-plus-price-increase/",
-      "pubDate": "2026-07-17T19:06:48.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Music Now Costs $11.99 as Apple Increases Subscription Prices",
-      "url": "https://www.macrumors.com/2026/07/17/apple-music-price-increase/",
-      "pubDate": "2026-07-17T19:06:48.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple and DOJ Hold Early Settlement Talks in iPhone Antitrust Case",
-      "url": "https://www.macrumors.com/2026/07/17/apple-doj-antitrust-settlement/",
-      "pubDate": "2026-07-17T19:06:48.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone 18 Pro Launching in Two Months With These 12 New Features",
-      "url": "https://www.macrumors.com/2026/07/17/iphone-18-pro-12-rumored-features/",
-      "pubDate": "2026-07-17T19:06:48.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "MacRumors Giveaway: Win a MacBook Neo Plus Color-Matched Satechi Accessories",
-      "url": "https://www.macrumors.com/2026/07/17/macrumors-giveaway-satechi-macbook-neo/",
-      "pubDate": "2026-07-17T19:06:48.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone Loyalty Rate Climbs to 87% as Switching to Android Slows",
-      "url": "https://www.macrumors.com/2026/07/17/iphone-loyalty-rate-climbs-to-87/",
-      "pubDate": "2026-07-17T19:06:48.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "The MacRumors Show: iPhone XX? Next Year's Major Upgrades Will Change Everything",
-      "url": "https://www.macrumors.com/2026/07/17/the-macrumors-show-iphone-xx/",
-      "pubDate": "2026-07-17T19:06:48.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple and Google Hit With Demand to Pull AI 'Nudify' Apps",
-      "url": "https://www.macrumors.com/2026/07/17/demand-to-pull-nudify-apps/",
-      "pubDate": "2026-07-17T19:06:48.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Watch Series 11 Drops to $299, MacBook Pro Up to $500 Off in Latest Apple Deals",
-      "url": "https://www.macrumors.com/2026/07/17/best-apple-deals-of-the-week-7-17-26/",
-      "pubDate": "2026-07-17T19:06:48.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27: Access the New iPhone Recovery Screen",
-      "url": "https://www.macrumors.com/how-to/ios-27-access-the-new-iphone-recovery-screen/",
-      "pubDate": "2026-07-17T19:06:48.000Z"
     },
     {
       "source": "AppleInsider",
@@ -309,13 +316,6 @@
       "title": "Amazon slashes $200 off 512GB M4 iPad Air 13-inch with weekend deal",
       "url": "https://appleinsider.com/articles/26/07/17/amazon-slashes-200-off-512gb-m4-ipad-air-13-inch-with-weekend-deal?utm_source=rss",
       "pubDate": "2026-07-17T15:19:15.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Over half a million power tool batteries have been recalled due to a USB-C charging fire risk",
-      "url": "https://www.theverge.com/tech/967049/greenworks-kobalt-power-tools-lithium-ion-battery-recall",
-      "pubDate": "2026-07-17T14:05:29.000Z"
     },
     {
       "source": "AppleInsider",
