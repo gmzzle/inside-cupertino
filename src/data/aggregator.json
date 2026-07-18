@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T19:32:55.827Z",
+  "generatedAt": "2026-07-18T21:06:53.923Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,6 +24,27 @@
   ],
   "items": [
     {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+      "pubDate": "2026-07-18T20:54:42.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "YouTube picture-in-picture (PiP) mode is broken on iPhone, Android",
+      "url": "https://9to5google.com/2026/07/18/youtube-pip-broken/",
+      "pubDate": "2026-07-18T20:03:48.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Indie App Spotlight: ‘Passable’ makes it easy to share your contact through Apple Wallet",
+      "url": "https://9to5mac.com/2026/07/18/passable-makes-contact-sharing-easy-in-apple-wallet/",
+      "pubDate": "2026-07-18T19:30:00.000Z"
+    },
+    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "HomeKit Weekly: Hardwired Matter lighting arrives with the SwitchBot RGBICWW ceiling light",
@@ -38,95 +59,95 @@
       "pubDate": "2026-07-18T18:25:08.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Google is open-sourcing its 3D emoji",
-      "url": "https://www.theverge.com/design/967606/google-open-source-3d-emoji",
-      "pubDate": "2026-07-18T16:40:55.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "'AppleCare One' is Now Even More Valuable",
       "url": "https://www.macrumors.com/2026/07/18/applecare-one-more-valuable/",
-      "pubDate": "2026-07-18T16:32:24.000Z"
+      "pubDate": "2026-07-18T18:06:53.000Z"
     },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Top Stories: iOS 27 and macOS Golden Gate Public Betas, Apple Back to School Promo, and More",
       "url": "https://www.macrumors.com/2026/07/18/top-stories-ios-27-macos-golden-gate-public-betas/",
-      "pubDate": "2026-07-18T16:32:24.000Z"
+      "pubDate": "2026-07-18T18:06:53.000Z"
     },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Raises iPhone Prices in Japan",
       "url": "https://www.macrumors.com/2026/07/17/apple-raises-iphone-prices-in-japan/",
-      "pubDate": "2026-07-18T16:32:24.000Z"
+      "pubDate": "2026-07-18T18:06:53.000Z"
     },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Passed Nvidia to Become World's Most Valuable Company Again",
       "url": "https://www.macrumors.com/2026/07/17/apple-passed-nvidia-most-valuable-company/",
-      "pubDate": "2026-07-18T16:32:24.000Z"
+      "pubDate": "2026-07-18T18:06:53.000Z"
     },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Raises iCloud+ Prices in 8 Countries",
       "url": "https://www.macrumors.com/2026/07/17/apple-icloud-plus-price-increase/",
-      "pubDate": "2026-07-18T16:32:24.000Z"
+      "pubDate": "2026-07-18T18:06:53.000Z"
     },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Music Now Costs $11.99 as Apple Increases Subscription Prices",
       "url": "https://www.macrumors.com/2026/07/17/apple-music-price-increase/",
-      "pubDate": "2026-07-18T16:32:24.000Z"
+      "pubDate": "2026-07-18T18:06:53.000Z"
     },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple and DOJ Hold Early Settlement Talks in iPhone Antitrust Case",
       "url": "https://www.macrumors.com/2026/07/17/apple-doj-antitrust-settlement/",
-      "pubDate": "2026-07-18T16:32:24.000Z"
+      "pubDate": "2026-07-18T18:06:53.000Z"
     },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iPhone 18 Pro Launching in Two Months With These 12 New Features",
       "url": "https://www.macrumors.com/2026/07/17/iphone-18-pro-12-rumored-features/",
-      "pubDate": "2026-07-18T16:32:24.000Z"
+      "pubDate": "2026-07-18T18:06:53.000Z"
     },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "MacRumors Giveaway: Win a MacBook Neo Plus Color-Matched Satechi Accessories",
       "url": "https://www.macrumors.com/2026/07/17/macrumors-giveaway-satechi-macbook-neo/",
-      "pubDate": "2026-07-18T16:32:24.000Z"
+      "pubDate": "2026-07-18T18:06:53.000Z"
     },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iPhone Loyalty Rate Climbs to 87% as Switching to Android Slows",
       "url": "https://www.macrumors.com/2026/07/17/iphone-loyalty-rate-climbs-to-87/",
-      "pubDate": "2026-07-18T16:32:24.000Z"
+      "pubDate": "2026-07-18T18:06:53.000Z"
     },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "The MacRumors Show: iPhone XX? Next Year's Major Upgrades Will Change Everything",
       "url": "https://www.macrumors.com/2026/07/17/the-macrumors-show-iphone-xx/",
-      "pubDate": "2026-07-18T16:32:24.000Z"
+      "pubDate": "2026-07-18T18:06:53.000Z"
     },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple and Google Hit With Demand to Pull AI 'Nudify' Apps [Updated]",
       "url": "https://www.macrumors.com/2026/07/17/demand-to-pull-nudify-apps/",
-      "pubDate": "2026-07-18T16:32:24.000Z"
+      "pubDate": "2026-07-18T18:06:53.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Google is open-sourcing its 3D emoji",
+      "url": "https://www.theverge.com/design/967606/google-open-source-3d-emoji",
+      "pubDate": "2026-07-18T16:40:55.000Z"
     },
     {
       "source": "9to5Mac",
@@ -234,13 +255,6 @@
       "pubDate": "2026-07-18T01:36:37.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Taylor Farms pulls iceberg lettuce from the US market after cyclosporiasis outbreak",
-      "url": "https://www.theverge.com/science/967563/cyclospora-taylor-farms-taco-bell-iceberg-lettuce",
-      "pubDate": "2026-07-17T22:09:47.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Investigation reveals dozens of disguised gambling apps on the App Store in Brazil",
@@ -288,20 +302,6 @@
       "title": "Apple Music gets first U.S. price hike in four years",
       "url": "https://appleinsider.com/articles/26/07/17/apple-music-gets-first-us-price-hike-in-four-years?utm_source=rss",
       "pubDate": "2026-07-17T18:28:07.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Overtime 073: iOS 27 Public Beta",
-      "url": "https://9to5mac.com/2026/07/17/9to5mac-overtime-073-ios-27-public-beta/",
-      "pubDate": "2026-07-17T18:21:38.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple raises prices for Apple Music and Apple One subscriptions",
-      "url": "https://9to5mac.com/2026/07/17/apple-raises-prices-for-apple-music-and-apple-one-subscriptions/",
-      "pubDate": "2026-07-17T18:07:18.000Z"
     },
     {
       "source": "AppleInsider",
