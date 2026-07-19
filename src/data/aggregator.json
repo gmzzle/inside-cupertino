@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T15:16:12.121Z",
+  "generatedAt": "2026-07-19T17:17:29.387Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The FBI reportedly won’t investigate ICE anymore",
+      "url": "https://www.theverge.com/policy/967674/fbi-wont-investigate-ice-assaults",
+      "pubDate": "2026-07-19T16:42:10.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -66,95 +73,95 @@
       "pubDate": "2026-07-19T14:20:48.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Clapper was a bad smart home gadget — and a viral sensation",
-      "url": "https://www.theverge.com/podcast/967642/the-clapper-version-history",
-      "pubDate": "2026-07-19T13:28:26.000Z"
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Reportedly Worked on Two 'Extreme' Chips",
+      "url": "https://www.macrumors.com/2026/07/19/apple-worked-on-two-extreme-chips/",
+      "pubDate": "2026-07-19T14:17:06.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's Latest Price Increases Go Beyond Macs and iPads",
+      "url": "https://www.macrumors.com/2026/07/19/apple-just-raised-more-prices/",
+      "pubDate": "2026-07-19T14:17:06.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "New Apple Store in Michigan Opening Later This Month",
+      "url": "https://www.macrumors.com/2026/07/19/new-apple-store-opening-in-michigan/",
+      "pubDate": "2026-07-19T14:17:06.000Z"
     },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "AirPods Weekend Deals Include AirPods Pro 3 for $199.99 and AirPods 4 for $99",
       "url": "https://www.macrumors.com/2026/07/19/airpods-weekend-deals-5/",
-      "pubDate": "2026-07-19T12:16:11.000Z"
+      "pubDate": "2026-07-19T14:17:06.000Z"
     },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "'AppleCare One' is Now Even More Valuable",
       "url": "https://www.macrumors.com/2026/07/18/applecare-one-more-valuable/",
-      "pubDate": "2026-07-19T12:16:11.000Z"
+      "pubDate": "2026-07-19T14:17:06.000Z"
     },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Top Stories: iOS 27 and macOS Golden Gate Public Betas, Apple Back to School Promo, and More",
       "url": "https://www.macrumors.com/2026/07/18/top-stories-ios-27-macos-golden-gate-public-betas/",
-      "pubDate": "2026-07-19T12:16:11.000Z"
+      "pubDate": "2026-07-19T14:17:06.000Z"
     },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Raises iPhone Prices in Japan",
       "url": "https://www.macrumors.com/2026/07/17/apple-raises-iphone-prices-in-japan/",
-      "pubDate": "2026-07-19T12:16:11.000Z"
+      "pubDate": "2026-07-19T14:17:06.000Z"
     },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Passed Nvidia to Become World's Most Valuable Company Again",
       "url": "https://www.macrumors.com/2026/07/17/apple-passed-nvidia-most-valuable-company/",
-      "pubDate": "2026-07-19T12:16:11.000Z"
+      "pubDate": "2026-07-19T14:17:06.000Z"
     },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Raises iCloud+ Prices in 8 Countries",
       "url": "https://www.macrumors.com/2026/07/17/apple-icloud-plus-price-increase/",
-      "pubDate": "2026-07-19T12:16:11.000Z"
+      "pubDate": "2026-07-19T14:17:06.000Z"
     },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Music Now Costs $11.99 as Apple Increases Subscription Prices",
       "url": "https://www.macrumors.com/2026/07/17/apple-music-price-increase/",
-      "pubDate": "2026-07-19T12:16:11.000Z"
+      "pubDate": "2026-07-19T14:17:06.000Z"
     },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple and DOJ Hold Early Settlement Talks in iPhone Antitrust Case",
       "url": "https://www.macrumors.com/2026/07/17/apple-doj-antitrust-settlement/",
-      "pubDate": "2026-07-19T12:16:11.000Z"
+      "pubDate": "2026-07-19T14:17:06.000Z"
     },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iPhone 18 Pro Launching in Two Months With These 12 New Features",
       "url": "https://www.macrumors.com/2026/07/17/iphone-18-pro-12-rumored-features/",
-      "pubDate": "2026-07-19T12:16:11.000Z"
+      "pubDate": "2026-07-19T14:17:06.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "MacRumors Giveaway: Win a MacBook Neo Plus Color-Matched Satechi Accessories",
-      "url": "https://www.macrumors.com/2026/07/17/macrumors-giveaway-satechi-macbook-neo/",
-      "pubDate": "2026-07-19T12:16:11.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone Loyalty Rate Climbs to 87% as Switching to Android Slows",
-      "url": "https://www.macrumors.com/2026/07/17/iphone-loyalty-rate-climbs-to-87/",
-      "pubDate": "2026-07-19T12:16:11.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "The MacRumors Show: iPhone XX? Next Year's Major Upgrades Will Change Everything",
-      "url": "https://www.macrumors.com/2026/07/17/the-macrumors-show-iphone-xx/",
-      "pubDate": "2026-07-19T12:16:11.000Z"
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The Clapper was a bad smart home gadget — and a viral sensation",
+      "url": "https://www.theverge.com/podcast/967642/the-clapper-version-history",
+      "pubDate": "2026-07-19T13:28:26.000Z"
     },
     {
       "source": "The Verge",
@@ -239,13 +246,6 @@
       "title": "Your personal data is for sale: here is how to take it off the internet",
       "url": "https://9to5mac.com/2026/07/18/your-personal-data-is-for-sale-here-is-how-to-take-it-off-the-internet/",
       "pubDate": "2026-07-18T16:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "GoPro&#8217;s discounted Max 2 bundle includes $100 worth of accessories",
-      "url": "https://www.theverge.com/gadgets/967311/gopro-max2-360-degree-action-cam-accessory-bundle-deal-sale",
-      "pubDate": "2026-07-18T15:00:00.000Z"
     },
     {
       "source": "9to5Mac",
