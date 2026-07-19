@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T22:09:46.456Z",
+  "generatedAt": "2026-07-19T23:12:29.191Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,6 +24,20 @@
   ],
   "items": [
     {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 makes your iPhone faster in 30+ ways",
+      "url": "https://9to5mac.com/2026/07/19/ios-27-makes-your-iphone-faster-in-30-ways-heres-the-full-list/",
+      "pubDate": "2026-07-19T23:07:19.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple testing ‘Live Notes’ AI system to record Genius Bar sessions: report",
+      "url": "https://9to5mac.com/2026/07/19/apple-testing-live-notes-ai-system-to-record-genius-bar-sessions-report/",
+      "pubDate": "2026-07-19T22:40:39.000Z"
+    },
+    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "This unpronounceable series of glyphs is an incredible side project from Kieran Hebden (aka Four Tet)",
@@ -38,6 +52,90 @@
       "pubDate": "2026-07-19T20:12:40.000Z"
     },
     {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Reportedly Worked on Two 'Extreme' Chips",
+      "url": "https://www.macrumors.com/2026/07/19/apple-worked-on-two-extreme-chips/",
+      "pubDate": "2026-07-19T20:12:07.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's Latest Price Increases Go Beyond Macs and iPads",
+      "url": "https://www.macrumors.com/2026/07/19/apple-just-raised-more-prices/",
+      "pubDate": "2026-07-19T20:12:07.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "New Apple Store in Michigan Opening Later This Month",
+      "url": "https://www.macrumors.com/2026/07/19/new-apple-store-opening-in-michigan/",
+      "pubDate": "2026-07-19T20:12:07.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "AirPods Weekend Deals Include AirPods Pro 3 for $199.99 and AirPods 4 for $99",
+      "url": "https://www.macrumors.com/2026/07/19/airpods-weekend-deals-5/",
+      "pubDate": "2026-07-19T20:12:07.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "'AppleCare One' is Now Even More Valuable",
+      "url": "https://www.macrumors.com/2026/07/18/applecare-one-more-valuable/",
+      "pubDate": "2026-07-19T20:12:07.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Top Stories: iOS 27 and macOS Golden Gate Public Betas, Apple Back to School Promo, and More",
+      "url": "https://www.macrumors.com/2026/07/18/top-stories-ios-27-macos-golden-gate-public-betas/",
+      "pubDate": "2026-07-19T20:12:07.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Raises iPhone Prices in Japan",
+      "url": "https://www.macrumors.com/2026/07/17/apple-raises-iphone-prices-in-japan/",
+      "pubDate": "2026-07-19T20:12:07.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Passed Nvidia to Become World's Most Valuable Company Again",
+      "url": "https://www.macrumors.com/2026/07/17/apple-passed-nvidia-most-valuable-company/",
+      "pubDate": "2026-07-19T20:12:07.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Raises iCloud+ Prices in 8 Countries",
+      "url": "https://www.macrumors.com/2026/07/17/apple-icloud-plus-price-increase/",
+      "pubDate": "2026-07-19T20:12:07.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Music Now Costs $11.99 as Apple Increases Subscription Prices",
+      "url": "https://www.macrumors.com/2026/07/17/apple-music-price-increase/",
+      "pubDate": "2026-07-19T20:12:07.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple and DOJ Hold Early Settlement Talks in iPhone Antitrust Case",
+      "url": "https://www.macrumors.com/2026/07/17/apple-doj-antitrust-settlement/",
+      "pubDate": "2026-07-19T20:12:07.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone 18 Pro Launching in Two Months With These 12 New Features",
+      "url": "https://www.macrumors.com/2026/07/17/iphone-18-pro-12-rumored-features/",
+      "pubDate": "2026-07-19T20:12:07.000Z"
+    },
+    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Apple’s scrapped Mac Pro plans reportedly included a new Intel model",
@@ -50,90 +148,6 @@
       "title": "Kodak EC35 is a dirt-cheap point-and-shoot film camera",
       "url": "https://www.theverge.com/gadgets/967687/kodak-ec35-point-and-shoot-film-camera",
       "pubDate": "2026-07-19T19:26:06.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Reportedly Worked on Two 'Extreme' Chips",
-      "url": "https://www.macrumors.com/2026/07/19/apple-worked-on-two-extreme-chips/",
-      "pubDate": "2026-07-19T19:09:33.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple's Latest Price Increases Go Beyond Macs and iPads",
-      "url": "https://www.macrumors.com/2026/07/19/apple-just-raised-more-prices/",
-      "pubDate": "2026-07-19T19:09:33.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "New Apple Store in Michigan Opening Later This Month",
-      "url": "https://www.macrumors.com/2026/07/19/new-apple-store-opening-in-michigan/",
-      "pubDate": "2026-07-19T19:09:33.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "AirPods Weekend Deals Include AirPods Pro 3 for $199.99 and AirPods 4 for $99",
-      "url": "https://www.macrumors.com/2026/07/19/airpods-weekend-deals-5/",
-      "pubDate": "2026-07-19T19:09:33.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "'AppleCare One' is Now Even More Valuable",
-      "url": "https://www.macrumors.com/2026/07/18/applecare-one-more-valuable/",
-      "pubDate": "2026-07-19T19:09:33.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Top Stories: iOS 27 and macOS Golden Gate Public Betas, Apple Back to School Promo, and More",
-      "url": "https://www.macrumors.com/2026/07/18/top-stories-ios-27-macos-golden-gate-public-betas/",
-      "pubDate": "2026-07-19T19:09:33.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Raises iPhone Prices in Japan",
-      "url": "https://www.macrumors.com/2026/07/17/apple-raises-iphone-prices-in-japan/",
-      "pubDate": "2026-07-19T19:09:33.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Passed Nvidia to Become World's Most Valuable Company Again",
-      "url": "https://www.macrumors.com/2026/07/17/apple-passed-nvidia-most-valuable-company/",
-      "pubDate": "2026-07-19T19:09:33.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Raises iCloud+ Prices in 8 Countries",
-      "url": "https://www.macrumors.com/2026/07/17/apple-icloud-plus-price-increase/",
-      "pubDate": "2026-07-19T19:09:33.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Music Now Costs $11.99 as Apple Increases Subscription Prices",
-      "url": "https://www.macrumors.com/2026/07/17/apple-music-price-increase/",
-      "pubDate": "2026-07-19T19:09:33.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple and DOJ Hold Early Settlement Talks in iPhone Antitrust Case",
-      "url": "https://www.macrumors.com/2026/07/17/apple-doj-antitrust-settlement/",
-      "pubDate": "2026-07-19T19:09:33.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone 18 Pro Launching in Two Months With These 12 New Features",
-      "url": "https://www.macrumors.com/2026/07/17/iphone-18-pro-12-rumored-features/",
-      "pubDate": "2026-07-19T19:09:33.000Z"
     },
     {
       "source": "AppleInsider",
@@ -295,20 +309,6 @@
       "title": "Apple weekend deals: AirPods Pro 3, MacBook Pro up to $400 off, Series 11, chargers, bands, more",
       "url": "https://9to5mac.com/2026/07/18/apple-weekend-deals-airpods-pro-macbook-series-11/",
       "pubDate": "2026-07-18T12:09:22.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple raises iCloud+ subscription prices in several countries",
-      "url": "https://9to5mac.com/2026/07/17/apple-raises-icloud-subscription-prices-in-several-countries/",
-      "pubDate": "2026-07-18T04:35:08.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple cites paused securities fraud case in bid to halt Epic proceedings",
-      "url": "https://9to5mac.com/2026/07/17/apple-cites-paused-securities-fraud-case-in-bid-to-halt-epic-proceedings/",
-      "pubDate": "2026-07-18T01:36:37.000Z"
     },
     {
       "source": "Six Colors",
