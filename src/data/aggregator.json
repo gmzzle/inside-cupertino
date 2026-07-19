@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T19:33:08.888Z",
+  "generatedAt": "2026-07-19T21:08:31.437Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -26,6 +26,27 @@
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
+      "title": "This unpronounceable series of glyphs is an incredible side project from Kieran Hebden (aka Four Tet)",
+      "url": "https://www.theverge.com/entertainment/967696/four-tet-wingdings-album-review",
+      "pubDate": "2026-07-19T21:02:45.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Sunday Reboot: Shrinking models and an on-device AI future",
+      "url": "https://appleinsider.com/articles/26/07/19/sunday-reboot-shrinking-models-and-an-on-device-ai-future?utm_source=rss",
+      "pubDate": "2026-07-19T20:12:40.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple’s scrapped Mac Pro plans reportedly included a new Intel model",
+      "url": "https://9to5mac.com/2026/07/19/apples-scrapped-mac-pro-plans-reportedly-included-an-intel-model/",
+      "pubDate": "2026-07-19T20:10:46.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
       "title": "Kodak EC35 is a dirt-cheap point-and-shoot film camera",
       "url": "https://www.theverge.com/gadgets/967687/kodak-ec35-point-and-shoot-film-camera",
       "pubDate": "2026-07-19T19:26:06.000Z"
@@ -36,6 +57,90 @@
       "title": "Apple probably won't add Jony Ive to OpenAI trade secret theft suit",
       "url": "https://appleinsider.com/articles/26/07/19/apple-probably-wont-add-jony-ive-to-openai-trade-secret-theft-suit?utm_source=rss",
       "pubDate": "2026-07-19T18:30:44.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Reportedly Worked on Two 'Extreme' Chips",
+      "url": "https://www.macrumors.com/2026/07/19/apple-worked-on-two-extreme-chips/",
+      "pubDate": "2026-07-19T18:07:32.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's Latest Price Increases Go Beyond Macs and iPads",
+      "url": "https://www.macrumors.com/2026/07/19/apple-just-raised-more-prices/",
+      "pubDate": "2026-07-19T18:07:32.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "New Apple Store in Michigan Opening Later This Month",
+      "url": "https://www.macrumors.com/2026/07/19/new-apple-store-opening-in-michigan/",
+      "pubDate": "2026-07-19T18:07:32.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "AirPods Weekend Deals Include AirPods Pro 3 for $199.99 and AirPods 4 for $99",
+      "url": "https://www.macrumors.com/2026/07/19/airpods-weekend-deals-5/",
+      "pubDate": "2026-07-19T18:07:32.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "'AppleCare One' is Now Even More Valuable",
+      "url": "https://www.macrumors.com/2026/07/18/applecare-one-more-valuable/",
+      "pubDate": "2026-07-19T18:07:32.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Top Stories: iOS 27 and macOS Golden Gate Public Betas, Apple Back to School Promo, and More",
+      "url": "https://www.macrumors.com/2026/07/18/top-stories-ios-27-macos-golden-gate-public-betas/",
+      "pubDate": "2026-07-19T18:07:32.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Raises iPhone Prices in Japan",
+      "url": "https://www.macrumors.com/2026/07/17/apple-raises-iphone-prices-in-japan/",
+      "pubDate": "2026-07-19T18:07:32.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Passed Nvidia to Become World's Most Valuable Company Again",
+      "url": "https://www.macrumors.com/2026/07/17/apple-passed-nvidia-most-valuable-company/",
+      "pubDate": "2026-07-19T18:07:32.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Raises iCloud+ Prices in 8 Countries",
+      "url": "https://www.macrumors.com/2026/07/17/apple-icloud-plus-price-increase/",
+      "pubDate": "2026-07-19T18:07:32.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Music Now Costs $11.99 as Apple Increases Subscription Prices",
+      "url": "https://www.macrumors.com/2026/07/17/apple-music-price-increase/",
+      "pubDate": "2026-07-19T18:07:32.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple and DOJ Hold Early Settlement Talks in iPhone Antitrust Case",
+      "url": "https://www.macrumors.com/2026/07/17/apple-doj-antitrust-settlement/",
+      "pubDate": "2026-07-19T18:07:32.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone 18 Pro Launching in Two Months With These 12 New Features",
+      "url": "https://www.macrumors.com/2026/07/17/iphone-18-pro-12-rumored-features/",
+      "pubDate": "2026-07-19T18:07:32.000Z"
     },
     {
       "source": "The Verge",
@@ -50,90 +155,6 @@
       "title": "The FBI reportedly won’t investigate ICE anymore",
       "url": "https://www.theverge.com/policy/967674/fbi-wont-investigate-ice-assaults",
       "pubDate": "2026-07-19T16:42:10.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Reportedly Worked on Two 'Extreme' Chips",
-      "url": "https://www.macrumors.com/2026/07/19/apple-worked-on-two-extreme-chips/",
-      "pubDate": "2026-07-19T16:33:08.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple's Latest Price Increases Go Beyond Macs and iPads",
-      "url": "https://www.macrumors.com/2026/07/19/apple-just-raised-more-prices/",
-      "pubDate": "2026-07-19T16:33:08.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "New Apple Store in Michigan Opening Later This Month",
-      "url": "https://www.macrumors.com/2026/07/19/new-apple-store-opening-in-michigan/",
-      "pubDate": "2026-07-19T16:33:08.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "AirPods Weekend Deals Include AirPods Pro 3 for $199.99 and AirPods 4 for $99",
-      "url": "https://www.macrumors.com/2026/07/19/airpods-weekend-deals-5/",
-      "pubDate": "2026-07-19T16:33:08.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "'AppleCare One' is Now Even More Valuable",
-      "url": "https://www.macrumors.com/2026/07/18/applecare-one-more-valuable/",
-      "pubDate": "2026-07-19T16:33:08.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Top Stories: iOS 27 and macOS Golden Gate Public Betas, Apple Back to School Promo, and More",
-      "url": "https://www.macrumors.com/2026/07/18/top-stories-ios-27-macos-golden-gate-public-betas/",
-      "pubDate": "2026-07-19T16:33:08.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Raises iPhone Prices in Japan",
-      "url": "https://www.macrumors.com/2026/07/17/apple-raises-iphone-prices-in-japan/",
-      "pubDate": "2026-07-19T16:33:08.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Passed Nvidia to Become World's Most Valuable Company Again",
-      "url": "https://www.macrumors.com/2026/07/17/apple-passed-nvidia-most-valuable-company/",
-      "pubDate": "2026-07-19T16:33:08.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Raises iCloud+ Prices in 8 Countries",
-      "url": "https://www.macrumors.com/2026/07/17/apple-icloud-plus-price-increase/",
-      "pubDate": "2026-07-19T16:33:08.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Music Now Costs $11.99 as Apple Increases Subscription Prices",
-      "url": "https://www.macrumors.com/2026/07/17/apple-music-price-increase/",
-      "pubDate": "2026-07-19T16:33:08.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple and DOJ Hold Early Settlement Talks in iPhone Antitrust Case",
-      "url": "https://www.macrumors.com/2026/07/17/apple-doj-antitrust-settlement/",
-      "pubDate": "2026-07-19T16:33:08.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone 18 Pro Launching in Two Months With These 12 New Features",
-      "url": "https://www.macrumors.com/2026/07/17/iphone-18-pro-12-rumored-features/",
-      "pubDate": "2026-07-19T16:33:08.000Z"
     },
     {
       "source": "The Verge",
@@ -213,13 +234,6 @@
       "pubDate": "2026-07-18T21:38:18.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
-      "pubDate": "2026-07-18T20:54:42.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "YouTube picture-in-picture (PiP) mode is broken on iPhone, Android",
@@ -297,13 +311,6 @@
       "pubDate": "2026-07-18T01:36:37.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Investigation reveals dozens of disguised gambling apps on the App Store in Brazil",
-      "url": "https://9to5mac.com/2026/07/17/investigation-reveals-dozens-of-disguised-gambling-apps-on-the-app-store-in-brazil/",
-      "pubDate": "2026-07-17T21:43:08.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "App report: Adding a shelf to my Mac",
@@ -344,13 +351,6 @@
       "title": "Google is making no progress on switching iPhone users to Android",
       "url": "https://appleinsider.com/articles/26/07/17/google-is-making-no-progress-on-switching-iphone-users-to-android?utm_source=rss",
       "pubDate": "2026-07-17T17:08:04.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Amazon slashes $200 off 512GB M4 iPad Air 13-inch with weekend deal",
-      "url": "https://appleinsider.com/articles/26/07/17/amazon-slashes-200-off-512gb-m4-ipad-air-13-inch-with-weekend-deal?utm_source=rss",
-      "pubDate": "2026-07-17T15:19:15.000Z"
     },
     {
       "source": "Six Colors",
