@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T11:14:18.443Z",
+  "generatedAt": "2026-07-20T13:19:42.004Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,55 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "'ClickLock' Malware Coerces Mac Users Into Giving Up Passwords",
+      "url": "https://www.macrumors.com/2026/07/20/clicklock-malware-mac-users-giving-up-passwords/",
+      "pubDate": "2026-07-20T13:17:19.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "New iPad Mini With OLED Display Will Also Have 'Major' Chip Upgrade",
+      "url": "https://www.macrumors.com/2026/07/20/next-ipad-mini-major-chip-upgrade/",
+      "pubDate": "2026-07-20T13:08:04.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Higher Apple prices look set to slow upgrade cycles",
+      "url": "https://9to5mac.com/2026/07/20/higher-apple-prices-look-set-to-slow-upgrade-cycles/",
+      "pubDate": "2026-07-20T12:46:12.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Siri AI is hiding a more concise set of Writing Tools for Mac",
+      "url": "https://appleinsider.com/articles/26/07/20/siri-ai-is-hiding-a-more-concise-set-of-writing-tools-for-mac?utm_source=rss",
+      "pubDate": "2026-07-20T12:26:56.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Game development diary: Crunch and preparing to launch",
+      "url": "https://appleinsider.com/articles/26/07/20/game-development-diary-crunch-and-preparing-to-launch?utm_source=rss",
+      "pubDate": "2026-07-20T12:05:33.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Mac beach balls and unresponsive trackpad? This fix seems to work",
+      "url": "https://9to5mac.com/2026/07/20/mac-beach-balls-and-unresponsive-trackpad-this-fix-seems-to-work/",
+      "pubDate": "2026-07-20T11:34:31.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "AliExpress fined almost $630 million over illegal product sales",
+      "url": "https://www.theverge.com/policy/967802/aliexpress-eu-dsa-fine-illegal-products",
+      "pubDate": "2026-07-20T11:16:32.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -185,13 +234,6 @@
       "pubDate": "2026-07-19T13:28:26.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The future of physical games is not looking great",
-      "url": "https://www.theverge.com/column/967179/physical-discs-gta-vi-playstation-rockstar-games",
-      "pubDate": "2026-07-19T12:00:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "B&H launches steep MacBook Pro discounts at up to $400 off",
@@ -241,20 +283,6 @@
       "pubDate": "2026-07-18T16:00:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone 18 Pro is just two months away, but you probably shouldn’t wait for it",
-      "url": "https://9to5mac.com/2026/07/18/iphone-18-pro-heres-why-you-shouldnt-wait-to-upgrade/",
-      "pubDate": "2026-07-18T14:39:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple ordered to remove 8 'nudify' AI apps from the iPhone's App Store",
-      "url": "https://appleinsider.com/articles/26/07/17/apple-ordered-to-remove-8-nudify-ai-apps-from-the-iphones-app-store?utm_source=rss",
-      "pubDate": "2026-07-18T14:03:56.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "'AppleCare One' is Now Even More Valuable",
@@ -267,13 +295,6 @@
       "title": "Top Stories: iOS 27 and macOS Golden Gate Public Betas, Apple Back to School Promo, and More",
       "url": "https://www.macrumors.com/2026/07/18/top-stories-ios-27-macos-golden-gate-public-betas/",
       "pubDate": "2026-07-18T13:00:11.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple @ Work: New macOS ClickFix malware brings a new potential backdoor to your enterprise fleet",
-      "url": "https://9to5mac.com/2026/07/18/macos-clickfix-campaign/",
-      "pubDate": "2026-07-18T13:00:00.000Z"
     },
     {
       "source": "AppleInsider",
@@ -318,13 +339,6 @@
       "pubDate": "2026-07-17T18:58:05.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Raises iCloud+ Prices in 8 Countries",
-      "url": "https://www.macrumors.com/2026/07/17/apple-icloud-plus-price-increase/",
-      "pubDate": "2026-07-17T18:56:12.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple Music gets first U.S. price hike in four years",
@@ -332,32 +346,18 @@
       "pubDate": "2026-07-17T18:28:07.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Music Now Costs $11.99 as Apple Increases Subscription Prices",
-      "url": "https://www.macrumors.com/2026/07/17/apple-music-price-increase/",
-      "pubDate": "2026-07-17T18:25:05.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple's long-running DOJ antitrust case may not make it to trial",
-      "url": "https://appleinsider.com/articles/26/07/17/apples-long-running-doj-antitrust-case-may-not-make-it-to-trial?utm_source=rss",
-      "pubDate": "2026-07-17T17:42:30.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Google is making no progress on switching iPhone users to Android",
-      "url": "https://appleinsider.com/articles/26/07/17/google-is-making-no-progress-on-switching-iphone-users-to-android?utm_source=rss",
-      "pubDate": "2026-07-17T17:08:04.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Unauthorized AI biographies are all over Amazon ↦",
       "url": "https://sixcolors.com/link/2026/07/unauthorized-ai-biographies-are-all-over-amazon/",
       "pubDate": "2026-07-17T13:35:12.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "How to make Apple Journal part of a mindful daily routine",
+      "url": "https://appleinsider.com/articles/26/07/17/how-to-make-apple-journal-part-of-a-mindful-daily-routine?utm_source=rss",
+      "pubDate": "2026-07-17T12:03:32.000Z"
     },
     {
       "source": "Six Colors",
