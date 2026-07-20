@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T22:13:30.304Z",
+  "generatedAt": "2026-07-20T23:17:51.811Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -26,6 +26,27 @@
     {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
+      "title": "Origin Story: ‘Rage Against the Machine’ ↦",
+      "url": "https://sixcolors.com/link/2026/07/origin-story-rage-against-the-machine/",
+      "pubDate": "2026-07-20T23:08:33.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Here are the 30,000 songs Sony is suing Udio&#8217;s AI music generator over",
+      "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+      "pubDate": "2026-07-20T22:19:12.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The FCC is planning to retroactively ban disguised DJI gadgets",
+      "url": "https://www.theverge.com/news/968310/fcc-dji-drone-camera-ban-skyrover-xtra",
+      "pubDate": "2026-07-20T22:16:14.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) Upgrade 629: Jony Ive Loves a Handle",
       "url": "https://sixcolors.com/podcast/2026/07/upgrade-629-jony-ive-loves-a-handle/",
       "pubDate": "2026-07-20T22:07:58.000Z"
@@ -36,6 +57,13 @@
       "title": "Everything New in iOS 27 Beta 4",
       "url": "https://www.macrumors.com/2026/07/20/ios-27-beta-4-everything-new/",
       "pubDate": "2026-07-20T21:50:52.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The Odyssey turned me into an IMAX believer",
+      "url": "https://www.theverge.com/entertainment/968337/the-odyssey-imax-screenings-christopher-nolan",
+      "pubDate": "2026-07-20T21:47:37.000Z"
     },
     {
       "source": "9to5Mac",
@@ -290,25 +318,11 @@
       "pubDate": "2026-07-20T16:00:30.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Adobe’s ‘natural look’ camera app embraces generative AI",
-      "url": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
-      "pubDate": "2026-07-20T16:00:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Fixing ISP-provided routers, public betas, & more on Smart Home Insider",
       "url": "https://appleinsider.com/articles/26/07/20/fixing-isp-provided-routers-public-betas-more-on-smart-home-insider?utm_source=rss",
       "pubDate": "2026-07-20T15:55:19.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Dr. Jill Lepore on why AI backlash is vital for the future",
-      "url": "https://www.theverge.com/podcast/967884/jill-lepore-history-ai-artificial-state-elon-musk",
-      "pubDate": "2026-07-20T15:00:00.000Z"
     },
     {
       "source": "MacRumors",
@@ -323,13 +337,6 @@
       "title": "Amazon's $89 AirTag 2 deal delivers record-low price on 4-pack",
       "url": "https://appleinsider.com/articles/26/07/20/amazons-89-airtag-2-deal-delivers-record-low-price-on-4-pack?utm_source=rss",
       "pubDate": "2026-07-20T14:51:19.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The AirPods Max 2 are down to their second-best price",
-      "url": "https://www.theverge.com/gadgets/967822/airpods-max-2-logitech-superstrike-kodak-charmera-deal-sale",
-      "pubDate": "2026-07-20T14:41:29.000Z"
     },
     {
       "source": "AppleInsider",
@@ -365,13 +372,6 @@
       "title": "App report: Adding a shelf to my Mac",
       "url": "https://sixcolors.com/post/2026/07/app-report-adding-a-shelf-to-my-mac/",
       "pubDate": "2026-07-17T20:57:54.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Unauthorized AI biographies are all over Amazon ↦",
-      "url": "https://sixcolors.com/link/2026/07/unauthorized-ai-biographies-are-all-over-amazon/",
-      "pubDate": "2026-07-17T13:35:12.000Z"
     }
   ]
 }
