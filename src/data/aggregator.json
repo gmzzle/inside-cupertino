@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T20:41:19.790Z",
+  "generatedAt": "2026-07-20T22:13:30.304Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,41 @@
     }
   ],
   "items": [
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) Upgrade 629: Jony Ive Loves a Handle",
+      "url": "https://sixcolors.com/podcast/2026/07/upgrade-629-jony-ive-loves-a-handle/",
+      "pubDate": "2026-07-20T22:07:58.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Everything New in iOS 27 Beta 4",
+      "url": "https://www.macrumors.com/2026/07/20/ios-27-beta-4-everything-new/",
+      "pubDate": "2026-07-20T21:50:52.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple leases 126,000-square-foot office building in Sunnyvale",
+      "url": "https://9to5mac.com/2026/07/20/apple-leases-126000-square-foot-office-building-in-sunnyvale/",
+      "pubDate": "2026-07-20T21:27:16.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Volvo adds Apple Music to more than 2 million cars, with up to three months free",
+      "url": "https://9to5mac.com/2026/07/20/volvo-adds-apple-music-to-more-than-2-million-cars-with-up-to-three-months-free/",
+      "pubDate": "2026-07-20T21:06:08.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "SpaceX in your index fund, explained",
+      "url": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
+      "pubDate": "2026-07-20T21:00:00.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -178,20 +213,6 @@
       "pubDate": "2026-07-20T17:15:22.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: July 20, 2026 – Apple Music and Apple One price increases",
-      "url": "https://9to5mac.com/2026/07/20/daily-july-20-2026/",
-      "pubDate": "2026-07-20T17:15:09.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple releases beta 4 for iPadOS 27, tvOS 27, and more",
-      "url": "https://9to5mac.com/2026/07/20/apple-releases-beta-4-for-ipados-27-tvos-27-and-more/",
-      "pubDate": "2026-07-20T17:13:54.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Releases macOS Golden Gate Beta 4",
@@ -318,25 +339,11 @@
       "pubDate": "2026-07-20T14:38:56.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Sports App Updated With Additional Soccer Leagues Following 2026 FIFA World Cup",
-      "url": "https://www.macrumors.com/2026/07/20/apple-sports-app-gets-more-soccer-leagues/",
-      "pubDate": "2026-07-20T14:27:41.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "AirPods Max 2 plunge to $449 after Amazon slashes price by $100",
       "url": "https://appleinsider.com/articles/26/07/20/airpods-max-2-plunge-to-449-after-amazon-slashes-price-by-100?utm_source=rss",
       "pubDate": "2026-07-20T14:06:24.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Electric air taxis go to war",
-      "url": "https://www.theverge.com/transportation/967891/archer-evtol-military-anduril-air-taxi-thunder",
-      "pubDate": "2026-07-20T13:52:21.000Z"
     },
     {
       "source": "AppleInsider",
@@ -365,13 +372,6 @@
       "title": "Unauthorized AI biographies are all over Amazon ↦",
       "url": "https://sixcolors.com/link/2026/07/unauthorized-ai-biographies-are-all-over-amazon/",
       "pubDate": "2026-07-17T13:35:12.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "How to make Apple Journal part of a mindful daily routine",
-      "url": "https://appleinsider.com/articles/26/07/17/how-to-make-apple-journal-part-of-a-mindful-daily-routine?utm_source=rss",
-      "pubDate": "2026-07-17T12:03:32.000Z"
     }
   ]
 }
