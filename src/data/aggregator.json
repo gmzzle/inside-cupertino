@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T16:01:54.205Z",
+  "generatedAt": "2026-07-20T18:20:41.580Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,181 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Seeds watchOS 27 Beta 4 to Developers",
+      "url": "https://www.macrumors.com/2026/07/20/apple-seeds-watchos-27-beta-4/",
+      "pubDate": "2026-07-20T18:15:01.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Here’s what’s new with iOS 27 beta 4",
+      "url": "https://9to5mac.com/2026/07/20/heres-whats-new-with-ios-27-beta-4/",
+      "pubDate": "2026-07-20T18:03:03.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Fourth iOS 27, macOS 27 developer betas arrive",
+      "url": "https://appleinsider.com/articles/26/07/20/apple-starts-round-four-of-its-ios-27-macos-27-developer-betas?utm_source=rss",
+      "pubDate": "2026-07-20T17:42:05.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Judge pauses Paramount’s attempt to buy Warner Bros. Discovery",
+      "url": "https://www.theverge.com/business/968055/paramount-wbd-merger-pause-tro",
+      "pubDate": "2026-07-20T17:37:53.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iOS 26.6 release candidate build surfaces for testing",
+      "url": "https://appleinsider.com/articles/26/07/20/sixth-ios-266-macos-266-developer-betas-surface-for-testing?utm_source=rss",
+      "pubDate": "2026-07-20T17:25:19.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 26.6 includes key feature that prepares your iPhone for iOS 27",
+      "url": "https://9to5mac.com/2026/07/20/ios-26-6-includes-key-feature-that-prepares-your-iphone-for-ios-27/",
+      "pubDate": "2026-07-20T17:21:56.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "macOS 26.6 RC now available, here’s what’s coming",
+      "url": "https://9to5mac.com/2026/07/20/macos-26-6-rc-now-available-heres-whats-coming/",
+      "pubDate": "2026-07-20T17:15:22.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: July 20, 2026 – Apple Music and Apple One price increases",
+      "url": "https://9to5mac.com/2026/07/20/daily-july-20-2026/",
+      "pubDate": "2026-07-20T17:15:09.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple releases beta 4 for iPadOS 27, tvOS 27, and more",
+      "url": "https://9to5mac.com/2026/07/20/apple-releases-beta-4-for-ipados-27-tvos-27-and-more/",
+      "pubDate": "2026-07-20T17:13:54.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple releases iPadOS 26.6 RC, plus watchOS 26.6 and more",
+      "url": "https://9to5mac.com/2026/07/20/apple-releases-ipados-26-6-rc-plus-watchos-26-6-and-more/",
+      "pubDate": "2026-07-20T17:13:44.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Sixth release candidates for macOS Sonoma 14.8.8 and macOS Sequoia 15.7.8 now rolling out",
+      "url": "https://9to5mac.com/2026/07/20/sixth-release-candidates-for-macos-sonoma-14-8-8-and-macos-sequoia-15-7-8-now-rolling-out/",
+      "pubDate": "2026-07-20T17:11:30.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple releases first iOS 26.6 RC for iPhone",
+      "url": "https://9to5mac.com/2026/07/20/apple-releases-first-ios-26-6-rc-for-iphone/",
+      "pubDate": "2026-07-20T17:11:15.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Releases macOS Golden Gate Beta 4",
+      "url": "https://www.macrumors.com/2026/07/20/apple-releases-macos-27-beta-4/",
+      "pubDate": "2026-07-20T17:10:42.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "macOS 27 Golden Gate beta 4 now available to developers, here’s what’s new",
+      "url": "https://9to5mac.com/2026/07/20/macos-27-golden-gate-beta-4-now-available-to-developers-heres-whats-new/",
+      "pubDate": "2026-07-20T17:10:15.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Seeds Fourth iOS 27 and iPadOS 27 Betas to Developers",
+      "url": "https://www.macrumors.com/2026/07/20/apple-seeds-ios-27-beta-4/",
+      "pubDate": "2026-07-20T17:06:23.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 beta 4 now available as Apple tests major Siri AI upgrade",
+      "url": "https://9to5mac.com/2026/07/20/ios-27-beta-4/",
+      "pubDate": "2026-07-20T17:05:23.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Seeds iOS 26.6 and iPadOS 26.6 Release Candidates",
+      "url": "https://www.macrumors.com/2026/07/20/apple-seeds-ios-26-6-beta-6/",
+      "pubDate": "2026-07-20T17:05:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Seeds macOS Tahoe 26.6 Release Candidate",
+      "url": "https://www.macrumors.com/2026/07/20/apple-seeds-macos-tahoe-26-6-beta-6/",
+      "pubDate": "2026-07-20T17:04:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Seeds tvOS 27 Beta 4 to Developers",
+      "url": "https://www.macrumors.com/2026/07/20/apple-seeds-tvos-27-beta-4/",
+      "pubDate": "2026-07-20T17:01:00.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "When Find My doesn’t help with separation anxiety",
+      "url": "https://sixcolors.com/post/2026/07/when-find-my-doesnt-help-with-separation-anxiety/",
+      "pubDate": "2026-07-20T17:00:29.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Seeds watchOS 26.6, tvOS 26.6 and visionOS 26.6 Release Candidates",
+      "url": "https://www.macrumors.com/2026/07/20/watchos-26-6-rc/",
+      "pubDate": "2026-07-20T17:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "LG&#8217;s glossy OLED gaming monitor is rare to find under $400",
+      "url": "https://www.theverge.com/gadgets/967993/lg-27-inch-ultragear-glossy-oled-gaming-monitor-deal-sale",
+      "pubDate": "2026-07-20T16:34:24.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "'CODA' director returns to Apple TV with movie about disability activist Judy Heumann",
+      "url": "https://appleinsider.com/articles/26/07/20/coda-director-returns-to-apple-tv-with-movie-about-disability-activist-judy-heumann?utm_source=rss",
+      "pubDate": "2026-07-20T16:17:28.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "LG’s monitors come with an unwanted addition for Windows: McAfee pop-up ads",
+      "url": "https://www.theverge.com/tech/967983/lg-monitors-mcafee-adware-gamers-nexus",
+      "pubDate": "2026-07-20T16:14:58.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "New iPad mini coming soon with these major changes",
+      "url": "https://9to5mac.com/2026/07/20/new-ipad-mini-coming-soon-with-these-major-changes/",
+      "pubDate": "2026-07-20T16:13:34.000Z"
+    },
     {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
@@ -52,25 +227,11 @@
       "pubDate": "2026-07-20T15:55:19.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: AirPods Pro 3, AirPods Max 2 $100 off, AirTag 2 all-time low, M5 MacBook Pro $400 off, iPhone Air, more",
-      "url": "https://9to5mac.com/2026/07/20/deals-airpods-pro-3-airpods-max-2-airtag-2-iphone-air/",
-      "pubDate": "2026-07-20T15:25:39.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Dr. Jill Lepore on why AI backlash is vital for the future",
       "url": "https://www.theverge.com/podcast/967884/jill-lepore-history-ai-artificial-state-elon-musk",
       "pubDate": "2026-07-20T15:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple unveils new film from ‘Best Picture’ Oscar winner",
-      "url": "https://9to5mac.com/2026/07/20/apple-unveils-new-film-from-best-picture-oscar-winner/",
-      "pubDate": "2026-07-20T14:59:45.000Z"
     },
     {
       "source": "MacRumors",
@@ -101,13 +262,6 @@
       "pubDate": "2026-07-20T14:38:56.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple’s Sports app expands soccer features, here’s what’s new",
-      "url": "https://9to5mac.com/2026/07/20/apples-sports-app-expands-soccer-features-heres-whats-new/",
-      "pubDate": "2026-07-20T14:28:55.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Sports App Updated With Additional Soccer Leagues Following 2026 FIFA World Cup",
@@ -127,13 +281,6 @@
       "title": "AirPods Max 2 plunge to $449 after Amazon slashes price by $100",
       "url": "https://appleinsider.com/articles/26/07/20/airpods-max-2-plunge-to-449-after-amazon-slashes-price-by-100?utm_source=rss",
       "pubDate": "2026-07-20T14:06:24.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Amazon just broke one of Apple Wallet’s best recent features",
-      "url": "https://9to5mac.com/2026/07/20/amazon-just-broke-one-of-apple-wallets-best-recent-features/",
-      "pubDate": "2026-07-20T14:03:37.000Z"
     },
     {
       "source": "The Verge",
@@ -164,34 +311,6 @@
       "pubDate": "2026-07-20T13:35:41.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Shelved Two Mac Pro Models, Including an Intel-Based One",
-      "url": "https://www.macrumors.com/2026/07/20/apple-shelved-two-mac-pro-models/",
-      "pubDate": "2026-07-20T13:30:42.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "'ClickLock' Malware Coerces Mac Users Into Giving Up Passwords",
-      "url": "https://www.macrumors.com/2026/07/20/clicklock-malware-mac-users-giving-up-passwords/",
-      "pubDate": "2026-07-20T13:17:19.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "New iPad Mini With OLED Display Will Also Have 'Major' Chip Upgrade",
-      "url": "https://www.macrumors.com/2026/07/20/next-ipad-mini-major-chip-upgrade/",
-      "pubDate": "2026-07-20T13:08:04.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Higher Apple prices look set to slow upgrade cycles",
-      "url": "https://9to5mac.com/2026/07/20/higher-apple-prices-look-set-to-slow-upgrade-cycles/",
-      "pubDate": "2026-07-20T12:46:12.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Siri AI is hiding a more concise set of Writing Tools for Mac",
@@ -206,32 +325,11 @@
       "pubDate": "2026-07-20T12:05:33.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Mac beach balls and unresponsive trackpad? This fix seems to work",
-      "url": "https://9to5mac.com/2026/07/20/mac-beach-balls-and-unresponsive-trackpad-this-fix-seems-to-work/",
-      "pubDate": "2026-07-20T11:34:31.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "AliExpress fined almost $630 million over illegal product sales",
       "url": "https://www.theverge.com/policy/967802/aliexpress-eu-dsa-fine-illegal-products",
       "pubDate": "2026-07-20T11:16:32.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "AI fakes a growing problem on Apple Books, some ‘written’ in a few hours",
-      "url": "https://9to5mac.com/2026/07/20/ai-fakes-a-growing-problem-on-apple-books-some-written-in-a-few-hours/",
-      "pubDate": "2026-07-20T11:09:53.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple's Secret Siri Interface Buried in macOS 27 Beta: How to Enable",
-      "url": "https://www.macrumors.com/2026/07/20/secret-siri-interface-macos-27-beta-enable/",
-      "pubDate": "2026-07-20T11:09:27.000Z"
     },
     {
       "source": "The Verge",
@@ -241,34 +339,6 @@
       "pubDate": "2026-07-20T10:16:33.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Testing New 'Live Notes' Feature at Genius Bar",
-      "url": "https://www.macrumors.com/2026/07/19/apple-testing-live-notes-feature-at-genius-bar/",
-      "pubDate": "2026-07-20T01:59:22.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 makes your iPhone faster in 30+ ways",
-      "url": "https://9to5mac.com/2026/07/19/ios-27-makes-your-iphone-faster-in-30-ways-heres-the-full-list/",
-      "pubDate": "2026-07-19T23:07:19.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple testing ‘Live Notes’ AI system to record Genius Bar sessions: report",
-      "url": "https://9to5mac.com/2026/07/19/apple-testing-live-notes-ai-system-to-record-genius-bar-sessions-report/",
-      "pubDate": "2026-07-19T22:40:39.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "This unpronounceable series of glyphs is an incredible side project from Kieran Hebden (aka Four Tet)",
-      "url": "https://www.theverge.com/entertainment/967696/four-tet-wingdings-album-review",
-      "pubDate": "2026-07-19T21:02:45.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Sunday Reboot: Shrinking models and an on-device AI future",
@@ -276,74 +346,11 @@
       "pubDate": "2026-07-19T20:12:40.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple’s scrapped Mac Pro plans reportedly included a new Intel model",
-      "url": "https://9to5mac.com/2026/07/19/apples-scrapped-mac-pro-plans-reportedly-included-an-intel-model/",
-      "pubDate": "2026-07-19T20:10:46.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Kodak EC35 is a dirt-cheap point-and-shoot film camera",
-      "url": "https://www.theverge.com/gadgets/967687/kodak-ec35-point-and-shoot-film-camera",
-      "pubDate": "2026-07-19T19:26:06.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple probably won't add Jony Ive to OpenAI trade secret theft suit",
       "url": "https://appleinsider.com/articles/26/07/19/apple-probably-wont-add-jony-ive-to-openai-trade-secret-theft-suit?utm_source=rss",
       "pubDate": "2026-07-19T18:30:44.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "I hate that I don’t hate this song made with Suno",
-      "url": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
-      "pubDate": "2026-07-19T17:35:54.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Reportedly Worked on Two 'Extreme' Chips",
-      "url": "https://www.macrumors.com/2026/07/19/apple-worked-on-two-extreme-chips/",
-      "pubDate": "2026-07-19T15:51:57.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple's Latest Price Increases Go Beyond Macs and iPads",
-      "url": "https://www.macrumors.com/2026/07/19/apple-just-raised-more-prices/",
-      "pubDate": "2026-07-19T15:50:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Genius Bar AI tools spark concerns over employee monitoring & evaluation",
-      "url": "https://appleinsider.com/articles/26/07/19/genius-bar-ai-tools-spark-concerns-over-employee-monitoring-evaluation?utm_source=rss",
-      "pubDate": "2026-07-19T14:32:54.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Mac Pro could have been vastly more powerful than the Mac Studio",
-      "url": "https://appleinsider.com/articles/26/07/19/mac-pro-could-have-been-vastly-more-powerful-than-the-mac-studio?utm_source=rss",
-      "pubDate": "2026-07-19T14:31:58.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "B&H launches steep MacBook Pro discounts at up to $400 off",
-      "url": "https://appleinsider.com/articles/26/07/19/bh-launches-steep-macbook-pro-discounts-at-up-to-400-off?utm_source=rss",
-      "pubDate": "2026-07-19T07:26:26.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple is raising prices on more than just Macs and iPads",
-      "url": "https://9to5mac.com/2026/07/18/here-are-all-the-ways-apple-is-raising-prices-and-why/",
-      "pubDate": "2026-07-19T03:37:48.000Z"
     },
     {
       "source": "Six Colors",
@@ -365,13 +372,6 @@
       "title": "How to make Apple Journal part of a mindful daily routine",
       "url": "https://appleinsider.com/articles/26/07/17/how-to-make-apple-journal-part-of-a-mindful-daily-routine?utm_source=rss",
       "pubDate": "2026-07-17T12:03:32.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Apple TV is “essentially dead”? No, long live Apple TV.",
-      "url": "https://sixcolors.com/post/2026/07/apple-tv-is-essentially-dead-no-long-live-apple-tv/",
-      "pubDate": "2026-07-16T17:33:05.000Z"
     }
   ]
 }
