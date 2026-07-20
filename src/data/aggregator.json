@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T18:20:41.580Z",
+  "generatedAt": "2026-07-20T20:41:19.790Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,6 +24,118 @@
   ],
   "items": [
     {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone 18 Pro’s new A20 chip  rumored to bring two major upgrades",
+      "url": "https://9to5mac.com/2026/07/20/iphone-18-pros-new-a20-chip-rumored-to-bring-two-major-upgrades/",
+      "pubDate": "2026-07-20T20:34:11.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Report: App Store added nearly as many new apps in H1 2026 as in all of 2025",
+      "url": "https://9to5mac.com/2026/07/20/report-app-store-added-nearly-as-many-new-apps-in-h1-2026-as-in-all-of-2025/",
+      "pubDate": "2026-07-20T20:29:18.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple adds another office to its Sunnyvale collection",
+      "url": "https://appleinsider.com/articles/26/07/20/apple-adds-another-office-to-its-sunnyvale-collection?utm_source=rss",
+      "pubDate": "2026-07-20T20:20:04.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Music in iOS 27: Five new features coming to your iPhone",
+      "url": "https://9to5mac.com/2026/07/20/apple-music-in-ios-27-five-new-features-coming-to-your-iphone/",
+      "pubDate": "2026-07-20T20:09:22.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Get Borderlands 3, Risk of Rain 2 and 13 other great PC games for $15",
+      "url": "https://www.theverge.com/gadgets/968191/humble-2k-megahits-bundle-xcom-borderlands-duke-nukem-deal-sale",
+      "pubDate": "2026-07-20T20:08:51.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The PlayStation replica ornament is an homage to a great, yet fragile console",
+      "url": "https://www.theverge.com/tech/967989/hallmark-keepsake-playstation-ornament-hands-on",
+      "pubDate": "2026-07-20T20:06:40.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Watch Series 12 Coming in September With These New Features",
+      "url": "https://www.macrumors.com/2026/07/20/apple-watch-series-12-rumored-features/",
+      "pubDate": "2026-07-20T20:00:46.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 26.6: New features, release date, more",
+      "url": "https://9to5mac.com/2026/07/20/ios-26-6-new-features-release-date-more/",
+      "pubDate": "2026-07-20T19:47:22.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iOS 27 beta multiple battery reference may be red herring, not iPhone Fold hints",
+      "url": "https://appleinsider.com/articles/26/07/20/plurality-in-ios-27-beta-code-may-be-red-herring-not-iphone-fold-hints?utm_source=rss",
+      "pubDate": "2026-07-20T19:42:39.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Fourth iOS 27, macOS 27 developer betas arrive",
+      "url": "https://appleinsider.com/articles/26/07/20/apple-starts-round-four-of-its-ios-27-macos-27-developer-betas?utm_source=rss",
+      "pubDate": "2026-07-20T19:35:59.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "WhatsApp rolling out Liquid Glass revamp to its Mac app",
+      "url": "https://9to5mac.com/2026/07/20/whatsapp-rolling-out-liquid-glass-revamp-to-its-mac-app/",
+      "pubDate": "2026-07-20T19:35:04.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Seeds Fourth visionOS 27 Beta to Developers",
+      "url": "https://www.macrumors.com/2026/07/20/apple-seeds-visionos-27-beta-4/",
+      "pubDate": "2026-07-20T19:24:21.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Ford&#8217;s $30,000 electric truck: all the news about the company&#8217;s big EV re-do",
+      "url": "https://www.theverge.com/transportation/968205/ford-electric-truck-uev-30000-affordable",
+      "pubDate": "2026-07-20T19:18:45.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iOS 27 Code References iPhone With Two Batteries",
+      "url": "https://www.macrumors.com/2026/07/20/ios-27-dual-battery-iphone/",
+      "pubDate": "2026-07-20T19:10:35.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "MagSafe Monday: The RORRY Flow power bank is a travel essential",
+      "url": "https://9to5mac.com/2026/07/20/rorry-flow-power-bank/",
+      "pubDate": "2026-07-20T18:57:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 beta 4 mentions new iPhone model with multi-battery feature",
+      "url": "https://9to5mac.com/2026/07/20/ios-27-beta-4-mentions-new-iphone-model-with-multi-battery-feature/",
+      "pubDate": "2026-07-20T18:43:28.000Z"
+    },
+    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Seeds watchOS 27 Beta 4 to Developers",
@@ -36,13 +148,6 @@
       "title": "Here’s what’s new with iOS 27 beta 4",
       "url": "https://9to5mac.com/2026/07/20/heres-whats-new-with-ios-27-beta-4/",
       "pubDate": "2026-07-20T18:03:03.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Fourth iOS 27, macOS 27 developer betas arrive",
-      "url": "https://appleinsider.com/articles/26/07/20/apple-starts-round-four-of-its-ios-27-macos-27-developer-betas?utm_source=rss",
-      "pubDate": "2026-07-20T17:42:05.000Z"
     },
     {
       "source": "The Verge",
@@ -87,27 +192,6 @@
       "pubDate": "2026-07-20T17:13:54.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple releases iPadOS 26.6 RC, plus watchOS 26.6 and more",
-      "url": "https://9to5mac.com/2026/07/20/apple-releases-ipados-26-6-rc-plus-watchos-26-6-and-more/",
-      "pubDate": "2026-07-20T17:13:44.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Sixth release candidates for macOS Sonoma 14.8.8 and macOS Sequoia 15.7.8 now rolling out",
-      "url": "https://9to5mac.com/2026/07/20/sixth-release-candidates-for-macos-sonoma-14-8-8-and-macos-sequoia-15-7-8-now-rolling-out/",
-      "pubDate": "2026-07-20T17:11:30.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple releases first iOS 26.6 RC for iPhone",
-      "url": "https://9to5mac.com/2026/07/20/apple-releases-first-ios-26-6-rc-for-iphone/",
-      "pubDate": "2026-07-20T17:11:15.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Releases macOS Golden Gate Beta 4",
@@ -115,25 +199,11 @@
       "pubDate": "2026-07-20T17:10:42.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "macOS 27 Golden Gate beta 4 now available to developers, here’s what’s new",
-      "url": "https://9to5mac.com/2026/07/20/macos-27-golden-gate-beta-4-now-available-to-developers-heres-whats-new/",
-      "pubDate": "2026-07-20T17:10:15.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Seeds Fourth iOS 27 and iPadOS 27 Betas to Developers",
       "url": "https://www.macrumors.com/2026/07/20/apple-seeds-ios-27-beta-4/",
       "pubDate": "2026-07-20T17:06:23.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 beta 4 now available as Apple tests major Siri AI upgrade",
-      "url": "https://9to5mac.com/2026/07/20/ios-27-beta-4/",
-      "pubDate": "2026-07-20T17:05:23.000Z"
     },
     {
       "source": "MacRumors",
@@ -192,25 +262,11 @@
       "pubDate": "2026-07-20T16:14:58.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "New iPad mini coming soon with these major changes",
-      "url": "https://9to5mac.com/2026/07/20/new-ipad-mini-coming-soon-with-these-major-changes/",
-      "pubDate": "2026-07-20T16:13:34.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Sponsor) Magic Lasso Adblock: Effortlessly block ads on your iPhone, iPad, Mac and Apple TV",
       "url": "https://sixcolors.com/feed-only/2026/07/magic-lasso-adblock-effortlessly-block-ads-on-your-iphone-ipad-mac-and-apple-tv-6/",
       "pubDate": "2026-07-20T16:00:30.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Adobe’s Project Indigo camera app gains experimental AI photo editing tools",
-      "url": "https://9to5mac.com/2026/07/20/adobes-project-indigo-camera-app-gains-experimental-ai-photo-editing-tools/",
-      "pubDate": "2026-07-20T16:00:12.000Z"
     },
     {
       "source": "The Verge",
@@ -269,13 +325,6 @@
       "pubDate": "2026-07-20T14:27:41.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Likely Left Jony Ive Out of Its OpenAI Lawsuit on Purpose",
-      "url": "https://www.macrumors.com/2026/07/20/apple-left-jony-ive-out-of-openai-lawsuit/",
-      "pubDate": "2026-07-20T14:19:57.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "AirPods Max 2 plunge to $449 after Amazon slashes price by $100",
@@ -290,27 +339,6 @@
       "pubDate": "2026-07-20T13:52:21.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Avengers: Doomsday’s first trailer puts everyone on high alert",
-      "url": "https://www.theverge.com/entertainment/967887/avengers-doomsday-trailer-marvel-release-date",
-      "pubDate": "2026-07-20T13:39:19.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Get $100 Off AirPods Max 2 With Amazon's New Sale",
-      "url": "https://www.macrumors.com/2026/07/20/airpods-max-2-amazons-sale/",
-      "pubDate": "2026-07-20T13:37:35.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "AirTag 2 Returns to Best-Ever Price of $89 for 4-Pack",
-      "url": "https://www.macrumors.com/2026/07/20/airtag-2-returns-best-price/",
-      "pubDate": "2026-07-20T13:35:41.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Siri AI is hiding a more concise set of Writing Tools for Mac",
@@ -323,34 +351,6 @@
       "title": "Game development diary: Crunch and preparing to launch",
       "url": "https://appleinsider.com/articles/26/07/20/game-development-diary-crunch-and-preparing-to-launch?utm_source=rss",
       "pubDate": "2026-07-20T12:05:33.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "AliExpress fined almost $630 million over illegal product sales",
-      "url": "https://www.theverge.com/policy/967802/aliexpress-eu-dsa-fine-illegal-products",
-      "pubDate": "2026-07-20T11:16:32.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "China delivers a one-two punch to America’s AI dominance",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
-      "pubDate": "2026-07-20T10:16:33.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Sunday Reboot: Shrinking models and an on-device AI future",
-      "url": "https://appleinsider.com/articles/26/07/19/sunday-reboot-shrinking-models-and-an-on-device-ai-future?utm_source=rss",
-      "pubDate": "2026-07-19T20:12:40.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple probably won't add Jony Ive to OpenAI trade secret theft suit",
-      "url": "https://appleinsider.com/articles/26/07/19/apple-probably-wont-add-jony-ive-to-openai-trade-secret-theft-suit?utm_source=rss",
-      "pubDate": "2026-07-19T18:30:44.000Z"
     },
     {
       "source": "Six Colors",
