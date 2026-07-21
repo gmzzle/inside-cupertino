@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T09:40:54.760Z",
+  "generatedAt": "2026-07-21T12:01:20.355Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,62 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "HBO Max and Paramount+ may not merge after all",
+      "url": "https://9to5mac.com/2026/07/21/hbo-max-and-paramount-may-not-merge-after-all/",
+      "pubDate": "2026-07-21T11:52:40.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "More bad news for Apple pricing as TSMC increases chip costs",
+      "url": "https://9to5mac.com/2026/07/21/more-bad-news-for-apple-pricing-as-tsmc-increases-chip-costs/",
+      "pubDate": "2026-07-21T11:26:09.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "America needs to stop getting shocked by Chinese AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment",
+      "pubDate": "2026-07-21T11:08:56.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Chipmaker TSMC Plans Price Hikes of Up to 10% in 2027",
+      "url": "https://www.macrumors.com/2026/07/21/apple-tsmc-price-hikes-2027/",
+      "pubDate": "2026-07-21T11:01:47.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Largest ever iPhone screen arriving next year, suggests leaker",
+      "url": "https://9to5mac.com/2026/07/21/largest-ever-iphone-screen-arriving-next-year-suggests-leaker/",
+      "pubDate": "2026-07-21T10:52:04.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Who’s afraid of the big, bad GPU?",
+      "url": "https://www.theverge.com/cs/features/937356/ai-data-center-gpu-environmental-impact",
+      "pubDate": "2026-07-21T10:00:01.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple @ Work Podcast: Forget 90 day patch windows",
+      "url": "https://9to5mac.com/2026/07/21/apple-work-podcast-forget-90-day-patch-windows/",
+      "pubDate": "2026-07-21T10:00:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iPhone 20 Pro Max may get Apple's largest ever iPhone screen at 7 inches",
+      "url": "https://appleinsider.com/articles/26/07/21/iphone-20-pro-max-may-get-apples-largest-ever-iphone-screen-at-7-inches?utm_source=rss",
+      "pubDate": "2026-07-21T09:57:55.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -220,32 +276,11 @@
       "pubDate": "2026-07-20T19:10:35.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "MagSafe Monday: The RORRY Flow power bank is a travel essential",
-      "url": "https://9to5mac.com/2026/07/20/rorry-flow-power-bank/",
-      "pubDate": "2026-07-20T18:57:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 beta 4 mentions new iPhone model with multi-battery feature",
-      "url": "https://9to5mac.com/2026/07/20/ios-27-beta-4-mentions-new-iphone-model-with-multi-battery-feature/",
-      "pubDate": "2026-07-20T18:43:28.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Seeds watchOS 27 Beta 4 to Developers",
       "url": "https://www.macrumors.com/2026/07/20/apple-seeds-watchos-27-beta-4/",
       "pubDate": "2026-07-20T18:15:01.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Here’s what’s new with iOS 27 beta 4",
-      "url": "https://9to5mac.com/2026/07/20/heres-whats-new-with-ios-27-beta-4/",
-      "pubDate": "2026-07-20T18:03:03.000Z"
     },
     {
       "source": "The Verge",
@@ -260,13 +295,6 @@
       "title": "iOS 26.6 release candidate build surfaces for testing",
       "url": "https://appleinsider.com/articles/26/07/20/sixth-ios-266-macos-266-developer-betas-surface-for-testing?utm_source=rss",
       "pubDate": "2026-07-20T17:25:19.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 26.6 includes key feature that prepares your iPhone for iOS 27",
-      "url": "https://9to5mac.com/2026/07/20/ios-26-6-includes-key-feature-that-prepares-your-iphone-for-ios-27/",
-      "pubDate": "2026-07-20T17:21:56.000Z"
     },
     {
       "source": "MacRumors",
@@ -297,13 +325,6 @@
       "pubDate": "2026-07-20T17:04:00.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Seeds tvOS 27 Beta 4 to Developers",
-      "url": "https://www.macrumors.com/2026/07/20/apple-seeds-tvos-27-beta-4/",
-      "pubDate": "2026-07-20T17:01:00.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "When Find My doesn’t help with separation anxiety",
@@ -311,25 +332,11 @@
       "pubDate": "2026-07-20T17:00:29.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "LG&#8217;s glossy OLED gaming monitor is rare to find under $400",
-      "url": "https://www.theverge.com/gadgets/967993/lg-27-inch-ultragear-glossy-oled-gaming-monitor-deal-sale",
-      "pubDate": "2026-07-20T16:34:24.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "'CODA' director returns to Apple TV with movie about disability activist Judy Heumann",
       "url": "https://appleinsider.com/articles/26/07/20/coda-director-returns-to-apple-tv-with-movie-about-disability-activist-judy-heumann?utm_source=rss",
       "pubDate": "2026-07-20T16:17:28.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "LG’s monitors come with an unwanted addition for Windows: McAfee pop-up ads",
-      "url": "https://www.theverge.com/tech/967983/lg-monitors-mcafee-adware-gamers-nexus",
-      "pubDate": "2026-07-20T16:14:58.000Z"
     },
     {
       "source": "Six Colors",
@@ -358,13 +365,6 @@
       "title": "ClickLock malware makes Macs unusable until victims surrender their passwords",
       "url": "https://appleinsider.com/articles/26/07/20/clicklock-malware-makes-macs-unusable-until-victims-surrender-their-passwords?utm_source=rss",
       "pubDate": "2026-07-20T14:38:56.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "AirPods Max 2 plunge to $449 after Amazon slashes price by $100",
-      "url": "https://appleinsider.com/articles/26/07/20/airpods-max-2-plunge-to-449-after-amazon-slashes-price-by-100?utm_source=rss",
-      "pubDate": "2026-07-20T14:06:24.000Z"
     },
     {
       "source": "Six Colors",
