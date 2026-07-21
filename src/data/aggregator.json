@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T06:42:03.470Z",
+  "generatedAt": "2026-07-21T09:40:54.760Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Testing 7-Inch Display for Largest 20th Anniversary iPhone Model",
+      "url": "https://www.macrumors.com/2026/07/21/iphone-20-pro-max-7-inch-display/",
+      "pubDate": "2026-07-21T09:08:23.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -302,13 +309,6 @@
       "title": "When Find My doesn’t help with separation anxiety",
       "url": "https://sixcolors.com/post/2026/07/when-find-my-doesnt-help-with-separation-anxiety/",
       "pubDate": "2026-07-20T17:00:29.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Seeds watchOS 26.6, tvOS 26.6 and visionOS 26.6 Release Candidates",
-      "url": "https://www.macrumors.com/2026/07/20/watchos-26-6-rc/",
-      "pubDate": "2026-07-20T17:00:00.000Z"
     },
     {
       "source": "The Verge",
