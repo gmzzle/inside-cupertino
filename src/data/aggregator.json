@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T14:23:55.143Z",
+  "generatedAt": "2026-07-21T16:43:11.934Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,139 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Shares Apple Watch SOS Success Story",
+      "url": "https://www.macrumors.com/2026/07/21/apple-watch-sos-success-story/",
+      "pubDate": "2026-07-21T16:26:32.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Reportedly Planning to Wind Down 'iPhone Upgrade Program'",
+      "url": "https://www.macrumors.com/2026/07/21/apple-may-wind-down-iphone-upgrade-program/",
+      "pubDate": "2026-07-21T16:26:03.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Future iMac could come with a removable dock or handle to make it easier to carry",
+      "url": "https://appleinsider.com/articles/26/07/21/future-imac-could-come-with-a-removable-dock-or-handle-to-make-it-easier-to-carry?utm_source=rss",
+      "pubDate": "2026-07-21T16:18:31.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Instagram will let users endlessly swap the audio on old posts",
+      "url": "https://www.theverge.com/news/968243/instagram-creators-replace-audio-tiktok-competition",
+      "pubDate": "2026-07-21T16:15:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Tesla Robotaxis go to Florida",
+      "url": "https://www.theverge.com/transportation/968624/tesla-robotaxis-orlando-tampa-florida-earnings",
+      "pubDate": "2026-07-21T16:11:41.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple Upgrades will let users lease iPhones and Macs with Klarna",
+      "url": "https://appleinsider.com/articles/26/07/21/apple-upgrades-will-let-users-lease-iphones-and-macs-with-klarna?utm_source=rss",
+      "pubDate": "2026-07-21T16:03:06.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple winding down iPhone Upgrade Program: report",
+      "url": "https://9to5mac.com/2026/07/21/apple-winding-down-iphone-upgrade-program-report/",
+      "pubDate": "2026-07-21T15:55:08.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: July 21, 2026 – Apple vs OpenAI update, more",
+      "url": "https://9to5mac.com/2026/07/21/daily-july-21-2026/",
+      "pubDate": "2026-07-21T15:52:27.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Deals: AirTag 2, M5 MacBook Pro $320 off, Philips Hue Bridge Pro, Satechi CubeDock $100 off, more",
+      "url": "https://9to5mac.com/2026/07/21/deals-airtag-2-m5-macbook-pro-philips-hue-bridge-pro/",
+      "pubDate": "2026-07-21T15:31:12.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "'Apple Upgrade' Program Reportedly Launching Next Week",
+      "url": "https://www.macrumors.com/2026/07/21/apple-upgrade-program-launching-next-week/",
+      "pubDate": "2026-07-21T15:30:09.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple debuting new ‘Apple Upgrade’ leasing program next week, per report",
+      "url": "https://9to5mac.com/2026/07/21/apple-debuting-new-apple-upgrade-leasing-program-next-week-per-report/",
+      "pubDate": "2026-07-21T15:26:56.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Meta testing StoryKit, an AI iPhone app that creates ‘personalized children’s stories’",
+      "url": "https://9to5mac.com/2026/07/21/meta-testing-storykit-an-ai-iphone-app-that-creates-personalized-childrens-stories/",
+      "pubDate": "2026-07-21T15:24:38.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Samsung can&#8217;t afford to play it safe with Apple&#8217;s first foldable looming",
+      "url": "https://www.theverge.com/tech/968583/samsung-galaxy-unpacked-wide-z-fold-8-iphone",
+      "pubDate": "2026-07-21T15:20:33.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "This macOS 27 change is my top quality-of-life improvement",
+      "url": "https://9to5mac.com/2026/07/21/this-macos-27-change-is-my-top-quality-of-life-improvement/",
+      "pubDate": "2026-07-21T15:11:29.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The Light Flip is a minimalist flip phone with a point to prove",
+      "url": "https://www.theverge.com/gadgets/968563/light-flip-phone-price-specs",
+      "pubDate": "2026-07-21T15:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Google launches a cheaper alternative to large AI security models like Mythos",
+      "url": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model",
+      "pubDate": "2026-07-21T15:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Stellantis taps Mobileye for hands-free driving assist",
+      "url": "https://www.theverge.com/transportation/968525/stellantis-taps-mobileye-for-hands-free-driving-assist",
+      "pubDate": "2026-07-21T14:42:38.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone 18 Rumor Reality Check: 20 Claims Ranked by Likelihood",
+      "url": "https://www.macrumors.com/2026/07/21/ranked-best-features-rumored-iphone-18/",
+      "pubDate": "2026-07-21T14:32:19.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "As Garmin Cirqa launches, should Apple make a fitness band or ring? [Poll]",
+      "url": "https://9to5mac.com/2026/07/21/as-garmin-cirqa-launches-should-apple-make-a-fitness-band-or-ring-poll/",
+      "pubDate": "2026-07-21T14:26:29.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -73,20 +206,6 @@
       "pubDate": "2026-07-21T13:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Nintendo keeps making shooters more friendly and approachable",
-      "url": "https://www.theverge.com/entertainment/968220/splatoon-raiders-review-nintendo-switch-2",
-      "pubDate": "2026-07-21T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Halliday’s latest smart glasses feature a much-improved display",
-      "url": "https://www.theverge.com/tech/968255/halliday-gen-2-smart-glasses-hands-on-ai-wearables",
-      "pubDate": "2026-07-21T13:00:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Expect 2027 iPhones to cost more as TSMC increases chip prices",
@@ -108,13 +227,6 @@
       "pubDate": "2026-07-21T11:26:09.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "America needs to stop getting shocked by Chinese AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment",
-      "pubDate": "2026-07-21T11:08:56.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Chipmaker TSMC Plans Price Hikes of Up to 10% in 2027",
@@ -127,13 +239,6 @@
       "title": "Largest ever iPhone screen arriving next year, suggests leaker",
       "url": "https://9to5mac.com/2026/07/21/largest-ever-iphone-screen-arriving-next-year-suggests-leaker/",
       "pubDate": "2026-07-21T10:52:04.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Who’s afraid of the big, bad GPU?",
-      "url": "https://www.theverge.com/cs/features/937356/ai-data-center-gpu-environmental-impact",
-      "pubDate": "2026-07-21T10:00:01.000Z"
     },
     {
       "source": "9to5Mac",
@@ -171,13 +276,6 @@
       "pubDate": "2026-07-21T02:33:04.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 beta 4 adds a useful Apple TV app feature, here’s how it works",
-      "url": "https://9to5mac.com/2026/07/20/ios-27-beta-4-adds-a-useful-apple-tv-app-feature-heres-how-it-works/",
-      "pubDate": "2026-07-21T00:25:03.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Samsung Debuts Galaxy Card With 5% Cash Back to Take On Apple Card",
@@ -190,20 +288,6 @@
       "title": "Origin Story: ‘Rage Against the Machine’ ↦",
       "url": "https://sixcolors.com/link/2026/07/origin-story-rage-against-the-machine/",
       "pubDate": "2026-07-20T23:08:33.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Here are the 30,000 songs Sony is suing Udio&#8217;s AI music generator over",
-      "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
-      "pubDate": "2026-07-20T22:19:12.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The FCC is planning to retroactively ban disguised DJI gadgets",
-      "url": "https://www.theverge.com/news/968310/fcc-dji-drone-camera-ban-skyrover-xtra",
-      "pubDate": "2026-07-20T22:16:14.000Z"
     },
     {
       "source": "Six Colors",
@@ -220,34 +304,6 @@
       "pubDate": "2026-07-20T21:50:52.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple leases 126,000-square-foot office building in Sunnyvale",
-      "url": "https://9to5mac.com/2026/07/20/apple-leases-126000-square-foot-office-building-in-sunnyvale/",
-      "pubDate": "2026-07-20T21:27:16.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Volvo adds Apple Music to more than 2 million cars, with up to three months free",
-      "url": "https://9to5mac.com/2026/07/20/volvo-adds-apple-music-to-more-than-2-million-cars-with-up-to-three-months-free/",
-      "pubDate": "2026-07-20T21:06:08.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone 18 Pro’s new A20 chip  rumored to bring two major upgrades",
-      "url": "https://9to5mac.com/2026/07/20/iphone-18-pros-new-a20-chip-rumored-to-bring-two-major-upgrades/",
-      "pubDate": "2026-07-20T20:34:11.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Report: App Store added nearly as many new apps in H1 2026 as in all of 2025",
-      "url": "https://9to5mac.com/2026/07/20/report-app-store-added-nearly-as-many-new-apps-in-h1-2026-as-in-all-of-2025/",
-      "pubDate": "2026-07-20T20:29:18.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple adds another office to its Sunnyvale collection",
@@ -255,25 +311,11 @@
       "pubDate": "2026-07-20T20:20:04.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Music in iOS 27: Five new features coming to your iPhone",
-      "url": "https://9to5mac.com/2026/07/20/apple-music-in-ios-27-five-new-features-coming-to-your-iphone/",
-      "pubDate": "2026-07-20T20:09:22.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Watch Series 12 Coming in September With These New Features",
       "url": "https://www.macrumors.com/2026/07/20/apple-watch-series-12-rumored-features/",
       "pubDate": "2026-07-20T20:00:46.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 26.6: New features, release date, more",
-      "url": "https://9to5mac.com/2026/07/20/ios-26-6-new-features-release-date-more/",
-      "pubDate": "2026-07-20T19:47:22.000Z"
     },
     {
       "source": "AppleInsider",
@@ -297,39 +339,11 @@
       "pubDate": "2026-07-20T19:24:21.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27 Code References iPhone With Two Batteries",
-      "url": "https://www.macrumors.com/2026/07/20/ios-27-dual-battery-iphone/",
-      "pubDate": "2026-07-20T19:10:35.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Seeds watchOS 27 Beta 4 to Developers",
-      "url": "https://www.macrumors.com/2026/07/20/apple-seeds-watchos-27-beta-4/",
-      "pubDate": "2026-07-20T18:15:01.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "iOS 26.6 release candidate build surfaces for testing",
       "url": "https://appleinsider.com/articles/26/07/20/sixth-ios-266-macos-266-developer-betas-surface-for-testing?utm_source=rss",
       "pubDate": "2026-07-20T17:25:19.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Releases macOS Golden Gate Beta 4",
-      "url": "https://www.macrumors.com/2026/07/20/apple-releases-macos-27-beta-4/",
-      "pubDate": "2026-07-20T17:10:42.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Seeds Fourth iOS 27 and iPadOS 27 Betas to Developers",
-      "url": "https://www.macrumors.com/2026/07/20/apple-seeds-ios-27-beta-4/",
-      "pubDate": "2026-07-20T17:06:23.000Z"
     },
     {
       "source": "Six Colors",
@@ -351,20 +365,6 @@
       "title": "(Sponsor) Magic Lasso Adblock: Effortlessly block ads on your iPhone, iPad, Mac and Apple TV",
       "url": "https://sixcolors.com/feed-only/2026/07/magic-lasso-adblock-effortlessly-block-ads-on-your-iphone-ipad-mac-and-apple-tv-6/",
       "pubDate": "2026-07-20T16:00:30.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Fixing ISP-provided routers, public betas, & more on Smart Home Insider",
-      "url": "https://appleinsider.com/articles/26/07/20/fixing-isp-provided-routers-public-betas-more-on-smart-home-insider?utm_source=rss",
-      "pubDate": "2026-07-20T15:55:19.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Amazon's $89 AirTag 2 deal delivers record-low price on 4-pack",
-      "url": "https://appleinsider.com/articles/26/07/20/amazons-89-airtag-2-deal-delivers-record-low-price-on-4-pack?utm_source=rss",
-      "pubDate": "2026-07-20T14:51:19.000Z"
     },
     {
       "source": "Six Colors",
