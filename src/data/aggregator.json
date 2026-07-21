@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T12:01:20.355Z",
+  "generatedAt": "2026-07-21T14:23:55.143Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,76 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Score the A16 iPad for Its Best Price Since June's Hike",
+      "url": "https://www.macrumors.com/2026/07/21/get-the-a16-ipad-for-399/",
+      "pubDate": "2026-07-21T14:15:29.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone 18 Pro: New display upgrades are coming in two ways",
+      "url": "https://9to5mac.com/2026/07/21/iphone-18-pro-new-display-upgrades-are-coming-in-two-ways/",
+      "pubDate": "2026-07-21T14:04:43.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "A touchscreen and light make the new X4 Pro the best version of Xteink’s tiny e-readers",
+      "url": "https://www.theverge.com/tech/966560/xteink-e-ink-e-reader-x4-pro-touchscreen-light-hands-on",
+      "pubDate": "2026-07-21T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Garmin’s new screen-free fitness tracker doesn’t require a subscription",
+      "url": "https://www.theverge.com/tech/968551/garmin-cirqa-smart-band-fitness-tracker-wearables",
+      "pubDate": "2026-07-21T13:33:27.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The Switch 2 is $50 off at Woot for new customers",
+      "url": "https://www.theverge.com/gadgets/968325/woot-switch-2-coupon-discount-code-deal-sale",
+      "pubDate": "2026-07-21T13:27:32.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iOS 26.6 Prepares Your iPhone for iOS 27",
+      "url": "https://www.macrumors.com/2026/07/21/ios-26-6-prepares-for-ios-27/",
+      "pubDate": "2026-07-21T13:19:01.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The wireless headset that gets hot-swappable batteries right",
+      "url": "https://www.theverge.com/tech/967153/glorious-infiniteplay-wireless-gaming-headset-hands-on",
+      "pubDate": "2026-07-21T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Nintendo keeps making shooters more friendly and approachable",
+      "url": "https://www.theverge.com/entertainment/968220/splatoon-raiders-review-nintendo-switch-2",
+      "pubDate": "2026-07-21T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Halliday’s latest smart glasses feature a much-improved display",
+      "url": "https://www.theverge.com/tech/968255/halliday-gen-2-smart-glasses-hands-on-ai-wearables",
+      "pubDate": "2026-07-21T13:00:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Expect 2027 iPhones to cost more as TSMC increases chip prices",
+      "url": "https://appleinsider.com/articles/26/07/21/expect-2027-iphones-to-cost-more-as-tsmc-increases-chip-prices?utm_source=rss",
+      "pubDate": "2026-07-21T12:10:23.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -150,13 +220,6 @@
       "pubDate": "2026-07-20T21:50:52.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Odyssey turned me into an IMAX believer",
-      "url": "https://www.theverge.com/entertainment/968337/the-odyssey-imax-screenings-christopher-nolan",
-      "pubDate": "2026-07-20T21:47:37.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Apple leases 126,000-square-foot office building in Sunnyvale",
@@ -169,13 +232,6 @@
       "title": "Volvo adds Apple Music to more than 2 million cars, with up to three months free",
       "url": "https://9to5mac.com/2026/07/20/volvo-adds-apple-music-to-more-than-2-million-cars-with-up-to-three-months-free/",
       "pubDate": "2026-07-20T21:06:08.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "SpaceX in your index fund, explained",
-      "url": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
-      "pubDate": "2026-07-20T21:00:00.000Z"
     },
     {
       "source": "9to5Mac",
@@ -206,20 +262,6 @@
       "pubDate": "2026-07-20T20:09:22.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Get Borderlands 3, Risk of Rain 2 and 13 other great PC games for $15",
-      "url": "https://www.theverge.com/gadgets/968191/humble-2k-megahits-bundle-xcom-borderlands-duke-nukem-deal-sale",
-      "pubDate": "2026-07-20T20:08:51.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The PlayStation replica ornament is an homage to a great, yet fragile console",
-      "url": "https://www.theverge.com/tech/967989/hallmark-keepsake-playstation-ornament-hands-on",
-      "pubDate": "2026-07-20T20:06:40.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Watch Series 12 Coming in September With These New Features",
@@ -248,25 +290,11 @@
       "pubDate": "2026-07-20T19:35:59.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "WhatsApp rolling out Liquid Glass revamp to its Mac app",
-      "url": "https://9to5mac.com/2026/07/20/whatsapp-rolling-out-liquid-glass-revamp-to-its-mac-app/",
-      "pubDate": "2026-07-20T19:35:04.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Seeds Fourth visionOS 27 Beta to Developers",
       "url": "https://www.macrumors.com/2026/07/20/apple-seeds-visionos-27-beta-4/",
       "pubDate": "2026-07-20T19:24:21.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Ford&#8217;s $30,000 electric truck: all the news about the company&#8217;s big EV re-do",
-      "url": "https://www.theverge.com/transportation/968205/ford-electric-truck-uev-30000-affordable",
-      "pubDate": "2026-07-20T19:18:45.000Z"
     },
     {
       "source": "MacRumors",
@@ -281,13 +309,6 @@
       "title": "Apple Seeds watchOS 27 Beta 4 to Developers",
       "url": "https://www.macrumors.com/2026/07/20/apple-seeds-watchos-27-beta-4/",
       "pubDate": "2026-07-20T18:15:01.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Judge pauses Paramount’s attempt to buy Warner Bros. Discovery",
-      "url": "https://www.theverge.com/business/968055/paramount-wbd-merger-pause-tro",
-      "pubDate": "2026-07-20T17:37:53.000Z"
     },
     {
       "source": "AppleInsider",
@@ -309,20 +330,6 @@
       "title": "Apple Seeds Fourth iOS 27 and iPadOS 27 Betas to Developers",
       "url": "https://www.macrumors.com/2026/07/20/apple-seeds-ios-27-beta-4/",
       "pubDate": "2026-07-20T17:06:23.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Seeds iOS 26.6 and iPadOS 26.6 Release Candidates",
-      "url": "https://www.macrumors.com/2026/07/20/apple-seeds-ios-26-6-beta-6/",
-      "pubDate": "2026-07-20T17:05:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Seeds macOS Tahoe 26.6 Release Candidate",
-      "url": "https://www.macrumors.com/2026/07/20/apple-seeds-macos-tahoe-26-6-beta-6/",
-      "pubDate": "2026-07-20T17:04:00.000Z"
     },
     {
       "source": "Six Colors",
@@ -358,13 +365,6 @@
       "title": "Amazon's $89 AirTag 2 deal delivers record-low price on 4-pack",
       "url": "https://appleinsider.com/articles/26/07/20/amazons-89-airtag-2-deal-delivers-record-low-price-on-4-pack?utm_source=rss",
       "pubDate": "2026-07-20T14:51:19.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "ClickLock malware makes Macs unusable until victims surrender their passwords",
-      "url": "https://appleinsider.com/articles/26/07/20/clicklock-malware-makes-macs-unusable-until-victims-surrender-their-passwords?utm_source=rss",
-      "pubDate": "2026-07-20T14:38:56.000Z"
     },
     {
       "source": "Six Colors",
