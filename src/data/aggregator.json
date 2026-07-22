@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T09:39:18.361Z",
+  "generatedAt": "2026-07-22T12:03:52.802Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,62 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone 18 Pro reportedly enters mass production ahead of September launch",
+      "url": "https://9to5mac.com/2026/07/22/iphone-18-pro-reportedly-enters-mass-production-ahead-of-september-launch/",
+      "pubDate": "2026-07-22T11:42:08.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Don't miss a payment with Apple Upgrade or your iPhone will be locked",
+      "url": "https://appleinsider.com/articles/26/07/22/dont-miss-a-payment-with-apple-upgrade-or-your-iphone-will-be-locked?utm_source=rss",
+      "pubDate": "2026-07-22T11:37:39.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "The reported Apple Upgrade program raises a very big concern",
+      "url": "https://9to5mac.com/2026/07/22/the-reported-apple-upgrade-program-raises-a-very-big-concern/",
+      "pubDate": "2026-07-22T11:19:45.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Foxconn Ramps Up Hiring as iPhone 18 Pro Enters Mass Production",
+      "url": "https://www.macrumors.com/2026/07/22/iphone-18-pro-enters-mass-production/",
+      "pubDate": "2026-07-22T11:16:33.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: July 22, 2026 – iOS 27 beta 4 and iOS 26.6 RC",
+      "url": "https://9to5mac.com/2026/07/22/daily-july-22-2026/",
+      "pubDate": "2026-07-22T11:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Meta made its own AI detection system. It should have just used Google’s",
+      "url": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
+      "pubDate": "2026-07-22T11:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The 2026 Honda Prelude is a marvel of hybrid technology",
+      "url": "https://www.theverge.com/transportation/968772/honda-prelude-hybrid-2026-review-specs-price",
+      "pubDate": "2026-07-22T11:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Utility companies promise to spare us from AI’s energy bill",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump",
+      "pubDate": "2026-07-22T10:12:13.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -178,13 +234,6 @@
       "pubDate": "2026-07-21T19:32:30.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Invites app updated with two new invitation features for hosts and guests",
-      "url": "https://9to5mac.com/2026/07/21/apple-invites-app-updated-with-two-new-invitation-features-for-hosts-and-guests/",
-      "pubDate": "2026-07-21T19:28:41.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Substack adds an AI detector to help spot blogs written by no one",
@@ -192,25 +241,11 @@
       "pubDate": "2026-07-21T19:22:28.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple’s new hardware subscription sounds great, except for one limitation",
-      "url": "https://9to5mac.com/2026/07/21/apples-new-hardware-subscription-sounds-great-except-for-one-limitation/",
-      "pubDate": "2026-07-21T19:17:04.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Best Buy Offers $160 Off All iPhone Air Models During Black Friday in July",
       "url": "https://www.macrumors.com/2026/07/21/best-buy-iphone-air-models/",
       "pubDate": "2026-07-21T18:47:16.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple just improved TestFlight for users with a lot of beta apps",
-      "url": "https://9to5mac.com/2026/07/21/apple-just-improved-testflight-for-users-with-a-lot-of-beta-apps/",
-      "pubDate": "2026-07-21T18:28:58.000Z"
     },
     {
       "source": "The Verge",
@@ -255,20 +290,6 @@
       "pubDate": "2026-07-21T17:11:08.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Twitch will let parents stop their teens going live",
-      "url": "https://www.theverge.com/tech/968480/twitch-parental-controls-block-streaming-live-dms",
-      "pubDate": "2026-07-21T17:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Anthropic’s $1.5 billion book piracy settlement approved by judge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved",
-      "pubDate": "2026-07-21T16:53:37.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Shares Apple Watch SOS Success Story",
@@ -288,13 +309,6 @@
       "title": "Future iMac could come with a removable dock or handle to make it easier to carry",
       "url": "https://appleinsider.com/articles/26/07/21/future-imac-could-come-with-a-removable-dock-or-handle-to-make-it-easier-to-carry?utm_source=rss",
       "pubDate": "2026-07-21T16:18:31.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Instagram will let users endlessly swap the audio on old posts",
-      "url": "https://www.theverge.com/news/968243/instagram-creators-replace-audio-tiktok-competition",
-      "pubDate": "2026-07-21T16:15:00.000Z"
     },
     {
       "source": "AppleInsider",
@@ -318,13 +332,6 @@
       "pubDate": "2026-07-21T14:32:19.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Score the A16 iPad for Its Best Price Since June's Hike",
-      "url": "https://www.macrumors.com/2026/07/21/get-the-a16-ipad-for-399/",
-      "pubDate": "2026-07-21T14:15:29.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Expect 2027 iPhones to cost more as TSMC increases chip prices",
@@ -337,13 +344,6 @@
       "title": "iPhone 20 Pro Max may get Apple's largest ever iPhone screen at 7 inches",
       "url": "https://appleinsider.com/articles/26/07/21/iphone-20-pro-max-may-get-apples-largest-ever-iphone-screen-at-7-inches?utm_source=rss",
       "pubDate": "2026-07-21T09:57:55.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "How to roll back macOS Golden Gate on Apple Silicon",
-      "url": "https://appleinsider.com/inside/macos-golden-gate/tips/how-to-roll-back-macos-golden-gate-on-apple-silicon?utm_source=rss",
-      "pubDate": "2026-07-21T03:00:34.000Z"
     },
     {
       "source": "Six Colors",
