@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T06:43:06.333Z",
+  "generatedAt": "2026-07-22T09:39:18.361Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "The iPhone 18 Pro's Rumored Camera Upgrade, Explained",
+      "url": "https://www.macrumors.com/2026/07/22/the-iphone-18-pro-variable-camera-aperture/",
+      "pubDate": "2026-07-22T09:15:05.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -316,13 +323,6 @@
       "title": "Score the A16 iPad for Its Best Price Since June's Hike",
       "url": "https://www.macrumors.com/2026/07/21/get-the-a16-ipad-for-399/",
       "pubDate": "2026-07-21T14:15:29.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 26.6 Prepares Your iPhone for iOS 27",
-      "url": "https://www.macrumors.com/2026/07/21/ios-26-6-prepares-for-ios-27/",
-      "pubDate": "2026-07-21T13:19:01.000Z"
     },
     {
       "source": "AppleInsider",
