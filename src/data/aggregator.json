@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T12:03:52.802Z",
+  "generatedAt": "2026-07-22T14:23:06.714Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,139 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple Park Visitor Center shuts its Exhibition Space for improvements",
+      "url": "https://appleinsider.com/articles/26/07/22/apple-park-visitor-center-shuts-its-exhibition-space-for-improvements?utm_source=rss",
+      "pubDate": "2026-07-22T14:12:30.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Review: Xteink X3 is the little e-reader the world’s not quite ready for",
+      "url": "https://sixcolors.com/post/2026/07/review-xteink-x3-is-the-little-e-reader-the-worlds-not-quite-ready-for/",
+      "pubDate": "2026-07-22T14:00:21.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "WhatsApp launches Apple Music sharing, plus more",
+      "url": "https://9to5mac.com/2026/07/22/whatsapp-launches-apple-music-sharing-plus-more/",
+      "pubDate": "2026-07-22T13:59:22.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Apple’s reported upgrade program revamp could be a big downgrade",
+      "url": "https://sixcolors.com/post/2026/07/apples-reported-upgrade-program-revamp-could-be-a-big-downgrade/",
+      "pubDate": "2026-07-22T13:46:30.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "New iPhone screen sizes are launching this fall, here’s what’s coming",
+      "url": "https://9to5mac.com/2026/07/22/new-iphone-screen-sizes-are-launching-this-fall-heres-whats-coming/",
+      "pubDate": "2026-07-22T13:37:29.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "At last, WhatsApp for iPad can be set up without another device",
+      "url": "https://appleinsider.com/articles/26/07/22/at-last-whatsapp-for-ipad-can-be-set-up-without-another-device?utm_source=rss",
+      "pubDate": "2026-07-22T13:31:45.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Park Visitor Center partially closed for store improvements",
+      "url": "https://9to5mac.com/2026/07/22/apple-park-visitor-center-partially-closed-for-store-improvements/",
+      "pubDate": "2026-07-22T13:16:27.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Adobe brings Acrobat integration directly to WhatsApp Web",
+      "url": "https://9to5mac.com/2026/07/22/adobe-brings-acrobat-integration-directly-to-whatsapp-web/",
+      "pubDate": "2026-07-22T13:14:09.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Hands-On With Samsung's Galaxy Z Fold8, the Closest Thing Yet to a Foldable iPhone",
+      "url": "https://www.macrumors.com/2026/07/22/samsung-galaxy-z-fold8/",
+      "pubDate": "2026-07-22T13:01:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "WhatsApp Announces New CarPlay Experience, iPad Sign-Up, and More",
+      "url": "https://www.macrumors.com/2026/07/22/whatsapp-announces-new-carplay/",
+      "pubDate": "2026-07-22T13:00:07.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Samsung’s newest foldable finally feels Ultra",
+      "url": "https://www.theverge.com/gadgets/968200/samsung-galaxy-z-fold-8-ultra-announced-hands-on-photos",
+      "pubDate": "2026-07-22T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Samsung’s wider Z Fold 8 feels just right",
+      "url": "https://www.theverge.com/tech/968663/samsung-galaxy-z-fold-8-wide-hands-on",
+      "pubDate": "2026-07-22T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Samsung’s Galaxy Watch 9 and Ultra 2 bet big on battery",
+      "url": "https://www.theverge.com/tech/968728/samsung-galaxy-watch-9-ultra-2-hands-on-wearables-smartwatches",
+      "pubDate": "2026-07-22T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "I almost forgot Samsung’s Z Flip 8 was a foldable",
+      "url": "https://www.theverge.com/gadgets/968883/samsung-galaxy-z-flip-8-announced-hands-on",
+      "pubDate": "2026-07-22T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Samsung Galaxy Unpacked 2026: The 6 biggest announcements",
+      "url": "https://www.theverge.com/tech/969208/samsung-galaxy-unpacked-2026-everything-announced",
+      "pubDate": "2026-07-22T13:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Says 'Update in Progress' at Visitor Center",
+      "url": "https://www.macrumors.com/2026/07/22/apple-park-visitor-center-update-in-progress/",
+      "pubDate": "2026-07-22T12:49:17.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "It has begun: Foxconn amassing army of workers for iPhone 18 Pro assembly",
+      "url": "https://appleinsider.com/articles/26/07/22/it-has-begun-foxconn-amassing-army-of-workers-for-iphone-18-pro-assembly?utm_source=rss",
+      "pubDate": "2026-07-22T12:45:07.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Here are some discreet ways to add an AirTag to your camera",
+      "url": "https://9to5mac.com/2026/07/22/here-are-some-discreet-ways-to-add-an-airtag-to-your-camera/",
+      "pubDate": "2026-07-22T12:42:59.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Samsung Unpacked 2026: all the news from the July foldable launch",
+      "url": "https://www.theverge.com/tech/967942/samsung-galaxy-unpacked-july-2026-news",
+      "pubDate": "2026-07-22T12:30:00.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -49,7 +182,7 @@
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Foxconn Ramps Up Hiring as iPhone 18 Pro Enters Mass Production",
       "url": "https://www.macrumors.com/2026/07/22/iphone-18-pro-enters-mass-production/",
-      "pubDate": "2026-07-22T11:16:33.000Z"
+      "pubDate": "2026-07-22T11:16:23.000Z"
     },
     {
       "source": "9to5Mac",
@@ -150,53 +283,11 @@
       "pubDate": "2026-07-21T22:19:01.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over",
-      "url": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
-      "pubDate": "2026-07-21T22:06:43.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
-      "pubDate": "2026-07-21T21:48:54.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple shares true story video on how Apple Watch helped rescue an injured cyclist",
-      "url": "https://9to5mac.com/2026/07/21/apple-shares-true-story-video-on-how-apple-watch-helped-rescue-an-injured-cyclist/",
-      "pubDate": "2026-07-21T21:27:28.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple's $634M payment to Masimo now set in stone after Judge tosses appeal",
       "url": "https://appleinsider.com/articles/26/07/21/apples-634m-payment-to-masimo-now-set-in-stone-after-judge-tosses-appeal?utm_source=rss",
       "pubDate": "2026-07-21T21:23:42.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone Air 2 is coming, here’s everything we know so far",
-      "url": "https://9to5mac.com/2026/07/21/iphone-air-2-is-coming-heres-everything-we-know-so-far/",
-      "pubDate": "2026-07-21T20:47:24.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple TV drops trailer for Women in Blue’s second season",
-      "url": "https://9to5mac.com/2026/07/21/apple-tv-drops-trailer-for-women-in-blues-second-season/",
-      "pubDate": "2026-07-21T20:45:01.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 code suggests Apple could restrict leased devices after missed payments",
-      "url": "https://9to5mac.com/2026/07/21/ios-27-code-suggests-apple-could-restrict-leased-devices-after-missed-payments/",
-      "pubDate": "2026-07-21T20:28:19.000Z"
     },
     {
       "source": "AppleInsider",
@@ -213,13 +304,6 @@
       "pubDate": "2026-07-21T19:55:31.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone 18 Pro release date: Here’s when Apple’s new model is coming",
-      "url": "https://9to5mac.com/2026/07/21/iphone-18-release-date-when-apples-new-model-is-coming/",
-      "pubDate": "2026-07-21T19:48:10.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "A fake Hide My Email header can expose the address behind your Apple Account",
@@ -234,25 +318,11 @@
       "pubDate": "2026-07-21T19:32:30.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Substack adds an AI detector to help spot blogs written by no one",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
-      "pubDate": "2026-07-21T19:22:28.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Best Buy Offers $160 Off All iPhone Air Models During Black Friday in July",
       "url": "https://www.macrumors.com/2026/07/21/best-buy-iphone-air-models/",
       "pubDate": "2026-07-21T18:47:16.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Peak Design’s modular Field Bracket has a finder tag built-in",
-      "url": "https://www.theverge.com/gadgets/968771/peak-design-camera-field-bracket-kickstarter",
-      "pubDate": "2026-07-21T18:12:02.000Z"
     },
     {
       "source": "AppleInsider",
@@ -269,20 +339,6 @@
       "pubDate": "2026-07-21T17:16:43.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Nearly every Kindle is steeply discounted at Best Buy",
-      "url": "https://www.theverge.com/gadgets/968356/kindle-paperwhite-colorsoft-scribe-deal-sale",
-      "pubDate": "2026-07-21T17:13:23.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple’s rumored ‘Upgrade’ program brings lease-to-own pricing for iPhones, Macs, and iPads",
-      "url": "https://www.theverge.com/tech/968750/apple-upgrade-program",
-      "pubDate": "2026-07-21T17:12:06.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Patches Hide My Email Flaw More Than a Year After It Was Reported",
@@ -297,53 +353,11 @@
       "pubDate": "2026-07-21T16:26:32.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Reportedly Planning to Wind Down 'iPhone Upgrade Program'",
-      "url": "https://www.macrumors.com/2026/07/21/apple-may-wind-down-iphone-upgrade-program/",
-      "pubDate": "2026-07-21T16:26:03.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Future iMac could come with a removable dock or handle to make it easier to carry",
       "url": "https://appleinsider.com/articles/26/07/21/future-imac-could-come-with-a-removable-dock-or-handle-to-make-it-easier-to-carry?utm_source=rss",
       "pubDate": "2026-07-21T16:18:31.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple Upgrades will let users lease iPhones and Macs with Klarna",
-      "url": "https://appleinsider.com/articles/26/07/21/apple-upgrades-will-let-users-lease-iphones-and-macs-with-klarna?utm_source=rss",
-      "pubDate": "2026-07-21T16:03:06.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "'Apple Upgrade' Program Reportedly Launching Next Week",
-      "url": "https://www.macrumors.com/2026/07/21/apple-upgrade-program-launching-next-week/",
-      "pubDate": "2026-07-21T15:30:09.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone 18 Rumor Reality Check: 20 Claims Ranked by Likelihood",
-      "url": "https://www.macrumors.com/2026/07/21/ranked-best-features-rumored-iphone-18/",
-      "pubDate": "2026-07-21T14:32:19.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Expect 2027 iPhones to cost more as TSMC increases chip prices",
-      "url": "https://appleinsider.com/articles/26/07/21/expect-2027-iphones-to-cost-more-as-tsmc-increases-chip-prices?utm_source=rss",
-      "pubDate": "2026-07-21T12:10:23.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPhone 20 Pro Max may get Apple's largest ever iPhone screen at 7 inches",
-      "url": "https://appleinsider.com/articles/26/07/21/iphone-20-pro-max-may-get-apples-largest-ever-iphone-screen-at-7-inches?utm_source=rss",
-      "pubDate": "2026-07-21T09:57:55.000Z"
     },
     {
       "source": "Six Colors",
@@ -358,20 +372,6 @@
       "title": "(Podcast) Upgrade 629: Jony Ive Loves a Handle",
       "url": "https://sixcolors.com/podcast/2026/07/upgrade-629-jony-ive-loves-a-handle/",
       "pubDate": "2026-07-20T22:07:58.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "When Find My doesn’t help with separation anxiety",
-      "url": "https://sixcolors.com/post/2026/07/when-find-my-doesnt-help-with-separation-anxiety/",
-      "pubDate": "2026-07-20T17:00:29.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Sponsor) Magic Lasso Adblock: Effortlessly block ads on your iPhone, iPad, Mac and Apple TV",
-      "url": "https://sixcolors.com/feed-only/2026/07/magic-lasso-adblock-effortlessly-block-ads-on-your-iphone-ipad-mac-and-apple-tv-6/",
-      "pubDate": "2026-07-20T16:00:30.000Z"
     }
   ]
 }
