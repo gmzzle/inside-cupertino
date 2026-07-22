@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T23:13:54.728Z",
+  "generatedAt": "2026-07-22T00:10:35.242Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Claude Code Can Now Build and Test iOS Apps in Apple's Simulator",
+      "url": "https://www.macrumors.com/2026/07/21/claude-code-ios-simulator/",
+      "pubDate": "2026-07-21T23:46:44.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -316,13 +323,6 @@
       "title": "iPhone 20 Pro Max may get Apple's largest ever iPhone screen at 7 inches",
       "url": "https://appleinsider.com/articles/26/07/21/iphone-20-pro-max-may-get-apples-largest-ever-iphone-screen-at-7-inches?utm_source=rss",
       "pubDate": "2026-07-21T09:57:55.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Testing 7-Inch Display for Largest 20th Anniversary iPhone Model",
-      "url": "https://www.macrumors.com/2026/07/21/iphone-20-pro-max-7-inch-display/",
-      "pubDate": "2026-07-21T09:08:23.000Z"
     },
     {
       "source": "AppleInsider",
