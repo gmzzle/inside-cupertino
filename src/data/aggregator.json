@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T20:31:03.697Z",
+  "generatedAt": "2026-07-23T22:15:30.690Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,55 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Geekbench 7 is out with overhauled performance tests for CPU and GPU workloads",
+      "url": "https://9to5mac.com/2026/07/23/geekbench-7-is-out-with-overhauled-performance-tests-for-cpu-and-gpu-workloads/",
+      "pubDate": "2026-07-23T22:05:31.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "10 iOS 27 Performance Improvements You'll Actually Notice",
+      "url": "https://www.macrumors.com/guide/ios-27-performance-improvements/",
+      "pubDate": "2026-07-23T22:02:58.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
+      "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+      "pubDate": "2026-07-23T21:15:06.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone Driver's Licenses May Soon Expand to New State",
+      "url": "https://www.macrumors.com/2026/07/23/iphone-drivers-licenses-utah/",
+      "pubDate": "2026-07-23T20:58:38.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The Echo Show 21 is a great smart home hub that’s $80 off",
+      "url": "https://www.theverge.com/gadgets/970254/amazon-echo-show-21-deal-sale",
+      "pubDate": "2026-07-23T20:36:40.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Opera One browser joins the vertical tab club, expands Google Lens integration",
+      "url": "https://9to5mac.com/2026/07/23/opera-one-browser-joins-the-vertical-tab-club-expands-google-lens-integration/",
+      "pubDate": "2026-07-23T20:35:12.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Here’s everything new for Messages in iOS 27",
+      "url": "https://9to5mac.com/2026/07/23/heres-everything-new-for-messages-in-ios-27/",
+      "pubDate": "2026-07-23T20:34:08.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -213,20 +262,6 @@
       "pubDate": "2026-07-23T16:16:15.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 gives Apple Photos a very useful feature I’ve wanted for years",
-      "url": "https://9to5mac.com/2026/07/23/ios-27-gives-apple-photos-a-very-useful-feature-ive-wanted-for-years/",
-      "pubDate": "2026-07-23T16:03:14.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Microsoft is testing free, ad-supported cloud gaming for Xbox Insiders",
-      "url": "https://www.theverge.com/games/969969/xbox-testing-ad-supported-streaming",
-      "pubDate": "2026-07-23T16:00:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple TV is branching out with a self-help eight-part dating docuseries",
@@ -253,27 +288,6 @@
       "title": "5 Reasons to Buy the iPhone 17 Now Instead of Waiting for iPhone 18",
       "url": "https://www.macrumors.com/2026/07/23/5-reasons-buy-iphone-17-not-waiting-iphone-18/",
       "pubDate": "2026-07-23T15:26:53.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: M5 Pro MacBook Pro $320 off, Series 11 from $299, AirPods Pro 3, Satechi 25W MagSafe stand 40% off, more",
-      "url": "https://9to5mac.com/2026/07/23/deals-macbook-pro-series-11-airpods-25w-magsafe/",
-      "pubDate": "2026-07-23T15:25:42.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Google introduces new ‘selfie video’ sign-in method",
-      "url": "https://9to5google.com/2026/07/23/google-account-selfie-video/",
-      "pubDate": "2026-07-23T15:15:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The new Halo remake is a reminder of what Xbox used to be",
-      "url": "https://www.theverge.com/entertainment/969563/halo-campaign-evolved-review-xbox-ps5-pc",
-      "pubDate": "2026-07-23T15:00:00.000Z"
     },
     {
       "source": "Six Colors",
@@ -332,25 +346,11 @@
       "pubDate": "2026-07-23T12:39:17.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Foldable iPhone Still Faces Production Hurdles, Report Says",
-      "url": "https://www.macrumors.com/2026/07/23/foldable-iphone-still-faces-production-hurdles/",
-      "pubDate": "2026-07-23T12:18:17.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple defied a global PC sales slump in Q2 2026 thanks to MacBook Neo",
       "url": "https://appleinsider.com/articles/26/07/23/apple-defied-a-global-pc-sales-slump-in-q2-2026-thanks-to-macbook-neo?utm_source=rss",
       "pubDate": "2026-07-23T11:37:46.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "macOS 27 Beta Hides Trippy Siri 'Voice Pad' Interface With 13 Voices",
-      "url": "https://www.macrumors.com/2026/07/23/macos-27-beta-hidden-siri-voice-ui/",
-      "pubDate": "2026-07-23T10:53:38.000Z"
     },
     {
       "source": "Six Colors",
