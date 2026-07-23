@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T22:16:46.672Z",
+  "generatedAt": "2026-07-23T00:13:44.812Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Brydge ProDock Trio review: An elite space-saving MacBook dock",
+      "url": "https://appleinsider.com/articles/26/07/23/brydge-prodock-trio-review-an-elite-space-saving-macbook-dock?utm_source=rss",
+      "pubDate": "2026-07-23T00:02:13.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple updates macOS 28 guidance with direct encrypted HFS+ to APFS conversion",
+      "url": "https://9to5mac.com/2026/07/22/apple-updates-macos-28-guidance-with-direct-encrypted-hfs-to-apfs-conversion/",
+      "pubDate": "2026-07-22T22:40:12.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "12th-Generation iPad: Everything We Know About Apple's Next Budget Tablet",
+      "url": "https://www.macrumors.com/2026/07/22/12th-generation-ipad-rumor-recap/",
+      "pubDate": "2026-07-22T22:38:44.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -283,13 +304,6 @@
       "pubDate": "2026-07-22T15:00:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple’s huge Mac roadmap revealed in new report",
-      "url": "https://9to5mac.com/2026/07/22/apples-huge-mac-roadmap-revealed-in-new-report/",
-      "pubDate": "2026-07-22T14:52:03.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "If you've got this dealer-installed car alarm, patch it today with your iPhone",
@@ -339,13 +353,6 @@
       "pubDate": "2026-07-22T13:01:00.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "WhatsApp Announces New CarPlay Experience, iPad Sign-Up, and More",
-      "url": "https://www.macrumors.com/2026/07/22/whatsapp-announces-new-carplay/",
-      "pubDate": "2026-07-22T13:00:07.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "It has begun: Foxconn amassing army of workers for iPhone 18 Pro assembly",
@@ -358,13 +365,6 @@
       "title": "Don't miss a payment with Apple Upgrade or your iPhone will be locked",
       "url": "https://appleinsider.com/articles/26/07/22/dont-miss-a-payment-with-apple-upgrade-or-your-iphone-will-be-locked?utm_source=rss",
       "pubDate": "2026-07-22T11:37:39.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "How to use iOS 27 Recovery Mode before erasing or restoring your iPhone",
-      "url": "https://appleinsider.com/inside/ios-27/tips/how-to-use-ios-27-recovery-mode-before-erasing-or-restoring-your-iphone?utm_source=rss",
-      "pubDate": "2026-07-22T02:49:35.000Z"
     },
     {
       "source": "Six Colors",
