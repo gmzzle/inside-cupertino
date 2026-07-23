@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T00:13:44.812Z",
+  "generatedAt": "2026-07-23T03:48:36.858Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,11 +24,32 @@
   ],
   "items": [
     {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "MacBook Neo 2: Here’s everything we know so far",
+      "url": "https://9to5mac.com/2026/07/22/macbook-neo-2-features-release-date/",
+      "pubDate": "2026-07-23T00:55:26.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Lego’s Donkey Kong arcade machine lets Mario jump endless barrels — Miyamoto is reportedly happy",
+      "url": "https://www.theverge.com/gadgets/969668/lego-donkey-kong-arcade-machine",
+      "pubDate": "2026-07-23T00:30:00.000Z"
+    },
+    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Brydge ProDock Trio review: An elite space-saving MacBook dock",
       "url": "https://appleinsider.com/articles/26/07/23/brydge-prodock-trio-review-an-elite-space-saving-macbook-dock?utm_source=rss",
       "pubDate": "2026-07-23T00:02:13.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) Clockwise 666: I’m Just Poorer Than You",
+      "url": "https://sixcolors.com/podcast/2026/07/clockwise-666-im-just-poorer-than-you/",
+      "pubDate": "2026-07-22T23:00:00.000Z"
     },
     {
       "source": "9to5Mac",
@@ -85,6 +106,13 @@
       "title": "Tesla’s revenues are bouncing back, but profits are still weak",
       "url": "https://www.theverge.com/transportation/969311/tesla-q2-2026-earnings-revenue-profit-sales",
       "pubDate": "2026-07-22T20:17:46.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "How Apple Wallet's Create a Pass works in iOS 27",
+      "url": "https://appleinsider.com/articles/26/06/09/how-apple-wallets-create-a-pass-works-in-ios-27?utm_source=rss",
+      "pubDate": "2026-07-22T19:32:48.000Z"
     },
     {
       "source": "9to5Mac",
@@ -269,13 +297,6 @@
       "pubDate": "2026-07-22T15:27:54.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: AirTag 2, M5 Pro MacBook Pro $400 off, iPhone 17 Pro $220 off, AirPods Pro 3, Find My EDC gear, more",
-      "url": "https://9to5mac.com/2026/07/22/deals-airtag-2-macbook-pro-iphone-17-pro-airpods-pro-3/",
-      "pubDate": "2026-07-22T15:22:21.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Upgraded Mac Mini, Mac Studio, and OLED iMac are all in the pipeline",
@@ -295,13 +316,6 @@
       "title": "Philips’ new smart toothbrush shows you where you didn’t properly brush",
       "url": "https://www.theverge.com/tech/969271/philip-sonicare-next-generation-diamondclean-9900-prestige-ai-electric-toothbrush",
       "pubDate": "2026-07-22T15:09:44.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Microsoft is bringing original Xbox games to PC",
-      "url": "https://www.theverge.com/news/969117/microsoft-xbox-games-pc-backward-compatibility",
-      "pubDate": "2026-07-22T15:00:00.000Z"
     },
     {
       "source": "AppleInsider",
@@ -358,20 +372,6 @@
       "title": "It has begun: Foxconn amassing army of workers for iPhone 18 Pro assembly",
       "url": "https://appleinsider.com/articles/26/07/22/it-has-begun-foxconn-amassing-army-of-workers-for-iphone-18-pro-assembly?utm_source=rss",
       "pubDate": "2026-07-22T12:45:07.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Don't miss a payment with Apple Upgrade or your iPhone will be locked",
-      "url": "https://appleinsider.com/articles/26/07/22/dont-miss-a-payment-with-apple-upgrade-or-your-iphone-will-be-locked?utm_source=rss",
-      "pubDate": "2026-07-22T11:37:39.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Origin Story: ‘Rage Against the Machine’ ↦",
-      "url": "https://sixcolors.com/link/2026/07/origin-story-rage-against-the-machine/",
-      "pubDate": "2026-07-20T23:08:33.000Z"
     }
   ]
 }
