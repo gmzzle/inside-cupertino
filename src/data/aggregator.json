@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T14:33:12.393Z",
+  "generatedAt": "2026-07-23T16:47:29.899Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,118 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Amazon puts Luna cloud-streamed games like Fallout 4 inside Prime Video",
+      "url": "https://www.theverge.com/streaming/970099/amazon-prime-video-luna-gaming",
+      "pubDate": "2026-07-23T16:39:32.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Pay Promo Offers Discount on Columbia Gear",
+      "url": "https://www.macrumors.com/2026/07/23/apple-pay-columbia-promo/",
+      "pubDate": "2026-07-23T16:38:05.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "'The Morning Show' Returning to Apple TV for a Final Season Next Year",
+      "url": "https://www.macrumors.com/2026/07/23/apple-tv-the-morning-show-final-season/",
+      "pubDate": "2026-07-23T16:32:19.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple announces The Morning Show is ending after season 5",
+      "url": "https://9to5mac.com/2026/07/23/apple-announces-the-morning-show-is-ending-after-season-5/",
+      "pubDate": "2026-07-23T16:16:15.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 gives Apple Photos a very useful feature I’ve wanted for years",
+      "url": "https://9to5mac.com/2026/07/23/ios-27-gives-apple-photos-a-very-useful-feature-ive-wanted-for-years/",
+      "pubDate": "2026-07-23T16:03:14.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Microsoft is testing free, ad-supported cloud gaming for Xbox Insiders",
+      "url": "https://www.theverge.com/games/969969/xbox-testing-ad-supported-streaming",
+      "pubDate": "2026-07-23T16:00:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple TV is branching out with a self-help eight-part dating docuseries",
+      "url": "https://appleinsider.com/articles/26/07/23/apple-tv-is-branching-out-with-a-self-help-eight-part-dating-docuseries?utm_source=rss",
+      "pubDate": "2026-07-23T15:59:42.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Opera One Browser Adds Vertical Tabs - Should Safari Follow?",
+      "url": "https://www.macrumors.com/2026/07/23/opera-one-adds-vertical-tabs-chrome-firefox/",
+      "pubDate": "2026-07-23T15:52:03.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "US Mint's limited edition Steve Jobs coin is no longer quite so limited",
+      "url": "https://appleinsider.com/articles/26/07/23/us-mints-limited-edition-steve-jobs-coin-is-no-longer-quite-so-limited?utm_source=rss",
+      "pubDate": "2026-07-23T15:34:25.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "5 Reasons to Buy the iPhone 17 Now Instead of Waiting for iPhone 18",
+      "url": "https://www.macrumors.com/2026/07/23/5-reasons-buy-iphone-17-not-waiting-iphone-18/",
+      "pubDate": "2026-07-23T15:26:53.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Deals: M5 Pro MacBook Pro $320 off, Series 11 from $299, AirPods Pro 3, Satechi 25W MagSafe stand 40% off, more",
+      "url": "https://9to5mac.com/2026/07/23/deals-macbook-pro-series-11-airpods-25w-magsafe/",
+      "pubDate": "2026-07-23T15:25:42.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Google introduces new ‘selfie video’ sign-in method",
+      "url": "https://9to5google.com/2026/07/23/google-account-selfie-video/",
+      "pubDate": "2026-07-23T15:15:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: July 23, 2026 – ‘Apple Upgrade’ program coming soon",
+      "url": "https://9to5mac.com/2026/07/23/daily-july-23-2026/",
+      "pubDate": "2026-07-23T15:11:59.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The new Halo remake is a reminder of what Xbox used to be",
+      "url": "https://www.theverge.com/entertainment/969563/halo-campaign-evolved-review-xbox-ps5-pc",
+      "pubDate": "2026-07-23T15:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Amazon’s best 4K streaming sticks are up to 40 percent off",
+      "url": "https://www.theverge.com/gadgets/969615/amazon-fire-tv-stick-4k-plus-4k-max-anker-zolo-deal-sale",
+      "pubDate": "2026-07-23T15:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple TV announces new dating series: ‘The Last Person on Earth’",
+      "url": "https://9to5mac.com/2026/07/23/apple-tv-announces-its-first-dating-series-the-last-person-on-earth/",
+      "pubDate": "2026-07-23T14:46:04.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -178,13 +290,6 @@
       "pubDate": "2026-07-23T11:30:01.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Do we need to worry about burn-in as Macs transition to OLED screens?",
-      "url": "https://9to5mac.com/2026/07/23/do-we-need-to-worry-about-burn-in-as-macs-transition-to-oled-screens/",
-      "pubDate": "2026-07-23T11:12:18.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "macOS 27 Beta Hides Trippy Siri 'Voice Pad' Interface With 13 Voices",
@@ -206,34 +311,6 @@
       "pubDate": "2026-07-23T10:00:10.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Google now lets you sign in to your account using a selfie video",
-      "url": "https://www.theverge.com/tech/969361/google-account-sign-in-selfie-video-security",
-      "pubDate": "2026-07-23T10:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Framework’s premium laptop is shipping with less RAM",
-      "url": "https://www.theverge.com/tech/969819/framework-laptop-13-pro-preorder-ram-price-updates",
-      "pubDate": "2026-07-23T09:28:30.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "MacBook Neo 2: Here’s everything we know so far",
-      "url": "https://9to5mac.com/2026/07/22/macbook-neo-2-features-release-date/",
-      "pubDate": "2026-07-23T00:55:26.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Lego’s Donkey Kong arcade machine lets Mario jump endless barrels — Miyamoto is reportedly happy",
-      "url": "https://www.theverge.com/gadgets/969668/lego-donkey-kong-arcade-machine",
-      "pubDate": "2026-07-23T00:30:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Brydge ProDock Trio review: An elite space-saving MacBook dock",
@@ -248,13 +325,6 @@
       "pubDate": "2026-07-22T23:00:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple updates macOS 28 guidance with direct encrypted HFS+ to APFS conversion",
-      "url": "https://9to5mac.com/2026/07/22/apple-updates-macos-28-guidance-with-direct-encrypted-hfs-to-apfs-conversion/",
-      "pubDate": "2026-07-22T22:40:12.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "12th-Generation iPad: Everything We Know About Apple's Next Budget Tablet",
@@ -262,32 +332,11 @@
       "pubDate": "2026-07-22T22:38:44.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Meta won’t have to face the next planned social media addiction trial",
-      "url": "https://www.theverge.com/policy/969644/meta-social-media-addiction-trial-dropped",
-      "pubDate": "2026-07-22T22:03:53.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple Store app Virtual Shopping Assistant could be coming soon",
       "url": "https://appleinsider.com/articles/26/07/22/apple-store-app-virtual-shopping-assistant-could-be-coming-soon?utm_source=rss",
       "pubDate": "2026-07-22T21:50:29.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Store app may soon get an AI-powered shopping assistant",
-      "url": "https://9to5mac.com/2026/07/22/apple-store-app-may-soon-get-an-ai-powered-shopping-assistant/",
-      "pubDate": "2026-07-22T20:56:34.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Here’s everything new for CarPlay in iOS 27",
-      "url": "https://9to5mac.com/2026/07/22/heres-everything-new-for-carplay-in-ios-27/",
-      "pubDate": "2026-07-22T20:42:20.000Z"
     },
     {
       "source": "MacRumors",
@@ -304,60 +353,11 @@
       "pubDate": "2026-07-22T19:32:48.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple promotes two limited-time offers to save on new products",
-      "url": "https://9to5mac.com/2026/07/22/apple-promotes-two-limited-time-offers-to-save-on-new-products/",
-      "pubDate": "2026-07-22T19:30:03.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Releases Safari Technology Preview 248 With Bug Fixes and Performance Improvements",
-      "url": "https://www.macrumors.com/2026/07/22/apple-releases-safari-technology-preview-248/",
-      "pubDate": "2026-07-22T18:25:56.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Second iOS 27 and iPadOS 27 Public Betas Now Available",
-      "url": "https://www.macrumors.com/2026/07/22/apple-seeds-ios-27-public-beta-2/",
-      "pubDate": "2026-07-22T17:40:02.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Second macOS Golden Gate Public Beta Now Available",
-      "url": "https://www.macrumors.com/2026/07/22/macos-27-public-beta-2/",
-      "pubDate": "2026-07-22T17:39:12.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "tvOS 27 and watchOS 27 Second Public Betas Now Available",
-      "url": "https://www.macrumors.com/2026/07/22/watchos-27-public-beta-2/",
-      "pubDate": "2026-07-22T17:38:13.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Lawmakers want Trump to investigate EU's 'anti-American' Digital Markets Act",
       "url": "https://appleinsider.com/articles/26/07/22/lawmakers-want-trump-to-investigate-eus-anti-american-digital-markets-act?utm_source=rss",
       "pubDate": "2026-07-22T16:36:02.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Amazon's month-end iPad deals drop 11-inch model to $399",
-      "url": "https://appleinsider.com/articles/26/07/22/amazons-month-end-ipad-deals-drop-11-inch-model-to-399?utm_source=rss",
-      "pubDate": "2026-07-22T16:14:55.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Jason Sudeikis wants two more seasons of the 'Ted Lasso' revival",
-      "url": "https://appleinsider.com/articles/26/07/22/jason-sudeikis-wants-two-more-seasons-of-the-ted-lasso-revival?utm_source=rss",
-      "pubDate": "2026-07-22T16:04:06.000Z"
     },
     {
       "source": "Six Colors",
