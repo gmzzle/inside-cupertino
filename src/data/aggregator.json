@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T18:37:54.189Z",
+  "generatedAt": "2026-07-23T20:31:03.697Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,11 +24,81 @@
   ],
   "items": [
     {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone 18 Pro: Three reasons you might want to upgrade from iPhone 17 Pro",
+      "url": "https://9to5mac.com/2026/07/23/iphone-18-pro-three-reasons-you-might-want-to-upgrade-from-iphone-17-pro/",
+      "pubDate": "2026-07-23T20:22:10.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "ChatGPT and Codex are currently down for some users",
+      "url": "https://9to5mac.com/2026/07/23/chatgpt-and-codex-are-currently-down-for-some-users/",
+      "pubDate": "2026-07-23T20:05:08.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone leasing, Apple Music price increase, iOS 27 beta 4",
+      "url": "https://9to5mac.com/2026/07/23/happy-hour-600/",
+      "pubDate": "2026-07-23T20:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Report: iPhone Ultra set to account for 25% of foldable smartphone shipments in 2026",
+      "url": "https://9to5mac.com/2026/07/23/report-iphone-ultra-set-to-account-for-25-of-foldable-smartphone-shipments-in-2026/",
+      "pubDate": "2026-07-23T19:49:23.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "FCC Chairman Brendan Carr’s war on the First Amendment",
+      "url": "https://www.theverge.com/policy/970284/brendan-carr-fcc-chairman-first-amendment",
+      "pubDate": "2026-07-23T19:46:11.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "OpenAI updating ChatGPT desktop app with GPT Voice for talking through work",
+      "url": "https://9to5mac.com/2026/07/23/openai-updating-chatgpt-desktop-app-with-gpt-voice-for-talking-through-work/",
+      "pubDate": "2026-07-23T19:36:11.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "OpenAI sued after ChatGPT used religious faith to convince a man to not talk to a doctor",
+      "url": "https://appleinsider.com/articles/26/07/23/openai-sued-after-chatgpt-used-religious-faith-to-convince-a-man-to-not-talk-to-a-doctor?utm_source=rss",
+      "pubDate": "2026-07-23T19:19:56.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Anthropic upgrades Claude voice mode with more powerful models",
+      "url": "https://9to5mac.com/2026/07/23/anthropic-upgrades-claude-voice-mode-with-more-powerful-models/",
+      "pubDate": "2026-07-23T19:16:12.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Claude’s voice mode is now available for Opus and Sonnet",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+      "pubDate": "2026-07-23T19:00:00.000Z"
+    },
+    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Connecting Apple Health to ChatGPT creates privacy risks Siri AI can avoid",
       "url": "https://appleinsider.com/articles/26/07/23/connecting-apple-health-to-chatgpt-creates-privacy-risks-siri-ai-can-avoid?utm_source=rss",
       "pubDate": "2026-07-23T18:32:58.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Patreon is laying off 20 percent of workers",
+      "url": "https://www.theverge.com/tech/970211/patreon-layoffs-ai",
+      "pubDate": "2026-07-23T18:20:30.000Z"
     },
     {
       "source": "9to5Mac",
@@ -64,13 +134,6 @@
       "title": "OpenAI relaunches Apple Health-connected ChatGPT feature with expanded access",
       "url": "https://9to5mac.com/2026/07/23/openai-relaunches-apple-health-connected-chatgpt-feature-with-expanded-access/",
       "pubDate": "2026-07-23T17:28:30.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "OpenAI sued after ChatGPT used religious faith to convince a man to not talk to a doctor",
-      "url": "https://appleinsider.com/articles/26/07/23/openai-sued-after-chatgpt-used-religious-faith-to-convince-a-man-to-not-talk-to-a-doctor?utm_source=rss",
-      "pubDate": "2026-07-23T17:25:15.000Z"
     },
     {
       "source": "The Verge",
@@ -206,53 +269,11 @@
       "pubDate": "2026-07-23T15:15:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: July 23, 2026 – ‘Apple Upgrade’ program coming soon",
-      "url": "https://9to5mac.com/2026/07/23/daily-july-23-2026/",
-      "pubDate": "2026-07-23T15:11:59.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "The new Halo remake is a reminder of what Xbox used to be",
       "url": "https://www.theverge.com/entertainment/969563/halo-campaign-evolved-review-xbox-ps5-pc",
       "pubDate": "2026-07-23T15:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Amazon’s best 4K streaming sticks are up to 40 percent off",
-      "url": "https://www.theverge.com/gadgets/969615/amazon-fire-tv-stick-4k-plus-4k-max-anker-zolo-deal-sale",
-      "pubDate": "2026-07-23T15:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple TV announces new dating series: ‘The Last Person on Earth’",
-      "url": "https://9to5mac.com/2026/07/23/apple-tv-announces-its-first-dating-series-the-last-person-on-earth/",
-      "pubDate": "2026-07-23T14:46:04.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
-      "pubDate": "2026-07-23T14:13:35.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Two new Macs might skip M5 chips and go straight to M6",
-      "url": "https://9to5mac.com/2026/07/23/two-new-macs-might-skip-m5-chips-and-go-straight-to-m6/",
-      "pubDate": "2026-07-23T14:13:05.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
-      "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
-      "pubDate": "2026-07-23T14:00:00.000Z"
     },
     {
       "source": "Six Colors",
@@ -290,20 +311,6 @@
       "pubDate": "2026-07-23T13:27:55.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone Ultra timing remains unclear as ‘final production adjustments’ made",
-      "url": "https://9to5mac.com/2026/07/23/iphone-ultra-timing-remains-unclear-as-final-production-adjustments-made/",
-      "pubDate": "2026-07-23T13:21:42.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Maps is becoming Ford’s new navigation mode for select vehicles",
-      "url": "https://9to5mac.com/2026/07/23/apple-maps-is-becoming-fords-new-navigation-mode-for-select-vehicles/",
-      "pubDate": "2026-07-23T13:19:13.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Famed technology journalist John C. Dvorak dies aged 80",
@@ -316,13 +323,6 @@
       "title": "Apple's foldable iPhone launch in question amid production hiccups",
       "url": "https://appleinsider.com/articles/26/07/23/apples-foldable-iphone-launch-in-question-amid-production-hiccups?utm_source=rss",
       "pubDate": "2026-07-23T13:00:13.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "SmartGym update makes it easier to manually adjust and log exercises on the go",
-      "url": "https://9to5mac.com/2026/07/23/smartgym-update-makes-it-easier-to-manually-adjust-and-log-exercises-on-the-go/",
-      "pubDate": "2026-07-23T13:00:07.000Z"
     },
     {
       "source": "MacRumors",
