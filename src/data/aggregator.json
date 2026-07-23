@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T12:03:00.814Z",
+  "generatedAt": "2026-07-23T14:33:12.393Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,132 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
+      "pubDate": "2026-07-23T14:13:35.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Two new Macs might skip M5 chips and go straight to M6",
+      "url": "https://9to5mac.com/2026/07/23/two-new-macs-might-skip-m5-chips-and-go-straight-to-m6/",
+      "pubDate": "2026-07-23T14:13:05.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
+      "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
+      "pubDate": "2026-07-23T14:00:00.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Apple tech will underlie Ford’s EV platform ↦",
+      "url": "https://sixcolors.com/link/2026/07/apple-tech-will-underlie-fords-ev-platform/",
+      "pubDate": "2026-07-23T13:52:44.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Watch Series 11 GPS Models Now $100 Off on Amazon",
+      "url": "https://www.macrumors.com/2026/07/23/apple-watch-100-off-amazon/",
+      "pubDate": "2026-07-23T13:51:42.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Ford picks Apple Maps for its next EV platform and updated BlueCruise",
+      "url": "https://www.theverge.com/transportation/969919/ford-apple-maps-bluecruise-driver-assist",
+      "pubDate": "2026-07-23T13:49:51.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "An AirPod-powered Frisbee tracker makes backyard throws scientific",
+      "url": "https://appleinsider.com/articles/26/07/23/an-airpod-powered-frisbee-tracker-makes-backyard-throws-scientific?utm_source=rss",
+      "pubDate": "2026-07-23T13:48:42.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple Maps will be at the core of Ford's electric vehicles in 2027",
+      "url": "https://appleinsider.com/articles/26/07/23/apple-maps-will-be-at-the-core-of-fords-electric-vehicles-in-2027?utm_source=rss",
+      "pubDate": "2026-07-23T13:35:15.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Maps to Help Power Autonomous Driving in Ford's 2027 EV",
+      "url": "https://www.macrumors.com/2026/07/23/apple-maps-power-driving-in-ford-ev/",
+      "pubDate": "2026-07-23T13:27:55.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone Ultra timing remains unclear as ‘final production adjustments’ made",
+      "url": "https://9to5mac.com/2026/07/23/iphone-ultra-timing-remains-unclear-as-final-production-adjustments-made/",
+      "pubDate": "2026-07-23T13:21:42.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Maps is becoming Ford’s new navigation mode for select vehicles",
+      "url": "https://9to5mac.com/2026/07/23/apple-maps-is-becoming-fords-new-navigation-mode-for-select-vehicles/",
+      "pubDate": "2026-07-23T13:19:13.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Famed technology journalist John C. Dvorak dies aged 80",
+      "url": "https://appleinsider.com/articles/26/07/23/famed-technology-journalist-john-c-dvorak-dies-aged-80?utm_source=rss",
+      "pubDate": "2026-07-23T13:09:30.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's foldable iPhone launch in question amid production hiccups",
+      "url": "https://appleinsider.com/articles/26/07/23/apples-foldable-iphone-launch-in-question-amid-production-hiccups?utm_source=rss",
+      "pubDate": "2026-07-23T13:00:13.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "SmartGym update makes it easier to manually adjust and log exercises on the go",
+      "url": "https://9to5mac.com/2026/07/23/smartgym-update-makes-it-easier-to-manually-adjust-and-log-exercises-on-the-go/",
+      "pubDate": "2026-07-23T13:00:07.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The sci-fi movie that imagines AI isn’t so dystopian after all",
+      "url": "https://www.theverge.com/entertainment/969584/hirokazu-kore-eda-sheep-in-a-box-interview",
+      "pubDate": "2026-07-23T13:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Google Fined $1 Billion by EU for Search Bias and App Store Restrictions",
+      "url": "https://www.macrumors.com/2026/07/23/google-fined-1-billion-by-eu/",
+      "pubDate": "2026-07-23T12:39:17.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "ChatGPT told user to ignore lethal condition, but people keep treating it as a doctor",
+      "url": "https://9to5mac.com/2026/07/23/chatgpt-told-user-to-ignore-lethal-condition-but-people-keep-treating-it-as-a-doctor/",
+      "pubDate": "2026-07-23T12:38:25.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Foldable iPhone Still Faces Production Hurdles, Report Says",
+      "url": "https://www.macrumors.com/2026/07/23/foldable-iphone-still-faces-production-hurdles/",
+      "pubDate": "2026-07-23T12:18:17.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -171,13 +297,6 @@
       "pubDate": "2026-07-22T20:25:51.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Tesla’s revenues are bouncing back, but profits are still weak",
-      "url": "https://www.theverge.com/transportation/969311/tesla-q2-2026-earnings-revenue-profit-sales",
-      "pubDate": "2026-07-22T20:17:46.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "How Apple Wallet's Create a Pass works in iOS 27",
@@ -192,46 +311,11 @@
       "pubDate": "2026-07-22T19:30:03.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Price-hiked iPads are a little cheaper right now",
-      "url": "https://www.theverge.com/gadgets/969003/apple-ipad-air-pro-airtag-deal-sale",
-      "pubDate": "2026-07-22T19:14:31.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "iOS code could reportedly let Apple cut off apps when users miss iPhone payments",
-      "url": "https://www.theverge.com/tech/969596/apple-restricted-mode-ios-27",
-      "pubDate": "2026-07-22T19:13:21.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Best ‘Black Friday in July’ Apple deals: $50 off AirPods Pro, $400 off MacBook Pro, more",
-      "url": "https://9to5mac.com/2026/07/22/best-black-friday-in-july-apple-deals-50-off-airpods-pro-400-off-macbook-pro-more/",
-      "pubDate": "2026-07-22T19:10:41.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Releases Safari Technology Preview 248 With Bug Fixes and Performance Improvements",
       "url": "https://www.macrumors.com/2026/07/22/apple-releases-safari-technology-preview-248/",
       "pubDate": "2026-07-22T18:25:56.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Card adds new feature in iOS 27 that every card should have",
-      "url": "https://9to5mac.com/2026/07/22/apple-card-adds-new-feature-in-ios-27-that-every-card-should-have/",
-      "pubDate": "2026-07-22T18:24:06.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "macOS 27 public beta 2 now available, here’s how to install it",
-      "url": "https://9to5mac.com/2026/07/22/macos-27-public-beta-2-now-available-heres-how-to-install-it/",
-      "pubDate": "2026-07-22T17:49:07.000Z"
     },
     {
       "source": "MacRumors",
@@ -248,32 +332,11 @@
       "pubDate": "2026-07-22T17:39:12.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 public beta 2 is here with Siri AI, iPhone speed upgrades, and more",
-      "url": "https://9to5mac.com/2026/07/22/ios-27-public-beta-2-is-here-with-siri-ai-iphone-speed-upgrades-and-more/",
-      "pubDate": "2026-07-22T17:38:18.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "tvOS 27 and watchOS 27 Second Public Betas Now Available",
       "url": "https://www.macrumors.com/2026/07/22/watchos-27-public-beta-2/",
       "pubDate": "2026-07-22T17:38:13.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Public beta 2 for iPadOS 27 and more arrives with these new features",
-      "url": "https://9to5mac.com/2026/07/22/public-beta-2-for-ipados-27-and-more-arrives-with-these-new-features/",
-      "pubDate": "2026-07-22T17:36:02.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Next Mac Mini Will Reportedly Have Mismatched M6 and M5 Pro Chips",
-      "url": "https://www.macrumors.com/2026/07/22/mac-mini-m6-m5-pro-chips-rumor/",
-      "pubDate": "2026-07-22T17:04:46.000Z"
     },
     {
       "source": "AppleInsider",
@@ -283,20 +346,6 @@
       "pubDate": "2026-07-22T16:36:02.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple is reportedly testing a MacBook Neo with more RAM",
-      "url": "https://www.theverge.com/tech/969434/apple-macbook-neo-a19-pro-ram-upgrade",
-      "pubDate": "2026-07-22T16:35:58.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Switching From iPhone to Android Just Got Easier With Android 17",
-      "url": "https://www.macrumors.com/2026/07/22/iphone-android-17-switching-simpler/",
-      "pubDate": "2026-07-22T16:35:23.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Amazon's month-end iPad deals drop 11-inch model to $399",
@@ -304,53 +353,11 @@
       "pubDate": "2026-07-22T16:14:55.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iMac Update Expected This Year, Model With OLED Display Also in Works",
-      "url": "https://www.macrumors.com/2026/07/22/imac-new-chip-this-year-oled-display-later/",
-      "pubDate": "2026-07-22T16:10:13.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Jason Sudeikis wants two more seasons of the 'Ted Lasso' revival",
       "url": "https://appleinsider.com/articles/26/07/22/jason-sudeikis-wants-two-more-seasons-of-the-ted-lasso-revival?utm_source=rss",
       "pubDate": "2026-07-22T16:04:06.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Entire MacBook Pro, MacBook Air & MacBook Neo line rumored for refresh in next six months",
-      "url": "https://appleinsider.com/articles/26/07/22/entire-macbook-pro-macbook-air-macbook-neo-line-rumored-for-refresh-in-next-six-months?utm_source=rss",
-      "pubDate": "2026-07-22T15:54:05.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Working on New MacBook Neo With Two Upgrades",
-      "url": "https://www.macrumors.com/2026/07/22/new-macbook-neo-two-upgrades/",
-      "pubDate": "2026-07-22T15:27:54.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Upgraded Mac Mini, Mac Studio, and OLED iMac are all in the pipeline",
-      "url": "https://appleinsider.com/articles/26/07/22/upgraded-mac-mini-mac-studio-and-oled-imac-are-all-in-the-pipeline?utm_source=rss",
-      "pubDate": "2026-07-22T15:16:55.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "If you've got this dealer-installed car alarm, patch it today with your iPhone",
-      "url": "https://appleinsider.com/articles/26/07/22/if-youve-got-this-dealer-installed-car-alarm-patch-it-today-with-your-iphone?utm_source=rss",
-      "pubDate": "2026-07-22T14:48:25.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple Park Visitor Center exhibition space closed temporarily",
-      "url": "https://appleinsider.com/articles/26/07/22/apple-park-visitor-center-shuts-its-exhibition-space-for-improvements?utm_source=rss",
-      "pubDate": "2026-07-22T14:23:23.000Z"
     },
     {
       "source": "Six Colors",
@@ -365,13 +372,6 @@
       "title": "(Podcast) The Rebound 608: Prove James Wrong",
       "url": "https://sixcolors.com/podcast/2026/07/the-rebound-608-prove-james-wrong/",
       "pubDate": "2026-07-22T14:00:00.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Apple’s reported upgrade program revamp could be a big downgrade",
-      "url": "https://sixcolors.com/post/2026/07/apples-reported-upgrade-program-revamp-could-be-a-big-downgrade/",
-      "pubDate": "2026-07-22T13:46:30.000Z"
     }
   ]
 }
