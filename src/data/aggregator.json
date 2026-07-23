@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T16:47:29.899Z",
+  "generatedAt": "2026-07-23T18:37:54.189Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,104 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Connecting Apple Health to ChatGPT creates privacy risks Siri AI can avoid",
+      "url": "https://appleinsider.com/articles/26/07/23/connecting-apple-health-to-chatgpt-creates-privacy-risks-siri-ai-can-avoid?utm_source=rss",
+      "pubDate": "2026-07-23T18:32:58.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27’s new Siri delivers in every single way I’d hoped for",
+      "url": "https://9to5mac.com/2026/07/23/ios-27s-new-siri-delivers-in-every-single-way-id-hoped-for/",
+      "pubDate": "2026-07-23T18:19:10.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "ChatGPT's Apple Health Integration Now Rolling Out to U.S. Users",
+      "url": "https://www.macrumors.com/2026/07/23/chatgpt-apple-health-integration/",
+      "pubDate": "2026-07-23T17:54:05.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Emergency SOS via Satellite Expands to Two More Countries",
+      "url": "https://www.macrumors.com/2026/07/23/emergency-sos-via-satellite-two-more-countries/",
+      "pubDate": "2026-07-23T17:50:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "'The Morning Show' will bring Apple TV's first prestige drama to an end in 2027",
+      "url": "https://appleinsider.com/articles/26/07/23/the-morning-show-will-bring-apple-tvs-first-prestige-drama-to-an-end-in-2027?utm_source=rss",
+      "pubDate": "2026-07-23T17:29:59.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "OpenAI relaunches Apple Health-connected ChatGPT feature with expanded access",
+      "url": "https://9to5mac.com/2026/07/23/openai-relaunches-apple-health-connected-chatgpt-feature-with-expanded-access/",
+      "pubDate": "2026-07-23T17:28:30.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "OpenAI sued after ChatGPT used religious faith to convince a man to not talk to a doctor",
+      "url": "https://appleinsider.com/articles/26/07/23/openai-sued-after-chatgpt-used-religious-faith-to-convince-a-man-to-not-talk-to-a-doctor?utm_source=rss",
+      "pubDate": "2026-07-23T17:25:15.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Corsair’s PC case with a panoramic glass design is $70 off",
+      "url": "https://www.theverge.com/gadgets/960331/corsair-frame-4500x-deal-pc-case-sale",
+      "pubDate": "2026-07-23T17:20:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Tesla’s robotaxi promises are clashing with reality",
+      "url": "https://www.theverge.com/transportation/970003/tesla-robotaxi-mileage-waymo-cities-earnings-musk",
+      "pubDate": "2026-07-23T17:09:31.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "New Geekbench 7 benchmark adds AI workloads, better reflects 2026 computer use cases",
+      "url": "https://appleinsider.com/articles/26/07/23/new-geekbench-7-benchmark-adds-ai-workloads-better-reflects-2026-computer-use-cases?utm_source=rss",
+      "pubDate": "2026-07-23T17:05:22.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Geekbench 7 Launches With Redesigned Multi-Core and GPU Benchmarks",
+      "url": "https://www.macrumors.com/2026/07/23/geekbench-7-launch/",
+      "pubDate": "2026-07-23T17:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Geekbench 7 will push your computer or phone even harder for better benchmarking",
+      "url": "https://www.theverge.com/gadgets/970012/primate-labs-geekbench-7-benchmark-test-software-update",
+      "pubDate": "2026-07-23T17:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
+      "pubDate": "2026-07-23T17:00:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's MacBook Pro with 48GB RAM drops to $2,699, saving you $400",
+      "url": "https://appleinsider.com/articles/26/07/23/apples-macbook-pro-with-48gb-ram-drops-to-2699-saving-you-400?utm_source=rss",
+      "pubDate": "2026-07-23T16:51:53.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -171,13 +269,6 @@
       "pubDate": "2026-07-23T13:51:42.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Ford picks Apple Maps for its next EV platform and updated BlueCruise",
-      "url": "https://www.theverge.com/transportation/969919/ford-apple-maps-bluecruise-driver-assist",
-      "pubDate": "2026-07-23T13:49:51.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "An AirPod-powered Frisbee tracker makes backyard throws scientific",
@@ -234,25 +325,11 @@
       "pubDate": "2026-07-23T13:00:07.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The sci-fi movie that imagines AI isn’t so dystopian after all",
-      "url": "https://www.theverge.com/entertainment/969584/hirokazu-kore-eda-sheep-in-a-box-interview",
-      "pubDate": "2026-07-23T13:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Google Fined $1 Billion by EU for Search Bias and App Store Restrictions",
       "url": "https://www.macrumors.com/2026/07/23/google-fined-1-billion-by-eu/",
       "pubDate": "2026-07-23T12:39:17.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "ChatGPT told user to ignore lethal condition, but people keep treating it as a doctor",
-      "url": "https://9to5mac.com/2026/07/23/chatgpt-told-user-to-ignore-lethal-condition-but-people-keep-treating-it-as-a-doctor/",
-      "pubDate": "2026-07-23T12:38:25.000Z"
     },
     {
       "source": "MacRumors",
@@ -262,32 +339,11 @@
       "pubDate": "2026-07-23T12:18:17.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The right-wing boomers protesting data centers have a lot in common with the left",
-      "url": "https://www.theverge.com/policy/969667/humans-first-data-center-protest-hernando-county-florida-republicans",
-      "pubDate": "2026-07-23T12:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Samsung has just given us a preview of the creaseless iPhone Ultra display",
-      "url": "https://9to5mac.com/2026/07/23/samsung-has-just-given-us-a-preview-of-the-creaseless-iphone-ultra-display/",
-      "pubDate": "2026-07-23T11:46:22.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple defied a global PC sales slump in Q2 2026 thanks to MacBook Neo",
       "url": "https://appleinsider.com/articles/26/07/23/apple-defied-a-global-pc-sales-slump-in-q2-2026-thanks-to-macbook-neo?utm_source=rss",
       "pubDate": "2026-07-23T11:37:46.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "EU slaps Google with a $1 billion antitrust fine",
-      "url": "https://appleinsider.com/articles/26/07/23/eu-slaps-google-with-a-1-billion-antitrust-fine?utm_source=rss",
-      "pubDate": "2026-07-23T11:30:01.000Z"
     },
     {
       "source": "MacRumors",
@@ -297,67 +353,11 @@
       "pubDate": "2026-07-23T10:53:38.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Google hit with $1 billion fine for breaking EU antitrust rules",
-      "url": "https://www.theverge.com/tech/943866/google-alphabet-eu-dma-fine-search-services-play-store-steering",
-      "pubDate": "2026-07-23T10:33:08.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "You Can Now Recover Your Google Account With a Selfie Video",
-      "url": "https://www.macrumors.com/2026/07/23/google-account-selfie-video/",
-      "pubDate": "2026-07-23T10:00:10.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Brydge ProDock Trio review: An elite space-saving MacBook dock",
-      "url": "https://appleinsider.com/articles/26/07/23/brydge-prodock-trio-review-an-elite-space-saving-macbook-dock?utm_source=rss",
-      "pubDate": "2026-07-23T00:02:13.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) Clockwise 666: I’m Just Poorer Than You",
       "url": "https://sixcolors.com/podcast/2026/07/clockwise-666-im-just-poorer-than-you/",
       "pubDate": "2026-07-22T23:00:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "12th-Generation iPad: Everything We Know About Apple's Next Budget Tablet",
-      "url": "https://www.macrumors.com/2026/07/22/12th-generation-ipad-rumor-recap/",
-      "pubDate": "2026-07-22T22:38:44.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple Store app Virtual Shopping Assistant could be coming soon",
-      "url": "https://appleinsider.com/articles/26/07/22/apple-store-app-virtual-shopping-assistant-could-be-coming-soon?utm_source=rss",
-      "pubDate": "2026-07-22T21:50:29.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Store App Getting AI Shopping Assistant",
-      "url": "https://www.macrumors.com/2026/07/22/apple-store-app-shopping-assistant/",
-      "pubDate": "2026-07-22T20:25:51.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "How Apple Wallet's Create a Pass works in iOS 27",
-      "url": "https://appleinsider.com/articles/26/06/09/how-apple-wallets-create-a-pass-works-in-ios-27?utm_source=rss",
-      "pubDate": "2026-07-22T19:32:48.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Lawmakers want Trump to investigate EU's 'anti-American' Digital Markets Act",
-      "url": "https://appleinsider.com/articles/26/07/22/lawmakers-want-trump-to-investigate-eus-anti-american-digital-markets-act?utm_source=rss",
-      "pubDate": "2026-07-22T16:36:02.000Z"
     },
     {
       "source": "Six Colors",
