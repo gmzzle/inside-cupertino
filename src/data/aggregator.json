@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T06:40:58.901Z",
+  "generatedAt": "2026-07-23T09:37:00.957Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Framework’s premium laptop is shipping with less RAM",
+      "url": "https://www.theverge.com/tech/969819/framework-laptop-13-pro-preorder-ram-price-updates",
+      "pubDate": "2026-07-23T09:28:30.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -309,13 +316,6 @@
       "title": "Apple to Overhaul Mac Lineup With 11 New Models",
       "url": "https://www.macrumors.com/2026/07/22/apple-to-overhaul-mac-lineup/",
       "pubDate": "2026-07-22T15:13:53.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Philips’ new smart toothbrush shows you where you didn’t properly brush",
-      "url": "https://www.theverge.com/tech/969271/philip-sonicare-next-generation-diamondclean-9900-prestige-ai-electric-toothbrush",
-      "pubDate": "2026-07-22T15:09:44.000Z"
     },
     {
       "source": "AppleInsider",
