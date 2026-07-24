@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T15:48:33.188Z",
+  "generatedAt": "2026-07-24T17:52:53.587Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,11 +24,95 @@
   ],
   "items": [
     {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Anthropic's New Claude Opus 5 Nearly Matches Flagship Fable 5 at Half the Cost",
+      "url": "https://www.macrumors.com/2026/07/24/anthropic-opus-5/",
+      "pubDate": "2026-07-24T17:43:35.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Blade Runner 2099’s moody dystopia streams on Amazon in November",
+      "url": "https://www.theverge.com/entertainment/970524/blade-runner-2099-date-trailer-amazon-prime-video",
+      "pubDate": "2026-07-24T17:40:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "You can’t ignore Google Zero anymore",
+      "url": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
+      "pubDate": "2026-07-24T17:29:48.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Anthropic upgrades Claude with new Opus 5 model, details here",
+      "url": "https://9to5mac.com/2026/07/24/anthropic-upgrades-claude-with-new-opus-5-model-details-here/",
+      "pubDate": "2026-07-24T17:16:56.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "watchOS 27 adds new feature to improve your Apple Watch battery life",
+      "url": "https://9to5mac.com/2026/07/24/watchos-27-adds-new-feature-to-improve-your-apple-watch-battery-life/",
+      "pubDate": "2026-07-24T17:02:45.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
+      "pubDate": "2026-07-24T17:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Meta is making its AI chatbot more like an assistant",
+      "url": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
+      "pubDate": "2026-07-24T17:00:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iPhone exploit legal fight is really about who owns security research",
+      "url": "https://appleinsider.com/articles/26/07/24/iphone-exploit-legal-fight-is-really-about-who-owns-security-research?utm_source=rss",
+      "pubDate": "2026-07-24T16:40:13.000Z"
+    },
+    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Judge approves Apple's $250 million settlement offer over Siri lawsuit",
       "url": "https://appleinsider.com/articles/26/07/24/judge-approves-apples-250-million-settlement-offer-over-siri-lawsuit?utm_source=rss",
-      "pubDate": "2026-07-24T15:48:28.000Z"
+      "pubDate": "2026-07-24T16:32:03.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "The MacRumors Show: Can OpenAI Really Beat the iPhone?",
+      "url": "https://www.macrumors.com/2026/07/24/the-macrumors-show-can-openai-beat-the-iphone/",
+      "pubDate": "2026-07-24T16:17:27.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple’s $250 million Siri settlement just got approved, here’s who gets paid",
+      "url": "https://9to5mac.com/2026/07/24/apples-250-million-siri-settlement-just-got-approved-heres-who-gets-paid/",
+      "pubDate": "2026-07-24T16:14:43.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Sponsor) Magic Lasso Adblock: Effortlessly block ads on your iPhone, iPad, Mac and Apple TV",
+      "url": "https://sixcolors.com/sponsor/2026/07/magic-lasso-adblock-effortlessly-block-ads-on-your-iphone-ipad-mac-and-apple-tv-7/",
+      "pubDate": "2026-07-24T16:00:12.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "macOS 27 Beta Reworks Mail's Compose Window Around Siri AI",
+      "url": "https://www.macrumors.com/2026/07/24/macos-27-beta-siri-mail-compose-window/",
+      "pubDate": "2026-07-24T15:57:06.000Z"
     },
     {
       "source": "9to5Mac",
@@ -75,7 +159,7 @@
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
-      "title": "Unpatchable iPhone 11 Exploit Sparks Legal Battle",
+      "title": "Lawsuit Filed After Apple's A12 and A13 Chips Hit With New Unpatchable Exploit",
       "url": "https://www.macrumors.com/2026/07/24/unpatchable-iphone-11-exploit-sparks-legal-battle/",
       "pubDate": "2026-07-24T14:58:55.000Z"
     },
@@ -199,13 +283,6 @@
       "pubDate": "2026-07-24T12:10:49.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "PSA: Check your banking app for a potentially important setting",
-      "url": "https://9to5mac.com/2026/07/24/psa-check-your-banking-app-for-a-potentially-important-setting/",
-      "pubDate": "2026-07-24T12:04:18.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Keychron Q6 HE 8K Review: A great mechanical keyboard for work and play",
@@ -227,13 +304,6 @@
       "pubDate": "2026-07-24T11:43:24.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "TikTok&#8217;s protection of minors should not be opt-in, warns EU",
-      "url": "https://www.theverge.com/tech/970519/tiktok-eu-dsa-child-safety-age-account-privacy",
-      "pubDate": "2026-07-24T11:40:03.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "WhatsApp Rolls Out Redesigned Message Bubbles for iOS",
@@ -248,32 +318,11 @@
       "pubDate": "2026-07-24T11:19:01.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Facebook considers giving up and becoming TikTok",
-      "url": "https://www.theverge.com/tech/970504/facebook-video-experience-testing-tiktok-updates",
-      "pubDate": "2026-07-24T11:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Seeking 20% OLED Panel Price Cut for iPhone 18 Pro Max",
       "url": "https://www.macrumors.com/2026/07/24/oled-panel-price-cut-iphone-18-pro-max/",
       "pubDate": "2026-07-24T10:31:42.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Microsoft pressures LG into killing unwanted McAfee ads",
-      "url": "https://www.theverge.com/tech/970489/lg-mcafee-ads-windows-microsoft-crackdown",
-      "pubDate": "2026-07-24T09:20:09.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple art director shares early sketches and prototype of Lil’ Finder Guy",
-      "url": "https://9to5mac.com/2026/07/23/apple-art-director-shares-early-sketches-and-prototype-of-lil-finder-guy/",
-      "pubDate": "2026-07-24T02:36:03.000Z"
     },
     {
       "source": "AppleInsider",
@@ -283,13 +332,6 @@
       "pubDate": "2026-07-24T01:14:02.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Pickleball comedy ‘The Dink’ premieres on Apple TV",
-      "url": "https://9to5mac.com/2026/07/23/pickleball-comedy-the-dink-premieres-on-apple-tv/",
-      "pubDate": "2026-07-24T01:01:04.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "10 iOS 27 Performance Improvements You'll Actually Notice",
@@ -297,46 +339,11 @@
       "pubDate": "2026-07-23T22:02:58.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
-      "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
-      "pubDate": "2026-07-23T21:15:06.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iPhone Driver's Licenses May Soon Expand to New State",
       "url": "https://www.macrumors.com/2026/07/23/iphone-drivers-licenses-utah/",
       "pubDate": "2026-07-23T20:58:38.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Connecting Apple Health to ChatGPT creates privacy risks Siri AI can avoid",
-      "url": "https://appleinsider.com/articles/26/07/23/connecting-apple-health-to-chatgpt-creates-privacy-risks-siri-ai-can-avoid?utm_source=rss",
-      "pubDate": "2026-07-23T18:32:58.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "ChatGPT's Apple Health Integration Now Rolling Out to U.S. Users",
-      "url": "https://www.macrumors.com/2026/07/23/chatgpt-apple-health-integration/",
-      "pubDate": "2026-07-23T17:54:05.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Emergency SOS via Satellite Expands to Two More Countries",
-      "url": "https://www.macrumors.com/2026/07/23/emergency-sos-via-satellite-two-more-countries/",
-      "pubDate": "2026-07-23T17:50:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Geekbench 7 Launches With Redesigned Multi-Core and GPU Benchmarks",
-      "url": "https://www.macrumors.com/2026/07/23/geekbench-7-launch/",
-      "pubDate": "2026-07-23T17:00:00.000Z"
     },
     {
       "source": "Six Colors",
@@ -365,13 +372,6 @@
       "title": "(Podcast) The Rebound 608: Prove James Wrong",
       "url": "https://sixcolors.com/podcast/2026/07/the-rebound-608-prove-james-wrong/",
       "pubDate": "2026-07-22T14:00:00.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Apple’s reported upgrade program revamp could be a big downgrade",
-      "url": "https://sixcolors.com/post/2026/07/apples-reported-upgrade-program-revamp-could-be-a-big-downgrade/",
-      "pubDate": "2026-07-22T13:46:30.000Z"
     }
   ]
 }
