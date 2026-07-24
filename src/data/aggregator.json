@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T11:56:03.848Z",
+  "generatedAt": "2026-07-24T14:14:03.446Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,104 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Facebook announces face scanning to confirm you’re a human",
+      "url": "https://9to5mac.com/2026/07/24/facebook-announces-face-scanning-to-confirm-youre-a-human/",
+      "pubDate": "2026-07-24T14:09:17.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "What I track in a day",
+      "url": "https://www.theverge.com/column/970056/optimizer-health-tracking-fitness-wearables-what-i-track-in-a-day",
+      "pubDate": "2026-07-24T14:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Meta Launches Free 'Facebook Verified' Badge to Confirm Real Users",
+      "url": "https://www.macrumors.com/2026/07/24/meta-launches-free-facebook-verified-badge/",
+      "pubDate": "2026-07-24T13:55:12.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Here’s everything new Apple TV has coming in August",
+      "url": "https://9to5mac.com/2026/07/24/heres-everything-new-apple-tv-has-coming-in-august-2026/",
+      "pubDate": "2026-07-24T13:44:51.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Fire Reported Near Apple Park",
+      "url": "https://www.macrumors.com/2026/07/24/fire-reported-near-apple-park/",
+      "pubDate": "2026-07-24T13:30:29.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Meta just released a brand-new Facebook Seller app for iPhone",
+      "url": "https://9to5mac.com/2026/07/24/meta-just-released-a-brand-new-facebook-seller-app-for-iphone/",
+      "pubDate": "2026-07-24T13:28:51.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Wallet driver’s licenses coming to two more states soon: report",
+      "url": "https://9to5mac.com/2026/07/24/apple-wallet-drivers-licenses-coming-to-two-more-states-soon-report/",
+      "pubDate": "2026-07-24T13:27:09.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "New Macs are coming soon, here’s everything we know",
+      "url": "https://9to5mac.com/2026/07/24/new-macs-are-coming-soon-heres-everything-we-know/",
+      "pubDate": "2026-07-24T13:19:36.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Hide My Email, Apple Upgrade, and mass iPhone 18 Pro production, on the AppleInsider Podcast",
+      "url": "https://appleinsider.com/articles/26/07/24/hide-my-email-apple-upgrade-and-mass-iphone-18-pro-production-on-the-appleinsider-podcast?utm_source=rss",
+      "pubDate": "2026-07-24T13:03:59.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Claude Voice Mode Gains Opus and Sonnet Model Support",
+      "url": "https://www.macrumors.com/2026/07/24/claude-voice-mode-opus-sonnet-model-support/",
+      "pubDate": "2026-07-24T12:10:49.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "PSA: Check your banking app for a potentially important setting",
+      "url": "https://9to5mac.com/2026/07/24/psa-check-your-banking-app-for-a-potentially-important-setting/",
+      "pubDate": "2026-07-24T12:04:18.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Keychron Q6 HE 8K Review: A great mechanical keyboard for work and play",
+      "url": "https://appleinsider.com/articles/26/07/23/keychron-q6-he-8k-review-a-great-mechanical-keyboard-for-work-and-play?utm_source=rss",
+      "pubDate": "2026-07-24T12:00:21.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Whack-a-drone",
+      "url": "https://www.theverge.com/report/969725/fcc-drone-ban-odyssey-robot-galiview-etak-randolph-howard-eason",
+      "pubDate": "2026-07-24T12:00:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Trusted Mac apps could possibly be swapped out for malware",
+      "url": "https://appleinsider.com/articles/26/07/24/trusted-mac-apps-could-possibly-be-swapped-out-for-malware?utm_source=rss",
+      "pubDate": "2026-07-24T11:58:02.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -101,13 +199,6 @@
       "pubDate": "2026-07-24T00:33:42.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Keychron Q6 HE 8K Review: A great mechanical keyboard for work and play",
-      "url": "https://appleinsider.com/articles/26/07/23/keychron-q6-he-8k-review-a-great-mechanical-keyboard-for-work-and-play?utm_source=rss",
-      "pubDate": "2026-07-23T23:59:47.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Geekbench 7 is out with overhauled performance tests for CPU and GPU workloads",
@@ -157,34 +248,6 @@
       "pubDate": "2026-07-23T20:34:08.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone 18 Pro: Three reasons you might want to upgrade from iPhone 17 Pro",
-      "url": "https://9to5mac.com/2026/07/23/iphone-18-pro-three-reasons-you-might-want-to-upgrade-from-iphone-17-pro/",
-      "pubDate": "2026-07-23T20:22:10.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "ChatGPT and Codex are currently down for some users",
-      "url": "https://9to5mac.com/2026/07/23/chatgpt-and-codex-are-currently-down-for-some-users/",
-      "pubDate": "2026-07-23T20:05:08.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone leasing, Apple Music price increase, iOS 27 beta 4",
-      "url": "https://9to5mac.com/2026/07/23/happy-hour-600/",
-      "pubDate": "2026-07-23T20:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Report: iPhone Ultra set to account for 25% of foldable smartphone shipments in 2026",
-      "url": "https://9to5mac.com/2026/07/23/report-iphone-ultra-set-to-account-for-25-of-foldable-smartphone-shipments-in-2026/",
-      "pubDate": "2026-07-23T19:49:23.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "FCC Chairman Brendan Carr’s war on the First Amendment",
@@ -192,25 +255,11 @@
       "pubDate": "2026-07-23T19:46:11.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "OpenAI updating ChatGPT desktop app with GPT Voice for talking through work",
-      "url": "https://9to5mac.com/2026/07/23/openai-updating-chatgpt-desktop-app-with-gpt-voice-for-talking-through-work/",
-      "pubDate": "2026-07-23T19:36:11.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "OpenAI sued after ChatGPT used religious faith to convince a man to not talk to a doctor",
       "url": "https://appleinsider.com/articles/26/07/23/openai-sued-after-chatgpt-used-religious-faith-to-convince-a-man-to-not-talk-to-a-doctor?utm_source=rss",
       "pubDate": "2026-07-23T19:19:56.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Anthropic upgrades Claude voice mode with more powerful models",
-      "url": "https://9to5mac.com/2026/07/23/anthropic-upgrades-claude-voice-mode-with-more-powerful-models/",
-      "pubDate": "2026-07-23T19:16:12.000Z"
     },
     {
       "source": "The Verge",
@@ -255,20 +304,6 @@
       "pubDate": "2026-07-23T17:29:59.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Corsair’s PC case with a panoramic glass design is $70 off",
-      "url": "https://www.theverge.com/gadgets/960331/corsair-frame-4500x-deal-pc-case-sale",
-      "pubDate": "2026-07-23T17:20:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Tesla’s robotaxi promises are clashing with reality",
-      "url": "https://www.theverge.com/transportation/970003/tesla-robotaxi-mileage-waymo-cities-earnings-musk",
-      "pubDate": "2026-07-23T17:09:31.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "New Geekbench 7 benchmark adds AI workloads, better reflects 2026 computer use cases",
@@ -304,46 +339,11 @@
       "pubDate": "2026-07-23T16:32:19.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple TV is branching out with a self-help eight-part dating docuseries",
-      "url": "https://appleinsider.com/articles/26/07/23/apple-tv-is-branching-out-with-a-self-help-eight-part-dating-docuseries?utm_source=rss",
-      "pubDate": "2026-07-23T15:59:42.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Opera One Browser Adds Vertical Tabs - Should Safari Follow?",
-      "url": "https://www.macrumors.com/2026/07/23/opera-one-adds-vertical-tabs-chrome-firefox/",
-      "pubDate": "2026-07-23T15:52:03.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "US Mint's limited edition Steve Jobs coin is no longer quite so limited",
-      "url": "https://appleinsider.com/articles/26/07/23/us-mints-limited-edition-steve-jobs-coin-is-no-longer-quite-so-limited?utm_source=rss",
-      "pubDate": "2026-07-23T15:34:25.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "5 Reasons to Buy the iPhone 17 Now Instead of Waiting for iPhone 18",
-      "url": "https://www.macrumors.com/2026/07/23/5-reasons-buy-iphone-17-not-waiting-iphone-18/",
-      "pubDate": "2026-07-23T15:26:53.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Apple tech will underlie Ford’s EV platform ↦",
       "url": "https://sixcolors.com/link/2026/07/apple-tech-will-underlie-fords-ev-platform/",
       "pubDate": "2026-07-23T13:52:44.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Watch Series 11 GPS Models Now $100 Off on Amazon",
-      "url": "https://www.macrumors.com/2026/07/23/apple-watch-100-off-amazon/",
-      "pubDate": "2026-07-23T13:51:42.000Z"
     },
     {
       "source": "Six Colors",
