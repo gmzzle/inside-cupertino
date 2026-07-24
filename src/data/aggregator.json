@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T00:11:43.007Z",
+  "generatedAt": "2026-07-24T03:46:36.978Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple art director shares early sketches and prototype of Lil’ Finder Guy",
+      "url": "https://9to5mac.com/2026/07/23/apple-art-director-shares-early-sketches-and-prototype-of-lil-finder-guy/",
+      "pubDate": "2026-07-24T02:36:03.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "District judge assigned to oversee Apple's trade secrets lawsuit against OpenAI",
+      "url": "https://appleinsider.com/articles/26/07/24/district-judge-assigned-to-oversee-apples-trade-secrets-lawsuit-against-openai?utm_source=rss",
+      "pubDate": "2026-07-24T01:14:02.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Pickleball comedy ‘The Dink’ premieres on Apple TV",
+      "url": "https://9to5mac.com/2026/07/23/pickleball-comedy-the-dink-premieres-on-apple-tv/",
+      "pubDate": "2026-07-24T01:01:04.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple’s trade secrets lawsuit against OpenAI reassigned to new judge",
+      "url": "https://9to5mac.com/2026/07/23/apples-trade-secrets-lawsuit-against-openai-reassigned-to-new-judge/",
+      "pubDate": "2026-07-24T00:33:42.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -157,13 +185,6 @@
       "pubDate": "2026-07-23T18:20:30.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27’s new Siri delivers in every single way I’d hoped for",
-      "url": "https://9to5mac.com/2026/07/23/ios-27s-new-siri-delivers-in-every-single-way-id-hoped-for/",
-      "pubDate": "2026-07-23T18:19:10.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "ChatGPT's Apple Health Integration Now Rolling Out to U.S. Users",
@@ -183,13 +204,6 @@
       "title": "'The Morning Show' will bring Apple TV's first prestige drama to an end in 2027",
       "url": "https://appleinsider.com/articles/26/07/23/the-morning-show-will-bring-apple-tvs-first-prestige-drama-to-an-end-in-2027?utm_source=rss",
       "pubDate": "2026-07-23T17:29:59.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "OpenAI relaunches Apple Health-connected ChatGPT feature with expanded access",
-      "url": "https://9to5mac.com/2026/07/23/openai-relaunches-apple-health-connected-chatgpt-feature-with-expanded-access/",
-      "pubDate": "2026-07-23T17:28:30.000Z"
     },
     {
       "source": "The Verge",
@@ -262,13 +276,6 @@
       "pubDate": "2026-07-23T16:32:19.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple announces The Morning Show is ending after season 5",
-      "url": "https://9to5mac.com/2026/07/23/apple-announces-the-morning-show-is-ending-after-season-5/",
-      "pubDate": "2026-07-23T16:16:15.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple TV is branching out with a self-help eight-part dating docuseries",
@@ -318,25 +325,11 @@
       "pubDate": "2026-07-23T13:48:42.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple Maps will be at the core of Ford's electric vehicles in 2027",
-      "url": "https://appleinsider.com/articles/26/07/23/apple-maps-will-be-at-the-core-of-fords-electric-vehicles-in-2027?utm_source=rss",
-      "pubDate": "2026-07-23T13:35:15.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Maps to Help Power Autonomous Driving in Ford's 2027 EV",
       "url": "https://www.macrumors.com/2026/07/23/apple-maps-power-driving-in-ford-ev/",
       "pubDate": "2026-07-23T13:27:55.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Famed technology journalist John C. Dvorak dies aged 80",
-      "url": "https://appleinsider.com/articles/26/07/23/famed-technology-journalist-john-c-dvorak-dies-aged-80?utm_source=rss",
-      "pubDate": "2026-07-23T13:09:30.000Z"
     },
     {
       "source": "MacRumors",
@@ -372,6 +365,13 @@
       "title": "Apple’s reported upgrade program revamp could be a big downgrade",
       "url": "https://sixcolors.com/post/2026/07/apples-reported-upgrade-program-revamp-could-be-a-big-downgrade/",
       "pubDate": "2026-07-22T13:46:30.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Origin Story: ‘Rage Against the Machine’ ↦",
+      "url": "https://sixcolors.com/link/2026/07/origin-story-rage-against-the-machine/",
+      "pubDate": "2026-07-20T23:08:33.000Z"
     }
   ]
 }
