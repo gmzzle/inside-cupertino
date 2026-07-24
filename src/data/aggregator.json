@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T06:40:10.966Z",
+  "generatedAt": "2026-07-24T09:35:02.604Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Microsoft pressures LG into killing unwanted McAfee ads",
+      "url": "https://www.theverge.com/tech/970489/lg-mcafee-ads-windows-microsoft-crackdown",
+      "pubDate": "2026-07-24T09:20:09.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -253,13 +260,6 @@
       "title": "Apple's MacBook Pro with 48GB RAM drops to $2,699, saving you $400",
       "url": "https://appleinsider.com/articles/26/07/23/apples-macbook-pro-with-48gb-ram-drops-to-2699-saving-you-400?utm_source=rss",
       "pubDate": "2026-07-23T16:51:53.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Amazon puts Luna cloud-streamed games like Fallout 4 inside Prime Video",
-      "url": "https://www.theverge.com/streaming/970099/amazon-prime-video-luna-gaming",
-      "pubDate": "2026-07-23T16:39:32.000Z"
     },
     {
       "source": "MacRumors",
