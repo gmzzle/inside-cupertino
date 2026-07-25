@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T06:29:42.521Z",
+  "generatedAt": "2026-07-25T09:12:41.203Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Forget expensive sleepbuds. Buy this pillow instead",
+      "url": "https://www.theverge.com/tech/970473/forget-expensive-sleepbuds-buy-this-pillow-instead",
+      "pubDate": "2026-07-25T07:00:00.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -204,13 +211,6 @@
       "title": "watchOS 27 adds new feature to improve your Apple Watch battery life",
       "url": "https://9to5mac.com/2026/07/24/watchos-27-adds-new-feature-to-improve-your-apple-watch-battery-life/",
       "pubDate": "2026-07-24T17:02:45.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
-      "pubDate": "2026-07-24T17:00:00.000Z"
     },
     {
       "source": "AppleInsider",
