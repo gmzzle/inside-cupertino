@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T10:46:10.186Z",
+  "generatedAt": "2026-07-25T12:09:48.850Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "What Surrounds Us will make you think a lot about circles",
+      "url": "https://www.theverge.com/games/961183/what-surrounds-us-review-pc-steam",
+      "pubDate": "2026-07-25T12:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Folding and flipping phones are getting seriously good",
+      "url": "https://www.theverge.com/tech/971004/z-fold8-xteink-x4-light-flip-installer",
+      "pubDate": "2026-07-25T12:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple @ Work: Apple TV proves to be more reliable than Android in new digital signage report",
+      "url": "https://9to5mac.com/2026/07/25/apple-tv-proves-to-be-more-reliable-than-android-in-new-digital-signage-report/",
+      "pubDate": "2026-07-25T10:00:00.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -185,20 +206,6 @@
       "pubDate": "2026-07-24T17:43:35.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Blade Runner 2099’s moody dystopia streams on Amazon in November",
-      "url": "https://www.theverge.com/entertainment/970524/blade-runner-2099-date-trailer-amazon-prime-video",
-      "pubDate": "2026-07-24T17:40:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "You can’t ignore Google Zero anymore",
-      "url": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
-      "pubDate": "2026-07-24T17:29:48.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Anthropic upgrades Claude with new Opus 5 model, details here",
@@ -232,13 +239,6 @@
       "title": "The MacRumors Show: Can OpenAI Really Beat the iPhone?",
       "url": "https://www.macrumors.com/2026/07/24/the-macrumors-show-can-openai-beat-the-iphone/",
       "pubDate": "2026-07-24T16:17:27.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple’s $250 million Siri settlement just got approved, here’s who gets paid",
-      "url": "https://9to5mac.com/2026/07/24/apples-250-million-siri-settlement-just-got-approved-heres-who-gets-paid/",
-      "pubDate": "2026-07-24T16:14:43.000Z"
     },
     {
       "source": "Six Colors",
