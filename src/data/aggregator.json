@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T14:03:03.097Z",
+  "generatedAt": "2026-07-25T15:28:43.787Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Synth historian Oli Freke will spend big on a good bicycle",
+      "url": "https://www.theverge.com/entertainment/971013/oli-freke-bjooks-beat-gems-drum-machine-book-interview",
+      "pubDate": "2026-07-25T15:15:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Teenage Engineering’s unique music machines are 30 percent off",
+      "url": "https://www.theverge.com/gadgets/970685/teenage-engineering-30-percent-deal-sale",
+      "pubDate": "2026-07-25T15:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "AirPods, AirTag 2, and iPads Hit Low Prices This Week",
+      "url": "https://www.macrumors.com/2026/07/25/best-apple-deals-of-the-week-7-25-26/",
+      "pubDate": "2026-07-25T14:53:02.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Warner Bros. is suing Amazon for poaching employees",
+      "url": "https://www.theverge.com/business/971011/warner-bros-suing-amazon-poaching-employees",
+      "pubDate": "2026-07-25T14:05:12.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -192,13 +220,6 @@
       "pubDate": "2026-07-24T19:14:23.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Midjourney bought the astrology app Co-Star",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
-      "pubDate": "2026-07-24T19:06:58.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "iOS 27 adds new Phone app feature that’s an instant favorite",
@@ -211,20 +232,6 @@
       "title": "This Apple-1 auction expected to cost the winner as much as 275 iPhone 17 Pros",
       "url": "https://appleinsider.com/articles/26/07/24/this-apple-1-auction-expected-to-cost-the-winner-as-much-as-275-iphone-17-pros?utm_source=rss",
       "pubDate": "2026-07-24T18:44:17.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "DJI camera clone company Xtra is halting and refunding all preorders",
-      "url": "https://www.theverge.com/policy/970742/dji-camera-clone-company-xtra-is-halting-and-refunding-all-preorders",
-      "pubDate": "2026-07-24T18:27:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Nothing confirms layoffs, but calls market exit rumors &#8216;fake news&#8217;",
-      "url": "https://www.theverge.com/tech/970848/nothing-layoffs-rumors-phone-4b",
-      "pubDate": "2026-07-24T18:10:22.000Z"
     },
     {
       "source": "MacRumors",
@@ -330,13 +337,6 @@
       "title": "Hide My Email, Apple Upgrade, and mass iPhone 18 Pro production, on the AppleInsider Podcast",
       "url": "https://appleinsider.com/articles/26/07/24/hide-my-email-apple-upgrade-and-mass-iphone-18-pro-production-on-the-appleinsider-podcast?utm_source=rss",
       "pubDate": "2026-07-24T13:03:59.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Claude Voice Mode Gains Opus and Sonnet Model Support",
-      "url": "https://www.macrumors.com/2026/07/24/claude-voice-mode-opus-sonnet-model-support/",
-      "pubDate": "2026-07-24T12:10:49.000Z"
     },
     {
       "source": "AppleInsider",
