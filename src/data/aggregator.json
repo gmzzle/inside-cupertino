@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T23:16:48.620Z",
+  "generatedAt": "2026-07-25T03:39:14.176Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,11 +24,39 @@
   ],
   "items": [
     {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Report: Apple and Micron clash before Trump over Chinese memory chips",
+      "url": "https://9to5mac.com/2026/07/24/report-apple-and-micron-clash-before-trump-over-chinese-memory-chips/",
+      "pubDate": "2026-07-25T02:03:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "'MacBook Ultra' Coming Soon With These 12 New Features",
+      "url": "https://www.macrumors.com/2026/07/24/macbook-ultra-12-new-features/",
+      "pubDate": "2026-07-25T01:00:12.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "New lawsuit alleges unpatchable Apple chip exploit was developed using stolen trade secrets",
+      "url": "https://9to5mac.com/2026/07/24/new-lawsuit-alleges-unpatchable-apple-chip-exploit-was-developed-using-stolen-trade-secrets/",
+      "pubDate": "2026-07-25T00:53:03.000Z"
+    },
+    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iOS 27: All the New iCloud Features",
       "url": "https://www.macrumors.com/guide/ios-27-icloud/",
       "pubDate": "2026-07-24T22:54:55.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "After backlash, Meta pauses plan to ‘rate limit’ its smart glasses",
+      "url": "https://www.theverge.com/tech/970970/after-backlash-meta-pauses-plan-to-rate-limit-its-smart-glasses",
+      "pubDate": "2026-07-24T22:27:46.000Z"
     },
     {
       "source": "9to5Mac",
@@ -185,13 +213,6 @@
       "pubDate": "2026-07-24T17:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Meta is making its AI chatbot more like an assistant",
-      "url": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
-      "pubDate": "2026-07-24T17:00:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "iPhone exploit legal fight is really about who owns security research",
@@ -232,20 +253,6 @@
       "title": "macOS 27 Beta Reworks Mail's Compose Window Around Siri AI",
       "url": "https://www.macrumors.com/2026/07/24/macos-27-beta-siri-mail-compose-window/",
       "pubDate": "2026-07-24T15:57:06.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: M5 Pro MacBook Pro $500 off, Apple Watch Series 11 $150 off, AirPods, AirTag 2, MagSafe Battery, more",
-      "url": "https://9to5mac.com/2026/07/24/deals-m5-pro-macbook-pro-apple-watch-airpods-airtag-2/",
-      "pubDate": "2026-07-24T15:21:46.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 26.6 is coming next week for iPhone, here’s what’s new",
-      "url": "https://9to5mac.com/2026/07/24/ios-26-6-is-coming-next-week-for-iphone-heres-whats-new/",
-      "pubDate": "2026-07-24T15:15:02.000Z"
     },
     {
       "source": "MacRumors",
@@ -337,13 +344,6 @@
       "title": "Steve Wozniak gave Apple its soul before Steve Jobs made it a hit",
       "url": "https://appleinsider.com/articles/26/07/24/steve-wozniak-gave-apple-its-soul-before-steve-jobs-made-it-a-hit?utm_source=rss",
       "pubDate": "2026-07-24T11:19:01.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Seeking 20% OLED Panel Price Cut for iPhone 18 Pro Max",
-      "url": "https://www.macrumors.com/2026/07/24/oled-panel-price-cut-iphone-18-pro-max/",
-      "pubDate": "2026-07-24T10:31:42.000Z"
     },
     {
       "source": "Six Colors",
