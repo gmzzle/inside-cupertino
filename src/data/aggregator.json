@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T13:57:53.640Z",
+  "generatedAt": "2026-07-26T15:31:42.423Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,11 +24,53 @@
   ],
   "items": [
     {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "'Apple Upgrade' Program Launching on Tuesday",
+      "url": "https://www.macrumors.com/2026/07/26/apple-upgrade-program-launching-tuesday/",
+      "pubDate": "2026-07-26T15:20:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Public distrust in smart glasses will be a challenge for Apple Glass",
+      "url": "https://appleinsider.com/articles/26/07/26/public-distrust-in-smart-glasses-will-be-a-a-challenge-for-apple-glass?utm_source=rss",
+      "pubDate": "2026-07-26T15:15:26.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "What to Expect From Apple Watch Series 12 and Apple Watch Ultra 4",
+      "url": "https://www.macrumors.com/2026/07/26/apple-watch-series-12-ultra-4-features-rumors/",
+      "pubDate": "2026-07-26T15:07:27.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "You can get three months of Xbox Game Pass Ultimate for almost half off",
+      "url": "https://www.theverge.com/gadgets/970775/xbox-game-pass-ultimate-deal-sale",
+      "pubDate": "2026-07-26T15:00:00.000Z"
+    },
+    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple TV shares new trailers for 'Matchbox,' 'Neuromancer,' 'Dark Matter'",
       "url": "https://appleinsider.com/articles/26/07/26/apple-tv-teases-new-trailers-for-matchbox-neuromancer-dark-matter?utm_source=rss",
-      "pubDate": "2026-07-26T13:01:28.000Z"
+      "pubDate": "2026-07-26T14:54:47.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Marvel announces Ryan Gosling as Ghost Rider, a new Black Panther, and more",
+      "url": "https://www.theverge.com/entertainment/971071/marvel-ryan-gosling-ghost-rider-black-panther-comic-con",
+      "pubDate": "2026-07-26T14:51:33.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple Watch redesign is coming, but not for years",
+      "url": "https://appleinsider.com/articles/26/07/26/apple-watch-redesign-is-coming-but-not-for-years?utm_source=rss",
+      "pubDate": "2026-07-26T14:32:26.000Z"
     },
     {
       "source": "The Verge",
@@ -206,13 +248,6 @@
       "pubDate": "2026-07-25T10:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Forget expensive sleepbuds. Buy this pillow instead",
-      "url": "https://www.theverge.com/tech/970473/forget-expensive-sleepbuds-buy-this-pillow-instead",
-      "pubDate": "2026-07-25T07:00:00.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Report: Apple and Micron clash before Trump over Chinese memory chips",
@@ -239,13 +274,6 @@
       "title": "iOS 27: All the New iCloud Features",
       "url": "https://www.macrumors.com/guide/ios-27-icloud/",
       "pubDate": "2026-07-24T22:54:55.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "After backlash, Meta pauses plan to ‘rate limit’ its smart glasses",
-      "url": "https://www.theverge.com/tech/970970/after-backlash-meta-pauses-plan-to-rate-limit-its-smart-glasses",
-      "pubDate": "2026-07-24T22:27:46.000Z"
     },
     {
       "source": "9to5Mac",
@@ -318,39 +346,11 @@
       "pubDate": "2026-07-24T15:57:06.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Siri Settlement Approved: Apple to Pay Owners of Some iPhone Models",
-      "url": "https://www.macrumors.com/2026/07/24/apple-to-pay-owners-of-these-iphone-models/",
-      "pubDate": "2026-07-24T15:10:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Lawsuit Filed After Apple's A12 and A13 Chips Hit With New Unpatchable Exploit",
-      "url": "https://www.macrumors.com/2026/07/24/unpatchable-iphone-11-exploit-sparks-legal-battle/",
-      "pubDate": "2026-07-24T14:58:55.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Facebook Verified is here, so you can tell if your new friend is really an AI",
       "url": "https://appleinsider.com/articles/26/07/24/facebook-verified-is-here-so-you-can-tell-if-your-new-friend-is-really-an-ai?utm_source=rss",
       "pubDate": "2026-07-24T14:53:58.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "New U.S. tariffs hit Apple's supply chain, with no clear exemptions",
-      "url": "https://appleinsider.com/articles/26/07/24/new-us-tariffs-hit-apples-supply-chain-with-no-clear-exemptions?utm_source=rss",
-      "pubDate": "2026-07-24T14:37:38.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Dispatch records cut claims of major Apple Park fire damage down to size",
-      "url": "https://appleinsider.com/articles/26/07/24/dispatch-records-cut-claims-of-major-apple-park-fire-damage-down-to-size?utm_source=rss",
-      "pubDate": "2026-07-24T14:29:27.000Z"
     },
     {
       "source": "Six Colors",
