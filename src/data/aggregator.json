@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T00:16:28.445Z",
+  "generatedAt": "2026-07-26T04:43:18.923Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Here are the best MacBook deals right now: July 2026 Buyer’s Guide",
+      "url": "https://9to5mac.com/2026/07/25/best-macbook-deals-currently-july-2026/",
+      "pubDate": "2026-07-26T02:13:31.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's First Water-Resistant iPad to Launch Later This Year",
+      "url": "https://www.macrumors.com/2026/07/25/first-water-resistant-ipad/",
+      "pubDate": "2026-07-26T01:00:11.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -213,13 +227,6 @@
       "pubDate": "2026-07-24T22:18:26.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Pay is getting even better with four new features",
-      "url": "https://9to5mac.com/2026/07/24/apple-pay-is-getting-even-better-with-four-new-features/",
-      "pubDate": "2026-07-24T21:24:36.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Trump promises investigation into EU fines on US big tech",
@@ -330,13 +337,6 @@
       "title": "Dispatch records cut claims of major Apple Park fire damage down to size",
       "url": "https://appleinsider.com/articles/26/07/24/dispatch-records-cut-claims-of-major-apple-park-fire-damage-down-to-size?utm_source=rss",
       "pubDate": "2026-07-24T14:29:27.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Meta Launches Free 'Facebook Verified' Badge to Confirm Real Users",
-      "url": "https://www.macrumors.com/2026/07/24/meta-launches-free-facebook-verified-badge/",
-      "pubDate": "2026-07-24T13:55:12.000Z"
     },
     {
       "source": "AppleInsider",
