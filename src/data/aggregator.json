@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T21:12:26.281Z",
+  "generatedAt": "2026-07-26T22:14:54.545Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Champagne and Bullets belongs on the Mount Rushmore of bad movies",
+      "url": "https://www.theverge.com/column/971103/champagne-and-bullets-bad-movies-review",
+      "pubDate": "2026-07-26T21:24:07.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -239,13 +246,6 @@
       "title": "AirPods, AirTag 2, and iPads Hit Low Prices This Week",
       "url": "https://www.macrumors.com/2026/07/25/best-apple-deals-of-the-week-7-25-26/",
       "pubDate": "2026-07-25T14:53:02.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Warner Bros. is suing Amazon for poaching employees",
-      "url": "https://www.theverge.com/business/971011/warner-bros-suing-amazon-poaching-employees",
-      "pubDate": "2026-07-25T14:05:12.000Z"
     },
     {
       "source": "9to5Mac",
