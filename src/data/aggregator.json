@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T19:35:40.527Z",
+  "generatedAt": "2026-07-26T21:12:26.281Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,6 +24,20 @@
   ],
   "items": [
     {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Sunday Reboot: Apple TV dating, Matchbox, and Lasso hope",
+      "url": "https://appleinsider.com/articles/26/07/26/sunday-reboot-apple-tv-dating-matchbox-and-lasso-hope?utm_source=rss",
+      "pubDate": "2026-07-26T20:02:54.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Apple is banking on privacy to set its smart glasses apart",
+      "url": "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy",
+      "pubDate": "2026-07-26T19:36:38.000Z"
+    },
+    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Apple’s AI glasses to be unveiled at WWDC27: report",
@@ -36,6 +50,13 @@
       "title": "Game development diary: Launched, but far from finished",
       "url": "https://appleinsider.com/articles/26/07/26/game-development-diary-launched-but-far-from-finished?utm_source=rss",
       "pubDate": "2026-07-26T18:46:18.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The US is charging an American citizen for wiping his phone at the border",
+      "url": "https://www.theverge.com/policy/971097/us-charging-american-citizen-wiping-phone-duress-password",
+      "pubDate": "2026-07-26T18:45:50.000Z"
     },
     {
       "source": "AppleInsider",
@@ -241,13 +262,6 @@
       "pubDate": "2026-07-25T13:00:11.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Is this e-reader case a gun?",
-      "url": "https://www.theverge.com/tech/970343/e-reader-case-3d-printed-gun",
-      "pubDate": "2026-07-25T13:00:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Micron urges White House to reject Apple's blacklist memory plan",
@@ -260,13 +274,6 @@
       "title": "Apple weekend deals: MacBook Pro $500 off, AirPods Pro 3, AirTag 2, iPhone Air, Series 11, more",
       "url": "https://9to5mac.com/2026/07/25/apple-weekend-deals-macbook-pro-airpods-airtag-2/",
       "pubDate": "2026-07-25T12:10:03.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "What Surrounds Us will make you think a lot about circles",
-      "url": "https://www.theverge.com/games/961183/what-surrounds-us-review-pc-steam",
-      "pubDate": "2026-07-25T12:00:00.000Z"
     },
     {
       "source": "9to5Mac",
@@ -330,13 +337,6 @@
       "title": "Anthropic's New Claude Opus 5 Nearly Matches Flagship Fable 5 at Half the Cost",
       "url": "https://www.macrumors.com/2026/07/24/anthropic-opus-5/",
       "pubDate": "2026-07-24T17:43:35.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPhone exploit legal fight is really about who owns security research",
-      "url": "https://appleinsider.com/articles/26/07/24/iphone-exploit-legal-fight-is-really-about-who-owns-security-research?utm_source=rss",
-      "pubDate": "2026-07-24T16:40:13.000Z"
     },
     {
       "source": "MacRumors",
