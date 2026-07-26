@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T17:16:35.163Z",
+  "generatedAt": "2026-07-26T19:35:40.527Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple’s AI glasses to be unveiled at WWDC27: report",
+      "url": "https://9to5mac.com/2026/07/26/apples-ai-glasses-to-be-unveiled-at-wwdc27-report/",
+      "pubDate": "2026-07-26T18:54:46.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Game development diary: Launched, but far from finished",
+      "url": "https://appleinsider.com/articles/26/07/26/game-development-diary-launched-but-far-from-finished?utm_source=rss",
+      "pubDate": "2026-07-26T18:46:18.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -290,13 +304,6 @@
       "pubDate": "2026-07-24T22:54:55.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Tapbots launches Pastebot 3 with improved organization and automation tools",
-      "url": "https://9to5mac.com/2026/07/24/tapbots-launches-pastebot-3-with-improved-organization-and-automation-tools/",
-      "pubDate": "2026-07-24T22:18:26.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Trump promises investigation into EU fines on US big tech",
@@ -330,13 +337,6 @@
       "title": "iPhone exploit legal fight is really about who owns security research",
       "url": "https://appleinsider.com/articles/26/07/24/iphone-exploit-legal-fight-is-really-about-who-owns-security-research?utm_source=rss",
       "pubDate": "2026-07-24T16:40:13.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Judge approves Apple's $250 million settlement offer over Siri lawsuit",
-      "url": "https://appleinsider.com/articles/26/07/24/judge-approves-apples-250-million-settlement-offer-over-siri-lawsuit?utm_source=rss",
-      "pubDate": "2026-07-24T16:32:03.000Z"
     },
     {
       "source": "MacRumors",
