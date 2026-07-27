@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T23:15:48.914Z",
+  "generatedAt": "2026-07-27T04:03:16.568Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Here's What the 'iPhone 20' is Expected to Look Like",
+      "url": "https://www.macrumors.com/2026/07/26/what-iphone-20-is-expected-to-look-like/",
+      "pubDate": "2026-07-27T01:00:12.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "PSA: Apple TV, Apple Music, and more are currently down for some users [Update: Fixed]",
+      "url": "https://9to5mac.com/2026/07/26/psa-apple-tv-apple-music-and-more-are-currently-down-for-some-users/",
+      "pubDate": "2026-07-27T00:52:24.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Watch Series 12 and Ultra 4: What to expect",
+      "url": "https://9to5mac.com/2026/07/26/apple-watch-series-12-and-ultra-4-what-to-expect/",
+      "pubDate": "2026-07-26T23:43:04.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -283,25 +304,11 @@
       "pubDate": "2026-07-25T10:00:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Report: Apple and Micron clash before Trump over Chinese memory chips",
-      "url": "https://9to5mac.com/2026/07/24/report-apple-and-micron-clash-before-trump-over-chinese-memory-chips/",
-      "pubDate": "2026-07-25T02:03:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "'MacBook Ultra' Coming Soon With These 12 New Features",
       "url": "https://www.macrumors.com/2026/07/24/macbook-ultra-12-new-features/",
       "pubDate": "2026-07-25T01:00:12.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "New lawsuit alleges unpatchable Apple chip exploit was developed using stolen trade secrets",
-      "url": "https://9to5mac.com/2026/07/24/new-lawsuit-alleges-unpatchable-apple-chip-exploit-was-developed-using-stolen-trade-secrets/",
-      "pubDate": "2026-07-25T00:53:03.000Z"
     },
     {
       "source": "MacRumors",
@@ -337,13 +344,6 @@
       "title": "Anthropic's New Claude Opus 5 Nearly Matches Flagship Fable 5 at Half the Cost",
       "url": "https://www.macrumors.com/2026/07/24/anthropic-opus-5/",
       "pubDate": "2026-07-24T17:43:35.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "The MacRumors Show: Can OpenAI Really Beat the iPhone?",
-      "url": "https://www.macrumors.com/2026/07/24/the-macrumors-show-can-openai-beat-the-iphone/",
-      "pubDate": "2026-07-24T16:17:27.000Z"
     },
     {
       "source": "Six Colors",
