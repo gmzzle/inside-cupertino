@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T15:14:37.919Z",
+  "generatedAt": "2026-07-27T17:12:43.522Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,104 @@
     }
   ],
   "items": [
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Always choose the good soap",
+      "url": "https://sixcolors.com/post/2026/07/always-choose-the-good-soap/",
+      "pubDate": "2026-07-27T16:59:25.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) Upgrade 630: Repeat 600 Times",
+      "url": "https://sixcolors.com/podcast/2026/07/upgrade-630-repeat-600-times/",
+      "pubDate": "2026-07-27T16:57:01.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Why China is giving away its best AI models",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
+      "pubDate": "2026-07-27T16:51:50.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Pocket Casts just released a brand-new Apple TV app",
+      "url": "https://9to5mac.com/2026/07/27/pocket-casts-just-released-a-brand-new-apple-tv-app/",
+      "pubDate": "2026-07-27T16:45:24.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: July 27, 2026 – Apple Glasses rumors, more",
+      "url": "https://9to5mac.com/2026/07/27/daily-july-27-2026/",
+      "pubDate": "2026-07-27T16:40:55.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Threads adds private Meta AI chats without cluttering your feed",
+      "url": "https://9to5mac.com/2026/07/27/threads-adds-private-meta-ai-chats-without-cluttering-your-feed/",
+      "pubDate": "2026-07-27T16:20:51.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "YouTube Premium will include Peacock starting next year",
+      "url": "https://www.theverge.com/streaming/971452/youtube-premium-peacock-streaming-deal",
+      "pubDate": "2026-07-27T16:18:52.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "What Wall Street expects from Apple's Q3 2026 earnings on July 30",
+      "url": "https://appleinsider.com/articles/26/07/27/what-wall-street-expects-from-apples-q3-2026-earnings-on-july-30?utm_source=rss",
+      "pubDate": "2026-07-27T16:07:53.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Pocket Casts Now Available on Apple TV",
+      "url": "https://www.macrumors.com/2026/07/27/pocket-casts-apple-tv/",
+      "pubDate": "2026-07-27T15:58:54.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 gives Apple’s Calendar app new feature I’ve wanted for years",
+      "url": "https://9to5mac.com/2026/07/27/ios-27-gives-apples-calendar-app-new-feature-ive-wanted-for-years/",
+      "pubDate": "2026-07-27T15:50:05.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Amazon&#8217;s trying to launch a global satellite cellphone network in 2028",
+      "url": "https://www.theverge.com/tech/971437/amazon-leo-direct-to-device-satellite-network",
+      "pubDate": "2026-07-27T15:40:38.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Deals: M5 Pro MacBook Pro 24GB $500 off, 48GB $400 off, Find My charger $40, AirPods, more",
+      "url": "https://9to5mac.com/2026/07/27/deals-macbook-pro-find-my-charger-airpods/",
+      "pubDate": "2026-07-27T15:37:12.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Unlock or recover your Mac using a special boot volume",
+      "url": "https://sixcolors.com/post/2026/07/unlock-or-recover-your-mac-using-a-special-boot-volume/",
+      "pubDate": "2026-07-27T15:29:34.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Big Sonos app update, & the state of smart home cameras on Smart Home Insider",
+      "url": "https://appleinsider.com/articles/26/07/27/big-sonos-app-update-the-state-of-smart-home-cameras-on-smart-home-insider?utm_source=rss",
+      "pubDate": "2026-07-27T15:23:03.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -103,9 +201,9 @@
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
-      "title": "Ed Zitron: Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
+      "title": "Apple Will 'Watch Everything Burn' When AI Bubble Bursts - Ed Zitron",
       "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/",
-      "pubDate": "2026-07-27T14:11:48.000Z"
+      "pubDate": "2026-07-27T14:11:41.000Z"
     },
     {
       "source": "MacRumors",
@@ -199,39 +297,11 @@
       "pubDate": "2026-07-27T11:24:30.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "AppleCare One launching in the UK as theft and loss coverage expands",
-      "url": "https://9to5mac.com/2026/07/26/applecare-one-launching-in-the-uk-as-theft-and-loss-coverage-expands/",
-      "pubDate": "2026-07-27T06:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Here's What the 'iPhone 20' is Expected to Look Like",
       "url": "https://www.macrumors.com/2026/07/26/what-iphone-20-is-expected-to-look-like/",
       "pubDate": "2026-07-27T01:00:12.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "PSA: Apple TV, Apple Music, and more are currently down for some users [Update: Fixed]",
-      "url": "https://9to5mac.com/2026/07/26/psa-apple-tv-apple-music-and-more-are-currently-down-for-some-users/",
-      "pubDate": "2026-07-27T00:52:24.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Watch Series 12 and Ultra 4: What to expect",
-      "url": "https://9to5mac.com/2026/07/26/apple-watch-series-12-and-ultra-4-what-to-expect/",
-      "pubDate": "2026-07-26T23:43:04.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Champagne and Bullets belongs on the Mount Rushmore of bad movies",
-      "url": "https://www.theverge.com/column/971103/champagne-and-bullets-bad-movies-review",
-      "pubDate": "2026-07-26T21:24:07.000Z"
     },
     {
       "source": "AppleInsider",
@@ -241,32 +311,11 @@
       "pubDate": "2026-07-26T20:02:54.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple is banking on privacy to set its smart glasses apart",
-      "url": "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy",
-      "pubDate": "2026-07-26T19:36:38.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple’s AI glasses to be unveiled at WWDC27: report",
-      "url": "https://9to5mac.com/2026/07/26/apples-ai-glasses-to-be-unveiled-at-wwdc27-report/",
-      "pubDate": "2026-07-26T18:54:46.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Game development diary: Launched, but far from finished",
       "url": "https://appleinsider.com/articles/26/07/26/game-development-diary-launched-but-far-from-finished?utm_source=rss",
       "pubDate": "2026-07-26T18:46:18.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The US is charging an American citizen for wiping his phone at the border",
-      "url": "https://www.theverge.com/policy/971097/us-charging-american-citizen-wiping-phone-duress-password",
-      "pubDate": "2026-07-26T18:45:50.000Z"
     },
     {
       "source": "AppleInsider",
@@ -304,27 +353,6 @@
       "pubDate": "2026-07-26T15:07:27.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple TV shares new trailers for 'Matchbox,' 'Neuromancer,' 'Dark Matter'",
-      "url": "https://appleinsider.com/articles/26/07/26/apple-tv-teases-new-trailers-for-matchbox-neuromancer-dark-matter?utm_source=rss",
-      "pubDate": "2026-07-26T14:54:47.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple Watch redesign is coming, but not for years",
-      "url": "https://appleinsider.com/articles/26/07/26/apple-watch-redesign-is-coming-but-not-for-years?utm_source=rss",
-      "pubDate": "2026-07-26T14:32:26.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Here are the best MacBook deals right now: July 2026 Buyer’s Guide",
-      "url": "https://9to5mac.com/2026/07/25/best-macbook-deals-currently-july-2026/",
-      "pubDate": "2026-07-26T02:13:31.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple's First Water-Resistant iPad to Launch Later This Year",
@@ -339,39 +367,11 @@
       "pubDate": "2026-07-25T14:52:52.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Top Stories: 'Apple Upgrade' Program, Apple Music Price Hike, and More",
-      "url": "https://www.macrumors.com/2026/07/25/top-stories-apple-upgrade-program/",
-      "pubDate": "2026-07-25T13:00:11.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Sponsor) Magic Lasso Adblock: Effortlessly block ads on your iPhone, iPad, Mac and Apple TV",
       "url": "https://sixcolors.com/sponsor/2026/07/magic-lasso-adblock-effortlessly-block-ads-on-your-iphone-ipad-mac-and-apple-tv-7/",
       "pubDate": "2026-07-24T16:00:12.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Apple tech will underlie Ford’s EV platform ↦",
-      "url": "https://sixcolors.com/link/2026/07/apple-tech-will-underlie-fords-ev-platform/",
-      "pubDate": "2026-07-23T13:52:44.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) Clockwise 666: I’m Just Poorer Than You",
-      "url": "https://sixcolors.com/podcast/2026/07/clockwise-666-im-just-poorer-than-you/",
-      "pubDate": "2026-07-22T23:00:00.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Review: Xteink X3 is the little e-reader the world’s not quite ready for",
-      "url": "https://sixcolors.com/post/2026/07/review-xteink-x3-is-the-little-e-reader-the-worlds-not-quite-ready-for/",
-      "pubDate": "2026-07-22T14:00:21.000Z"
     }
   ]
 }
