@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T18:49:15.937Z",
+  "generatedAt": "2026-07-27T20:43:42.191Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,6 +24,69 @@
   ],
   "items": [
     {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Claude, Codex, and other AI tools credited in today’s Apple security releases",
+      "url": "https://9to5mac.com/2026/07/27/claude-codex-and-other-ai-tools-credited-in-todays-apple-security-releases/",
+      "pubDate": "2026-07-27T20:29:58.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Don't wait to update: iOS 26.6 includes more than 75 security fixes",
+      "url": "https://appleinsider.com/articles/26/07/27/dont-wait-to-update-ios-266-includes-more-than-75-security-fixes?utm_source=rss",
+      "pubDate": "2026-07-27T20:15:03.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple on Verge of Becoming $5 Trillion Company",
+      "url": "https://www.macrumors.com/2026/07/27/apple-nearly-5-trillion-dollar-company/",
+      "pubDate": "2026-07-27T20:10:17.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Xbox’s huge outage even blocked games on disc",
+      "url": "https://www.theverge.com/games/971545/xbox-outage-disc-physical-games",
+      "pubDate": "2026-07-27T19:53:50.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Nanoleaf&#8217;s colorful pegboard and shelf kit is half off",
+      "url": "https://www.theverge.com/gadgets/971535/nanoleaf-blocks-combo-xl-deal-sale",
+      "pubDate": "2026-07-27T19:24:55.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Ted Lasso season 4: Here’s who’s new and everyone not returning",
+      "url": "https://9to5mac.com/2026/07/27/ted-lasso-season-4-heres-whos-new-and-everyone-not-returning/",
+      "pubDate": "2026-07-27T19:19:42.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "MagSafe Monday: ESR FlickLock solved my biggest complaints with the AirPods Pro 3",
+      "url": "https://9to5mac.com/2026/07/27/esr-flicklock/",
+      "pubDate": "2026-07-27T18:57:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Update Now: iOS 26.6 and macOS Tahoe 26.6 Patch Hundreds of Security Flaws",
+      "url": "https://www.macrumors.com/2026/07/27/ios-26-6-security-fixes/",
+      "pubDate": "2026-07-27T18:55:46.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "X Money officially launches in the US with Apple Wallet support after invite-only beta",
+      "url": "https://9to5mac.com/2026/07/27/x-money-apple-wallet/",
+      "pubDate": "2026-07-27T18:51:47.000Z"
+    },
+    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Older Macs get fresh security fixes with new macOS Sequoia & Sonoma update",
@@ -40,7 +103,7 @@
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 26.6 fixes over 75 security issues with your iPhone, update now",
+      "title": "Apple fixes over 75 security issues with your iPhone and 150+ for Mac, update now",
       "url": "https://9to5mac.com/2026/07/27/ios-26-6-fixes-over-75-security-issues-with-your-iphone-update-now/",
       "pubDate": "2026-07-27T18:12:48.000Z"
     },
@@ -199,27 +262,6 @@
       "pubDate": "2026-07-27T16:51:50.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Pocket Casts just released a brand-new Apple TV app",
-      "url": "https://9to5mac.com/2026/07/27/pocket-casts-just-released-a-brand-new-apple-tv-app/",
-      "pubDate": "2026-07-27T16:45:24.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: July 27, 2026 – Apple Glasses rumors, more",
-      "url": "https://9to5mac.com/2026/07/27/daily-july-27-2026/",
-      "pubDate": "2026-07-27T16:40:55.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Threads adds private Meta AI chats without cluttering your feed",
-      "url": "https://9to5mac.com/2026/07/27/threads-adds-private-meta-ai-chats-without-cluttering-your-feed/",
-      "pubDate": "2026-07-27T16:20:51.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "YouTube Premium will include Peacock starting next year",
@@ -239,13 +281,6 @@
       "title": "Pocket Casts Now Available on Apple TV",
       "url": "https://www.macrumors.com/2026/07/27/pocket-casts-apple-tv/",
       "pubDate": "2026-07-27T15:58:54.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 gives Apple’s Calendar app new feature I’ve wanted for years",
-      "url": "https://9to5mac.com/2026/07/27/ios-27-gives-apples-calendar-app-new-feature-ive-wanted-for-years/",
-      "pubDate": "2026-07-27T15:50:05.000Z"
     },
     {
       "source": "The Verge",
@@ -276,16 +311,9 @@
       "pubDate": "2026-07-27T15:13:57.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Weak App Store protections at core of $1.8M crypto app fraud lawsuit",
-      "url": "https://appleinsider.com/articles/26/07/27/weak-app-store-protections-at-core-of-18m-crypto-app-fraud-lawsuit?utm_source=rss",
-      "pubDate": "2026-07-27T15:00:09.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
-      "title": "This is my new favorite laptop, but thanks to RAMageddon it already went up in price by $800",
+      "title": "This is my new favorite laptop, but thanks to RAMageddon the price already went up by $800",
       "url": "https://www.theverge.com/tech/971160/framework-laptop-13-pro-intel-review",
       "pubDate": "2026-07-27T15:00:00.000Z"
     },
@@ -337,34 +365,6 @@
       "title": "AppleCare+ With Theft and Loss Coverage for iPad and Apple Watch Launching in More Countries",
       "url": "https://www.macrumors.com/2026/07/27/applecare-with-theft-and-loss-expanding/",
       "pubDate": "2026-07-27T14:02:11.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "'AppleCare One' Expanding to Four More Countries",
-      "url": "https://www.macrumors.com/2026/07/27/applecare-one-four-more-countries/",
-      "pubDate": "2026-07-27T13:46:07.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Responds to Lawsuit Over Fake Bitcoin Wallet Scam in App Store",
-      "url": "https://www.macrumors.com/2026/07/27/apple-app-store-fake-bitcoin-wallet-lawsuit/",
-      "pubDate": "2026-07-27T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-      "pubDate": "2026-07-27T12:06:22.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Meta is royally screwing up its smart glasses rollout",
-      "url": "https://www.theverge.com/tech/970948/meta-smart-glasses-privacy-wearables",
-      "pubDate": "2026-07-27T12:00:00.000Z"
     },
     {
       "source": "Six Colors",
