@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T04:03:16.568Z",
+  "generatedAt": "2026-07-27T07:52:47.203Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "AppleCare One expands to four more countries",
+      "url": "https://appleinsider.com/articles/26/07/27/applecare-one-expands-to-four-more-countries?utm_source=rss",
+      "pubDate": "2026-07-27T06:03:47.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -330,13 +337,6 @@
       "title": "Trump Vows to Reverse EU Fines Against Apple and Other Tech Companies, Threatens Tariffs",
       "url": "https://www.macrumors.com/2026/07/24/trump-eu-fine-investigation/",
       "pubDate": "2026-07-24T19:37:08.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "This Apple-1 auction expected to cost the winner as much as 275 iPhone 17 Pros",
-      "url": "https://appleinsider.com/articles/26/07/24/this-apple-1-auction-expected-to-cost-the-winner-as-much-as-275-iphone-17-pros?utm_source=rss",
-      "pubDate": "2026-07-24T18:44:17.000Z"
     },
     {
       "source": "MacRumors",
