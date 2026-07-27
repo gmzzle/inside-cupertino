@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T07:52:47.203Z",
+  "generatedAt": "2026-07-27T11:41:06.942Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,11 +24,32 @@
   ],
   "items": [
     {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Glasses just won’t be useful without video recording",
+      "url": "https://9to5mac.com/2026/07/27/apple-glasses-just-wont-be-useful-without-video-recording/",
+      "pubDate": "2026-07-27T11:40:01.000Z"
+    },
+    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "AppleCare One expands to four more countries",
       "url": "https://appleinsider.com/articles/26/07/27/applecare-one-expands-to-four-more-countries?utm_source=rss",
-      "pubDate": "2026-07-27T06:03:47.000Z"
+      "pubDate": "2026-07-27T11:25:41.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Steve Wozniak gave Apple its soul before Steve Jobs made it a hit",
+      "url": "https://appleinsider.com/articles/26/07/24/steve-wozniak-gave-apple-its-soul-before-steve-jobs-made-it-a-hit?utm_source=rss",
+      "pubDate": "2026-07-27T11:24:30.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "AppleCare One launching in the UK as theft and loss coverage expands",
+      "url": "https://9to5mac.com/2026/07/26/applecare-one-launching-in-the-uk-as-theft-and-loss-coverage-expands/",
+      "pubDate": "2026-07-27T06:00:00.000Z"
     },
     {
       "source": "MacRumors",
@@ -297,20 +318,6 @@
       "pubDate": "2026-07-25T12:48:35.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple weekend deals: MacBook Pro $500 off, AirPods Pro 3, AirTag 2, iPhone Air, Series 11, more",
-      "url": "https://9to5mac.com/2026/07/25/apple-weekend-deals-macbook-pro-airpods-airtag-2/",
-      "pubDate": "2026-07-25T12:10:03.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple @ Work: Apple TV proves to be more reliable than Android in new digital signage report",
-      "url": "https://9to5mac.com/2026/07/25/apple-tv-proves-to-be-more-reliable-than-android-in-new-digital-signage-report/",
-      "pubDate": "2026-07-25T10:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "'MacBook Ultra' Coming Soon With These 12 New Features",
@@ -323,13 +330,6 @@
       "title": "iOS 27: All the New iCloud Features",
       "url": "https://www.macrumors.com/guide/ios-27-icloud/",
       "pubDate": "2026-07-24T22:54:55.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Trump promises investigation into EU fines on US big tech",
-      "url": "https://appleinsider.com/articles/26/07/24/trump-promises-investigation-into-eu-fines-on-us-big-tech?utm_source=rss",
-      "pubDate": "2026-07-24T19:46:33.000Z"
     },
     {
       "source": "MacRumors",
