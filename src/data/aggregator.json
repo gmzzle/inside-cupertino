@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T09:48:27.236Z",
+  "generatedAt": "2026-07-28T12:14:49.795Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "OLED MacBook Pro will get displays exclusively from Samsung",
+      "url": "https://appleinsider.com/articles/26/07/28/oled-macbook-pro-will-get-displays-exclusively-from-samsung?utm_source=rss",
+      "pubDate": "2026-07-28T12:05:15.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Touchscreen decision may push MacBook Ultra price even higher",
+      "url": "https://9to5mac.com/2026/07/28/touchscreen-decision-may-push-macbook-ultra-price-even-higher/",
+      "pubDate": "2026-07-28T11:16:08.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Ternus says he plans to build on the success of Apple TV",
+      "url": "https://appleinsider.com/articles/26/07/28/ternus-says-he-plans-to-build-on-the-success-of-apple-tv?utm_source=rss",
+      "pubDate": "2026-07-28T11:10:16.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple @ Work Podcast: Remember Postini?",
+      "url": "https://9to5mac.com/2026/07/28/apple-work-podcast-remember-postini/",
+      "pubDate": "2026-07-28T10:00:00.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -192,25 +220,11 @@
       "pubDate": "2026-07-27T18:00:57.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "macOS 26.6 now available, here’s what’s new",
-      "url": "https://9to5mac.com/2026/07/27/macos-26-6-now-available-heres-whats-new/",
-      "pubDate": "2026-07-27T17:51:11.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple rolls out watchOS 26.6 update for Apple Watch",
       "url": "https://appleinsider.com/articles/26/07/27/apple-rolls-out-watchos-266-update-for-apple-watch?utm_source=rss",
       "pubDate": "2026-07-27T17:50:32.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "macOS Sonoma 14.8.8 and macOS Sequoia 15.7.8 now available",
-      "url": "https://9to5mac.com/2026/07/27/macos-sonoma-14-8-8-and-macos-sequoia-15-7-8-now-available/",
-      "pubDate": "2026-07-27T17:49:08.000Z"
     },
     {
       "source": "MacRumors",
@@ -337,20 +351,6 @@
       "title": "Unlock or recover your Mac using a special boot volume",
       "url": "https://sixcolors.com/post/2026/07/unlock-or-recover-your-mac-using-a-special-boot-volume/",
       "pubDate": "2026-07-27T15:29:34.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Big Sonos app update, & the state of smart home cameras on Smart Home Insider",
-      "url": "https://appleinsider.com/articles/26/07/27/big-sonos-app-update-the-state-of-smart-home-cameras-on-smart-home-insider?utm_source=rss",
-      "pubDate": "2026-07-27T15:23:03.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Cellular Apple Watch Series 11 plunges to $349, save $150",
-      "url": "https://appleinsider.com/articles/26/07/27/cellular-apple-watch-series-11-plunges-to-349-save-150?utm_source=rss",
-      "pubDate": "2026-07-27T15:13:57.000Z"
     },
     {
       "source": "The Verge",
