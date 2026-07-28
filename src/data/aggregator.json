@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T06:41:29.661Z",
+  "generatedAt": "2026-07-28T09:48:27.236Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "MacBook Ultra OLED Touch Panel to Be Exclusively Supplied by Samsung",
+      "url": "https://www.macrumors.com/2026/07/28/macbook-ultra-oled-touch-panel-samsung/",
+      "pubDate": "2026-07-28T09:16:08.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Hugging Face is being used to easily undress women and children",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
+      "pubDate": "2026-07-28T09:07:14.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Security Bite Podcast: Data brokers are breaking the internet",
+      "url": "https://9to5mac.com/2026/07/28/security-bite-podcast-data-brokers-are-breaking-the-internet/",
+      "pubDate": "2026-07-28T09:00:00.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -220,13 +241,6 @@
       "pubDate": "2026-07-27T17:38:55.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "watchOS 26.6 available now for Apple Watch, here’s what’s new",
-      "url": "https://9to5mac.com/2026/07/27/watchos-26-6-available-now-for-apple-watch-heres-whats-new/",
-      "pubDate": "2026-07-27T17:29:56.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Releases iOS 26.6 and iPadOS 26.6 With iOS 27 Optimizations",
@@ -351,20 +365,6 @@
       "title": "Tariffs didn’t bring manufacturing jobs back to the US",
       "url": "https://www.theverge.com/podcast/971306/tariffs-liberation-day-ai-trade-shipping-jobs-canada",
       "pubDate": "2026-07-27T15:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Samsung’s 27-inch QD-OLED gaming monitor is priced right at $299.99",
-      "url": "https://www.theverge.com/gadgets/971332/samsung-qdoled-gaming-monitor-find-my-tracker-ps5-logitech-deal-sale",
-      "pubDate": "2026-07-27T14:56:38.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "2026 MacBook Pro Now Up to $500 Off on Amazon Following Recent Price Increase",
-      "url": "https://www.macrumors.com/2026/07/27/macbook-pro-prices-up-to-500/",
-      "pubDate": "2026-07-27T14:18:39.000Z"
     },
     {
       "source": "Six Colors",
