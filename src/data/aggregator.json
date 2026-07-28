@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T16:51:17.457Z",
+  "generatedAt": "2026-07-28T18:46:48.851Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,11 +24,81 @@
   ],
   "items": [
     {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Apple won’t turn on any ‘restricted mode’ for missed lease payments",
+      "url": "https://www.theverge.com/tech/972063/apple-upgrade-program-no-restricted-mode",
+      "pubDate": "2026-07-28T18:43:57.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Tim Cook, John Ternus talk Apple CEO transition and more in new interview",
+      "url": "https://9to5mac.com/2026/07/28/tim-cook-john-ternus-talk-apple-ceo-transition-and-more-in-new-interview/",
+      "pubDate": "2026-07-28T18:38:49.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "New Yorkers will soon need to verify their age to access algorithmic feeds",
+      "url": "https://www.theverge.com/policy/972007/new-york-safe-for-kids-act-age-verification",
+      "pubDate": "2026-07-28T18:09:32.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Tile&#8217;s best Bluetooth tracker is down to its lowest price of the year",
+      "url": "https://www.theverge.com/gadgets/971976/tile-pro-bluetooth-tracker-deal-sale",
+      "pubDate": "2026-07-28T17:53:51.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Save $150 on this smart indoor bike trainer that can keep you riding during the off months",
+      "url": "https://www.theverge.com/gadgets/971634/wahoo-kickr-core-bike-trainer-dell-6k-monitor-deal-sale",
+      "pubDate": "2026-07-28T17:48:03.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Shares 'Ted Lasso' Season 4 Trailer",
+      "url": "https://www.macrumors.com/2026/07/28/ted-lasso-season-four-trailer/",
+      "pubDate": "2026-07-28T17:20:11.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: July 28, 2026 – Apple Upgrade is here",
+      "url": "https://9to5mac.com/2026/07/28/daily-july-28-2026/",
+      "pubDate": "2026-07-28T17:17:58.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Announces 'Silo' Season 4 is Coming Summer 2027",
+      "url": "https://www.macrumors.com/2026/07/28/apple-tv-silo-season-4-release-date/",
+      "pubDate": "2026-07-28T17:15:18.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Upgrade: Here’s the monthly subscription cost for every product",
+      "url": "https://9to5mac.com/2026/07/28/apple-upgrade-heres-the-monthly-subscription-cost-for-every-product/",
+      "pubDate": "2026-07-28T17:11:33.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Got a lot of Apple hardware? Here's how an Apple Ring can bind them all",
+      "url": "https://appleinsider.com/articles/26/07/28/got-a-lot-of-apple-hardware-heres-how-an-apple-ring-can-bind-them-all?utm_source=rss",
+      "pubDate": "2026-07-28T17:00:52.000Z"
+    },
+    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "All-New Apple Home Hub Reportedly Launching as Soon as October",
       "url": "https://www.macrumors.com/2026/07/28/apple-home-hub-as-soon-as-october/",
-      "pubDate": "2026-07-28T16:31:43.000Z"
+      "pubDate": "2026-07-28T16:31:32.000Z"
     },
     {
       "source": "Six Colors",
@@ -220,20 +290,6 @@
       "pubDate": "2026-07-28T13:35:40.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Indie App Sales promotion now live, featuring hundreds of exclusive discounts",
-      "url": "https://9to5mac.com/2026/07/28/indie-app-sales-promotion-now-live-featuring-hundreds-of-exclusive-discounts/",
-      "pubDate": "2026-07-28T13:34:30.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple TV may be losing $1B a year but its future is safe under Ternus",
-      "url": "https://9to5mac.com/2026/07/28/apple-tv-may-be-losing-1b-a-year-but-its-future-is-safe-under-ternus/",
-      "pubDate": "2026-07-28T13:06:20.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple Upgrade goes live as a new installment plan for iPhone, iPad, Mac, & Apple Watch",
@@ -262,27 +318,6 @@
       "pubDate": "2026-07-28T12:31:51.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
-      "pubDate": "2026-07-28T12:30:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple launches ‘Upgrade’ program to lease new devices",
-      "url": "https://www.theverge.com/tech/971220/apple-upgrade-program-iphone-mac-ipad-lease-launch",
-      "pubDate": "2026-07-28T12:23:50.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple shuts down iPhone Upgrade Program, here’s what’s next",
-      "url": "https://9to5mac.com/2026/07/28/apple-shuts-down-iphone-upgrade-program-heres-whats-next/",
-      "pubDate": "2026-07-28T12:22:35.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Retires iPhone Upgrade Program for Klarna-Backed Leases",
@@ -297,32 +332,11 @@
       "pubDate": "2026-07-28T12:05:15.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Smart rings are looking like my kind of AI gadget",
-      "url": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index",
-      "pubDate": "2026-07-28T12:00:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Ternus says he plans to build on the success of Apple TV",
-      "url": "https://appleinsider.com/articles/26/07/28/ternus-says-he-plans-to-build-on-the-success-of-apple-tv?utm_source=rss",
-      "pubDate": "2026-07-28T11:10:16.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "MacBook Ultra OLED Touch Panel to Be Exclusively Supplied by Samsung",
       "url": "https://www.macrumors.com/2026/07/28/macbook-ultra-oled-touch-panel-samsung/",
       "pubDate": "2026-07-28T09:16:08.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Hugging Face is being used to easily undress women and children",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
-      "pubDate": "2026-07-28T09:07:14.000Z"
     },
     {
       "source": "MacRumors",
@@ -337,20 +351,6 @@
       "title": "Apple's 2026 and 2027 Mac Roadmap: Every Model and When It Ships",
       "url": "https://www.macrumors.com/2026/07/27/mac-roadmap-2026/",
       "pubDate": "2026-07-27T22:48:41.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple on Verge of Becoming $5 Trillion Company",
-      "url": "https://www.macrumors.com/2026/07/27/apple-nearly-5-trillion-dollar-company/",
-      "pubDate": "2026-07-27T20:10:17.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Update Now: iOS 26.6 and macOS Tahoe 26.6 Patch Hundreds of Security Flaws",
-      "url": "https://www.macrumors.com/2026/07/27/ios-26-6-security-fixes/",
-      "pubDate": "2026-07-27T18:55:46.000Z"
     },
     {
       "source": "Six Colors",
