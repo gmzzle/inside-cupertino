@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T20:35:00.211Z",
+  "generatedAt": "2026-07-28T22:17:11.030Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iyO’s trademark lawsuit against OpenAI and Jony Ive paused over settlement talks",
+      "url": "https://9to5mac.com/2026/07/28/iyos-trademark-lawsuit-against-openai-and-jony-ive-paused-over-settlement-talks/",
+      "pubDate": "2026-07-28T21:43:08.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Instapaper update adds Liquid Glass, Home Screen widgets, new fonts, more",
+      "url": "https://9to5mac.com/2026/07/28/instapaper-update-adds-liquid-glass-home-screen-widgets-new-fonts-more/",
+      "pubDate": "2026-07-28T20:44:12.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -283,25 +297,11 @@
       "pubDate": "2026-07-28T14:40:12.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27’s Siri gets one thing very right that other AI assistants get wrong",
-      "url": "https://9to5mac.com/2026/07/28/ios-27s-siri-gets-one-thing-very-right-that-other-ai-assistants-get-wrong/",
-      "pubDate": "2026-07-28T14:24:24.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Best Back to School Accessory Deals on Anker, Sony, Samsung and More This Week",
       "url": "https://www.macrumors.com/2026/07/28/sonos-sony-anker-more-school-deals/",
       "pubDate": "2026-07-28T14:21:28.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Here’s how to avoid being trapped in never-ending Apple Upgrade leases",
-      "url": "https://9to5mac.com/2026/07/28/heres-how-to-avoid-being-trapped-in-never-ending-apple-upgrade-leases/",
-      "pubDate": "2026-07-28T14:21:20.000Z"
     },
     {
       "source": "AppleInsider",
@@ -323,6 +323,13 @@
       "title": "Privacy is dead, personal AI prompts indexed by Google search",
       "url": "https://appleinsider.com/articles/26/07/28/privacy-is-dead-personal-ai-prompts-indexed-by-google-search?utm_source=rss",
       "pubDate": "2026-07-28T14:00:23.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) The Rebound 609: I Know Rotten; I Was In Denmark",
+      "url": "https://sixcolors.com/podcast/2026/07/the-rebound-609-i-know-rotten-i-was-in-denmark/",
+      "pubDate": "2026-07-28T14:00:00.000Z"
     },
     {
       "source": "AppleInsider",
@@ -365,13 +372,6 @@
       "title": "(Podcast) Upgrade 630: Repeat 600 Times",
       "url": "https://sixcolors.com/podcast/2026/07/upgrade-630-repeat-600-times/",
       "pubDate": "2026-07-27T16:57:01.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Unlock or recover your Mac using a special boot volume",
-      "url": "https://sixcolors.com/post/2026/07/unlock-or-recover-your-mac-using-a-special-boot-volume/",
-      "pubDate": "2026-07-27T15:29:34.000Z"
     }
   ]
 }
