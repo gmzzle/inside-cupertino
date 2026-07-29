@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T19:45:07.786Z",
+  "generatedAt": "2026-07-29T21:12:55.019Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,69 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law",
+      "url": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
+      "pubDate": "2026-07-29T21:06:52.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Cyberpunk 2077 packs a lot of fun into its discounted $20 price",
+      "url": "https://www.theverge.com/gadgets/972777/cyberpunk-2077-deal-sale",
+      "pubDate": "2026-07-29T21:02:50.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Almost all future robot vacuums were just banned by the US government",
+      "url": "https://9to5mac.com/2026/07/29/almost-all-future-robot-vacuums-were-just-banned-by-the-us-government/",
+      "pubDate": "2026-07-29T21:01:01.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "DOJ fights Apple’s bid for records from 14 federal agencies in antitrust case",
+      "url": "https://9to5mac.com/2026/07/29/doj-fights-apples-bid-for-records-from-14-federal-agencies-in-antitrust-case/",
+      "pubDate": "2026-07-29T21:00:33.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "OpenAI President on Apple Lawsuit: We Don't Need Your Secrets",
+      "url": "https://www.macrumors.com/2026/07/29/openai-president-apple-lawsuit/",
+      "pubDate": "2026-07-29T20:45:58.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Maps in iOS 27 makes my favorite recent feature even better",
+      "url": "https://9to5mac.com/2026/07/29/apple-maps-in-ios-27-makes-my-favorite-recent-feature-even-better/",
+      "pubDate": "2026-07-29T20:33:44.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "OpenAI president admits new ChatGPT desktop app is ‘kind of a mess,’ teases tab-free design",
+      "url": "https://9to5mac.com/2026/07/29/openai-president-admits-new-chatgpt-desktop-app-is-kind-of-a-mess-teases-tab-free-design/",
+      "pubDate": "2026-07-29T20:28:24.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Xbox revenue drops 10 percent as Microsoft&#8217;s cloud and AI business surges",
+      "url": "https://www.theverge.com/tech/972738/xbox-revenue-microsoft-earnings-q4-2026",
+      "pubDate": "2026-07-29T20:26:48.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Begins Selling Refurbished Studio Display XDR at a Discount",
+      "url": "https://www.macrumors.com/2026/07/29/apple-refurbished-studio-display-xdr/",
+      "pubDate": "2026-07-29T20:14:57.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -185,13 +248,6 @@
       "pubDate": "2026-07-29T15:09:24.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Upgrade is a really great deal for one reason",
-      "url": "https://9to5mac.com/2026/07/29/apple-upgrade-is-a-really-great-deal-for-one-reason/",
-      "pubDate": "2026-07-29T14:49:55.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Best Buy's Back to School Sale Brings Big Savings on AirPods, MacBooks, Headphones, and More",
@@ -204,20 +260,6 @@
       "title": "Apple's New Upgrade Program: Is It Worth It?",
       "url": "https://www.macrumors.com/2026/07/29/is-apple-upgrade-program-worth-it/",
       "pubDate": "2026-07-29T14:29:29.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 adds three new iPhone features you’ll use all the time",
-      "url": "https://9to5mac.com/2026/07/29/ios-27-adds-three-new-iphone-features-youll-use-all-the-time/",
-      "pubDate": "2026-07-29T14:07:55.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone driver’s license looks set to roll out to a 15th US state",
-      "url": "https://9to5mac.com/2026/07/29/iphone-drivers-license-looks-set-to-roll-out-to-a-15th-us-state/",
-      "pubDate": "2026-07-29T13:52:57.000Z"
     },
     {
       "source": "MacRumors",
@@ -234,27 +276,6 @@
       "pubDate": "2026-07-29T13:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Nothing Ear 3A look great… and sound good enough",
-      "url": "https://www.theverge.com/tech/972254/nothing-ear-3a-earbuds-review",
-      "pubDate": "2026-07-29T12:30:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Samsung’s Galaxy Z Fold 8 feels like the future",
-      "url": "https://www.theverge.com/tech/972387/samsung-galaxy-z-fold-8-review",
-      "pubDate": "2026-07-29T12:22:03.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Online scams cost Americans almost $150B last year – 7x more than reported",
-      "url": "https://9to5mac.com/2026/07/29/online-scams-cost-americans-almost-150b-last-year-7x-more-than-reported/",
-      "pubDate": "2026-07-29T12:21:15.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple's corporate espionage suit against OpenAI: How we got here",
@@ -269,13 +290,6 @@
       "pubDate": "2026-07-29T12:03:56.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Artists are lawyering up against AI slop, and some are even winning",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
-      "pubDate": "2026-07-29T12:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "WhatsApp Rolls Out Web Calling, Call Transfer Across Devices, and More",
@@ -283,25 +297,11 @@
       "pubDate": "2026-07-29T10:05:53.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "OpenAI's First Devices: Speaker, Smartphone, and More",
-      "url": "https://www.macrumors.com/2026/07/28/openai-first-devices/",
-      "pubDate": "2026-07-29T01:00:10.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Twelve South Valet mini review: A luxe MagSafe catch-all with new, faster speeds",
       "url": "https://appleinsider.com/articles/26/07/28/twelve-south-valet-mini-review-a-luxe-magsafe-catch-all-with-new-faster-speeds?utm_source=rss",
       "pubDate": "2026-07-28T23:59:13.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27: All the New Phone and FaceTime Features",
-      "url": "https://www.macrumors.com/guide/ios-27-phone-facetime/",
-      "pubDate": "2026-07-28T22:36:25.000Z"
     },
     {
       "source": "AppleInsider",
