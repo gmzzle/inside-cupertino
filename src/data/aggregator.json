@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T22:17:11.030Z",
+  "generatedAt": "2026-07-29T00:10:09.326Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,11 +24,60 @@
   ],
   "items": [
     {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Twelve South Valet mini review: A luxe MagSafe catch-all with new, faster speeds",
+      "url": "https://appleinsider.com/articles/26/07/28/twelve-south-valet-mini-review-a-luxe-magsafe-catch-all-with-new-faster-speeds?utm_source=rss",
+      "pubDate": "2026-07-28T23:59:13.000Z"
+    },
+    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
-      "title": "iyO’s trademark lawsuit against OpenAI and Jony Ive paused over settlement talks",
+      "title": "iOS 26.6: Everything you need to know",
+      "url": "https://9to5mac.com/2026/07/28/ios-26-6-new-features-release-date-more/",
+      "pubDate": "2026-07-28T23:37:15.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The US is banning foreign robots",
+      "url": "https://www.theverge.com/tech/972259/us-foreign-robots-power-inverter-ban",
+      "pubDate": "2026-07-28T22:37:53.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iOS 27: All the New Phone and FaceTime Features",
+      "url": "https://www.macrumors.com/guide/ios-27-phone-facetime/",
+      "pubDate": "2026-07-28T22:36:25.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Ariana Grande is suing the hackers who&#8217;ve been leaking her songs and videos for years",
+      "url": "https://www.theverge.com/entertainment/972233/ariana-grande-hacking-lawsuit",
+      "pubDate": "2026-07-28T21:48:50.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iyO’s trademark lawsuit against OpenAI and Jony Ive paused over settlement talks [U]",
       "url": "https://9to5mac.com/2026/07/28/iyos-trademark-lawsuit-against-openai-and-jony-ive-paused-over-settlement-talks/",
       "pubDate": "2026-07-28T21:43:08.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The union drive at the Wikimedia Foundation is expanding",
+      "url": "https://www.theverge.com/news/972182/wikipedia-wikimedia-foundation-union-editor-strike",
+      "pubDate": "2026-07-28T21:11:11.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "eBay&#8217;s bizarre cyberstalking saga ends with a $56 million settlement",
+      "url": "https://www.theverge.com/tech/972209/ebay-cyberstalking-harassment-settlement",
+      "pubDate": "2026-07-28T21:11:11.000Z"
     },
     {
       "source": "9to5Mac",
@@ -75,7 +124,7 @@
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
-      "title": "AI leaders sign statement asking the government to do something about automated AI",
+      "title": "AI leaders sign a statement asking the government to do something about automated AI",
       "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
       "pubDate": "2026-07-28T19:46:43.000Z"
     },
@@ -157,27 +206,6 @@
       "pubDate": "2026-07-28T18:38:49.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "New Yorkers will soon need to verify their age to access algorithmic feeds",
-      "url": "https://www.theverge.com/policy/972007/new-york-safe-for-kids-act-age-verification",
-      "pubDate": "2026-07-28T18:09:32.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Tile&#8217;s best Bluetooth tracker is down to its lowest price of the year",
-      "url": "https://www.theverge.com/gadgets/971976/tile-pro-bluetooth-tracker-deal-sale",
-      "pubDate": "2026-07-28T17:53:51.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Save $150 on this smart indoor bike trainer that can keep you riding during the off months",
-      "url": "https://www.theverge.com/gadgets/971634/wahoo-kickr-core-bike-trainer-dell-6k-monitor-deal-sale",
-      "pubDate": "2026-07-28T17:48:03.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Shares 'Ted Lasso' Season 4 Trailer",
@@ -241,13 +269,6 @@
       "pubDate": "2026-07-28T16:00:22.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "HBO Max is putting on vertical shorts",
-      "url": "https://www.theverge.com/streaming/971880/hbo-max-vertical-video-feed-shorts",
-      "pubDate": "2026-07-28T15:59:37.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "iPhone 18 Pro could be a no-brainer upgrade for lots of users",
@@ -267,13 +288,6 @@
       "title": "Your iPhone could stop you getting into the wrong Uber ever again",
       "url": "https://appleinsider.com/articles/23/08/08/apple-wants-to-use-ar-to-guide-you-to-your-ride-sharing-apple-car?utm_source=rss",
       "pubDate": "2026-07-28T15:40:47.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: 24GB M5 MacBook Air $200 off, MacBook Pro $500 off, AirTag 2, AirPods, Beats cable $18, more",
-      "url": "https://9to5mac.com/2026/07/28/deals-macbook-air-airtag-2-airpods-beats-cable/",
-      "pubDate": "2026-07-28T15:26:11.000Z"
     },
     {
       "source": "MacRumors",
@@ -318,13 +332,6 @@
       "pubDate": "2026-07-28T14:14:45.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Privacy is dead, personal AI prompts indexed by Google search",
-      "url": "https://appleinsider.com/articles/26/07/28/privacy-is-dead-personal-ai-prompts-indexed-by-google-search?utm_source=rss",
-      "pubDate": "2026-07-28T14:00:23.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) The Rebound 609: I Know Rotten; I Was In Denmark",
@@ -351,13 +358,6 @@
       "title": "Beyond Preview: How UPDF brings PDF editing, conversion, OCR, and AI to Mac and iPad",
       "url": "https://appleinsider.com/articles/26/07/28/beyond-preview-how-updf-brings-pdf-editing-conversion-ocr-and-ai-to-mac-and-ipad?utm_source=rss",
       "pubDate": "2026-07-28T13:39:37.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Retires iPhone Upgrade Program for Klarna-Backed Leases",
-      "url": "https://www.macrumors.com/2026/07/28/apple-upgrade-program-klarna/",
-      "pubDate": "2026-07-28T12:20:10.000Z"
     },
     {
       "source": "Six Colors",
