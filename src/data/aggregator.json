@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T15:19:45.811Z",
+  "generatedAt": "2026-07-29T17:39:21.324Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,6 +24,83 @@
   ],
   "items": [
     {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "AirPods Pro 3 Still Available for Best Price Since Prime Day at $199.99",
+      "url": "https://www.macrumors.com/2026/07/29/airpods-pro-3-prime-day-199-99/",
+      "pubDate": "2026-07-29T17:24:01.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "UK is asking for 'highly intrusive' controls over App Store, says Apple",
+      "url": "https://appleinsider.com/articles/26/07/29/uk-is-asking-for-highly-intrusive-controls-over-app-store-says-apple?utm_source=rss",
+      "pubDate": "2026-07-29T17:18:26.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Review: This Asus ProArt 4K display has several features that separate it from the pack [Video]",
+      "url": "https://9to5mac.com/2026/07/29/asus-pa27ucge-review-160hz-colorimeter-monitor-hood-display/",
+      "pubDate": "2026-07-29T17:00:45.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Gemini for Mac Adds System-Wide Voice Dictation and Screen-Aware Commands",
+      "url": "https://www.macrumors.com/2026/07/29/gemini-for-mac-dictation/",
+      "pubDate": "2026-07-29T16:46:53.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Full school day cellphone bans are more popular than ever",
+      "url": "https://www.theverge.com/policy/972607/full-school-day-cell-phone-bans-are-more-popular-than-ever",
+      "pubDate": "2026-07-29T16:42:44.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple One’s high-end tier is getting harder to resist in iOS 27",
+      "url": "https://9to5mac.com/2026/07/29/apple-ones-high-end-tier-is-getting-harder-to-resist-in-ios-27/",
+      "pubDate": "2026-07-29T16:34:52.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iOS 27 Lets You Hide the Messages Button Everyone Hits by Mistake",
+      "url": "https://www.macrumors.com/how-to/ios-hide-dictation-messages-button/",
+      "pubDate": "2026-07-29T16:10:46.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Gemini for macOS rolling out voice control and Gboard Rambler-level transcription",
+      "url": "https://9to5google.com/2026/07/29/gemini-mac-voice-control/",
+      "pubDate": "2026-07-29T15:36:30.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The Ferrari Luce has at least 500 fans",
+      "url": "https://www.theverge.com/transportation/972569/ferrari-luce-ev-sales",
+      "pubDate": "2026-07-29T15:28:50.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Deals: M5 MacBook Pro $320 off, base MacBook Air $170 off, AirPods Pro 3, TechWoven case 32% off, Apple cables, more",
+      "url": "https://9to5mac.com/2026/07/29/deals-m5-macbook-pro-macbook-air-airpods-techwoven/",
+      "pubDate": "2026-07-29T15:26:54.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Wallet Support Coming to Manchester's Bee Card",
+      "url": "https://www.macrumors.com/2026/07/29/bee-card-apple-wallet-support-in-works/",
+      "pubDate": "2026-07-29T15:20:18.000Z"
+    },
+    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "iPhone 18 Pro vs iPhone Ultra: Here are the biggest differences",
@@ -38,6 +115,13 @@
       "pubDate": "2026-07-29T15:10:33.000Z"
     },
     {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Remarkable’s refurbished bundle is an awesome deal that’s over $350 off",
+      "url": "https://www.theverge.com/gadgets/972219/remarkable-paper-pro-twelve-south-airfly-2-pro-deluxe-deal-sale",
+      "pubDate": "2026-07-29T15:09:24.000Z"
+    },
+    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Apple Upgrade is a really great deal for one reason",
@@ -49,14 +133,14 @@
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Best Buy's Back to School Sale Brings Big Savings on AirPods, MacBooks, Headphones, and More",
       "url": "https://www.macrumors.com/2026/07/29/best-buys-school-sale/",
-      "pubDate": "2026-07-29T14:32:54.000Z"
+      "pubDate": "2026-07-29T14:32:49.000Z"
     },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Upgrade: Is Leasing Your Next iPhone Worth It?",
       "url": "https://www.macrumors.com/2026/07/29/is-apple-upgrade-program-worth-it/",
-      "pubDate": "2026-07-29T14:29:37.000Z"
+      "pubDate": "2026-07-29T14:29:29.000Z"
     },
     {
       "source": "9to5Mac",
@@ -192,20 +276,6 @@
       "pubDate": "2026-07-28T23:59:13.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 26.6: Everything you need to know",
-      "url": "https://9to5mac.com/2026/07/28/ios-26-6-new-features-release-date-more/",
-      "pubDate": "2026-07-28T23:37:15.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The US is banning foreign robots",
-      "url": "https://www.theverge.com/tech/972259/us-foreign-robots-power-inverter-ban",
-      "pubDate": "2026-07-28T22:37:53.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iOS 27: All the New Phone and FaceTime Features",
@@ -213,46 +283,11 @@
       "pubDate": "2026-07-28T22:36:25.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Ariana Grande is suing the hackers who&#8217;ve been leaking her songs and videos for years",
-      "url": "https://www.theverge.com/entertainment/972233/ariana-grande-hacking-lawsuit",
-      "pubDate": "2026-07-28T21:48:50.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iyO’s trademark lawsuit against OpenAI and Jony Ive paused over settlement talks [U]",
-      "url": "https://9to5mac.com/2026/07/28/iyos-trademark-lawsuit-against-openai-and-jony-ive-paused-over-settlement-talks/",
-      "pubDate": "2026-07-28T21:43:08.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The union drive at the Wikimedia Foundation is expanding",
-      "url": "https://www.theverge.com/news/972182/wikipedia-wikimedia-foundation-union-editor-strike",
-      "pubDate": "2026-07-28T21:11:11.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Instapaper update adds Liquid Glass, Home Screen widgets, new fonts, more",
-      "url": "https://9to5mac.com/2026/07/28/instapaper-update-adds-liquid-glass-home-screen-widgets-new-fonts-more/",
-      "pubDate": "2026-07-28T20:44:12.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Upgrade: 20 Things to Know Before Leasing an iPhone, iPad, or Mac",
       "url": "https://www.macrumors.com/2026/07/28/apple-upgrade-program-tidbits/",
       "pubDate": "2026-07-28T20:19:48.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple says iOS 27 ‘Restricted Mode’ isn’t for new Upgrade program leases",
-      "url": "https://9to5mac.com/2026/07/28/apple-says-ios-27-restricted-mode-isnt-for-new-upgrade-program-leases/",
-      "pubDate": "2026-07-28T20:08:13.000Z"
     },
     {
       "source": "MacRumors",
@@ -269,13 +304,6 @@
       "pubDate": "2026-07-28T19:51:46.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "AppleCare+ Changes Introduced in Canada",
-      "url": "https://www.macrumors.com/2026/07/28/applecare-changes-in-canada/",
-      "pubDate": "2026-07-28T19:33:17.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "There's still time to grab AirPods 4 for $99, AirPods Pro 3 for $199 at Amazon",
@@ -283,32 +311,11 @@
       "pubDate": "2026-07-28T19:00:26.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Shares 'Ted Lasso' Season 4 Trailer",
-      "url": "https://www.macrumors.com/2026/07/28/ted-lasso-season-four-trailer/",
-      "pubDate": "2026-07-28T17:20:11.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Announces 'Silo' Season 4 is Coming Summer 2027",
-      "url": "https://www.macrumors.com/2026/07/28/apple-tv-silo-season-4-release-date/",
-      "pubDate": "2026-07-28T17:15:18.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Got a lot of Apple hardware? Here's how an Apple Ring can bind them all",
       "url": "https://appleinsider.com/articles/26/07/28/got-a-lot-of-apple-hardware-heres-how-an-apple-ring-can-bind-them-all?utm_source=rss",
       "pubDate": "2026-07-28T17:00:52.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "All-New Apple Home Hub Reportedly Launching as Soon as October",
-      "url": "https://www.macrumors.com/2026/07/28/apple-home-hub-as-soon-as-october/",
-      "pubDate": "2026-07-28T16:31:32.000Z"
     },
     {
       "source": "Six Colors",
@@ -330,13 +337,6 @@
       "title": "Amazon slashes $500 off 14-inch M5 Pro MacBook Pro with 2TB SSD",
       "url": "https://appleinsider.com/articles/26/07/28/amazon-slashes-500-off-14-inch-m5-pro-macbook-pro-with-2tb-ssd?utm_source=rss",
       "pubDate": "2026-07-28T16:00:22.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple Upgrade: What you're going to pay per month for iPhone, Mac, or iPad",
-      "url": "https://appleinsider.com/articles/26/07/28/apple-upgrade-what-youre-going-to-pay-per-month-for-iphone-mac-or-ipad?utm_source=rss",
-      "pubDate": "2026-07-28T15:45:07.000Z"
     },
     {
       "source": "Six Colors",
