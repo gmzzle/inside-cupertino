@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T17:39:21.324Z",
+  "generatedAt": "2026-07-29T19:45:07.786Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,69 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Here Are All the Changes to AppleCare+ This Month",
+      "url": "https://www.macrumors.com/2026/07/29/applecare-changes-made-this-month/",
+      "pubDate": "2026-07-29T19:32:45.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Runna now automatically adapts training paces based on heat and humidity",
+      "url": "https://9to5mac.com/2026/07/29/runna-now-automatically-adapts-training-paces-based-on-heat-and-humidity/",
+      "pubDate": "2026-07-29T19:28:46.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Support for school cellphone bans reaches new high, where do you stand?",
+      "url": "https://9to5mac.com/2026/07/29/school-phone-ban-survey/",
+      "pubDate": "2026-07-29T18:59:24.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Galaxy Z Fold8 Review: What Samsung's New Foldable Tells Us About the iPhone Ultra",
+      "url": "https://www.macrumors.com/2026/07/29/galaxy-z-fold8-review/",
+      "pubDate": "2026-07-29T18:48:46.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "What’s the catch with the Apple Upgrade program?",
+      "url": "https://www.theverge.com/tech/972583/apple-upgrade-program-deal",
+      "pubDate": "2026-07-29T18:40:06.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "macOS 27 adds five new Mac features I’ve been loving",
+      "url": "https://9to5mac.com/2026/07/29/macos-27-adds-five-new-mac-features-ive-been-loving/",
+      "pubDate": "2026-07-29T18:30:24.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "OpenAI president says it&#8217;s &#8216;building a family of devices&#8217; for its AI chatbots",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
+      "pubDate": "2026-07-29T18:15:02.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The US government just banned Roombas",
+      "url": "https://www.theverge.com/policy/972312/us-robot-ban-sweep-up-chinese-vacuums",
+      "pubDate": "2026-07-29T18:13:09.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Amazon slashes AirPods Max 2 to $449 with a month-end $100 discount",
+      "url": "https://appleinsider.com/articles/26/07/29/amazon-slashes-airpods-max-2-to-449-with-a-month-end-100-discount?utm_source=rss",
+      "pubDate": "2026-07-29T18:06:17.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -138,7 +201,7 @@
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Upgrade: Is Leasing Your Next iPhone Worth It?",
+      "title": "Apple's New Upgrade Program: Is It Worth It?",
       "url": "https://www.macrumors.com/2026/07/29/is-apple-upgrade-program-worth-it/",
       "pubDate": "2026-07-29T14:29:29.000Z"
     },
@@ -213,53 +276,11 @@
       "pubDate": "2026-07-29T12:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-      "pubDate": "2026-07-29T11:54:29.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "HBO Max Shorts being tested on iPhone users in latest vertical video offensive",
-      "url": "https://9to5mac.com/2026/07/29/hbo-max-shorts-being-tested-on-iphone-users-in-latest-vertical-video-offensive/",
-      "pubDate": "2026-07-29T11:39:22.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Prototype smart ring cracks the holy grail of non-invasive blood sugar measurement",
-      "url": "https://9to5mac.com/2026/07/29/prototype-smart-ring-cracks-the-holy-grail-of-non-invasive-blood-sugar-measurement/",
-      "pubDate": "2026-07-29T11:03:40.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "We’re running out of reasons to ignore AI safety",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
-      "pubDate": "2026-07-29T11:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Xbox outage shouldn&#8217;t have affected games on disc, Microsoft confirms",
-      "url": "https://www.theverge.com/games/972416/xbox-outage-game-disc-entitlement-check-issue",
-      "pubDate": "2026-07-29T10:58:29.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "WhatsApp Rolls Out Web Calling, Call Transfer Across Devices, and More",
       "url": "https://www.macrumors.com/2026/07/29/whatsapp-web-calling-waiting-room-features/",
       "pubDate": "2026-07-29T10:05:53.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "The Outsiders adds more detailed performance metrics, workout sharing, more",
-      "url": "https://9to5mac.com/2026/07/29/the-outsiders-adds-more-detailed-performance-metrics-workout-sharing-more/",
-      "pubDate": "2026-07-29T08:00:00.000Z"
     },
     {
       "source": "MacRumors",
@@ -281,20 +302,6 @@
       "title": "iOS 27: All the New Phone and FaceTime Features",
       "url": "https://www.macrumors.com/guide/ios-27-phone-facetime/",
       "pubDate": "2026-07-28T22:36:25.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Upgrade: 20 Things to Know Before Leasing an iPhone, iPad, or Mac",
-      "url": "https://www.macrumors.com/2026/07/28/apple-upgrade-program-tidbits/",
-      "pubDate": "2026-07-28T20:19:48.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "'Granola' Launches on Apple Watch",
-      "url": "https://www.macrumors.com/2026/07/28/granola-launches-on-apple-watch/",
-      "pubDate": "2026-07-28T20:07:18.000Z"
     },
     {
       "source": "AppleInsider",
@@ -330,13 +337,6 @@
       "title": "Ahead of earnings, Goldman Sachs hikes AAPL target to $370",
       "url": "https://appleinsider.com/articles/26/07/28/ahead-of-earnings-goldman-sachs-hikes-aapl-target-to-370?utm_source=rss",
       "pubDate": "2026-07-28T16:25:32.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Amazon slashes $500 off 14-inch M5 Pro MacBook Pro with 2TB SSD",
-      "url": "https://appleinsider.com/articles/26/07/28/amazon-slashes-500-off-14-inch-m5-pro-macbook-pro-with-2tb-ssd?utm_source=rss",
-      "pubDate": "2026-07-28T16:00:22.000Z"
     },
     {
       "source": "Six Colors",
