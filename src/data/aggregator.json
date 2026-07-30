@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T09:43:18.530Z",
+  "generatedAt": "2026-07-30T12:04:26.422Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,55 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "A second lens makes DJI’s Osmo Pocket 4P my new favorite video camera",
+      "url": "https://www.theverge.com/gadgets/972456/dji-osmo-pocket-4p-review",
+      "pubDate": "2026-07-30T12:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "When Will Apple Announce the iPhone 18 Pro and iPhone Ultra Event?",
+      "url": "https://www.macrumors.com/2026/07/30/when-will-apple-announce-iphone-18-pro-event/",
+      "pubDate": "2026-07-30T11:59:26.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "AI chatbots are now better than humans at romance scams – and that’s scary",
+      "url": "https://9to5mac.com/2026/07/30/ai-chatbots-are-now-better-than-humans-at-romance-scams-and-thats-scary/",
+      "pubDate": "2026-07-30T11:59:14.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iOS 27: Tone Down Liquid Glass Transparency",
+      "url": "https://www.macrumors.com/how-to/ios-27-tone-down-liquid-glass-transparency/",
+      "pubDate": "2026-07-30T11:27:14.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Jony Ive’s first OpenAI hardware device sounds rather like … a HomePad",
+      "url": "https://9to5mac.com/2026/07/30/jony-ives-first-openai-hardware-device-sounds-rather-like-a-homepad/",
+      "pubDate": "2026-07-30T11:13:47.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone 18 Pro: Twelve Changes Coming to Apple's Next Flagship",
+      "url": "https://www.macrumors.com/2026/07/30/reasons-to-wait-iphone-18-pro/",
+      "pubDate": "2026-07-30T10:43:11.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "SwitchBot makes a better fan",
+      "url": "https://www.theverge.com/tech/972986/switchbot-makes-a-better-fan",
+      "pubDate": "2026-07-30T10:30:55.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -206,13 +255,6 @@
       "pubDate": "2026-07-29T20:33:44.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "OpenAI president admits new ChatGPT desktop app is ‘kind of a mess,’ teases tab-free design",
-      "url": "https://9to5mac.com/2026/07/29/openai-president-admits-new-chatgpt-desktop-app-is-kind-of-a-mess-teases-tab-free-design/",
-      "pubDate": "2026-07-29T20:28:24.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Xbox revenue drops 10 percent as Microsoft&#8217;s cloud and AI business surges",
@@ -232,13 +274,6 @@
       "title": "All the Changes to AppleCare+ This Month",
       "url": "https://www.macrumors.com/2026/07/29/applecare-changes-made-this-month/",
       "pubDate": "2026-07-29T19:32:38.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Runna now automatically adapts training paces based on heat and humidity",
-      "url": "https://9to5mac.com/2026/07/29/runna-now-automatically-adapts-training-paces-based-on-heat-and-humidity/",
-      "pubDate": "2026-07-29T19:28:46.000Z"
     },
     {
       "source": "MacRumors",
@@ -262,13 +297,6 @@
       "pubDate": "2026-07-29T18:15:02.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The US government just banned Roombas",
-      "url": "https://www.theverge.com/policy/972312/us-robot-ban-sweep-up-chinese-vacuums",
-      "pubDate": "2026-07-29T18:13:09.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Amazon slashes AirPods Max 2 to $449 with a month-end $100 discount",
@@ -276,39 +304,11 @@
       "pubDate": "2026-07-29T18:06:17.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "AirPods Pro 3 Still Available for Best Price Since Prime Day at $199.99",
-      "url": "https://www.macrumors.com/2026/07/29/airpods-pro-3-prime-day-199-99/",
-      "pubDate": "2026-07-29T17:24:01.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "UK is asking for 'highly intrusive' controls over App Store, says Apple",
       "url": "https://appleinsider.com/articles/26/07/29/uk-is-asking-for-highly-intrusive-controls-over-app-store-says-apple?utm_source=rss",
       "pubDate": "2026-07-29T17:18:26.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Gemini for Mac Adds System-Wide Voice Dictation and Screen-Aware Commands",
-      "url": "https://www.macrumors.com/2026/07/29/gemini-for-mac-dictation/",
-      "pubDate": "2026-07-29T16:46:53.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Full school day cellphone bans are more popular than ever",
-      "url": "https://www.theverge.com/policy/972607/full-school-day-cell-phone-bans-are-more-popular-than-ever",
-      "pubDate": "2026-07-29T16:42:44.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27 Lets You Hide the Messages Button Everyone Hits by Mistake",
-      "url": "https://www.macrumors.com/how-to/ios-hide-dictation-messages-button/",
-      "pubDate": "2026-07-29T16:10:46.000Z"
     },
     {
       "source": "AppleInsider",
