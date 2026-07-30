@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T16:50:28.056Z",
+  "generatedAt": "2026-07-30T18:47:45.820Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,104 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "This MacBook Pro just fell below its pre-price-hike MSRP (Save $500)",
+      "url": "https://9to5mac.com/2026/07/30/this-macbook-pro-just-fell-below-its-pre-price-hike-msrp-save-500/",
+      "pubDate": "2026-07-30T18:45:23.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "LinkedIn actually adds a ‘seems like AI slop’ button",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
+      "pubDate": "2026-07-30T18:43:26.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: July 30, 2026 – iOS 26.6, Apple’s smart home plans",
+      "url": "https://9to5mac.com/2026/07/30/daily-july-30-2026/",
+      "pubDate": "2026-07-30T18:35:08.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Govee&#8217;s portable smart lamp is down to one of its best prices to date",
+      "url": "https://www.theverge.com/gadgets/973266/govee-table-lamp-classic-back-to-school-deal-sale",
+      "pubDate": "2026-07-30T18:01:26.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Fortnite returns to iPhone in Brazil with Epic Games Store launch",
+      "url": "https://9to5mac.com/2026/07/30/fortnite-returns-to-iphone-in-brazil-with-epic-games-store-launch/",
+      "pubDate": "2026-07-30T17:47:31.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple is about to launch Home product overhaul I’ve wanted for years",
+      "url": "https://9to5mac.com/2026/07/30/apple-is-about-to-launch-home-product-overhaul-ive-wanted-for-years/",
+      "pubDate": "2026-07-30T17:29:44.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Donating to Japan Earthquake Relief Efforts",
+      "url": "https://www.macrumors.com/2026/07/30/apple-japan-earthquake-donation/",
+      "pubDate": "2026-07-30T17:26:39.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "OpenAI makes two GPT-5.6 models cheaper, expanding usage in ChatGPT",
+      "url": "https://9to5mac.com/2026/07/30/openai-makes-two-gpt-5-6-models-cheaper-expanding-usage-in-chatgpt/",
+      "pubDate": "2026-07-30T17:25:37.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "G4 meets M4: This project fuses an iconic iMac with a Mac mini",
+      "url": "https://appleinsider.com/articles/26/07/30/g4-meets-m4-this-project-fuses-an-iconic-imac-with-a-mac-mini?utm_source=rss",
+      "pubDate": "2026-07-30T17:21:24.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "NASA’s Curiosity rover found a ‘sea of polygons’ on Mars",
+      "url": "https://www.theverge.com/science/973314/nasa-curiosity-rover-mars-polygons",
+      "pubDate": "2026-07-30T17:20:06.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Google DeepMind’s new AI model can control a robot’s entire body",
+      "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+      "pubDate": "2026-07-30T17:18:45.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "ABC demands FCC drop its ‘punitive’ early license renewal of its stations",
+      "url": "https://www.theverge.com/policy/973289/abc-fcc-early-license-renewal-opposition",
+      "pubDate": "2026-07-30T17:08:14.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Google is working on Chrome updates that don’t require restarts",
+      "url": "https://www.theverge.com/tech/973174/google-chrome-update-no-restart",
+      "pubDate": "2026-07-30T17:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Pixel 11 Pro Fold design leaks ahead of Google launch event",
+      "url": "https://www.theverge.com/tech/973249/pixel-11-pro-fold-buds-watch-leaks-google-launch-event",
+      "pubDate": "2026-07-30T16:57:39.000Z"
+    },
     {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
@@ -108,39 +206,11 @@
       "pubDate": "2026-07-30T15:05:09.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Razer’s new keyboards drop the price on powerful gaming features",
-      "url": "https://www.theverge.com/tech/973027/razer-huntsman-v3-he-magnetic-mechanical-keyboard-snap-tap-price-impressions",
-      "pubDate": "2026-07-30T15:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Zoox can now charge for rides in its steering-wheel-free robotaxis",
-      "url": "https://www.theverge.com/transportation/973099/zoox-amazon-nhtsa-robotaxi-approval",
-      "pubDate": "2026-07-30T14:35:43.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "iOS 27 will bring five new features not yet announced, per rumors",
       "url": "https://9to5mac.com/2026/07/30/ios-27-will-bring-five-new-features-not-yet-announced-per-rumors/",
       "pubDate": "2026-07-30T14:35:24.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Microsoft’s latest Surface Laptop is hundreds off at Best Buy",
-      "url": "https://www.theverge.com/gadgets/973056/surface-laptop-16gb-ram-microsd-express-switch-2-lego-game-boy-deal-sale",
-      "pubDate": "2026-07-30T14:22:20.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "G4 meets M4: This project fuses an iconic iMac with a Mac mini",
-      "url": "https://appleinsider.com/articles/26/07/30/g4-meets-m4-this-project-fuses-an-iconic-imac-with-a-mac-mini?utm_source=rss",
-      "pubDate": "2026-07-30T14:03:13.000Z"
     },
     {
       "source": "MacRumors",
@@ -185,46 +255,11 @@
       "pubDate": "2026-07-30T13:20:44.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "No surprises expected from today’s AAPL earnings report, but one huge question",
-      "url": "https://9to5mac.com/2026/07/30/no-surprises-expected-from-todays-aapl-earnings-report-but-one-huge-question/",
-      "pubDate": "2026-07-30T13:19:30.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Spotify Running Mode helps match tunes to tempo",
-      "url": "https://www.theverge.com/entertainment/973002/spotify-running-mode-launch-bpm-playlists",
-      "pubDate": "2026-07-30T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Amazon’s short story collections are one of the best reasons to own a Kindle",
-      "url": "https://www.theverge.com/tech/972612/amazons-kindle-short-stories",
-      "pubDate": "2026-07-30T12:30:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "A second lens makes DJI’s Osmo Pocket 4P my new favorite video camera",
-      "url": "https://www.theverge.com/gadgets/972456/dji-osmo-pocket-4p-review",
-      "pubDate": "2026-07-30T12:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iPhone 18 Pro and iPhone Ultra: When is the Next Apple Event?",
       "url": "https://www.macrumors.com/2026/07/30/when-will-apple-announce-iphone-18-pro-event/",
       "pubDate": "2026-07-30T11:59:18.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "AI chatbots are now better than humans at romance scams – and that’s scary",
-      "url": "https://9to5mac.com/2026/07/30/ai-chatbots-are-now-better-than-humans-at-romance-scams-and-thats-scary/",
-      "pubDate": "2026-07-30T11:59:14.000Z"
     },
     {
       "source": "MacRumors",
@@ -234,25 +269,11 @@
       "pubDate": "2026-07-30T11:27:14.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Jony Ive’s first OpenAI hardware device sounds rather like … a HomePad",
-      "url": "https://9to5mac.com/2026/07/30/jony-ives-first-openai-hardware-device-sounds-rather-like-a-homepad/",
-      "pubDate": "2026-07-30T11:13:47.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iPhone 18 Pro: Twelve Changes Coming to Apple's Next Flagship",
       "url": "https://www.macrumors.com/2026/07/30/reasons-to-wait-iphone-18-pro/",
       "pubDate": "2026-07-30T10:43:11.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "SwitchBot makes a better fan",
-      "url": "https://www.theverge.com/tech/972986/switchbot-makes-a-better-fan",
-      "pubDate": "2026-07-30T10:30:55.000Z"
     },
     {
       "source": "AppleInsider",
@@ -262,25 +283,11 @@
       "pubDate": "2026-07-30T03:04:43.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "PSA: App Store, iTunes Store and other Apple services are currently down for some users [U: Fixed]",
-      "url": "https://9to5mac.com/2026/07/29/psa-app-store-itunes-store-and-other-apple-services-are-currently-down-for-some-users/",
-      "pubDate": "2026-07-30T02:29:50.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "US senators urge Apple to abandon plans for Chinese-made chips",
       "url": "https://appleinsider.com/articles/26/07/30/us-senators-urge-apple-to-abandon-plans-for-chinese-made-chips?utm_source=rss",
       "pubDate": "2026-07-30T02:18:51.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple pledges support for communities affected by southern Europe wildfires",
-      "url": "https://9to5mac.com/2026/07/29/apple-pledges-support-for-communities-affected-by-southern-europe-wildfires/",
-      "pubDate": "2026-07-30T02:14:39.000Z"
     },
     {
       "source": "MacRumors",
@@ -316,13 +323,6 @@
       "title": "Apple Says UK App Store Steering Rules Would Be 'Highly Intrusive'",
       "url": "https://www.macrumors.com/2026/07/29/app-store-uk-rules-highly-intrusive/",
       "pubDate": "2026-07-29T22:43:12.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Pastebot 3 for Mac Adds Rule-Based Organization, Powerful Paste Filters",
-      "url": "https://www.macrumors.com/2026/07/29/tapbots-pastebot-3/",
-      "pubDate": "2026-07-29T22:14:30.000Z"
     },
     {
       "source": "Six Colors",
