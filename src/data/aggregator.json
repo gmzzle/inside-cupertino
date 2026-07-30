@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T20:35:23.217Z",
+  "generatedAt": "2026-07-30T22:19:33.768Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,125 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Xbox CEO says the team has one year to start growing again",
+      "url": "https://www.theverge.com/games/973520/xbox-ceo-memo-one-year-growth",
+      "pubDate": "2026-07-30T22:10:13.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Warns of Growing Supply Constraints for iPhone, iPad, and Mac",
+      "url": "https://www.macrumors.com/2026/07/30/apple-iphone-mac-ipad-supply-constraints/",
+      "pubDate": "2026-07-30T22:02:25.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Ternus's MacBook Neo pushes Mac sales to unexpected Q3 heights",
+      "url": "https://appleinsider.com/articles/26/07/30/ternuss-macbook-neo-pushes-mac-sales-to-unexpected-q3-heights?utm_source=rss",
+      "pubDate": "2026-07-30T21:42:28.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Tim Cook says goodbye to analysts & shareholders on his final Apple earnings call",
+      "url": "https://appleinsider.com/articles/26/07/30/tim-cook-says-goodbye-to-analysts-shareholders-on-his-final-apple-earnings-call?utm_source=rss",
+      "pubDate": "2026-07-30T21:40:14.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Tim Cook marks final earnings call as Apple CEO, confirms Ternus will take over calls",
+      "url": "https://9to5mac.com/2026/07/30/tim-cook-marks-final-earnings-call-as-apple-ceo-confirms-ternus-will-take-over-calls/",
+      "pubDate": "2026-07-30T21:39:59.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple hits 1.5 billion subscription milestone, still falls short of Wall Street wants",
+      "url": "https://appleinsider.com/articles/26/07/30/apple-hits-15-billion-subscription-milestone-still-falls-short-of-wall-street-wants?utm_source=rss",
+      "pubDate": "2026-07-30T21:32:30.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple blows away Wall Street guess-work again with record-breaking earnings",
+      "url": "https://appleinsider.com/articles/26/07/30/apple-blows-away-wall-street-guess-work-again-with-record-breaking-earnings?utm_source=rss",
+      "pubDate": "2026-07-30T21:28:27.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "One last time, this is Tim: Final transcript of Apple’s Q3 2026 earnings call",
+      "url": "https://sixcolors.com/post/2026/07/one-last-time-this-is-tim-transcript-of-apples-q3-2026-financial-call/",
+      "pubDate": "2026-07-30T21:19:35.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Tariff refunds bolster Apple's record-breaking June quarter",
+      "url": "https://appleinsider.com/articles/26/07/30/tariff-refunds-bolster-apples-record-breaking-june-quarter?utm_source=rss",
+      "pubDate": "2026-07-30T21:05:16.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple spent a record $11.73 billion in R&D during Q3 2026",
+      "url": "https://9to5mac.com/2026/07/30/apple-spent-a-record-11-73-billion-in-rd-during-q3-2026/",
+      "pubDate": "2026-07-30T21:01:19.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "A $0.27 dividend follows Apple's strongest June quarter yet",
+      "url": "https://appleinsider.com/articles/26/07/30/a-027-dividend-follows-apples-strongest-june-quarter-yet?utm_source=rss",
+      "pubDate": "2026-07-30T21:00:43.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple just hit 1.5 billion paid subscriptions from its user base",
+      "url": "https://9to5mac.com/2026/07/30/apple-just-hit-1-5-billion-paid-subscriptions-from-its-user-base/",
+      "pubDate": "2026-07-30T20:57:06.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Apple&#8217;s iPhone and Mac sales keep growing despite RAM shortages",
+      "url": "https://www.theverge.com/tech/973430/apple-q3-2026-earnings",
+      "pubDate": "2026-07-30T20:49:32.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The loss of Situational Awareness",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
+      "pubDate": "2026-07-30T20:46:25.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Apple announces record Q3 results",
+      "url": "https://sixcolors.com/post/2026/07/apple-announces-record-q3-results/",
+      "pubDate": "2026-07-30T20:39:46.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Reports 3Q 2026 Results: $29.8B Profit on $109.4B Revenue",
+      "url": "https://www.macrumors.com/2026/07/30/apple-3q-2026-earnings/",
+      "pubDate": "2026-07-30T20:38:12.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple reports Q3 2026 earnings: $109.4 billion in revenue, up 16% [Charts]",
+      "url": "https://9to5mac.com/2026/07/30/apple-reports-q3-2026-earnings-109-4-billion-in-revenue-up-16/",
+      "pubDate": "2026-07-30T20:36:13.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -136,13 +255,6 @@
       "pubDate": "2026-07-30T17:26:39.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "OpenAI makes two GPT-5.6 models cheaper, expanding usage in ChatGPT",
-      "url": "https://9to5mac.com/2026/07/30/openai-makes-two-gpt-5-6-models-cheaper-expanding-usage-in-chatgpt/",
-      "pubDate": "2026-07-30T17:25:37.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "G4 meets M4: This project fuses an iconic iMac with a Mac mini",
@@ -178,25 +290,11 @@
       "pubDate": "2026-07-30T17:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Pixel 11 Pro Fold design leaks ahead of Google launch event",
-      "url": "https://www.theverge.com/tech/973249/pixel-11-pro-fold-buds-watch-leaks-google-launch-event",
-      "pubDate": "2026-07-30T16:57:39.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Apple to announce Q3 fiscal results later today",
       "url": "https://sixcolors.com/post/2026/07/apple-to-announce-q3-fiscal-results-later-today/",
       "pubDate": "2026-07-30T16:50:01.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Friend re-launches its AI pendant with a speaker that talks to you, for twice the price",
-      "url": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
-      "pubDate": "2026-07-30T16:33:32.000Z"
     },
     {
       "source": "AppleInsider",
@@ -206,39 +304,11 @@
       "pubDate": "2026-07-30T16:05:47.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Yahoo Weather iOS app overhauled with new features  and enhanced radar and maps",
-      "url": "https://9to5mac.com/2026/07/30/yahoo-weather-ios-update/",
-      "pubDate": "2026-07-30T15:59:20.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Here’s everything new for Apple Notes in iOS 27",
-      "url": "https://9to5mac.com/2026/07/30/heres-everything-new-for-apple-notes-in-ios-27/",
-      "pubDate": "2026-07-30T15:55:10.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Spotify Adds Running Mode to iOS App With Tempo-Matched Music",
       "url": "https://www.macrumors.com/2026/07/30/spotify-adds-running-mode-iphone/",
       "pubDate": "2026-07-30T15:49:15.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Best Buy is selling an RTX 5080 for more than the RTX 5090’s MSRP",
-      "url": "https://www.theverge.com/games/973173/asus-rog-rtx-5080-price-hike-best-buy",
-      "pubDate": "2026-07-30T15:48:10.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: MacBook Pro $500 off, rare MacBook Air discounts, AirTag 2, charging gear, MagSage Battery, more",
-      "url": "https://9to5mac.com/2026/07/30/deals-macbook-pro-macbook-air-airtag-2-airpods/",
-      "pubDate": "2026-07-30T15:38:48.000Z"
     },
     {
       "source": "AppleInsider",
@@ -283,32 +353,11 @@
       "pubDate": "2026-07-30T11:59:18.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27: Tone Down Liquid Glass Transparency",
-      "url": "https://www.macrumors.com/how-to/ios-27-tone-down-liquid-glass-transparency/",
-      "pubDate": "2026-07-30T11:27:14.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone 18 Pro: Twelve Changes Coming to Apple's Next Flagship",
-      "url": "https://www.macrumors.com/2026/07/30/reasons-to-wait-iphone-18-pro/",
-      "pubDate": "2026-07-30T10:43:11.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "How to change your Home address in Maps on iPhone",
       "url": "https://appleinsider.com/articles/26/07/30/how-to-change-your-home-address-in-maps-on-iphone?utm_source=rss",
       "pubDate": "2026-07-30T03:04:43.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "US senators urge Apple to abandon plans for Chinese-made chips",
-      "url": "https://appleinsider.com/articles/26/07/30/us-senators-urge-apple-to-abandon-plans-for-chinese-made-chips?utm_source=rss",
-      "pubDate": "2026-07-30T02:18:51.000Z"
     },
     {
       "source": "Six Colors",
@@ -318,60 +367,11 @@
       "pubDate": "2026-07-30T00:10:06.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple's reliance on Qualcomm could decline faster than expected after Q4 2026",
-      "url": "https://appleinsider.com/articles/26/07/29/apples-reliance-on-qualcomm-could-decline-faster-than-expected-after-q4-2026?utm_source=rss",
-      "pubDate": "2026-07-29T23:31:12.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) Clockwise 667: The TV Judge Rejects Your Argument",
       "url": "https://sixcolors.com/podcast/2026/07/clockwise-667-the-tv-judge-rejects-your-argument/",
       "pubDate": "2026-07-29T21:12:59.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Amazon slashes AirPods Max 2 to $449 with a month-end $100 discount",
-      "url": "https://appleinsider.com/articles/26/07/29/amazon-slashes-airpods-max-2-to-449-with-a-month-end-100-discount?utm_source=rss",
-      "pubDate": "2026-07-29T18:06:17.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "UK is asking for 'highly intrusive' controls over App Store, says Apple",
-      "url": "https://appleinsider.com/articles/26/07/29/uk-is-asking-for-highly-intrusive-controls-over-app-store-says-apple?utm_source=rss",
-      "pubDate": "2026-07-29T17:18:26.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "AI leaves the chat window behind with Gemini's new Mac voice mode",
-      "url": "https://appleinsider.com/articles/26/07/29/ai-leaves-the-chat-window-behind-with-geminis-new-mac-voice-mode?utm_source=rss",
-      "pubDate": "2026-07-29T15:10:33.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "App report: Kicking my World Cup withdrawal",
-      "url": "https://sixcolors.com/post/2026/07/app-report-kicking-my-world-cup-withdrawal/",
-      "pubDate": "2026-07-28T16:30:27.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) The Rebound 609: I Know Rotten; I Was In Denmark",
-      "url": "https://sixcolors.com/podcast/2026/07/the-rebound-609-i-know-rotten-i-was-in-denmark/",
-      "pubDate": "2026-07-28T14:00:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Beyond Preview: How UPDF brings PDF editing, conversion, OCR, and AI to Mac and iPad",
-      "url": "https://appleinsider.com/articles/26/07/28/beyond-preview-how-updf-brings-pdf-editing-conversion-ocr-and-ai-to-mac-and-ipad?utm_source=rss",
-      "pubDate": "2026-07-28T13:39:37.000Z"
     }
   ]
 }
