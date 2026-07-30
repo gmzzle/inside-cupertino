@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T14:32:53.507Z",
+  "generatedAt": "2026-07-30T16:50:28.056Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,111 @@
     }
   ],
   "items": [
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Apple to announce Q3 fiscal results later today",
+      "url": "https://sixcolors.com/post/2026/07/apple-to-announce-q3-fiscal-results-later-today/",
+      "pubDate": "2026-07-30T16:50:01.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Friend re-launches its AI pendant with a speaker that talks to you, for twice the price",
+      "url": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
+      "pubDate": "2026-07-30T16:33:32.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Amazon launches $399 Samsung 32\" M80F monitor deal, now $300 off",
+      "url": "https://appleinsider.com/articles/26/07/30/amazon-launches-399-samsung-32-m80f-monitor-deal-now-300-off?utm_source=rss",
+      "pubDate": "2026-07-30T16:05:47.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Yahoo Weather iOS app overhauled with new features  and enhanced radar and maps",
+      "url": "https://9to5mac.com/2026/07/30/yahoo-weather-ios-update/",
+      "pubDate": "2026-07-30T15:59:20.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Here’s everything new for Apple Notes in iOS 27",
+      "url": "https://9to5mac.com/2026/07/30/heres-everything-new-for-apple-notes-in-ios-27/",
+      "pubDate": "2026-07-30T15:55:10.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Spotify Adds Running Mode to iOS App With Tempo-Matched Music",
+      "url": "https://www.macrumors.com/2026/07/30/spotify-adds-running-mode-iphone/",
+      "pubDate": "2026-07-30T15:49:15.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Best Buy is selling an RTX 5080 for more than the RTX 5090’s MSRP",
+      "url": "https://www.theverge.com/games/973173/asus-rog-rtx-5080-price-hike-best-buy",
+      "pubDate": "2026-07-30T15:48:10.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Deals: MacBook Pro $500 off, rare MacBook Air discounts, AirTag 2, charging gear, MagSage Battery, more",
+      "url": "https://9to5mac.com/2026/07/30/deals-macbook-pro-macbook-air-airtag-2-airpods/",
+      "pubDate": "2026-07-30T15:38:48.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple pledges aid as wildfires devastate southern Europe",
+      "url": "https://appleinsider.com/articles/26/07/30/apple-pledges-aid-as-wildfires-devastate-southern-europe?utm_source=rss",
+      "pubDate": "2026-07-30T15:33:05.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "It's not just humanoid robots, new robot vacuums face a US blockade",
+      "url": "https://appleinsider.com/articles/26/07/30/its-not-just-humanoid-robots-new-robot-vacuums-face-a-us-blockade?utm_source=rss",
+      "pubDate": "2026-07-30T15:25:52.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Upgrade vs iPhone Upgrade Program: Here are the key differences",
+      "url": "https://9to5mac.com/2026/07/30/apple-upgrade-vs-iphone-upgrade-program-here-are-the-key-differences/",
+      "pubDate": "2026-07-30T15:08:26.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Xiaomi’s SkyNomad N90 Max is an extended-range EV with a transforming interior",
+      "url": "https://www.theverge.com/tech/973053/xiaomi-skynomad-n90-max-extended-range-electric-suv",
+      "pubDate": "2026-07-30T15:05:09.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Razer’s new keyboards drop the price on powerful gaming features",
+      "url": "https://www.theverge.com/tech/973027/razer-huntsman-v3-he-magnetic-mechanical-keyboard-snap-tap-price-impressions",
+      "pubDate": "2026-07-30T15:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Zoox can now charge for rides in its steering-wheel-free robotaxis",
+      "url": "https://www.theverge.com/transportation/973099/zoox-amazon-nhtsa-robotaxi-approval",
+      "pubDate": "2026-07-30T14:35:43.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 will bring five new features not yet announced, per rumors",
+      "url": "https://9to5mac.com/2026/07/30/ios-27-will-bring-five-new-features-not-yet-announced-per-rumors/",
+      "pubDate": "2026-07-30T14:35:24.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -185,13 +290,6 @@
       "pubDate": "2026-07-30T01:00:11.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple faces bipartisan Senate pushback over plans to buy Chinese memory chips",
-      "url": "https://9to5mac.com/2026/07/29/apple-faces-bipartisan-senate-pushback-over-plans-to-buy-chinese-memory-chips/",
-      "pubDate": "2026-07-30T00:41:49.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Qualcomm Expects Apple Modem Revenue to Drop Faster Than Expected",
@@ -206,25 +304,11 @@
       "pubDate": "2026-07-30T00:10:06.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Studio Display XDR hits Apple’s refurb store, saving you up to $540",
-      "url": "https://9to5mac.com/2026/07/29/studio-display-xdr-hits-apples-refurb-store-saving-you-up-to-540/",
-      "pubDate": "2026-07-30T00:09:03.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple's reliance on Qualcomm could decline faster than expected after Q4 2026",
       "url": "https://appleinsider.com/articles/26/07/29/apples-reliance-on-qualcomm-could-decline-faster-than-expected-after-q4-2026?utm_source=rss",
       "pubDate": "2026-07-29T23:31:12.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: July 29, 2026 – iOS 26.6, Apple’s smart home plans",
-      "url": "https://9to5mac.com/2026/07/29/daily-july-29-2026/",
-      "pubDate": "2026-07-29T23:27:51.000Z"
     },
     {
       "source": "MacRumors",
@@ -234,20 +318,6 @@
       "pubDate": "2026-07-29T22:43:12.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Qualcomm says supply constraints are shrinking its Apple business faster than expected",
-      "url": "https://9to5mac.com/2026/07/29/qualcomm-says-supply-constraints-are-shrinking-its-apple-business-faster-than-expected/",
-      "pubDate": "2026-07-29T22:30:08.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Microsoft confirms Copilot ‘super app’ coming this year",
-      "url": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
-      "pubDate": "2026-07-29T22:17:38.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Pastebot 3 for Mac Adds Rule-Based Organization, Powerful Paste Filters",
@@ -255,53 +325,11 @@
       "pubDate": "2026-07-29T22:14:30.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Releases Safari Technology Preview 249 With Bug Fixes and Performance Improvements",
-      "url": "https://www.macrumors.com/2026/07/29/apple-releases-safari-technology-preview-249/",
-      "pubDate": "2026-07-29T22:03:29.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Mark Zuckerberg is planning a big push into personal AI agents",
-      "url": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
-      "pubDate": "2026-07-29T21:48:07.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple pushes back against UK proposal to loosen App Store payment rules",
-      "url": "https://9to5mac.com/2026/07/29/apple-pushes-back-against-uk-proposal-to-loosen-app-store-payment-rules/",
-      "pubDate": "2026-07-29T21:43:45.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Qualcomm is raising phone chip prices starting September 1st",
-      "url": "https://www.theverge.com/tech/972894/qualcomm-price-hikes-q2-2026-earnings",
-      "pubDate": "2026-07-29T21:41:56.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) Clockwise 667: The TV Judge Rejects Your Argument",
       "url": "https://sixcolors.com/podcast/2026/07/clockwise-667-the-tv-judge-rejects-your-argument/",
       "pubDate": "2026-07-29T21:12:59.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law",
-      "url": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
-      "pubDate": "2026-07-29T21:06:52.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Cyberpunk 2077 packs a lot of fun into its discounted $20 price",
-      "url": "https://www.theverge.com/gadgets/972777/cyberpunk-2077-deal-sale",
-      "pubDate": "2026-07-29T21:02:50.000Z"
     },
     {
       "source": "AppleInsider",
@@ -325,20 +353,6 @@
       "pubDate": "2026-07-29T15:10:33.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple's corporate espionage suit against OpenAI: How we got here",
-      "url": "https://appleinsider.com/articles/26/07/13/apples-corporate-espionage-suit-against-openai-isnt-the-first?utm_source=rss",
-      "pubDate": "2026-07-29T12:10:48.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPhone sales keep rising in China even as market declines",
-      "url": "https://appleinsider.com/articles/26/07/29/iphone-sales-keep-rising-in-china-even-as-market-declines?utm_source=rss",
-      "pubDate": "2026-07-29T12:03:56.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "App report: Kicking my World Cup withdrawal",
@@ -353,25 +367,11 @@
       "pubDate": "2026-07-28T14:00:00.000Z"
     },
     {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Always choose the good soap",
-      "url": "https://sixcolors.com/post/2026/07/always-choose-the-good-soap/",
-      "pubDate": "2026-07-27T16:59:25.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) Upgrade 630: Repeat 600 Times",
-      "url": "https://sixcolors.com/podcast/2026/07/upgrade-630-repeat-600-times/",
-      "pubDate": "2026-07-27T16:57:01.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Unlock or recover your Mac using a special boot volume",
-      "url": "https://sixcolors.com/post/2026/07/unlock-or-recover-your-mac-using-a-special-boot-volume/",
-      "pubDate": "2026-07-27T15:29:34.000Z"
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Beyond Preview: How UPDF brings PDF editing, conversion, OCR, and AI to Mac and iPad",
+      "url": "https://appleinsider.com/articles/26/07/28/beyond-preview-how-updf-brings-pdf-editing-conversion-ocr-and-ai-to-mac-and-ipad?utm_source=rss",
+      "pubDate": "2026-07-28T13:39:37.000Z"
     }
   ]
 }
