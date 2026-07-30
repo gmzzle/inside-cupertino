@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T18:47:45.820Z",
+  "generatedAt": "2026-07-30T20:35:23.217Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,69 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Upgrade program launches, foldable iPhone hype, Apple smart glasses release date",
+      "url": "https://9to5mac.com/2026/07/30/happy-hour-601/",
+      "pubDate": "2026-07-30T20:15:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Fortnite Returns to iPhone in Brazil as Epic Games Store Launches",
+      "url": "https://www.macrumors.com/2026/07/30/brazil-epic-games-store/",
+      "pubDate": "2026-07-30T20:11:20.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple pledges support for earthquake relief efforts in Japan",
+      "url": "https://9to5mac.com/2026/07/30/apple-pledges-support-for-earthquake-relief-efforts-in-japan/",
+      "pubDate": "2026-07-30T19:58:50.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple pledges on-ground wildfire relief for Europe, earthquakes in Japan",
+      "url": "https://appleinsider.com/articles/26/07/30/apple-pledges-aid-as-wildfires-devastate-southern-europe?utm_source=rss",
+      "pubDate": "2026-07-30T19:44:35.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Here’s how to listen live to Tim Cook’s last earnings call as Apple CEO",
+      "url": "https://9to5mac.com/2026/07/30/heres-how-to-listen-live-to-tim-cooks-last-earnings-call-as-apple-ceo/",
+      "pubDate": "2026-07-30T19:34:47.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Senators Demand Apple Commit to Not Buying Chinese Memory Chips",
+      "url": "https://www.macrumors.com/2026/07/30/apple-chinese-chips-senator-letter/",
+      "pubDate": "2026-07-30T19:29:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone 18 Pro could introduce new Apple solution for cellular, hints report",
+      "url": "https://9to5mac.com/2026/07/30/iphone-18-pro-could-introduce-new-apple-solution-for-cellular-hints-report/",
+      "pubDate": "2026-07-30T19:13:16.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Samsung’s Galaxy Watch 9 is $40 off at Costco and comes with over $50 in freebies",
+      "url": "https://www.theverge.com/gadgets/973211/costco-galaxy-watch-9-preorder-costco-deal-sale",
+      "pubDate": "2026-07-30T19:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "FCC Bans New Foreign-Made Robot Vacuums, Threatening Future Matter and HomeKit Models",
+      "url": "https://www.macrumors.com/2026/07/30/foreign-made-robot-vacuums-ban/",
+      "pubDate": "2026-07-30T18:55:53.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -180,37 +243,9 @@
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple pledges aid as wildfires devastate southern Europe",
-      "url": "https://appleinsider.com/articles/26/07/30/apple-pledges-aid-as-wildfires-devastate-southern-europe?utm_source=rss",
-      "pubDate": "2026-07-30T15:33:05.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
       "title": "It's not just humanoid robots, new robot vacuums face a US blockade",
       "url": "https://appleinsider.com/articles/26/07/30/its-not-just-humanoid-robots-new-robot-vacuums-face-a-us-blockade?utm_source=rss",
       "pubDate": "2026-07-30T15:25:52.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Upgrade vs iPhone Upgrade Program: Here are the key differences",
-      "url": "https://9to5mac.com/2026/07/30/apple-upgrade-vs-iphone-upgrade-program-here-are-the-key-differences/",
-      "pubDate": "2026-07-30T15:08:26.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Xiaomi’s SkyNomad N90 Max is an extended-range EV with a transforming interior",
-      "url": "https://www.theverge.com/tech/973053/xiaomi-skynomad-n90-max-extended-range-electric-suv",
-      "pubDate": "2026-07-30T15:05:09.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 will bring five new features not yet announced, per rumors",
-      "url": "https://9to5mac.com/2026/07/30/ios-27-will-bring-five-new-features-not-yet-announced-per-rumors/",
-      "pubDate": "2026-07-30T14:35:24.000Z"
     },
     {
       "source": "MacRumors",
@@ -239,20 +274,6 @@
       "title": "iOS 27 Finally Unlinks Alarm Volume From Your iPhone Ringer",
       "url": "https://www.macrumors.com/how-to/ios-27-unlinks-alarm-volume-iphone-ringer/",
       "pubDate": "2026-07-30T13:40:30.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Microsoft will launch new ‘super app’ for Copilot soon",
-      "url": "https://9to5mac.com/2026/07/30/microsoft-will-launch-new-super-app-for-copilot-soon/",
-      "pubDate": "2026-07-30T13:29:41.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Spotify for iOS adds new music feature that can improve your running game",
-      "url": "https://9to5mac.com/2026/07/30/spotify-ios-running-mode/",
-      "pubDate": "2026-07-30T13:20:44.000Z"
     },
     {
       "source": "MacRumors",
@@ -290,20 +311,6 @@
       "pubDate": "2026-07-30T02:18:51.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "20th Anniversary iPhone Coming Next Year With These 10 Features",
-      "url": "https://www.macrumors.com/2026/07/29/20th-anniversary-iphone-10-features/",
-      "pubDate": "2026-07-30T01:00:11.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Qualcomm Expects Apple Modem Revenue to Drop Faster Than Expected",
-      "url": "https://www.macrumors.com/2026/07/29/qualcomm-apple-modem-revenue-dropping/",
-      "pubDate": "2026-07-30T00:13:43.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "MailMaven adds POP, AppleScript, and AI interaction ↦",
@@ -316,13 +323,6 @@
       "title": "Apple's reliance on Qualcomm could decline faster than expected after Q4 2026",
       "url": "https://appleinsider.com/articles/26/07/29/apples-reliance-on-qualcomm-could-decline-faster-than-expected-after-q4-2026?utm_source=rss",
       "pubDate": "2026-07-29T23:31:12.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Says UK App Store Steering Rules Would Be 'Highly Intrusive'",
-      "url": "https://www.macrumors.com/2026/07/29/app-store-uk-rules-highly-intrusive/",
-      "pubDate": "2026-07-29T22:43:12.000Z"
     },
     {
       "source": "Six Colors",
