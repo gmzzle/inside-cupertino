@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T22:15:20.730Z",
+  "generatedAt": "2026-07-30T00:11:29.049Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,55 @@
     }
   ],
   "items": [
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "MailMaven adds POP, AppleScript, and AI interaction ↦",
+      "url": "https://sixcolors.com/link/2026/07/mailmaven-adds-pop-applescript-and-ai-interaction/",
+      "pubDate": "2026-07-30T00:10:06.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Studio Display XDR hits Apple’s refurb store, saving you up to $540",
+      "url": "https://9to5mac.com/2026/07/29/studio-display-xdr-hits-apples-refurb-store-saving-you-up-to-540/",
+      "pubDate": "2026-07-30T00:09:03.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's reliance on Qualcomm could decline faster than expected after Q4 2026",
+      "url": "https://appleinsider.com/articles/26/07/29/apples-reliance-on-qualcomm-could-decline-faster-than-expected-after-q4-2026?utm_source=rss",
+      "pubDate": "2026-07-29T23:31:12.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: July 29, 2026 – iOS 26.6, Apple’s smart home plans",
+      "url": "https://9to5mac.com/2026/07/29/daily-july-29-2026/",
+      "pubDate": "2026-07-29T23:27:51.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Says UK App Store Steering Rules Would Be 'Highly Intrusive'",
+      "url": "https://www.macrumors.com/2026/07/29/app-store-uk-rules-highly-intrusive/",
+      "pubDate": "2026-07-29T22:43:12.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Qualcomm says supply constraints are shrinking its Apple business faster than expected",
+      "url": "https://9to5mac.com/2026/07/29/qualcomm-says-supply-constraints-are-shrinking-its-apple-business-faster-than-expected/",
+      "pubDate": "2026-07-29T22:30:08.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Microsoft confirms Copilot ‘super app’ coming this year",
+      "url": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
+      "pubDate": "2026-07-29T22:17:38.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -227,39 +276,11 @@
       "pubDate": "2026-07-29T16:42:44.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple One’s high-end tier is getting harder to resist in iOS 27",
-      "url": "https://9to5mac.com/2026/07/29/apple-ones-high-end-tier-is-getting-harder-to-resist-in-ios-27/",
-      "pubDate": "2026-07-29T16:34:52.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iOS 27 Lets You Hide the Messages Button Everyone Hits by Mistake",
       "url": "https://www.macrumors.com/how-to/ios-hide-dictation-messages-button/",
       "pubDate": "2026-07-29T16:10:46.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Gemini for macOS rolling out voice control and Gboard Rambler-level transcription",
-      "url": "https://9to5google.com/2026/07/29/gemini-mac-voice-control/",
-      "pubDate": "2026-07-29T15:36:30.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Ferrari Luce has at least 500 fans",
-      "url": "https://www.theverge.com/transportation/972569/ferrari-luce-ev-sales",
-      "pubDate": "2026-07-29T15:28:50.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: M5 MacBook Pro $320 off, base MacBook Air $170 off, AirPods Pro 3, TechWoven case 32% off, Apple cables, more",
-      "url": "https://9to5mac.com/2026/07/29/deals-m5-macbook-pro-macbook-air-airpods-techwoven/",
-      "pubDate": "2026-07-29T15:26:54.000Z"
     },
     {
       "source": "MacRumors",
@@ -281,13 +302,6 @@
       "title": "Best Buy's Back to School Sale Brings Big Savings on AirPods, MacBooks, Headphones, and More",
       "url": "https://www.macrumors.com/2026/07/29/best-buys-school-sale/",
       "pubDate": "2026-07-29T14:32:49.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple's New Upgrade Program: Is It Worth It?",
-      "url": "https://www.macrumors.com/2026/07/29/is-apple-upgrade-program-worth-it/",
-      "pubDate": "2026-07-29T14:29:29.000Z"
     },
     {
       "source": "AppleInsider",
@@ -339,13 +353,6 @@
       "pubDate": "2026-07-28T16:30:27.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Ahead of earnings, Goldman Sachs hikes AAPL target to $370",
-      "url": "https://appleinsider.com/articles/26/07/28/ahead-of-earnings-goldman-sachs-hikes-aapl-target-to-370?utm_source=rss",
-      "pubDate": "2026-07-28T16:25:32.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) The Rebound 609: I Know Rotten; I Was In Denmark",
@@ -365,13 +372,6 @@
       "title": "(Podcast) Upgrade 630: Repeat 600 Times",
       "url": "https://sixcolors.com/podcast/2026/07/upgrade-630-repeat-600-times/",
       "pubDate": "2026-07-27T16:57:01.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Unlock or recover your Mac using a special boot volume",
-      "url": "https://sixcolors.com/post/2026/07/unlock-or-recover-your-mac-using-a-special-boot-volume/",
-      "pubDate": "2026-07-27T15:29:34.000Z"
     }
   ]
 }
