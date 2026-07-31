@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T21:29:06.780Z",
+  "generatedAt": "2026-07-31T23:16:02.825Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "With Switch 2, iPhone, and laptop tricks, the Sharge Disk Pro 2 is finally a worthy EDC",
+      "url": "https://www.theverge.com/gadgets/973886/sharge-disk-pro-2-hands-on-switch-2-hdmi-usb-c-dock",
+      "pubDate": "2026-07-31T22:09:11.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -281,13 +288,6 @@
       "title": "Best Back to School Apple Bargains: MacBook Pro, AirPods, Apple Watch, and AirTag 2",
       "url": "https://www.macrumors.com/2026/07/31/best-apple-deals-of-the-week-7-31-26/",
       "pubDate": "2026-07-31T14:10:09.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "It’s time to panic about AI safety",
-      "url": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
-      "pubDate": "2026-07-31T14:03:04.000Z"
     },
     {
       "source": "AppleInsider",
