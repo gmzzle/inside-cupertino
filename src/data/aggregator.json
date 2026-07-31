@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T17:53:18.599Z",
+  "generatedAt": "2026-07-31T19:53:17.385Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,6 +24,69 @@
   ],
   "items": [
     {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Nearly half of smartphone revenue goes to Apple despite 23% shipment share",
+      "url": "https://appleinsider.com/articles/26/07/31/nearly-half-of-smartphone-revenue-goes-to-apple-despite-23-shipment-share?utm_source=rss",
+      "pubDate": "2026-07-31T19:51:54.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Another iPhone 17 Pro plummets from plane, and found intact",
+      "url": "https://appleinsider.com/articles/26/07/31/another-iphone-17-pro-plummets-from-plane-and-found-intact?utm_source=rss",
+      "pubDate": "2026-07-31T19:42:41.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Apple’s new AirTags are back down to their best price",
+      "url": "https://www.theverge.com/gadgets/973973/apple-airtag-second-generation-deal-sale",
+      "pubDate": "2026-07-31T19:35:45.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Google Earth&#8217;s AI deepfake tool only lasted one day",
+      "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
+      "pubDate": "2026-07-31T19:13:29.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Inside Beats lab: Outside Apple, because AirPods can't do everything well",
+      "url": "https://appleinsider.com/articles/26/07/31/inside-beats-lab-outside-apple-because-airpods-cant-do-everything-well?utm_source=rss",
+      "pubDate": "2026-07-31T18:36:06.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The NHTSA is investigating 1.2 million Tesla vehicles over suspension failure reports",
+      "url": "https://www.theverge.com/transportation/973887/nhtsa-tesla-investigation-suspension",
+      "pubDate": "2026-07-31T18:33:39.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Google might launch a ‘Pixel Tag’",
+      "url": "https://www.theverge.com/tech/973889/google-pixel-tag-item-tracker",
+      "pubDate": "2026-07-31T18:27:24.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Report: Apple hit a record 49% share of global smartphone revenue for Q2",
+      "url": "https://9to5mac.com/2026/07/31/report-apple-hit-a-record-49-share-of-global-smartphone-revenue-for-q2/",
+      "pubDate": "2026-07-31T18:19:52.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone 17 Pro found ‘pristine’ after surviving fall from airplane",
+      "url": "https://9to5mac.com/2026/07/31/iphone-17-pro-found-pristine-after-surviving-fall-from-airplane/",
+      "pubDate": "2026-07-31T18:04:13.000Z"
+    },
+    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "The ban on robot vacuums won’t make them safer, only worse",
@@ -33,7 +96,7 @@
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
-      "title": "Following Apple’s Q4 2026 guidance, JP Morgan cuts its target for the company’s stock",
+      "title": "Following Apple’s Q4 2026 guidance, JP Morgan cuts its target for the company’s stock [U]",
       "url": "https://9to5mac.com/2026/07/31/following-apples-q4-2026-guidance-jp-morgan-cuts-its-target-for-the-companys-stock/",
       "pubDate": "2026-07-31T17:30:36.000Z"
     },
@@ -206,13 +269,6 @@
       "pubDate": "2026-07-31T14:42:33.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "How do you plan on buying your next iPhone? [Poll]",
-      "url": "https://9to5mac.com/2026/07/31/buy-your-next-iphone-poll/",
-      "pubDate": "2026-07-31T14:31:29.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Best Back to School Apple Bargains: MacBook Pro, AirPods, Apple Watch, and AirTag 2",
@@ -225,20 +281,6 @@
       "title": "It’s time to panic about AI safety",
       "url": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
       "pubDate": "2026-07-31T14:03:04.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 gives Apple Mail my most wished for feature upgrade",
-      "url": "https://9to5mac.com/2026/07/31/ios-27-gives-apple-mail-my-most-wished-for-feature-upgrade/",
-      "pubDate": "2026-07-31T13:54:14.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Anthropic says Claude accidentally hacked real companies too",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
-      "pubDate": "2026-07-31T13:41:17.000Z"
     },
     {
       "source": "AppleInsider",
@@ -255,13 +297,6 @@
       "pubDate": "2026-07-31T13:15:47.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "D&#038;D is getting World of Warcraft and Star Wars crossovers",
-      "url": "https://www.theverge.com/games/973652/dnd-dungeons-dragons-world-of-warcraft-star-wars-universes-beyond",
-      "pubDate": "2026-07-31T12:31:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iPhone 18 Pro Models Could Be Up to $300 More Expensive, Says Analyst",
@@ -276,39 +311,11 @@
       "pubDate": "2026-07-31T12:18:05.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "This tattoo is permanent, pain-free, and might soon come in the mail",
-      "url": "https://www.theverge.com/tech/972466/cipherx-permanent-pain-free-tattoo-microdot-patches",
-      "pubDate": "2026-07-31T12:01:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple TV’s Cape Fear remake turns it into a paranoid tech thriller",
-      "url": "https://www.theverge.com/entertainment/973530/apple-tv-cape-fear-finale-technology",
-      "pubDate": "2026-07-31T12:00:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "From iTools to iCloud: Apple's first foray into Software as a Service",
       "url": "https://appleinsider.com/articles/26/07/31/from-itools-to-icloud-apples-foray-into-subscriptions-as-a-service?utm_source=rss",
       "pubDate": "2026-07-31T10:39:05.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "JP Morgan lowers Apple price target on supply constraint worries, still bullish long-term",
-      "url": "https://appleinsider.com/articles/26/07/31/jp-morgan-lowers-apple-price-target-on-supply-constraint-worries-still-bullish-long-term?utm_source=rss",
-      "pubDate": "2026-07-31T03:42:35.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple AI compute costs will be covered by iCloud+ subscriptions, for now",
-      "url": "https://appleinsider.com/articles/26/07/31/apple-ai-compute-costs-will-be-covered-by-icloud-subscriptions-for-now?utm_source=rss",
-      "pubDate": "2026-07-31T01:57:34.000Z"
     },
     {
       "source": "MacRumors",
@@ -365,13 +372,6 @@
       "title": "Apple to announce Q3 fiscal results later today",
       "url": "https://sixcolors.com/post/2026/07/apple-to-announce-q3-fiscal-results-later-today/",
       "pubDate": "2026-07-30T16:50:01.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "MailMaven adds POP, AppleScript, and AI interaction ↦",
-      "url": "https://sixcolors.com/link/2026/07/mailmaven-adds-pop-applescript-and-ai-interaction/",
-      "pubDate": "2026-07-30T00:10:06.000Z"
     }
   ]
 }
