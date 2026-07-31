@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T00:15:34.193Z",
+  "generatedAt": "2026-07-31T04:42:53.036Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,41 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "JP Morgan lowers Apple price target on supply constraint worries, still bullish long-term",
+      "url": "https://appleinsider.com/articles/26/07/31/jp-morgan-lowers-apple-price-target-on-supply-constraint-worries-still-bullish-long-term?utm_source=rss",
+      "pubDate": "2026-07-31T03:42:35.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple AI compute costs will be covered by iCloud+ subscriptions, for now",
+      "url": "https://appleinsider.com/articles/26/07/31/apple-ai-compute-costs-will-be-covered-by-icloud-subscriptions-for-now?utm_source=rss",
+      "pubDate": "2026-07-31T01:57:34.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Yet another major Chinese car brand is preparing to support Car Keys in Apple Wallet",
+      "url": "https://9to5mac.com/2026/07/30/yet-another-major-chinese-car-brand-is-preparing-to-support-apple-car-keys/",
+      "pubDate": "2026-07-31T01:57:22.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "‘There’s No Place Like Home, Snoopy’ now available on Apple TV",
+      "url": "https://9to5mac.com/2026/07/30/theres-no-place-like-home-snoopy-now-available-on-apple-tv/",
+      "pubDate": "2026-07-31T01:16:52.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "MacBook Ultra's New Design Won't Stay Exclusive for Long",
+      "url": "https://www.macrumors.com/2026/07/30/macbook-ultra-design-wont-stay-exclusive/",
+      "pubDate": "2026-07-31T01:00:13.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -234,32 +269,11 @@
       "pubDate": "2026-07-30T19:58:50.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple pledges on-ground wildfire relief for Europe, earthquakes in Japan",
-      "url": "https://appleinsider.com/articles/26/07/30/apple-pledges-aid-as-wildfires-devastate-southern-europe?utm_source=rss",
-      "pubDate": "2026-07-30T19:44:35.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Here’s how to listen live to Tim Cook’s last earnings call as Apple CEO",
-      "url": "https://9to5mac.com/2026/07/30/heres-how-to-listen-live-to-tim-cooks-last-earnings-call-as-apple-ceo/",
-      "pubDate": "2026-07-30T19:34:47.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Senators Demand Apple Commit to Not Buying Chinese Memory Chips",
       "url": "https://www.macrumors.com/2026/07/30/apple-chinese-chips-senator-letter/",
       "pubDate": "2026-07-30T19:29:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone 18 Pro could introduce new Apple solution for cellular, hints report",
-      "url": "https://9to5mac.com/2026/07/30/iphone-18-pro-could-introduce-new-apple-solution-for-cellular-hints-report/",
-      "pubDate": "2026-07-30T19:13:16.000Z"
     },
     {
       "source": "The Verge",
@@ -337,20 +351,6 @@
       "title": "Spotify Adds Running Mode to iOS App With Tempo-Matched Music",
       "url": "https://www.macrumors.com/2026/07/30/spotify-adds-running-mode-iphone/",
       "pubDate": "2026-07-30T15:49:15.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "It's not just humanoid robots, new robot vacuums face a US blockade",
-      "url": "https://appleinsider.com/articles/26/07/30/its-not-just-humanoid-robots-new-robot-vacuums-face-a-us-blockade?utm_source=rss",
-      "pubDate": "2026-07-30T15:25:52.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "AirTag 2 Available for Record Low Price of $89 for 4-Pack",
-      "url": "https://www.macrumors.com/2026/07/30/airtag-2-price-of-89/",
-      "pubDate": "2026-07-30T13:46:29.000Z"
     },
     {
       "source": "Six Colors",
