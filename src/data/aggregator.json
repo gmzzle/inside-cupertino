@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T15:27:36.997Z",
+  "generatedAt": "2026-08-01T17:16:32.757Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Spider-Man: Brand New Day leak racks up millions of views",
+      "url": "https://www.theverge.com/entertainment/974199/spider-man-brand-new-day-leak-box-office-records",
+      "pubDate": "2026-08-01T17:00:12.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -169,13 +176,6 @@
       "title": "The NHTSA is investigating 1.2 million Tesla vehicles over suspension failure reports",
       "url": "https://www.theverge.com/transportation/973887/nhtsa-tesla-investigation-suspension",
       "pubDate": "2026-07-31T18:33:39.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Google might launch a ‘Pixel Tag’",
-      "url": "https://www.theverge.com/tech/973889/google-pixel-tag-item-tracker",
-      "pubDate": "2026-07-31T18:27:24.000Z"
     },
     {
       "source": "9to5Mac",
