@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T17:16:32.757Z",
+  "generatedAt": "2026-08-01T19:35:14.549Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Indie App Spotlight: ‘Overflight’ lets you glance at what planes are flying above you",
+      "url": "https://9to5mac.com/2026/08/01/indie-app-spotlight-overflight-lets-you-glance-at-what-planes-are-flying-above-you/",
+      "pubDate": "2026-08-01T19:30:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Is this Billboard Hot 100 hit AI slop?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
+      "pubDate": "2026-08-01T18:20:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "I’m not convinced the 20th anniversary iPhone will be what we think, here’s why",
+      "url": "https://9to5mac.com/2026/08/01/heres-why-iphone-20-could-actually-be-iphone-air-3/",
+      "pubDate": "2026-08-01T18:01:00.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -171,13 +192,6 @@
       "pubDate": "2026-07-31T18:36:06.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The NHTSA is investigating 1.2 million Tesla vehicles over suspension failure reports",
-      "url": "https://www.theverge.com/transportation/973887/nhtsa-tesla-investigation-suspension",
-      "pubDate": "2026-07-31T18:33:39.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Report: Apple hit a record 49% share of global smartphone revenue for Q2",
@@ -220,13 +234,6 @@
       "pubDate": "2026-07-31T17:08:30.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Spotify’s new ‘User Notes’ lets you add personal captions to playlist tracks",
-      "url": "https://9to5mac.com/2026/07/31/spotifys-new-user-notes-lets-you-add-personal-captions-to-playlist-tracks/",
-      "pubDate": "2026-07-31T17:02:47.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Q3 results: 3D pricing, EGOT timing, and underestimating demand",
@@ -246,13 +253,6 @@
       "title": "Services slowdown pushes Morgan Stanley's AAPL target down to $360",
       "url": "https://appleinsider.com/articles/26/07/31/services-slowdown-pushes-morgan-stanleys-aapl-target-down-to-360?utm_source=rss",
       "pubDate": "2026-07-31T16:48:42.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: July 31, 2026 – iOS 27 features, Apple lawsuit",
-      "url": "https://9to5mac.com/2026/07/31/daily-july-31-2026/",
-      "pubDate": "2026-07-31T16:13:51.000Z"
     },
     {
       "source": "MacRumors",
