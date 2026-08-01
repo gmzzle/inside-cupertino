@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T21:10:12.006Z",
+  "generatedAt": "2026-08-01T22:11:31.461Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Upgrade might’ve provided our first hint for what could change with Apple Card",
+      "url": "https://9to5mac.com/2026/08/01/apple-upgrade-will-it-replace-apple-card-monhtly-installments/",
+      "pubDate": "2026-08-01T21:52:35.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Pixel 11 specs and price leak with no surprises",
+      "url": "https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak",
+      "pubDate": "2026-08-01T21:31:24.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -185,13 +199,6 @@
       "pubDate": "2026-07-31T19:51:54.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple’s new AirTags are back down to their best price",
-      "url": "https://www.theverge.com/gadgets/973973/apple-airtag-second-generation-deal-sale",
-      "pubDate": "2026-07-31T19:35:45.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Inside Beats lab: Outside Apple, because AirPods can't do everything well",
@@ -225,13 +232,6 @@
       "title": "Unimpressed Goldman Sachs trims AAPL target by $10 after earnings call",
       "url": "https://appleinsider.com/articles/26/07/31/unimpressed-goldman-sachs-trims-aapl-target-by-10-after-earnings-call?utm_source=rss",
       "pubDate": "2026-07-31T17:16:11.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Ted Lasso returns next week with two major changes in season 4",
-      "url": "https://9to5mac.com/2026/07/31/ted-lasso-returns-next-week-with-two-major-changes-in-season-4/",
-      "pubDate": "2026-07-31T17:15:45.000Z"
     },
     {
       "source": "Six Colors",
