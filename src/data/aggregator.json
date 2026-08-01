@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T23:16:02.825Z",
+  "generatedAt": "2026-08-01T03:51:44.666Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPad Air Could Finally Be Redesigned Next Year",
+      "url": "https://www.macrumors.com/2026/07/31/ipad-air-could-be-redesigned-next-year/",
+      "pubDate": "2026-08-01T01:00:11.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -344,13 +351,6 @@
       "title": "Apple Plans Paid iCloud+ Upgrades for Heavy AI Users",
       "url": "https://www.macrumors.com/2026/07/30/apple-icloud-upgrade-ai/",
       "pubDate": "2026-07-30T23:11:10.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Tim Cook: Apple 'Reluctantly Raised Prices' Due to '100-Year Flood on Memory Pricing'",
-      "url": "https://www.macrumors.com/2026/07/30/tim-cook-on-apple-price-increases/",
-      "pubDate": "2026-07-30T22:48:13.000Z"
     },
     {
       "source": "Six Colors",
