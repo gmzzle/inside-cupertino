@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T06:45:53.569Z",
+  "generatedAt": "2026-08-02T09:23:00.511Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Save $1,200 on Apple's 16-inch MacBook Pro M5 Max with 2TB SSD",
+      "url": "https://appleinsider.com/articles/26/08/02/save-1200-on-apples-16-inch-macbook-pro-m5-max-with-2tb-ssd?utm_source=rss",
+      "pubDate": "2026-08-02T07:36:07.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -344,13 +351,6 @@
       "title": "Rosenblatt hikes AAPL to $300 on expected iPhone 18 demand, still underwater",
       "url": "https://appleinsider.com/articles/26/07/31/rosenblatt-hikes-aapl-to-300-on-expected-iphone-18-demand-still-underwater?utm_source=rss",
       "pubDate": "2026-07-31T12:18:05.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "From iTools to iCloud: Apple's first foray into Software as a Service",
-      "url": "https://appleinsider.com/articles/26/07/31/from-itools-to-icloud-apples-foray-into-subscriptions-as-a-service?utm_source=rss",
-      "pubDate": "2026-07-31T10:39:05.000Z"
     },
     {
       "source": "Six Colors",
