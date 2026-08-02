@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T19:35:52.343Z",
+  "generatedAt": "2026-08-02T21:10:58.368Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,11 +24,18 @@
   ],
   "items": [
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Here’s how iPhone Ultra’s form factor could compare to other Apple products",
-      "url": "https://9to5mac.com/2026/08/02/heres-how-iphone-ultras-form-factor-could-compare-to-other-apple-products/",
-      "pubDate": "2026-08-02T19:21:00.000Z"
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Sunday Reboot: Tons of money, but way more grief",
+      "url": "https://appleinsider.com/articles/26/08/02/sunday-reboot-tons-of-money-but-way-more-grief?utm_source=rss",
+      "pubDate": "2026-08-02T19:55:15.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Fender’s CEO seems to think your bandmates are just analog AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
+      "pubDate": "2026-08-02T19:36:08.000Z"
     },
     {
       "source": "9to5Mac",
@@ -185,13 +192,6 @@
       "pubDate": "2026-08-01T17:00:12.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Trump blames Tim Walz for water hacks even though it’s probably Iran",
-      "url": "https://www.theverge.com/policy/974197/trump-tim-walz-minnesota-water-hacks-iran",
-      "pubDate": "2026-08-01T15:23:35.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Mac Studio: Here’s what Apple has in store for this fall and beyond",
@@ -239,6 +239,13 @@
       "title": "iPad Air Could Finally Be Redesigned Next Year",
       "url": "https://www.macrumors.com/2026/07/31/ipad-air-could-be-redesigned-next-year/",
       "pubDate": "2026-08-01T01:00:11.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Overtime 075: Thoughts on Apple Upgrade",
+      "url": "https://9to5mac.com/2026/07/31/9to5mac-overtime-075-thoughts-on-apple-upgrade/",
+      "pubDate": "2026-07-31T20:37:46.000Z"
     },
     {
       "source": "MacRumors",
@@ -337,13 +344,6 @@
       "title": "Best Back to School Apple Bargains: MacBook Pro, AirPods, Apple Watch, and AirTag 2",
       "url": "https://www.macrumors.com/2026/07/31/best-apple-deals-of-the-week-7-31-26/",
       "pubDate": "2026-07-31T14:10:09.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Huge $300 iPhone 18 Pro price hike rumored as chip shortage bites",
-      "url": "https://appleinsider.com/articles/26/07/31/huge-300-iphone-18-pro-price-hike-rumored-as-chip-shortage-bites?utm_source=rss",
-      "pubDate": "2026-07-31T13:38:18.000Z"
     },
     {
       "source": "MacRumors",
