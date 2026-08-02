@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T15:28:21.905Z",
+  "generatedAt": "2026-08-02T17:16:41.394Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple’s rumored AirPods with cameras could potentially debut as soon as next month",
+      "url": "https://9to5mac.com/2026/08/02/airpods-with-cameras-visual-intelligence-could-arrive-this-year/",
+      "pubDate": "2026-08-02T16:18:26.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Xbox prices are increasing by up to €200 or £170",
+      "url": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros",
+      "pubDate": "2026-08-02T16:14:20.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -178,13 +192,6 @@
       "pubDate": "2026-08-01T14:39:53.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Verge’s 2026 back-to-school shopping guide",
-      "url": "https://www.theverge.com/gadgets/968645/back-to-school-shopping-guide-gifts",
-      "pubDate": "2026-08-01T14:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Top Stories: 'Apple Upgrade' Launches, iOS 26.6 Released, and More",
@@ -253,13 +260,6 @@
       "title": "Inside Beats lab: Outside Apple, because AirPods can't do everything well",
       "url": "https://appleinsider.com/articles/26/07/31/inside-beats-lab-outside-apple-because-airpods-cant-do-everything-well?utm_source=rss",
       "pubDate": "2026-07-31T18:36:06.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Report: Apple hit a record 49% share of global smartphone revenue for Q2",
-      "url": "https://9to5mac.com/2026/07/31/report-apple-hit-a-record-49-share-of-global-smartphone-revenue-for-q2/",
-      "pubDate": "2026-07-31T18:19:52.000Z"
     },
     {
       "source": "AppleInsider",
