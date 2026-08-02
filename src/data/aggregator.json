@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T11:34:52.179Z",
+  "generatedAt": "2026-08-02T13:56:43.758Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Is paying artists enough to convince them to embrace AI?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
+      "pubDate": "2026-08-02T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Foldables are sort of boring now — and that’s great news for Apple",
+      "url": "https://www.theverge.com/column/972937/foldable-phones-boring-apple",
+      "pubDate": "2026-08-02T12:00:00.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -157,13 +171,6 @@
       "pubDate": "2026-08-01T12:05:03.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The OG reading app just got a big update",
-      "url": "https://www.theverge.com/tech/973929/instapaper-app-pastebot-spiderman-movie-installer",
-      "pubDate": "2026-08-01T12:00:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Another iPhone 17 Pro plummets from plane, and found intact",
@@ -176,13 +183,6 @@
       "title": "iPad Air Could Finally Be Redesigned Next Year",
       "url": "https://www.macrumors.com/2026/07/31/ipad-air-could-be-redesigned-next-year/",
       "pubDate": "2026-08-01T01:00:11.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "With Switch 2, iPhone, and laptop tricks, the Sharge Disk Pro 2 is finally a worthy EDC",
-      "url": "https://www.theverge.com/gadgets/973886/sharge-disk-pro-2-hands-on-switch-2-hdmi-usb-c-dock",
-      "pubDate": "2026-07-31T22:09:11.000Z"
     },
     {
       "source": "9to5Mac",
