@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T00:15:32.018Z",
+  "generatedAt": "2026-08-03T04:47:48.427Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "MacBook Air Experiencing 'Major' Shortage Despite $200 Price Increase",
+      "url": "https://www.macrumors.com/2026/08/02/macbook-air-shortage-report/",
+      "pubDate": "2026-08-03T02:12:10.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -344,13 +351,6 @@
       "title": "Best Back to School Apple Bargains: MacBook Pro, AirPods, Apple Watch, and AirTag 2",
       "url": "https://www.macrumors.com/2026/07/31/best-apple-deals-of-the-week-7-31-26/",
       "pubDate": "2026-07-31T14:10:09.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Shazam Updated With iMessage Stickers Inspired by Ariana Grande's New Album",
-      "url": "https://www.macrumors.com/2026/07/31/shazam-updated-with-imessage-stickers/",
-      "pubDate": "2026-07-31T13:15:47.000Z"
     },
     {
       "source": "Six Colors",
