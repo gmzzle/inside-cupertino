@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T08:42:50.363Z",
+  "generatedAt": "2026-08-03T12:36:34.276Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,41 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple Photos' facial features prompt a $32.5B class-action lawsuit",
+      "url": "https://appleinsider.com/articles/26/08/03/apple-photos-facial-features-prompt-a-325b-class-action-lawsuit?utm_source=rss",
+      "pubDate": "2026-08-03T12:14:32.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "PlasmaSolve bought by Apple to help make thin & durable device enclosures",
+      "url": "https://appleinsider.com/articles/26/08/03/plasmasolve-bought-by-apple-to-help-make-thin-durable-device-enclosures?utm_source=rss",
+      "pubDate": "2026-08-03T11:59:24.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "DuckDuckGo anti-AI glasses offer zero cameras and notifications",
+      "url": "https://9to5mac.com/2026/08/03/duckduckgo-anti-ai-glasses-offer-zero-cameras-and-notifications/",
+      "pubDate": "2026-08-03T11:54:20.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Heavy Siri AI usage could cost more than we expected, given Cook’s comment",
+      "url": "https://9to5mac.com/2026/08/03/heavy-siri-ai-usage-could-cost-more-than-we-expected-given-cooks-comment/",
+      "pubDate": "2026-08-03T11:03:51.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+      "pubDate": "2026-08-03T11:01:11.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -50,6 +85,13 @@
       "title": "Fender’s CEO seems to think your bandmates are just analog AI",
       "url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
       "pubDate": "2026-08-02T19:36:08.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Here’s how iPhone Ultra’s form factor could compare to other Apple products",
+      "url": "https://9to5mac.com/2026/08/02/heres-how-iphone-ultras-form-factor-could-compare-to-other-apple-products/",
+      "pubDate": "2026-08-02T19:21:00.000Z"
     },
     {
       "source": "9to5Mac",
@@ -185,13 +227,6 @@
       "pubDate": "2026-08-01T19:30:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Is this Billboard Hot 100 hit AI slop?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
-      "pubDate": "2026-08-01T18:20:00.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "I’m not convinced the 20th anniversary iPhone will be what we think, here’s why",
@@ -220,20 +255,6 @@
       "pubDate": "2026-08-01T13:00:11.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 breaks 15 years of muscle memory on iPhone and iPad",
-      "url": "https://9to5mac.com/2026/08/01/ios-27-just-broke-15-years-of-muscle-memory-on-iphone-and-ipad/",
-      "pubDate": "2026-08-01T13:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple weekend deals: AirPods Pro 3, Apple Studio Display $540 off, M5 MacBook Air $240 off, AirTag 2, more",
-      "url": "https://9to5mac.com/2026/08/01/apple-weekend-deals-airpods-air-m5/",
-      "pubDate": "2026-08-01T12:05:03.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Another iPhone 17 Pro plummets from plane, and found intact",
@@ -246,13 +267,6 @@
       "title": "iPad Air Could Finally Be Redesigned Next Year",
       "url": "https://www.macrumors.com/2026/07/31/ipad-air-could-be-redesigned-next-year/",
       "pubDate": "2026-08-01T01:00:11.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Overtime 075: Thoughts on Apple Upgrade",
-      "url": "https://9to5mac.com/2026/07/31/9to5mac-overtime-075-thoughts-on-apple-upgrade/",
-      "pubDate": "2026-07-31T20:37:46.000Z"
     },
     {
       "source": "MacRumors",
@@ -297,13 +311,6 @@
       "pubDate": "2026-07-31T16:53:46.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Services slowdown pushes Morgan Stanley's AAPL target down to $360",
-      "url": "https://appleinsider.com/articles/26/07/31/services-slowdown-pushes-morgan-stanleys-aapl-target-down-to-360?utm_source=rss",
-      "pubDate": "2026-07-31T16:48:42.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "The MacRumors Show: Revisiting iOS 27 Ahead of iPhone 18 Pro",
@@ -325,13 +332,6 @@
       "pubDate": "2026-07-31T15:55:27.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "First Apple Silicon-native CrossOver build in testing as Rosetta's end nears",
-      "url": "https://appleinsider.com/articles/26/07/31/first-apple-silicon-native-crossover-build-in-testing-as-rosettas-end-nears?utm_source=rss",
-      "pubDate": "2026-07-31T15:44:26.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iPhone Air 2 Expected to Launch Early Next Year With Five New Features",
@@ -339,18 +339,18 @@
       "pubDate": "2026-07-31T15:25:35.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple's M4 Pro Mac mini is back in stock & $30 off, but supply is limited",
-      "url": "https://appleinsider.com/articles/26/07/31/apples-m4-pro-mac-mini-is-back-in-stock-30-off-but-supply-is-limited?utm_source=rss",
-      "pubDate": "2026-07-31T14:58:34.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Best Back to School Apple Bargains: MacBook Pro, AirPods, Apple Watch, and AirTag 2",
       "url": "https://www.macrumors.com/2026/07/31/best-apple-deals-of-the-week-7-31-26/",
       "pubDate": "2026-07-31T14:10:09.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "From iTools to iCloud: Apple's first foray into Software as a Service",
+      "url": "https://appleinsider.com/articles/26/07/31/from-itools-to-icloud-apples-foray-into-subscriptions-as-a-service?utm_source=rss",
+      "pubDate": "2026-07-31T10:39:05.000Z"
     },
     {
       "source": "Six Colors",
