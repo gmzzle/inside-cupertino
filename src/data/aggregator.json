@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T19:58:59.782Z",
+  "generatedAt": "2026-08-03T21:30:28.783Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,90 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Report: Apple’s secrecy efforts partly undermined by lax work iCloud policy",
+      "url": "https://9to5mac.com/2026/08/03/report-apples-secrecy-efforts-partly-undermined-by-lax-work-icloud-policy/",
+      "pubDate": "2026-08-03T21:30:11.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Your Fitbit data can now connect directly to Apple Health",
+      "url": "https://www.theverge.com/gadgets/974778/google-health-fitbit-data-apple-health-syncing",
+      "pubDate": "2026-08-03T21:24:23.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Samsung’s discounted smart monitor is $349.99, its lowest price yet",
+      "url": "https://www.theverge.com/gadgets/974583/samsungs-m80f-smart-monitor-deal-sale",
+      "pubDate": "2026-08-03T21:13:38.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) Upgrade 631: Nessie Beneath the Waves",
+      "url": "https://sixcolors.com/podcast/2026/08/upgrade-631-nessie-beneath-the-waves/",
+      "pubDate": "2026-08-03T21:12:03.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Here’s why Apple Upgrade requires AT&T, T-Mobile, or Verizon for iPhone",
+      "url": "https://9to5mac.com/2026/08/03/why-apple-upgrade-requires-att-t-mobile-or-verizon-for-iphone/",
+      "pubDate": "2026-08-03T21:11:34.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Got 'Ted Energy?' Apple is holding a 'Ted Lasso' look-alike contest",
+      "url": "https://appleinsider.com/articles/26/08/03/got-ted-energy-apple-is-holding-a-ted-lasso-look-alike-contest?utm_source=rss",
+      "pubDate": "2026-08-03T21:07:17.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's Next CEO Adds Retired Hardware Executive to His Team",
+      "url": "https://www.macrumors.com/2026/08/03/apple-john-ternus-hiring-retired-vp/",
+      "pubDate": "2026-08-03T20:49:15.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Team Ternus drags retired vice president of hardware engineering back into Apple",
+      "url": "https://appleinsider.com/articles/26/08/03/team-ternus-drags-retired-vice-president-of-hardware-engineering-back-into-apple?utm_source=rss",
+      "pubDate": "2026-08-03T20:47:07.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Photos in iOS 27 gets camera roll feature it’s long needed",
+      "url": "https://9to5mac.com/2026/08/03/apple-photos-in-ios-27-gets-camera-roll-feature-its-long-needed/",
+      "pubDate": "2026-08-03T20:44:15.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple’s contract manufacturing tax breaks in India could be extended to 2041",
+      "url": "https://9to5mac.com/2026/08/03/apples-contract-manufacturing-tax-breaks-in-india-could-be-extended-to-2041/",
+      "pubDate": "2026-08-03T20:30:51.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "John Ternus recruits key Apple hardware VP out of retirement ahead of CEO transition",
+      "url": "https://9to5mac.com/2026/08/03/john-ternus-recruits-key-apple-hardware-vp-out-of-retirement-ahead-of-ceo-transition/",
+      "pubDate": "2026-08-03T20:30:32.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Fitbit Data Can Finally Sync to Apple Health",
+      "url": "https://www.macrumors.com/2026/08/03/fitbit-apple-health-syncing/",
+      "pubDate": "2026-08-03T20:00:08.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -143,25 +227,11 @@
       "pubDate": "2026-08-03T15:53:49.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple will launch five new products next month, here’s what’s coming",
-      "url": "https://9to5mac.com/2026/08/03/apple-will-launch-five-new-products-next-month-heres-whats-coming/",
-      "pubDate": "2026-08-03T15:46:12.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Launches New Legal Challenge Against UK Backdoor Demand",
       "url": "https://www.macrumors.com/2026/08/03/apple-legal-challenge-against-uk-demand/",
       "pubDate": "2026-08-03T15:34:16.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: Apple Watch Ultra 3 $100 off, Series 11 from $299, AirPods, Anker chargers, Best Buy back to school sale, more",
-      "url": "https://9to5mac.com/2026/08/03/deals-apple-watch-ultra-3-100-off-airpods-anker-chargers/",
-      "pubDate": "2026-08-03T15:31:22.000Z"
     },
     {
       "source": "Six Colors",
@@ -183,13 +253,6 @@
       "title": "UK faces new legal fight from Apple over backdoor access to iCloud data",
       "url": "https://appleinsider.com/articles/26/08/03/uk-faces-new-legal-fight-from-apple-over-backdoor-access-to-icloud-data?utm_source=rss",
       "pubDate": "2026-08-03T15:14:58.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Google Health adds two-way Apple Health syncing on iPhone",
-      "url": "https://9to5mac.com/2026/08/03/google-health-adds-two-way-apple-health-syncing-on-iphone/",
-      "pubDate": "2026-08-03T15:00:44.000Z"
     },
     {
       "source": "The Verge",
@@ -232,20 +295,6 @@
       "title": "Confidential Apple files followed former employees to OpenAI through iCloud",
       "url": "https://appleinsider.com/articles/26/08/03/confidential-apple-files-followed-former-employees-to-openai-through-icloud?utm_source=rss",
       "pubDate": "2026-08-03T14:45:19.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple’s latest acquisition makes a lot of sense for product roadmap",
-      "url": "https://9to5mac.com/2026/08/03/apples-latest-acquisition-makes-a-lot-of-sense-for-product-roadmap/",
-      "pubDate": "2026-08-03T14:44:58.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple launches second legal challenge to UK iCloud backdoor order, per report",
-      "url": "https://9to5mac.com/2026/08/03/apple-launches-second-legal-challenge-to-uk-icloud-backdoor-order-per-report/",
-      "pubDate": "2026-08-03T14:34:15.000Z"
     },
     {
       "source": "The Verge",
@@ -297,13 +346,6 @@
       "pubDate": "2026-08-03T13:47:31.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPhones and home hardware: What to expect from Apple for the rest of 2026",
-      "url": "https://appleinsider.com/articles/26/08/03/iphones-and-home-hardware-what-to-expect-from-apple-for-the-rest-of-2026?utm_source=rss",
-      "pubDate": "2026-08-03T13:46:55.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Lenovo Googlebook leaks reveal a laptop and 2-in-1 tablet",
@@ -311,46 +353,11 @@
       "pubDate": "2026-08-03T13:12:03.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Big Walk is like co-op Breath of the Wild",
-      "url": "https://www.theverge.com/games/973166/big-walk-review",
-      "pubDate": "2026-08-03T13:00:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple Photos' facial features prompt a $32.5B class-action lawsuit",
-      "url": "https://appleinsider.com/articles/26/08/03/apple-photos-facial-features-prompt-a-325b-class-action-lawsuit?utm_source=rss",
-      "pubDate": "2026-08-03T12:14:32.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-      "pubDate": "2026-08-03T11:01:11.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "MacBook Air Experiencing 'Major' Shortage Despite $200 Price Increase",
       "url": "https://www.macrumors.com/2026/08/02/macbook-air-shortage-report/",
       "pubDate": "2026-08-03T02:12:10.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "AirPods Pro 3, AirPods 4, and AirPods Max 2 Discounted in Latest Amazon Deals",
-      "url": "https://www.macrumors.com/2026/08/02/airpods-weekend-deals-6/",
-      "pubDate": "2026-08-02T14:20:39.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "6 Things We Already Know About the 2028 iPhone",
-      "url": "https://www.macrumors.com/2026/08/01/things-we-know-about-2028-iphone/",
-      "pubDate": "2026-08-02T01:00:10.000Z"
     },
     {
       "source": "Six Colors",
@@ -365,13 +372,6 @@
       "title": "One last time, this is Tim: Final transcript of Apple’s Q3 2026 earnings call",
       "url": "https://sixcolors.com/post/2026/07/one-last-time-this-is-tim-transcript-of-apples-q3-2026-financial-call/",
       "pubDate": "2026-07-30T21:19:35.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Apple announces record Q3 results",
-      "url": "https://sixcolors.com/post/2026/07/apple-announces-record-q3-results/",
-      "pubDate": "2026-07-30T20:39:46.000Z"
     }
   ]
 }
