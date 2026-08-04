@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T23:19:53.091Z",
+  "generatedAt": "2026-08-04T03:38:59.492Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,62 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple sued over alleged lack of age checks for casino games in Brazil",
+      "url": "https://9to5mac.com/2026/08/03/apple-sued-over-alleged-lack-of-age-checks-for-casino-games-in-brazil/",
+      "pubDate": "2026-08-04T03:13:07.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Telegram briefly disappeared from the Apple App Store with no explanation",
+      "url": "https://appleinsider.com/articles/26/08/04/telegram-briefly-disappeared-from-the-apple-app-store-with-no-explanation?utm_source=rss",
+      "pubDate": "2026-08-04T02:44:32.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Telegram briefly pulled from the App Store over child sexual abuse material availability [U: Apple statement ]",
+      "url": "https://9to5mac.com/2026/08/03/telegram-appears-to-have-been-pulled-from-the-app-store-worldwide/",
+      "pubDate": "2026-08-04T02:19:33.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple plans to open iPhone clipboard access to Windows PCs",
+      "url": "https://9to5mac.com/2026/08/03/apple-plans-to-open-iphone-clipboard-access-to-windows-pcs/",
+      "pubDate": "2026-08-04T01:43:34.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iPhone to Windows clipboard sharing coming to iOS 28 in the EU",
+      "url": "https://appleinsider.com/articles/26/08/04/iphone-to-windows-clipboard-sharing-coming-to-ios-28-in-the-eu?utm_source=rss",
+      "pubDate": "2026-08-04T01:10:13.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Russia escalates dispute with Apple over mandatory app preinstallation",
+      "url": "https://9to5mac.com/2026/08/03/russia-escalates-dispute-with-apple-over-mandatory-app-preinstallation/",
+      "pubDate": "2026-08-04T00:59:23.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The studio behind Pokémon struggles to find its voice in Beast of Reincarnation",
+      "url": "https://www.theverge.com/entertainment/974505/beast-of-reincarnation-review-ps5-xbox",
+      "pubDate": "2026-08-04T00:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Plans iPhone-to-Windows Copy and Paste in EU After Microsoft Request",
+      "url": "https://www.macrumors.com/2026/08/03/apple-iphone-windows-copy-paste/",
+      "pubDate": "2026-08-03T23:20:04.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -136,13 +192,6 @@
       "pubDate": "2026-08-03T19:54:27.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple announces Ted Lasso look-alike contest happening in NYC",
-      "url": "https://9to5mac.com/2026/08/03/apple-announces-ted-lasso-look-alike-contest-happening-in-nyc/",
-      "pubDate": "2026-08-03T19:45:14.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple faces new antitrust case in Russia over state-backed apps",
@@ -162,27 +211,6 @@
       "title": "Apple Pay Launches in the Philippines",
       "url": "https://www.macrumors.com/2026/08/03/apple-pay-philippines/",
       "pubDate": "2026-08-03T19:14:49.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "MagSafe Monday: The LISEN Qi2.2 MagSafe battery brings the most unique lanyard on the market",
-      "url": "https://9to5mac.com/2026/08/03/lisen-qi2-2-magsafe-battery/",
-      "pubDate": "2026-08-03T18:51:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: August 3, 2026 – Apple’s Q3 earnings",
-      "url": "https://9to5mac.com/2026/08/03/daily-august-3-2026/",
-      "pubDate": "2026-08-03T18:47:40.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Wikipedia for iOS just added a fun, new app widget for your Home Screen",
-      "url": "https://9to5mac.com/2026/08/03/wikipedia-for-ios-just-added-a-fun-new-app-widget-for-your-home-screen/",
-      "pubDate": "2026-08-03T18:38:47.000Z"
     },
     {
       "source": "MacRumors",
@@ -290,32 +318,11 @@
       "pubDate": "2026-08-03T14:50:29.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Glass-heavy iPhone 20 borrows from iPhone Air, gets better cooling",
-      "url": "https://appleinsider.com/articles/26/08/03/glass-heavy-iphone-20-borrows-from-iphone-air-gets-better-cooling?utm_source=rss",
-      "pubDate": "2026-08-03T14:50:21.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Confidential Apple files followed former employees to OpenAI through iCloud",
-      "url": "https://appleinsider.com/articles/26/08/03/confidential-apple-files-followed-former-employees-to-openai-through-icloud?utm_source=rss",
-      "pubDate": "2026-08-03T14:45:19.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Spider-Man and The Odyssey are splitting up IMAX screens after a record-breaking weekend",
       "url": "https://www.theverge.com/entertainment/974411/spider-man-the-odyssey-imax",
       "pubDate": "2026-08-03T14:26:47.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPhone Fold is on schedule for September after manufacturing problems are solved",
-      "url": "https://appleinsider.com/articles/26/08/03/iphone-fold-is-on-schedule-for-september-after-manufacturing-problems-are-solved?utm_source=rss",
-      "pubDate": "2026-08-03T14:22:06.000Z"
     },
     {
       "source": "The Verge",
@@ -332,32 +339,11 @@
       "pubDate": "2026-08-03T14:14:09.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "The next solar eclipse is on August 12 -- here's how to photograph it",
-      "url": "https://appleinsider.com/inside/iphone/tips/the-next-solar-eclipse-is-on-april-8----heres-how-to-photograph-it?utm_source=rss",
-      "pubDate": "2026-08-03T14:01:40.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Amazon Doubles Down on 2026 MacBook Pro Discounts, Some Prices Now Lower Than July",
       "url": "https://www.macrumors.com/2026/08/03/amazon-2026-macbook-pro/",
       "pubDate": "2026-08-03T13:57:46.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Acquiring Materials Science Company PlasmaSolve",
-      "url": "https://www.macrumors.com/2026/08/03/apple-acquiring-plasmasolve/",
-      "pubDate": "2026-08-03T13:47:31.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Lenovo Googlebook leaks reveal a laptop and 2-in-1 tablet",
-      "url": "https://www.theverge.com/tech/974377/lenovo-googlebook-google-image-leaks-laptops",
-      "pubDate": "2026-08-03T13:12:03.000Z"
     },
     {
       "source": "Six Colors",
@@ -372,6 +358,20 @@
       "title": "One last time, this is Tim: Final transcript of Apple’s Q3 2026 earnings call",
       "url": "https://sixcolors.com/post/2026/07/one-last-time-this-is-tim-transcript-of-apples-q3-2026-financial-call/",
       "pubDate": "2026-07-30T21:19:35.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Apple announces record Q3 results",
+      "url": "https://sixcolors.com/post/2026/07/apple-announces-record-q3-results/",
+      "pubDate": "2026-07-30T20:39:46.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Apple to announce Q3 fiscal results later today",
+      "url": "https://sixcolors.com/post/2026/07/apple-to-announce-q3-fiscal-results-later-today/",
+      "pubDate": "2026-07-30T16:50:01.000Z"
     }
   ]
 }
