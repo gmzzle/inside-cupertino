@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T21:37:03.155Z",
+  "generatedAt": "2026-08-04T23:18:46.821Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,6 +24,27 @@
   ],
   "items": [
     {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: August 4, 2026 – The latest Apple vs OpenAI drama",
+      "url": "https://9to5mac.com/2026/08/04/daily-august-4-2026/",
+      "pubDate": "2026-08-04T22:42:37.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Everything Apple Is Expected to Announce in September",
+      "url": "https://www.macrumors.com/2026/08/04/apple-september-2026-announcements/",
+      "pubDate": "2026-08-04T22:10:13.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Now you can securely link multiple phones to one Signal account",
+      "url": "https://www.theverge.com/tech/975407/signal-linked-devices-sync",
+      "pubDate": "2026-08-04T22:02:46.000Z"
+    },
+    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "AMD&#8217;s datacenter business is booming while gaming takes a backseat",
@@ -33,7 +54,7 @@
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
-      "title": "SpaceX has more neocloud revenue",
+      "title": "SpaceX made more revenue as an AI company than a space company",
       "url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
       "pubDate": "2026-08-04T20:47:55.000Z"
     },
@@ -213,25 +234,11 @@
       "pubDate": "2026-08-04T16:39:26.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "OpenAI explains what will happen when ChatGPT Atlas shuts down this weekend",
-      "url": "https://9to5mac.com/2026/08/04/openai-explains-what-will-happen-when-chatgpt-atlas-shuts-down-this-weekend/",
-      "pubDate": "2026-08-04T16:12:35.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "T-Mobile’s $0-down financing plan bundles taxes and fees",
       "url": "https://www.theverge.com/tech/975115/t-mobile-financing-eip-flex-36-plan",
       "pubDate": "2026-08-04T16:07:02.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Skylight&#8217;s smart calendars are up to $90 off during its back-to-school sale",
-      "url": "https://www.theverge.com/gadgets/973789/skylight-calendar-2-max-back-to-school-deal-sale",
-      "pubDate": "2026-08-04T16:01:57.000Z"
     },
     {
       "source": "AppleInsider",
@@ -344,13 +351,6 @@
       "title": "Telegram Briefly Removed From App Store",
       "url": "https://www.macrumors.com/2026/08/04/telegram-briefly-removed-from-app-store/",
       "pubDate": "2026-08-04T10:39:43.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Plans iPhone-to-Windows Copy and Paste in EU After Microsoft Request",
-      "url": "https://www.macrumors.com/2026/08/03/apple-iphone-windows-copy-paste/",
-      "pubDate": "2026-08-03T23:20:04.000Z"
     },
     {
       "source": "Six Colors",
