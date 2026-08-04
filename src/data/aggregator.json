@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T09:58:47.658Z",
+  "generatedAt": "2026-08-04T12:19:49.408Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,18 +24,81 @@
   ],
   "items": [
     {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "AI slop security reports are clogging up Apple's bug bounty program",
+      "url": "https://appleinsider.com/articles/26/08/04/ai-slop-security-reports-are-clogging-up-apples-bug-bounty-program?utm_source=rss",
+      "pubDate": "2026-08-04T12:07:38.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "New OpenAI post doesn't address Apple's IP theft claims at all",
+      "url": "https://appleinsider.com/articles/26/08/04/new-openai-post-doesnt-address-apples-ip-theft-suit-at-all?utm_source=rss",
+      "pubDate": "2026-08-04T12:04:04.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Telegram briefly disappeared from the Apple App Store due to CSAM",
+      "url": "https://appleinsider.com/articles/26/08/04/telegram-briefly-disappeared-from-the-apple-app-store-with-no-explanation?utm_source=rss",
+      "pubDate": "2026-08-04T12:03:19.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple hit $10B in sales in India despite pricing higher than USA",
+      "url": "https://9to5mac.com/2026/08/04/apple-hit-10b-in-sales-in-india-despite-pricing-higher-than-usa/",
+      "pubDate": "2026-08-04T11:29:34.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "OpenAI drags Apple’s lawsuit into the court of public opinion",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
+      "pubDate": "2026-08-04T11:27:55.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Samsung experience shows Apple’s timing for the iPhone Ultra couldn’t be better",
+      "url": "https://9to5mac.com/2026/08/04/samsung-experience-shows-apples-timing-for-the-iphone-ultra-couldnt-be-better/",
+      "pubDate": "2026-08-04T11:03:08.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The next Xbox could play every Xbox game ever made",
+      "url": "https://www.theverge.com/games/974773/xbox-helix-disc-digital-backwards-compatibility-leaked-memo-opt-in",
+      "pubDate": "2026-08-04T11:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Telegram Briefly Removed From App Store",
+      "url": "https://www.macrumors.com/2026/08/04/telegram-briefly-removed-from-app-store/",
+      "pubDate": "2026-08-04T10:39:43.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple @ Work Podcast: The state of digital signage on Apple TV in 2026",
+      "url": "https://9to5mac.com/2026/08/04/the-state-of-digital-signage-on-apple-tv-in-2026/",
+      "pubDate": "2026-08-04T10:09:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Can Reddit fend off a new wave of AI SEO spam?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
+      "pubDate": "2026-08-04T10:00:00.000Z"
+    },
+    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "OpenAI rebuts Apple trade secrets allegations in new response with receipts",
       "url": "https://9to5mac.com/2026/08/03/openai-rebuts-apple-trade-secrets-allegations-in-new-response-and-evidence/",
       "pubDate": "2026-08-04T06:05:15.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Telegram briefly disappeared from the Apple App Store due to CSAM [u]",
-      "url": "https://appleinsider.com/articles/26/08/04/telegram-briefly-disappeared-from-the-apple-app-store-with-no-explanation?utm_source=rss",
-      "pubDate": "2026-08-04T05:53:54.000Z"
     },
     {
       "source": "9to5Mac",
@@ -164,27 +227,6 @@
       "pubDate": "2026-08-03T20:47:07.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Photos in iOS 27 gets camera roll feature it’s long needed",
-      "url": "https://9to5mac.com/2026/08/03/apple-photos-in-ios-27-gets-camera-roll-feature-its-long-needed/",
-      "pubDate": "2026-08-03T20:44:15.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple’s contract manufacturing tax breaks in India could be extended to 2041",
-      "url": "https://9to5mac.com/2026/08/03/apples-contract-manufacturing-tax-breaks-in-india-could-be-extended-to-2041/",
-      "pubDate": "2026-08-03T20:30:51.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "John Ternus recruits key Apple hardware VP out of retirement ahead of CEO transition",
-      "url": "https://9to5mac.com/2026/08/03/john-ternus-recruits-key-apple-hardware-vp-out-of-retirement-ahead-of-ceo-transition/",
-      "pubDate": "2026-08-03T20:30:32.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Fitbit Data Can Finally Sync to Apple Health",
@@ -283,25 +325,11 @@
       "pubDate": "2026-08-03T15:27:58.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "UK faces new legal fight from Apple over backdoor access to iCloud data",
-      "url": "https://appleinsider.com/articles/26/08/03/uk-faces-new-legal-fight-from-apple-over-backdoor-access-to-icloud-data?utm_source=rss",
-      "pubDate": "2026-08-03T15:14:58.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Bluesky’s new CEO wants a big tent, not a bubble",
       "url": "https://www.theverge.com/podcast/974387/bluesky-toni-schneider-interview-ai-atproto-atmosphere",
       "pubDate": "2026-08-03T15:00:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Why Z-Wave matters in 2026 with Avi Rosenthal on Smart Home Insider",
-      "url": "https://appleinsider.com/articles/26/08/03/why-z-wave-matters-in-2026-with-avi-rosenthal-on-smart-home-insider?utm_source=rss",
-      "pubDate": "2026-08-03T14:57:28.000Z"
     },
     {
       "source": "MacRumors",
@@ -311,39 +339,11 @@
       "pubDate": "2026-08-03T14:54:19.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Palworld’s expanding to mobile with a new MMORPG",
-      "url": "https://www.theverge.com/games/974450/palworld-online-mobile-mmo",
-      "pubDate": "2026-08-03T14:50:29.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Spider-Man and The Odyssey are splitting up IMAX screens after a record-breaking weekend",
-      "url": "https://www.theverge.com/entertainment/974411/spider-man-the-odyssey-imax",
-      "pubDate": "2026-08-03T14:26:47.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Samsung’s 2TB 9100 Pro SSD is actually somewhat reasonably priced",
-      "url": "https://www.theverge.com/gadgets/974391/samsung-nvme-ssd-2tb-steelseries-arctis-omni-pixel-10a-deal-sale",
-      "pubDate": "2026-08-03T14:16:13.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "AirPods With Cameras Could Arrive Sooner Than Expected",
       "url": "https://www.macrumors.com/2026/08/03/airpods-with-cameras-could-arrive-sooner/",
       "pubDate": "2026-08-03T14:14:09.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Amazon Doubles Down on 2026 MacBook Pro Discounts, Some Prices Now Lower Than July",
-      "url": "https://www.macrumors.com/2026/08/03/amazon-2026-macbook-pro/",
-      "pubDate": "2026-08-03T13:57:46.000Z"
     },
     {
       "source": "Six Colors",
