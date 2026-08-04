@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T03:38:59.492Z",
+  "generatedAt": "2026-08-04T06:41:34.533Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -26,16 +26,23 @@
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple sued over alleged lack of age checks for casino games in Brazil",
-      "url": "https://9to5mac.com/2026/08/03/apple-sued-over-alleged-lack-of-age-checks-for-casino-games-in-brazil/",
-      "pubDate": "2026-08-04T03:13:07.000Z"
+      "title": "OpenAI rebuts Apple trade secrets allegations in new response with receipts",
+      "url": "https://9to5mac.com/2026/08/03/openai-rebuts-apple-trade-secrets-allegations-in-new-response-and-evidence/",
+      "pubDate": "2026-08-04T06:05:15.000Z"
     },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
-      "title": "Telegram briefly disappeared from the Apple App Store with no explanation",
+      "title": "Telegram briefly disappeared from the Apple App Store due to CSAM [u]",
       "url": "https://appleinsider.com/articles/26/08/04/telegram-briefly-disappeared-from-the-apple-app-store-with-no-explanation?utm_source=rss",
-      "pubDate": "2026-08-04T02:44:32.000Z"
+      "pubDate": "2026-08-04T05:53:54.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple sued over alleged lack of age checks for casino games in Brazil",
+      "url": "https://9to5mac.com/2026/08/03/apple-sued-over-alleged-lack-of-age-checks-for-casino-games-in-brazil/",
+      "pubDate": "2026-08-04T03:13:07.000Z"
     },
     {
       "source": "9to5Mac",
@@ -183,13 +190,6 @@
       "title": "Fitbit Data Can Finally Sync to Apple Health",
       "url": "https://www.macrumors.com/2026/08/03/fitbit-apple-health-syncing/",
       "pubDate": "2026-08-03T20:00:08.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "WhatsApp beta for Mac tests flexible update schedules",
-      "url": "https://9to5mac.com/2026/08/03/whatsapp-beta-for-mac-tests-flexible-update-schedules/",
-      "pubDate": "2026-08-03T19:54:27.000Z"
     },
     {
       "source": "AppleInsider",
