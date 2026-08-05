@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T15:28:38.191Z",
+  "generatedAt": "2026-08-05T17:54:21.247Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,118 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 adds four new ways to customize your iPhone’s Lock Screen",
+      "url": "https://9to5mac.com/2026/08/05/ios-27-lock-screen-customization/",
+      "pubDate": "2026-08-05T17:34:37.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Small, Siri, and smart: What to expect from HomePod mini 2",
+      "url": "https://appleinsider.com/articles/26/08/05/small-siri-and-smart-what-to-expect-from-homepod-mini-2?utm_source=rss",
+      "pubDate": "2026-08-05T17:18:24.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Watch Ultra 3 Deals Return: Grab $99 Off Before They're Gone",
+      "url": "https://www.macrumors.com/2026/08/05/apple-watch-ultra-3-deals/",
+      "pubDate": "2026-08-05T17:16:48.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Apple’s selling refurbished MacBook Neos with a $100 discount",
+      "url": "https://www.theverge.com/gadgets/975603/refurbished-apple-macbook-neo-google-wireless-charger-deal-sale",
+      "pubDate": "2026-08-05T16:59:23.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Sure seems like Fenix Flexin used AI music generator Treblo",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
+      "pubDate": "2026-08-05T16:57:25.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Surgeons enthuse about what a great bargain Apple Vision Pro is",
+      "url": "https://appleinsider.com/articles/26/08/05/surgeons-enthuse-about-what-a-great-bargain-apple-vision-pro-is?utm_source=rss",
+      "pubDate": "2026-08-05T16:48:22.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Google just announced a major shakeup of its top AI leadership",
+      "url": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup",
+      "pubDate": "2026-08-05T16:47:23.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "SpaceX is barely Space and mostly X",
+      "url": "https://www.theverge.com/science/975545/spacex-x-earnings-ai-data-centers-compute-space",
+      "pubDate": "2026-08-05T16:35:56.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Unsafe iMessage for Android app Sunbird just will not die",
+      "url": "https://appleinsider.com/articles/26/08/05/unsafe-imessage-for-android-app-sunbird-just-will-not-die?utm_source=rss",
+      "pubDate": "2026-08-05T16:02:40.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Reddit is introducing a new moderator: AI",
+      "url": "https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform",
+      "pubDate": "2026-08-05T16:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Vision Pro Speeds Up Surgery by Almost 20%",
+      "url": "https://www.macrumors.com/2026/08/05/apple-vision-pro-speeds-up-surgery/",
+      "pubDate": "2026-08-05T15:47:58.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's loaded M5 Max MacBook Pro with 40-core GPU is $500 off right now",
+      "url": "https://appleinsider.com/articles/26/08/05/apples-loaded-m5-max-macbook-pro-with-40-core-gpu-is-500-off-right-now?utm_source=rss",
+      "pubDate": "2026-08-05T15:45:09.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone Ultra sounds truly deserving of the ‘Ultra’ name",
+      "url": "https://9to5mac.com/2026/08/05/iphone-ultra-sounds-truly-deserving-of-the-ultra-name/",
+      "pubDate": "2026-08-05T15:41:31.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Set sail with Apple CarPlay on Crest & Balise pontoon boats",
+      "url": "https://appleinsider.com/articles/26/08/05/set-sail-with-apple-carplay-on-crest-balise-pontoon-boats?utm_source=rss",
+      "pubDate": "2026-08-05T15:32:49.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Deals: MacBook Neo up to $120 off, MacBook Pro $500 off, Apple Watch SE 3/Ultra 3 $130 off, AirPods, more",
+      "url": "https://9to5mac.com/2026/08/05/deals-macbook-neo-macbook-pro-apple-watch-ultra-3/",
+      "pubDate": "2026-08-05T15:30:18.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Newton's August 1993 launch set the stage for what would become the iPad and iPhone",
+      "url": "https://appleinsider.com/articles/18/08/02/newton-launched-august-2-1993-setting-the-stage-for-what-would-become-the-ipad-and-iphone?utm_source=rss",
+      "pubDate": "2026-08-05T15:29:58.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -164,39 +276,11 @@
       "pubDate": "2026-08-05T11:45:05.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Disney gives TikTok creators official access to Marvel, Star Wars, and Pixar characters",
-      "url": "https://www.theverge.com/streaming/975520/disney-tiktok-partnership-verts-streaming",
-      "pubDate": "2026-08-05T11:38:49.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Apple lawsuit against OpenAI says iCloud mess didn’t play a role",
       "url": "https://9to5mac.com/2026/08/05/apple-lawsuit-against-openai-says-icloud-mess-didnt-play-a-role/",
       "pubDate": "2026-08-05T11:14:32.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Google Assistant will disappear from your phone next month",
-      "url": "https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown",
-      "pubDate": "2026-08-05T11:12:50.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "If you have a very specific iPad & iPadOS combo, you can install macOS",
-      "url": "https://appleinsider.com/articles/26/08/05/if-sidecar-isnt-enough-get-real-macos-on-ipad-with-a-new-jailbreak-tool?utm_source=rss",
-      "pubDate": "2026-08-05T10:43:18.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Trump’s AI testing plan is limited and vague",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded",
-      "pubDate": "2026-08-05T10:29:47.000Z"
     },
     {
       "source": "Six Colors",
@@ -213,53 +297,11 @@
       "pubDate": "2026-08-05T07:01:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Ted Lasso returns at an important time for Apple TV",
-      "url": "https://www.theverge.com/entertainment/975224/ted-lasso-season-4-apple-tv",
-      "pubDate": "2026-08-05T07:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "SpaceX is coming for T-Mobile, AT&#038;T and Verizon",
-      "url": "https://www.theverge.com/science/975480/spacex-mobile-terrestrial-cellphone-company",
-      "pubDate": "2026-08-05T06:50:19.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple CarPlay expands to select pontoon boats with on-water navigation",
-      "url": "https://9to5mac.com/2026/08/04/apple-carplay-expands-to-select-pontoon-boats-with-on-water-navigation/",
-      "pubDate": "2026-08-05T01:38:46.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Ted Lasso’s season 4 premiere now available to stream on Apple TV",
-      "url": "https://9to5mac.com/2026/08/04/ted-lassos-season-4-premiere-now-available-to-stream-on-apple-tv/",
-      "pubDate": "2026-08-05T01:00:48.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "WebKit leaks in iOS & macOS expose user data in spite of proxy use",
-      "url": "https://appleinsider.com/articles/26/08/05/webkit-leaks-in-ios-macos-expose-ip-and-dns-in-spite-of-proxy-use?utm_source=rss",
-      "pubDate": "2026-08-05T00:11:10.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "CarPlay is Coming to Pontoon Boats",
       "url": "https://www.macrumors.com/2026/08/04/carplay-is-coming-to-pontoon-boats/",
       "pubDate": "2026-08-04T23:49:52.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: August 4, 2026 – The latest Apple vs OpenAI drama",
-      "url": "https://9to5mac.com/2026/08/04/daily-august-4-2026/",
-      "pubDate": "2026-08-04T22:42:37.000Z"
     },
     {
       "source": "MacRumors",
@@ -274,20 +316,6 @@
       "title": "Telegram CEO Says Extortionist Manipulated Apple Into App Store Removal",
       "url": "https://www.macrumors.com/2026/08/04/telegram-extortionist-app-store-removal/",
       "pubDate": "2026-08-04T20:21:53.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "AirPods Pro, AirPods Max get another iOS 27 beta firmware release",
-      "url": "https://appleinsider.com/articles/26/08/04/airpods-pro-airpods-max-get-another-ios-27-beta-firmware-release?utm_source=rss",
-      "pubDate": "2026-08-04T20:07:34.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Telegram's takedown caused by planted porn & weaponized App Store policies",
-      "url": "https://appleinsider.com/articles/26/08/04/telegrams-takedown-caused-by-planted-porn-weaponized-app-store-policies?utm_source=rss",
-      "pubDate": "2026-08-04T19:45:45.000Z"
     },
     {
       "source": "MacRumors",
@@ -339,39 +367,11 @@
       "pubDate": "2026-08-04T14:13:40.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "WhatsApp Adds '@ all' Mentions and Poll Upgrades to Group Chats",
-      "url": "https://www.macrumors.com/2026/08/04/whatsapp-adds-all-mentions-and-poll-upgrades/",
-      "pubDate": "2026-08-04T14:00:22.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Amazon Discounts New M4 iPad Air Models by Up to $69",
-      "url": "https://www.macrumors.com/2026/08/04/amazon-m4-ipad-air-models/",
-      "pubDate": "2026-08-04T13:58:59.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "OpenAI: “Apple is getting this wrong” ↦",
       "url": "https://sixcolors.com/link/2026/08/openai-apple-is-getting-this-wrong/",
       "pubDate": "2026-08-04T13:21:12.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) Upgrade 631: Nessie Beneath the Waves",
-      "url": "https://sixcolors.com/podcast/2026/08/upgrade-631-nessie-beneath-the-waves/",
-      "pubDate": "2026-08-03T21:12:03.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Preparing for next year’s Rosetta 2 demise",
-      "url": "https://sixcolors.com/post/2026/08/preparing-for-next-years-rosetta-2-demise/",
-      "pubDate": "2026-08-03T15:30:20.000Z"
     }
   ]
 }
