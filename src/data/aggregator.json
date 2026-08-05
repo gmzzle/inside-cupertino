@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T12:17:13.381Z",
+  "generatedAt": "2026-08-05T15:28:38.191Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,125 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Rogue AI agents created fake online identities in another hacking attempt",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking",
+      "pubDate": "2026-08-05T15:14:57.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "The world's RAM supply crisis is going to get worse before it gets better",
+      "url": "https://appleinsider.com/articles/26/08/05/the-worlds-ram-supply-crisis-is-going-to-get-worse-before-it-gets-better?utm_source=rss",
+      "pubDate": "2026-08-05T15:09:33.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: August 5, 2026 – Apple iPhone event clues, more",
+      "url": "https://9to5mac.com/2026/08/05/daily-august-5-2026/",
+      "pubDate": "2026-08-05T14:52:55.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Ted Lasso is back, and two more hit Apple shows are coming soon",
+      "url": "https://9to5mac.com/2026/08/05/ted-lasso-is-back-and-two-more-hit-apple-shows-are-coming-soon/",
+      "pubDate": "2026-08-05T14:42:56.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Report: Apple’s Private Relay may not be as private as thought ↦",
+      "url": "https://sixcolors.com/link/2026/08/report-apples-private-relay-may-not-be-as-private-as-thought/",
+      "pubDate": "2026-08-05T14:42:25.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Why you should never put a hot iPhone in the fridge or freezer",
+      "url": "https://appleinsider.com/articles/26/08/05/why-you-should-never-put-a-hot-iphone-in-the-fridge-or-freezer?utm_source=rss",
+      "pubDate": "2026-08-05T14:24:21.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Sunbird relaunched its iMessage app for Android users after three years away",
+      "url": "https://www.theverge.com/tech/975563/imessage-android-sunbird",
+      "pubDate": "2026-08-05T14:13:15.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27’s best new Messages feature is all about saving you time",
+      "url": "https://9to5mac.com/2026/08/05/ios-27s-best-new-messages-feature-is-all-about-saving-you-time/",
+      "pubDate": "2026-08-05T14:05:46.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "MacBook Pro, AirPods, and More Discounted in Best Buy Back to School Event",
+      "url": "https://www.macrumors.com/2026/08/05/best-buy-back-to-school/",
+      "pubDate": "2026-08-05T14:02:46.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "A live iPhone launch seems unlikely, but the event could be live-lier this year",
+      "url": "https://9to5mac.com/2026/08/05/a-live-iphone-launch-seems-unlikely-but-the-event-could-be-live-lier-this-year/",
+      "pubDate": "2026-08-05T14:01:45.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Ring upgraded its peephole doorbell camera to 2K",
+      "url": "https://www.theverge.com/tech/975538/amazon-ring-peephole-cam-2k-smart-doorbell-preorder-easy-install",
+      "pubDate": "2026-08-05T14:01:20.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Traveling this summer? Don’t go without these essential gadgets",
+      "url": "https://www.theverge.com/gadgets/974436/summer-travel-tech-gadget-gift-guide",
+      "pubDate": "2026-08-05T14:00:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Teen died because TikTok just turned off safety controls to see what happened",
+      "url": "https://appleinsider.com/articles/26/08/05/teen-died-because-tiktok-just-turned-off-safety-controls-to-see-what-happened?utm_source=rss",
+      "pubDate": "2026-08-05T13:54:20.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "MacPaw is building an on-device AI layer that will work across your Mac apps",
+      "url": "https://9to5mac.com/2026/08/05/macpaw-is-building-an-on-device-ai-layer-that-will-work-across-your-mac-apps/",
+      "pubDate": "2026-08-05T13:45:53.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "RAM production worldwide is sold out through 2027",
+      "url": "https://appleinsider.com/articles/26/08/05/ram-production-worldwide-is-sold-out-through-2027?utm_source=rss",
+      "pubDate": "2026-08-05T13:45:34.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Disney says it&#8217;s &#8216;exploring&#8217; adding a free tier to Disney Plus",
+      "url": "https://www.theverge.com/streaming/975543/disney-plus-free-tier-q3-2026-earnings",
+      "pubDate": "2026-08-05T13:44:14.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "TikTok is telling people to put their phones into the fridge, and repair shops are happy",
+      "url": "https://9to5mac.com/2026/08/05/tiktok-is-telling-people-to-put-their-phones-into-the-fridge-and-repair-shops-are-happy/",
+      "pubDate": "2026-08-05T12:32:58.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -136,13 +255,6 @@
       "pubDate": "2026-08-04T23:49:52.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Don’t screw this up, Marvel",
-      "url": "https://www.theverge.com/entertainment/975297/spider-man-brand-new-day-marvel-sony-xmen-doomsday",
-      "pubDate": "2026-08-04T23:20:56.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "9to5Mac Daily: August 4, 2026 – The latest Apple vs OpenAI drama",
@@ -157,46 +269,11 @@
       "pubDate": "2026-08-04T22:10:13.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Now you can securely link multiple phones to one Signal account",
-      "url": "https://www.theverge.com/tech/975407/signal-linked-devices-sync",
-      "pubDate": "2026-08-04T22:02:46.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "AMD&#8217;s data center business is booming while gaming takes a backseat",
-      "url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
-      "pubDate": "2026-08-04T20:57:49.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "SpaceX made more revenue as an AI company than a space company",
-      "url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
-      "pubDate": "2026-08-04T20:47:55.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Bingers, a new TV-tracking app from the founder of TV Time, is now available to download",
-      "url": "https://9to5mac.com/2026/08/04/bingers-a-new-tv-tracking-app-from-the-founder-of-tv-time-is-now-available-to-download/",
-      "pubDate": "2026-08-04T20:33:46.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Telegram CEO Says Extortionist Manipulated Apple Into App Store Removal",
       "url": "https://www.macrumors.com/2026/08/04/telegram-extortionist-app-store-removal/",
       "pubDate": "2026-08-04T20:21:53.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "EA is now a private company",
-      "url": "https://www.theverge.com/games/974736/ea-private-company-deal-closed",
-      "pubDate": "2026-08-04T20:18:14.000Z"
     },
     {
       "source": "AppleInsider",
@@ -220,60 +297,11 @@
       "pubDate": "2026-08-04T19:45:27.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Telegram CEO says extortionist planted illegal content that triggered App Store removal",
-      "url": "https://9to5mac.com/2026/08/04/telegram-ceo-says-extortionist-planted-illegal-content-that-triggered-app-store-removal/",
-      "pubDate": "2026-08-04T19:33:46.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "RevenueCat Shipaton mobile hackathon is back with $1 million worth of prizes",
-      "url": "https://9to5mac.com/2026/08/04/revenuecat-shipaton-mobile-hackathon-is-back-with-1-million-worth-of-prizes/",
-      "pubDate": "2026-08-04T19:19:59.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "These Apple products are likely getting more expensive next month",
-      "url": "https://9to5mac.com/2026/08/04/these-apple-products-are-likely-getting-more-expensive-next-month/",
-      "pubDate": "2026-08-04T19:06:12.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Releases New AirPods Beta Firmware With iOS 27 Features",
       "url": "https://www.macrumors.com/2026/08/04/airpods-beta-firmware-ios-27/",
       "pubDate": "2026-08-04T18:43:26.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "AirPods Pro 3 just got new firmware release in beta, more models too",
-      "url": "https://9to5mac.com/2026/08/04/airpods-pro-3-just-got-new-firmware-release-in-beta-more-models-too/",
-      "pubDate": "2026-08-04T18:33:57.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Hands-on: GAMEBABY’s new translucent case turns your iPhone into a Game Boy with real buttons",
-      "url": "https://9to5mac.com/2026/08/04/hands-on-gamebabys-new-translucent-case-turns-your-iphone-into-a-game-boy-with-real-buttons/",
-      "pubDate": "2026-08-04T18:30:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Staff lottery reveals Apple's first-half September event plans",
-      "url": "https://appleinsider.com/articles/26/08/04/staff-lottery-reveals-apples-first-half-september-event-plans?utm_source=rss",
-      "pubDate": "2026-08-04T18:08:41.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Amazon's Apple sale offers up to $500 off Macs, iPads, Apple Watch",
-      "url": "https://appleinsider.com/articles/26/08/04/amazons-apple-sale-offers-up-to-500-off-macs-ipads-apple-watch?utm_source=rss",
-      "pubDate": "2026-08-04T17:37:57.000Z"
     },
     {
       "source": "MacRumors",
@@ -290,25 +318,11 @@
       "pubDate": "2026-08-04T16:21:57.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple Card partners with Booking.com to speed up loyalty rewards",
-      "url": "https://appleinsider.com/articles/26/08/04/apple-card-partners-with-bookingcom-to-speed-up-loyalty-rewards?utm_source=rss",
-      "pubDate": "2026-08-04T16:00:05.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Soulver 4 casts a wider calculating net",
       "url": "https://sixcolors.com/post/2026/08/soulver-4-casts-a-wider-calculating-net/",
       "pubDate": "2026-08-04T15:30:05.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple plans massive 6.4-inch, 7-inch screens for the iPhone 20",
-      "url": "https://appleinsider.com/articles/26/08/04/apple-plans-massive-64-inch-7-inch-screens-for-the-iphone-20?utm_source=rss",
-      "pubDate": "2026-08-04T14:48:20.000Z"
     },
     {
       "source": "MacRumors",
@@ -346,13 +360,6 @@
       "pubDate": "2026-08-04T13:21:12.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple's Annual India Sales Surpass $10 Billion for First Time",
-      "url": "https://www.macrumors.com/2026/08/04/apple-annual-india-sales-surpass-10-billion/",
-      "pubDate": "2026-08-04T12:37:22.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) Upgrade 631: Nessie Beneath the Waves",
@@ -365,13 +372,6 @@
       "title": "Preparing for next year’s Rosetta 2 demise",
       "url": "https://sixcolors.com/post/2026/08/preparing-for-next-years-rosetta-2-demise/",
       "pubDate": "2026-08-03T15:30:20.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Q3 results: 3D pricing, EGOT timing, and underestimating demand",
-      "url": "https://sixcolors.com/post/2026/07/q3-results-3d-pricing-egot-timing-and-underestimating-demand/",
-      "pubDate": "2026-07-31T16:57:11.000Z"
     }
   ]
 }
