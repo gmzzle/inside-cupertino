@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T23:18:04.697Z",
+  "generatedAt": "2026-08-06T03:40:02.063Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,41 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Abode launches new Apple Home-compatible sensors for garages, gates, more",
+      "url": "https://9to5mac.com/2026/08/05/abode-launches-new-apple-home-compatible-sensors-for-garages-gates-more/",
+      "pubDate": "2026-08-06T00:26:32.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Elon Musk&#8217;s attempt at an AI Wikipedia hasn&#8217;t been updated in months",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
+      "pubDate": "2026-08-06T00:25:10.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Meta's New Mac Coding Agent Costs Up to 20x Less If You Let Meta Train on Your Data",
+      "url": "https://www.macrumors.com/2026/08/05/meta-muse-code-for-mac/",
+      "pubDate": "2026-08-06T00:10:28.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Disney+ Could Get a Free Ad-Supported Tier",
+      "url": "https://www.macrumors.com/2026/08/05/disney-plus-free-tier/",
+      "pubDate": "2026-08-05T23:34:16.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) Clockwise 668: Coming Soon to Pontoon Boats",
+      "url": "https://sixcolors.com/podcast/2026/08/clockwise-668-coming-soon-to-pontoon-boats/",
+      "pubDate": "2026-08-05T23:00:00.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -276,39 +311,11 @@
       "pubDate": "2026-08-05T15:14:57.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "The world's RAM supply crisis is going to get worse before it gets better",
-      "url": "https://appleinsider.com/articles/26/08/05/the-worlds-ram-supply-crisis-is-going-to-get-worse-before-it-gets-better?utm_source=rss",
-      "pubDate": "2026-08-05T15:09:33.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: August 5, 2026 – Apple iPhone event clues, more",
-      "url": "https://9to5mac.com/2026/08/05/daily-august-5-2026/",
-      "pubDate": "2026-08-05T14:52:55.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Report: Apple’s Private Relay may not be as private as thought ↦",
       "url": "https://sixcolors.com/link/2026/08/report-apples-private-relay-may-not-be-as-private-as-thought/",
       "pubDate": "2026-08-05T14:42:25.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Why you should never put a hot iPhone in the fridge or freezer",
-      "url": "https://appleinsider.com/articles/26/08/05/why-you-should-never-put-a-hot-iphone-in-the-fridge-or-freezer?utm_source=rss",
-      "pubDate": "2026-08-05T14:24:21.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Sunbird relaunched its iMessage app for Android users after three years away",
-      "url": "https://www.theverge.com/tech/975563/imessage-android-sunbird",
-      "pubDate": "2026-08-05T14:13:15.000Z"
     },
     {
       "source": "MacRumors",
@@ -353,25 +360,18 @@
       "pubDate": "2026-08-04T22:10:13.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Telegram CEO Says Extortionist Manipulated Apple Into App Store Removal",
-      "url": "https://www.macrumors.com/2026/08/04/telegram-extortionist-app-store-removal/",
-      "pubDate": "2026-08-04T20:21:53.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Limits Bug Bounty Submissions After Flood of AI Slop",
-      "url": "https://www.macrumors.com/2026/08/04/aple-bug-bounty-limits-ai/",
-      "pubDate": "2026-08-04T19:45:27.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Soulver 4 casts a wider calculating net",
       "url": "https://sixcolors.com/post/2026/08/soulver-4-casts-a-wider-calculating-net/",
       "pubDate": "2026-08-04T15:30:05.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "OpenAI: “Apple is getting this wrong” ↦",
+      "url": "https://sixcolors.com/link/2026/08/openai-apple-is-getting-this-wrong/",
+      "pubDate": "2026-08-04T13:21:12.000Z"
     }
   ]
 }
