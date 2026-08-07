@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T09:15:50.018Z",
+  "generatedAt": "2026-08-07T11:08:03.038Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,48 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Paying for AI, freezing iPhones, & avoiding scams on the AppleInsider Podcast",
+      "url": "https://appleinsider.com/articles/26/08/07/paying-for-ai-freezing-iphones-avoiding-scams-on-the-appleinsider-podcast?utm_source=rss",
+      "pubDate": "2026-08-07T11:01:18.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Why does Apple keep banning Telegram, but never X?",
+      "url": "https://www.theverge.com/tech/976405/apple-telegram-ban-x-app-store-violations",
+      "pubDate": "2026-08-07T11:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iOS 27's New Compact Clock Gives Your Wallpaper Room to Breathe",
+      "url": "https://www.macrumors.com/how-to/ios-use-compact-lock-screen-clock/",
+      "pubDate": "2026-08-07T10:53:08.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Trying to explain One Night Only&#8217;s tech-enforced sex dystopia",
+      "url": "https://www.theverge.com/entertainment/975917/one-night-only-sex-purge-movie-questions-tech",
+      "pubDate": "2026-08-07T10:30:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Security Bite Podcast: Why scammers love FaceTime now",
+      "url": "https://9to5mac.com/2026/08/07/security-bite-podcast-why-scammers-love-facetime-now/",
+      "pubDate": "2026-08-07T10:00:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Still simple, still powerful, BBEdit is a Mac app legend",
+      "url": "https://appleinsider.com/articles/26/08/07/still-simple-still-powerful-bbedit-is-a-mac-app-legend?utm_source=rss",
+      "pubDate": "2026-08-07T09:26:56.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -220,13 +262,6 @@
       "pubDate": "2026-08-06T18:44:16.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple TV’s surprise hit series is making the jump to theaters for one night only",
-      "url": "https://9to5mac.com/2026/08/06/apple-tvs-surprise-hit-series-is-making-the-jump-to-theaters-for-one-night-only/",
-      "pubDate": "2026-08-06T18:34:58.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple issues another round of macOS security updates as patch frequency increases",
@@ -269,13 +304,6 @@
       "pubDate": "2026-08-06T17:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "TikTok blames &#8216;moderator error&#8217; on slow response to Perez Hilton livestream",
-      "url": "https://www.theverge.com/tech/976228/tiktok-perez-hilton-livestream-moderator-error",
-      "pubDate": "2026-08-06T16:41:25.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Last call to save up to $200 on M5 MacBook Air laptops",
@@ -288,27 +316,6 @@
       "title": "Adobe is hell-bent on becoming the creative engine behind AI",
       "url": "https://appleinsider.com/articles/26/08/06/adobe-is-hell-bent-on-becoming-the-creative-engine-behind-ai?utm_source=rss",
       "pubDate": "2026-08-06T15:56:41.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple increases trade-in offers and adds new Android devices",
-      "url": "https://www.theverge.com/tech/976210/apple-trade-in-values-increased",
-      "pubDate": "2026-08-06T15:47:15.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "One pasted Terminal command opens the door to Mac crypto wallet theft",
-      "url": "https://appleinsider.com/articles/26/08/06/one-pasted-terminal-command-opens-the-door-to-mac-crypto-wallet-theft?utm_source=rss",
-      "pubDate": "2026-08-06T15:10:29.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple sweetens its trade-in deals, but you can still do better",
-      "url": "https://appleinsider.com/articles/26/08/06/apple-sweetens-its-trade-in-deals-but-you-can-still-do-better?utm_source=rss",
-      "pubDate": "2026-08-06T15:03:06.000Z"
     },
     {
       "source": "MacRumors",
@@ -330,13 +337,6 @@
       "title": "iPhone 18 Pro Launching Next Month With These 12 New Features",
       "url": "https://www.macrumors.com/2026/08/06/iphone-18-pro-next-month-12-features/",
       "pubDate": "2026-08-06T14:03:48.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Scrambling to Secure Memory Ahead of iPhone 18 Pro Launch",
-      "url": "https://www.macrumors.com/2026/08/06/apple-scrambling-to-secure-memory/",
-      "pubDate": "2026-08-06T13:23:02.000Z"
     },
     {
       "source": "Six Colors",
