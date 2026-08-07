@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T17:08:47.520Z",
+  "generatedAt": "2026-08-07T18:02:45.920Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -26,14 +26,56 @@
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
-      "title": "Grab the entire Lord of the Rings trilogy on 4K Blu-Ray for $50",
+      "title": "Disney Plus tries a new AI-powered search",
+      "url": "https://www.theverge.com/streaming/976881/disney-plus-ai-recommendation-espn-search",
+      "pubDate": "2026-08-07T17:53:44.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Microsoft Edge is about to lock out older ad blockers, just like Chrome did",
+      "url": "https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3",
+      "pubDate": "2026-08-07T17:43:34.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple RAM supplier makes $38B bet on AI boom lasting until 2029",
+      "url": "https://appleinsider.com/articles/26/08/07/apple-memory-supplier-bets-on-ai-boom-lasting-till-2029-with-38b-investment?utm_source=rss",
+      "pubDate": "2026-08-07T17:32:41.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "When will Apple have its iPhone 18 Pro release event?",
+      "url": "https://appleinsider.com/articles/26/08/07/when-to-expect-apples-iphone-18-pro-launch?utm_source=rss",
+      "pubDate": "2026-08-07T17:18:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iPhone 18 Pro rumor roundup: 2nm A20 chip, C2 modem, under-display Face ID",
+      "url": "https://appleinsider.com/articles/26/08/07/iphone-18-pro-rumor-roundup-2nm-a20-chip-c2-modem-under-display-face-id?utm_source=rss",
+      "pubDate": "2026-08-07T17:16:16.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "B&H's $1,349 M5 MacBook Air deal with 24GB RAM ends this weekend",
+      "url": "https://appleinsider.com/articles/26/08/07/bhs-1349-m5-macbook-air-deal-with-24gb-ram-ends-this-weekend?utm_source=rss",
+      "pubDate": "2026-08-07T17:11:05.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Grab the entire Lord of the Rings trilogy on 4K Blu-ray for $50",
       "url": "https://www.theverge.com/gadgets/976792/lord-of-the-rings-trilogy-4k-uhd-blu-ray-deal-sale",
       "pubDate": "2026-08-07T16:58:18.000Z"
     },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
-      "title": "What&#8217;s behind the Google AI shakeup",
+      "title": "What&#8217;s behind the Google AI shake-up",
       "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
       "pubDate": "2026-08-07T16:45:14.000Z"
     },
@@ -43,13 +85,6 @@
       "title": "The MacRumors Show: iPhone Air 2 - What Changes After a Difficult First Year",
       "url": "https://www.macrumors.com/2026/08/07/the-macrumors-show-iphone-air-2/",
       "pubDate": "2026-08-07T16:23:39.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple memory supplier bets on AI boom lasting till 2029 with $38B investment",
-      "url": "https://appleinsider.com/articles/26/08/07/apple-memory-supplier-bets-on-ai-boom-lasting-till-2029-with-38b-investment?utm_source=rss",
-      "pubDate": "2026-08-07T16:18:19.000Z"
     },
     {
       "source": "9to5Mac",
@@ -106,13 +141,6 @@
       "title": "Deals: Apple Watch Series 11 $172 off, Nike Watch bands, AirPods Pro 3, MacBook Neo discounts, more",
       "url": "https://9to5mac.com/2026/08/07/deals-apple-watch-nike-bands-airpods-pro-macbook-neo/",
       "pubDate": "2026-08-07T15:32:58.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "When to expect Apple's iPhone 18 Pro launch",
-      "url": "https://appleinsider.com/articles/26/08/07/when-to-expect-apples-iphone-18-pro-launch?utm_source=rss",
-      "pubDate": "2026-08-07T15:09:19.000Z"
     },
     {
       "source": "9to5Mac",
@@ -234,13 +262,6 @@
       "pubDate": "2026-08-07T10:52:58.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Trying to explain One Night Only&#8217;s tech-enforced sex dystopia",
-      "url": "https://www.theverge.com/entertainment/975917/one-night-only-sex-purge-movie-questions-tech",
-      "pubDate": "2026-08-07T10:30:00.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Security Bite Podcast: Why scammers love FaceTime now",
@@ -253,13 +274,6 @@
       "title": "Still simple, still powerful, BBEdit is a Mac app legend",
       "url": "https://appleinsider.com/articles/26/08/07/still-simple-still-powerful-bbedit-is-a-mac-app-legend?utm_source=rss",
       "pubDate": "2026-08-07T09:26:56.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Meta ordered to pay an additional $567 million in public nuisance ruling",
-      "url": "https://www.theverge.com/tech/976537/meta-new-mexico-cild-safety-fine-public-nuisance",
-      "pubDate": "2026-08-07T09:10:01.000Z"
     },
     {
       "source": "9to5Mac",
@@ -316,20 +330,6 @@
       "title": "New ChatGPT version has a 'Think' button, will find 'more reliable facts'",
       "url": "https://appleinsider.com/articles/26/08/06/new-chatgpt-version-has-a-think-button-will-find-more-reliable-facts?utm_source=rss",
       "pubDate": "2026-08-06T21:05:38.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "OpenAI's new hardware leaks: Over $300, same size as an Alexa Dot",
-      "url": "https://appleinsider.com/articles/26/08/06/openais-new-hardware-leak-same-size-as-an-alexa-dot?utm_source=rss",
-      "pubDate": "2026-08-06T20:36:58.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple TV brings free 'Widow's Bay' screenings to AMC theaters",
-      "url": "https://appleinsider.com/articles/26/08/06/apple-tv-brings-free-widows-bay-screenings-to-amc-theaters?utm_source=rss",
-      "pubDate": "2026-08-06T19:14:22.000Z"
     },
     {
       "source": "Six Colors",
