@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T15:09:30.613Z",
+  "generatedAt": "2026-08-07T16:09:11.851Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Flags Discovery Delays in Its Lawsuit Against Jon Prosser",
+      "url": "https://www.macrumors.com/2026/08/07/apple-flags-delays-in-its-prosser-lawsuit/",
+      "pubDate": "2026-08-07T16:07:57.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Birdfy’s smart bird feeder is on sale for just $60",
+      "url": "https://www.theverge.com/gadgets/976422/birdfy-feeder-rookie-nothing-headphones-deal-sale",
+      "pubDate": "2026-08-07T16:04:03.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple expands refurb store with rare M5 MacBook Pro configs, Apple TV 4K, more",
+      "url": "https://9to5mac.com/2026/08/07/apple-expands-refurb-store-with-rare-m5-macbook-pro-configs-apple-tv-4k-more/",
+      "pubDate": "2026-08-07T15:56:51.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Deals: Apple Watch Series 11 $172 off, Nike Watch bands, AirPods Pro 3, MacBook Neo discounts, more",
+      "url": "https://9to5mac.com/2026/08/07/deals-apple-watch-nike-bands-airpods-pro-macbook-neo/",
+      "pubDate": "2026-08-07T15:32:58.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -238,14 +266,7 @@
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Madden NFL 27 Arcade Edition Now Available on Apple Arcade",
       "url": "https://www.macrumors.com/2026/08/06/madden-nfl-27-apple-arcade/",
-      "pubDate": "2026-08-06T22:26:48.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Report shares new pricing and design details about OpenAI’s first device",
-      "url": "https://9to5mac.com/2026/08/06/report-shares-new-pricing-and-design-details-about-openais-first-device/",
-      "pubDate": "2026-08-06T22:09:02.000Z"
+      "pubDate": "2026-08-06T22:26:38.000Z"
     },
     {
       "source": "AppleInsider",
@@ -269,25 +290,11 @@
       "pubDate": "2026-08-06T21:15:47.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple holds 65% of the premium smartphone market as segment reaches record high",
-      "url": "https://9to5mac.com/2026/08/06/apple-holds-65-of-the-premium-smartphone-market-as-segment-reaches-record-high/",
-      "pubDate": "2026-08-06T21:14:01.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "New ChatGPT version has a 'Think' button, will find 'more reliable facts'",
       "url": "https://appleinsider.com/articles/26/08/06/new-chatgpt-version-has-a-think-button-will-find-more-reliable-facts?utm_source=rss",
       "pubDate": "2026-08-06T21:05:38.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "OpenAI's ChatGPT Speaker Will Be Hockey Puck-Sized and Cost Over $300",
-      "url": "https://www.macrumors.com/2026/08/06/openai-chatgpt-speaker/",
-      "pubDate": "2026-08-06T21:00:57.000Z"
     },
     {
       "source": "The Verge",
@@ -330,13 +337,6 @@
       "title": "Apple issues another round of macOS security updates as patch frequency increases",
       "url": "https://appleinsider.com/articles/26/08/06/apple-issues-another-round-of-macos-security-updates-as-patch-frequency-increases?utm_source=rss",
       "pubDate": "2026-08-06T18:34:53.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Zelda movie’s Ganondorf casting hints at more movies",
-      "url": "https://www.theverge.com/entertainment/976337/the-legend-of-zelda-movie-ganondorf-multi-picture-deal",
-      "pubDate": "2026-08-06T18:31:57.000Z"
     },
     {
       "source": "Six Colors",
