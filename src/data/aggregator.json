@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T20:59:40.819Z",
+  "generatedAt": "2026-08-07T21:56:23.492Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Overtime 076: Native retro games on iPhone",
+      "url": "https://9to5mac.com/2026/08/07/9to5mac-overtime-076-native-retro-games-on-iphone/",
+      "pubDate": "2026-08-07T21:31:16.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "OpenAI Delays Next Major AI Model 'Astra' Over Critical Hacking Concerns",
+      "url": "https://www.macrumors.com/2026/08/07/openai-astra-model-hacking-concerns/",
+      "pubDate": "2026-08-07T21:27:43.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "‘Your Friends & Neighbors’ star confirmed for his third Apple TV project",
+      "url": "https://9to5mac.com/2026/08/07/your-friends-neighbors-star-confirmed-for-his-third-apple-tv-project/",
+      "pubDate": "2026-08-07T21:17:21.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -220,20 +241,6 @@
       "pubDate": "2026-08-07T15:56:51.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: Apple Watch Series 11 $172 off, Nike Watch bands, AirPods Pro 3, MacBook Neo discounts, more",
-      "url": "https://9to5mac.com/2026/08/07/deals-apple-watch-nike-bands-airpods-pro-macbook-neo/",
-      "pubDate": "2026-08-07T15:32:58.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "watchOS 27 could make Apple Watch’s important new health feature even better",
-      "url": "https://9to5mac.com/2026/08/07/watchos-27-could-make-apple-watchs-important-new-health-feature-even-better/",
-      "pubDate": "2026-08-07T14:51:06.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Captures 65% of Global Premium Smartphone Market",
@@ -302,13 +309,6 @@
       "title": "iPhone 18 Pro and Foldable iPhone Could Sell Out Fast Due to Memory Shortage",
       "url": "https://www.macrumors.com/2026/08/06/iphone-18-pro-possible-shortages/",
       "pubDate": "2026-08-07T00:10:27.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Original iPhone Loses Its Last Cellular Network as T-Mobile Kills 2G",
-      "url": "https://www.macrumors.com/2026/08/06/t-mobile-2g-network-disabled/",
-      "pubDate": "2026-08-06T23:19:09.000Z"
     },
     {
       "source": "AppleInsider",
