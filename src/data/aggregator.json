@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T07:42:26.474Z",
+  "generatedAt": "2026-08-07T09:15:50.018Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Meta ordered to pay an additional $567 million in public nuisance ruling",
+      "url": "https://www.theverge.com/tech/976537/meta-new-mexico-cild-safety-fine-public-nuisance",
+      "pubDate": "2026-08-07T09:10:01.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -309,13 +316,6 @@
       "title": "Last Day for Up to $350 Amazon Gift Card With Samsung Galaxy Pre-Orders",
       "url": "https://www.macrumors.com/2026/08/06/last-day-samsung-galaxy-pre-orders/",
       "pubDate": "2026-08-06T14:50:48.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "SoftBank donated $50 million to Trump’s library months before federal data center deal",
-      "url": "https://www.theverge.com/policy/976138/softbank-trump-library-data-center-ohio",
-      "pubDate": "2026-08-06T14:30:00.000Z"
     },
     {
       "source": "MacRumors",
