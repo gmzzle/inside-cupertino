@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T00:16:14.749Z",
+  "generatedAt": "2026-08-07T04:03:31.709Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: August 6, 2026 – Potential iPhone 18 Pro shortages, more",
+      "url": "https://9to5mac.com/2026/08/06/daily-august-6-2026/",
+      "pubDate": "2026-08-07T00:21:01.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -227,13 +234,6 @@
       "pubDate": "2026-08-06T18:31:57.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple’s latest macOS updates address a serious Screen Sharing vulnerability",
-      "url": "https://9to5mac.com/2026/08/06/apples-latest-macos-updates-address-a-serious-screen-sharing-vulnerability/",
-      "pubDate": "2026-08-06T18:21:56.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Suno shares plans to combat spammy AI music",
@@ -339,20 +339,6 @@
       "pubDate": "2026-08-06T13:23:02.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "RAM supply holding up iPhone 18 Pro assembly is another bad sign",
-      "url": "https://appleinsider.com/articles/26/08/06/ram-supply-holding-up-iphone-18-pro-assembly-is-another-bad-sign?utm_source=rss",
-      "pubDate": "2026-08-06T13:16:15.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "AirPods Pro 3 plunge to $189 at Amazon, 30-day best price",
-      "url": "https://appleinsider.com/articles/26/08/06/airpods-pro-3-plunge-to-189-at-amazon-30-day-best-price?utm_source=rss",
-      "pubDate": "2026-08-06T13:02:04.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) Clockwise 668: Coming Soon to Pontoon Boats",
@@ -372,6 +358,20 @@
       "title": "(Podcast) The Rebound 610: If You’re a Robot, You Have to Tell Me",
       "url": "https://sixcolors.com/podcast/2026/08/the-rebound-610-if-youre-a-robot-you-have-to-tell-me/",
       "pubDate": "2026-08-05T14:00:00.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Review: “Ted Lasso” returns, refreshed, to the pitch",
+      "url": "https://sixcolors.com/post/2026/08/review-ted-lasso-returns-to-the-pitch/",
+      "pubDate": "2026-08-05T07:01:18.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Soulver 4 casts a wider calculating net",
+      "url": "https://sixcolors.com/post/2026/08/soulver-4-casts-a-wider-calculating-net/",
+      "pubDate": "2026-08-04T15:30:05.000Z"
     }
   ]
 }
