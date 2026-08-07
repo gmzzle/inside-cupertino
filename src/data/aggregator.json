@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T18:02:45.920Z",
+  "generatedAt": "2026-08-07T19:16:38.407Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,55 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "These automakers still don’t support CarPlay, here’s why",
+      "url": "https://9to5mac.com/2026/08/07/these-automakers-still-dont-support-carplay-heres-why/",
+      "pubDate": "2026-08-07T19:14:14.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Rumored to Launch Three New 'Ultra' Products by Early Next Year",
+      "url": "https://www.macrumors.com/2026/08/07/three-new-apple-ultra-products-rumored/",
+      "pubDate": "2026-08-07T19:06:20.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "New AirPods could launch next month, and one feature sounds very exciting",
+      "url": "https://9to5mac.com/2026/08/07/new-airpods-could-launch-next-month-and-one-feature-sounds-very-exciting/",
+      "pubDate": "2026-08-07T19:01:31.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Watching Roku’s AI channel is like eating from a trough",
+      "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+      "pubDate": "2026-08-07T18:59:46.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "PSA: Claude Code enabling auto mode as default next week, Anthropic says",
+      "url": "https://9to5mac.com/2026/08/07/psa-claude-code-enabling-auto-mode-as-default-next-week-anthropic-says/",
+      "pubDate": "2026-08-07T18:48:17.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+      "pubDate": "2026-08-07T18:40:34.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The only instant cameras worth your money",
+      "url": "https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak",
+      "pubDate": "2026-08-07T18:04:08.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -192,13 +241,6 @@
       "pubDate": "2026-08-07T14:06:10.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Werewolf transformed my old gadgets into USB-C powered ones",
-      "url": "https://www.theverge.com/gadgets/975965/werewolf-vflex-usb-c-dc-barrel-jack-preview-hands-on",
-      "pubDate": "2026-08-07T14:05:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Account Card Expands Again: What It Is and What It Isn't",
@@ -220,25 +262,11 @@
       "pubDate": "2026-08-07T13:41:59.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Wallet in iOS 27 adds feature that’s been on my wishlist for years",
-      "url": "https://9to5mac.com/2026/08/07/apple-wallet-in-ios-27-adds-feature-thats-been-on-my-wishlist-for-years/",
-      "pubDate": "2026-08-07T13:21:07.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Mac Pro Turns 20 Today, Five Months After Apple Killed It",
       "url": "https://www.macrumors.com/2026/08/07/mac-pro-turns-20-today/",
       "pubDate": "2026-08-07T12:39:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The best classic slasher movie you&#8217;ll never watch",
-      "url": "https://www.theverge.com/entertainment/975850/teenage-sex-and-death-at-camp-miasma-production-design",
-      "pubDate": "2026-08-07T12:00:00.000Z"
     },
     {
       "source": "AppleInsider",
@@ -248,13 +276,6 @@
       "pubDate": "2026-08-07T11:01:18.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Why does Apple keep banning Telegram, but never X?",
-      "url": "https://www.theverge.com/tech/976405/apple-telegram-ban-x-app-store-violations",
-      "pubDate": "2026-08-07T11:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iOS 27's New Compact Clock Gives Your Wallpaper Room to Breathe",
@@ -262,25 +283,11 @@
       "pubDate": "2026-08-07T10:52:58.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Security Bite Podcast: Why scammers love FaceTime now",
-      "url": "https://9to5mac.com/2026/08/07/security-bite-podcast-why-scammers-love-facetime-now/",
-      "pubDate": "2026-08-07T10:00:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Still simple, still powerful, BBEdit is a Mac app legend",
       "url": "https://appleinsider.com/articles/26/08/07/still-simple-still-powerful-bbedit-is-a-mac-app-legend?utm_source=rss",
       "pubDate": "2026-08-07T09:26:56.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: August 6, 2026 – Potential iPhone 18 Pro shortages, more",
-      "url": "https://9to5mac.com/2026/08/06/daily-august-6-2026/",
-      "pubDate": "2026-08-07T00:21:01.000Z"
     },
     {
       "source": "MacRumors",
@@ -309,13 +316,6 @@
       "title": "Apple continues to dominate premium smartphone market share in 2026",
       "url": "https://appleinsider.com/articles/26/08/06/apple-continues-to-dominate-premium-smartphone-market-share-in-2026?utm_source=rss",
       "pubDate": "2026-08-06T22:56:55.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Madden NFL 27 Arcade Edition Now Available on Apple Arcade",
-      "url": "https://www.macrumors.com/2026/08/06/madden-nfl-27-apple-arcade/",
-      "pubDate": "2026-08-06T22:26:38.000Z"
     },
     {
       "source": "AppleInsider",
