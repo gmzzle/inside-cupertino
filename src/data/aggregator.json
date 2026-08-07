@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T19:16:38.407Z",
+  "generatedAt": "2026-08-07T20:59:40.819Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,6 +24,41 @@
   ],
   "items": [
     {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iOS 26 Gets First Jailbreak Thanks to Dopamine",
+      "url": "https://www.macrumors.com/2026/08/07/ios-26-dopamine-jailbreak/",
+      "pubDate": "2026-08-07T20:56:52.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone 17 might get price increase next week, per new rumor",
+      "url": "https://9to5mac.com/2026/08/07/iphone-17-might-get-price-increase-next-week-per-new-rumor/",
+      "pubDate": "2026-08-07T20:27:50.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 has long-awaited fix for common iPhone wireless issue",
+      "url": "https://9to5mac.com/2026/08/07/ios-27-has-long-awaited-fix-for-common-iphone-wireless-issue/",
+      "pubDate": "2026-08-07T20:14:05.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "You may soon be able to create and export custom WhatsApp stickers straight from ChatGPT",
+      "url": "https://9to5mac.com/2026/08/07/you-may-soon-be-able-to-create-and-export-custom-whatsapp-stickers-straight-from-chatgpt/",
+      "pubDate": "2026-08-07T20:10:30.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
+      "pubDate": "2026-08-07T20:01:51.000Z"
+    },
+    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "These automakers still don’t support CarPlay, here’s why",
@@ -35,7 +70,7 @@
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Rumored to Launch Three New 'Ultra' Products by Early Next Year",
       "url": "https://www.macrumors.com/2026/08/07/three-new-apple-ultra-products-rumored/",
-      "pubDate": "2026-08-07T19:06:20.000Z"
+      "pubDate": "2026-08-07T19:06:12.000Z"
     },
     {
       "source": "9to5Mac",
@@ -199,32 +234,11 @@
       "pubDate": "2026-08-07T14:51:06.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Samsung’s Z Fold 8 Ultra is more of the same, but better than ever",
-      "url": "https://www.theverge.com/tech/976551/samsung-galaxy-z-fold-8-ultra-review",
-      "pubDate": "2026-08-07T14:48:38.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Captures 65% of Global Premium Smartphone Market",
       "url": "https://www.macrumors.com/2026/08/07/apple-captures-65-percent-of-global-premium-market/",
       "pubDate": "2026-08-07T14:32:54.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 26.6.1 likely coming soon as Apple speeds up iPhone updates",
-      "url": "https://9to5mac.com/2026/08/07/ios-26-6-1-likely-coming-soon-as-apple-speeds-up-iphone-updates/",
-      "pubDate": "2026-08-07T14:31:32.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Which do you plan to buy: iPhone 18 Pro or foldable iPhone Ultra? [Poll]",
-      "url": "https://9to5mac.com/2026/08/07/which-do-you-plan-to-buy-iphone-18-pro-or-foldable-iphone-ultra-poll/",
-      "pubDate": "2026-08-07T14:26:07.000Z"
     },
     {
       "source": "MacRumors",
@@ -246,13 +260,6 @@
       "title": "Apple Account Card Expands Again: What It Is and What It Isn't",
       "url": "https://www.macrumors.com/2026/08/07/apple-account-card-what-it-is-what-it-isnt/",
       "pubDate": "2026-08-07T13:54:05.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone 18 Pro is getting even more ‘Pro’ this year in three ways",
-      "url": "https://9to5mac.com/2026/08/07/iphone-18-pro-is-getting-even-more-pro-this-year-in-three-ways/",
-      "pubDate": "2026-08-07T13:47:53.000Z"
     },
     {
       "source": "AppleInsider",
@@ -302,13 +309,6 @@
       "title": "Original iPhone Loses Its Last Cellular Network as T-Mobile Kills 2G",
       "url": "https://www.macrumors.com/2026/08/06/t-mobile-2g-network-disabled/",
       "pubDate": "2026-08-06T23:19:09.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Google Maps Can Now Order Your Dinner and Track Your Train Delays",
-      "url": "https://www.macrumors.com/2026/08/06/google-maps-ask-maps-update/",
-      "pubDate": "2026-08-06T22:59:19.000Z"
     },
     {
       "source": "AppleInsider",
