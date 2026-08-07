@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T13:40:25.498Z",
+  "generatedAt": "2026-08-07T15:09:30.613Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,90 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "When to expect Apple's iPhone 18 Pro launch",
+      "url": "https://appleinsider.com/articles/26/08/07/when-to-expect-apples-iphone-18-pro-launch?utm_source=rss",
+      "pubDate": "2026-08-07T15:09:19.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "watchOS 27 could make Apple Watch’s important new health feature even better",
+      "url": "https://9to5mac.com/2026/08/07/watchos-27-could-make-apple-watchs-important-new-health-feature-even-better/",
+      "pubDate": "2026-08-07T14:51:06.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Samsung’s Z Fold 8 Ultra is more of the same, but better than ever",
+      "url": "https://www.theverge.com/tech/976551/samsung-galaxy-z-fold-8-ultra-review",
+      "pubDate": "2026-08-07T14:48:38.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Captures 65% of Global Premium Smartphone Market",
+      "url": "https://www.macrumors.com/2026/08/07/apple-captures-65-percent-of-global-premium-market/",
+      "pubDate": "2026-08-07T14:32:54.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 26.6.1 likely coming soon as Apple speeds up iPhone updates",
+      "url": "https://9to5mac.com/2026/08/07/ios-26-6-1-likely-coming-soon-as-apple-speeds-up-iphone-updates/",
+      "pubDate": "2026-08-07T14:31:32.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Which do you plan to buy: iPhone 18 Pro or foldable iPhone Ultra? [Poll]",
+      "url": "https://9to5mac.com/2026/08/07/which-do-you-plan-to-buy-iphone-18-pro-or-foldable-iphone-ultra-poll/",
+      "pubDate": "2026-08-07T14:26:07.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Testing iOS 26.6.1 Update for iPhones",
+      "url": "https://www.macrumors.com/2026/08/07/apple-testing-ios-26-6-1/",
+      "pubDate": "2026-08-07T14:17:20.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "AirPods Pro 3 for $189.99, $25 Best Buy Gift Card With MacBook Neo, and More Apple Deals This Week",
+      "url": "https://www.macrumors.com/2026/08/07/best-apple-deals-of-the-week-8-7-26/",
+      "pubDate": "2026-08-07T14:06:10.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Werewolf transformed my old gadgets into USB-C powered ones",
+      "url": "https://www.theverge.com/gadgets/975965/werewolf-vflex-usb-c-dc-barrel-jack-preview-hands-on",
+      "pubDate": "2026-08-07T14:05:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Account Card Expands Again: What It Is and What It Isn't",
+      "url": "https://www.macrumors.com/2026/08/07/apple-account-card-what-it-is-what-it-isnt/",
+      "pubDate": "2026-08-07T13:54:05.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone 18 Pro is getting even more ‘Pro’ this year in three ways",
+      "url": "https://9to5mac.com/2026/08/07/iphone-18-pro-is-getting-even-more-pro-this-year-in-three-ways/",
+      "pubDate": "2026-08-07T13:47:53.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's Mac Pro 'cheese grater' is 20 years old, and is the best Mac ever made",
+      "url": "https://appleinsider.com/articles/18/08/07/apples-mac-pro-cheese-grater-is-12-years-old-and-is-the-best-mac-ever-made?utm_source=rss",
+      "pubDate": "2026-08-07T13:41:59.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -227,27 +311,6 @@
       "pubDate": "2026-08-06T20:00:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "In new court filing, Apple flags delays in Jon Prosser’s response to leak lawsuit",
-      "url": "https://9to5mac.com/2026/08/06/in-new-court-filing-apple-flags-delays-in-jon-prossers-response-to-leak-lawsuit/",
-      "pubDate": "2026-08-06T19:59:33.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 basically turns your iPhone and AirPods into an Apple Watch at the gym",
-      "url": "https://9to5mac.com/2026/08/06/ios-27-basically-turns-your-iphone-and-airpods-into-an-apple-watch-at-the-gym/",
-      "pubDate": "2026-08-06T19:51:07.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "X Money FAQ: Account suspensions, 6% APY, physical cards, and more",
-      "url": "https://9to5mac.com/2026/08/06/x-money-faq-account-suspensions-6-apy-physical-cards-and-more/",
-      "pubDate": "2026-08-06T19:37:23.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple TV brings free 'Widow's Bay' screenings to AMC theaters",
@@ -262,20 +325,6 @@
       "pubDate": "2026-08-06T19:09:47.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple TV’s fall lineup reveals every new show and movie coming soon",
-      "url": "https://9to5mac.com/2026/08/06/apple-tvs-fall-lineup-reveals-every-new-show-and-movie-coming-soon/",
-      "pubDate": "2026-08-06T18:58:25.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Free ChatGPT Users Get Unlimited Text Chats and GPT-5.6 Luna",
-      "url": "https://www.macrumors.com/2026/08/06/chatgpt-free-unlimited-text-chats/",
-      "pubDate": "2026-08-06T18:52:17.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple issues another round of macOS security updates as patch frequency increases",
@@ -288,55 +337,6 @@
       "title": "The Zelda movie’s Ganondorf casting hints at more movies",
       "url": "https://www.theverge.com/entertainment/976337/the-legend-of-zelda-movie-ganondorf-multi-picture-deal",
       "pubDate": "2026-08-06T18:31:57.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Suno shares plans to combat spammy AI music",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
-      "pubDate": "2026-08-06T17:39:43.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Brendan Carr officially unleashes broadcast consolidation",
-      "url": "https://www.theverge.com/policy/976287/fcc-broadcast-ownership-rule-ends",
-      "pubDate": "2026-08-06T17:35:38.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Releases macOS Tahoe 26.6.1 With Security Fixes",
-      "url": "https://www.macrumors.com/2026/08/06/apple-releases-macos-tahoe-26-6-1/",
-      "pubDate": "2026-08-06T17:34:39.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Last call to save up to $200 on M5 MacBook Air laptops",
-      "url": "https://appleinsider.com/articles/26/08/06/last-call-to-save-up-to-200-on-m5-macbook-air-laptops?utm_source=rss",
-      "pubDate": "2026-08-06T16:19:50.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Adobe is hell-bent on becoming the creative engine behind AI",
-      "url": "https://appleinsider.com/articles/26/08/06/adobe-is-hell-bent-on-becoming-the-creative-engine-behind-ai?utm_source=rss",
-      "pubDate": "2026-08-06T15:56:41.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Last Day for Up to $350 Amazon Gift Card With Samsung Galaxy Pre-Orders",
-      "url": "https://www.macrumors.com/2026/08/06/last-day-samsung-galaxy-pre-orders/",
-      "pubDate": "2026-08-06T14:50:48.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Raises Trade-In Values for iPhone, Mac, and More",
-      "url": "https://www.macrumors.com/2026/08/06/apple-raises-trade-in-values/",
-      "pubDate": "2026-08-06T14:17:59.000Z"
     },
     {
       "source": "Six Colors",
