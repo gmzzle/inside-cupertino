@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T15:29:46.974Z",
+  "generatedAt": "2026-08-07T00:16:14.749Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -26,16 +26,268 @@
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
-      "title": "CarPlay in iOS 27 adds two new features for popular Apple apps",
-      "url": "https://9to5mac.com/2026/08/06/carplay-in-ios-27-adds-two-new-features-for-popular-apple-apps/",
-      "pubDate": "2026-08-06T15:25:29.000Z"
+      "title": "Apple Health is more powerful than you think; here are my top tips",
+      "url": "https://9to5mac.com/2026/08/06/apple-health-best-features/",
+      "pubDate": "2026-08-07T00:15:48.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone 18 Pro and Foldable iPhone Could Sell Out Fast Due to Memory Shortage",
+      "url": "https://www.macrumors.com/2026/08/06/iphone-18-pro-possible-shortages/",
+      "pubDate": "2026-08-07T00:10:27.000Z"
     },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: AirPods Pro 3 now even lower at 25% off, M5 MacBook Air $190 off, iPhone Air $150+ off, more",
-      "url": "https://9to5mac.com/2026/08/06/deals-airpods-pro-3-m5-macbook-air-iphone-air/",
-      "pubDate": "2026-08-06T15:16:17.000Z"
+      "title": "iPhone 18 Pro price: Here’s how much more it could cost",
+      "url": "https://9to5mac.com/2026/08/06/iphone-18-pro-price-heres-how-much-more-it-could-cost/",
+      "pubDate": "2026-08-06T23:33:05.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Original iPhone Loses Its Last Cellular Network as T-Mobile Kills 2G",
+      "url": "https://www.macrumors.com/2026/08/06/t-mobile-2g-network-disabled/",
+      "pubDate": "2026-08-06T23:19:09.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Report: iPad shipments fell 8% in Q2 2026 amid global tablet market decline",
+      "url": "https://9to5mac.com/2026/08/06/report-ipad-shipments-fell-8-in-q2-2026-amid-global-tablet-market-decline/",
+      "pubDate": "2026-08-06T22:59:37.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Google Maps Can Now Order Your Dinner and Track Your Train Delays",
+      "url": "https://www.macrumors.com/2026/08/06/google-maps-ask-maps-update/",
+      "pubDate": "2026-08-06T22:59:19.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple continues to dominate premium smartphone market share in 2026",
+      "url": "https://appleinsider.com/articles/26/08/06/apple-continues-to-dominate-premium-smartphone-market-share-in-2026?utm_source=rss",
+      "pubDate": "2026-08-06T22:56:55.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Madden NFL 27 Arcade Edition Now Available on Apple Arcade",
+      "url": "https://www.macrumors.com/2026/08/06/madden-nfl-27-apple-arcade/",
+      "pubDate": "2026-08-06T22:26:48.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Report shares new pricing and design details about OpenAI’s first device",
+      "url": "https://9to5mac.com/2026/08/06/report-shares-new-pricing-and-design-details-about-openais-first-device/",
+      "pubDate": "2026-08-06T22:09:02.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Jon Prosser's baby forces another extension to Apple's legal battle",
+      "url": "https://appleinsider.com/articles/26/08/06/jon-prossers-baby-forces-extension-to-apples-legal-battle-again?utm_source=rss",
+      "pubDate": "2026-08-06T21:49:30.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "BMW Owners Angry Over Spider-Man Ads Appearing on Dashboard Screens",
+      "url": "https://www.macrumors.com/2026/08/06/bmw-spider-man-ads/",
+      "pubDate": "2026-08-06T21:25:39.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Trevor Noah is hosting Google’s Pixel 11 launch event",
+      "url": "https://www.theverge.com/tech/976454/made-by-google-2026-event-pixel-11-trevor-noah",
+      "pubDate": "2026-08-06T21:15:47.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple holds 65% of the premium smartphone market as segment reaches record high",
+      "url": "https://9to5mac.com/2026/08/06/apple-holds-65-of-the-premium-smartphone-market-as-segment-reaches-record-high/",
+      "pubDate": "2026-08-06T21:14:01.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "New ChatGPT version has a 'Think' button, will find 'more reliable facts'",
+      "url": "https://appleinsider.com/articles/26/08/06/new-chatgpt-version-has-a-think-button-will-find-more-reliable-facts?utm_source=rss",
+      "pubDate": "2026-08-06T21:05:38.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "OpenAI's ChatGPT Speaker Will Be Hockey Puck-Sized and Cost Over $300",
+      "url": "https://www.macrumors.com/2026/08/06/openai-chatgpt-speaker/",
+      "pubDate": "2026-08-06T21:00:57.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+      "pubDate": "2026-08-06T20:55:39.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "OpenAI's new hardware leaks: Over $300, same size as an Alexa Dot",
+      "url": "https://appleinsider.com/articles/26/08/06/openais-new-hardware-leak-same-size-as-an-alexa-dot?utm_source=rss",
+      "pubDate": "2026-08-06T20:36:58.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The AirPods Pro are $60 off, their best price since late June",
+      "url": "https://www.theverge.com/gadgets/976276/apple-airpods-pro-3-best-buy-apple-deal-sale",
+      "pubDate": "2026-08-06T20:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "In new court filing, Apple flags delays in Jon Prosser’s response to leak lawsuit",
+      "url": "https://9to5mac.com/2026/08/06/in-new-court-filing-apple-flags-delays-in-jon-prossers-response-to-leak-lawsuit/",
+      "pubDate": "2026-08-06T19:59:33.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 basically turns your iPhone and AirPods into an Apple Watch at the gym",
+      "url": "https://9to5mac.com/2026/08/06/ios-27-basically-turns-your-iphone-and-airpods-into-an-apple-watch-at-the-gym/",
+      "pubDate": "2026-08-06T19:51:07.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "X Money FAQ: Account suspensions, 6% APY, physical cards, and more",
+      "url": "https://9to5mac.com/2026/08/06/x-money-faq-account-suspensions-6-apy-physical-cards-and-more/",
+      "pubDate": "2026-08-06T19:37:23.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple TV brings free 'Widow's Bay' screenings to AMC theaters",
+      "url": "https://appleinsider.com/articles/26/08/06/apple-tv-brings-free-widows-bay-screenings-to-amc-theaters?utm_source=rss",
+      "pubDate": "2026-08-06T19:14:22.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "App report: Listen, read… checkmate",
+      "url": "https://sixcolors.com/post/2026/08/app-report-listen-read-checkmate/",
+      "pubDate": "2026-08-06T19:09:47.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple TV’s fall lineup reveals every new show and movie coming soon",
+      "url": "https://9to5mac.com/2026/08/06/apple-tvs-fall-lineup-reveals-every-new-show-and-movie-coming-soon/",
+      "pubDate": "2026-08-06T18:58:25.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Free ChatGPT Users Get Unlimited Text Chats and GPT-5.6 Luna",
+      "url": "https://www.macrumors.com/2026/08/06/chatgpt-free-unlimited-text-chats/",
+      "pubDate": "2026-08-06T18:52:17.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "AirPods Pro 3 keep getting better, here’s what’s new in iOS 27",
+      "url": "https://9to5mac.com/2026/08/06/airpods-pro-3-keep-getting-better-heres-whats-new-ios-27/",
+      "pubDate": "2026-08-06T18:44:16.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple TV’s surprise hit series is making the jump to theaters for one night only",
+      "url": "https://9to5mac.com/2026/08/06/apple-tvs-surprise-hit-series-is-making-the-jump-to-theaters-for-one-night-only/",
+      "pubDate": "2026-08-06T18:34:58.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple issues another round of macOS security updates as patch frequency increases",
+      "url": "https://appleinsider.com/articles/26/08/06/apple-issues-another-round-of-macos-security-updates-as-patch-frequency-increases?utm_source=rss",
+      "pubDate": "2026-08-06T18:34:53.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The Zelda movie’s Ganondorf casting hints at more movies",
+      "url": "https://www.theverge.com/entertainment/976337/the-legend-of-zelda-movie-ganondorf-multi-picture-deal",
+      "pubDate": "2026-08-06T18:31:57.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple’s latest macOS updates address a serious Screen Sharing vulnerability",
+      "url": "https://9to5mac.com/2026/08/06/apples-latest-macos-updates-address-a-serious-screen-sharing-vulnerability/",
+      "pubDate": "2026-08-06T18:21:56.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Suno shares plans to combat spammy AI music",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
+      "pubDate": "2026-08-06T17:39:43.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Brendan Carr officially unleashes broadcast consolidation",
+      "url": "https://www.theverge.com/policy/976287/fcc-broadcast-ownership-rule-ends",
+      "pubDate": "2026-08-06T17:35:38.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Releases macOS Tahoe 26.6.1 With Security Fixes",
+      "url": "https://www.macrumors.com/2026/08/06/apple-releases-macos-tahoe-26-6-1/",
+      "pubDate": "2026-08-06T17:34:39.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "OpenAI is giving ChatGPT free users unlimited text chats",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
+      "pubDate": "2026-08-06T17:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "TikTok blames &#8216;moderator error&#8217; on slow response to Perez Hilton livestream",
+      "url": "https://www.theverge.com/tech/976228/tiktok-perez-hilton-livestream-moderator-error",
+      "pubDate": "2026-08-06T16:41:25.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Last call to save up to $200 on M5 MacBook Air laptops",
+      "url": "https://appleinsider.com/articles/26/08/06/last-call-to-save-up-to-200-on-m5-macbook-air-laptops?utm_source=rss",
+      "pubDate": "2026-08-06T16:19:50.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Adobe is hell-bent on becoming the creative engine behind AI",
+      "url": "https://appleinsider.com/articles/26/08/06/adobe-is-hell-bent-on-becoming-the-creative-engine-behind-ai?utm_source=rss",
+      "pubDate": "2026-08-06T15:56:41.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Apple increases trade-in offers and adds new Android devices",
+      "url": "https://www.theverge.com/tech/976210/apple-trade-in-values-increased",
+      "pubDate": "2026-08-06T15:47:15.000Z"
     },
     {
       "source": "AppleInsider",
@@ -43,13 +295,6 @@
       "title": "One pasted Terminal command opens the door to Mac crypto wallet theft",
       "url": "https://appleinsider.com/articles/26/08/06/one-pasted-terminal-command-opens-the-door-to-mac-crypto-wallet-theft?utm_source=rss",
       "pubDate": "2026-08-06T15:10:29.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple prepares for iPhone 18 Pro and Ultra launch by expanding its reach",
-      "url": "https://9to5mac.com/2026/08/06/apple-prepares-for-iphone-18-pro-and-ultra-launch-by-expanding-its-reach/",
-      "pubDate": "2026-08-06T15:04:11.000Z"
     },
     {
       "source": "AppleInsider",
@@ -66,13 +311,6 @@
       "pubDate": "2026-08-06T14:50:48.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 hints at all-new Home product launching soon",
-      "url": "https://9to5mac.com/2026/08/06/ios-27-hints-at-all-new-home-product-launching-soon/",
-      "pubDate": "2026-08-06T14:33:31.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "SoftBank donated $50 million to Trump’s library months before federal data center deal",
@@ -87,46 +325,11 @@
       "pubDate": "2026-08-06T14:17:59.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "It’s the last day to get a $350 gift card with your Samsung Galaxy Z Fold 8 preorder",
-      "url": "https://www.theverge.com/gadgets/976103/samsung-galaxy-z-fold-flip-8-preorder-airpods-pro-3-deal-sale",
-      "pubDate": "2026-08-06T14:09:33.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iPhone 18 Pro Launching Next Month With These 12 New Features",
       "url": "https://www.macrumors.com/2026/08/06/iphone-18-pro-next-month-12-features/",
       "pubDate": "2026-08-06T14:03:48.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The left and right agree on one thing: no data centers",
-      "url": "https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan",
-      "pubDate": "2026-08-06T14:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone 18 Pro could have limited availability right after launch: report",
-      "url": "https://9to5mac.com/2026/08/06/iphone-18-pro-could-have-limited-availability-right-after-launch-report/",
-      "pubDate": "2026-08-06T13:47:22.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple raises trade-in values for most iPhone, iPad, Mac, and Apple Watch models",
-      "url": "https://9to5mac.com/2026/08/06/apple-raises-trade-in-values-for-most-iphone-ipad-mac-and-apple-watch-models/",
-      "pubDate": "2026-08-06T13:35:15.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The messy politics behind Google’s big AI shakeup",
-      "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
-      "pubDate": "2026-08-06T13:26:42.000Z"
     },
     {
       "source": "MacRumors",
@@ -136,32 +339,11 @@
       "pubDate": "2026-08-06T13:23:02.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Arcade just added all-new Madden NFL 27, the ultimate football game",
-      "url": "https://9to5mac.com/2026/08/06/apple-arcade-adding-the-ultimate-nfl-game-just-in-time-for-football-season/",
-      "pubDate": "2026-08-06T13:22:27.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "RAM supply holding up iPhone 18 Pro assembly is another bad sign",
       "url": "https://appleinsider.com/articles/26/08/06/ram-supply-holding-up-iphone-18-pro-assembly-is-another-bad-sign?utm_source=rss",
       "pubDate": "2026-08-06T13:16:15.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Biggest backdoor yet found in Chinese routers sold under multiple brand names",
-      "url": "https://9to5mac.com/2026/08/06/biggest-backdoor-yet-found-in-chinese-routers-sold-under-multiple-brand-names/",
-      "pubDate": "2026-08-06T13:14:28.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Amazon Takes Up to $190 Off M5 MacBook Air With Best Deals Since Price Hike",
-      "url": "https://www.macrumors.com/2026/08/06/190-off-m5-macbook-air/",
-      "pubDate": "2026-08-06T13:04:16.000Z"
     },
     {
       "source": "AppleInsider",
@@ -171,172 +353,11 @@
       "pubDate": "2026-08-06T13:02:04.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Account Card in Wallet Now Available in Four More Countries",
-      "url": "https://www.macrumors.com/2026/08/06/apple-account-card-in-wallet-now-available-in-more-countries/",
-      "pubDate": "2026-08-06T13:01:11.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "New Adobe plugin in ChatGPT combines Photoshop, Firefly, Premiere, Acrobat, and more",
-      "url": "https://9to5mac.com/2026/08/06/new-adobe-plugin-in-chatgpt-combines-photoshop-firefly-premiere-acrobat-and-more/",
-      "pubDate": "2026-08-06T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Dolby Vision 2 will be available first on some 2026 Hisense TVs",
-      "url": "https://www.theverge.com/tech/974126/dolby-vision-2-rolls-out-to-hisense-tvs",
-      "pubDate": "2026-08-06T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "AI bots started a religion — humans immediately followed",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
-      "pubDate": "2026-08-06T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Bose’s upgraded QuietComfort headphones add head-tracking immersive audio",
-      "url": "https://www.theverge.com/tech/975643/bose-quietcomfort-wireless-headphones-anc-immersive-spatial-audio",
-      "pubDate": "2026-08-06T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Viture’s cheapest AR glasses have the sharpest image clarity I’ve seen yet",
-      "url": "https://www.theverge.com/tech/975870/viture-pro-2-video-ar-smart-glasses-hands-on",
-      "pubDate": "2026-08-06T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Ford’s first ultra-cheap EV is called Fathom, a full-featured truck for $28,350",
-      "url": "https://www.theverge.com/transportation/975977/ford-fathom-universal-ev-platform-logo-price",
-      "pubDate": "2026-08-06T13:00:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "'The Bonfire of the Vanities' series dropped by Apple TV",
-      "url": "https://appleinsider.com/articles/26/08/06/the-bonfire-of-the-vanities-series-dropped-by-apple-tv?utm_source=rss",
-      "pubDate": "2026-08-06T12:57:13.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "AirPods Pro 3 Drop to One of the Best Prices of the Year So Far at $189.99",
-      "url": "https://www.macrumors.com/2026/08/06/airpods-pro-3-189/",
-      "pubDate": "2026-08-06T12:44:26.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "You can now ask Google Maps’ AI to order food for you",
-      "url": "https://www.theverge.com/tech/976079/google-ask-maps-food-ordering-personal-intelligence",
-      "pubDate": "2026-08-06T12:30:37.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "New AirPods are coming, but this is one of the best deals yet on AirPods Pro 3",
-      "url": "https://9to5mac.com/2026/08/06/new-airpods-are-coming-but-this-is-one-of-the-best-deals-yet-on-airpods-pro-3/",
-      "pubDate": "2026-08-06T12:16:14.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Old Reddit a threat to AI data scraping, says platform, with changes coming",
-      "url": "https://9to5mac.com/2026/08/06/old-reddit-a-threat-to-ai-data-scraping-says-platform-with-changes-coming/",
-      "pubDate": "2026-08-06T11:58:22.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple's Bid to Use Chinese Chipmaker as Leverage Backfires",
-      "url": "https://www.macrumors.com/2026/08/06/apples-bid-to-use-chinese-chipmaker-backfires/",
-      "pubDate": "2026-08-06T11:53:54.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Chinese RAM supplier denies Apple's bid for cheaper RAM",
-      "url": "https://appleinsider.com/articles/26/08/06/chinese-ram-supplier-denies-apples-bid-for-cheaper-ram?utm_source=rss",
-      "pubDate": "2026-08-06T11:48:19.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "OpenAI fires back, says Apple is suing because it can't compete",
-      "url": "https://appleinsider.com/articles/26/08/06/openai-fires-back-says-apple-is-suing-because-it-cant-compete?utm_source=rss",
-      "pubDate": "2026-08-06T11:29:21.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Vision Pro is a niche product, but an incredibly valuable one in the right hands",
-      "url": "https://9to5mac.com/2026/08/06/vision-pro-is-a-niche-product-but-an-incredibly-valuable-one-in-the-right-hands/",
-      "pubDate": "2026-08-06T11:21:44.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "OpenAI Asks Judge to Dismiss Apple's Trade Secrets Lawsuit",
-      "url": "https://www.macrumors.com/2026/08/06/openai-asks-judge-to-dismiss-apple-lawsuit/",
-      "pubDate": "2026-08-06T10:46:33.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Meta's New Mac Coding Agent Costs Up to 20x Less If You Let Meta Train on Your Data",
-      "url": "https://www.macrumors.com/2026/08/05/meta-muse-code-for-mac/",
-      "pubDate": "2026-08-06T00:10:28.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Disney+ Could Get a Free Ad-Supported Tier",
-      "url": "https://www.macrumors.com/2026/08/05/disney-plus-free-tier/",
-      "pubDate": "2026-08-05T23:34:16.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) Clockwise 668: Coming Soon to Pontoon Boats",
       "url": "https://sixcolors.com/podcast/2026/08/clockwise-668-coming-soon-to-pontoon-boats/",
       "pubDate": "2026-08-05T23:00:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "August Apple Watch deals deliver savings of up to $172 off Series 11, Ultra 3 styles",
-      "url": "https://appleinsider.com/articles/26/08/05/august-apple-watch-deals-deliver-savings-of-up-to-172-off-series-11-ultra-3-styles?utm_source=rss",
-      "pubDate": "2026-08-05T22:49:08.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "PSA: don't fall for the scam Uber email making the rounds",
-      "url": "https://appleinsider.com/articles/26/08/05/psa-dont-fall-for-the-scam-uber-email-making-the-rounds?utm_source=rss",
-      "pubDate": "2026-08-05T22:31:02.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "SpaceX Plans Starlink Mobile Service to Compete With Verizon, AT&T and T-Mobile",
-      "url": "https://www.macrumors.com/2026/08/05/starlink-mobile-service/",
-      "pubDate": "2026-08-05T22:27:18.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Meta's Muse Code is yet another AI coding agent on macOS",
-      "url": "https://appleinsider.com/articles/26/08/05/metas-muse-code-is-yet-another-ai-coding-agent-on-macos?utm_source=rss",
-      "pubDate": "2026-08-05T20:50:46.000Z"
     },
     {
       "source": "Six Colors",
@@ -351,27 +372,6 @@
       "title": "(Podcast) The Rebound 610: If You’re a Robot, You Have to Tell Me",
       "url": "https://sixcolors.com/podcast/2026/08/the-rebound-610-if-youre-a-robot-you-have-to-tell-me/",
       "pubDate": "2026-08-05T14:00:00.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Review: “Ted Lasso” returns, refreshed, to the pitch",
-      "url": "https://sixcolors.com/post/2026/08/review-ted-lasso-returns-to-the-pitch/",
-      "pubDate": "2026-08-05T07:01:18.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Soulver 4 casts a wider calculating net",
-      "url": "https://sixcolors.com/post/2026/08/soulver-4-casts-a-wider-calculating-net/",
-      "pubDate": "2026-08-04T15:30:05.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "OpenAI: “Apple is getting this wrong” ↦",
-      "url": "https://sixcolors.com/link/2026/08/openai-apple-is-getting-this-wrong/",
-      "pubDate": "2026-08-04T13:21:12.000Z"
     }
   ]
 }
