@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T16:52:42.032Z",
+  "generatedAt": "2026-08-08T17:46:56.418Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iPhone 17 faces potential price hike before iPhone 18 Pro launch",
+      "url": "https://appleinsider.com/articles/26/08/08/iphone-17-faces-an-early-price-rise-a-month-before-iphone-18-pro-launch?utm_source=rss",
+      "pubDate": "2026-08-08T17:28:51.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -92,13 +99,6 @@
       "title": "My favorite feel-good show is back",
       "url": "https://www.theverge.com/tech/977084/ted-lasso-bose-tony-installer",
       "pubDate": "2026-08-08T12:00:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPhone 17 faces an early price rise a month before iPhone 18 Pro launch",
-      "url": "https://appleinsider.com/articles/26/08/08/iphone-17-faces-an-early-price-rise-a-month-before-iphone-18-pro-launch?utm_source=rss",
-      "pubDate": "2026-08-08T11:54:12.000Z"
     },
     {
       "source": "MacRumors",
