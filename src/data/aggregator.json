@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T09:54:54.986Z",
+  "generatedAt": "2026-08-08T10:51:41.605Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Claude Code Adds Cross-Session Messaging on macOS",
+      "url": "https://www.macrumors.com/2026/08/08/claude-code-adds-cross-session-messaging/",
+      "pubDate": "2026-08-08T10:22:46.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -295,13 +302,6 @@
       "title": "Paying for AI, freezing iPhones, & avoiding scams on the AppleInsider Podcast",
       "url": "https://appleinsider.com/articles/26/08/07/paying-for-ai-freezing-iphones-avoiding-scams-on-the-appleinsider-podcast?utm_source=rss",
       "pubDate": "2026-08-07T11:01:18.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27's New Compact Clock Gives Your Wallpaper Room to Breathe",
-      "url": "https://www.macrumors.com/how-to/ios-use-compact-lock-screen-clock/",
-      "pubDate": "2026-08-07T10:52:58.000Z"
     },
     {
       "source": "AppleInsider",
