@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T23:48:59.078Z",
+  "generatedAt": "2026-08-08T02:22:02.799Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple adds nearly 45 hearing devices to its Made for iPhone compatibility list",
+      "url": "https://9to5mac.com/2026/08/07/apple-adds-nearly-45-hearing-devices-to-its-made-for-iphone-compatibility-list/",
+      "pubDate": "2026-08-08T02:18:32.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "CarPlay connection issues? This might explain why",
+      "url": "https://9to5mac.com/2026/08/07/carplay-connection-issues/",
+      "pubDate": "2026-08-08T00:51:06.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -220,25 +234,11 @@
       "pubDate": "2026-08-07T16:15:46.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "MacBook Pro users will soon have two compelling new upgrade options",
-      "url": "https://9to5mac.com/2026/08/07/macbook-pro-users-will-soon-have-two-compelling-new-upgrade-options/",
-      "pubDate": "2026-08-07T16:13:21.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Flags Discovery Delays in Its Lawsuit Against Jon Prosser",
       "url": "https://www.macrumors.com/2026/08/07/apple-flags-delays-in-its-prosser-lawsuit/",
       "pubDate": "2026-08-07T16:07:57.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple seems to have abandoned Cinematic mode, and that’s a mistake",
-      "url": "https://9to5mac.com/2026/08/07/apple-seems-to-have-abandoned-cinematic-mode-and-thats-a-mistake/",
-      "pubDate": "2026-08-07T16:00:00.000Z"
     },
     {
       "source": "MacRumors",
