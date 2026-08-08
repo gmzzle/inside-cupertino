@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T15:47:08.431Z",
+  "generatedAt": "2026-08-08T16:52:42.032Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Buc-ee’s dodges John Oliver to sue another small business",
+      "url": "https://www.theverge.com/business/977112/buc-ees-john-oliver-lawsuit-beaver-mini-mart",
+      "pubDate": "2026-08-08T15:47:30.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -225,13 +232,6 @@
       "title": "The only instant cameras worth your money",
       "url": "https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak",
       "pubDate": "2026-08-07T18:04:08.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Disney Plus tries a new AI-powered search",
-      "url": "https://www.theverge.com/streaming/976881/disney-plus-ai-recommendation-espn-search",
-      "pubDate": "2026-08-07T17:53:44.000Z"
     },
     {
       "source": "AppleInsider",
