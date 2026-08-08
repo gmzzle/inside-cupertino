@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T13:13:12.688Z",
+  "generatedAt": "2026-08-08T14:00:07.723Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Score the A16 iPad for Its Best Price Since June's Hike",
+      "url": "https://www.macrumors.com/2026/08/08/score-the-a16-ipad/",
+      "pubDate": "2026-08-08T13:56:59.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple @ Work: What IDC’s latest shipments mean for the MacBook Neo and Air in the enterprise",
+      "url": "https://9to5mac.com/2026/08/08/apple-work-what-idcs-latest-shipments-mean-for-the-macbook-neo-and-air-in-the-enterprise/",
+      "pubDate": "2026-08-08T13:36:00.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -185,13 +199,6 @@
       "pubDate": "2026-08-07T19:06:12.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "New AirPods could launch next month, and one feature sounds very exciting",
-      "url": "https://9to5mac.com/2026/08/07/new-airpods-could-launch-next-month-and-one-feature-sounds-very-exciting/",
-      "pubDate": "2026-08-07T19:01:31.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Watching Roku’s AI channel is like eating from a trough",
@@ -288,13 +295,6 @@
       "title": "AirPods Pro 3 for $189.99, $25 Best Buy Gift Card With MacBook Neo, and More Apple Deals This Week",
       "url": "https://www.macrumors.com/2026/08/07/best-apple-deals-of-the-week-8-7-26/",
       "pubDate": "2026-08-07T14:06:10.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Account Card Expands Again: What It Is and What It Isn't",
-      "url": "https://www.macrumors.com/2026/08/07/apple-account-card-what-it-is-what-it-isnt/",
-      "pubDate": "2026-08-07T13:54:05.000Z"
     },
     {
       "source": "AppleInsider",
