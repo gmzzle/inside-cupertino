@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T07:16:25.708Z",
+  "generatedAt": "2026-08-08T09:01:20.483Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Nitecore’s latest power bank is the lightest and most compact yet",
+      "url": "https://www.theverge.com/tech/976506/nitecore-nb10000-gen4-review-adventure-battery",
+      "pubDate": "2026-08-08T07:00:00.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -225,13 +232,6 @@
       "title": "The MacRumors Show: iPhone Air 2 - What Changes After a Difficult First Year",
       "url": "https://www.macrumors.com/2026/08/07/the-macrumors-show-iphone-air-2/",
       "pubDate": "2026-08-07T16:23:39.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Sony could release a cheaper version of its WH-1000XM4 headphones, according to leaks",
-      "url": "https://www.theverge.com/tech/976735/sony-wireless-headphones-anc-wh-1000xm4c-leak",
-      "pubDate": "2026-08-07T16:15:46.000Z"
     },
     {
       "source": "MacRumors",
