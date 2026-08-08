@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T20:49:12.078Z",
+  "generatedAt": "2026-08-08T21:46:52.607Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27: The easiest beta to forget about",
+      "url": "https://9to5mac.com/2026/08/08/ios-27-the-easiest-beta-to-forget-about/",
+      "pubDate": "2026-08-08T21:23:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "X replaces its revenue-sharing program with ‘Original Content Rewards’",
+      "url": "https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards",
+      "pubDate": "2026-08-08T21:15:12.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Indie App Spotlight: ‘Pocket Jam’ helps you learn and practice your favorite songs",
+      "url": "https://9to5mac.com/2026/08/08/indie-app-spotlight-pocket-jam-helps-you-learn-and-practice-your-favorite-songs/",
+      "pubDate": "2026-08-08T19:30:00.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -192,25 +213,11 @@
       "pubDate": "2026-08-07T21:27:43.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "‘Your Friends & Neighbors’ star confirmed for his third Apple TV project",
-      "url": "https://9to5mac.com/2026/08/07/your-friends-neighbors-star-confirmed-for-his-third-apple-tv-project/",
-      "pubDate": "2026-08-07T21:17:21.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iOS 26 Gets First Jailbreak Thanks to Dopamine",
       "url": "https://www.macrumors.com/2026/08/07/ios-26-dopamine-jailbreak/",
       "pubDate": "2026-08-07T20:56:52.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone 17 might get price increase next week, per new rumor",
-      "url": "https://9to5mac.com/2026/08/07/iphone-17-might-get-price-increase-next-week-per-new-rumor/",
-      "pubDate": "2026-08-07T20:27:50.000Z"
     },
     {
       "source": "The Verge",
@@ -232,13 +239,6 @@
       "title": "Watching Roku’s AI channel is like eating from a trough",
       "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
       "pubDate": "2026-08-07T18:59:46.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-      "pubDate": "2026-08-07T18:40:34.000Z"
     },
     {
       "source": "AppleInsider",
