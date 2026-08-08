@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T21:46:52.607Z",
+  "generatedAt": "2026-08-08T22:48:21.137Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,13 +23,6 @@
     }
   ],
   "items": [
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27: The easiest beta to forget about",
-      "url": "https://9to5mac.com/2026/08/08/ios-27-the-easiest-beta-to-forget-about/",
-      "pubDate": "2026-08-08T21:23:00.000Z"
-    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -211,6 +204,13 @@
       "title": "OpenAI Delays Next Major AI Model 'Astra' Over Critical Hacking Concerns",
       "url": "https://www.macrumors.com/2026/08/07/openai-astra-model-hacking-concerns/",
       "pubDate": "2026-08-07T21:27:43.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "‘Your Friends & Neighbors’ star confirmed for his third Apple TV project",
+      "url": "https://9to5mac.com/2026/08/07/your-friends-neighbors-star-confirmed-for-his-third-apple-tv-project/",
+      "pubDate": "2026-08-07T21:17:21.000Z"
     },
     {
       "source": "MacRumors",
