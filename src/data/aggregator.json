@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T14:50:31.187Z",
+  "generatedAt": "2026-08-08T15:47:08.431Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple TV welcomes back Ted Lasso with a clever new commercial",
+      "url": "https://9to5mac.com/2026/08/08/apple-tv-welcomes-back-ted-lasso-with-a-clever-new-commercial/",
+      "pubDate": "2026-08-08T15:14:01.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Musician and entrepreneur Tom Vek is building a digital music player, but don’t call it retro",
+      "url": "https://www.theverge.com/report/976872/tom-vek-musician-entrepreneur-sleevenote-interview",
+      "pubDate": "2026-08-08T15:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Here’s why Apple is skipping its M6 Pro and M6 Max chips to accelerate M7 launch",
+      "url": "https://9to5mac.com/2026/08/08/apple-m7-chip-heres-why-it-matters-ai/",
+      "pubDate": "2026-08-08T14:21:00.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -171,25 +192,11 @@
       "pubDate": "2026-08-07T20:14:05.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "You may soon be able to create and export custom WhatsApp stickers straight from ChatGPT",
-      "url": "https://9to5mac.com/2026/08/07/you-may-soon-be-able-to-create-and-export-custom-whatsapp-stickers-straight-from-chatgpt/",
-      "pubDate": "2026-08-07T20:10:30.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
       "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
       "pubDate": "2026-08-07T20:01:51.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "These automakers still don’t support CarPlay, here’s why",
-      "url": "https://9to5mac.com/2026/08/07/these-automakers-still-dont-support-carplay-heres-why/",
-      "pubDate": "2026-08-07T19:14:14.000Z"
     },
     {
       "source": "MacRumors",
@@ -225,13 +232,6 @@
       "title": "Disney Plus tries a new AI-powered search",
       "url": "https://www.theverge.com/streaming/976881/disney-plus-ai-recommendation-espn-search",
       "pubDate": "2026-08-07T17:53:44.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Microsoft Edge is about to lock out older ad blockers, just like Chrome did",
-      "url": "https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3",
-      "pubDate": "2026-08-07T17:43:34.000Z"
     },
     {
       "source": "AppleInsider",
