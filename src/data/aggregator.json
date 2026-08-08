@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T17:46:56.418Z",
+  "generatedAt": "2026-08-08T18:59:16.469Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Amazon slashes $500 off Apple's M5 Max 14-inch MacBook Pro with 2TB SSD",
+      "url": "https://appleinsider.com/articles/26/08/08/amazon-slashes-500-off-apples-m5-max-14-inch-macbook-pro-with-2tb-ssd?utm_source=rss",
+      "pubDate": "2026-08-08T18:49:43.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Why you should buy iPhone 17 Pro now instead of waiting",
+      "url": "https://9to5mac.com/2026/08/08/buy-iphone-17-pro-vs-iphone-18-pro/",
+      "pubDate": "2026-08-08T18:13:25.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "An Amazon data center could have the worst polluting power plant in the country",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
+      "pubDate": "2026-08-08T17:53:34.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -192,13 +213,6 @@
       "pubDate": "2026-08-07T20:27:50.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 has long-awaited fix for common iPhone wireless issue",
-      "url": "https://9to5mac.com/2026/08/07/ios-27-has-long-awaited-fix-for-common-iphone-wireless-issue/",
-      "pubDate": "2026-08-07T20:14:05.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
@@ -225,13 +239,6 @@
       "title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
       "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
       "pubDate": "2026-08-07T18:40:34.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The only instant cameras worth your money",
-      "url": "https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak",
-      "pubDate": "2026-08-07T18:04:08.000Z"
     },
     {
       "source": "AppleInsider",
@@ -323,13 +330,6 @@
       "title": "Apple continues to dominate premium smartphone market share in 2026",
       "url": "https://appleinsider.com/articles/26/08/06/apple-continues-to-dominate-premium-smartphone-market-share-in-2026?utm_source=rss",
       "pubDate": "2026-08-06T22:56:55.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Jon Prosser's baby forces another extension to Apple's legal battle",
-      "url": "https://appleinsider.com/articles/26/08/06/jon-prossers-baby-forces-extension-to-apples-legal-battle-again?utm_source=rss",
-      "pubDate": "2026-08-06T21:49:30.000Z"
     },
     {
       "source": "Six Colors",
