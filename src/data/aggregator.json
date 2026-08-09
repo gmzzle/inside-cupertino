@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T17:47:58.267Z",
+  "generatedAt": "2026-08-09T19:02:08.672Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "HomeKit Weekly: Why the Eve Weather sensor is a must-have for Apple Home automations in 2026",
+      "url": "https://9to5mac.com/2026/08/09/why-the-eve-weather-sensor-is-a-must-have-for-apple-home-automations-in-2026/",
+      "pubDate": "2026-08-09T18:26:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Will price hikes force Apple to stop dragging its feet on certain product upgrades?",
+      "url": "https://9to5mac.com/2026/08/09/apple-price-hikes-better-value-and-more-features/",
+      "pubDate": "2026-08-09T18:26:00.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -248,25 +262,11 @@
       "pubDate": "2026-08-08T13:56:59.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple @ Work: What IDC’s latest shipments mean for the MacBook Neo and Air in the enterprise",
-      "url": "https://9to5mac.com/2026/08/08/apple-work-what-idcs-latest-shipments-mean-for-the-macbook-neo-and-air-in-the-enterprise/",
-      "pubDate": "2026-08-08T13:36:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Top Stories: Apple's September Announcements, MacBook Air Shortages, and More",
       "url": "https://www.macrumors.com/2026/08/08/top-stories-apple-september-announcements/",
       "pubDate": "2026-08-08T13:00:12.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple weekend deals: AirPods Pro 3 25% off, MacBook Neo, Apple gift cards, iPhone Air, Apple TV, more",
-      "url": "https://9to5mac.com/2026/08/08/apple-weekend-deals-airpods-pro-3-discounts/",
-      "pubDate": "2026-08-08T12:19:38.000Z"
     },
     {
       "source": "The Verge",
