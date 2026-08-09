@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T23:45:52.467Z",
+  "generatedAt": "2026-08-09T02:29:48.765Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "New leak may reveal the iPhone Ultra’s two launch colors",
+      "url": "https://9to5mac.com/2026/08/08/iphone-ultra-colors-leak-rumor/",
+      "pubDate": "2026-08-09T00:41:55.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -197,13 +204,6 @@
       "title": "The gaming site sponsored by Walmart lays off its editorial staff",
       "url": "https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs",
       "pubDate": "2026-08-07T22:05:08.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Overtime 076: Native retro games on iPhone",
-      "url": "https://9to5mac.com/2026/08/07/9to5mac-overtime-076-native-retro-games-on-iphone/",
-      "pubDate": "2026-08-07T21:31:16.000Z"
     },
     {
       "source": "MacRumors",
