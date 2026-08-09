@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T15:47:30.597Z",
+  "generatedAt": "2026-08-09T16:54:46.902Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Of course, Apple's already planning a third-gen iPhone Fold",
+      "url": "https://appleinsider.com/articles/26/08/09/of-course-apples-already-planning-a-third-gen-iphone-fold?utm_source=rss",
+      "pubDate": "2026-08-09T16:51:49.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Ceramic Apple Watch may return as soon as September",
+      "url": "https://appleinsider.com/articles/26/08/09/ceramic-apple-watch-may-return-as-soon-as-september?utm_source=rss",
+      "pubDate": "2026-08-09T16:39:29.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Ceramic Case Could Return With Apple Watch Series 12",
+      "url": "https://www.macrumors.com/2026/08/09/ceramic-could-return-with-apple-watch-series-12/",
+      "pubDate": "2026-08-09T16:21:48.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Foldable 'iPhone Ultra 3' Rumored to Feature Larger Displays",
+      "url": "https://www.macrumors.com/2026/08/09/iphone-ultra-3-rumored-to-feature-larger-displays/",
+      "pubDate": "2026-08-09T15:55:48.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -299,13 +327,6 @@
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
-      "title": "When will Apple have its iPhone 18 Pro release event?",
-      "url": "https://appleinsider.com/articles/26/08/07/when-to-expect-apples-iphone-18-pro-launch?utm_source=rss",
-      "pubDate": "2026-08-07T17:18:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
       "title": "iPhone 18 Pro rumor roundup: 2nm A20 chip, C2 modem, under-display Face ID",
       "url": "https://appleinsider.com/articles/26/08/07/iphone-18-pro-rumor-roundup-2nm-a20-chip-c2-modem-under-display-face-id?utm_source=rss",
       "pubDate": "2026-08-07T17:16:16.000Z"
@@ -323,27 +344,6 @@
       "title": "The MacRumors Show: iPhone Air 2 - What Changes After a Difficult First Year",
       "url": "https://www.macrumors.com/2026/08/07/the-macrumors-show-iphone-air-2/",
       "pubDate": "2026-08-07T16:23:39.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Flags Discovery Delays in Its Lawsuit Against Jon Prosser",
-      "url": "https://www.macrumors.com/2026/08/07/apple-flags-delays-in-its-prosser-lawsuit/",
-      "pubDate": "2026-08-07T16:07:57.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Captures 65% of Global Premium Smartphone Market",
-      "url": "https://www.macrumors.com/2026/08/07/apple-captures-65-percent-of-global-premium-market/",
-      "pubDate": "2026-08-07T14:32:54.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple's Mac Pro 'cheese grater' is 20 years old, and is the best Mac ever made",
-      "url": "https://appleinsider.com/articles/18/08/07/apples-mac-pro-cheese-grater-is-12-years-old-and-is-the-best-mac-ever-made?utm_source=rss",
-      "pubDate": "2026-08-07T13:41:59.000Z"
     },
     {
       "source": "Six Colors",
