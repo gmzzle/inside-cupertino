@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T19:49:11.353Z",
+  "generatedAt": "2026-08-09T20:52:39.270Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "No Dogs in Space is a music history podcast for true obsessives",
+      "url": "https://www.theverge.com/entertainment/977190/no-dogs-in-space-music-history-podcast",
+      "pubDate": "2026-08-09T20:28:31.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -280,13 +287,6 @@
       "sourceHomepage": "https://www.theverge.com",
       "title": "Is this $450 laptop from an unknown brand too good to be true?",
       "url": "https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review",
-      "pubDate": "2026-08-08T12:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "My favorite feel-good show is back",
-      "url": "https://www.theverge.com/tech/977084/ted-lasso-bose-tony-installer",
       "pubDate": "2026-08-08T12:00:00.000Z"
     },
     {
