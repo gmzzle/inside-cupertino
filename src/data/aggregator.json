@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T10:36:37.070Z",
+  "generatedAt": "2026-08-10T11:59:43.785Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,6 +24,55 @@
   ],
   "items": [
     {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iPhone 18 Pro expected to be 40% more expensive to make than iPhone 17 Pro",
+      "url": "https://appleinsider.com/articles/26/08/10/iphone-18-pro-expected-to-be-40-more-expensive-to-make-than-iphone-17-pro?utm_source=rss",
+      "pubDate": "2026-08-10T11:58:39.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "OLED iMac Panel Could Include Extra Layer to Fight Screen Burn-In",
+      "url": "https://www.macrumors.com/2026/08/10/oled-imac-panel-extra-layer-screen/",
+      "pubDate": "2026-08-10T11:35:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The first rival Android app store just arrived in the US Play Store",
+      "url": "https://www.theverge.com/tech/977269/google-play-store-third-party-app-aptoide-games",
+      "pubDate": "2026-08-10T11:30:32.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "The iPhone 18 Pro will cost Apple 38% more in parts – but there’s some good news",
+      "url": "https://9to5mac.com/2026/08/10/the-iphone-18-pro-will-cost-apple-38-more-in-parts-but-theres-some-good-news/",
+      "pubDate": "2026-08-10T11:16:51.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Guide to Apple Intelligence using Qwen briefly appears for Apple users in China",
+      "url": "https://appleinsider.com/articles/26/08/10/guide-to-apple-intelligence-using-qwen-briefly-appears-for-apple-users-in-china?utm_source=rss",
+      "pubDate": "2026-08-10T11:13:59.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Ford’s new AI assistant can check your fuel levels and tire pressure",
+      "url": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
+      "pubDate": "2026-08-10T11:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Space mirrors could ruin astronomy — and your eyes",
+      "url": "https://www.theverge.com/science/976977/space-mirror-reflect-orbital-fcc-solar-eye-damage",
+      "pubDate": "2026-08-10T11:00:00.000Z"
+    },
+    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iPhone 18 Pro Costing Apple 38% More to Make, TrendForce Estimates",
@@ -36,6 +85,13 @@
       "title": "Apple Dropped Plan to Ship Leased iPhones Already Set Up for Users",
       "url": "https://www.macrumors.com/2026/08/10/apple-scrapped-plan-ship-iphones-set-up-for-you/",
       "pubDate": "2026-08-10T09:30:40.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Still simple, still powerful, BBEdit is a Mac app legend",
+      "url": "https://appleinsider.com/articles/26/08/07/still-simple-still-powerful-bbedit-is-a-mac-app-legend?utm_source=rss",
+      "pubDate": "2026-08-10T09:27:01.000Z"
     },
     {
       "source": "MacRumors",
@@ -262,34 +318,6 @@
       "pubDate": "2026-08-08T17:53:34.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPhone 17 faces potential price hike before iPhone 18 Pro launch",
-      "url": "https://appleinsider.com/articles/26/08/08/iphone-17-faces-an-early-price-rise-a-month-before-iphone-18-pro-launch?utm_source=rss",
-      "pubDate": "2026-08-08T17:28:51.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Buc-ee’s dodges John Oliver to sue another small business",
-      "url": "https://www.theverge.com/business/977112/buc-ees-john-oliver-lawsuit-beaver-mini-mart",
-      "pubDate": "2026-08-08T15:47:30.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple TV welcomes back Ted Lasso with a clever new commercial",
-      "url": "https://9to5mac.com/2026/08/08/apple-tv-welcomes-back-ted-lasso-with-a-clever-new-commercial/",
-      "pubDate": "2026-08-08T15:14:01.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Musician and entrepreneur Tom Vek is building a digital music player, but don’t call it retro",
-      "url": "https://www.theverge.com/report/976872/tom-vek-musician-entrepreneur-sleevenote-interview",
-      "pubDate": "2026-08-08T15:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Score the A16 iPad for Its Best Price Since June's Hike",
@@ -304,13 +332,6 @@
       "pubDate": "2026-08-08T13:00:12.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Is this $450 laptop from an unknown brand too good to be true?",
-      "url": "https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review",
-      "pubDate": "2026-08-08T12:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Claude Code Adds Cross-Session Messaging on macOS",
@@ -323,27 +344,6 @@
       "title": "iPhone 17 Prices Could Rise as Soon as Monday, Rumor Claims",
       "url": "https://www.macrumors.com/2026/08/08/iphone-17-prices-could-rise-as-soon-as-monday/",
       "pubDate": "2026-08-08T09:54:27.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "OpenAI Delays Next Major AI Model 'Astra' Over Critical Hacking Concerns",
-      "url": "https://www.macrumors.com/2026/08/07/openai-astra-model-hacking-concerns/",
-      "pubDate": "2026-08-07T21:27:43.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPhone 18 Pro rumor roundup: 2nm A20 chip, C2 modem, under-display Face ID",
-      "url": "https://appleinsider.com/articles/26/08/07/iphone-18-pro-rumor-roundup-2nm-a20-chip-c2-modem-under-display-face-id?utm_source=rss",
-      "pubDate": "2026-08-07T17:16:16.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "B&H's $1,349 M5 MacBook Air deal with 24GB RAM ends this weekend",
-      "url": "https://appleinsider.com/articles/26/08/07/bhs-1349-m5-macbook-air-deal-with-24gb-ram-ends-this-weekend?utm_source=rss",
-      "pubDate": "2026-08-07T17:11:05.000Z"
     },
     {
       "source": "Six Colors",
