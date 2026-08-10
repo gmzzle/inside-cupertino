@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T22:57:00.879Z",
+  "generatedAt": "2026-08-10T23:51:32.897Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Mcon mobile gaming controller review: Compact design with premium feel",
+      "url": "https://appleinsider.com/articles/26/01/07/mcon-mobile-gaming-controller-review-compact-design-with-premium-feel?utm_source=rss",
+      "pubDate": "2026-08-10T23:42:07.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Discrimination lawsuit involving converted Jewish employee settled by Apple",
+      "url": "https://appleinsider.com/articles/26/08/10/discrimination-lawsuit-involving-converted-jewish-employee-settled-by-apple?utm_source=rss",
+      "pubDate": "2026-08-10T23:33:34.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple settles lawsuit over alleged discrimination against Jewish employee",
+      "url": "https://9to5mac.com/2026/08/10/apple-settles-lawsuit-over-alleged-discrimination-against-jewish-employee/",
+      "pubDate": "2026-08-10T23:00:22.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -220,13 +241,6 @@
       "pubDate": "2026-08-10T17:27:42.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple releases beta 5 for iPadOS 27, watchOS 27, and more",
-      "url": "https://9to5mac.com/2026/08/10/apple-releases-beta-5-for-ipados-27-watchos-27-and-more/",
-      "pubDate": "2026-08-10T17:27:26.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Releases macOS Tahoe 26.6.2 Beta With Security Fixes",
@@ -339,13 +353,6 @@
       "pubDate": "2026-08-10T14:57:34.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "B&H is blowing out M4 15-inch MacBook Air inventory at $1,279",
-      "url": "https://appleinsider.com/articles/26/08/10/bh-is-blowing-out-m4-15-inch-macbook-air-inventory-at-1279?utm_source=rss",
-      "pubDate": "2026-08-10T14:32:03.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Keychron’s wireless Hall effect keyboard is back to its lowest price",
@@ -358,13 +365,6 @@
       "title": "What happens to Bose when headphones become AI?",
       "url": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
       "pubDate": "2026-08-10T14:00:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Jefferies cuts AAPL target to $263.66, downgrades to Underperform",
-      "url": "https://appleinsider.com/articles/26/08/10/jefferies-cuts-aapl-target-to-26366-downgrades-to-underperform?utm_source=rss",
-      "pubDate": "2026-08-10T12:48:48.000Z"
     },
     {
       "source": "Six Colors",
