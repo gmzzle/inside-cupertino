@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T11:59:43.785Z",
+  "generatedAt": "2026-08-10T13:45:38.356Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,11 +24,67 @@
   ],
   "items": [
     {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple has eight new products to unveil at September event: report",
+      "url": "https://9to5mac.com/2026/08/10/apple-has-eight-new-products-to-unveil-at-september-event-report/",
+      "pubDate": "2026-08-10T13:38:54.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple reveals how Siri AI features work in China – raising privacy questions",
+      "url": "https://9to5mac.com/2026/08/10/apple-reveals-how-siri-ai-features-work-in-china-likely-without-privacy-protections/",
+      "pubDate": "2026-08-10T13:38:27.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Feature Request: Do this to end the guessing game with iPhone app settings",
+      "url": "https://9to5mac.com/2026/08/10/feature-request-do-this-to-end-the-guessing-game-with-iphone-app-settings/",
+      "pubDate": "2026-08-10T13:01:06.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Jefferies cuts AAPL target to $263.66, downgrades to Underperform",
+      "url": "https://appleinsider.com/articles/26/08/10/jefferies-cuts-aapl-target-to-26366-downgrades-to-underperform?utm_source=rss",
+      "pubDate": "2026-08-10T12:48:48.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iMacs with OLED screens now predicted for 2029",
+      "url": "https://appleinsider.com/articles/26/08/10/imacs-with-oled-screens-now-predicted-for-2029?utm_source=rss",
+      "pubDate": "2026-08-10T12:41:01.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Briefly Posts China Guide for Connecting Siri to Qwen AI",
+      "url": "https://www.macrumors.com/2026/08/10/apple-posts-guide-for-connecting-siri-to-qwen-ai/",
+      "pubDate": "2026-08-10T12:21:13.000Z"
+    },
+    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "iPhone 18 Pro expected to be 40% more expensive to make than iPhone 17 Pro",
       "url": "https://appleinsider.com/articles/26/08/10/iphone-18-pro-expected-to-be-40-more-expensive-to-make-than-iphone-17-pro?utm_source=rss",
-      "pubDate": "2026-08-10T11:58:39.000Z"
+      "pubDate": "2026-08-10T12:11:30.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "A round Apple Watch is possible, but an Apple Ring more likely",
+      "url": "https://9to5mac.com/2026/08/10/a-round-apple-watch-is-possible-but-an-apple-ring-more-likely/",
+      "pubDate": "2026-08-10T12:09:31.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Testing Chinese Memory Chips in iPhones and MacBooks",
+      "url": "https://www.macrumors.com/2026/08/10/apple-testing-chinese-memory-iphones-macs/",
+      "pubDate": "2026-08-10T12:02:03.000Z"
     },
     {
       "source": "MacRumors",
@@ -36,13 +92,6 @@
       "title": "OLED iMac Panel Could Include Extra Layer to Fight Screen Burn-In",
       "url": "https://www.macrumors.com/2026/08/10/oled-imac-panel-extra-layer-screen/",
       "pubDate": "2026-08-10T11:35:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The first rival Android app store just arrived in the US Play Store",
-      "url": "https://www.theverge.com/tech/977269/google-play-store-third-party-app-aptoide-games",
-      "pubDate": "2026-08-10T11:30:32.000Z"
     },
     {
       "source": "9to5Mac",
@@ -57,20 +106,6 @@
       "title": "Guide to Apple Intelligence using Qwen briefly appears for Apple users in China",
       "url": "https://appleinsider.com/articles/26/08/10/guide-to-apple-intelligence-using-qwen-briefly-appears-for-apple-users-in-china?utm_source=rss",
       "pubDate": "2026-08-10T11:13:59.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Ford’s new AI assistant can check your fuel levels and tire pressure",
-      "url": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
-      "pubDate": "2026-08-10T11:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Space mirrors could ruin astronomy — and your eyes",
-      "url": "https://www.theverge.com/science/976977/space-mirror-reflect-orbital-fcc-solar-eye-damage",
-      "pubDate": "2026-08-10T11:00:00.000Z"
     },
     {
       "source": "MacRumors",
@@ -99,13 +134,6 @@
       "title": "New MacBook Pro and Refreshed iMacs Likely Coming in October",
       "url": "https://www.macrumors.com/2026/08/10/new-macbook-pro-refreshed-imacs-october/",
       "pubDate": "2026-08-10T08:51:40.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "No Dogs in Space is a music history podcast for true obsessives",
-      "url": "https://www.theverge.com/entertainment/977190/no-dogs-in-space-music-history-podcast",
-      "pubDate": "2026-08-09T20:28:31.000Z"
     },
     {
       "source": "AppleInsider",
@@ -143,13 +171,6 @@
       "pubDate": "2026-08-09T17:39:10.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Zuckerberg&#8217;s yacht was closer, but someone else saved a stranded boat",
-      "url": "https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat",
-      "pubDate": "2026-08-09T17:20:30.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Of course, Apple's already planning a third-gen iPhone Fold",
@@ -162,13 +183,6 @@
       "title": "Ceramic Case Could Return With Apple Watch Series 12",
       "url": "https://www.macrumors.com/2026/08/09/ceramic-could-return-with-apple-watch-series-12/",
       "pubDate": "2026-08-09T16:21:48.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "49ers coach says his Tesla was on Autopilot when he crashed",
-      "url": "https://www.theverge.com/transportation/977155/49ers-coach-tesla-autopilot-crash",
-      "pubDate": "2026-08-09T15:56:49.000Z"
     },
     {
       "source": "MacRumors",
@@ -234,13 +248,6 @@
       "pubDate": "2026-08-09T14:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Dropbox is a PC builder’s best friend",
-      "url": "https://www.theverge.com/tech/976092/pc-building-dropbox-backup",
-      "pubDate": "2026-08-09T13:00:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "iPhone Fold may ship in a choice of Silver or Dark Blue",
@@ -248,74 +255,11 @@
       "pubDate": "2026-08-09T12:16:33.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "AI detectors are creating a new era of distrust",
-      "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
-      "pubDate": "2026-08-09T12:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Foldable 'iPhone Ultra' Rumored to Come in These Two Colors",
       "url": "https://www.macrumors.com/2026/08/09/iphone-ultra-rumored-to-come-in-these-two-colors/",
       "pubDate": "2026-08-09T11:53:44.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Crime blotter: Thieves try using stolen credit cards at a Miami Apple Store",
-      "url": "https://appleinsider.com/articles/26/08/09/crime-blotter-thieves-try-using-stolen-credit-cards-at-a-miami-apple-store?utm_source=rss",
-      "pubDate": "2026-08-09T11:12:28.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "New leak may reveal the iPhone Ultra’s two launch colors",
-      "url": "https://9to5mac.com/2026/08/08/iphone-ultra-colors-leak-rumor/",
-      "pubDate": "2026-08-09T00:41:55.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27: The easiest beta to forget about",
-      "url": "https://9to5mac.com/2026/08/08/ios-27-the-easiest-beta-to-forget-about/",
-      "pubDate": "2026-08-08T21:23:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "X replaces its revenue-sharing program with ‘Original Content Rewards’",
-      "url": "https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards",
-      "pubDate": "2026-08-08T21:15:12.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Indie App Spotlight: ‘Pocket Jam’ helps you learn and practice your favorite songs",
-      "url": "https://9to5mac.com/2026/08/08/indie-app-spotlight-pocket-jam-helps-you-learn-and-practice-your-favorite-songs/",
-      "pubDate": "2026-08-08T19:30:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Amazon slashes $500 off Apple's M5 Max 14-inch MacBook Pro with 2TB SSD",
-      "url": "https://appleinsider.com/articles/26/08/08/amazon-slashes-500-off-apples-m5-max-14-inch-macbook-pro-with-2tb-ssd?utm_source=rss",
-      "pubDate": "2026-08-08T18:49:43.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Why you should buy iPhone 17 Pro now instead of waiting",
-      "url": "https://9to5mac.com/2026/08/08/buy-iphone-17-pro-vs-iphone-18-pro/",
-      "pubDate": "2026-08-08T18:13:25.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "An Amazon data center could have the worst polluting power plant in the country",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
-      "pubDate": "2026-08-08T17:53:34.000Z"
     },
     {
       "source": "MacRumors",
@@ -330,20 +274,6 @@
       "title": "Top Stories: Apple's September Announcements, MacBook Air Shortages, and More",
       "url": "https://www.macrumors.com/2026/08/08/top-stories-apple-september-announcements/",
       "pubDate": "2026-08-08T13:00:12.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Claude Code Adds Cross-Session Messaging on macOS",
-      "url": "https://www.macrumors.com/2026/08/08/claude-code-adds-cross-session-messaging/",
-      "pubDate": "2026-08-08T10:22:46.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone 17 Prices Could Rise as Soon as Monday, Rumor Claims",
-      "url": "https://www.macrumors.com/2026/08/08/iphone-17-prices-could-rise-as-soon-as-monday/",
-      "pubDate": "2026-08-08T09:54:27.000Z"
     },
     {
       "source": "Six Colors",
@@ -372,6 +302,62 @@
       "title": "(Podcast) The Rebound 610: If You’re a Robot, You Have to Tell Me",
       "url": "https://sixcolors.com/podcast/2026/08/the-rebound-610-if-youre-a-robot-you-have-to-tell-me/",
       "pubDate": "2026-08-05T14:00:00.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Review: “Ted Lasso” returns, refreshed, to the pitch",
+      "url": "https://sixcolors.com/post/2026/08/review-ted-lasso-returns-to-the-pitch/",
+      "pubDate": "2026-08-05T07:01:18.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Soulver 4 casts a wider calculating net",
+      "url": "https://sixcolors.com/post/2026/08/soulver-4-casts-a-wider-calculating-net/",
+      "pubDate": "2026-08-04T15:30:05.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "OpenAI: “Apple is getting this wrong” ↦",
+      "url": "https://sixcolors.com/link/2026/08/openai-apple-is-getting-this-wrong/",
+      "pubDate": "2026-08-04T13:21:12.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) Upgrade 631: Nessie Beneath the Waves",
+      "url": "https://sixcolors.com/podcast/2026/08/upgrade-631-nessie-beneath-the-waves/",
+      "pubDate": "2026-08-03T21:12:03.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Preparing for next year’s Rosetta 2 demise",
+      "url": "https://sixcolors.com/post/2026/08/preparing-for-next-years-rosetta-2-demise/",
+      "pubDate": "2026-08-03T15:30:20.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Q3 results: 3D pricing, EGOT timing, and underestimating demand",
+      "url": "https://sixcolors.com/post/2026/07/q3-results-3d-pricing-egot-timing-and-underestimating-demand/",
+      "pubDate": "2026-07-31T16:57:11.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "One last time, this is Tim: Final transcript of Apple’s Q3 2026 earnings call",
+      "url": "https://sixcolors.com/post/2026/07/one-last-time-this-is-tim-transcript-of-apples-q3-2026-financial-call/",
+      "pubDate": "2026-07-30T21:19:35.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Apple announces record Q3 results",
+      "url": "https://sixcolors.com/post/2026/07/apple-announces-record-q3-results/",
+      "pubDate": "2026-07-30T20:39:46.000Z"
     }
   ]
 }
