@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T21:59:12.258Z",
+  "generatedAt": "2026-08-10T22:57:00.879Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "ChatGPT users can now book tables and join restaurant waitlists through Yelp",
+      "url": "https://9to5mac.com/2026/08/10/chatgpt-users-can-now-book-tables-and-join-restaurant-waitlists-through-yelp/",
+      "pubDate": "2026-08-10T22:14:59.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Everything New in iOS 27 Beta 5",
+      "url": "https://www.macrumors.com/2026/08/10/ios-27-beta-5-everything-new/",
+      "pubDate": "2026-08-10T22:02:30.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Mark Zuckerberg doesn’t understand how to live",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
+      "pubDate": "2026-08-10T22:00:00.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -220,13 +241,6 @@
       "pubDate": "2026-08-10T17:26:46.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "macOS 27 Golden Gate beta 5 now available to developers",
-      "url": "https://9to5mac.com/2026/08/10/macos-27-golden-gate-beta-5-now-available-to-developers/",
-      "pubDate": "2026-08-10T17:23:49.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Releases iOS 26.6.1 and iPadOS 26.6.1 Betas With Security Fixes",
@@ -281,13 +295,6 @@
       "title": "Generative AI needs ethical leaders and to be controlled like nuclear power",
       "url": "https://appleinsider.com/articles/26/08/10/generative-ai-needs-ethical-leaders-and-to-be-controlled-like-nuclear-power?utm_source=rss",
       "pubDate": "2026-08-10T16:42:58.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone 18 Pro Max's Larger Battery Capacity Allegedly Revealed",
-      "url": "https://www.macrumors.com/2026/08/10/iphone-18-pro-max-battery-capacity-rumor/",
-      "pubDate": "2026-08-10T16:37:54.000Z"
     },
     {
       "source": "AppleInsider",
@@ -351,13 +358,6 @@
       "title": "What happens to Bose when headphones become AI?",
       "url": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
       "pubDate": "2026-08-10T14:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Boeing is selling its air taxi startups to Archer Aviation",
-      "url": "https://www.theverge.com/transportation/977306/boeing-selling-evtol-archer-wisk-air-taxi",
-      "pubDate": "2026-08-10T13:51:46.000Z"
     },
     {
       "source": "AppleInsider",
