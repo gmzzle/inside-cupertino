@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T22:05:39.175Z",
+  "generatedAt": "2026-08-11T23:04:20.570Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Sonos Preparing AirPods Max Rival With Voice Assistant Support",
+      "url": "https://www.macrumors.com/2026/08/11/sonos-ace-ultra/",
+      "pubDate": "2026-08-11T22:53:16.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Xbox Elite 3 prototype pad leaks with tiny built-in screen",
+      "url": "https://www.theverge.com/games/978374/xbox-elite-3-prototype-pad-leaks-with-tiny-built-in-screen",
+      "pubDate": "2026-08-11T22:36:35.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Satechi Launches 240W ChargeView Desktop Charger With Six USB-C Ports",
+      "url": "https://www.macrumors.com/2026/08/11/satechi-240w-chargeview/",
+      "pubDate": "2026-08-11T22:30:09.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -56,7 +77,7 @@
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Extends 2026 Back to School Promotion Until September 24",
       "url": "https://www.macrumors.com/2026/08/11/apple-extends-2026-back-to-school-promo/",
-      "pubDate": "2026-08-11T20:52:44.000Z"
+      "pubDate": "2026-08-11T20:52:37.000Z"
     },
     {
       "source": "MacRumors",
@@ -304,32 +325,18 @@
       "pubDate": "2026-08-11T15:59:18.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone Users Who Pay for Enough iCloud Storage Get New iOS 27 Perks",
-      "url": "https://www.macrumors.com/2026/08/11/new-ios-27-icloud-plus-perks/",
-      "pubDate": "2026-08-11T15:24:48.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Two New Games Coming to Apple Arcade's Growing Puzzle Catalog",
-      "url": "https://www.macrumors.com/2026/08/11/two-new-games-coming-to-apple-arcade/",
-      "pubDate": "2026-08-11T15:09:41.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
-      "pubDate": "2026-08-11T14:45:44.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "First hints emerge about how much extra Apple Intelligence features will cost",
       "url": "https://appleinsider.com/articles/26/08/11/first-hints-emerge-about-how-much-extra-apple-intelligence-features-will-cost?utm_source=rss",
       "pubDate": "2026-08-11T14:44:27.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) The Rebound 611: Don’t You Dare Put That in Titles",
+      "url": "https://sixcolors.com/podcast/2026/08/the-rebound-611-dont-you-dare-put-that-in-titles/",
+      "pubDate": "2026-08-11T14:00:00.000Z"
     },
     {
       "source": "AppleInsider",
@@ -365,13 +372,6 @@
       "title": "Apple to air four MLB games in Immersive Video",
       "url": "https://sixcolors.com/post/2026/08/apple-to-air-four-mlb-games-in-immersive-video/",
       "pubDate": "2026-08-10T15:00:25.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "App report: Listen, read… checkmate",
-      "url": "https://sixcolors.com/post/2026/08/app-report-listen-read-checkmate/",
-      "pubDate": "2026-08-06T19:09:47.000Z"
     }
   ]
 }
