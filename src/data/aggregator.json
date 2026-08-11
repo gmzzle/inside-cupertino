@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T11:07:46.693Z",
+  "generatedAt": "2026-08-11T11:57:56.448Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple faces class action lawsuit for ‘fraud’ over iCloud Private Relay flaw",
+      "url": "https://9to5mac.com/2026/08/11/apple-faces-class-action-lawsuit-for-fraud-over-icloud-private-relay-flaw/",
+      "pubDate": "2026-08-11T11:46:25.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPad Air OLED Panel Orders Could Be Split With BOE in 2027",
+      "url": "https://www.macrumors.com/2026/08/11/ipad-air-oled-panel-orders-could-be-split-with-boe/",
+      "pubDate": "2026-08-11T11:36:32.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -199,13 +213,6 @@
       "pubDate": "2026-08-10T20:21:42.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple is working on a way to authenticate that a photo came from an iPhone camera",
-      "url": "https://9to5mac.com/2026/08/10/apple-is-working-on-a-way-to-authenticate-that-a-photo-came-from-an-iphone-camera/",
-      "pubDate": "2026-08-10T19:49:55.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Bluesky now lets you hide reposts from that annoying person you follow",
@@ -302,13 +309,6 @@
       "title": "Apple Releases iOS 26.6.1 and iPadOS 26.6.1 Betas With Security Fixes",
       "url": "https://www.macrumors.com/2026/08/10/apple-releases-ios-26-6-1/",
       "pubDate": "2026-08-10T17:23:38.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Seeds Fifth iOS 27 and iPadOS 27 Betas to Developers",
-      "url": "https://www.macrumors.com/2026/08/10/apple-seeds-ios-27-beta-5/",
-      "pubDate": "2026-08-10T17:21:00.000Z"
     },
     {
       "source": "AppleInsider",
