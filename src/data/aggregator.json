@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T07:38:28.457Z",
+  "generatedAt": "2026-08-11T09:14:46.066Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Bluesky Now Lets You Hide Reposts From Specific Users in Your Feeds",
+      "url": "https://www.macrumors.com/2026/08/11/bluesky-lets-you-hide-reposts-in-feeds/",
+      "pubDate": "2026-08-11T09:02:14.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -295,13 +302,6 @@
       "title": "Apple Seeds Fifth iOS 27 and iPadOS 27 Betas to Developers",
       "url": "https://www.macrumors.com/2026/08/10/apple-seeds-ios-27-beta-5/",
       "pubDate": "2026-08-10T17:21:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Seeds watchOS 27 Beta 5 to Developers",
-      "url": "https://www.macrumors.com/2026/08/10/apple-seeds-watchos-27-beta-5-to-developers/",
-      "pubDate": "2026-08-10T17:10:00.000Z"
     },
     {
       "source": "AppleInsider",
