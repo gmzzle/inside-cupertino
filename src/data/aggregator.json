@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T11:57:56.448Z",
+  "generatedAt": "2026-08-11T13:43:34.198Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,104 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Amazon's $99 AirPods 4, $189 AirPods Pro 3, $449 AirPods Max 2 deals are still going strong",
+      "url": "https://appleinsider.com/articles/26/08/11/amazons-99-airpods-4-189-airpods-pro-3-449-airpods-max-2-deals-are-still-going-strong?utm_source=rss",
+      "pubDate": "2026-08-11T13:34:29.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Why your Amazon order confirmation emails have become so unhelpful",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
+      "pubDate": "2026-08-11T13:27:20.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Making sense of the conflicting 20th anniversary iPhone reports",
+      "url": "https://9to5mac.com/2026/08/11/making-sense-of-the-conflicting-20th-anniversary-iphone-reports/",
+      "pubDate": "2026-08-11T13:18:16.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Unreleased iPhones again revealed in the latest iOS developer beta",
+      "url": "https://appleinsider.com/articles/26/08/11/unreleased-iphones-again-revealed-in-the-latest-ios-developer-beta?utm_source=rss",
+      "pubDate": "2026-08-11T13:14:02.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iCloud Private Relay failures manifest a new class-action lawsuit against Apple",
+      "url": "https://appleinsider.com/articles/26/08/11/icloud-private-relay-failures-manifest-a-new-class-action-lawsuit-against-apple?utm_source=rss",
+      "pubDate": "2026-08-11T13:08:38.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 code reveals six unreleased iPhone models coming soon",
+      "url": "https://9to5mac.com/2026/08/11/ios-27-code-reveals-six-unreleased-iphone-models-coming-soon/",
+      "pubDate": "2026-08-11T13:05:09.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "GuliKit&#8217;s new Switch controller features next-generation anti-drift thumbsticks",
+      "url": "https://www.theverge.com/tech/976972/gulikit-es-max-anti-drift-tmr-switch-2-wireless-controller-price-availability",
+      "pubDate": "2026-08-11T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Bumble now lets men make the first move",
+      "url": "https://www.theverge.com/tech/977804/bumble-dating-app-men-message-first-update",
+      "pubDate": "2026-08-11T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Spotify says it won&#8217;t recommend music from &#8216;AI Personas&#8217;",
+      "url": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
+      "pubDate": "2026-08-11T13:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Pay to Launch in India by October",
+      "url": "https://www.macrumors.com/2026/08/11/apple-pay-to-launch-in-india-by-october/",
+      "pubDate": "2026-08-11T12:58:20.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Latest iOS 27 Beta References Six Unreleased iPhone Models",
+      "url": "https://www.macrumors.com/2026/08/11/ios-27-beta-codenames-iphone-18-lineup/",
+      "pubDate": "2026-08-11T12:27:32.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Claude will apply invisible watermarks to AI text and images",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
+      "pubDate": "2026-08-11T12:22:20.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Don't believe rumors that the iPhone 20 has been cancelled",
+      "url": "https://appleinsider.com/articles/26/08/11/new-rumor-counters-that-all-glass-20th-anniversary-iphone-will-still-happen?utm_source=rss",
+      "pubDate": "2026-08-11T12:10:55.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Joby flexes military muscle with $500 million defense acquisition",
+      "url": "https://www.theverge.com/transportation/977533/joby-resonant-sciences-acquisition-evtol",
+      "pubDate": "2026-08-11T12:00:00.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -85,13 +183,6 @@
       "title": "Apple’s 20th-anniversary iPhone redesign reportedly remains on track",
       "url": "https://9to5mac.com/2026/08/10/apples-20th-anniversary-iphone-redesign-reportedly-remains-on-track/",
       "pubDate": "2026-08-11T02:14:14.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "New rumor counters that all-glass 20th-anniversary iPhone will still happen",
-      "url": "https://appleinsider.com/articles/26/08/11/new-rumor-counters-that-all-glass-20th-anniversary-iphone-will-still-happen?utm_source=rss",
-      "pubDate": "2026-08-11T02:02:00.000Z"
     },
     {
       "source": "9to5Mac",
@@ -192,25 +283,11 @@
       "pubDate": "2026-08-10T21:02:25.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple TV teams up with Academy Award-winning director for the second time",
-      "url": "https://9to5mac.com/2026/08/10/apple-tv-teams-up-with-academy-award-winning-director-for-the-second-time/",
-      "pubDate": "2026-08-10T20:51:02.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iOS 27 Wallet App Gets 7 New Features",
       "url": "https://www.macrumors.com/guide/ios-27-wallet/",
       "pubDate": "2026-08-10T20:43:48.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple official refurb store: Save hundreds on our top picks of the week",
-      "url": "https://9to5mac.com/2026/08/10/apple-official-refurb-store-top-picks/",
-      "pubDate": "2026-08-10T20:21:42.000Z"
     },
     {
       "source": "The Verge",
@@ -225,13 +302,6 @@
       "title": "iOS 27 Beta 5 Brings New Icons for Siri, Safari, Settings and More",
       "url": "https://www.macrumors.com/2026/08/10/ios-27-beta-5-icons/",
       "pubDate": "2026-08-10T19:18:50.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Costco&#8217;s great Switch 2 console bundle includes over $100 in free stuff",
-      "url": "https://www.theverge.com/gadgets/977489/costco-switch-2-microsd-express-switch-online-expansion-deal-sale",
-      "pubDate": "2026-08-10T19:14:27.000Z"
     },
     {
       "source": "AppleInsider",
@@ -276,39 +346,11 @@
       "pubDate": "2026-08-10T17:43:46.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "What to expect from Google’s 2026 Pixel hardware launch event",
-      "url": "https://www.theverge.com/tech/977448/made-by-google-2026-pixel-hardware-launch-event",
-      "pubDate": "2026-08-10T17:30:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Releases macOS Golden Gate Beta 5",
       "url": "https://www.macrumors.com/2026/08/10/apple-releases-macos-27-beta-5/",
       "pubDate": "2026-08-10T17:27:42.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Releases macOS Tahoe 26.6.2 Beta With Security Fixes",
-      "url": "https://www.macrumors.com/2026/08/10/apple-releases-macos-tahoe-26-6-2/",
-      "pubDate": "2026-08-10T17:27:06.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "YouTube is making it harder to earn money on YouTube",
-      "url": "https://www.theverge.com/streaming/977474/youtube-partner-program-new-requirements",
-      "pubDate": "2026-08-10T17:26:46.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Releases iOS 26.6.1 and iPadOS 26.6.1 Betas With Security Fixes",
-      "url": "https://www.macrumors.com/2026/08/10/apple-releases-ios-26-6-1/",
-      "pubDate": "2026-08-10T17:23:38.000Z"
     },
     {
       "source": "AppleInsider",
@@ -318,53 +360,11 @@
       "pubDate": "2026-08-10T17:09:47.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Flight tracking poster, Schlage Sense Pro review, & more on Smart Home Insider",
-      "url": "https://appleinsider.com/articles/26/08/10/flight-tracking-poster-schlage-sense-pro-review-more-on-smart-home-insider?utm_source=rss",
-      "pubDate": "2026-08-10T17:05:25.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Generative AI needs ethical leaders and to be controlled like nuclear power",
-      "url": "https://appleinsider.com/articles/26/08/10/generative-ai-needs-ethical-leaders-and-to-be-controlled-like-nuclear-power?utm_source=rss",
-      "pubDate": "2026-08-10T16:42:58.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Friday Night Baseball season will stream key games live in Apple Immersive",
-      "url": "https://appleinsider.com/articles/26/08/10/friday-night-baseball-season-will-stream-key-games-live-in-apple-immersive?utm_source=rss",
-      "pubDate": "2026-08-10T16:00:41.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Four takeaways from Mark Zuckerberg&#8217;s massive AI manifesto",
-      "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
-      "pubDate": "2026-08-10T15:19:05.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Apple to air four MLB games in Immersive Video",
       "url": "https://sixcolors.com/post/2026/08/apple-to-air-four-mlb-games-in-immersive-video/",
       "pubDate": "2026-08-10T15:00:25.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple will stream Friday Night Baseball live in Vision Pro",
-      "url": "https://www.theverge.com/tech/977199/apple-will-stream-friday-night-baseball-live-in-vision-pro",
-      "pubDate": "2026-08-10T15:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Keychron’s wireless Hall effect keyboard is back to its lowest price",
-      "url": "https://www.theverge.com/gadgets/977300/keychron-hall-effect-sony-inzone-headsets-gaming-laptop-deal-sale",
-      "pubDate": "2026-08-10T14:27:23.000Z"
     },
     {
       "source": "Six Colors",
