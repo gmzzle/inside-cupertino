@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T17:13:35.472Z",
+  "generatedAt": "2026-08-11T18:08:56.645Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,6 +24,97 @@
   ],
   "items": [
     {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple Pay & Apple Card VP Jennifer Bailey is retiring",
+      "url": "https://appleinsider.com/articles/26/08/11/apple-pay-apple-card-vp-jennifer-bailey-is-retiring?utm_source=rss",
+      "pubDate": "2026-08-11T18:07:48.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 beta 5 lets you make Liquid Glass more transparent than ever",
+      "url": "https://9to5mac.com/2026/08/11/ios-27-beta-5-lets-you-make-liquid-glass-more-transparent-than-ever/",
+      "pubDate": "2026-08-11T18:07:12.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Another OpenAI executive takes off",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
+      "pubDate": "2026-08-11T17:50:01.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Steve Wozniak gave Apple its soul before Steve Jobs made it a hit",
+      "url": "https://appleinsider.com/articles/26/07/24/steve-wozniak-gave-apple-its-soul-before-steve-jobs-made-it-a-hit?utm_source=rss",
+      "pubDate": "2026-08-11T17:46:33.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "watchOS 27 will upgrade popular Apple Watch face with new options, per leak",
+      "url": "https://9to5mac.com/2026/08/11/watchos-27-will-upgrade-popular-apple-watch-face-with-new-options-per-leak/",
+      "pubDate": "2026-08-11T17:39:10.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The budget-friendly Pixel Buds 2a are even cheaper right now",
+      "url": "https://www.theverge.com/gadgets/977929/pixel-buds-2a-starfox-switch-deal-sale",
+      "pubDate": "2026-08-11T17:31:06.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Third macOS Golden Gate Public Beta Now Available",
+      "url": "https://www.macrumors.com/2026/08/11/macos-27-public-beta-3/",
+      "pubDate": "2026-08-11T17:26:26.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple rolls out macOS 27 Golden Gate public beta 3, here’s how to install it",
+      "url": "https://9to5mac.com/2026/08/11/apple-rolls-out-macos-27-golden-gate-public-beta-3-heres-how-to-install-it/",
+      "pubDate": "2026-08-11T17:25:20.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Third iOS 27 and iPadOS 27 Public Betas Now Available",
+      "url": "https://www.macrumors.com/2026/08/11/apple-releases-ios-27-public-beta-3/",
+      "pubDate": "2026-08-11T17:22:29.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Public beta 3 for iPadOS 27 and more available now, here’s what’s new",
+      "url": "https://9to5mac.com/2026/08/11/public-beta-3-for-ipados-27-and-more-available-now-heres-whats-new/",
+      "pubDate": "2026-08-11T17:22:19.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 public beta 3 is here with Siri AI, iPhone speed upgrades, and more",
+      "url": "https://9to5mac.com/2026/08/11/ios-27-public-beta-3/",
+      "pubDate": "2026-08-11T17:22:17.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "tvOS 27 and watchOS 27 Third Public Betas Now Available",
+      "url": "https://www.macrumors.com/2026/08/11/apple-releases-watchos-27-b3/",
+      "pubDate": "2026-08-11T17:20:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iOS 27 celebrates your friends' birthdays with fireworks",
+      "url": "https://appleinsider.com/articles/26/08/11/ios-27-celebrates-your-friends-birthdays-with-fireworks?utm_source=rss",
+      "pubDate": "2026-08-11T17:16:38.000Z"
+    },
+    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Sonos is planning Ace Ultra headphones with a big AI push, report says",
@@ -31,11 +122,39 @@
       "pubDate": "2026-08-11T17:12:20.000Z"
     },
     {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Grok Bot is an all-new iPhone and Mac app from SpaceXAI and Cursor",
+      "url": "https://9to5mac.com/2026/08/11/grok-bot-is-an-all-new-iphone-and-mac-app-from-spacexai-and-cursor/",
+      "pubDate": "2026-08-11T17:10:00.000Z"
+    },
+    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple stocking up on OLED screens to offset RAM and SSD prices",
       "url": "https://appleinsider.com/articles/26/08/11/apple-stocking-up-on-oled-screens-to-offset-ram-and-ssd-prices?utm_source=rss",
       "pubDate": "2026-08-11T17:09:22.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Google’s upcoming Pixel phones are for the fans, even if its launch event isn’t",
+      "url": "https://www.theverge.com/tech/977844/made-by-google-pixel-11-launch-power-users-notification-led",
+      "pubDate": "2026-08-11T17:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Made by Google 2026: all the Pixel news and announcements",
+      "url": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
+      "pubDate": "2026-08-11T17:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Apple could help you prove your iPhone photos aren’t deepfakes",
+      "url": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata",
+      "pubDate": "2026-08-11T16:19:15.000Z"
     },
     {
       "source": "MacRumors",
@@ -78,6 +197,13 @@
       "title": "Two New Games Coming to Apple Arcade's Growing Puzzle Catalog",
       "url": "https://www.macrumors.com/2026/08/11/two-new-games-coming-to-apple-arcade/",
       "pubDate": "2026-08-11T15:09:41.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
+      "pubDate": "2026-08-11T14:45:44.000Z"
     },
     {
       "source": "AppleInsider",
@@ -129,13 +255,6 @@
       "pubDate": "2026-08-11T13:50:27.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 beta 5 adds option to upgrade iCloud+ subscription for more AI",
-      "url": "https://9to5mac.com/2026/08/11/ios-27-beta-5-adds-option-to-upgrade-icloud-subscription-for-more-ai/",
-      "pubDate": "2026-08-11T13:50:26.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Amazon's $99 AirPods 4, $189 AirPods Pro 3, $449 AirPods Max 2 deals are still going strong",
@@ -143,11 +262,11 @@
       "pubDate": "2026-08-11T13:34:29.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Making sense of the conflicting 20th anniversary iPhone reports",
-      "url": "https://9to5mac.com/2026/08/11/making-sense-of-the-conflicting-20th-anniversary-iphone-reports/",
-      "pubDate": "2026-08-11T13:18:16.000Z"
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Why your Amazon order confirmation emails have become so unhelpful",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
+      "pubDate": "2026-08-11T13:27:20.000Z"
     },
     {
       "source": "AppleInsider",
@@ -164,11 +283,25 @@
       "pubDate": "2026-08-11T13:08:38.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 code reveals six unreleased iPhone models coming soon",
-      "url": "https://9to5mac.com/2026/08/11/ios-27-code-reveals-six-unreleased-iphone-models-coming-soon/",
-      "pubDate": "2026-08-11T13:05:09.000Z"
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "GuliKit&#8217;s new Switch controller features next-generation anti-drift thumbsticks",
+      "url": "https://www.theverge.com/tech/976972/gulikit-es-max-anti-drift-tmr-switch-2-wireless-controller-price-availability",
+      "pubDate": "2026-08-11T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Bumble now lets men make the first move",
+      "url": "https://www.theverge.com/tech/977804/bumble-dating-app-men-message-first-update",
+      "pubDate": "2026-08-11T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Spotify says it won&#8217;t recommend music from &#8216;AI Personas&#8217;",
+      "url": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
+      "pubDate": "2026-08-11T13:00:00.000Z"
     },
     {
       "source": "MacRumors",
@@ -192,46 +325,11 @@
       "pubDate": "2026-08-11T12:10:55.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple faces class action lawsuit for ‘fraud’ over iCloud Private Relay flaw",
-      "url": "https://9to5mac.com/2026/08/11/apple-faces-class-action-lawsuit-for-fraud-over-icloud-private-relay-flaw/",
-      "pubDate": "2026-08-11T11:46:25.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iPad Air OLED Panel Orders Could Be Split With BOE in 2027",
       "url": "https://www.macrumors.com/2026/08/11/ipad-air-oled-panel-orders-could-be-split-with-boe/",
       "pubDate": "2026-08-11T11:36:32.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "China now even less likely to solve Apple’s memory crunch",
-      "url": "https://9to5mac.com/2026/08/11/china-now-even-less-likely-to-solve-apples-memory-crunch/",
-      "pubDate": "2026-08-11T11:01:05.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple @ Work Podcast: 300 devices later – thoughts on ChromeOS vs macOS",
-      "url": "https://9to5mac.com/2026/08/11/300-devices-later-thoughts-on-chromeos-vs-macos/",
-      "pubDate": "2026-08-11T10:02:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Bluesky Now Lets You Hide Reposts From Specific Users in Your Feeds",
-      "url": "https://www.macrumors.com/2026/08/11/bluesky-lets-you-hide-reposts-in-feeds/",
-      "pubDate": "2026-08-11T09:02:14.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Still Planning 'Glass-Centric' iPhone Redesign for 2027",
-      "url": "https://www.macrumors.com/2026/08/10/glass-centric-iphone-still-planned-2027/",
-      "pubDate": "2026-08-11T03:10:14.000Z"
     },
     {
       "source": "AppleInsider",
@@ -241,13 +339,6 @@
       "pubDate": "2026-08-11T02:51:13.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27 Hints at 'Apple Reference Image' Photo Authentication",
-      "url": "https://www.macrumors.com/2026/08/10/ios-27-apple-reference-image/",
-      "pubDate": "2026-08-11T00:08:29.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Mcon mobile gaming controller review: Compact design with premium feel",
@@ -255,32 +346,11 @@
       "pubDate": "2026-08-10T23:42:07.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Discrimination lawsuit involving converted Jewish employee settled by Apple",
-      "url": "https://appleinsider.com/articles/26/08/10/discrimination-lawsuit-involving-converted-jewish-employee-settled-by-apple?utm_source=rss",
-      "pubDate": "2026-08-10T23:33:34.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) Upgrade 632: [Redacted Apple Information]",
       "url": "https://sixcolors.com/podcast/2026/08/upgrade-632-redacted-apple-information/",
       "pubDate": "2026-08-10T21:14:46.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "New in iOS 27 beta 5: 'Before Searching' settings, updated app icons, more",
-      "url": "https://appleinsider.com/articles/26/08/10/new-in-ios-27-beta-5-before-searching-settings-updated-app-icons-more?utm_source=rss",
-      "pubDate": "2026-08-10T21:02:25.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple preps beta security updates for iOS 18, iOS 26, and macOS 26",
-      "url": "https://appleinsider.com/articles/26/08/10/apple-preps-beta-security-updates-for-ios-18-ios-26-and-macos-26?utm_source=rss",
-      "pubDate": "2026-08-10T18:24:42.000Z"
     },
     {
       "source": "Six Colors",
@@ -302,62 +372,6 @@
       "title": "App report: Listen, read… checkmate",
       "url": "https://sixcolors.com/post/2026/08/app-report-listen-read-checkmate/",
       "pubDate": "2026-08-06T19:09:47.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) Clockwise 668: Coming Soon to Pontoon Boats",
-      "url": "https://sixcolors.com/podcast/2026/08/clockwise-668-coming-soon-to-pontoon-boats/",
-      "pubDate": "2026-08-05T23:00:00.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Report: Apple’s Private Relay may not be as private as thought ↦",
-      "url": "https://sixcolors.com/link/2026/08/report-apples-private-relay-may-not-be-as-private-as-thought/",
-      "pubDate": "2026-08-05T14:42:25.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) The Rebound 610: If You’re a Robot, You Have to Tell Me",
-      "url": "https://sixcolors.com/podcast/2026/08/the-rebound-610-if-youre-a-robot-you-have-to-tell-me/",
-      "pubDate": "2026-08-05T14:00:00.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Review: “Ted Lasso” returns, refreshed, to the pitch",
-      "url": "https://sixcolors.com/post/2026/08/review-ted-lasso-returns-to-the-pitch/",
-      "pubDate": "2026-08-05T07:01:18.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Soulver 4 casts a wider calculating net",
-      "url": "https://sixcolors.com/post/2026/08/soulver-4-casts-a-wider-calculating-net/",
-      "pubDate": "2026-08-04T15:30:05.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "OpenAI: “Apple is getting this wrong” ↦",
-      "url": "https://sixcolors.com/link/2026/08/openai-apple-is-getting-this-wrong/",
-      "pubDate": "2026-08-04T13:21:12.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) Upgrade 631: Nessie Beneath the Waves",
-      "url": "https://sixcolors.com/podcast/2026/08/upgrade-631-nessie-beneath-the-waves/",
-      "pubDate": "2026-08-03T21:12:03.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Preparing for next year’s Rosetta 2 demise",
-      "url": "https://sixcolors.com/post/2026/08/preparing-for-next-years-rosetta-2-demise/",
-      "pubDate": "2026-08-03T15:30:20.000Z"
     }
   ]
 }
