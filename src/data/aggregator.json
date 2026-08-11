@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T23:51:32.897Z",
+  "generatedAt": "2026-08-11T02:28:15.794Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,41 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple’s 20th-anniversary iPhone redesign reportedly remains on track",
+      "url": "https://9to5mac.com/2026/08/10/apples-20th-anniversary-iphone-redesign-reportedly-remains-on-track/",
+      "pubDate": "2026-08-11T02:14:14.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "New rumor counters that all-glass 20th-anniversary iPhone will still happen",
+      "url": "https://appleinsider.com/articles/26/08/11/new-rumor-counters-that-all-glass-20th-anniversary-iphone-will-still-happen?utm_source=rss",
+      "pubDate": "2026-08-11T02:02:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Jefferies downgrades Apple stock, cites all-glass iPhone cancellation rumor",
+      "url": "https://9to5mac.com/2026/08/10/jefferies-downgrades-apple-stock-cites-all-glass-iphone-cancellation-rumor/",
+      "pubDate": "2026-08-11T01:27:42.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iOS 27 Hints at 'Apple Reference Image' Photo Authentication",
+      "url": "https://www.macrumors.com/2026/08/10/ios-27-apple-reference-image/",
+      "pubDate": "2026-08-11T00:08:29.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: August 10, 2026 – Apple Watch rumors, more",
+      "url": "https://9to5mac.com/2026/08/10/daily-august-10-2026/",
+      "pubDate": "2026-08-10T23:53:49.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -192,32 +227,11 @@
       "pubDate": "2026-08-10T18:24:42.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "The new iOS 27 beta further expands Siri voice customization options",
-      "url": "https://9to5mac.com/2026/08/10/the-new-ios-27-beta-further-expands-siri-voice-customization-options/",
-      "pubDate": "2026-08-10T18:21:52.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 beta 5 adds new app icons for Siri, Safari, and more",
-      "url": "https://9to5mac.com/2026/08/10/ios-27-beta-5-adds-new-app-icons-for-siri-safari-and-more/",
-      "pubDate": "2026-08-10T18:14:15.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Recovery Key storage transition highlights Apple’s privacy and obscurity",
       "url": "https://sixcolors.com/post/2026/08/recovery-key-storage-transition-hightlights-apples-privacy-and-obscurity/",
       "pubDate": "2026-08-10T18:00:07.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple releases iOS 26.6.1 beta for iPhone, plus more",
-      "url": "https://9to5mac.com/2026/08/10/apple-releases-ios-26-6-1-beta-for-iphone/",
-      "pubDate": "2026-08-10T17:59:39.000Z"
     },
     {
       "source": "AppleInsider",
@@ -290,13 +304,6 @@
       "pubDate": "2026-08-10T17:07:00.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Seeds Fifth visionOS 27 Beta to Developers",
-      "url": "https://www.macrumors.com/2026/08/10/apple-seeds-fifth-visionos-27-beta-to-developers/",
-      "pubDate": "2026-08-10T17:06:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Flight tracking poster, Schlage Sense Pro review, & more on Smart Home Insider",
@@ -344,13 +351,6 @@
       "title": "Apple will stream Friday Night Baseball live in Vision Pro",
       "url": "https://www.theverge.com/tech/977199/apple-will-stream-friday-night-baseball-live-in-vision-pro",
       "pubDate": "2026-08-10T15:00:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple tested Chinese memory chips for the Mac, rivals shipping",
-      "url": "https://appleinsider.com/articles/26/08/10/apple-tested-chinese-memory-chips-for-the-mac-rivals-shipping?utm_source=rss",
-      "pubDate": "2026-08-10T14:57:34.000Z"
     },
     {
       "source": "The Verge",
