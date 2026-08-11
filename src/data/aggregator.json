@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T15:16:41.800Z",
+  "generatedAt": "2026-08-11T17:13:35.472Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,18 +24,60 @@
   ],
   "items": [
     {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Sonos is planning Ace Ultra headphones with a big AI push, report says",
+      "url": "https://9to5mac.com/2026/08/11/sonos-is-planning-ace-ultra-headphones-with-a-big-ai-push-report-says/",
+      "pubDate": "2026-08-11T17:12:20.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple stocking up on OLED screens to offset RAM and SSD prices",
+      "url": "https://appleinsider.com/articles/26/08/11/apple-stocking-up-on-oled-screens-to-offset-ram-and-ssd-prices?utm_source=rss",
+      "pubDate": "2026-08-11T17:09:22.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Now Stockpiling More Components Amid Rising Prices",
+      "url": "https://www.macrumors.com/2026/08/11/apple-now-stockpiling-more-components/",
+      "pubDate": "2026-08-11T16:00:32.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Save up to $5,000 on LG OLED TVs, 32\" UltraFine 6K monitor plunges to $1,099",
+      "url": "https://appleinsider.com/articles/26/08/11/save-up-to-5000-on-lg-oled-tvs-32-ultrafine-6k-monitor-plunges-to-1099?utm_source=rss",
+      "pubDate": "2026-08-11T15:59:18.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Deals: AirPods Pro 3 25% off, AirPods Max 2 $100 off, MacBook Pro, Anker 25W MagSafe car charger, more",
+      "url": "https://9to5mac.com/2026/08/11/deals-airpods-pro-3-airpods-max-2-macbook-pro/",
+      "pubDate": "2026-08-11T15:26:22.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone Users Who Pay for Enough iCloud Storage Get New iOS 27 Perks",
+      "url": "https://www.macrumors.com/2026/08/11/new-ios-27-icloud-plus-perks/",
+      "pubDate": "2026-08-11T15:24:48.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone Ultra will have two features that ‘Pro’ users should love",
+      "url": "https://9to5mac.com/2026/08/11/iphone-ultra-will-have-two-features-that-pro-users-should-love/",
+      "pubDate": "2026-08-11T15:21:15.000Z"
+    },
+    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Two New Games Coming to Apple Arcade's Growing Puzzle Catalog",
       "url": "https://www.macrumors.com/2026/08/11/two-new-games-coming-to-apple-arcade/",
       "pubDate": "2026-08-11T15:09:41.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
-      "pubDate": "2026-08-11T14:45:44.000Z"
     },
     {
       "source": "AppleInsider",
@@ -101,13 +143,6 @@
       "pubDate": "2026-08-11T13:34:29.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Why your Amazon order confirmation emails have become so unhelpful",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
-      "pubDate": "2026-08-11T13:27:20.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Making sense of the conflicting 20th anniversary iPhone reports",
@@ -136,27 +171,6 @@
       "pubDate": "2026-08-11T13:05:09.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "GuliKit&#8217;s new Switch controller features next-generation anti-drift thumbsticks",
-      "url": "https://www.theverge.com/tech/976972/gulikit-es-max-anti-drift-tmr-switch-2-wireless-controller-price-availability",
-      "pubDate": "2026-08-11T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Bumble now lets men make the first move",
-      "url": "https://www.theverge.com/tech/977804/bumble-dating-app-men-message-first-update",
-      "pubDate": "2026-08-11T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Spotify says it won&#8217;t recommend music from &#8216;AI Personas&#8217;",
-      "url": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
-      "pubDate": "2026-08-11T13:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Pay to Launch in India by October",
@@ -171,25 +185,11 @@
       "pubDate": "2026-08-11T12:27:32.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Claude will apply invisible watermarks to AI text and images",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
-      "pubDate": "2026-08-11T12:22:20.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Don't believe rumors that the iPhone 20 has been cancelled",
       "url": "https://appleinsider.com/articles/26/08/11/new-rumor-counters-that-all-glass-20th-anniversary-iphone-will-still-happen?utm_source=rss",
       "pubDate": "2026-08-11T12:10:55.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Joby flexes military muscle with $500 million defense acquisition",
-      "url": "https://www.theverge.com/transportation/977533/joby-resonant-sciences-acquisition-evtol",
-      "pubDate": "2026-08-11T12:00:00.000Z"
     },
     {
       "source": "9to5Mac",
@@ -211,13 +211,6 @@
       "title": "China now even less likely to solve Apple’s memory crunch",
       "url": "https://9to5mac.com/2026/08/11/china-now-even-less-likely-to-solve-apples-memory-crunch/",
       "pubDate": "2026-08-11T11:01:05.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The AI takeover of mathematics has begun",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
-      "pubDate": "2026-08-11T11:00:00.000Z"
     },
     {
       "source": "9to5Mac",
@@ -248,32 +241,11 @@
       "pubDate": "2026-08-11T02:51:13.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple’s 20th-anniversary iPhone redesign reportedly remains on track",
-      "url": "https://9to5mac.com/2026/08/10/apples-20th-anniversary-iphone-redesign-reportedly-remains-on-track/",
-      "pubDate": "2026-08-11T02:14:14.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Jefferies downgrades Apple stock, cites all-glass iPhone cancellation rumor",
-      "url": "https://9to5mac.com/2026/08/10/jefferies-downgrades-apple-stock-cites-all-glass-iphone-cancellation-rumor/",
-      "pubDate": "2026-08-11T01:27:42.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iOS 27 Hints at 'Apple Reference Image' Photo Authentication",
       "url": "https://www.macrumors.com/2026/08/10/ios-27-apple-reference-image/",
       "pubDate": "2026-08-11T00:08:29.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: August 10, 2026 – Apple Watch rumors, more",
-      "url": "https://9to5mac.com/2026/08/10/daily-august-10-2026/",
-      "pubDate": "2026-08-10T23:53:49.000Z"
     },
     {
       "source": "AppleInsider",
@@ -290,27 +262,6 @@
       "pubDate": "2026-08-10T23:33:34.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Everything New in iOS 27 Beta 5",
-      "url": "https://www.macrumors.com/2026/08/10/ios-27-beta-5-everything-new/",
-      "pubDate": "2026-08-10T22:02:30.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Mark Zuckerberg doesn’t understand how to live",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
-      "pubDate": "2026-08-10T22:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Anker&#8217;s travel charger works in almost any country and is down to $20",
-      "url": "https://www.theverge.com/gadgets/977626/anker-nano-travel-adapter-summer-travel-tech-deal-sale",
-      "pubDate": "2026-08-10T21:18:15.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) Upgrade 632: [Redacted Apple Information]",
@@ -323,20 +274,6 @@
       "title": "New in iOS 27 beta 5: 'Before Searching' settings, updated app icons, more",
       "url": "https://appleinsider.com/articles/26/08/10/new-in-ios-27-beta-5-before-searching-settings-updated-app-icons-more?utm_source=rss",
       "pubDate": "2026-08-10T21:02:25.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27 Wallet App Gets 7 New Features",
-      "url": "https://www.macrumors.com/guide/ios-27-wallet/",
-      "pubDate": "2026-08-10T20:43:48.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Kuo pours water on rumor of $1B Apple chip stockpile at TSMC",
-      "url": "https://appleinsider.com/articles/26/08/10/kuo-pours-water-on-rumor-of-1b-apple-chip-stockpile-at-tsmc?utm_source=rss",
-      "pubDate": "2026-08-10T18:59:01.000Z"
     },
     {
       "source": "AppleInsider",
@@ -353,13 +290,6 @@
       "pubDate": "2026-08-10T18:00:07.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Fifth developer betas of iOS 27, macOS 27 land as testing continues",
-      "url": "https://appleinsider.com/articles/26/08/10/fifth-developer-betas-of-ios-27-macos-27-land-as-testing-continues?utm_source=rss",
-      "pubDate": "2026-08-10T17:43:46.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Apple to air four MLB games in Immersive Video",
@@ -372,6 +302,62 @@
       "title": "App report: Listen, read… checkmate",
       "url": "https://sixcolors.com/post/2026/08/app-report-listen-read-checkmate/",
       "pubDate": "2026-08-06T19:09:47.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) Clockwise 668: Coming Soon to Pontoon Boats",
+      "url": "https://sixcolors.com/podcast/2026/08/clockwise-668-coming-soon-to-pontoon-boats/",
+      "pubDate": "2026-08-05T23:00:00.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Report: Apple’s Private Relay may not be as private as thought ↦",
+      "url": "https://sixcolors.com/link/2026/08/report-apples-private-relay-may-not-be-as-private-as-thought/",
+      "pubDate": "2026-08-05T14:42:25.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) The Rebound 610: If You’re a Robot, You Have to Tell Me",
+      "url": "https://sixcolors.com/podcast/2026/08/the-rebound-610-if-youre-a-robot-you-have-to-tell-me/",
+      "pubDate": "2026-08-05T14:00:00.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Review: “Ted Lasso” returns, refreshed, to the pitch",
+      "url": "https://sixcolors.com/post/2026/08/review-ted-lasso-returns-to-the-pitch/",
+      "pubDate": "2026-08-05T07:01:18.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Soulver 4 casts a wider calculating net",
+      "url": "https://sixcolors.com/post/2026/08/soulver-4-casts-a-wider-calculating-net/",
+      "pubDate": "2026-08-04T15:30:05.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "OpenAI: “Apple is getting this wrong” ↦",
+      "url": "https://sixcolors.com/link/2026/08/openai-apple-is-getting-this-wrong/",
+      "pubDate": "2026-08-04T13:21:12.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) Upgrade 631: Nessie Beneath the Waves",
+      "url": "https://sixcolors.com/podcast/2026/08/upgrade-631-nessie-beneath-the-waves/",
+      "pubDate": "2026-08-03T21:12:03.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Preparing for next year’s Rosetta 2 demise",
+      "url": "https://sixcolors.com/post/2026/08/preparing-for-next-years-rosetta-2-demise/",
+      "pubDate": "2026-08-03T15:30:20.000Z"
     }
   ]
 }
