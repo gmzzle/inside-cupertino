@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T16:13:12.522Z",
+  "generatedAt": "2026-08-12T17:15:45.822Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,6 +24,76 @@
   ],
   "items": [
     {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple picks up Nate Gatten as new head of government affairs",
+      "url": "https://appleinsider.com/articles/26/08/12/apple-picks-up-nate-gatten-as-new-head-of-government-affairs?utm_source=rss",
+      "pubDate": "2026-08-12T17:15:09.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Raycast adds a new way to ask AI about whatever is on your screen",
+      "url": "https://9to5mac.com/2026/08/12/raycast-adds-a-new-way-to-ask-ai-about-whatever-is-on-your-screen/",
+      "pubDate": "2026-08-12T17:12:47.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "How Google’s new Pixel 11 phones compare to last year’s models",
+      "url": "https://www.theverge.com/gadgets/975237/google-pixel-11-pro-comparison-specs-price-features",
+      "pubDate": "2026-08-12T17:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "ICE wants to give agents electrified gloves that shock people into compliance",
+      "url": "https://www.theverge.com/policy/979010/ice-agents-electric-shock-gloves",
+      "pubDate": "2026-08-12T16:58:29.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Amazon gets out of the MMO game",
+      "url": "https://www.theverge.com/tech/979070/amazon-mmo-throne-and-liberty-lost-ark-live-operations",
+      "pubDate": "2026-08-12T16:46:05.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone 18 Pro: Apple Secures Lower Display Prices Amid RAM Shortage",
+      "url": "https://www.macrumors.com/2026/08/12/iphone-18-pro-lower-oled-display-cost-report/",
+      "pubDate": "2026-08-12T16:43:14.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iPhone Ultra screen protectors have asymmetric corners",
+      "url": "https://appleinsider.com/articles/26/08/12/screen-protector-leak-shows-iphone-ultras-asymmetric-corners?utm_source=rss",
+      "pubDate": "2026-08-12T16:35:29.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Generative AI photo fakes could be exposed by new iPhone feature",
+      "url": "https://appleinsider.com/articles/26/08/12/faked-photos-could-be-shown-up-by-new-iphone-feature?utm_source=rss",
+      "pubDate": "2026-08-12T16:34:47.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Patenting Way to Improve Notification Summaries and 'Reduce Interruptions' Focus",
+      "url": "https://www.macrumors.com/2026/08/12/apple-patent-to-improve-summaries/",
+      "pubDate": "2026-08-12T16:29:09.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone Ultra's Two Selfie Cameras Could Sit in the Same Corner",
+      "url": "https://www.macrumors.com/2026/08/12/iphone-ultra-selfie-cameras-same-corner/",
+      "pubDate": "2026-08-12T16:12:42.000Z"
+    },
+    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "How the Pixel 11 Pro Fold compares to the Galaxy Z Fold 8",
@@ -36,13 +106,6 @@
       "title": "SpaceXAI releases Grok 4.6, claiming GPT-5.6 Sol and Claude Fable 5-level intelligence",
       "url": "https://9to5mac.com/2026/08/12/spacexai-releases-grok-4-6/",
       "pubDate": "2026-08-12T15:56:20.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Screen protector leak shows iPhone Ultra's asymmetric corners",
-      "url": "https://appleinsider.com/articles/26/08/12/screen-protector-leak-shows-iphone-ultras-asymmetric-corners?utm_source=rss",
-      "pubDate": "2026-08-12T15:56:18.000Z"
     },
     {
       "source": "The Verge",
@@ -85,13 +148,6 @@
       "title": "MacBook Air shortages are getting worse, here’s where to buy one",
       "url": "https://9to5mac.com/2026/08/12/macbook-air-shortages-where-to-buy-one-now/",
       "pubDate": "2026-08-12T15:07:28.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Faked photos could be shown up by new iPhone feature",
-      "url": "https://appleinsider.com/articles/26/08/12/faked-photos-could-be-shown-up-by-new-iphone-feature?utm_source=rss",
-      "pubDate": "2026-08-12T15:06:24.000Z"
     },
     {
       "source": "The Verge",
@@ -157,20 +213,6 @@
       "pubDate": "2026-08-12T14:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Android now has a tap-to-share feature",
-      "url": "https://www.theverge.com/tech/978613/android-quick-share-tap-update-pixels-samsung",
-      "pubDate": "2026-08-12T14:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Pixel Tag is Google’s answer to the AirTag",
-      "url": "https://www.theverge.com/tech/978713/google-pixel-tag-uwb-bluetooth-channel-finding-news",
-      "pubDate": "2026-08-12T14:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Skipping iPhone 18 Launch This Year",
@@ -190,13 +232,6 @@
       "title": "iPhone 18 could get two new Pro-level upgrades, per report",
       "url": "https://9to5mac.com/2026/08/12/iphone-18-could-get-two-new-pro-level-upgrades-per-report/",
       "pubDate": "2026-08-12T13:51:19.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Jaguar offers a first look inside the all-electric Type 01",
-      "url": "https://www.theverge.com/transportation/978793/jaguar-type-01-interior",
-      "pubDate": "2026-08-12T13:48:48.000Z"
     },
     {
       "source": "MacRumors",
@@ -276,13 +311,6 @@
       "pubDate": "2026-08-12T11:43:28.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Parents urged to revisit screen time limits as kids head back to school",
-      "url": "https://9to5mac.com/2026/08/12/parents-urged-to-revisit-screen-time-limits-as-kids-head-back-to-school/",
-      "pubDate": "2026-08-12T11:03:24.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Samsung is Starting to Catch Up to Apple on Hearing Health",
@@ -309,34 +337,6 @@
       "title": "Apple's Back to School offers have been extended, but you can do much better",
       "url": "https://appleinsider.com/articles/26/07/16/apples-back-to-school-offers-have-started-but-you-can-do-much-better?utm_source=rss",
       "pubDate": "2026-08-11T21:21:10.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Extends 2026 Back to School Promotion Until September 24",
-      "url": "https://www.macrumors.com/2026/08/11/apple-extends-2026-back-to-school-promo/",
-      "pubDate": "2026-08-11T20:52:37.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Grok Bot Brings Always-On AI Agents to macOS and iOS",
-      "url": "https://www.macrumors.com/2026/08/11/grok-bot-macos-ios/",
-      "pubDate": "2026-08-11T20:34:58.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Everyone at Apple is calling the foldable 'iPhone Ultra'",
-      "url": "https://appleinsider.com/articles/26/08/11/everyone-at-apple-is-calling-the-foldable-iphone-ultra?utm_source=rss",
-      "pubDate": "2026-08-11T20:28:50.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Can't Delay App Store Fee Fight While Waiting on Supreme Court",
-      "url": "https://www.macrumors.com/2026/08/11/app-store-epic-games-fee-fight-proceeds/",
-      "pubDate": "2026-08-11T19:14:01.000Z"
     },
     {
       "source": "Six Colors",
