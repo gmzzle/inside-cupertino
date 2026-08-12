@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T13:48:37.004Z",
+  "generatedAt": "2026-08-12T15:15:20.651Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,18 +24,123 @@
   ],
   "items": [
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "'Everyone' at Apple Apparently Calls Foldable 'iPhone Ultra'",
-      "url": "https://www.macrumors.com/2026/08/12/everyone-at-apple-says-iphone-ultra/",
-      "pubDate": "2026-08-12T13:47:44.000Z"
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "MacBook Air shortages are getting worse, here’s where to buy one",
+      "url": "https://9to5mac.com/2026/08/12/macbook-air-shortages-where-to-buy-one-now/",
+      "pubDate": "2026-08-12T15:07:28.000Z"
     },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Faked photos could be shown up by new iPhone feature",
       "url": "https://appleinsider.com/articles/26/08/12/faked-photos-could-be-shown-up-by-new-iphone-feature?utm_source=rss",
-      "pubDate": "2026-08-12T13:39:25.000Z"
+      "pubDate": "2026-08-12T15:06:24.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Google aims for influencers with the Pixel 11 Creator Suite",
+      "url": "https://www.theverge.com/tech/977888/pixel-creator-suite-influencer-camera-features",
+      "pubDate": "2026-08-12T14:30:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Everything announced at Made by Google 2026: Pixel 11, Pixel Watch 5, Pixel Tag, & more",
+      "url": "https://9to5google.com/2026/08/12/made-by-google-2026-announcements/",
+      "pubDate": "2026-08-12T14:18:11.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The 7 biggest announcements of Google’s Pixel 11 launch",
+      "url": "https://www.theverge.com/tech/978712/google-pixel-11-event-everything-announced",
+      "pubDate": "2026-08-12T14:15:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Vince Gilligan reveals Pluribus season 2 just hit major milestone",
+      "url": "https://9to5mac.com/2026/08/12/vince-gilligan-reveals-pluribus-season-2-just-hit-major-milestone/",
+      "pubDate": "2026-08-12T14:05:42.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Best Back to School Accessory Deals on Anker, Sony, Samsung and More This Week",
+      "url": "https://www.macrumors.com/2026/08/12/back-to-school-accessory/",
+      "pubDate": "2026-08-12T14:01:15.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Google’s Pixel 11 series pairs a little new hardware with a lot of new software",
+      "url": "https://www.theverge.com/tech/978013/google-pixel-11-series-hands-on-hardware-software",
+      "pubDate": "2026-08-12T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Google is making the Pixel cameras better by making them worse",
+      "url": "https://www.theverge.com/tech/978084/google-camera-looks-interview-computational-photography",
+      "pubDate": "2026-08-12T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
+      "url": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
+      "pubDate": "2026-08-12T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Android now has a tap-to-share feature",
+      "url": "https://www.theverge.com/tech/978613/android-quick-share-tap-update-pixels-samsung",
+      "pubDate": "2026-08-12T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The Pixel Tag is Google’s answer to the AirTag",
+      "url": "https://www.theverge.com/tech/978713/google-pixel-tag-uwb-bluetooth-channel-finding-news",
+      "pubDate": "2026-08-12T14:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Skipping iPhone 18 Launch This Year",
+      "url": "https://www.macrumors.com/2026/08/12/apple-skipping-iphone-18-launch-this-year/",
+      "pubDate": "2026-08-12T13:59:37.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple TV drops trailer and launch date for Australian thriller 'Last Seen'",
+      "url": "https://appleinsider.com/articles/26/08/12/apple-tv-drops-trailer-and-launch-date-for-australian-thriller-last-seen?utm_source=rss",
+      "pubDate": "2026-08-12T13:52:52.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone 18 could get two new Pro-level upgrades, per report",
+      "url": "https://9to5mac.com/2026/08/12/iphone-18-could-get-two-new-pro-level-upgrades-per-report/",
+      "pubDate": "2026-08-12T13:51:19.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Jaguar offers a first look inside the all-electric Type 01",
+      "url": "https://www.theverge.com/transportation/978793/jaguar-type-01-interior",
+      "pubDate": "2026-08-12T13:48:48.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "'Everyone' at Apple Apparently Calls Foldable 'iPhone Ultra'",
+      "url": "https://www.macrumors.com/2026/08/12/everyone-at-apple-says-iphone-ultra/",
+      "pubDate": "2026-08-12T13:47:13.000Z"
     },
     {
       "source": "The Verge",
@@ -87,13 +192,6 @@
       "pubDate": "2026-08-12T12:44:10.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Honor’s Robot Phone is better than a gimbal in a phone has any right to be",
-      "url": "https://www.theverge.com/gadgets/978314/honor-robot-phone-hands-on-impressions-test-gimbal-camera",
-      "pubDate": "2026-08-12T12:30:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Microsoft Edge Browser to Get Apple Account Sign-In Support",
@@ -113,20 +211,6 @@
       "title": "BOE really wants to make OLED panels for the iPad Air",
       "url": "https://appleinsider.com/articles/26/08/12/boe-really-wants-to-make-oled-panels-for-the-ipad-air?utm_source=rss",
       "pubDate": "2026-08-12T12:12:20.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
-      "pubDate": "2026-08-12T12:09:34.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Grok is now an AI ‘teammate’ you can assign work",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
-      "pubDate": "2026-08-12T11:58:54.000Z"
     },
     {
       "source": "9to5Mac",
@@ -157,13 +241,6 @@
       "pubDate": "2026-08-12T01:00:59.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
-      "url": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
-      "pubDate": "2026-08-12T00:39:26.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Microsoft Edge tests Apple Account sign-in support",
@@ -185,13 +262,6 @@
       "pubDate": "2026-08-11T22:53:16.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Xbox Elite 3 prototype pad leaks with tiny built-in screen",
-      "url": "https://www.theverge.com/games/978374/xbox-elite-3-prototype-pad-leaks-with-tiny-built-in-screen",
-      "pubDate": "2026-08-11T22:36:35.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Satechi Launches 240W ChargeView Desktop Charger With Six USB-C Ports",
@@ -204,13 +274,6 @@
       "title": "Apple extends 2026 Back to School deals on Macs and iPads until September 24",
       "url": "https://9to5mac.com/2026/08/11/apple-extends-2026-back-to-school-deals-on-macs-and-ipads-until-september-24/",
       "pubDate": "2026-08-11T21:35:29.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "An FCC filing points to new Sonos headphones coming soon",
-      "url": "https://www.theverge.com/tech/978355/sonos-headphones-fcc-filing",
-      "pubDate": "2026-08-11T21:23:30.000Z"
     },
     {
       "source": "AppleInsider",
@@ -248,39 +311,11 @@
       "pubDate": "2026-08-11T20:28:50.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone 18 Pro: Three new camera upgrades are coming",
-      "url": "https://9to5mac.com/2026/08/11/iphone-18-pro-three-new-camera-upgrades-are-coming/",
-      "pubDate": "2026-08-11T20:18:09.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Court rejects Apple’s attempt to postpone App Store fee proceedings in Epic Games case [U]",
-      "url": "https://9to5mac.com/2026/08/11/court-rejects-apples-attempt-to-postpone-app-store-fee-proceedings-in-epic-games-case/",
-      "pubDate": "2026-08-11T19:59:40.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Golf's US Open Championship could come to Apple TV in latest sports bid",
       "url": "https://appleinsider.com/articles/26/08/11/golfs-us-open-championship-could-come-to-apple-tv-in-latest-sports-bid?utm_source=rss",
       "pubDate": "2026-08-11T19:57:54.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "ChatGPT and Gemini both just passed 1 billion users",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-      "pubDate": "2026-08-11T19:41:42.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "‘Everyone’ at Apple uses iPhone Ultra name, says Mark Gurman",
-      "url": "https://9to5mac.com/2026/08/11/everyone-at-apple-uses-iphone-ultra-name-says-mark-gurman/",
-      "pubDate": "2026-08-11T19:40:15.000Z"
     },
     {
       "source": "AppleInsider",
@@ -295,41 +330,6 @@
       "title": "Apple Can't Delay App Store Fee Fight While Waiting on Supreme Court",
       "url": "https://www.macrumors.com/2026/08/11/app-store-epic-games-fee-fight-proceeds/",
       "pubDate": "2026-08-11T19:14:01.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Threads has a VR app now",
-      "url": "https://www.theverge.com/tech/978181/meta-threads-quest-vr-app",
-      "pubDate": "2026-08-11T19:10:14.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple in talks to acquire streaming rights for golf’s Open Championship: report",
-      "url": "https://9to5mac.com/2026/08/11/apple-streaming-rights-golf-open/",
-      "pubDate": "2026-08-11T19:01:16.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Releases New iOS 27 AirPods Firmware for Public Beta Testers",
-      "url": "https://www.macrumors.com/2026/08/11/apple-releases-airpods-firmware-public-beta/",
-      "pubDate": "2026-08-11T18:37:15.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Pay Chief Jennifer Bailey Retiring in October",
-      "url": "https://www.macrumors.com/2026/08/11/apple-pay-chief-retiring/",
-      "pubDate": "2026-08-11T18:19:45.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple Pay & Apple Card VP Jennifer Bailey is retiring",
-      "url": "https://appleinsider.com/articles/26/08/11/apple-pay-apple-card-vp-jennifer-bailey-is-retiring?utm_source=rss",
-      "pubDate": "2026-08-11T18:14:38.000Z"
     },
     {
       "source": "Six Colors",
