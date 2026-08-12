@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T17:15:45.822Z",
+  "generatedAt": "2026-08-12T19:27:27.676Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,11 +24,109 @@
   ],
   "items": [
     {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Eddy Cue said the thing we wanted to hear on future Ted Lasso seasons",
+      "url": "https://9to5mac.com/2026/08/12/eddy-cue-said-the-thing-we-wanted-to-hear-on-future-ted-lasso-seasons/",
+      "pubDate": "2026-08-12T19:27:21.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Twitch will train Amazon's AI on your streams unless you opt out",
+      "url": "https://appleinsider.com/articles/26/08/12/twitch-will-train-amazons-ai-on-your-streams-unless-you-opt-out?utm_source=rss",
+      "pubDate": "2026-08-12T19:12:51.000Z"
+    },
+    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple picks up Nate Gatten as new head of government affairs",
       "url": "https://appleinsider.com/articles/26/08/12/apple-picks-up-nate-gatten-as-new-head-of-government-affairs?utm_source=rss",
-      "pubDate": "2026-08-12T17:15:09.000Z"
+      "pubDate": "2026-08-12T19:10:04.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Google Unveils $29 Pixel Tag to Take On Apple's AirTag",
+      "url": "https://www.macrumors.com/2026/08/12/google-pixel-tag/",
+      "pubDate": "2026-08-12T18:52:26.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Wallet app could get new feature to manage trade-ins",
+      "url": "https://9to5mac.com/2026/08/12/apple-wallet-app-could-get-new-feature-to-manage-trade-ins/",
+      "pubDate": "2026-08-12T18:51:03.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "MLB iPhone app just got better with new CarPlay and Live Activity features",
+      "url": "https://9to5mac.com/2026/08/12/mlb-iphone-app-just-got-better-with-new-carplay-and-live-activity-features/",
+      "pubDate": "2026-08-12T18:10:42.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Wallet Could Soon Save Trade-In Quotes for 90 Days",
+      "url": "https://www.macrumors.com/2026/08/12/apple-wallet-trade-in-quotes-90-days/",
+      "pubDate": "2026-08-12T17:59:10.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "BowFlex T6 review: Apple GymKit comes home at a normal treadmill price",
+      "url": "https://9to5mac.com/2026/08/12/bowflex-t6-review-apple-gymkit-comes-home-at-a-normal-treadmill-price/",
+      "pubDate": "2026-08-12T17:55:57.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "TerminalWidget makes custom widget building easy",
+      "url": "https://sixcolors.com/post/2026/08/terminalwidget-makes-custom-widget-building-easy/",
+      "pubDate": "2026-08-12T17:53:45.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Hires Airline Exec as Vice President of Government Affairs",
+      "url": "https://www.macrumors.com/2026/08/12/apple-vice-president-government-affairs/",
+      "pubDate": "2026-08-12T17:51:08.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone 18 Pro set to become Apple’s new default model",
+      "url": "https://9to5mac.com/2026/08/12/iphone-18-pro-set-to-become-apples-new-default-model/",
+      "pubDate": "2026-08-12T17:50:20.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Google’s Pixel 11 phone preorders come with up to $350 in gift cards",
+      "url": "https://www.theverge.com/gadgets/975970/google-pixel-11-series-where-to-buy-preorder-release-date",
+      "pubDate": "2026-08-12T17:47:54.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Twitch streamers can now opt out from training Amazon’s AI",
+      "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
+      "pubDate": "2026-08-12T17:29:10.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone Ultra’s cameras might get very unorthodox placement, per leak",
+      "url": "https://9to5mac.com/2026/08/12/iphone-ultras-cameras-might-get-very-unorthodox-placement-per-leak/",
+      "pubDate": "2026-08-12T17:27:04.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple hires American Airlines exec to lead government affairs",
+      "url": "https://9to5mac.com/2026/08/12/apple-hires-american-airlines-exec-to-lead-government-affairs/",
+      "pubDate": "2026-08-12T17:19:46.000Z"
     },
     {
       "source": "9to5Mac",
@@ -63,7 +161,7 @@
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iPhone 18 Pro: Apple Secures Lower Display Prices Amid RAM Shortage",
       "url": "https://www.macrumors.com/2026/08/12/iphone-18-pro-lower-oled-display-cost-report/",
-      "pubDate": "2026-08-12T16:43:14.000Z"
+      "pubDate": "2026-08-12T16:43:06.000Z"
     },
     {
       "source": "AppleInsider",
@@ -157,25 +255,11 @@
       "pubDate": "2026-08-12T14:30:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Everything announced at Made by Google 2026: Pixel 11, Pixel Watch 5, Pixel Tag, & more",
-      "url": "https://9to5google.com/2026/08/12/made-by-google-2026-announcements/",
-      "pubDate": "2026-08-12T14:18:11.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "The 7 biggest announcements of Google’s Pixel 11 launch",
       "url": "https://www.theverge.com/tech/978712/google-pixel-11-event-everything-announced",
       "pubDate": "2026-08-12T14:15:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Vince Gilligan reveals Pluribus season 2 just hit major milestone",
-      "url": "https://9to5mac.com/2026/08/12/vince-gilligan-reveals-pluribus-season-2-just-hit-major-milestone/",
-      "pubDate": "2026-08-12T14:05:42.000Z"
     },
     {
       "source": "MacRumors",
@@ -185,31 +269,10 @@
       "pubDate": "2026-08-12T14:01:15.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Watch sleep score became more useful for me with these settings",
-      "url": "https://9to5mac.com/2026/08/12/apple-watch-sleep-score-became-more-useful-for-me-with-these-settings/",
-      "pubDate": "2026-08-12T14:00:00.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Google’s Pixel 11 series pairs a little new hardware with a lot of new software",
       "url": "https://www.theverge.com/tech/978013/google-pixel-11-series-hands-on-hardware-software",
-      "pubDate": "2026-08-12T14:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Google is making the Pixel cameras better by making them worse",
-      "url": "https://www.theverge.com/tech/978084/google-camera-looks-interview-computational-photography",
-      "pubDate": "2026-08-12T14:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
-      "url": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
       "pubDate": "2026-08-12T14:00:00.000Z"
     },
     {
@@ -225,13 +288,6 @@
       "title": "Apple TV drops trailer and launch date for Australian thriller 'Last Seen'",
       "url": "https://appleinsider.com/articles/26/08/12/apple-tv-drops-trailer-and-launch-date-for-australian-thriller-last-seen?utm_source=rss",
       "pubDate": "2026-08-12T13:52:52.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone 18 could get two new Pro-level upgrades, per report",
-      "url": "https://9to5mac.com/2026/08/12/iphone-18-could-get-two-new-pro-level-upgrades-per-report/",
-      "pubDate": "2026-08-12T13:51:19.000Z"
     },
     {
       "source": "MacRumors",
@@ -255,13 +311,6 @@
       "pubDate": "2026-08-12T13:21:05.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Foxconn used to make half its revenue from Apple; now it’s below 29%",
-      "url": "https://9to5mac.com/2026/08/12/foxconn-used-to-make-half-its-revenue-from-apple-now-its-below-29/",
-      "pubDate": "2026-08-12T13:08:09.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "'Dave the Diver' splashes onto iPhone, iPad, and Mac in September",
@@ -283,13 +332,6 @@
       "pubDate": "2026-08-12T12:27:43.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone 20 Pro’s all-glass design spotted in supply chain, says leaker",
-      "url": "https://9to5mac.com/2026/08/12/iphone-20-pros-all-glass-design-spotted-in-supply-chain-says-leaker/",
-      "pubDate": "2026-08-12T12:19:34.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "BOE really wants to make OLED panels for the iPad Air",
@@ -297,46 +339,11 @@
       "pubDate": "2026-08-12T12:12:20.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple authenticating iPhone photos is just the start",
-      "url": "https://9to5mac.com/2026/08/12/apple-authenticating-iphone-photos-is-just-the-start/",
-      "pubDate": "2026-08-12T11:51:38.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Leaker: All-Glass 2027 iPhone Still on Track Despite Cancellation Rumors",
       "url": "https://www.macrumors.com/2026/08/12/all-glass-20th-anniversary-iphone-on-track/",
       "pubDate": "2026-08-12T11:43:28.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Samsung is Starting to Catch Up to Apple on Hearing Health",
-      "url": "https://www.macrumors.com/2026/08/11/samsung-galaxy-buds-hearing-aid/",
-      "pubDate": "2026-08-12T00:01:51.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Sonos Preparing AirPods Max Rival With Voice Assistant Support",
-      "url": "https://www.macrumors.com/2026/08/11/sonos-ace-ultra/",
-      "pubDate": "2026-08-11T22:53:16.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Satechi Launches 240W ChargeView Desktop Charger With Six USB-C Ports",
-      "url": "https://www.macrumors.com/2026/08/11/satechi-240w-chargeview/",
-      "pubDate": "2026-08-11T22:30:09.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple's Back to School offers have been extended, but you can do much better",
-      "url": "https://appleinsider.com/articles/26/07/16/apples-back-to-school-offers-have-started-but-you-can-do-much-better?utm_source=rss",
-      "pubDate": "2026-08-11T21:21:10.000Z"
     },
     {
       "source": "Six Colors",
@@ -365,13 +372,6 @@
       "title": "Apple to air four MLB games in Immersive Video",
       "url": "https://sixcolors.com/post/2026/08/apple-to-air-four-mlb-games-in-immersive-video/",
       "pubDate": "2026-08-10T15:00:25.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "App report: Listen, read… checkmate",
-      "url": "https://sixcolors.com/post/2026/08/app-report-listen-read-checkmate/",
-      "pubDate": "2026-08-06T19:09:47.000Z"
     }
   ]
 }
