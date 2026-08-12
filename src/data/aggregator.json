@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T11:59:24.005Z",
+  "generatedAt": "2026-08-12T13:48:37.004Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,111 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "'Everyone' at Apple Apparently Calls Foldable 'iPhone Ultra'",
+      "url": "https://www.macrumors.com/2026/08/12/everyone-at-apple-says-iphone-ultra/",
+      "pubDate": "2026-08-12T13:47:44.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Faked photos could be shown up by new iPhone feature",
+      "url": "https://appleinsider.com/articles/26/08/12/faked-photos-could-be-shown-up-by-new-iphone-feature?utm_source=rss",
+      "pubDate": "2026-08-12T13:39:25.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Brendan Carr is one firing away from an unchecked FCC",
+      "url": "https://www.theverge.com/policy/978783/trump-fcc-nominee-quorum",
+      "pubDate": "2026-08-12T13:31:19.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iPhone 20 Pro will be bigger with familiar aspect ratios, be bezel free",
+      "url": "https://appleinsider.com/articles/26/08/12/iphone-20-pro-will-be-bigger-with-familiar-aspect-ratios-be-bezel-free?utm_source=rss",
+      "pubDate": "2026-08-12T13:25:42.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's $999 M4 Mac mini is back at Amazon, plus save on M4 Pro model",
+      "url": "https://appleinsider.com/articles/26/08/12/apples-999-m4-mac-mini-is-back-at-amazon-plus-save-on-m4-pro-model?utm_source=rss",
+      "pubDate": "2026-08-12T13:21:05.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Foxconn used to make half its revenue from Apple; now it’s below 29%",
+      "url": "https://9to5mac.com/2026/08/12/foxconn-used-to-make-half-its-revenue-from-apple-now-its-below-29/",
+      "pubDate": "2026-08-12T13:08:09.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "'Dave the Diver' splashes onto iPhone, iPad, and Mac in September",
+      "url": "https://appleinsider.com/articles/26/08/12/dave-the-diver-splashes-onto-iphone-ipad-and-mac-in-september?utm_source=rss",
+      "pubDate": "2026-08-12T13:00:12.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Insta360’s next 360-degree action cam puts bigger sensors in a smaller design",
+      "url": "https://www.theverge.com/tech/978211/insta360-x6-360-degree-action-camera-8k-price-availability",
+      "pubDate": "2026-08-12T13:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "'iPhone Ultra' Screen Protectors Reveal Asymmetric Corners",
+      "url": "https://www.macrumors.com/2026/08/12/iphone-ultra-screen-protectors-reveal-asymmetry/",
+      "pubDate": "2026-08-12T12:44:10.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Honor’s Robot Phone is better than a gimbal in a phone has any right to be",
+      "url": "https://www.theverge.com/gadgets/978314/honor-robot-phone-hands-on-impressions-test-gimbal-camera",
+      "pubDate": "2026-08-12T12:30:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Microsoft Edge Browser to Get Apple Account Sign-In Support",
+      "url": "https://www.macrumors.com/2026/08/12/microsoft-edge-browser-apple-account-sign-in/",
+      "pubDate": "2026-08-12T12:27:43.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone 20 Pro’s all-glass design spotted in supply chain, says leaker",
+      "url": "https://9to5mac.com/2026/08/12/iphone-20-pros-all-glass-design-spotted-in-supply-chain-says-leaker/",
+      "pubDate": "2026-08-12T12:19:34.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "BOE really wants to make OLED panels for the iPad Air",
+      "url": "https://appleinsider.com/articles/26/08/12/boe-really-wants-to-make-oled-panels-for-the-ipad-air?utm_source=rss",
+      "pubDate": "2026-08-12T12:12:20.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
+      "pubDate": "2026-08-12T12:09:34.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Grok is now an AI ‘teammate’ you can assign work",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
+      "pubDate": "2026-08-12T11:58:54.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -206,32 +311,11 @@
       "pubDate": "2026-08-11T19:01:16.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "AirPods Pro 3 and more just got new public beta firmware",
-      "url": "https://9to5mac.com/2026/08/11/airpods-pro-3-and-more-just-got-new-public-beta-firmware/",
-      "pubDate": "2026-08-11T18:46:28.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Releases New iOS 27 AirPods Firmware for Public Beta Testers",
       "url": "https://www.macrumors.com/2026/08/11/apple-releases-airpods-firmware-public-beta/",
       "pubDate": "2026-08-11T18:37:15.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: August 11, 2026 – iOS 27 beta 5, glass iPhone rumors",
-      "url": "https://9to5mac.com/2026/08/11/daily-august-11-2026-ios-27/",
-      "pubDate": "2026-08-11T18:35:30.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Google’s free streaming service now lets you pick shows and movies to watch",
-      "url": "https://www.theverge.com/tech/978152/google-tv-freeplay-on-demand",
-      "pubDate": "2026-08-11T18:35:16.000Z"
     },
     {
       "source": "MacRumors",
@@ -246,90 +330,6 @@
       "title": "Apple Pay & Apple Card VP Jennifer Bailey is retiring",
       "url": "https://appleinsider.com/articles/26/08/11/apple-pay-apple-card-vp-jennifer-bailey-is-retiring?utm_source=rss",
       "pubDate": "2026-08-11T18:14:38.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Amazon Offers AirPods Max 2 for $100 Off in All Five Colors",
-      "url": "https://www.macrumors.com/2026/08/11/100-off-airpods-max-2/",
-      "pubDate": "2026-08-11T18:12:09.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Another OpenAI executive takes off",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
-      "pubDate": "2026-08-11T17:50:01.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Steve Wozniak gave Apple its soul before Steve Jobs made it a hit",
-      "url": "https://appleinsider.com/articles/26/07/24/steve-wozniak-gave-apple-its-soul-before-steve-jobs-made-it-a-hit?utm_source=rss",
-      "pubDate": "2026-08-11T17:46:33.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The budget-friendly Pixel Buds 2a are even cheaper right now",
-      "url": "https://www.theverge.com/gadgets/977929/pixel-buds-2a-starfox-switch-deal-sale",
-      "pubDate": "2026-08-11T17:31:06.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Third macOS Golden Gate Public Beta Now Available",
-      "url": "https://www.macrumors.com/2026/08/11/macos-27-public-beta-3/",
-      "pubDate": "2026-08-11T17:26:26.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Third iOS 27 and iPadOS 27 Public Betas Now Available",
-      "url": "https://www.macrumors.com/2026/08/11/apple-releases-ios-27-public-beta-3/",
-      "pubDate": "2026-08-11T17:22:29.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iOS 27 celebrates your friends' birthdays with fireworks",
-      "url": "https://appleinsider.com/articles/26/08/11/ios-27-celebrates-your-friends-birthdays-with-fireworks?utm_source=rss",
-      "pubDate": "2026-08-11T17:16:38.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple stocking up on OLED screens to offset RAM and SSD prices",
-      "url": "https://appleinsider.com/articles/26/08/11/apple-stocking-up-on-oled-screens-to-offset-ram-and-ssd-prices?utm_source=rss",
-      "pubDate": "2026-08-11T17:09:22.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Google’s upcoming Pixel phones are for the fans, even if its launch event isn’t",
-      "url": "https://www.theverge.com/tech/977844/made-by-google-pixel-11-launch-power-users-notification-led",
-      "pubDate": "2026-08-11T17:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Made by Google 2026: all the Pixel news and announcements",
-      "url": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
-      "pubDate": "2026-08-11T17:00:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Save up to $5,000 on LG OLED TVs, 32\" UltraFine 6K monitor plunges to $1,099",
-      "url": "https://appleinsider.com/articles/26/08/11/save-up-to-5000-on-lg-oled-tvs-32-ultrafine-6k-monitor-plunges-to-1099?utm_source=rss",
-      "pubDate": "2026-08-11T15:59:18.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "First hints emerge about how much extra Apple Intelligence features will cost",
-      "url": "https://appleinsider.com/articles/26/08/11/first-hints-emerge-about-how-much-extra-apple-intelligence-features-will-cost?utm_source=rss",
-      "pubDate": "2026-08-11T14:44:27.000Z"
     },
     {
       "source": "Six Colors",
