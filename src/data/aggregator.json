@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T22:03:25.060Z",
+  "generatedAt": "2026-08-12T23:02:26.780Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "WhatsApp starts rolling out username support when creating new contacts",
+      "url": "https://9to5mac.com/2026/08/12/whatsapp-starts-rolling-out-username-support-when-creating-new-contacts/",
+      "pubDate": "2026-08-12T22:50:12.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Google's $100 Pixel Price Hike and Trade-In Push Hint at Apple's iPhone 18 Pro Plans",
+      "url": "https://www.macrumors.com/2026/08/12/google-pixel-price-hike/",
+      "pubDate": "2026-08-12T22:48:51.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Everything Google announced: Pixel 11, Pixel Tag, Pixel Watch 11, more",
+      "url": "https://appleinsider.com/articles/26/08/12/everything-google-announced-pixel-11-pixel-tag-pixel-watch-11-more?utm_source=rss",
+      "pubDate": "2026-08-12T22:20:52.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) Clockwise 669: I Love a Good Donut",
+      "url": "https://sixcolors.com/podcast/2026/08/clockwise-669-i-love-a-good-donut/",
+      "pubDate": "2026-08-12T22:20:24.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -227,13 +255,6 @@
       "pubDate": "2026-08-12T17:27:04.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple hires American Airlines exec to lead government affairs",
-      "url": "https://9to5mac.com/2026/08/12/apple-hires-american-airlines-exec-to-lead-government-affairs/",
-      "pubDate": "2026-08-12T17:19:46.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "How Google’s new Pixel 11 phones compare to last year’s models",
@@ -346,32 +367,11 @@
       "pubDate": "2026-08-12T13:21:05.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "'Dave the Diver' splashes onto iPhone, iPad, and Mac in September",
-      "url": "https://appleinsider.com/articles/26/08/12/dave-the-diver-splashes-onto-iphone-ipad-and-mac-in-september?utm_source=rss",
-      "pubDate": "2026-08-12T13:00:12.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "'iPhone Ultra' Screen Protectors Reveal Asymmetric Corners",
       "url": "https://www.macrumors.com/2026/08/12/iphone-ultra-screen-protectors-reveal-asymmetry/",
       "pubDate": "2026-08-12T12:44:10.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Microsoft Edge Browser to Get Apple Account Sign-In Support",
-      "url": "https://www.macrumors.com/2026/08/12/microsoft-edge-browser-apple-account-sign-in/",
-      "pubDate": "2026-08-12T12:27:43.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) The Rebound 611: Don’t You Dare Put That in Titles",
-      "url": "https://sixcolors.com/podcast/2026/08/the-rebound-611-dont-you-dare-put-that-in-titles/",
-      "pubDate": "2026-08-11T14:00:00.000Z"
     }
   ]
 }
