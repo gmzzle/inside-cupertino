@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T19:27:27.676Z",
+  "generatedAt": "2026-08-12T21:04:13.758Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,62 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Report: US smartphone sales fell 5% in Q2 2026 as prices keep climbing",
+      "url": "https://9to5mac.com/2026/08/12/report-us-smartphone-sales-fell-5-in-q2-2026-as-prices-keep-climbing/",
+      "pubDate": "2026-08-12T21:01:51.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Google Kicks Off Fall Hardware Season With New Pixel 11 Smartphones",
+      "url": "https://www.macrumors.com/2026/08/12/google-pixel-11-lineup/",
+      "pubDate": "2026-08-12T20:59:10.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Claude’s Chrome side panel is now a full Cowork session",
+      "url": "https://9to5mac.com/2026/08/12/claude-cowork-chrome/",
+      "pubDate": "2026-08-12T20:46:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iPhone 17 Pro vs Google Pixel 11 Pro: Tech titan flagships compared",
+      "url": "https://appleinsider.com/inside/iphone-17/vs/iphone-17-pro-vs-google-pixel-11-pro-tech-titan-flagships-compared?utm_source=rss",
+      "pubDate": "2026-08-12T20:20:27.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple billboard featuring toddler with iPhone causes controversy in Italy",
+      "url": "https://9to5mac.com/2026/08/12/apple-billboard-featuring-toddler-with-iphone-causes-controversy-in-italy/",
+      "pubDate": "2026-08-12T20:16:03.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "watchOS 27 will add two new apps to your Apple Watch",
+      "url": "https://9to5mac.com/2026/08/12/watchos-27-will-add-two-new-apps-to-your-apple-watch/",
+      "pubDate": "2026-08-12T20:15:16.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The next big indie game publisher is taking some exciting swings",
+      "url": "https://www.theverge.com/games/977985/kinetic-publishing-showcase-sam-barlow-precognition",
+      "pubDate": "2026-08-12T19:30:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "It looks like Apple&#8217;s iPhone 18 really will skip the fall launch this year",
+      "url": "https://www.theverge.com/tech/979231/apple-base-iphone-18-launch-delayed",
+      "pubDate": "2026-08-12T19:27:47.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -199,13 +255,6 @@
       "pubDate": "2026-08-12T16:00:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "SpaceXAI releases Grok 4.6, claiming GPT-5.6 Sol and Claude Fable 5-level intelligence",
-      "url": "https://9to5mac.com/2026/08/12/spacexai-releases-grok-4-6/",
-      "pubDate": "2026-08-12T15:56:20.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Guitar company D’Addario admits that AI music was used in a promotional video",
@@ -227,27 +276,6 @@
       "pubDate": "2026-08-12T15:32:32.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: M5 Pro MacBook Pro up to $540 off, M5 MacBook Air from $1,099, Apple Watch Ultra 3, MagSafe chargers, more",
-      "url": "https://9to5mac.com/2026/08/12/deals-m5-pro-macbook-airpods-pro-3-apple-watch-ultra-3/",
-      "pubDate": "2026-08-12T15:30:56.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 gives Apple Calendar my favorite new Home Screen upgrade",
-      "url": "https://9to5mac.com/2026/08/12/ios-27-gives-apple-calendar-my-favorite-new-home-screen-upgrade/",
-      "pubDate": "2026-08-12T15:22:20.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "MacBook Air shortages are getting worse, here’s where to buy one",
-      "url": "https://9to5mac.com/2026/08/12/macbook-air-shortages-where-to-buy-one-now/",
-      "pubDate": "2026-08-12T15:07:28.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Google aims for influencers with the Pixel 11 Creator Suite",
@@ -255,25 +283,11 @@
       "pubDate": "2026-08-12T14:30:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The 7 biggest announcements of Google’s Pixel 11 launch",
-      "url": "https://www.theverge.com/tech/978712/google-pixel-11-event-everything-announced",
-      "pubDate": "2026-08-12T14:15:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Best Back to School Accessory Deals on Anker, Sony, Samsung and More This Week",
       "url": "https://www.macrumors.com/2026/08/12/back-to-school-accessory/",
       "pubDate": "2026-08-12T14:01:15.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Google’s Pixel 11 series pairs a little new hardware with a lot of new software",
-      "url": "https://www.theverge.com/tech/978013/google-pixel-11-series-hands-on-hardware-software",
-      "pubDate": "2026-08-12T14:00:00.000Z"
     },
     {
       "source": "MacRumors",
@@ -339,13 +353,6 @@
       "pubDate": "2026-08-12T12:12:20.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Leaker: All-Glass 2027 iPhone Still on Track Despite Cancellation Rumors",
-      "url": "https://www.macrumors.com/2026/08/12/all-glass-20th-anniversary-iphone-on-track/",
-      "pubDate": "2026-08-12T11:43:28.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) The Rebound 611: Don’t You Dare Put That in Titles",
@@ -365,13 +372,6 @@
       "title": "Recovery Key storage transition highlights Apple’s privacy and obscurity",
       "url": "https://sixcolors.com/post/2026/08/recovery-key-storage-transition-hightlights-apples-privacy-and-obscurity/",
       "pubDate": "2026-08-10T18:00:07.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Apple to air four MLB games in Immersive Video",
-      "url": "https://sixcolors.com/post/2026/08/apple-to-air-four-mlb-games-in-immersive-video/",
-      "pubDate": "2026-08-10T15:00:25.000Z"
     }
   ]
 }
