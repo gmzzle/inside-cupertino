@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T00:00:28.354Z",
+  "generatedAt": "2026-08-12T02:45:34.623Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Women in Blue’s second season premieres on Apple TV",
+      "url": "https://9to5mac.com/2026/08/11/women-in-blues-second-season-premieres-on-apple-tv/",
+      "pubDate": "2026-08-12T01:00:59.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
+      "url": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+      "pubDate": "2026-08-12T00:39:26.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Microsoft Edge tests Apple Account sign-in support",
+      "url": "https://9to5mac.com/2026/08/11/microsoft-edge-tests-apple-account-sign-in-support/",
+      "pubDate": "2026-08-12T00:11:30.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Samsung is Starting to Catch Up to Apple on Hearing Health",
+      "url": "https://www.macrumors.com/2026/08/11/samsung-galaxy-buds-hearing-aid/",
+      "pubDate": "2026-08-12T00:01:51.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -103,7 +131,7 @@
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
-      "title": "Court rejects Apple’s attempt to postpone App Store fee proceedings in Epic Games case",
+      "title": "Court rejects Apple’s attempt to postpone App Store fee proceedings in Epic Games case [U]",
       "url": "https://9to5mac.com/2026/08/11/court-rejects-apples-attempt-to-postpone-app-store-fee-proceedings-in-epic-games-case/",
       "pubDate": "2026-08-11T19:59:40.000Z"
     },
@@ -234,13 +262,6 @@
       "pubDate": "2026-08-11T17:46:33.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "watchOS 27 will upgrade popular Apple Watch face with new options, per leak",
-      "url": "https://9to5mac.com/2026/08/11/watchos-27-will-upgrade-popular-apple-watch-face-with-new-options-per-leak/",
-      "pubDate": "2026-08-11T17:39:10.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "The budget-friendly Pixel Buds 2a are even cheaper right now",
@@ -253,13 +274,6 @@
       "title": "Third macOS Golden Gate Public Beta Now Available",
       "url": "https://www.macrumors.com/2026/08/11/macos-27-public-beta-3/",
       "pubDate": "2026-08-11T17:26:26.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple rolls out macOS 27 Golden Gate public beta 3, here’s how to install it",
-      "url": "https://9to5mac.com/2026/08/11/apple-rolls-out-macos-27-golden-gate-public-beta-3-heres-how-to-install-it/",
-      "pubDate": "2026-08-11T17:25:20.000Z"
     },
     {
       "source": "MacRumors",
@@ -304,20 +318,6 @@
       "pubDate": "2026-08-11T17:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple could help you prove your iPhone photos aren’t deepfakes",
-      "url": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata",
-      "pubDate": "2026-08-11T16:19:15.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Now Stockpiling More Components Amid Rising Prices",
-      "url": "https://www.macrumors.com/2026/08/11/apple-now-stockpiling-more-components/",
-      "pubDate": "2026-08-11T16:00:32.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Save up to $5,000 on LG OLED TVs, 32\" UltraFine 6K monitor plunges to $1,099",
@@ -346,13 +346,6 @@
       "pubDate": "2026-08-11T13:34:29.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Unreleased iPhones again revealed in the latest iOS developer beta",
-      "url": "https://appleinsider.com/articles/26/08/11/unreleased-iphones-again-revealed-in-the-latest-ios-developer-beta?utm_source=rss",
-      "pubDate": "2026-08-11T13:14:02.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) Upgrade 632: [Redacted Apple Information]",
@@ -372,6 +365,13 @@
       "title": "Apple to air four MLB games in Immersive Video",
       "url": "https://sixcolors.com/post/2026/08/apple-to-air-four-mlb-games-in-immersive-video/",
       "pubDate": "2026-08-10T15:00:25.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "App report: Listen, read… checkmate",
+      "url": "https://sixcolors.com/post/2026/08/app-report-listen-read-checkmate/",
+      "pubDate": "2026-08-06T19:09:47.000Z"
     }
   ]
 }
