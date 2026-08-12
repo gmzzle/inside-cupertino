@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T23:02:26.780Z",
+  "generatedAt": "2026-08-12T23:58:57.032Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,6 +24,27 @@
   ],
   "items": [
     {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Supreme Court Lets Apple Delay App Store Fee Fight for 24 Hours",
+      "url": "https://www.macrumors.com/2026/08/12/app-store-fee-fight-24-hour-delay/",
+      "pubDate": "2026-08-12T23:21:23.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: August 12, 2026 – Apple exec changes, more",
+      "url": "https://9to5mac.com/2026/08/12/daily-august-12-2026/",
+      "pubDate": "2026-08-12T23:19:20.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Report: Apple seeks publisher deals to give Siri AI better access to current events",
+      "url": "https://9to5mac.com/2026/08/12/report-apple-seeks-publisher-deals-to-give-siri-ai-better-access-to-current-events/",
+      "pubDate": "2026-08-12T23:14:20.000Z"
+    },
+    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "WhatsApp starts rolling out username support when creating new contacts",
@@ -45,25 +66,11 @@
       "pubDate": "2026-08-12T22:20:52.000Z"
     },
     {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) Clockwise 669: I Love a Good Donut",
-      "url": "https://sixcolors.com/podcast/2026/08/clockwise-669-i-love-a-good-donut/",
-      "pubDate": "2026-08-12T22:20:24.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple fails to delay filing new App Store fees to court as Epic battle continues",
       "url": "https://appleinsider.com/articles/26/08/11/apple-fails-to-delay-filing-new-app-store-fees-to-court-as-epic-battle-continues?utm_source=rss",
       "pubDate": "2026-08-12T21:57:16.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "MLB hires indie Mosaic app developer",
-      "url": "https://sixcolors.com/post/2026/08/mlb-hires-indie-mosaic-app-developer/",
-      "pubDate": "2026-08-12T21:50:34.000Z"
     },
     {
       "source": "9to5Mac",
@@ -213,25 +220,11 @@
       "pubDate": "2026-08-12T17:55:57.000Z"
     },
     {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "TerminalWidget makes custom widget building easy",
-      "url": "https://sixcolors.com/post/2026/08/terminalwidget-makes-custom-widget-building-easy/",
-      "pubDate": "2026-08-12T17:53:45.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Hires Airline Exec as Vice President of Government Affairs",
       "url": "https://www.macrumors.com/2026/08/12/apple-vice-president-government-affairs/",
       "pubDate": "2026-08-12T17:51:08.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone 18 Pro set to become Apple’s new default model",
-      "url": "https://9to5mac.com/2026/08/12/iphone-18-pro-set-to-become-apples-new-default-model/",
-      "pubDate": "2026-08-12T17:50:20.000Z"
     },
     {
       "source": "The Verge",
@@ -246,13 +239,6 @@
       "title": "Twitch streamers can now opt out from training Amazon’s AI",
       "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
       "pubDate": "2026-08-12T17:29:10.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone Ultra’s cameras might get very unorthodox placement, per leak",
-      "url": "https://9to5mac.com/2026/08/12/iphone-ultras-cameras-might-get-very-unorthodox-placement-per-leak/",
-      "pubDate": "2026-08-12T17:27:04.000Z"
     },
     {
       "source": "The Verge",
@@ -318,13 +304,6 @@
       "pubDate": "2026-08-12T15:48:10.000Z"
     },
     {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "App report: Talk back and track on a Mac",
-      "url": "https://sixcolors.com/post/2026/08/app-report-talk-back-and-track-on-a-mac/",
-      "pubDate": "2026-08-12T15:32:32.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Best Back to School Accessory Deals on Anker, Sony, Samsung and More This Week",
@@ -365,13 +344,6 @@
       "title": "Apple's $999 M4 Mac mini is back at Amazon, plus save on M4 Pro model",
       "url": "https://appleinsider.com/articles/26/08/12/apples-999-m4-mac-mini-is-back-at-amazon-plus-save-on-m4-pro-model?utm_source=rss",
       "pubDate": "2026-08-12T13:21:05.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "'iPhone Ultra' Screen Protectors Reveal Asymmetric Corners",
-      "url": "https://www.macrumors.com/2026/08/12/iphone-ultra-screen-protectors-reveal-asymmetry/",
-      "pubDate": "2026-08-12T12:44:10.000Z"
     }
   ]
 }
