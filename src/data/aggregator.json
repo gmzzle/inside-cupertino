@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T10:26:54.763Z",
+  "generatedAt": "2026-08-12T11:59:24.005Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple authenticating iPhone photos is just the start",
+      "url": "https://9to5mac.com/2026/08/12/apple-authenticating-iphone-photos-is-just-the-start/",
+      "pubDate": "2026-08-12T11:51:38.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Leaker: All-Glass 2027 iPhone Still on Track Despite Cancellation Rumors",
+      "url": "https://www.macrumors.com/2026/08/12/all-glass-20th-anniversary-iphone-on-track/",
+      "pubDate": "2026-08-12T11:43:28.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Parents urged to revisit screen time limits as kids head back to school",
+      "url": "https://9to5mac.com/2026/08/12/parents-urged-to-revisit-screen-time-limits-as-kids-head-back-to-school/",
+      "pubDate": "2026-08-12T11:03:24.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -227,25 +248,11 @@
       "pubDate": "2026-08-11T18:14:38.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Pay and Wallet leader retiring after two decades at Apple",
-      "url": "https://9to5mac.com/2026/08/11/apple-pay-and-wallet-leader-retiring-after-two-decades-at-apple/",
-      "pubDate": "2026-08-11T18:14:08.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Amazon Offers AirPods Max 2 for $100 Off in All Five Colors",
       "url": "https://www.macrumors.com/2026/08/11/100-off-airpods-max-2/",
       "pubDate": "2026-08-11T18:12:09.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 beta 5 lets you make Liquid Glass more transparent than ever",
-      "url": "https://9to5mac.com/2026/08/11/ios-27-beta-5-lets-you-make-liquid-glass-more-transparent-than-ever/",
-      "pubDate": "2026-08-11T18:07:12.000Z"
     },
     {
       "source": "The Verge",
@@ -281,13 +288,6 @@
       "title": "Third iOS 27 and iPadOS 27 Public Betas Now Available",
       "url": "https://www.macrumors.com/2026/08/11/apple-releases-ios-27-public-beta-3/",
       "pubDate": "2026-08-11T17:22:29.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "tvOS 27 and watchOS 27 Third Public Betas Now Available",
-      "url": "https://www.macrumors.com/2026/08/11/apple-releases-watchos-27-b3/",
-      "pubDate": "2026-08-11T17:20:00.000Z"
     },
     {
       "source": "AppleInsider",
