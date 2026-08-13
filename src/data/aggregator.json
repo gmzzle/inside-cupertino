@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T15:15:51.805Z",
+  "generatedAt": "2026-08-13T17:14:03.518Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,90 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "MacBook Neo 2 will get the big upgrade it needs most, per rumors",
+      "url": "https://9to5mac.com/2026/08/13/macbook-neo-2-will-get-the-big-upgrade-it-needs-most-per-rumors/",
+      "pubDate": "2026-08-13T17:12:58.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Deals: Amazon slashes up to $190 off Beats, Nomad iPhone cases as low as $19",
+      "url": "https://appleinsider.com/articles/26/08/13/deals-amazon-slashes-up-to-190-off-beats-nomad-iphone-cases-as-low-as-19?utm_source=rss",
+      "pubDate": "2026-08-13T17:03:13.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "OpenAI previews ‘Ultrafast’ GPT-5.6 Sol running up to 14 times faster",
+      "url": "https://9to5mac.com/2026/08/13/openai-previews-ultrafast-gpt-5-6-sol-running-up-to-14-times-faster/",
+      "pubDate": "2026-08-13T17:02:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple Glasses could chime when recording, but only for the wearer",
+      "url": "https://appleinsider.com/articles/26/08/13/apple-glasses-could-chime-when-recording-but-only-for-the-wearer?utm_source=rss",
+      "pubDate": "2026-08-13T16:59:40.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "2K launches new studio to build its &#8216;next blockbuster sports franchise&#8217;",
+      "url": "https://www.theverge.com/games/979689/2k-sports-franchise-small-axe-studios-soccer",
+      "pubDate": "2026-08-13T16:38:15.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Ford’s $28,000 Fathom EV nears production after $2 billion factory overhaul",
+      "url": "https://www.theverge.com/transportation/979565/ford-fathom-uev-louisville-assembly-plant",
+      "pubDate": "2026-08-13T16:23:18.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Meta adds AI screening to detect WhatsApp scams",
+      "url": "https://www.theverge.com/tech/979654/meta-whatsapp-scam-message-detection",
+      "pubDate": "2026-08-13T16:10:06.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The Corvette Grand Sport X delivers Porsche 911 performance for a fraction of the price",
+      "url": "https://www.theverge.com/transportation/979125/corvette-grand-sport-x-review-specs-price",
+      "pubDate": "2026-08-13T16:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Suno is trying to look more like a real music production tool",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
+      "pubDate": "2026-08-13T16:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "I looked inside an AI generated movie, and the best parts were all human",
+      "url": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list",
+      "pubDate": "2026-08-13T15:30:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Deals: AirPods Pro 3, M5 MacBook Air $270 off, UWB smart lock, Thunderbolt 5 dock, Nomad cases from $17, more",
+      "url": "https://9to5mac.com/2026/08/13/deals-airpods-pro-3-m5-macbook-air-thunderbolt-5-dock/",
+      "pubDate": "2026-08-13T15:28:02.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "App Store review is broken in a time where it is needed the most",
+      "url": "https://appleinsider.com/articles/26/08/13/app-store-review-is-broken-in-a-time-where-it-is-needed-the-most?utm_source=rss",
+      "pubDate": "2026-08-13T15:21:51.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -50,6 +134,13 @@
       "title": "Will the iPhone Ultra avoid the issue that can still kill Samsung foldables?",
       "url": "https://9to5mac.com/2026/08/13/will-the-iphone-ultra-avoid-the-issue-that-can-still-kill-samsung-foldables/",
       "pubDate": "2026-08-13T15:00:37.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Two affordable iPhone 17 Pro accessories worth trying",
+      "url": "https://9to5mac.com/2026/08/13/two-affordable-iphone-17-pro-accessories-worth-trying/",
+      "pubDate": "2026-08-13T15:00:00.000Z"
     },
     {
       "source": "The Verge",
@@ -108,20 +199,6 @@
       "pubDate": "2026-08-13T14:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Wearables are getting a taste of much-needed minimalism",
-      "url": "https://www.theverge.com/column/978295/optimizer-screenless-wearables-fitness-trackers-smart-rings",
-      "pubDate": "2026-08-13T14:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Samsung&#8217;s $1,900 Z Fold 8 is still vulnerable to pocket lint",
-      "url": "https://www.theverge.com/tech/979421/ifixit-samsung-galaxy-z-fold-8-hinge",
-      "pubDate": "2026-08-13T14:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Amazon Discounts Every 2026 MacBook Pro With Up to $500 Off",
@@ -136,13 +213,6 @@
       "pubDate": "2026-08-13T13:31:09.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Microsoft is combining its Copilot apps ahead of a ‘super app’",
-      "url": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience",
-      "pubDate": "2026-08-13T13:30:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple TV Gains Classic Movies Collection",
@@ -155,20 +225,6 @@
       "title": "Fake GitHub download turns Safari & Chrome into a Keychain data stealer",
       "url": "https://appleinsider.com/articles/26/08/13/fake-github-download-turns-safari-chrome-into-a-keychain-data-stealer?utm_source=rss",
       "pubDate": "2026-08-13T13:02:08.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Nintendo’s next Fire Emblem has a bold new structure",
-      "url": "https://www.theverge.com/games/977955/fire-emblem-fortunes-weave-preview-impressions-nintendo-switch-2",
-      "pubDate": "2026-08-13T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Flock CEO: ‘We got this one wrong’",
-      "url": "https://www.theverge.com/policy/979339/flock-ceo-audits-data-retention",
-      "pubDate": "2026-08-13T13:00:00.000Z"
     },
     {
       "source": "MacRumors",
@@ -241,20 +297,6 @@
       "pubDate": "2026-08-13T08:42:12.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple TV just added a bunch of classic movies to stream for free",
-      "url": "https://9to5mac.com/2026/08/12/apple-tv-just-added-a-bunch-of-classic-movies-to-stream-for-free/",
-      "pubDate": "2026-08-13T06:42:56.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple TV publishes the trailer for Stillwater’s fifth season",
-      "url": "https://9to5mac.com/2026/08/12/apple-tv-publishes-the-trailer-for-stillwaters-fifth-season/",
-      "pubDate": "2026-08-13T02:14:55.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Siri AI could get a boost from news content with new publisher deal",
@@ -273,21 +315,7 @@
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Supreme Court Lets Apple Delay App Store Fee Fight for 24 Hours",
       "url": "https://www.macrumors.com/2026/08/12/app-store-fee-fight-24-hour-delay/",
-      "pubDate": "2026-08-12T23:21:23.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: August 12, 2026 – Apple exec changes, more",
-      "url": "https://9to5mac.com/2026/08/12/daily-august-12-2026/",
-      "pubDate": "2026-08-12T23:19:20.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Report: Apple seeks publisher deals to give Siri AI better access to current events",
-      "url": "https://9to5mac.com/2026/08/12/report-apple-seeks-publisher-deals-to-give-siri-ai-better-access-to-current-events/",
-      "pubDate": "2026-08-12T23:14:20.000Z"
+      "pubDate": "2026-08-12T23:21:10.000Z"
     },
     {
       "source": "MacRumors",
@@ -311,13 +339,6 @@
       "pubDate": "2026-08-12T22:20:24.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Final countdown for Apple to produce App Store commission plan begins",
-      "url": "https://appleinsider.com/articles/26/08/11/apple-fails-to-delay-filing-new-app-store-fees-to-court-as-epic-battle-continues?utm_source=rss",
-      "pubDate": "2026-08-12T21:57:16.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "MLB hires indie Mosaic app developer",
@@ -325,32 +346,11 @@
       "pubDate": "2026-08-12T21:50:34.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Pixel 11 event live blog: Let&#8217;s watch Trevor Noah introduce Google&#8217;s new phones",
-      "url": "https://www.theverge.com/tech/979241/made-by-google-2026-live-blog-pixel-11-trevor-noah",
-      "pubDate": "2026-08-12T21:30:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPhone 17 vs Google Pixel 11: The standard models, compared",
-      "url": "https://appleinsider.com/inside/iphone-17/vs/iphone-17-vs-google-pixel-11-the-standard-models-compared?utm_source=rss",
-      "pubDate": "2026-08-12T21:11:28.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Google Kicks Off Fall Hardware Season With New Pixel 11 Smartphones",
       "url": "https://www.macrumors.com/2026/08/12/google-pixel-11-lineup/",
       "pubDate": "2026-08-12T20:59:10.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPhone 17 Pro vs Google Pixel 11 Pro: Tech titan flagships compared",
-      "url": "https://appleinsider.com/inside/iphone-17/vs/iphone-17-pro-vs-google-pixel-11-pro-tech-titan-flagships-compared?utm_source=rss",
-      "pubDate": "2026-08-12T20:20:27.000Z"
     },
     {
       "source": "Six Colors",
