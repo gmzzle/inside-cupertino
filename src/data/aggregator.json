@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T13:49:18.293Z",
+  "generatedAt": "2026-08-13T15:15:51.805Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,111 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Three new iPhones launch next month, here’s what’s coming",
+      "url": "https://9to5mac.com/2026/08/13/three-new-iphones-launch-next-month-heres-whats-coming/",
+      "pubDate": "2026-08-13T15:14:23.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's 1TB M5 MacBook Air with 24GB RAM drops to $1,649 in latest price war",
+      "url": "https://appleinsider.com/articles/26/08/13/apples-1tb-m5-macbook-air-with-24gb-ram-drops-to-1649-in-latest-price-war?utm_source=rss",
+      "pubDate": "2026-08-13T15:04:59.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "This is Instagram&#8217;s new logo",
+      "url": "https://www.theverge.com/tech/979583/this-is-instagrams-new-logo",
+      "pubDate": "2026-08-13T15:00:38.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Will the iPhone Ultra avoid the issue that can still kill Samsung foldables?",
+      "url": "https://9to5mac.com/2026/08/13/will-the-iphone-ultra-avoid-the-issue-that-can-still-kill-samsung-foldables/",
+      "pubDate": "2026-08-13T15:00:37.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Wolverine on the PS5 made me care about Marvel’s mutant for the first time",
+      "url": "https://www.theverge.com/games/977564/marvels-wolverine-ps5-preview-character-combat",
+      "pubDate": "2026-08-13T15:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "New Apple TV 4K: Everything we know about Apple’s 2026 upgrade",
+      "url": "https://9to5mac.com/2026/08/13/new-apple-tv-4k-2026-release-date-features-price/",
+      "pubDate": "2026-08-13T14:30:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 gives Apple Photos two features we’ve waited a long time for",
+      "url": "https://9to5mac.com/2026/08/13/ios-27-gives-apple-photos-two-features-weve-waited-a-long-time-for/",
+      "pubDate": "2026-08-13T14:15:07.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's first foldable iPhone won't arrive everywhere in September",
+      "url": "https://appleinsider.com/articles/26/08/13/apples-first-foldable-iphone-wont-arrive-everywhere-in-september?utm_source=rss",
+      "pubDate": "2026-08-13T14:13:27.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone 18 Pro and iPhone Ultra: When is the Next Apple Event?",
+      "url": "https://www.macrumors.com/2026/08/13/when-is-iphone-18-pro-iphone-ultra-apple-event/",
+      "pubDate": "2026-08-13T14:11:35.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Does Google even want to win at AI?",
+      "url": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
+      "pubDate": "2026-08-13T14:10:31.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "PSA: Setting different default languages in different Mac apps",
+      "url": "https://9to5mac.com/2026/08/13/psa-setting-different-default-languages-in-different-mac-apps/",
+      "pubDate": "2026-08-13T14:01:45.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Rivian is finally getting a long-requested feature — and no, it’s not CarPlay",
+      "url": "https://www.theverge.com/transportation/978093/rivian-r1s-r1t-2027-captains-chairs",
+      "pubDate": "2026-08-13T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Wearables are getting a taste of much-needed minimalism",
+      "url": "https://www.theverge.com/column/978295/optimizer-screenless-wearables-fitness-trackers-smart-rings",
+      "pubDate": "2026-08-13T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Samsung&#8217;s $1,900 Z Fold 8 is still vulnerable to pocket lint",
+      "url": "https://www.theverge.com/tech/979421/ifixit-samsung-galaxy-z-fold-8-hinge",
+      "pubDate": "2026-08-13T14:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Amazon Discounts Every 2026 MacBook Pro With Up to $500 Off",
+      "url": "https://www.macrumors.com/2026/08/13/2026-macbook-pro-up-to-500-off/",
+      "pubDate": "2026-08-13T13:59:26.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -68,7 +173,7 @@
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
-      "title": "'iPhone Ultra' Could Face Staggered Country Rollout Like Vision Pro",
+      "title": "'iPhone Ultra' Could Face Staggered Market Rollout, US Only at Launch",
       "url": "https://www.macrumors.com/2026/08/13/iphone-ultra-staggered-country-rollout/",
       "pubDate": "2026-08-13T12:56:51.000Z"
     },
@@ -185,13 +290,6 @@
       "pubDate": "2026-08-12T23:14:20.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "WhatsApp starts rolling out username support when creating new contacts",
-      "url": "https://9to5mac.com/2026/08/12/whatsapp-starts-rolling-out-username-support-when-creating-new-contacts/",
-      "pubDate": "2026-08-12T22:50:12.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Google's $100 Pixel Price Hike and Trade-In Push Hint at Apple's iPhone 18 Pro Plans",
@@ -227,25 +325,11 @@
       "pubDate": "2026-08-12T21:50:34.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple wins temporary Supreme Court pause in Epic Games proceedings",
-      "url": "https://9to5mac.com/2026/08/12/apple-wins-temporary-supreme-court-pause-in-epic-games-proceedings/",
-      "pubDate": "2026-08-12T21:45:16.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Pixel 11 event live blog: Let&#8217;s watch Trevor Noah introduce Google&#8217;s new phones",
       "url": "https://www.theverge.com/tech/979241/made-by-google-2026-live-blog-pixel-11-trevor-noah",
       "pubDate": "2026-08-12T21:30:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "This 8BitDo mechanical keyboard has an extra keypad and is 30 percent off",
-      "url": "https://www.theverge.com/gadgets/979263/8bitdo-mechanical-keyboard-galaxy-25-edge-deal-sale",
-      "pubDate": "2026-08-12T21:21:09.000Z"
     },
     {
       "source": "AppleInsider",
@@ -255,32 +339,11 @@
       "pubDate": "2026-08-12T21:11:28.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Cats and dogs are missing meals after a popular smart feeder went down",
-      "url": "https://www.theverge.com/tech/979295/petlibro-outage-smart-pet-feeders",
-      "pubDate": "2026-08-12T21:07:17.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Report: US smartphone sales fell 5% in Q2 2026 as prices keep climbing",
-      "url": "https://9to5mac.com/2026/08/12/report-us-smartphone-sales-fell-5-in-q2-2026-as-prices-keep-climbing/",
-      "pubDate": "2026-08-12T21:01:51.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Google Kicks Off Fall Hardware Season With New Pixel 11 Smartphones",
       "url": "https://www.macrumors.com/2026/08/12/google-pixel-11-lineup/",
       "pubDate": "2026-08-12T20:59:10.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Claude’s Chrome side panel is now a full Cowork session",
-      "url": "https://9to5mac.com/2026/08/12/claude-cowork-chrome/",
-      "pubDate": "2026-08-12T20:46:00.000Z"
     },
     {
       "source": "AppleInsider",
@@ -290,74 +353,11 @@
       "pubDate": "2026-08-12T20:20:27.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple billboard featuring toddler with iPhone causes controversy in Italy",
-      "url": "https://9to5mac.com/2026/08/12/apple-billboard-featuring-toddler-with-iphone-causes-controversy-in-italy/",
-      "pubDate": "2026-08-12T20:16:03.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The next big indie game publisher is taking some exciting swings",
-      "url": "https://www.theverge.com/games/977985/kinetic-publishing-showcase-sam-barlow-precognition",
-      "pubDate": "2026-08-12T19:30:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "It looks like Apple&#8217;s iPhone 18 really will skip the fall launch this year",
-      "url": "https://www.theverge.com/tech/979231/apple-base-iphone-18-launch-delayed",
-      "pubDate": "2026-08-12T19:27:47.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Twitch will train Amazon's AI on your streams unless you opt out",
-      "url": "https://appleinsider.com/articles/26/08/12/twitch-will-train-amazons-ai-on-your-streams-unless-you-opt-out?utm_source=rss",
-      "pubDate": "2026-08-12T19:12:51.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple picks up Nate Gatten as new head of government affairs",
-      "url": "https://appleinsider.com/articles/26/08/12/apple-picks-up-nate-gatten-as-new-head-of-government-affairs?utm_source=rss",
-      "pubDate": "2026-08-12T19:10:04.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Google Unveils $29 Pixel Tag to Take On Apple's AirTag",
-      "url": "https://www.macrumors.com/2026/08/12/google-pixel-tag/",
-      "pubDate": "2026-08-12T18:52:26.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Wallet Could Soon Save Trade-In Quotes for 90 Days",
-      "url": "https://www.macrumors.com/2026/08/12/apple-wallet-trade-in-quotes-90-days/",
-      "pubDate": "2026-08-12T17:59:10.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "TerminalWidget makes custom widget building easy",
       "url": "https://sixcolors.com/post/2026/08/terminalwidget-makes-custom-widget-building-easy/",
       "pubDate": "2026-08-12T17:53:45.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Google’s Pixel 11 phone preorders come with up to $350 in gift cards",
-      "url": "https://www.theverge.com/gadgets/975970/google-pixel-11-series-where-to-buy-preorder-release-date",
-      "pubDate": "2026-08-12T17:47:54.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Twitch streamers can now opt out from training Amazon’s AI",
-      "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
-      "pubDate": "2026-08-12T17:29:10.000Z"
     },
     {
       "source": "Six Colors",
