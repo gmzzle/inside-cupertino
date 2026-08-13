@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T18:10:23.792Z",
+  "generatedAt": "2026-08-13T19:26:27.240Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -26,8 +26,71 @@
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
+      "title": "Ted Lasso just had the biggest Apple TV premiere ever",
+      "url": "https://9to5mac.com/2026/08/13/ted-lasso-just-had-the-biggest-apple-tv-premiere-ever/",
+      "pubDate": "2026-08-13T19:22:29.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Opens Houston Advanced Manufacturing Center Ahead of Mac Mini Production",
+      "url": "https://www.macrumors.com/2026/08/13/apple-houston-manufacturing-center/",
+      "pubDate": "2026-08-13T19:08:56.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple opens Houston center to train next generation of U.S. manufacturers",
+      "url": "https://appleinsider.com/articles/26/08/13/apple-opens-houston-center-to-train-next-generation-of-us-manufacturers?utm_source=rss",
+      "pubDate": "2026-08-13T19:08:30.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Wallet in iOS 27 adds clever new way to use its many features",
+      "url": "https://9to5mac.com/2026/08/13/apple-wallet-in-ios-27-adds-clever-new-way-to-use-its-many-features/",
+      "pubDate": "2026-08-13T19:01:40.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The Trump admin will start letting private firms launch international cyberattacks",
+      "url": "https://www.theverge.com/policy/979734/trump-administration-cybercrime-private-firms",
+      "pubDate": "2026-08-13T18:56:13.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple’s new ‘Advanced Manufacturing Center’ opens in Texas",
+      "url": "https://9to5mac.com/2026/08/13/apples-new-advanced-manufacturing-center-opens-in-texas/",
+      "pubDate": "2026-08-13T18:51:40.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Future Apple wearables, iOS 27 beta 5, iPhone 20 details",
+      "url": "https://9to5mac.com/2026/08/13/happy-hour-603/",
+      "pubDate": "2026-08-13T18:43:01.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "I finally found a robot lawnmower I’d trust with my yard",
+      "url": "https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame",
+      "pubDate": "2026-08-13T18:30:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
       "title": "Matic Cues feature lets you just talk to your robot vacuum or point at a mess to clean",
       "url": "https://9to5mac.com/2026/08/13/matic-cues-lets-you-just-talk-to-your-robot-vacuum-or-point-at-a-mess-to-clean/",
+      "pubDate": "2026-08-13T18:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "You can now just point at a mess and this robot vacuum will suck it up",
+      "url": "https://www.theverge.com/tech/979516/matic-cues-robot-vacuum-gesture-control-hands-on-review",
       "pubDate": "2026-08-13T18:00:00.000Z"
     },
     {
@@ -150,25 +213,11 @@
       "pubDate": "2026-08-13T15:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Wolverine on the PS5 made me care about Marvel’s mutant for the first time",
-      "url": "https://www.theverge.com/games/977564/marvels-wolverine-ps5-preview-character-combat",
-      "pubDate": "2026-08-13T15:00:00.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "New Apple TV 4K: Everything we know about Apple’s 2026 upgrade",
       "url": "https://9to5mac.com/2026/08/13/new-apple-tv-4k-2026-release-date-features-price/",
       "pubDate": "2026-08-13T14:30:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 gives Apple Photos two features we’ve waited a long time for",
-      "url": "https://9to5mac.com/2026/08/13/ios-27-gives-apple-photos-two-features-weve-waited-a-long-time-for/",
-      "pubDate": "2026-08-13T14:15:07.000Z"
     },
     {
       "source": "AppleInsider",
@@ -185,39 +234,11 @@
       "pubDate": "2026-08-13T14:11:35.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Does Google even want to win at AI?",
-      "url": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
-      "pubDate": "2026-08-13T14:10:31.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "PSA: Setting different default languages in different Mac apps",
-      "url": "https://9to5mac.com/2026/08/13/psa-setting-different-default-languages-in-different-mac-apps/",
-      "pubDate": "2026-08-13T14:01:45.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Rivian is finally getting a long-requested feature — and no, it’s not CarPlay",
-      "url": "https://www.theverge.com/transportation/978093/rivian-r1s-r1t-2027-captains-chairs",
-      "pubDate": "2026-08-13T14:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Amazon Discounts Every 2026 MacBook Pro With Up to $500 Off",
       "url": "https://www.macrumors.com/2026/08/13/2026-macbook-pro-up-to-500-off/",
       "pubDate": "2026-08-13T13:59:26.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone Ultra could launch in US only at first, per report",
-      "url": "https://9to5mac.com/2026/08/13/iphone-ultra-could-launch-in-us-only-at-first-per-report/",
-      "pubDate": "2026-08-13T13:31:09.000Z"
     },
     {
       "source": "MacRumors",
@@ -253,13 +274,6 @@
       "title": "Eddy Cue hints at more 'Ted Lasso' seasons to come",
       "url": "https://appleinsider.com/articles/26/08/13/eddy-cue-hints-at-more-ted-lasso-seasons-to-come?utm_source=rss",
       "pubDate": "2026-08-13T11:45:01.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "‘Obvious’ App Store ratings fraud going undetected by Apple, says StopTheMadness developer",
-      "url": "https://9to5mac.com/2026/08/13/obvious-app-store-ratings-fraud-going-undetected-by-apple-says-stopthemadness-developer/",
-      "pubDate": "2026-08-13T11:17:45.000Z"
     },
     {
       "source": "AppleInsider",
@@ -325,13 +339,6 @@
       "pubDate": "2026-08-12T22:48:51.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Everything Google announced: Pixel 11, Pixel Tag, Pixel Watch 11, more",
-      "url": "https://appleinsider.com/articles/26/08/12/everything-google-announced-pixel-11-pixel-tag-pixel-watch-11-more?utm_source=rss",
-      "pubDate": "2026-08-12T22:20:52.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) Clockwise 669: I Love a Good Donut",
@@ -344,13 +351,6 @@
       "title": "MLB hires indie Mosaic app developer",
       "url": "https://sixcolors.com/post/2026/08/mlb-hires-indie-mosaic-app-developer/",
       "pubDate": "2026-08-12T21:50:34.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Google Kicks Off Fall Hardware Season With New Pixel 11 Smartphones",
-      "url": "https://www.macrumors.com/2026/08/12/google-pixel-11-lineup/",
-      "pubDate": "2026-08-12T20:59:10.000Z"
     },
     {
       "source": "Six Colors",
