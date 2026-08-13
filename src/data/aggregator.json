@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T17:14:03.518Z",
+  "generatedAt": "2026-08-13T18:10:23.792Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Matic Cues feature lets you just talk to your robot vacuum or point at a mess to clean",
+      "url": "https://9to5mac.com/2026/08/13/matic-cues-lets-you-just-talk-to-your-robot-vacuum-or-point-at-a-mess-to-clean/",
+      "pubDate": "2026-08-13T18:00:00.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -281,13 +288,6 @@
       "title": "WhatsApp Now Lets You Save a Contact's Username",
       "url": "https://www.macrumors.com/2026/08/13/whatsapp-save-a-contacts-username/",
       "pubDate": "2026-08-13T09:10:20.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple moving Oracle store in Reading, UK, as Basingstoke store closes",
-      "url": "https://9to5mac.com/2026/08/13/apple-reopening-oracle-store-in-reading-uk-as-basingstoke-store-closes/",
-      "pubDate": "2026-08-13T09:00:00.000Z"
     },
     {
       "source": "MacRumors",
