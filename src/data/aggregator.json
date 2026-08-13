@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T10:29:00.285Z",
+  "generatedAt": "2026-08-13T12:00:03.158Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Closing Basingstoke Store as Nearby Reading Location Expands",
+      "url": "https://www.macrumors.com/2026/08/13/apple-closing-basingstoke-store/",
+      "pubDate": "2026-08-13T11:54:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Eddy Cue hints at more 'Ted Lasso' seasons to come",
+      "url": "https://appleinsider.com/articles/26/08/13/eddy-cue-hints-at-more-ted-lasso-seasons-to-come?utm_source=rss",
+      "pubDate": "2026-08-13T11:45:01.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "‘Obvious’ App Store ratings fraud going undetected by Apple, says StopTheMadness developer",
+      "url": "https://9to5mac.com/2026/08/13/obvious-app-store-ratings-fraud-going-undetected-by-apple-says-stopthemadness-developer/",
+      "pubDate": "2026-08-13T11:17:45.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Watch classic movies for free with an Apple TV subscription",
+      "url": "https://appleinsider.com/articles/26/08/13/watch-classic-movies-for-free-with-an-apple-tv-subscription?utm_source=rss",
+      "pubDate": "2026-08-13T11:16:49.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -248,13 +276,6 @@
       "pubDate": "2026-08-12T19:27:47.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Eddy Cue said the thing we wanted to hear on future Ted Lasso seasons",
-      "url": "https://9to5mac.com/2026/08/12/eddy-cue-said-the-thing-we-wanted-to-hear-on-future-ted-lasso-seasons/",
-      "pubDate": "2026-08-12T19:27:21.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Twitch will train Amazon's AI on your streams unless you opt out",
@@ -339,32 +360,11 @@
       "pubDate": "2026-08-12T16:43:06.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPhone Ultra screen protectors have asymmetric corners",
-      "url": "https://appleinsider.com/articles/26/08/12/screen-protector-leak-shows-iphone-ultras-asymmetric-corners?utm_source=rss",
-      "pubDate": "2026-08-12T16:35:29.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Patenting Way to Improve Notification Summaries and 'Reduce Interruptions' Focus",
-      "url": "https://www.macrumors.com/2026/08/12/apple-patent-to-improve-summaries/",
-      "pubDate": "2026-08-12T16:29:09.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "App report: Talk back and track on a Mac",
       "url": "https://sixcolors.com/post/2026/08/app-report-talk-back-and-track-on-a-mac/",
       "pubDate": "2026-08-12T15:32:32.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple TV drops trailer and launch date for Australian thriller 'Last Seen'",
-      "url": "https://appleinsider.com/articles/26/08/12/apple-tv-drops-trailer-and-launch-date-for-australian-thriller-last-seen?utm_source=rss",
-      "pubDate": "2026-08-12T13:52:52.000Z"
     },
     {
       "source": "Six Colors",
