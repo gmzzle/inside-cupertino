@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T05:06:42.530Z",
+  "generatedAt": "2026-08-13T06:46:17.101Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple TV just added a bunch of classic movies to stream for free",
+      "url": "https://9to5mac.com/2026/08/12/apple-tv-just-added-a-bunch-of-classic-movies-to-stream-for-free/",
+      "pubDate": "2026-08-13T06:42:56.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -239,13 +246,6 @@
       "title": "Apple Wallet app could get new feature to manage trade-ins",
       "url": "https://9to5mac.com/2026/08/12/apple-wallet-app-could-get-new-feature-to-manage-trade-ins/",
       "pubDate": "2026-08-12T18:51:03.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "MLB iPhone app just got better with new CarPlay and Live Activity features",
-      "url": "https://9to5mac.com/2026/08/12/mlb-iphone-app-just-got-better-with-new-carplay-and-live-activity-features/",
-      "pubDate": "2026-08-12T18:10:42.000Z"
     },
     {
       "source": "MacRumors",
