@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T22:04:10.598Z",
+  "generatedAt": "2026-08-13T23:03:50.752Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,55 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's latest commission rates for external App Store purchases haven't satisfied Epic",
+      "url": "https://appleinsider.com/articles/26/08/13/apples-latest-commission-rates-for-external-app-store-purchases-havent-satisfied-epic?utm_source=rss",
+      "pubDate": "2026-08-13T22:49:44.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: August 13, 2026 – MacBook Air shortages, iPhone Ultra launch rumors",
+      "url": "https://9to5mac.com/2026/08/13/daily-august-13-2026/",
+      "pubDate": "2026-08-13T22:42:23.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Wants to Charge Developers Up to 15 Percent for Linking Outside the App Store",
+      "url": "https://www.macrumors.com/2026/08/13/app-store-fees-apple-link-outs/",
+      "pubDate": "2026-08-13T22:11:46.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Supreme Court denies yet another stay in Apple vs Epic proceedings as deadlines loom",
+      "url": "https://appleinsider.com/articles/26/08/13/supreme-court-denies-yet-another-stay-in-apple-vs-epic-proceedings-as-deadlines-loom?utm_source=rss",
+      "pubDate": "2026-08-13T22:10:01.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple proposes commissions of up to 15% for off-App Store purchases in the US",
+      "url": "https://9to5mac.com/2026/08/13/apple-proposes-commissions-of-up-to-15-for-off-app-store-purchases-in-the-us/",
+      "pubDate": "2026-08-13T22:05:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "‘That is not acceptable’: Judge orders Google to make rival app store installs easier",
+      "url": "https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier",
+      "pubDate": "2026-08-13T21:53:04.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The fight over Flock and other ALPRs",
+      "url": "https://www.theverge.com/tech/979869/flock-alpr-ai-surveillance-protest-privacy",
+      "pubDate": "2026-08-13T21:46:21.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -199,13 +248,6 @@
       "pubDate": "2026-08-13T17:03:13.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "OpenAI previews ‘Ultrafast’ GPT-5.6 Sol running up to 14 times faster",
-      "url": "https://9to5mac.com/2026/08/13/openai-previews-ultrafast-gpt-5-6-sol-running-up-to-14-times-faster/",
-      "pubDate": "2026-08-13T17:02:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple Glasses could chime when recording, but only for the wearer",
@@ -218,27 +260,6 @@
       "title": "2K launches new studio to build its &#8216;next blockbuster sports franchise&#8217;",
       "url": "https://www.theverge.com/games/979689/2k-sports-franchise-small-axe-studios-soccer",
       "pubDate": "2026-08-13T16:38:15.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Ford’s $28,000 Fathom EV nears production after $2 billion factory overhaul",
-      "url": "https://www.theverge.com/transportation/979565/ford-fathom-uev-louisville-assembly-plant",
-      "pubDate": "2026-08-13T16:23:18.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Meta adds AI screening to detect WhatsApp scams",
-      "url": "https://www.theverge.com/tech/979654/meta-whatsapp-scam-message-detection",
-      "pubDate": "2026-08-13T16:10:06.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: AirPods Pro 3, M5 MacBook Air $270 off, UWB smart lock, Thunderbolt 5 dock, Nomad cases from $17, more",
-      "url": "https://9to5mac.com/2026/08/13/deals-airpods-pro-3-m5-macbook-air-thunderbolt-5-dock/",
-      "pubDate": "2026-08-13T15:28:02.000Z"
     },
     {
       "source": "AppleInsider",
@@ -311,25 +332,11 @@
       "pubDate": "2026-08-13T11:45:01.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Watch classic movies for free with an Apple TV subscription",
-      "url": "https://appleinsider.com/articles/26/08/13/watch-classic-movies-for-free-with-an-apple-tv-subscription?utm_source=rss",
-      "pubDate": "2026-08-13T11:16:49.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Base iPhone 18 Tipped to Get These Two Pro-Level Upgrades",
       "url": "https://www.macrumors.com/2026/08/13/base-iphone-18-two-pro-level-upgrades/",
       "pubDate": "2026-08-13T10:02:43.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "UK loses Basingstoke Apple Store after 15 years",
-      "url": "https://appleinsider.com/articles/26/08/13/uk-loses-basingstoke-apple-store-after-15-years?utm_source=rss",
-      "pubDate": "2026-08-13T10:01:31.000Z"
     },
     {
       "source": "MacRumors",
@@ -344,13 +351,6 @@
       "title": "Apple's 2026 Back to School Offer is Now Live Across Europe",
       "url": "https://www.macrumors.com/2026/08/13/apple-2026-back-to-school-europe-live/",
       "pubDate": "2026-08-13T08:42:12.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple in Talks to Pay Publishers for News Content to Power Siri AI",
-      "url": "https://www.macrumors.com/2026/08/12/apple-siri-ai-publisher-talks/",
-      "pubDate": "2026-08-13T00:03:40.000Z"
     },
     {
       "source": "Six Colors",
