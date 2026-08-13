@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T23:58:57.032Z",
+  "generatedAt": "2026-08-13T02:48:32.723Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple TV publishes the trailer for Stillwater’s fifth season",
+      "url": "https://9to5mac.com/2026/08/12/apple-tv-publishes-the-trailer-for-stillwaters-fifth-season/",
+      "pubDate": "2026-08-13T02:14:55.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Siri AI could get a boost from news content with new publisher deal",
+      "url": "https://appleinsider.com/articles/26/08/13/siri-ai-could-get-a-boost-from-news-content-with-new-publisher-deal?utm_source=rss",
+      "pubDate": "2026-08-13T01:15:03.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Pegatron: iPhone 18 won't launch with iPhone 18 Pro",
+      "url": "https://appleinsider.com/articles/26/08/12/pegatron-says-the-base-iphone-18-wont-launch-alongside-the-iphone-18-pro-lineup?utm_source=rss",
+      "pubDate": "2026-08-13T00:19:18.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple in Talks to Pay Publishers for News Content to Power Siri AI",
+      "url": "https://www.macrumors.com/2026/08/12/apple-siri-ai-publisher-talks/",
+      "pubDate": "2026-08-13T00:03:40.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -66,11 +94,25 @@
       "pubDate": "2026-08-12T22:20:52.000Z"
     },
     {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) Clockwise 669: I Love a Good Donut",
+      "url": "https://sixcolors.com/podcast/2026/08/clockwise-669-i-love-a-good-donut/",
+      "pubDate": "2026-08-12T22:20:24.000Z"
+    },
+    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple fails to delay filing new App Store fees to court as Epic battle continues",
+      "title": "Final countdown for Apple to produce App Store commission plan begins",
       "url": "https://appleinsider.com/articles/26/08/11/apple-fails-to-delay-filing-new-app-store-fees-to-court-as-epic-battle-continues?utm_source=rss",
       "pubDate": "2026-08-12T21:57:16.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "MLB hires indie Mosaic app developer",
+      "url": "https://sixcolors.com/post/2026/08/mlb-hires-indie-mosaic-app-developer/",
+      "pubDate": "2026-08-12T21:50:34.000Z"
     },
     {
       "source": "9to5Mac",
@@ -213,11 +255,11 @@
       "pubDate": "2026-08-12T17:59:10.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "BowFlex T6 review: Apple GymKit comes home at a normal treadmill price",
-      "url": "https://9to5mac.com/2026/08/12/bowflex-t6-review-apple-gymkit-comes-home-at-a-normal-treadmill-price/",
-      "pubDate": "2026-08-12T17:55:57.000Z"
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "TerminalWidget makes custom widget building easy",
+      "url": "https://sixcolors.com/post/2026/08/terminalwidget-makes-custom-widget-building-easy/",
+      "pubDate": "2026-08-12T17:53:45.000Z"
     },
     {
       "source": "MacRumors",
@@ -297,11 +339,11 @@
       "pubDate": "2026-08-12T16:12:42.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Pegatron says the base iPhone 18 won't launch alongside the iPhone 18 Pro lineup",
-      "url": "https://appleinsider.com/articles/26/08/12/pegatron-says-the-base-iphone-18-wont-launch-alongside-the-iphone-18-pro-lineup?utm_source=rss",
-      "pubDate": "2026-08-12T15:48:10.000Z"
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "App report: Talk back and track on a Mac",
+      "url": "https://sixcolors.com/post/2026/08/app-report-talk-back-and-track-on-a-mac/",
+      "pubDate": "2026-08-12T15:32:32.000Z"
     },
     {
       "source": "MacRumors",
@@ -325,25 +367,11 @@
       "pubDate": "2026-08-12T13:52:52.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "'Everyone' at Apple Apparently Calls Foldable 'iPhone Ultra'",
-      "url": "https://www.macrumors.com/2026/08/12/everyone-at-apple-says-iphone-ultra/",
-      "pubDate": "2026-08-12T13:47:13.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPhone 20 Pro will be bigger with familiar aspect ratios, be bezel free",
-      "url": "https://appleinsider.com/articles/26/08/12/iphone-20-pro-will-be-bigger-with-familiar-aspect-ratios-be-bezel-free?utm_source=rss",
-      "pubDate": "2026-08-12T13:25:42.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple's $999 M4 Mac mini is back at Amazon, plus save on M4 Pro model",
-      "url": "https://appleinsider.com/articles/26/08/12/apples-999-m4-mac-mini-is-back-at-amazon-plus-save-on-m4-pro-model?utm_source=rss",
-      "pubDate": "2026-08-12T13:21:05.000Z"
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) The Rebound 611: Don’t You Dare Put That in Titles",
+      "url": "https://sixcolors.com/podcast/2026/08/the-rebound-611-dont-you-dare-put-that-in-titles/",
+      "pubDate": "2026-08-11T14:00:00.000Z"
     }
   ]
 }
