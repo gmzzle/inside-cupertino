@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T13:44:52.832Z",
+  "generatedAt": "2026-08-14T15:07:23.662Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,48 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "AirPods Pro rumor roundup: Infrared cameras, gesture recognition, more",
+      "url": "https://appleinsider.com/articles/26/08/14/airpods-pro-rumor-roundup-infrared-cameras-gesture-recognition-more?utm_source=rss",
+      "pubDate": "2026-08-14T14:51:07.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "tvOS 27 could push you to upgrade to new Apple TV 4K",
+      "url": "https://9to5mac.com/2026/08/14/tvos-27-could-push-you-to-upgrade-to-new-apple-tv-4k/",
+      "pubDate": "2026-08-14T14:21:31.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Best Apple Deals of the Week: Steep Discounts Hit AirPods, MacBook Pro, and Anker Accessories",
+      "url": "https://www.macrumors.com/2026/08/14/best-apple-deals-of-the-week-8-14-26/",
+      "pubDate": "2026-08-14T14:18:44.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Tim Cook Reflects on His Legacy in Final Weeks as Apple CEO",
+      "url": "https://www.macrumors.com/2026/08/14/apple-ceo-tim-cook-reflects-on-legacy-apple/",
+      "pubDate": "2026-08-14T14:12:40.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple’s China AI strategy now includes training its own custom model, per report",
+      "url": "https://9to5mac.com/2026/08/14/apples-china-ai-strategy-now-includes-training-its-own-custom-model-per-report/",
+      "pubDate": "2026-08-14T14:11:02.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Maps opens ad booking for businesses, promotional offer available",
+      "url": "https://9to5mac.com/2026/08/14/apple-maps-opens-ad-booking-for-businesses-promotional-offer-available/",
+      "pubDate": "2026-08-14T13:49:45.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -262,13 +304,6 @@
       "pubDate": "2026-08-13T20:37:10.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "WhatsApp is working on chat themes with animated wallpapers",
-      "url": "https://9to5mac.com/2026/08/13/whatsapp-is-working-on-chat-themes-with-animated-wallpapers/",
-      "pubDate": "2026-08-13T20:34:06.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iFixit's Galaxy Z Fold8 Teardown is a Preview of Apple's Foldable Challenges",
@@ -290,20 +325,6 @@
       "pubDate": "2026-08-13T20:16:53.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "ChatGPT for Mac adds opt-in Computer History feature, replacing Chronicle",
-      "url": "https://9to5mac.com/2026/08/13/chatgpt-for-mac-adds-opt-in-computer-history-feature-replacing-chronicle/",
-      "pubDate": "2026-08-13T20:13:21.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "New HomePod mini 2: Release date, features, price, and rumors",
-      "url": "https://9to5mac.com/2026/08/13/homepod-mini-2-release-date-features-price-rumors/",
-      "pubDate": "2026-08-13T20:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Opens Houston Advanced Manufacturing Center Ahead of Mac Mini Production",
@@ -311,32 +332,11 @@
       "pubDate": "2026-08-13T19:08:56.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple opens Houston center to train next generation of U.S. manufacturers",
-      "url": "https://appleinsider.com/articles/26/08/13/apple-opens-houston-center-to-train-next-generation-of-us-manufacturers?utm_source=rss",
-      "pubDate": "2026-08-13T19:08:30.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iPhone 18 Pro and iPhone Ultra: When is the Next Apple Event?",
       "url": "https://www.macrumors.com/2026/08/13/when-is-iphone-18-pro-iphone-ultra-apple-event/",
       "pubDate": "2026-08-13T14:11:35.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Amazon Discounts Every 2026 MacBook Pro With Up to $500 Off",
-      "url": "https://www.macrumors.com/2026/08/13/2026-macbook-pro-up-to-500-off/",
-      "pubDate": "2026-08-13T13:59:26.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple TV Gains Classic Movies Collection",
-      "url": "https://www.macrumors.com/2026/08/13/apple-tv-gains-classic-movies/",
-      "pubDate": "2026-08-13T13:15:53.000Z"
     },
     {
       "source": "Six Colors",
