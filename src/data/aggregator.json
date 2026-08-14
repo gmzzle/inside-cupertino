@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T00:00:12.183Z",
+  "generatedAt": "2026-08-14T02:46:52.178Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "New wave of Apple threat notifications reach 110 countries to warn about targeted attacks",
+      "url": "https://appleinsider.com/articles/26/08/14/new-wave-of-apple-threat-notifications-reach-110-countries-to-warn-about-targeted-attacks?utm_source=rss",
+      "pubDate": "2026-08-14T01:55:52.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple seeks settlement talks with Epic Games in new court filing",
+      "url": "https://9to5mac.com/2026/08/13/apple-seeks-settlement-talks-with-epic-games-in-new-court-filing/",
+      "pubDate": "2026-08-14T01:39:07.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Trump declares 100 percent tariffs on many drones and all aircraft parts",
+      "url": "https://www.theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts",
+      "pubDate": "2026-08-14T01:06:15.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple sends fresh wave of mercenary spyware warnings worldwide",
+      "url": "https://9to5mac.com/2026/08/13/apple-sends-fresh-wave-of-mercenary-spyware-warnings-worldwide/",
+      "pubDate": "2026-08-14T00:54:31.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -82,7 +110,7 @@
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple proposes commissions of up to 15% for off-App Store purchases in the US",
+      "title": "Apple proposes commissions of up to 15% for off-App Store purchases in the US [U]",
       "url": "https://9to5mac.com/2026/08/13/apple-proposes-commissions-of-up-to-15-for-off-app-store-purchases-in-the-us/",
       "pubDate": "2026-08-13T22:05:00.000Z"
     },
@@ -180,6 +208,13 @@
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
+      "title": "New HomePod mini 2: Release date, features, price, and rumors",
+      "url": "https://9to5mac.com/2026/08/13/homepod-mini-2-release-date-features-price-rumors/",
+      "pubDate": "2026-08-13T20:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
       "title": "Apple adds iPhone X and 2018 MacBook Pro to obsolete products list",
       "url": "https://9to5mac.com/2026/08/13/apple-adds-iphone-x-and-2018-macbook-pro-to-obsolete-products-list/",
       "pubDate": "2026-08-13T19:35:26.000Z"
@@ -234,39 +269,11 @@
       "pubDate": "2026-08-13T18:51:40.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Future Apple wearables, iOS 27 beta 5, iPhone 20 details",
-      "url": "https://9to5mac.com/2026/08/13/happy-hour-603/",
-      "pubDate": "2026-08-13T18:43:01.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "I finally found a robot lawnmower I’d trust with my yard",
       "url": "https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame",
       "pubDate": "2026-08-13T18:30:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Matic Cues feature lets you just talk to your robot vacuum or point at a mess to clean",
-      "url": "https://9to5mac.com/2026/08/13/matic-cues-lets-you-just-talk-to-your-robot-vacuum-or-point-at-a-mess-to-clean/",
-      "pubDate": "2026-08-13T18:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "You can now just point at a mess and this robot vacuum will suck it up",
-      "url": "https://www.theverge.com/tech/979516/matic-cues-robot-vacuum-gesture-control-hands-on-review",
-      "pubDate": "2026-08-13T18:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "MacBook Neo 2 will get the big upgrade it needs most, per rumors",
-      "url": "https://9to5mac.com/2026/08/13/macbook-neo-2-will-get-the-big-upgrade-it-needs-most-per-rumors/",
-      "pubDate": "2026-08-13T17:12:58.000Z"
     },
     {
       "source": "AppleInsider",
@@ -325,13 +332,6 @@
       "pubDate": "2026-08-13T13:15:53.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Fake GitHub download turns Safari & Chrome into a Keychain data stealer",
-      "url": "https://appleinsider.com/articles/26/08/13/fake-github-download-turns-safari-chrome-into-a-keychain-data-stealer?utm_source=rss",
-      "pubDate": "2026-08-13T13:02:08.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "'iPhone Ultra' Could Face Staggered Market Rollout, US Only at Launch",
@@ -344,13 +344,6 @@
       "title": "Apple Closing Basingstoke Store as Nearby Reading Location Expands",
       "url": "https://www.macrumors.com/2026/08/13/apple-closing-basingstoke-store/",
       "pubDate": "2026-08-13T11:54:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Eddy Cue hints at more 'Ted Lasso' seasons to come",
-      "url": "https://appleinsider.com/articles/26/08/13/eddy-cue-hints-at-more-ted-lasso-seasons-to-come?utm_source=rss",
-      "pubDate": "2026-08-13T11:45:01.000Z"
     },
     {
       "source": "Six Colors",
@@ -372,6 +365,13 @@
       "title": "TerminalWidget makes custom widget building easy",
       "url": "https://sixcolors.com/post/2026/08/terminalwidget-makes-custom-widget-building-easy/",
       "pubDate": "2026-08-12T17:53:45.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "App report: Talk back and track on a Mac",
+      "url": "https://sixcolors.com/post/2026/08/app-report-talk-back-and-track-on-a-mac/",
+      "pubDate": "2026-08-12T15:32:32.000Z"
     }
   ]
 }
