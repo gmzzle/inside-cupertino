@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T15:07:23.662Z",
+  "generatedAt": "2026-08-14T16:06:38.111Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,11 +24,46 @@
   ],
   "items": [
     {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Deals: M5 MacBook Air from $1,099 ($200 off), MacBook Neo $120 off, AirPods Pro 3/Max 2, Beats 240W cable, more",
+      "url": "https://9to5mac.com/2026/08/14/deals-m5-macbook-air-macbook-neo-airpods-pro-3-max-2/",
+      "pubDate": "2026-08-14T15:43:17.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "New Apple Watch models launch next month, here’s what’s coming",
+      "url": "https://9to5mac.com/2026/08/14/new-apple-watch-models-launch-next-month-heres-whats-coming/",
+      "pubDate": "2026-08-14T15:32:42.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's M5 Pro MacBook Pro with 48GB RAM gets $300 price cut",
+      "url": "https://appleinsider.com/articles/26/08/14/apples-m5-pro-macbook-pro-with-48gb-ram-gets-300-price-cut?utm_source=rss",
+      "pubDate": "2026-08-14T15:30:38.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Ads Coming Soon to Apple Maps",
+      "url": "https://www.macrumors.com/2026/08/14/ads-coming-soon-to-apple-maps/",
+      "pubDate": "2026-08-14T15:29:06.000Z"
+    },
+    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "AirPods Pro rumor roundup: Infrared cameras, gesture recognition, more",
       "url": "https://appleinsider.com/articles/26/08/14/airpods-pro-rumor-roundup-infrared-cameras-gesture-recognition-more?utm_source=rss",
       "pubDate": "2026-08-14T14:51:07.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "2025 GOTY Clair Obscur: Expedition 33 is down to $33",
+      "url": "https://www.theverge.com/gadgets/980261/clair-obscur-pixel-11-gaming-laptop-4k-bluray-deal-sale",
+      "pubDate": "2026-08-14T14:50:25.000Z"
     },
     {
       "source": "9to5Mac",
@@ -131,7 +166,7 @@
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
-      "title": "The MSI Claw EX is the most important handheld since Steam Deck — I still wouldn’t buy one",
+      "title": "The MSI Claw EX is the most important PC handheld since Steam Deck — I still wouldn’t buy one",
       "url": "https://www.theverge.com/games/977646/msi-claw-8-ex-review-intel-panther-lake-handheld",
       "pubDate": "2026-08-14T11:00:00.000Z"
     },
@@ -255,13 +290,6 @@
       "pubDate": "2026-08-13T22:10:01.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple proposes commissions of up to 15% for off-App Store purchases in the US [U]",
-      "url": "https://9to5mac.com/2026/08/13/apple-proposes-commissions-of-up-to-15-for-off-app-store-purchases-in-the-us/",
-      "pubDate": "2026-08-13T22:05:00.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "‘That is not acceptable’: Judge orders Google to make rival app store installs easier",
@@ -274,13 +302,6 @@
       "title": "The fight over Flock and other ALPRs",
       "url": "https://www.theverge.com/tech/979869/flock-alpr-ai-surveillance-protest-privacy",
       "pubDate": "2026-08-13T21:46:21.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
-      "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
-      "pubDate": "2026-08-13T21:42:38.000Z"
     },
     {
       "source": "Six Colors",
@@ -297,25 +318,11 @@
       "pubDate": "2026-08-13T21:03:27.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Chase recently added free Apple TV, Apple One perks to popular credit card",
-      "url": "https://9to5mac.com/2026/08/13/chase-adds-free-apple-tv-discounted-apple-one-benefit-to-popular-credit-card/",
-      "pubDate": "2026-08-13T20:37:10.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iFixit's Galaxy Z Fold8 Teardown is a Preview of Apple's Foldable Challenges",
       "url": "https://www.macrumors.com/2026/08/13/ifixit-galaxy-z-fold8-teardown/",
       "pubDate": "2026-08-13T20:28:09.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "'Ted Lasso' season 4 scores Apple TV's biggest launch yet",
-      "url": "https://appleinsider.com/articles/26/08/13/ted-lasso-season-4-scores-apple-tvs-biggest-launch-yet?utm_source=rss",
-      "pubDate": "2026-08-13T20:25:23.000Z"
     },
     {
       "source": "MacRumors",
@@ -330,13 +337,6 @@
       "title": "Apple Opens Houston Advanced Manufacturing Center Ahead of Mac Mini Production",
       "url": "https://www.macrumors.com/2026/08/13/apple-houston-manufacturing-center/",
       "pubDate": "2026-08-13T19:08:56.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone 18 Pro and iPhone Ultra: When is the Next Apple Event?",
-      "url": "https://www.macrumors.com/2026/08/13/when-is-iphone-18-pro-iphone-ultra-apple-event/",
-      "pubDate": "2026-08-13T14:11:35.000Z"
     },
     {
       "source": "Six Colors",
