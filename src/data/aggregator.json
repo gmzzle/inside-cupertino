@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T02:46:52.178Z",
+  "generatedAt": "2026-08-14T05:03:45.894Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -26,6 +26,13 @@
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple CEO Tim Cook: 'I hope that people say I was a good and decent man'",
+      "url": "https://appleinsider.com/articles/26/08/14/apple-ceo-tim-cook-i-hope-that-people-say-i-was-a-good-and-decent-man?utm_source=rss",
+      "pubDate": "2026-08-14T03:09:26.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
       "title": "New wave of Apple threat notifications reach 110 countries to warn about targeted attacks",
       "url": "https://appleinsider.com/articles/26/08/14/new-wave-of-apple-threat-notifications-reach-110-countries-to-warn-about-targeted-attacks?utm_source=rss",
       "pubDate": "2026-08-14T01:55:52.000Z"
@@ -36,13 +43,6 @@
       "title": "Apple seeks settlement talks with Epic Games in new court filing",
       "url": "https://9to5mac.com/2026/08/13/apple-seeks-settlement-talks-with-epic-games-in-new-court-filing/",
       "pubDate": "2026-08-14T01:39:07.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Trump declares 100 percent tariffs on many drones and all aircraft parts",
-      "url": "https://www.theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts",
-      "pubDate": "2026-08-14T01:06:15.000Z"
     },
     {
       "source": "9to5Mac",
@@ -276,6 +276,13 @@
       "pubDate": "2026-08-13T18:30:00.000Z"
     },
     {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "You can now just point at a mess and this robot vacuum will suck it up",
+      "url": "https://www.theverge.com/tech/979516/matic-cues-robot-vacuum-gesture-control-hands-on-review",
+      "pubDate": "2026-08-13T18:00:00.000Z"
+    },
+    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Deals: Amazon slashes up to $190 off Beats, Nomad iPhone cases as low as $19",
@@ -295,20 +302,6 @@
       "title": "App Store review is broken in a time where it is needed the most",
       "url": "https://appleinsider.com/articles/26/08/13/app-store-review-is-broken-in-a-time-where-it-is-needed-the-most?utm_source=rss",
       "pubDate": "2026-08-13T15:21:51.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple's 1TB M5 MacBook Air with 24GB RAM drops to $1,649 in latest price war",
-      "url": "https://appleinsider.com/articles/26/08/13/apples-1tb-m5-macbook-air-with-24gb-ram-drops-to-1649-in-latest-price-war?utm_source=rss",
-      "pubDate": "2026-08-13T15:04:59.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple's first foldable iPhone won't arrive everywhere in September",
-      "url": "https://appleinsider.com/articles/26/08/13/apples-first-foldable-iphone-wont-arrive-everywhere-in-september?utm_source=rss",
-      "pubDate": "2026-08-13T14:13:27.000Z"
     },
     {
       "source": "MacRumors",
@@ -372,6 +365,13 @@
       "title": "App report: Talk back and track on a Mac",
       "url": "https://sixcolors.com/post/2026/08/app-report-talk-back-and-track-on-a-mac/",
       "pubDate": "2026-08-12T15:32:32.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) The Rebound 611: Don’t You Dare Put That in Titles",
+      "url": "https://sixcolors.com/podcast/2026/08/the-rebound-611-dont-you-dare-put-that-in-titles/",
+      "pubDate": "2026-08-11T14:00:00.000Z"
     }
   ]
 }
