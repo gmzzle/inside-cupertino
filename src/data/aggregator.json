@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T17:12:09.952Z",
+  "generatedAt": "2026-08-14T18:07:53.243Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Lamborghini’s flagship Revuelto levels up with SV trim",
+      "url": "https://www.theverge.com/transportation/979807/lamborghini-revuelto-sv-specs-performance",
+      "pubDate": "2026-08-14T18:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The X-Files creator Chris Carter wanted to make a more horrific movie",
+      "url": "https://www.theverge.com/entertainment/979925/the-x-files-chris-carter-vrach-frankenshteyn-interview-hulu",
+      "pubDate": "2026-08-14T18:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Google&#8217;s best new camera feature is only for the Pixel 11 series",
+      "url": "https://www.theverge.com/tech/980467/google-pixel-11-camera-looks-older-phones",
+      "pubDate": "2026-08-14T17:34:14.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Review: TerraMow V1000 is the easiest iPhone-controlled robot lawn mower I’ve tested",
+      "url": "https://9to5mac.com/2026/08/14/review-terramow-v1000-is-the-easiest-iphone-controlled-robot-lawn-mower-ive-tested/",
+      "pubDate": "2026-08-14T17:15:57.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -180,7 +208,7 @@
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
-      "title": "CMF hit the balance between cheap and good clip earbuds",
+      "title": "CMF&#8217;s clip earbuds hit the balance between cheap and good",
       "url": "https://www.theverge.com/tech/979928/cmf-clip-pro-review",
       "pubDate": "2026-08-14T12:00:00.000Z"
     },
@@ -234,13 +262,6 @@
       "pubDate": "2026-08-14T09:21:17.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Help build a monument to that ‘sad little bitch’ Elon Musk",
-      "url": "https://www.theverge.com/tech/980142/cards-against-humanity-elon-musk-monument",
-      "pubDate": "2026-08-14T08:40:13.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple CEO Tim Cook: 'I hope that people say I was a good and decent man'",
@@ -255,20 +276,6 @@
       "pubDate": "2026-08-14T01:55:52.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple seeks settlement talks with Epic Games in new court filing",
-      "url": "https://9to5mac.com/2026/08/13/apple-seeks-settlement-talks-with-epic-games-in-new-court-filing/",
-      "pubDate": "2026-08-14T01:39:07.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Trump declares 100 percent tariffs on many drones and all aircraft parts",
-      "url": "https://www.theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts",
-      "pubDate": "2026-08-14T01:06:15.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iPhone 17 Pro One Year Later: What Held Up and What Didn't",
@@ -281,13 +288,6 @@
       "title": "What's Coming in September: New iPhones, Apple Watches and More",
       "url": "https://www.macrumors.com/2026/08/13/apple-september-announcement-rumors/",
       "pubDate": "2026-08-13T23:20:39.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple and Epic argue over how much Apple should get from purchases made outside the App Store",
-      "url": "https://www.theverge.com/tech/979967/apple-epic-games-external-links-fees-filing",
-      "pubDate": "2026-08-13T23:13:24.000Z"
     },
     {
       "source": "MacRumors",
