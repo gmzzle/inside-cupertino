@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T11:58:00.691Z",
+  "generatedAt": "2026-08-14T13:44:52.832Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,48 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "SpaceXAI completes its Cursor acquisition following Grok Bot and Grok 4.6 release",
+      "url": "https://9to5mac.com/2026/08/14/spacex-lands-deal-to-likely-purchase-claude-code-and-openai-codex-competitor/",
+      "pubDate": "2026-08-14T13:41:47.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Unforgetful is a new app from the creator of Overcast that enhances Apple Reminders",
+      "url": "https://9to5mac.com/2026/08/14/unforgetful-is-a-new-app-from-the-creator-of-overcast-that-enhances-apple-reminders/",
+      "pubDate": "2026-08-14T13:36:43.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple One gets even better in iOS 27, here’s what’s new",
+      "url": "https://9to5mac.com/2026/08/14/apple-one-is-getting-better-in-ios-27-heres-whats-new/",
+      "pubDate": "2026-08-14T13:32:15.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "30 New Things Your iPhone Can Do in iOS 27",
+      "url": "https://www.macrumors.com/2026/08/14/new-things-your-iphone-can-do-ios-27/",
+      "pubDate": "2026-08-14T13:24:56.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "My DIY iPhone camera mod looks absurd but is great to use",
+      "url": "https://9to5mac.com/2026/08/14/my-diy-iphone-camera-mod-looks-absurd-but-is-great-to-use/",
+      "pubDate": "2026-08-14T12:12:30.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "CMF hit the balance between cheap and good clip earbuds",
+      "url": "https://www.theverge.com/tech/979928/cmf-clip-pro-review",
+      "pubDate": "2026-08-14T12:00:00.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -61,7 +103,7 @@
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Trained Own AI model for China Market With Help From Alibaba",
+      "title": "Apple Trained Own AI Model for China Market With Help From Alibaba",
       "url": "https://www.macrumors.com/2026/08/14/apple-trained-own-ai-model-for-china/",
       "pubDate": "2026-08-14T09:46:29.000Z"
     },
@@ -213,13 +255,6 @@
       "pubDate": "2026-08-13T21:03:27.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Netflix is closing two game studios",
-      "url": "https://www.theverge.com/games/979855/netflix-shut-down-night-school-studio-moonloot-games",
-      "pubDate": "2026-08-13T20:52:58.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Chase recently added free Apple TV, Apple One perks to popular credit card",
@@ -252,7 +287,7 @@
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Says iPhone X is Now Obsolete",
       "url": "https://www.macrumors.com/2026/08/13/apple-says-iphone-x-is-now-obsolete/",
-      "pubDate": "2026-08-13T20:17:01.000Z"
+      "pubDate": "2026-08-13T20:16:53.000Z"
     },
     {
       "source": "9to5Mac",
@@ -269,20 +304,6 @@
       "pubDate": "2026-08-13T20:00:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple adds iPhone X and 2018 MacBook Pro to obsolete products list",
-      "url": "https://9to5mac.com/2026/08/13/apple-adds-iphone-x-and-2018-macbook-pro-to-obsolete-products-list/",
-      "pubDate": "2026-08-13T19:35:26.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Ted Lasso just had the biggest Apple TV premiere ever",
-      "url": "https://9to5mac.com/2026/08/13/ted-lasso-just-had-the-biggest-apple-tv-premiere-ever/",
-      "pubDate": "2026-08-13T19:22:29.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Opens Houston Advanced Manufacturing Center Ahead of Mac Mini Production",
@@ -295,20 +316,6 @@
       "title": "Apple opens Houston center to train next generation of U.S. manufacturers",
       "url": "https://appleinsider.com/articles/26/08/13/apple-opens-houston-center-to-train-next-generation-of-us-manufacturers?utm_source=rss",
       "pubDate": "2026-08-13T19:08:30.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Wallet in iOS 27 adds clever new way to use its many features",
-      "url": "https://9to5mac.com/2026/08/13/apple-wallet-in-ios-27-adds-clever-new-way-to-use-its-many-features/",
-      "pubDate": "2026-08-13T19:01:40.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple’s new ‘Advanced Manufacturing Center’ opens in Texas",
-      "url": "https://9to5mac.com/2026/08/13/apples-new-advanced-manufacturing-center-opens-in-texas/",
-      "pubDate": "2026-08-13T18:51:40.000Z"
     },
     {
       "source": "MacRumors",
@@ -330,13 +337,6 @@
       "title": "Apple TV Gains Classic Movies Collection",
       "url": "https://www.macrumors.com/2026/08/13/apple-tv-gains-classic-movies/",
       "pubDate": "2026-08-13T13:15:53.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "'iPhone Ultra' Could Face Staggered Market Rollout, US Only at Launch",
-      "url": "https://www.macrumors.com/2026/08/13/iphone-ultra-staggered-country-rollout/",
-      "pubDate": "2026-08-13T12:56:51.000Z"
     },
     {
       "source": "Six Colors",
