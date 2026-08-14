@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T19:59:00.035Z",
+  "generatedAt": "2026-08-14T20:46:17.879Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "ChatGPT subscribers can now open and edit Google Drive files from inside the chat",
+      "url": "https://9to5mac.com/2026/08/14/chatgpt-subscribers-can-now-open-and-edit-google-drive-files-from-inside-the-chat/",
+      "pubDate": "2026-08-14T20:31:44.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Missing the bigger picture: Apple pulls down ad in Milan after children's rights group complains",
+      "url": "https://appleinsider.com/articles/26/08/14/missing-the-bigger-picture-apple-pulls-down-ad-in-milan-after-childrens-rights-group-complains?utm_source=rss",
+      "pubDate": "2026-08-14T20:17:37.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -70,7 +84,7 @@
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Should You Buy an iPhone 17 Now or Wait for iPhone 18?",
       "url": "https://www.macrumors.com/2026/08/14/iphone-17-vs-iphone-18-buying/",
-      "pubDate": "2026-08-14T19:15:27.000Z"
+      "pubDate": "2026-08-14T19:15:15.000Z"
     },
     {
       "source": "AppleInsider",
@@ -176,13 +190,6 @@
       "title": "No new Apple Watch faces in watchOS 27 (yet), but here’s one I’ve been loving",
       "url": "https://9to5mac.com/2026/08/14/no-new-apple-watch-faces-in-watchos-27-yet-but-heres-one-ive-been-loving/",
       "pubDate": "2026-08-14T16:13:51.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: M5 MacBook Air from $1,099 ($200 off), MacBook Neo $120 off, AirPods Pro 3/Max 2, Beats 240W cable, more",
-      "url": "https://9to5mac.com/2026/08/14/deals-m5-macbook-air-macbook-neo-airpods-pro-3-max-2/",
-      "pubDate": "2026-08-14T15:43:17.000Z"
     },
     {
       "source": "AppleInsider",
@@ -309,13 +316,6 @@
       "title": "Ted Lasso Season 4 Premiere is Apple TV's Biggest Launch Ever",
       "url": "https://www.macrumors.com/2026/08/13/ted-lasso-premiere-record/",
       "pubDate": "2026-08-13T23:05:01.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple's latest commission rates for external App Store purchases haven't satisfied Epic",
-      "url": "https://appleinsider.com/articles/26/08/13/apples-latest-commission-rates-for-external-app-store-purchases-havent-satisfied-epic?utm_source=rss",
-      "pubDate": "2026-08-13T22:49:44.000Z"
     },
     {
       "source": "MacRumors",
