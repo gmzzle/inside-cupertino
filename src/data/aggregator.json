@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T10:17:15.692Z",
+  "generatedAt": "2026-08-14T11:58:00.691Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,41 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iPhone Ultra, OpenAI's Alexa Dot, & AI costs on the AppleInsider Podcast",
+      "url": "https://appleinsider.com/articles/26/08/14/iphone-ultra-openais-alexa-dot-ai-costs-on-the-appleinsider-podcast?utm_source=rss",
+      "pubDate": "2026-08-14T11:47:36.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple has trained its own AI for China rather than using Gemini",
+      "url": "https://appleinsider.com/articles/26/08/14/apple-has-trained-its-own-ai-for-china-rather-than-using-gemini?utm_source=rss",
+      "pubDate": "2026-08-14T11:21:05.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "How to use Continuity to make your Apple devices work better together",
+      "url": "https://appleinsider.com/inside/icloud/tips/how-to-use-continuity-to-make-your-apple-devices-work-better-together?utm_source=rss",
+      "pubDate": "2026-08-14T11:18:26.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The MSI Claw EX is the most important handheld since Steam Deck — I still wouldn’t buy one",
+      "url": "https://www.theverge.com/games/977646/msi-claw-8-ex-review-intel-panther-lake-handheld",
+      "pubDate": "2026-08-14T11:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Hoto’s new cordless soldering iron heats up in three seconds",
+      "url": "https://www.theverge.com/tech/979576/hoto-i-a06-cordless-soldering-iron-snapbloq-rechargeable",
+      "pubDate": "2026-08-14T11:00:00.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -227,13 +262,6 @@
       "pubDate": "2026-08-13T20:13:21.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "This school-friendly laptop from HP is $300 off",
-      "url": "https://www.theverge.com/gadgets/979699/hp-omnibook-x-flip-pixel-buds-pro-2-deal-sale",
-      "pubDate": "2026-08-13T20:07:53.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "New HomePod mini 2: Release date, features, price, and rumors",
@@ -246,13 +274,6 @@
       "title": "Apple adds iPhone X and 2018 MacBook Pro to obsolete products list",
       "url": "https://9to5mac.com/2026/08/13/apple-adds-iphone-x-and-2018-macbook-pro-to-obsolete-products-list/",
       "pubDate": "2026-08-13T19:35:26.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "OpenAI is losing its second executive this week",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
-      "pubDate": "2026-08-13T19:28:39.000Z"
     },
     {
       "source": "9to5Mac",
@@ -288,27 +309,6 @@
       "title": "Apple’s new ‘Advanced Manufacturing Center’ opens in Texas",
       "url": "https://9to5mac.com/2026/08/13/apples-new-advanced-manufacturing-center-opens-in-texas/",
       "pubDate": "2026-08-13T18:51:40.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Deals: Amazon slashes up to $190 off Beats, Nomad iPhone cases as low as $19",
-      "url": "https://appleinsider.com/articles/26/08/13/deals-amazon-slashes-up-to-190-off-beats-nomad-iphone-cases-as-low-as-19?utm_source=rss",
-      "pubDate": "2026-08-13T17:03:13.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple Glasses could chime when recording, but only for the wearer",
-      "url": "https://appleinsider.com/articles/26/08/13/apple-glasses-could-chime-when-recording-but-only-for-the-wearer?utm_source=rss",
-      "pubDate": "2026-08-13T16:59:40.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "App Store review is broken in a time where it is needed the most",
-      "url": "https://appleinsider.com/articles/26/08/13/app-store-review-is-broken-in-a-time-where-it-is-needed-the-most?utm_source=rss",
-      "pubDate": "2026-08-13T15:21:51.000Z"
     },
     {
       "source": "MacRumors",
