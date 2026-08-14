@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T19:15:00.932Z",
+  "generatedAt": "2026-08-14T19:59:00.035Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,55 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "These AI tools make my life much easier on the Mac",
+      "url": "https://9to5mac.com/2026/08/14/these-ai-tools-make-my-life-much-easier-on-the-mac/",
+      "pubDate": "2026-08-14T19:57:27.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Tim Cook on his Apple legacy: ‘I hope people say I was a good and decent man’",
+      "url": "https://9to5mac.com/2026/08/14/tim-cook-on-his-apple-legacy-i-hope-people-say-i-was-a-good-and-decent-man/",
+      "pubDate": "2026-08-14T19:49:29.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: August 14, 2026 – Apple TV news, iPhone 18 expectations",
+      "url": "https://9to5mac.com/2026/08/14/daily-august-14-2026/",
+      "pubDate": "2026-08-14T19:44:33.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone 18 Pro Max vs Pro: Here’s how Apple will differentiate models",
+      "url": "https://9to5mac.com/2026/08/14/iphone-18-pro-max-vs-pro-heres-how-apple-will-differentiate-models/",
+      "pubDate": "2026-08-14T19:35:33.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple takes down billboard after accusations of normalizing ‘electronic babysitting’",
+      "url": "https://9to5mac.com/2026/08/14/apple-takes-down-billboard-after-accusations-of-normalizing-electronic-babysitting/",
+      "pubDate": "2026-08-14T19:29:55.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Samsung has new Galaxy headphones in the works",
+      "url": "https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones",
+      "pubDate": "2026-08-14T19:18:45.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Should You Buy an iPhone 17 Now or Wait for iPhone 18?",
+      "url": "https://www.macrumors.com/2026/08/14/iphone-17-vs-iphone-18-buying/",
+      "pubDate": "2026-08-14T19:15:27.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -136,13 +185,6 @@
       "pubDate": "2026-08-14T15:43:17.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "New Apple Watch models launch next month, here’s what’s coming",
-      "url": "https://9to5mac.com/2026/08/14/new-apple-watch-models-launch-next-month-heres-whats-coming/",
-      "pubDate": "2026-08-14T15:32:42.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple's M5 Pro MacBook Pro with 48GB RAM gets $300 price cut",
@@ -171,13 +213,6 @@
       "pubDate": "2026-08-14T14:50:25.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "tvOS 27 could push you to upgrade to new Apple TV 4K",
-      "url": "https://9to5mac.com/2026/08/14/tvos-27-could-push-you-to-upgrade-to-new-apple-tv-4k/",
-      "pubDate": "2026-08-14T14:21:31.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Best Apple Deals of the Week: Steep Discounts Hit AirPods, MacBook Pro, and Anker Accessories",
@@ -190,27 +225,6 @@
       "title": "Tim Cook Reflects on His Legacy in Final Weeks as Apple CEO",
       "url": "https://www.macrumors.com/2026/08/14/apple-ceo-tim-cook-reflects-on-legacy-apple/",
       "pubDate": "2026-08-14T14:12:40.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple’s China AI strategy now includes training its own custom model, per report",
-      "url": "https://9to5mac.com/2026/08/14/apples-china-ai-strategy-now-includes-training-its-own-custom-model-per-report/",
-      "pubDate": "2026-08-14T14:11:02.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Maps opens ad booking for businesses, promotional offer available",
-      "url": "https://9to5mac.com/2026/08/14/apple-maps-opens-ad-booking-for-businesses-promotional-offer-available/",
-      "pubDate": "2026-08-14T13:49:45.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "SpaceXAI completes its Cursor acquisition following Grok Bot and Grok 4.6 release",
-      "url": "https://9to5mac.com/2026/08/14/spacex-lands-deal-to-likely-purchase-claude-code-and-openai-codex-competitor/",
-      "pubDate": "2026-08-14T13:41:47.000Z"
     },
     {
       "source": "MacRumors",
@@ -252,13 +266,6 @@
       "sourceHomepage": "https://www.theverge.com",
       "title": "The MSI Claw EX is the most important PC handheld since Steam Deck — I still wouldn’t buy one",
       "url": "https://www.theverge.com/games/977646/msi-claw-8-ex-review-intel-panther-lake-handheld",
-      "pubDate": "2026-08-14T11:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Hoto’s new cordless soldering iron heats up in three seconds",
-      "url": "https://www.theverge.com/tech/979576/hoto-i-a06-cordless-soldering-iron-snapbloq-rechargeable",
       "pubDate": "2026-08-14T11:00:00.000Z"
     },
     {
@@ -330,13 +337,6 @@
       "title": "iFixit's Galaxy Z Fold8 Teardown is a Preview of Apple's Foldable Challenges",
       "url": "https://www.macrumors.com/2026/08/13/ifixit-galaxy-z-fold8-teardown/",
       "pubDate": "2026-08-13T20:28:09.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Says iPhone X is Now Obsolete",
-      "url": "https://www.macrumors.com/2026/08/13/apple-says-iphone-x-is-now-obsolete/",
-      "pubDate": "2026-08-13T20:16:53.000Z"
     },
     {
       "source": "Six Colors",
