@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T20:46:17.879Z",
+  "generatedAt": "2026-08-14T21:41:56.047Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple adds new MacBook Air configs, iPhone 16 Plus models, more to refurb store",
+      "url": "https://9to5mac.com/2026/08/14/apple-adds-new-macbook-air-iphone-16-plus-refurb-store/",
+      "pubDate": "2026-08-14T20:57:07.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -183,13 +190,6 @@
       "title": "It's begun - US and Canadian firms can now buy ads on Apple Maps",
       "url": "https://appleinsider.com/articles/26/08/14/its-begun---us-and-canadian-firms-can-now-buy-ads-on-apple-maps?utm_source=rss",
       "pubDate": "2026-08-14T16:23:36.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "No new Apple Watch faces in watchOS 27 (yet), but here’s one I’ve been loving",
-      "url": "https://9to5mac.com/2026/08/14/no-new-apple-watch-faces-in-watchos-27-yet-but-heres-one-ive-been-loving/",
-      "pubDate": "2026-08-14T16:13:51.000Z"
     },
     {
       "source": "AppleInsider",
