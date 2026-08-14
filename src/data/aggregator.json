@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T23:03:50.752Z",
+  "generatedAt": "2026-08-14T00:00:12.183Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone 17 Pro One Year Later: What Held Up and What Didn't",
+      "url": "https://www.macrumors.com/2026/08/13/iphone-17-pro-one-year-later/",
+      "pubDate": "2026-08-13T23:58:50.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "What's Coming in September: New iPhones, Apple Watches and More",
+      "url": "https://www.macrumors.com/2026/08/13/apple-september-announcement-rumors/",
+      "pubDate": "2026-08-13T23:20:39.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Apple and Epic argue over how much Apple should get from purchases made outside the App Store",
+      "url": "https://www.theverge.com/tech/979967/apple-epic-games-external-links-fees-filing",
+      "pubDate": "2026-08-13T23:13:24.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Ted Lasso Season 4 Premiere is Apple TV's Biggest Launch Ever",
+      "url": "https://www.macrumors.com/2026/08/13/ted-lasso-premiere-record/",
+      "pubDate": "2026-08-13T23:05:01.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -255,13 +283,6 @@
       "pubDate": "2026-08-13T16:59:40.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "2K launches new studio to build its &#8216;next blockbuster sports franchise&#8217;",
-      "url": "https://www.theverge.com/games/979689/2k-sports-franchise-small-axe-studios-soccer",
-      "pubDate": "2026-08-13T16:38:15.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "App Store review is broken in a time where it is needed the most",
@@ -330,27 +351,6 @@
       "title": "Eddy Cue hints at more 'Ted Lasso' seasons to come",
       "url": "https://appleinsider.com/articles/26/08/13/eddy-cue-hints-at-more-ted-lasso-seasons-to-come?utm_source=rss",
       "pubDate": "2026-08-13T11:45:01.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Base iPhone 18 Tipped to Get These Two Pro-Level Upgrades",
-      "url": "https://www.macrumors.com/2026/08/13/base-iphone-18-two-pro-level-upgrades/",
-      "pubDate": "2026-08-13T10:02:43.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "WhatsApp Now Lets You Save a Contact's Username",
-      "url": "https://www.macrumors.com/2026/08/13/whatsapp-save-a-contacts-username/",
-      "pubDate": "2026-08-13T09:10:20.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple's 2026 Back to School Offer is Now Live Across Europe",
-      "url": "https://www.macrumors.com/2026/08/13/apple-2026-back-to-school-europe-live/",
-      "pubDate": "2026-08-13T08:42:12.000Z"
     },
     {
       "source": "Six Colors",
