@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T18:07:53.243Z",
+  "generatedAt": "2026-08-14T19:15:00.932Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,41 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "How classic console games are coming to the Mac without emulation",
+      "url": "https://appleinsider.com/articles/26/08/14/how-classic-console-games-are-coming-to-the-mac-without-emulation?utm_source=rss",
+      "pubDate": "2026-08-14T18:41:39.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "A RAMageddon guide to back-to-school laptop shopping",
+      "url": "https://www.theverge.com/tech/979996/best-laptops-students-middle-high-school",
+      "pubDate": "2026-08-14T18:32:47.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple TV has 15+ new movies and it’s just the start of a big fall lineup",
+      "url": "https://9to5mac.com/2026/08/14/apple-tv-has-15-new-movies-and-its-just-the-start-of-a-big-fall-ahead/",
+      "pubDate": "2026-08-14T18:28:31.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "HomeKit Weekly: This iPad app turns your HomeKit setup into a wall-mountable command center",
+      "url": "https://9to5mac.com/2026/08/14/dashboard-for-your-home/",
+      "pubDate": "2026-08-14T18:11:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "PSA: Claude Code now enables auto mode as default, Anthropic says",
+      "url": "https://9to5mac.com/2026/08/14/psa-claude-code-enabling-auto-mode-as-default-next-week-anthropic-says/",
+      "pubDate": "2026-08-14T18:00:00.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -178,32 +213,11 @@
       "pubDate": "2026-08-14T13:41:47.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Unforgetful is a new app from the creator of Overcast that enhances Apple Reminders",
-      "url": "https://9to5mac.com/2026/08/14/unforgetful-is-a-new-app-from-the-creator-of-overcast-that-enhances-apple-reminders/",
-      "pubDate": "2026-08-14T13:36:43.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple One gets even better in iOS 27, here’s what’s new",
-      "url": "https://9to5mac.com/2026/08/14/apple-one-is-getting-better-in-ios-27-heres-whats-new/",
-      "pubDate": "2026-08-14T13:32:15.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "30 New Things Your iPhone Can Do in iOS 27",
       "url": "https://www.macrumors.com/2026/08/14/new-things-your-iphone-can-do-ios-27/",
       "pubDate": "2026-08-14T13:24:56.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "My DIY iPhone camera mod looks absurd but is great to use",
-      "url": "https://9to5mac.com/2026/08/14/my-diy-iphone-camera-mod-looks-absurd-but-is-great-to-use/",
-      "pubDate": "2026-08-14T12:12:30.000Z"
     },
     {
       "source": "The Verge",
@@ -255,13 +269,6 @@
       "pubDate": "2026-08-14T09:46:29.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple trained its own AI model for China with help from Alibaba",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-      "pubDate": "2026-08-14T09:21:17.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple CEO Tim Cook: 'I hope that people say I was a good and decent man'",
@@ -309,13 +316,6 @@
       "title": "Apple Wants to Charge Developers Up to 15 Percent for Linking Outside the App Store",
       "url": "https://www.macrumors.com/2026/08/13/app-store-fees-apple-link-outs/",
       "pubDate": "2026-08-13T22:11:46.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Supreme Court denies yet another stay in Apple vs Epic proceedings as deadlines loom",
-      "url": "https://appleinsider.com/articles/26/08/13/supreme-court-denies-yet-another-stay-in-apple-vs-epic-proceedings-as-deadlines-loom?utm_source=rss",
-      "pubDate": "2026-08-13T22:10:01.000Z"
     },
     {
       "source": "Six Colors",
