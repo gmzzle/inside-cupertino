@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T10:40:48.889Z",
+  "generatedAt": "2026-08-15T11:34:38.537Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Seven years later, the Apple Card is a huge but controversial success",
+      "url": "https://appleinsider.com/articles/20/08/20/one-year-later-the-apple-card-is-a-huge-but-controversial-success?utm_source=rss",
+      "pubDate": "2026-08-15T11:20:57.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "How classic console games are coming to the Mac without emulation",
+      "url": "https://appleinsider.com/articles/26/08/14/how-classic-console-games-are-coming-to-the-mac-without-emulation?utm_source=rss",
+      "pubDate": "2026-08-15T11:20:05.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "When housing is unaffordable, this artist’s device makes pedaling harder",
+      "url": "https://www.theverge.com/tech/980359/ground-truth-justin-blinder-housing-affordable-bike-pedal",
+      "pubDate": "2026-08-15T11:00:00.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -113,13 +134,6 @@
       "title": "Should You Buy an iPhone 17 Now or Wait for iPhone 18?",
       "url": "https://www.macrumors.com/2026/08/14/iphone-17-vs-iphone-18-buying/",
       "pubDate": "2026-08-14T19:15:15.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "How classic console games are coming to the Mac without emulation",
-      "url": "https://appleinsider.com/articles/26/08/14/how-classic-console-games-are-coming-to-the-mac-without-emulation?utm_source=rss",
-      "pubDate": "2026-08-14T18:41:39.000Z"
     },
     {
       "source": "The Verge",
@@ -276,13 +290,6 @@
       "pubDate": "2026-08-14T11:18:26.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The MSI Claw EX is the most important PC handheld since Steam Deck — I still wouldn’t buy one",
-      "url": "https://www.theverge.com/games/977646/msi-claw-8-ex-review-intel-panther-lake-handheld",
-      "pubDate": "2026-08-14T11:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Trained Own AI Model for China Market With Help From Alibaba",
@@ -365,13 +372,6 @@
       "title": "App report: Talk back and track on a Mac",
       "url": "https://sixcolors.com/post/2026/08/app-report-talk-back-and-track-on-a-mac/",
       "pubDate": "2026-08-12T15:32:32.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) The Rebound 611: Don’t You Dare Put That in Titles",
-      "url": "https://sixcolors.com/podcast/2026/08/the-rebound-611-dont-you-dare-put-that-in-titles/",
-      "pubDate": "2026-08-11T14:00:00.000Z"
     }
   ]
 }
