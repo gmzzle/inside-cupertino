@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T11:34:38.537Z",
+  "generatedAt": "2026-08-15T12:59:33.472Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple weekend deals: MacBooks up to $540 off, AirPods up to $100 off, Apple Watch, more",
+      "url": "https://9to5mac.com/2026/08/15/apple-weekend-deals-macbooks-airpods/",
+      "pubDate": "2026-08-15T12:20:15.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "U.S. Commerce Secretary warns Apple against buying Chinese memory",
+      "url": "https://appleinsider.com/articles/26/08/15/us-commerce-secretary-warns-apple-against-buying-chinese-memory?utm_source=rss",
+      "pubDate": "2026-08-15T12:18:45.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "We’re reaching peak camera with the Sony A7R VI",
+      "url": "https://www.theverge.com/gadgets/980064/sony-a7r-vi-6-hands-on-impressions-review",
+      "pubDate": "2026-08-15T12:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The surprise must-see movie of the summer",
+      "url": "https://www.theverge.com/tech/980428/end-oak-street-pixel-11-lanterns-installer",
+      "pubDate": "2026-08-15T12:00:00.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -157,13 +185,6 @@
       "pubDate": "2026-08-14T18:11:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "PSA: Claude Code now enables auto mode as default, Anthropic says",
-      "url": "https://9to5mac.com/2026/08/14/psa-claude-code-enabling-auto-mode-as-default-next-week-anthropic-says/",
-      "pubDate": "2026-08-14T18:00:00.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Lamborghini’s flagship Revuelto levels up with SV trim",
@@ -234,13 +255,6 @@
       "pubDate": "2026-08-14T14:51:07.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "2025 GOTY Clair Obscur: Expedition 33 is down to $33",
-      "url": "https://www.theverge.com/gadgets/980261/clair-obscur-pixel-11-gaming-laptop-4k-bluray-deal-sale",
-      "pubDate": "2026-08-14T14:50:25.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Best Apple Deals of the Week: Steep Discounts Hit AirPods, MacBook Pro, and Anker Accessories",
@@ -260,13 +274,6 @@
       "title": "30 New Things Your iPhone Can Do in iOS 27",
       "url": "https://www.macrumors.com/2026/08/14/new-things-your-iphone-can-do-ios-27/",
       "pubDate": "2026-08-14T13:24:56.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "CMF&#8217;s clip earbuds hit the balance between cheap and good",
-      "url": "https://www.theverge.com/tech/979928/cmf-clip-pro-review",
-      "pubDate": "2026-08-14T12:00:00.000Z"
     },
     {
       "source": "AppleInsider",
@@ -302,13 +309,6 @@
       "title": "Apple CEO Tim Cook: 'I hope that people say I was a good and decent man'",
       "url": "https://appleinsider.com/articles/26/08/14/apple-ceo-tim-cook-i-hope-that-people-say-i-was-a-good-and-decent-man?utm_source=rss",
       "pubDate": "2026-08-14T03:09:26.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "New wave of Apple threat notifications reach 110 countries to warn about targeted attacks",
-      "url": "https://appleinsider.com/articles/26/08/14/new-wave-of-apple-threat-notifications-reach-110-countries-to-warn-about-targeted-attacks?utm_source=rss",
-      "pubDate": "2026-08-14T01:55:52.000Z"
     },
     {
       "source": "MacRumors",
