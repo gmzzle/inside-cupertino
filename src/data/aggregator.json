@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T14:40:29.400Z",
+  "generatedAt": "2026-08-15T15:35:15.541Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Switched on Pop’s Nate Sloan and Charlie Harding love fresh vegetables and guitar pedals",
+      "url": "https://www.theverge.com/report/980288/switched-on-pop-nate-sloan-charlie-harding-podcast-netflix-interview",
+      "pubDate": "2026-08-15T15:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Star Wars: Ahsoka season 2 and Starfighter get teased at D23",
+      "url": "https://www.theverge.com/entertainment/980666/star-wars-ahsoka-season-2-and-starfighter-get-teased-at-d23",
+      "pubDate": "2026-08-15T14:58:27.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Epic Games vs Apple -- The continuing six-year App Store saga",
+      "url": "https://appleinsider.com/articles/20/08/23/apple-versus-epic-games-fortnite-app-store-saga----the-story-so-far?utm_source=rss",
+      "pubDate": "2026-08-15T14:55:34.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -206,25 +227,11 @@
       "pubDate": "2026-08-14T19:15:15.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "A RAMageddon guide to back-to-school laptop shopping",
-      "url": "https://www.theverge.com/tech/979996/best-laptops-students-middle-high-school",
-      "pubDate": "2026-08-14T18:32:47.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Apple TV has 15+ new movies and it’s just the start of a big fall lineup",
       "url": "https://9to5mac.com/2026/08/14/apple-tv-has-15-new-movies-and-its-just-the-start-of-a-big-fall-ahead/",
       "pubDate": "2026-08-14T18:28:31.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Lamborghini’s flagship Revuelto levels up with SV trim",
-      "url": "https://www.theverge.com/transportation/979807/lamborghini-revuelto-sv-specs-performance",
-      "pubDate": "2026-08-14T18:00:00.000Z"
     },
     {
       "source": "MacRumors",
@@ -309,13 +316,6 @@
       "title": "Apple Trained Own AI Model for China Market With Help From Alibaba",
       "url": "https://www.macrumors.com/2026/08/14/apple-trained-own-ai-model-for-china/",
       "pubDate": "2026-08-14T09:46:29.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple CEO Tim Cook: 'I hope that people say I was a good and decent man'",
-      "url": "https://appleinsider.com/articles/26/08/14/apple-ceo-tim-cook-i-hope-that-people-say-i-was-a-good-and-decent-man?utm_source=rss",
-      "pubDate": "2026-08-14T03:09:26.000Z"
     },
     {
       "source": "MacRumors",
