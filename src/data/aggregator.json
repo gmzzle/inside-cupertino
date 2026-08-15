@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T15:35:15.541Z",
+  "generatedAt": "2026-08-15T16:42:19.072Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple has a huge product roadmap for the smart home: Here’s what’s coming",
+      "url": "https://9to5mac.com/2026/08/15/apple-home-product-roadmap-tv-homepod-smart-display/",
+      "pubDate": "2026-08-15T16:08:09.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Delete your family’s personal data from the internet with a 55% discount on Incogni",
+      "url": "https://9to5mac.com/2026/08/15/delete-your-familys-personal-data-from-internet-55-discount-incogni/",
+      "pubDate": "2026-08-15T16:00:00.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -57,6 +71,13 @@
       "title": "I finally found a magnetic phone grip I never want to remove",
       "url": "https://www.theverge.com/tech/979850/ohsnap-snap-grip-stand-review",
       "pubDate": "2026-08-15T14:10:16.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple @ Work: Understanding Apple Business Manager roles and permissions",
+      "url": "https://9to5mac.com/2026/08/15/apple-work-understanding-apple-business-manager-roles-and-permissions/",
+      "pubDate": "2026-08-15T14:06:00.000Z"
     },
     {
       "source": "The Verge",
@@ -199,20 +220,6 @@
       "pubDate": "2026-08-14T19:44:33.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone 18 Pro Max vs Pro: Here’s how Apple will differentiate models",
-      "url": "https://9to5mac.com/2026/08/14/iphone-18-pro-max-vs-pro-heres-how-apple-will-differentiate-models/",
-      "pubDate": "2026-08-14T19:35:33.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple takes down billboard after accusations of normalizing ‘electronic babysitting’",
-      "url": "https://9to5mac.com/2026/08/14/apple-takes-down-billboard-after-accusations-of-normalizing-electronic-babysitting/",
-      "pubDate": "2026-08-14T19:29:55.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Samsung has new Galaxy headphones in the works",
@@ -225,13 +232,6 @@
       "title": "Should You Buy an iPhone 17 Now or Wait for iPhone 18?",
       "url": "https://www.macrumors.com/2026/08/14/iphone-17-vs-iphone-18-buying/",
       "pubDate": "2026-08-14T19:15:15.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple TV has 15+ new movies and it’s just the start of a big fall lineup",
-      "url": "https://9to5mac.com/2026/08/14/apple-tv-has-15-new-movies-and-its-just-the-start-of-a-big-fall-ahead/",
-      "pubDate": "2026-08-14T18:28:31.000Z"
     },
     {
       "source": "MacRumors",
