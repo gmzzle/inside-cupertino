@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T16:42:19.072Z",
+  "generatedAt": "2026-08-15T17:35:24.936Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Don&#8217;t overlook Elektron&#8217;s budget electronic music instruments",
+      "url": "https://www.theverge.com/gadgets/980275/elektron-model-cycles-model-samples-groovebox-electronic-music-instruments-review",
+      "pubDate": "2026-08-15T17:00:00.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -218,13 +225,6 @@
       "title": "9to5Mac Daily: August 14, 2026 – Apple TV news, iPhone 18 expectations",
       "url": "https://9to5mac.com/2026/08/14/daily-august-14-2026/",
       "pubDate": "2026-08-14T19:44:33.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Samsung has new Galaxy headphones in the works",
-      "url": "https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones",
-      "pubDate": "2026-08-14T19:18:45.000Z"
     },
     {
       "source": "MacRumors",
