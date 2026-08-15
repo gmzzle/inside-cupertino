@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T12:59:33.472Z",
+  "generatedAt": "2026-08-15T13:44:10.653Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Top Stories: iOS 27 Beta 5, iPhone 18 Pro Rumors, and More",
+      "url": "https://www.macrumors.com/2026/08/15/top-stories-ios-27-beta-5/",
+      "pubDate": "2026-08-15T13:00:12.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Xteink’s tiny e-readers are getting access to free books through Libby",
+      "url": "https://www.theverge.com/tech/976390/xteink-x3-x4-x4-pro-e-reader-libby-plug-ins-drm-crosspoint-reader",
+      "pubDate": "2026-08-15T13:00:00.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -213,13 +227,6 @@
       "pubDate": "2026-08-14T16:54:16.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "You can now turn off Google Gemini&#8217;s visible watermarks",
-      "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-      "pubDate": "2026-08-14T16:39:32.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "The MacRumors Show: Where Does the Apple Watch Go Next?",
@@ -330,13 +337,6 @@
       "title": "Ted Lasso Season 4 Premiere is Apple TV's Biggest Launch Ever",
       "url": "https://www.macrumors.com/2026/08/13/ted-lasso-premiere-record/",
       "pubDate": "2026-08-13T23:05:01.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Wants to Charge Developers Up to 15 Percent for Linking Outside the App Store",
-      "url": "https://www.macrumors.com/2026/08/13/app-store-fees-apple-link-outs/",
-      "pubDate": "2026-08-13T22:11:46.000Z"
     },
     {
       "source": "Six Colors",
