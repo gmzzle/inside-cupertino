@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T01:50:26.002Z",
+  "generatedAt": "2026-08-15T03:05:47.561Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Commerce Secretary says US opposes Apple buying Chinese memory chips",
+      "url": "https://9to5mac.com/2026/08/14/commerce-secretary-says-us-opposes-apple-buying-chinese-memory-chips/",
+      "pubDate": "2026-08-15T02:15:02.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -162,13 +169,6 @@
       "title": "Google&#8217;s best new camera feature is only for the Pixel 11 series",
       "url": "https://www.theverge.com/tech/980467/google-pixel-11-camera-looks-older-phones",
       "pubDate": "2026-08-14T17:34:14.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Review: TerraMow V1000 is the easiest iPhone-controlled robot lawn mower I’ve tested",
-      "url": "https://9to5mac.com/2026/08/14/review-terramow-v1000-is-the-easiest-iphone-controlled-robot-lawn-mower-ive-tested/",
-      "pubDate": "2026-08-14T17:15:57.000Z"
     },
     {
       "source": "The Verge",
