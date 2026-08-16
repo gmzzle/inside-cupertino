@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T11:34:46.143Z",
+  "generatedAt": "2026-08-16T13:01:24.032Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Rogue AI aren’t science fiction anymore",
+      "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+      "pubDate": "2026-08-16T12:00:00.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -134,13 +141,6 @@
       "title": "Top Stories: iOS 27 Beta 5, iPhone 18 Pro Rumors, and More",
       "url": "https://www.macrumors.com/2026/08/15/top-stories-ios-27-beta-5/",
       "pubDate": "2026-08-15T13:00:12.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Xteink’s tiny e-readers are getting access to free books through Libby",
-      "url": "https://www.theverge.com/tech/976390/xteink-x3-x4-x4-pro-e-reader-libby-plug-ins-drm-crosspoint-reader",
-      "pubDate": "2026-08-15T13:00:00.000Z"
     },
     {
       "source": "9to5Mac",
