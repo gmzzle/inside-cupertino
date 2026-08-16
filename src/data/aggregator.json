@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T16:43:05.256Z",
+  "generatedAt": "2026-08-16T17:34:40.348Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "It’s time for iOS to have its own Material You",
+      "url": "https://9to5mac.com/2026/08/16/its-time-for-ios-to-have-its-own-material-you/",
+      "pubDate": "2026-08-16T17:33:48.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -239,13 +246,6 @@
       "title": "These AI tools make my life much easier on the Mac",
       "url": "https://9to5mac.com/2026/08/14/these-ai-tools-make-my-life-much-easier-on-the-mac/",
       "pubDate": "2026-08-14T19:57:27.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Tim Cook on his Apple legacy: ‘I hope people say I was a good and decent man’",
-      "url": "https://9to5mac.com/2026/08/14/tim-cook-on-his-apple-legacy-i-hope-people-say-i-was-a-good-and-decent-man/",
-      "pubDate": "2026-08-14T19:49:29.000Z"
     },
     {
       "source": "MacRumors",
