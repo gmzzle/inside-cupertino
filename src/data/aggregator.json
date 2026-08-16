@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T17:34:40.348Z",
+  "generatedAt": "2026-08-16T18:47:45.734Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Amazon is trying to crush class-action suits before they get started",
+      "url": "https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions",
+      "pubDate": "2026-08-16T17:35:02.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -141,13 +148,6 @@
       "title": "Disney D23 2026: Everything announced for Star Wars, Marvel, and more",
       "url": "https://www.theverge.com/streaming/980633/x-men-marvel-star-wars-pixar-disney-d23",
       "pubDate": "2026-08-15T14:20:33.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "I finally found a magnetic phone grip I never want to remove",
-      "url": "https://www.theverge.com/tech/979850/ohsnap-snap-grip-stand-review",
-      "pubDate": "2026-08-15T14:10:16.000Z"
     },
     {
       "source": "9to5Mac",
