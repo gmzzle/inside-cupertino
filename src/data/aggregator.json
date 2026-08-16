@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T03:13:27.982Z",
+  "generatedAt": "2026-08-16T04:02:53.021Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Polaroid’s tiny instant camera is $72 and includes a free pack of film",
+      "url": "https://www.theverge.com/gadgets/980448/polaroid-go-second-generation-film-pack-bundle-deal-sale",
+      "pubDate": "2026-08-16T03:00:00.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -141,13 +148,6 @@
       "title": "U.S. Commerce Secretary warns Apple against buying Chinese memory",
       "url": "https://appleinsider.com/articles/26/08/15/us-commerce-secretary-warns-apple-against-buying-chinese-memory?utm_source=rss",
       "pubDate": "2026-08-15T12:18:45.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "We’re reaching peak camera with the Sony A7R VI",
-      "url": "https://www.theverge.com/gadgets/980064/sony-a7r-vi-6-hands-on-impressions-review",
-      "pubDate": "2026-08-15T12:00:00.000Z"
     },
     {
       "source": "AppleInsider",
