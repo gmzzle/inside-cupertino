@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T07:16:54.111Z",
+  "generatedAt": "2026-08-17T09:01:32.345Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Job Listing Suggests Apple Fitness+ Could Get Live Content",
+      "url": "https://www.macrumors.com/2026/08/17/apple-fitness-could-get-live-content/",
+      "pubDate": "2026-08-17T08:02:07.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -337,13 +344,6 @@
       "title": "iPhone 17 Pro One Year Later: What Held Up and What Didn't",
       "url": "https://www.macrumors.com/2026/08/13/iphone-17-pro-one-year-later/",
       "pubDate": "2026-08-13T23:58:50.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "What's Coming in September: New iPhones, Apple Watches and More",
-      "url": "https://www.macrumors.com/2026/08/13/apple-september-announcement-rumors/",
-      "pubDate": "2026-08-13T23:20:39.000Z"
     },
     {
       "source": "Six Colors",
