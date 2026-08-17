@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T14:45:44.208Z",
+  "generatedAt": "2026-08-17T15:41:21.571Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,48 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Save $100 to $150 on Apple's M4 iPad Air after Amazon issues steeper markdowns",
+      "url": "https://appleinsider.com/articles/26/08/17/save-100-to-150-on-apples-m4-ipad-air-after-amazon-issues-steeper-markdowns?utm_source=rss",
+      "pubDate": "2026-08-17T15:36:43.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone 18 Pro: Six new features are coming next month",
+      "url": "https://9to5mac.com/2026/08/17/iphone-18-pro-six-new-features-are-coming-this-fall/",
+      "pubDate": "2026-08-17T15:33:10.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Deals: AirPods Pro 3 25% off, AirPods Max 2 $120 off, AirTag 2 all-time low, M5 Pro MacBook Pro $650 off, more",
+      "url": "https://9to5mac.com/2026/08/17/deals-airpods-pro-3-airpods-max-2-airtag-2-macbook-pro/",
+      "pubDate": "2026-08-17T15:25:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Sonos just launched Live Activities on iPhone",
+      "url": "https://9to5mac.com/2026/08/17/sonos-just-launched-live-activities-on-iphone/",
+      "pubDate": "2026-08-17T15:10:39.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Apple ordered to stop scaring iPhone and iPad users away from third-party apps",
+      "url": "https://www.theverge.com/tech/980977/apple-app-tracking-transparency-settlement-germany",
+      "pubDate": "2026-08-17T15:10:25.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Wallet Driver's License Feature to Launch in Four More U.S. States",
+      "url": "https://www.macrumors.com/2026/08/17/apple-wallet-ids-expanding-to-four-more-states/",
+      "pubDate": "2026-08-17T14:53:03.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -241,13 +283,6 @@
       "pubDate": "2026-08-16T19:51:07.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Amazon is trying to crush class action suits before they get started",
-      "url": "https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions",
-      "pubDate": "2026-08-16T17:35:02.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "It’s time for iOS to have its own Material You",
@@ -262,39 +297,11 @@
       "pubDate": "2026-08-16T15:56:18.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Mozilla gradually rolls out an ad-blocker built into Firefox for iOS",
-      "url": "https://appleinsider.com/articles/26/08/16/mozilla-gradually-rolls-out-an-ad-blocker-built-into-firefox-for-ios?utm_source=rss",
-      "pubDate": "2026-08-16T15:40:30.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "AirPods 4 ANC Hit $134.99 Low Price on Amazon, Plus Pro 3 for $189.99",
       "url": "https://www.macrumors.com/2026/08/16/airpods-4-anc-hit-134/",
       "pubDate": "2026-08-16T14:18:27.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Indie App Spotlight: ‘Notepad.exe’ is an ultra-fast, lightweight code editor for your Mac",
-      "url": "https://9to5mac.com/2026/08/15/indie-app-spotlight-notepad-exe-is-an-ultra-fast-lightweight-code-editor-for-your-mac/",
-      "pubDate": "2026-08-15T19:30:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple has a huge product roadmap for the smart home: Here’s what’s coming",
-      "url": "https://9to5mac.com/2026/08/15/apple-home-product-roadmap-tv-homepod-smart-display/",
-      "pubDate": "2026-08-15T16:08:09.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Delete your family’s personal data from the internet with a 55% discount on Incogni",
-      "url": "https://9to5mac.com/2026/08/15/delete-your-familys-personal-data-from-internet-55-discount-incogni/",
-      "pubDate": "2026-08-15T16:00:00.000Z"
     },
     {
       "source": "MacRumors",
@@ -337,13 +344,6 @@
       "title": "Best Apple Deals of the Week: Steep Discounts Hit AirPods, MacBook Pro, and Anker Accessories",
       "url": "https://www.macrumors.com/2026/08/14/best-apple-deals-of-the-week-8-14-26/",
       "pubDate": "2026-08-14T14:18:44.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Tim Cook Reflects on His Legacy in Final Weeks as Apple CEO",
-      "url": "https://www.macrumors.com/2026/08/14/apple-ceo-tim-cook-reflects-on-legacy-apple/",
-      "pubDate": "2026-08-14T14:12:40.000Z"
     },
     {
       "source": "AppleInsider",
