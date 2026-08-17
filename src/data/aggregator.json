@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T15:41:21.571Z",
+  "generatedAt": "2026-08-17T16:47:01.491Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,55 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The Analogue Pocket gets a Supreme makeover in red or gold",
+      "url": "https://www.theverge.com/games/981054/analogue-pocket-supreme-red-gold-fall-winter-2026-collection",
+      "pubDate": "2026-08-17T16:40:32.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Sonos finally added Live Activities controls for your iPhone lockscreen",
+      "url": "https://www.theverge.com/tech/981008/sonos-mobile-ios-iphone-app-live-activities",
+      "pubDate": "2026-08-17T16:38:35.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Trump’s dumb border wall",
+      "url": "https://www.theverge.com/report/980933/trump-border-wall-big-bend-arizona-cottonwood-tree-sit",
+      "pubDate": "2026-08-17T16:30:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Sports App Updated With More Soccer Leagues",
+      "url": "https://www.macrumors.com/2026/08/17/apple-sports-app-more-soccer-leagues/",
+      "pubDate": "2026-08-17T16:28:55.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "How German regulators are cracking down on App Tracking Transparency",
+      "url": "https://appleinsider.com/articles/26/08/17/how-german-regulators-are-cracking-down-on-app-tracking-transparency?utm_source=rss",
+      "pubDate": "2026-08-17T16:01:27.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Sponsor) Magic Lasso Adblock: incredibly private and secure Safari web browsing",
+      "url": "https://sixcolors.com/feed-only/2026/08/magic-lasso-adblock-incredibly-private-and-secure-safari-web-browsing-19/",
+      "pubDate": "2026-08-17T16:00:38.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Agrees to Make 'App Tracking Transparency' Changes in Germany",
+      "url": "https://www.macrumors.com/2026/08/17/apple-app-tracking-transparency-changes-germany/",
+      "pubDate": "2026-08-17T15:46:05.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -131,7 +180,7 @@
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple will comply with ‘fairer’ App Tracking Transparency rules in the EU",
+      "title": "Apple will comply with ‘fairer’ App Tracking Transparency rules in the EU [U]",
       "url": "https://9to5mac.com/2026/08/17/apple-will-comply-with-fairer-app-tracking-transparency-rules-in-the-eu/",
       "pubDate": "2026-08-17T13:58:11.000Z"
     },
@@ -192,13 +241,6 @@
       "pubDate": "2026-08-17T12:05:42.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "How German regulators are cracking down on App Tracking Transparency",
-      "url": "https://appleinsider.com/articles/26/08/17/how-german-regulators-are-cracking-down-on-app-tracking-transparency?utm_source=rss",
-      "pubDate": "2026-08-17T12:01:09.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "A serious Mac screen sharing vulnerability is being actively exploited",
@@ -246,27 +288,6 @@
       "title": "Job Listing Suggests Apple Fitness+ Could Get Live Content",
       "url": "https://www.macrumors.com/2026/08/17/apple-fitness-could-get-live-content/",
       "pubDate": "2026-08-17T08:02:07.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "I’m hooked on Peak Design’s new City bags",
-      "url": "https://www.theverge.com/tech/980137/peak-design-city-line-review",
-      "pubDate": "2026-08-17T07:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "OpenAI reportedly disbanded its preparedness team",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
-      "pubDate": "2026-08-16T21:32:56.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Open Mike Eagle and Kenny Segal crafted a hip-hop breakup masterpiece",
-      "url": "https://www.theverge.com/entertainment/980799/open-mike-eagle-and-kenny-segal-doomed-review",
-      "pubDate": "2026-08-16T20:31:37.000Z"
     },
     {
       "source": "AppleInsider",
@@ -332,20 +353,6 @@
       "pubDate": "2026-08-14T16:35:14.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Ads Coming Soon to Apple Maps",
-      "url": "https://www.macrumors.com/2026/08/14/ads-coming-soon-to-apple-maps/",
-      "pubDate": "2026-08-14T15:29:06.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Best Apple Deals of the Week: Steep Discounts Hit AirPods, MacBook Pro, and Anker Accessories",
-      "url": "https://www.macrumors.com/2026/08/14/best-apple-deals-of-the-week-8-14-26/",
-      "pubDate": "2026-08-14T14:18:44.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "How to use Continuity to make your Apple devices work better together",
@@ -365,13 +372,6 @@
       "title": "(Podcast) Clockwise 669: I Love a Good Donut",
       "url": "https://sixcolors.com/podcast/2026/08/clockwise-669-i-love-a-good-donut/",
       "pubDate": "2026-08-12T22:20:24.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "MLB hires indie Mosaic app developer",
-      "url": "https://sixcolors.com/post/2026/08/mlb-hires-indie-mosaic-app-developer/",
-      "pubDate": "2026-08-12T21:50:34.000Z"
     }
   ]
 }
