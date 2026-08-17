@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T13:07:01.355Z",
+  "generatedAt": "2026-08-17T13:54:02.273Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "New iPhone Ultra leaks cover release timing, availability, and name",
+      "url": "https://9to5mac.com/2026/08/17/new-iphone-ultra-leaks-cover-release-timing-availability-and-name/",
+      "pubDate": "2026-08-17T13:47:23.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Natural language robot cues, Apple Intelligence limits, & Mophie 4-in-1 review on Smart Home Insider",
+      "url": "https://appleinsider.com/articles/26/08/17/natural-language-robot-cues-apple-intelligence-limits-mophie-4-in-1-review-on-smart-home-insider?utm_source=rss",
+      "pubDate": "2026-08-17T13:37:17.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "AI-generated text should be detectable, but Apple needs to avoid Anthropic’s huge error",
+      "url": "https://9to5mac.com/2026/08/17/ai-generated-text-should-be-detectable-but-apple-needs-to-avoid-anthropics-huge-error/",
+      "pubDate": "2026-08-17T13:30:47.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -267,27 +288,6 @@
       "title": "U.S. Commerce Secretary warns Apple against buying Chinese memory",
       "url": "https://appleinsider.com/articles/26/08/15/us-commerce-secretary-warns-apple-against-buying-chinese-memory?utm_source=rss",
       "pubDate": "2026-08-15T12:18:45.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Seven years later, the Apple Card is a huge but controversial success",
-      "url": "https://appleinsider.com/articles/20/08/20/one-year-later-the-apple-card-is-a-huge-but-controversial-success?utm_source=rss",
-      "pubDate": "2026-08-15T11:20:57.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Commerce Secretary says US opposes Apple buying Chinese memory chips",
-      "url": "https://9to5mac.com/2026/08/14/commerce-secretary-says-us-opposes-apple-buying-chinese-memory-chips/",
-      "pubDate": "2026-08-15T02:15:02.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "WhatsApp working on customizable emoji reaction sets on iOS",
-      "url": "https://9to5mac.com/2026/08/14/whatsapp-working-on-customizable-emoji-reaction-sets-on-ios/",
-      "pubDate": "2026-08-14T21:49:23.000Z"
     },
     {
       "source": "MacRumors",
