@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T22:42:25.489Z",
+  "generatedAt": "2026-08-17T23:38:05.572Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "macOS 27 Golden Gate beta 6 adds fifth dynamic wallpaper, get them all here [Gallery]",
+      "url": "https://9to5mac.com/2026/08/17/macos-27-golden-gate-beta-6-adds-fifth-dynamic-wallpaper-get-them-all-here-gallery/",
+      "pubDate": "2026-08-17T22:43:39.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -211,13 +218,6 @@
       "title": "Apple's sixth 27-gen developer betas arrive as the fall release draws closer",
       "url": "https://appleinsider.com/articles/26/08/17/apples-sixth-27-gen-developer-betas-arrive-as-the-fall-release-draws-closer?utm_source=rss",
       "pubDate": "2026-08-17T17:30:50.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple releases beta 6 for iPadOS 27, tvOS 27, and more",
-      "url": "https://9to5mac.com/2026/08/17/apple-releases-beta-6-for-ipados-27-tvos-27-and-more/",
-      "pubDate": "2026-08-17T17:22:59.000Z"
     },
     {
       "source": "MacRumors",
