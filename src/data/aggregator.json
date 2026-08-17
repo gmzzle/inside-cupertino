@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T16:47:01.491Z",
+  "generatedAt": "2026-08-17T17:46:24.646Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,90 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple releases iOS 26.6.1 for iPhone, here’s what’s new",
+      "url": "https://9to5mac.com/2026/08/17/apple-releases-ios-26-6-1-for-iphone-heres-whats-new/",
+      "pubDate": "2026-08-17T17:36:42.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's sixth 27-gen developer betas arrive as the fall release draws closer",
+      "url": "https://appleinsider.com/articles/26/08/17/apples-sixth-27-gen-developer-betas-arrive-as-the-fall-release-draws-closer?utm_source=rss",
+      "pubDate": "2026-08-17T17:30:50.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple releases beta 6 for iPadOS 27, tvOS 27, and more",
+      "url": "https://9to5mac.com/2026/08/17/apple-releases-beta-6-for-ipados-27-tvos-27-and-more/",
+      "pubDate": "2026-08-17T17:22:59.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Seeds Sixth iOS 27 and iPadOS 27 Betas to Developers",
+      "url": "https://www.macrumors.com/2026/08/17/apple-seeds-sixth-ios-27-developer-beta/",
+      "pubDate": "2026-08-17T17:19:28.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "macOS 27 Golden Gate developer beta 6 now available to developers",
+      "url": "https://9to5mac.com/2026/08/17/macos-27-golden-gate-developer-beta-6-now-available-to-developers/",
+      "pubDate": "2026-08-17T17:19:01.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 beta 6 now available as Apple tests major Siri AI upgrade",
+      "url": "https://9to5mac.com/2026/08/17/ios-27-beta-6/",
+      "pubDate": "2026-08-17T17:18:41.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Releases macOS Golden Gate Beta 6",
+      "url": "https://www.macrumors.com/2026/08/17/apple-releases-macos-golden-gate-beta-6/",
+      "pubDate": "2026-08-17T17:18:36.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Seeds watchOS 27 Beta 6 to Developers",
+      "url": "https://www.macrumors.com/2026/08/17/apple-seeds-watchos-27-beta-6-to-developers/",
+      "pubDate": "2026-08-17T17:17:40.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Seeds tvOS 27 Beta 6 to Developers",
+      "url": "https://www.macrumors.com/2026/08/17/apple-seeds-tvos-27-beta-6-to-developers/",
+      "pubDate": "2026-08-17T17:16:22.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Seeds Sixth visionOS 27 Beta to Developers",
+      "url": "https://www.macrumors.com/2026/08/17/apple-seeds-sixth-visionos-27-developer-beta/",
+      "pubDate": "2026-08-17T17:15:37.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "YouTube is changing how it counts views to give the numbers a boost",
+      "url": "https://www.theverge.com/streaming/981105/youtube-video-view-counting-update",
+      "pubDate": "2026-08-17T17:13:03.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "AirBuddy 3 now available with new Action HUD, widgets, Now Playing, deeper automation, more",
+      "url": "https://9to5mac.com/2026/08/17/airbuddy-3-now-available-with-new-action-hud-widgets-now-playing-deeper-automation-more/",
+      "pubDate": "2026-08-17T17:00:06.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -199,13 +283,6 @@
       "pubDate": "2026-08-17T13:37:17.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "AI-generated text should be detectable, but Apple needs to avoid Anthropic’s huge error",
-      "url": "https://9to5mac.com/2026/08/17/ai-generated-text-should-be-detectable-but-apple-needs-to-avoid-anthropics-huge-error/",
-      "pubDate": "2026-08-17T13:30:47.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "The best Apple-related books in AppleInsider's video studio",
@@ -234,32 +311,11 @@
       "pubDate": "2026-08-17T12:09:42.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Best AirPods deals right now: Save $120 on AirPods Max 2, AirPods Pro 3 for $190, more",
-      "url": "https://9to5mac.com/2026/08/17/best-airpods-deals-right-now-save-120-on-airpods-max-2-airpods-pro-3-for-190-more/",
-      "pubDate": "2026-08-17T12:05:42.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "A serious Mac screen sharing vulnerability is being actively exploited",
-      "url": "https://9to5mac.com/2026/08/17/a-serious-mac-screen-sharing-vulnerability-is-being-actively-exploited/",
-      "pubDate": "2026-08-17T11:36:50.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple Watch Series 11 vs Google Pixel Watch 5: Flagship smartwatches, compared",
       "url": "https://appleinsider.com/inside/apple-watch-series-11/vs/apple-watch-series-11-vs-google-pixel-watch-5-flagship-smartwatches-compared?utm_source=rss",
       "pubDate": "2026-08-17T11:10:52.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Fitness+ could be getting live sessions, but probably not",
-      "url": "https://9to5mac.com/2026/08/17/apple-fitness-could-be-getting-live-sessions-but-probably-not/",
-      "pubDate": "2026-08-17T11:10:11.000Z"
     },
     {
       "source": "The Verge",
@@ -274,13 +330,6 @@
       "title": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
       "url": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
       "pubDate": "2026-08-17T11:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-      "pubDate": "2026-08-17T10:57:13.000Z"
     },
     {
       "source": "MacRumors",
@@ -302,55 +351,6 @@
       "title": "Sunday Reboot: Failed delays, late homework, and Fortnite",
       "url": "https://appleinsider.com/articles/26/08/16/sunday-reboot-failed-delays-late-homework-and-fortnite?utm_source=rss",
       "pubDate": "2026-08-16T19:51:07.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "It’s time for iOS to have its own Material You",
-      "url": "https://9to5mac.com/2026/08/16/its-time-for-ios-to-have-its-own-material-you/",
-      "pubDate": "2026-08-16T17:33:48.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Deals: AirPods 4 with ANC plunge to $134, AirTag returns to $24.99",
-      "url": "https://appleinsider.com/articles/26/08/16/deals-airpods-4-with-anc-plunge-to-134-airtag-returns-to-2499?utm_source=rss",
-      "pubDate": "2026-08-16T15:56:18.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "AirPods 4 ANC Hit $134.99 Low Price on Amazon, Plus Pro 3 for $189.99",
-      "url": "https://www.macrumors.com/2026/08/16/airpods-4-anc-hit-134/",
-      "pubDate": "2026-08-16T14:18:27.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Top Stories: iOS 27 Beta 5, iPhone 18 Pro Rumors, and More",
-      "url": "https://www.macrumors.com/2026/08/15/top-stories-ios-27-beta-5/",
-      "pubDate": "2026-08-15T13:00:12.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "MacBook Ultra: Everything We Know About Apple's OLED Touchscreen Mac",
-      "url": "https://www.macrumors.com/guide/macbook-ultra/",
-      "pubDate": "2026-08-14T21:48:24.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Should You Buy an iPhone 17 Now or Wait for iPhone 18?",
-      "url": "https://www.macrumors.com/2026/08/14/iphone-17-vs-iphone-18-buying/",
-      "pubDate": "2026-08-14T19:15:15.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "The MacRumors Show: Where Does the Apple Watch Go Next?",
-      "url": "https://www.macrumors.com/2026/08/14/the-macrumors-show-where-does-the-apple-watch-go-next/",
-      "pubDate": "2026-08-14T16:35:14.000Z"
     },
     {
       "source": "AppleInsider",
