@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T17:46:24.646Z",
+  "generatedAt": "2026-08-17T18:57:57.507Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,62 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iPhone 18 Pro's A20 will be faster, power efficient, cost a lot",
+      "url": "https://appleinsider.com/articles/26/08/17/iphone-18-pros-a20-will-be-faster-power-efficient-cost-a-lot?utm_source=rss",
+      "pubDate": "2026-08-17T18:55:49.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 26.6.1 has fixes for 20+ security issues on iPhone, details here",
+      "url": "https://9to5mac.com/2026/08/17/ios-26-6-1-has-fixes-for-20-security-issues-on-iphone-details-here/",
+      "pubDate": "2026-08-17T18:29:43.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Best Buy 60th Anniversary Sale Brings Massive Deals on Apple Products and More",
+      "url": "https://www.macrumors.com/2026/08/17/best-buy-anniversary-sale-2/",
+      "pubDate": "2026-08-17T18:12:37.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone 18 Pro and iPhone Ultra: New Details Leak as Apple Event Nears",
+      "url": "https://www.macrumors.com/2026/08/17/iphone-18-pro-and-iphone-ultra-rumors/",
+      "pubDate": "2026-08-17T18:09:40.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple has shipped iOS 26.6.1, and you should install it soon",
+      "url": "https://appleinsider.com/articles/26/08/17/apple-has-shipped-ios-2661-and-you-should-install-it-soon?utm_source=rss",
+      "pubDate": "2026-08-17T18:09:28.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "macOS 27 Golden Gate beta 6 features redesigned traffic light window controls",
+      "url": "https://9to5mac.com/2026/08/17/macos-27-golden-gate-beta-6-features-redesigned-traffic-light-window-controls/",
+      "pubDate": "2026-08-17T18:05:28.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple rolls out Release Candidates for macOS Tahoe 26.7 and macOS Sequoia 15.8",
+      "url": "https://9to5mac.com/2026/08/17/apple-rolls-out-release-candidates-for-macos-tahoe-26-7-and-macos-sequoia-15-8/",
+      "pubDate": "2026-08-17T17:52:28.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Releases iOS 26.6.1, macOS 26.6.2, and More",
+      "url": "https://www.macrumors.com/2026/08/17/apple-releases-ios-26-6-1-and-more/",
+      "pubDate": "2026-08-17T17:52:15.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -248,32 +304,11 @@
       "pubDate": "2026-08-17T14:10:16.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "This iPad keyboard case is the perfect addition to our Back to School tech roundup",
-      "url": "https://9to5mac.com/2026/08/17/this-ipad-keyboard-case-is-the-perfect-addition-to-our-back-to-school-tech-roundup/",
-      "pubDate": "2026-08-17T14:07:35.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "It’s about ethics in journalism, with Ben Smith",
       "url": "https://www.theverge.com/podcast/980759/ben-smith-semafor-ethics-journalism-ai-events-buzzfeed-media-news",
       "pubDate": "2026-08-17T14:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple will comply with ‘fairer’ App Tracking Transparency rules in the EU [U]",
-      "url": "https://9to5mac.com/2026/08/17/apple-will-comply-with-fairer-app-tracking-transparency-rules-in-the-eu/",
-      "pubDate": "2026-08-17T13:58:11.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "New iPhone Ultra leaks cover release timing, availability, and name",
-      "url": "https://9to5mac.com/2026/08/17/new-iphone-ultra-leaks-cover-release-timing-availability-and-name/",
-      "pubDate": "2026-08-17T13:47:23.000Z"
     },
     {
       "source": "AppleInsider",
@@ -288,20 +323,6 @@
       "title": "The best Apple-related books in AppleInsider's video studio",
       "url": "https://appleinsider.com/articles/26/08/17/the-best-apple-related-books-in-appleinsiders-video-studio?utm_source=rss",
       "pubDate": "2026-08-17T13:05:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "AirPods Max 2 Discounted by $120 Across Amazon and Best Buy",
-      "url": "https://www.macrumors.com/2026/08/17/airpods-max-2-drop-to-low/",
-      "pubDate": "2026-08-17T12:36:23.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple's macOS Screen Sharing Flaw Is Being Exploited in the Wild",
-      "url": "https://www.macrumors.com/2026/08/17/macos-screen-sharing-flaw-exploited/",
-      "pubDate": "2026-08-17T12:20:07.000Z"
     },
     {
       "source": "AppleInsider",
@@ -330,27 +351,6 @@
       "title": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
       "url": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
       "pubDate": "2026-08-17T11:00:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Job Listing Suggests Apple Fitness+ Could Get Live Content",
-      "url": "https://www.macrumors.com/2026/08/17/apple-fitness-could-get-live-content/",
-      "pubDate": "2026-08-17T08:02:07.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Jony Ive-designed Ferrari Luce sells for $40M at auction",
-      "url": "https://appleinsider.com/articles/26/08/16/jony-ive-designed-ferrari-luce-sells-for-40m-at-auction?utm_source=rss",
-      "pubDate": "2026-08-16T20:04:32.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Sunday Reboot: Failed delays, late homework, and Fortnite",
-      "url": "https://appleinsider.com/articles/26/08/16/sunday-reboot-failed-delays-late-homework-and-fortnite?utm_source=rss",
-      "pubDate": "2026-08-16T19:51:07.000Z"
     },
     {
       "source": "AppleInsider",
