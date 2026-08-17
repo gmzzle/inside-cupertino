@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T11:42:01.686Z",
+  "generatedAt": "2026-08-17T13:07:01.355Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,18 +24,53 @@
   ],
   "items": [
     {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "The best Apple-related books in AppleInsider's video studio",
+      "url": "https://appleinsider.com/articles/26/08/17/the-best-apple-related-books-in-appleinsiders-video-studio?utm_source=rss",
+      "pubDate": "2026-08-17T13:05:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "AirPods Max 2 Discounted by $120 Across Amazon and Best Buy",
+      "url": "https://www.macrumors.com/2026/08/17/airpods-max-2-drop-to-low/",
+      "pubDate": "2026-08-17T12:36:23.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's macOS Screen Sharing Flaw Is Being Exploited in the Wild",
+      "url": "https://www.macrumors.com/2026/08/17/macos-screen-sharing-flaw-exploited/",
+      "pubDate": "2026-08-17T12:20:07.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Michigan women sue Apple over AirTag anti-stalking protection failures",
+      "url": "https://appleinsider.com/articles/26/08/17/michigan-women-sue-apple-over-airtag-anti-stalking-protection-failures?utm_source=rss",
+      "pubDate": "2026-08-17T12:09:42.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Best AirPods deals right now: Save $120 on AirPods Max 2, AirPods Pro 3 for $190, more",
+      "url": "https://9to5mac.com/2026/08/17/best-airpods-deals-right-now-save-120-on-airpods-max-2-airpods-pro-3-for-190-more/",
+      "pubDate": "2026-08-17T12:05:42.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "How German regulators are cracking down on App Tracking Transparency",
+      "url": "https://appleinsider.com/articles/26/08/17/how-german-regulators-are-cracking-down-on-app-tracking-transparency?utm_source=rss",
+      "pubDate": "2026-08-17T12:01:09.000Z"
+    },
+    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "A serious Mac screen sharing vulnerability is being actively exploited",
       "url": "https://9to5mac.com/2026/08/17/a-serious-mac-screen-sharing-vulnerability-is-being-actively-exploited/",
       "pubDate": "2026-08-17T11:36:50.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Cook teases revitalization of US manufacturing ghost towns",
-      "url": "https://appleinsider.com/articles/26/08/17/cook-teases-revitalization-of-us-manufacturing-ghost-towns?utm_source=rss",
-      "pubDate": "2026-08-17T11:36:31.000Z"
     },
     {
       "source": "AppleInsider",
@@ -154,7 +189,7 @@
       "sourceHomepage": "https://www.macrumors.com",
       "title": "AirPods 4 ANC Hit $134.99 Low Price on Amazon, Plus Pro 3 for $189.99",
       "url": "https://www.macrumors.com/2026/08/16/airpods-4-anc-hit-134/",
-      "pubDate": "2026-08-16T14:18:36.000Z"
+      "pubDate": "2026-08-16T14:18:27.000Z"
     },
     {
       "source": "The Verge",
@@ -241,13 +276,6 @@
       "pubDate": "2026-08-15T11:20:57.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "How classic console games are coming to the Mac without emulation",
-      "url": "https://appleinsider.com/articles/26/08/14/how-classic-console-games-are-coming-to-the-mac-without-emulation?utm_source=rss",
-      "pubDate": "2026-08-15T11:20:05.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Commerce Secretary says US opposes Apple buying Chinese memory chips",
@@ -267,20 +295,6 @@
       "title": "MacBook Ultra: Everything We Know About Apple's OLED Touchscreen Mac",
       "url": "https://www.macrumors.com/guide/macbook-ultra/",
       "pubDate": "2026-08-14T21:48:24.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple adds new MacBook Air configs, iPhone 16 Plus models, more to refurb store",
-      "url": "https://9to5mac.com/2026/08/14/apple-adds-new-macbook-air-iphone-16-plus-refurb-store/",
-      "pubDate": "2026-08-14T20:57:07.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Missing the bigger picture: Apple pulls down ad in Milan after children's rights group complains",
-      "url": "https://appleinsider.com/articles/26/08/14/missing-the-bigger-picture-apple-pulls-down-ad-in-milan-after-childrens-rights-group-complains?utm_source=rss",
-      "pubDate": "2026-08-14T20:17:37.000Z"
     },
     {
       "source": "MacRumors",
@@ -330,20 +344,6 @@
       "title": "How to use Continuity to make your Apple devices work better together",
       "url": "https://appleinsider.com/inside/icloud/tips/how-to-use-continuity-to-make-your-apple-devices-work-better-together?utm_source=rss",
       "pubDate": "2026-08-14T11:18:26.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Trained Own AI Model for China Market With Help From Alibaba",
-      "url": "https://www.macrumors.com/2026/08/14/apple-trained-own-ai-model-for-china/",
-      "pubDate": "2026-08-14T09:46:29.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone 17 Pro One Year Later: What Held Up and What Didn't",
-      "url": "https://www.macrumors.com/2026/08/13/iphone-17-pro-one-year-later/",
-      "pubDate": "2026-08-13T23:58:50.000Z"
     },
     {
       "source": "Six Colors",
