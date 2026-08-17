@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T20:44:38.224Z",
+  "generatedAt": "2026-08-17T21:42:06.037Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Spotify’s new Playlist Notes let users add context to songs, podcasts, and audiobook picks",
+      "url": "https://9to5mac.com/2026/08/17/spotifys-new-playlist-notes-let-users-add-context-to-songs-podcasts-and-audiobook-picks/",
+      "pubDate": "2026-08-17T21:00:47.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "ABC&#8217;s livestreamed news show is powered by trending topics",
+      "url": "https://www.theverge.com/streaming/981209/abc-news-searched-livestreamed-show",
+      "pubDate": "2026-08-17T20:59:23.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -199,13 +213,6 @@
       "pubDate": "2026-08-17T17:19:01.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 beta 6 now available as Apple tests major Siri AI upgrade",
-      "url": "https://9to5mac.com/2026/08/17/ios-27-beta-6/",
-      "pubDate": "2026-08-17T17:18:41.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Releases macOS Golden Gate Beta 6",
@@ -330,13 +337,6 @@
       "title": "LLMs aren’t writing",
       "url": "https://sixcolors.com/post/2026/08/llms-arent-writing/",
       "pubDate": "2026-08-17T14:10:16.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "It’s about ethics in journalism, with Ben Smith",
-      "url": "https://www.theverge.com/podcast/980759/ben-smith-semafor-ethics-journalism-ai-events-buzzfeed-media-news",
-      "pubDate": "2026-08-17T14:00:00.000Z"
     },
     {
       "source": "AppleInsider",
