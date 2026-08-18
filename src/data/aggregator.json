@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T09:49:36.404Z",
+  "generatedAt": "2026-08-18T10:47:21.329Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Unreleased AirPods 5 Models Referenced in macOS 26.7",
+      "url": "https://www.macrumors.com/2026/08/18/unreleased-airpods-5-models-referenced-macos-26-7/",
+      "pubDate": "2026-08-18T10:07:58.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -281,13 +288,6 @@
       "title": "Apple Seeds Sixth iOS 27 and iPadOS 27 Betas to Developers",
       "url": "https://www.macrumors.com/2026/08/17/apple-seeds-sixth-ios-27-developer-beta/",
       "pubDate": "2026-08-17T17:19:28.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Releases macOS Golden Gate Beta 6",
-      "url": "https://www.macrumors.com/2026/08/17/apple-releases-macos-golden-gate-beta-6/",
-      "pubDate": "2026-08-17T17:18:36.000Z"
     },
     {
       "source": "The Verge",
