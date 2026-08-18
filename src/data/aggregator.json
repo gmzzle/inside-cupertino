@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T16:49:01.837Z",
+  "generatedAt": "2026-08-18T17:44:46.827Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,6 +24,48 @@
   ],
   "items": [
     {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple pledges donation in support of Indonesia earthquake relief",
+      "url": "https://9to5mac.com/2026/08/18/apple-pledges-donation-in-support-of-indonesia-earthquake-relief/",
+      "pubDate": "2026-08-18T17:31:33.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "PlayStation&#8217;s wireless gaming speakers launch in November",
+      "url": "https://www.theverge.com/tech/981562/sony-playstation-pulse-elevate-wireless-gaming-speakers-launch-date-preorder",
+      "pubDate": "2026-08-18T17:18:57.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "New EU App Store terms lower both costs and bar to entry for external payments",
+      "url": "https://appleinsider.com/articles/26/08/18/new-eu-app-store-terms-lower-both-costs-and-bar-to-entry-for-external-payments?utm_source=rss",
+      "pubDate": "2026-08-18T17:14:20.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Anthropic says Claude Cowork is now available on mobile for all paid plans",
+      "url": "https://9to5mac.com/2026/08/18/anthropic-says-claude-cowork-is-now-available-on-mobile-for-all-paid-plans/",
+      "pubDate": "2026-08-18T17:09:16.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple releases public beta 4 for iOS 27, macOS 27, iPadOS 27, tvOS 27 [U: watchOS 27]",
+      "url": "https://9to5mac.com/2026/08/18/apple-releases-public-beta-4-for-ios-27-macos-27-ipados-27-tvos-27/",
+      "pubDate": "2026-08-18T17:07:54.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "macOS 27 Golden Gate makes one design decision that I would change for MacBooks",
+      "url": "https://9to5mac.com/2026/08/18/macos-27-golden-gate-makes-one-design-decision-that-i-would-change-for-macbooks/",
+      "pubDate": "2026-08-18T16:56:43.000Z"
+    },
+    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Apple squashes EU beef with new App Store rules",
@@ -38,18 +80,11 @@
       "pubDate": "2026-08-18T16:35:55.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "New EU App Store terms lower both costs and bar to entry for external payments",
-      "url": "https://appleinsider.com/articles/26/08/18/new-eu-app-store-terms-lower-both-costs-and-bar-to-entry-for-external-payments?utm_source=rss",
-      "pubDate": "2026-08-18T16:33:33.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Overhauls EU App Store Fees to Settle Digital Markets Act Dispute",
       "url": "https://www.macrumors.com/2026/08/18/eu-app-store-fee-change/",
-      "pubDate": "2026-08-18T16:29:18.000Z"
+      "pubDate": "2026-08-18T16:29:08.000Z"
     },
     {
       "source": "The Verge",
@@ -241,13 +276,6 @@
       "pubDate": "2026-08-18T12:47:31.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "The eight changes Apple is making to App Tracking Transparency in Europe",
-      "url": "https://9to5mac.com/2026/08/18/the-eight-changes-apple-is-making-to-app-tracking-transparency-in-europe/",
-      "pubDate": "2026-08-18T12:38:49.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Rothschild's AAPL price target soars to $400 on iPhone Ultra expectations",
@@ -269,32 +297,11 @@
       "pubDate": "2026-08-18T12:01:29.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Verge Guide to Pets",
-      "url": "https://www.theverge.com/tech/975556/pets-tech-autofeeder-litter-robot-scale",
-      "pubDate": "2026-08-18T12:01:28.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Steve Jobs’ 8th-grade science fair project goes up for auction",
-      "url": "https://9to5mac.com/2026/08/18/steve-jobs-8th-grade-science-fair-project-goes-up-for-auction/",
-      "pubDate": "2026-08-18T12:00:05.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple's US App Store Commission Revenue Down 18% This Year",
       "url": "https://www.macrumors.com/2026/08/18/apple-app-store-revenue-falling/",
       "pubDate": "2026-08-18T11:41:54.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple admits it may not make any commission from alternative app stores",
-      "url": "https://9to5mac.com/2026/08/18/apple-admits-it-may-not-make-any-commission-from-alternative-app-stores/",
-      "pubDate": "2026-08-18T11:30:44.000Z"
     },
     {
       "source": "MacRumors",
@@ -309,13 +316,6 @@
       "title": "Only iPhone 18 Pro Max rumored to get variable aperture",
       "url": "https://appleinsider.com/articles/26/08/18/only-iphone-18-pro-max-rumored-to-get-variable-aperture?utm_source=rss",
       "pubDate": "2026-08-18T11:05:34.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Two camera features may be unique to the iPhone 18 Pro Max, suggests leaker",
-      "url": "https://9to5mac.com/2026/08/18/two-camera-features-may-be-unique-to-the-iphone-18-pro-max-suggests-leaker/",
-      "pubDate": "2026-08-18T11:04:52.000Z"
     },
     {
       "source": "MacRumors",
