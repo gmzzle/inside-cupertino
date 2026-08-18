@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T11:42:18.099Z",
+  "generatedAt": "2026-08-18T13:09:02.601Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,76 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "AirTag 2 Drops to Low Price of $89 for 4-Pack",
+      "url": "https://www.macrumors.com/2026/08/18/airtag-2-89-for-4-pack/",
+      "pubDate": "2026-08-18T12:47:31.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Dell UltraSharp 32 4K QD-OLED review: Excellent color-calibration, not perfect for Mac users",
+      "url": "https://appleinsider.com/articles/26/08/17/dell-ultrasharp-32-4k-qd-oled-review-excellent-color-calibration-not-perfect-for-mac-users?utm_source=rss",
+      "pubDate": "2026-08-18T12:46:02.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "The eight changes Apple is making to App Tracking Transparency in Europe",
+      "url": "https://9to5mac.com/2026/08/18/the-eight-changes-apple-is-making-to-app-tracking-transparency-in-europe/",
+      "pubDate": "2026-08-18T12:38:49.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Rothschild's AAPL price target soars to $400 on iPhone Ultra expectations",
+      "url": "https://appleinsider.com/articles/26/08/18/rothschilds-aapl-price-target-soars-to-400-on-iphone-ultra-expectations?utm_source=rss",
+      "pubDate": "2026-08-18T12:30:32.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Lindsay Clancy murder trial prosecutors leaning on iPhone & Apple Watch forensics",
+      "url": "https://appleinsider.com/articles/26/08/18/lindsay-clancy-murder-trial-prosecutors-leaning-on-iphone-apple-watch-forensics?utm_source=rss",
+      "pubDate": "2026-08-18T12:10:50.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Google&#8217;s Pet Memory forgot who my cats are",
+      "url": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
+      "pubDate": "2026-08-18T12:01:29.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The Verge Guide to Pets",
+      "url": "https://www.theverge.com/tech/975556/pets-tech-autofeeder-litter-robot-scale",
+      "pubDate": "2026-08-18T12:01:28.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Steve Jobs’ 8th-grade science fair project goes up for auction",
+      "url": "https://9to5mac.com/2026/08/18/steve-jobs-8th-grade-science-fair-project-goes-up-for-auction/",
+      "pubDate": "2026-08-18T12:00:05.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "My parrot ate my keyboard",
+      "url": "https://www.theverge.com/tech/978402/parrot-ate-keyboard-protect",
+      "pubDate": "2026-08-18T12:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's US App Store Commission Revenue Down 18% This Year",
+      "url": "https://www.macrumors.com/2026/08/18/apple-app-store-revenue-falling/",
+      "pubDate": "2026-08-18T11:41:54.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -150,25 +220,11 @@
       "pubDate": "2026-08-18T00:42:42.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Dell UltraSharp 32 4K QD-OLED review: Excellent color-calibration, not perfect for Mac users",
-      "url": "https://appleinsider.com/articles/26/08/17/dell-ultrasharp-32-4k-qd-oled-review-excellent-color-calibration-not-perfect-for-mac-users?utm_source=rss",
-      "pubDate": "2026-08-17T23:55:03.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "macOS Tahoe 26.7 is Full of References to Unreleased Apple Products",
       "url": "https://www.macrumors.com/2026/08/17/macos-26-7-unreleased-apple-devices/",
       "pubDate": "2026-08-17T23:50:34.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple's sixth developer betas arrive for iOS 27, macOS 27, and more",
-      "url": "https://appleinsider.com/articles/26/08/17/apples-sixth-27-gen-developer-betas-arrive-as-the-fall-release-draws-closer?utm_source=rss",
-      "pubDate": "2026-08-17T23:50:24.000Z"
     },
     {
       "source": "The Verge",
@@ -213,13 +269,6 @@
       "pubDate": "2026-08-17T21:00:47.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "ABC&#8217;s livestreamed news show is powered by trending topics",
-      "url": "https://www.theverge.com/streaming/981209/abc-news-searched-livestreamed-show",
-      "pubDate": "2026-08-17T20:59:23.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Adds More New Wallpapers in macOS Golden Gate",
@@ -248,25 +297,11 @@
       "pubDate": "2026-08-17T20:00:58.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "This compact Glorious mechanical keyboard is just $35",
-      "url": "https://www.theverge.com/gadgets/981134/glorious-gmmk-3-mechanical-keyboard-deal-sale",
-      "pubDate": "2026-08-17T19:27:49.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Latest macOS Golden Gate beta adds unique dynamic wallpapers",
       "url": "https://appleinsider.com/articles/26/08/17/latest-macos-golden-gate-beta-adds-unique-dynamic-wallpapers?utm_source=rss",
       "pubDate": "2026-08-17T19:26:28.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Leaker details A20 Pro chip’s new speed gains",
-      "url": "https://9to5mac.com/2026/08/17/leaker-details-a20-pro-chips-new-speed-gains/",
-      "pubDate": "2026-08-17T19:13:55.000Z"
     },
     {
       "source": "MacRumors",
@@ -283,20 +318,6 @@
       "pubDate": "2026-08-17T19:04:50.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Wordle meets Clippy in this new word game",
-      "url": "https://www.theverge.com/entertainment/981014/dartwords-clippy-word-game",
-      "pubDate": "2026-08-17T19:03:41.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Here’s what’s new with iOS and macOS 27 beta 6",
-      "url": "https://9to5mac.com/2026/08/17/heres-whats-new-with-ios-27-beta-6/",
-      "pubDate": "2026-08-17T19:00:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "iPhone 18 Pro's A20 will be faster, power efficient, cost a lot",
@@ -311,13 +332,6 @@
       "pubDate": "2026-08-17T18:12:32.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone 18 Pro and iPhone Ultra: New Details Leak as Apple Event Nears",
-      "url": "https://www.macrumors.com/2026/08/17/iphone-18-pro-and-iphone-ultra-rumors/",
-      "pubDate": "2026-08-17T18:09:40.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple has shipped iOS 26.6.1, and you should install it soon",
@@ -325,25 +339,11 @@
       "pubDate": "2026-08-17T18:09:28.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Releases iOS 26.6.1, macOS 26.6.2, and More",
-      "url": "https://www.macrumors.com/2026/08/17/apple-releases-ios-26-6-1-and-more/",
-      "pubDate": "2026-08-17T17:52:15.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Sponsor) Magic Lasso Adblock: incredibly private and secure Safari web browsing",
       "url": "https://sixcolors.com/feed-only/2026/08/magic-lasso-adblock-incredibly-private-and-secure-safari-web-browsing-19/",
       "pubDate": "2026-08-17T16:00:38.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Save $100 to $150 on Apple's M4 iPad Air after Amazon issues steeper markdowns",
-      "url": "https://appleinsider.com/articles/26/08/17/save-100-to-150-on-apples-m4-ipad-air-after-amazon-issues-steeper-markdowns?utm_source=rss",
-      "pubDate": "2026-08-17T15:36:43.000Z"
     },
     {
       "source": "Six Colors",
