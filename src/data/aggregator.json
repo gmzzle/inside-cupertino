@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T23:38:05.572Z",
+  "generatedAt": "2026-08-18T01:51:21.256Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,62 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "AirPods with cameras get their clearest leak yet",
+      "url": "https://9to5mac.com/2026/08/17/airpods-with-camera-get-their-clearest-leak-yet/",
+      "pubDate": "2026-08-18T01:48:31.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's Camera-Equipped AirPods Confirmed: See Them in Action",
+      "url": "https://www.macrumors.com/2026/08/17/camera-equipped-airpods-macos-26-7/",
+      "pubDate": "2026-08-18T01:21:26.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple: DOJ’s latest challenge in antitrust case ‘fails at every level’",
+      "url": "https://9to5mac.com/2026/08/17/apple-dojs-latest-challenge-in-antitrust-case-fails-at-every-level/",
+      "pubDate": "2026-08-18T00:56:51.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "macOS Tahoe 26.7 beta references several unreleased products like Home Hub",
+      "url": "https://appleinsider.com/articles/26/08/18/macos-tahoe-267-beta-references-several-unreleased-products-like-home-hub?utm_source=rss",
+      "pubDate": "2026-08-18T00:42:42.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Dell UltraSharp 32 4K QD-OLED review: Excellent color-calibration, not perfect for Mac users",
+      "url": "https://appleinsider.com/articles/26/08/17/dell-ultrasharp-32-4k-qd-oled-review-excellent-color-calibration-not-perfect-for-mac-users?utm_source=rss",
+      "pubDate": "2026-08-17T23:55:03.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "macOS Tahoe 26.7 is Full of References to Unreleased Apple Products",
+      "url": "https://www.macrumors.com/2026/08/17/macos-26-7-unreleased-apple-devices/",
+      "pubDate": "2026-08-17T23:50:34.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's sixth developer betas arrive for iOS 27, macOS 27, and more",
+      "url": "https://appleinsider.com/articles/26/08/17/apples-sixth-27-gen-developer-betas-arrive-as-the-fall-release-draws-closer?utm_source=rss",
+      "pubDate": "2026-08-17T23:50:24.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Reddit’s AI is turning posts into podcasts and short videos",
+      "url": "https://www.theverge.com/tech/981289/reddit-ai-text-video-posts",
+      "pubDate": "2026-08-17T23:46:01.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -192,32 +248,11 @@
       "pubDate": "2026-08-17T18:05:28.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple rolls out Release Candidates for macOS Tahoe 26.7 and macOS Sequoia 15.8 [U]",
-      "url": "https://9to5mac.com/2026/08/17/apple-rolls-out-release-candidates-for-macos-tahoe-26-7-and-macos-sequoia-15-8/",
-      "pubDate": "2026-08-17T17:52:28.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Releases iOS 26.6.1, macOS 26.6.2, and More",
       "url": "https://www.macrumors.com/2026/08/17/apple-releases-ios-26-6-1-and-more/",
       "pubDate": "2026-08-17T17:52:15.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple releases iOS 26.6.1 for iPhone, here’s what’s new",
-      "url": "https://9to5mac.com/2026/08/17/apple-releases-ios-26-6-1-for-iphone-heres-whats-new/",
-      "pubDate": "2026-08-17T17:36:42.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple's sixth 27-gen developer betas arrive as the fall release draws closer",
-      "url": "https://appleinsider.com/articles/26/08/17/apples-sixth-27-gen-developer-betas-arrive-as-the-fall-release-draws-closer?utm_source=rss",
-      "pubDate": "2026-08-17T17:30:50.000Z"
     },
     {
       "source": "MacRumors",
@@ -239,20 +274,6 @@
       "title": "Apple Seeds watchOS 27 Beta 6 to Developers",
       "url": "https://www.macrumors.com/2026/08/17/apple-seeds-watchos-27-beta-6-to-developers/",
       "pubDate": "2026-08-17T17:17:40.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Seeds tvOS 27 Beta 6 to Developers",
-      "url": "https://www.macrumors.com/2026/08/17/apple-seeds-tvos-27-beta-6-to-developers/",
-      "pubDate": "2026-08-17T17:16:22.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Seeds Sixth visionOS 27 Beta to Developers",
-      "url": "https://www.macrumors.com/2026/08/17/apple-seeds-sixth-visionos-27-developer-beta/",
-      "pubDate": "2026-08-17T17:15:37.000Z"
     },
     {
       "source": "The Verge",
@@ -318,13 +339,6 @@
       "pubDate": "2026-08-17T14:34:14.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Uber partners with Zipline on Eats drone deliveries",
-      "url": "https://www.theverge.com/transportation/980912/uber-eats-zipline-drone-delivery-investment",
-      "pubDate": "2026-08-17T14:24:35.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "AirPods Max 2 just dropped to $429, save $120",
@@ -344,20 +358,6 @@
       "title": "Natural language robot cues, Apple Intelligence limits, & Mophie 4-in-1 review on Smart Home Insider",
       "url": "https://appleinsider.com/articles/26/08/17/natural-language-robot-cues-apple-intelligence-limits-mophie-4-in-1-review-on-smart-home-insider?utm_source=rss",
       "pubDate": "2026-08-17T13:37:17.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "The best Apple-related books in AppleInsider's video studio",
-      "url": "https://appleinsider.com/articles/26/08/17/the-best-apple-related-books-in-appleinsiders-video-studio?utm_source=rss",
-      "pubDate": "2026-08-17T13:05:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Michigan women sue Apple over AirTag anti-stalking protection failures",
-      "url": "https://appleinsider.com/articles/26/08/17/michigan-women-sue-apple-over-airtag-anti-stalking-protection-failures?utm_source=rss",
-      "pubDate": "2026-08-17T12:09:42.000Z"
     },
     {
       "source": "Six Colors",
