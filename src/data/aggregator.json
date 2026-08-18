@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T13:09:02.601Z",
+  "generatedAt": "2026-08-18T13:57:59.815Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,69 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "New Apple TV to Come With Upgraded Siri Remote",
+      "url": "https://www.macrumors.com/2026/08/18/new-apple-tv-siri-remote-leak/",
+      "pubDate": "2026-08-18T13:55:49.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's App Store revenue in danger of being regulated away",
+      "url": "https://appleinsider.com/articles/26/08/18/apples-app-store-revenue-in-danger-of-being-regulated-away?utm_source=rss",
+      "pubDate": "2026-08-18T13:51:31.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Coyote vs. Acme is even funnier because Warner Bros. Discovery tried to kill it",
+      "url": "https://www.theverge.com/entertainment/981131/coyote-vs-acme-david-zaslac-warner-bros-discovery",
+      "pubDate": "2026-08-18T13:35:35.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "A demo video of AirPods with cameras has leaked via a macOS Tahoe RC",
+      "url": "https://appleinsider.com/articles/26/08/18/a-demo-video-of-airpods-with-cameras-has-leaked-via-a-macos-tahoe-rc?utm_source=rss",
+      "pubDate": "2026-08-18T13:34:36.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Comcast is turning millions of its routers into motion detectors",
+      "url": "https://www.theverge.com/news/981381/comcast-xfinity-shield-wifi-motion-sensing",
+      "pubDate": "2026-08-18T13:30:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "New Apple TV 4K to have upgraded Siri Remote, per leak",
+      "url": "https://9to5mac.com/2026/08/18/new-apple-tv-4k-to-have-upgraded-siri-remote-per-leak/",
+      "pubDate": "2026-08-18T13:29:40.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "ABC sues the FCC over Trump and Carr&#8217;s campaign of threats",
+      "url": "https://www.theverge.com/streaming/981392/abc-fcc-broadcast-license-lawsuit",
+      "pubDate": "2026-08-18T13:27:43.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Polaroid’s new Pokémon collection captures memories, not Pikachus",
+      "url": "https://www.theverge.com/tech/981141/polaroid-pokemon-pikachu-now-go-generation-3-instant-camera-film",
+      "pubDate": "2026-08-18T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Firefox&#8217;s Smart Window promises a better AI browser",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
+      "pubDate": "2026-08-18T13:00:00.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -136,27 +199,6 @@
       "pubDate": "2026-08-18T11:04:52.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Fairphone’s latest repairable phone is going on sale in the US",
-      "url": "https://www.theverge.com/tech/980876/fairphone-6-plus-us-t-mobile-amazon",
-      "pubDate": "2026-08-18T11:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Elon Musk made flying even worse so Palantir could profit",
-      "url": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
-      "pubDate": "2026-08-18T11:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "ChatGPT is getting a dedicated mode for teens",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
-      "pubDate": "2026-08-18T11:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Unreleased AirPods 5 Models Referenced in macOS 26.7",
@@ -176,20 +218,6 @@
       "title": "iPhone 18 Pro Max Rumored to Get Exclusive Camera Upgrade",
       "url": "https://www.macrumors.com/2026/08/18/iphone-18-pro-max-camera-upgrade-exclusive/",
       "pubDate": "2026-08-18T09:39:01.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple&#8217;s camera-equipped AirPods appear in leaked video",
-      "url": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
-      "pubDate": "2026-08-18T09:00:01.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "A demo video of AirPods with cameras has leaked via a macOS Tahoe RC",
-      "url": "https://appleinsider.com/articles/26/08/18/a-demo-video-of-airpods-with-cameras-has-leaked-via-a-macos-tahoe-rc?utm_source=rss",
-      "pubDate": "2026-08-18T02:25:04.000Z"
     },
     {
       "source": "9to5Mac",
@@ -225,13 +253,6 @@
       "title": "macOS Tahoe 26.7 is Full of References to Unreleased Apple Products",
       "url": "https://www.macrumors.com/2026/08/17/macos-26-7-unreleased-apple-devices/",
       "pubDate": "2026-08-17T23:50:34.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Reddit’s AI is turning posts into podcasts and short videos",
-      "url": "https://www.theverge.com/tech/981289/reddit-ai-text-video-posts",
-      "pubDate": "2026-08-17T23:46:01.000Z"
     },
     {
       "source": "9to5Mac",
@@ -290,13 +311,6 @@
       "pubDate": "2026-08-17T20:10:05.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple official refurb store: Save a ton of cash with our top picks of the week",
-      "url": "https://9to5mac.com/2026/08/17/apple-official-refurb-store-top-picks-2/",
-      "pubDate": "2026-08-17T20:00:58.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Latest macOS Golden Gate beta adds unique dynamic wallpapers",
@@ -323,20 +337,6 @@
       "title": "iPhone 18 Pro's A20 will be faster, power efficient, cost a lot",
       "url": "https://appleinsider.com/articles/26/08/17/iphone-18-pros-a20-will-be-faster-power-efficient-cost-a-lot?utm_source=rss",
       "pubDate": "2026-08-17T18:55:49.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Best Buy 60th Anniversary Sale Brings Massive Deals on Apple Products and More",
-      "url": "https://www.macrumors.com/2026/08/17/best-buy-anniversary-sale-2/",
-      "pubDate": "2026-08-17T18:12:32.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple has shipped iOS 26.6.1, and you should install it soon",
-      "url": "https://appleinsider.com/articles/26/08/17/apple-has-shipped-ios-2661-and-you-should-install-it-soon?utm_source=rss",
-      "pubDate": "2026-08-17T18:09:28.000Z"
     },
     {
       "source": "Six Colors",
