@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T01:53:44.918Z",
+  "generatedAt": "2026-08-19T03:11:42.863Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "What's new with the Camera app in iOS 27: Siri mode, enhanced controls, & more",
+      "url": "https://appleinsider.com/articles/26/08/19/whats-new-with-the-camera-app-in-ios-27-siri-mode-enhanced-controls-more?utm_source=rss",
+      "pubDate": "2026-08-19T03:05:20.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -330,13 +337,6 @@
       "title": "Apple's M4 iPad Air Gets Best-Ever Discounts Since Summer Price Hikes",
       "url": "https://www.macrumors.com/2026/08/18/apples-m4-ipad-air-discounts/",
       "pubDate": "2026-08-18T14:08:20.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "You can now make a bid on Steve Jobs' 8th-grade science fair project",
-      "url": "https://appleinsider.com/articles/26/08/18/you-can-now-make-a-bid-on-steve-jobs-8th-grade-science-fair-project?utm_source=rss",
-      "pubDate": "2026-08-18T13:58:35.000Z"
     },
     {
       "source": "MacRumors",
