@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T14:53:36.263Z",
+  "generatedAt": "2026-08-19T15:47:00.035Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,11 +24,74 @@
   ],
   "items": [
     {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple TV hit comedy from Ted Lasso, Shrinking creator returns soon",
+      "url": "https://9to5mac.com/2026/08/19/apple-tv-hit-comedy-from-ted-lasso-shrinking-creator-returns-soon/",
+      "pubDate": "2026-08-19T15:41:37.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Predictable as the tides, Epic Games hates the new EU App Store fees",
+      "url": "https://appleinsider.com/articles/26/08/19/epic-games-disagrees-with-apples-junk-eu-fee-changes?utm_source=rss",
+      "pubDate": "2026-08-19T15:34:50.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Deals: 1-day Apple sale – $400 off M5 Pro MacBook Pro, iPhone Air up to $406 off, iPad mini $450 off, AirPods, more",
+      "url": "https://9to5mac.com/2026/08/19/deals-1-day-apple-sale-macbook-pro-iphone-air-airpods/",
+      "pubDate": "2026-08-19T15:31:25.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "The best look into Apple's past comes from this 'MacWeek' archive",
+      "url": "https://appleinsider.com/articles/26/08/19/the-best-look-into-apples-past-comes-from-this-macweek-archive?utm_source=rss",
+      "pubDate": "2026-08-19T15:27:38.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple will launch 10+ new products soon, with September event coming",
+      "url": "https://9to5mac.com/2026/08/19/apple-will-launch-10-new-products-soon-with-september-event-coming/",
+      "pubDate": "2026-08-19T15:17:10.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Incoming! Amazon expands drone delivery so you can get new AirPods faster",
+      "url": "https://appleinsider.com/articles/26/08/19/incoming-amazon-expands-drone-delivery-so-you-can-get-new-airpods-faster?utm_source=rss",
+      "pubDate": "2026-08-19T15:15:51.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's M5 MacBook Pro with 96W adapter plunges to $1,699 ($320 off)",
+      "url": "https://appleinsider.com/articles/26/08/19/apples-m5-macbook-pro-with-96w-adapter-plunges-to-1699-320-off?utm_source=rss",
+      "pubDate": "2026-08-19T15:03:15.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Accidentally Leaked More Than 10 New Products in macOS Update",
+      "url": "https://www.macrumors.com/2026/08/19/apple-leak-macos-26-7/",
+      "pubDate": "2026-08-19T15:03:06.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Amazon Fire TV devices are getting a free Alexa Plus upgrade",
+      "url": "https://www.theverge.com/tech/982166/amazon-alexa-plus-fire-tv-free",
+      "pubDate": "2026-08-19T15:00:00.000Z"
+    },
+    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Next Apple TV Rumored to Have Five New Features, Including Siri AI",
       "url": "https://www.macrumors.com/2026/08/19/new-apple-tv-five-rumored-upgrades/",
-      "pubDate": "2026-08-19T14:43:14.000Z"
+      "pubDate": "2026-08-19T14:43:02.000Z"
     },
     {
       "source": "9to5Mac",
@@ -71,13 +134,6 @@
       "title": "Amazon and Best Buy Offer Up to $500 Discounts on 2026 MacBook Pro",
       "url": "https://www.macrumors.com/2026/08/19/500-discounts-macbook-pro/",
       "pubDate": "2026-08-19T13:51:40.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Epic Games disagrees with Apples' 'junk' EU fee changes",
-      "url": "https://appleinsider.com/articles/26/08/19/epic-games-disagrees-with-apples-junk-eu-fee-changes?utm_source=rss",
-      "pubDate": "2026-08-19T13:12:08.000Z"
     },
     {
       "source": "AppleInsider",
@@ -248,20 +304,6 @@
       "pubDate": "2026-08-18T20:48:38.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Comcast just turned millions of Xfinity routers into motion sensors",
-      "url": "https://9to5mac.com/2026/08/18/comcast-just-turned-millions-of-xfinity-routers-into-motion-sensors/",
-      "pubDate": "2026-08-18T20:33:55.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Firefox Smart Window adds AI web search, automatic tab groups, and more",
-      "url": "https://9to5mac.com/2026/08/18/firefox-smart-window-adds-ai-web-search-automatic-tab-groups-and-more/",
-      "pubDate": "2026-08-18T20:23:57.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "SteelSeries’ comfy wireless gaming headset is nearly half off",
@@ -283,13 +325,6 @@
       "pubDate": "2026-08-18T19:48:26.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Here’s everything new for Apple Calendar in iOS 27",
-      "url": "https://9to5mac.com/2026/08/18/heres-everything-new-for-apple-calendar-in-ios-27/",
-      "pubDate": "2026-08-18T19:37:21.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple's EU App Store changes are big, and a preview of what's coming in the US",
@@ -297,25 +332,11 @@
       "pubDate": "2026-08-18T19:28:33.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
-      "pubDate": "2026-08-18T19:28:30.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "National Parks Apple Watch Activity Challenge Launching August 23",
       "url": "https://www.macrumors.com/2026/08/18/national-parks-activity-challenge-2026/",
       "pubDate": "2026-08-18T19:09:16.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "New EU App Store terms lower both costs and bar to entry for external payments",
-      "url": "https://appleinsider.com/articles/26/08/18/new-eu-app-store-terms-lower-both-costs-and-bar-to-entry-for-external-payments?utm_source=rss",
-      "pubDate": "2026-08-18T18:51:25.000Z"
     },
     {
       "source": "AppleInsider",
@@ -337,27 +358,6 @@
       "title": "There is a good reason to praise AirPods with cameras, and not fear them",
       "url": "https://appleinsider.com/articles/26/08/18/there-is-a-good-reason-to-praise-airpods-with-cameras-and-not-fear-them?utm_source=rss",
       "pubDate": "2026-08-18T17:55:37.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Overhauls EU App Store Fees to Settle Digital Markets Act Dispute",
-      "url": "https://www.macrumors.com/2026/08/18/eu-app-store-fee-change/",
-      "pubDate": "2026-08-18T16:29:08.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple's product identifier leak is a hard mystery to solve",
-      "url": "https://appleinsider.com/articles/26/08/18/apples-product-identifier-leak-is-a-hard-mystery-to-solve?utm_source=rss",
-      "pubDate": "2026-08-18T16:04:32.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple Card users can stack summer savings with 5% Daily Cash travel promotions",
-      "url": "https://appleinsider.com/articles/26/08/18/apple-card-users-can-stack-summer-savings-with-5-daily-cash-travel-promotions?utm_source=rss",
-      "pubDate": "2026-08-18T15:51:58.000Z"
     },
     {
       "source": "Six Colors",
