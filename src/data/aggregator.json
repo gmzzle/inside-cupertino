@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T08:54:58.484Z",
+  "generatedAt": "2026-08-19T09:50:04.576Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone 17 Pro Cases Fit iPhone 18 Pro - Or At Least Otterbox Thinks So",
+      "url": "https://www.macrumors.com/2026/08/19/iphone-17-pro-cases-fit-iphone-18-pro/",
+      "pubDate": "2026-08-19T09:39:55.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -337,13 +344,6 @@
       "title": "Apple's M4 iPad Air Gets Best-Ever Discounts Since Summer Price Hikes",
       "url": "https://www.macrumors.com/2026/08/18/apples-m4-ipad-air-discounts/",
       "pubDate": "2026-08-18T14:08:20.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "New Apple TV to Come With Upgraded Siri Remote",
-      "url": "https://www.macrumors.com/2026/08/18/new-apple-tv-siri-remote-leak/",
-      "pubDate": "2026-08-18T13:55:49.000Z"
     },
     {
       "source": "The Verge",
