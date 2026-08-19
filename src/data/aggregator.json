@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T23:38:02.411Z",
+  "generatedAt": "2026-08-19T01:53:44.918Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Lexar Armor 700 8TB review: Impressive capacity, good speeds, with a catch",
+      "url": "https://appleinsider.com/articles/26/08/18/lexar-armor-700-8tb-review-impressive-capacity-good-speeds-with-a-catch?utm_source=rss",
+      "pubDate": "2026-08-18T23:44:31.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -82,7 +89,7 @@
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
-      "title": "Find My, iCloud, and several other Apple services are currently down for some users [U]",
+      "title": "Find My, iCloud, and several other Apple services are currently down for some users [U: Fixed]",
       "url": "https://9to5mac.com/2026/08/18/find-my-icloud-and-several-other-apple-services-are-currently-down-for-some-users/",
       "pubDate": "2026-08-18T20:48:38.000Z"
     },
@@ -337,13 +344,6 @@
       "title": "New Apple TV to Come With Upgraded Siri Remote",
       "url": "https://www.macrumors.com/2026/08/18/new-apple-tv-siri-remote-leak/",
       "pubDate": "2026-08-18T13:55:49.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple's App Store revenue in danger of being regulated away",
-      "url": "https://appleinsider.com/articles/26/08/18/apples-app-store-revenue-in-danger-of-being-regulated-away?utm_source=rss",
-      "pubDate": "2026-08-18T13:51:31.000Z"
     },
     {
       "source": "The Verge",
