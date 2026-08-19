@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T11:41:49.215Z",
+  "generatedAt": "2026-08-19T13:10:03.766Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,55 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's home automation hardware might work more like Apple Watch than a HomePod",
+      "url": "https://appleinsider.com/articles/26/08/19/apples-home-automation-hardware-will-work-more-like-an-apple-watch-than-a-homepod?utm_source=rss",
+      "pubDate": "2026-08-19T12:46:47.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Hidden AirTag appears to confirm suspicions about illicit AI book scanning",
+      "url": "https://9to5mac.com/2026/08/19/hidden-airtag-appears-to-confirm-suspicions-about-illicit-ai-book-scanning/",
+      "pubDate": "2026-08-19T12:20:38.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPad Mini 8: Release Date, Pricing, and What to Expect",
+      "url": "https://www.macrumors.com/2026/08/19/ipad-mini-8-release-date-pricing-what-to-expect/",
+      "pubDate": "2026-08-19T12:17:28.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Nvidia’s new financial strategy does not compute",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
+      "pubDate": "2026-08-19T12:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The women’s soccer league is trying to fix fantasy sports",
+      "url": "https://www.theverge.com/entertainment/981880/womens-super-league-wsl-fantasy-league-app",
+      "pubDate": "2026-08-19T12:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Amazon’s drones will soon deliver to nearly 500 US cities and towns",
+      "url": "https://www.theverge.com/tech/981908/amazon-prime-air-drone-delivery-us-expansion",
+      "pubDate": "2026-08-19T11:53:27.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "HomePad code suggests it’ll act like a giant Apple Watch",
+      "url": "https://9to5mac.com/2026/08/19/homepad-code-suggests-itll-act-like-a-giant-apple-watch/",
+      "pubDate": "2026-08-19T11:44:34.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -241,13 +290,6 @@
       "pubDate": "2026-08-18T18:01:46.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "tvOS 27 to add Siri AI for Apple TV 4K, per new leak",
-      "url": "https://9to5mac.com/2026/08/18/tvos-27-to-add-siri-ai-for-apple-tv-4k-per-new-leak/",
-      "pubDate": "2026-08-18T17:56:49.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "There is a good reason to praise AirPods with cameras, and not fear them",
@@ -262,13 +304,6 @@
       "pubDate": "2026-08-18T17:47:04.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple pledges donation in support of Indonesia earthquake relief",
-      "url": "https://9to5mac.com/2026/08/18/apple-pledges-donation-in-support-of-indonesia-earthquake-relief/",
-      "pubDate": "2026-08-18T17:31:33.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "PlayStation&#8217;s wireless gaming speakers launch in November",
@@ -276,25 +311,11 @@
       "pubDate": "2026-08-18T17:18:57.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple squashes EU beef with new App Store rules",
-      "url": "https://www.theverge.com/tech/981504/apple-app-store-eu-rules-core-technology-commission",
-      "pubDate": "2026-08-18T16:48:26.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Overhauls EU App Store Fees to Settle Digital Markets Act Dispute",
       "url": "https://www.macrumors.com/2026/08/18/eu-app-store-fee-change/",
       "pubDate": "2026-08-18T16:29:08.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Tesla is finally launching the Cybercab — let’s hope it’s ready",
-      "url": "https://www.theverge.com/transportation/981398/tesla-cybercab-launch-robotaxi-fsd-safe-ready",
-      "pubDate": "2026-08-18T16:26:29.000Z"
     },
     {
       "source": "AppleInsider",
@@ -332,32 +353,11 @@
       "pubDate": "2026-08-18T15:04:49.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "A new Siri Remote may be in the works, but don't get excited",
-      "url": "https://appleinsider.com/articles/26/08/18/a-new-siri-remote-may-be-in-the-works-but-dont-get-excited?utm_source=rss",
-      "pubDate": "2026-08-18T14:52:19.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Donating to Indonesian Earthquake Relief Efforts",
       "url": "https://www.macrumors.com/2026/08/18/apple-donating-to-indonesia-earthquake-relief/",
       "pubDate": "2026-08-18T14:26:48.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Peacock is raising prices by up to $3",
-      "url": "https://www.theverge.com/streaming/981418/peacock-price-increase-august-2026",
-      "pubDate": "2026-08-18T14:11:39.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple's M4 iPad Air Gets Best-Ever Discounts Since Summer Price Hikes",
-      "url": "https://www.macrumors.com/2026/08/18/apples-m4-ipad-air-discounts/",
-      "pubDate": "2026-08-18T14:08:20.000Z"
     },
     {
       "source": "Six Colors",
