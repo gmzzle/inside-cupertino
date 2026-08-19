@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T19:40:57.453Z",
+  "generatedAt": "2026-08-19T20:46:24.600Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,69 @@
     }
   ],
   "items": [
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) Clockwise 670: Scratch Your Own Itch",
+      "url": "https://sixcolors.com/podcast/2026/08/clockwise-670-scratch-your-own-itch/",
+      "pubDate": "2026-08-19T20:23:16.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "New Apple Store to open in Meridian, Idaho just outside of Boise",
+      "url": "https://appleinsider.com/articles/26/08/19/new-apple-store-to-open-in-meridian-idaho-just-outside-of-boise?utm_source=rss",
+      "pubDate": "2026-08-19T20:17:57.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Watch Susan Kare revisit the icons and graphics for the original Mac",
+      "url": "https://9to5mac.com/2026/08/19/watch-susan-kare-revisit-the-icons-and-graphics-for-the-original-mac/",
+      "pubDate": "2026-08-19T20:14:37.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Ceramic Apple Watch Series 12 is getting more rumor mill traction",
+      "url": "https://appleinsider.com/articles/26/08/19/ceramic-apple-watch-series-12-is-getting-more-rumor-mill-traction?utm_source=rss",
+      "pubDate": "2026-08-19T20:07:43.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone 18 Pro: Three new design updates are coming",
+      "url": "https://9to5mac.com/2026/08/19/iphone-18-pro-three-new-design-updates-are-coming-this-year/",
+      "pubDate": "2026-08-19T20:03:12.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Special 1-day Apple anniversary sale: AirPods Pro 3, MacBook Pro $400 off, iPhone Air/17 Pro, AirTag 2, more",
+      "url": "https://9to5mac.com/2026/08/19/special-1-day-apple-anniversary-sale-airpods/",
+      "pubDate": "2026-08-19T19:53:24.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Nielsen is leaning more on wearables to hear what people are watching",
+      "url": "https://www.theverge.com/entertainment/982358/nielsen-ratings-ppm-smart-watch-cowatching-big-data",
+      "pubDate": "2026-08-19T19:53:09.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "New Apple Store Reportedly Opening in Idaho",
+      "url": "https://www.macrumors.com/2026/08/19/new-apple-store-in-idaho-report/",
+      "pubDate": "2026-08-19T19:46:44.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Watch Series 12 to bring back beloved design material, says leaker",
+      "url": "https://9to5mac.com/2026/08/19/apple-watch-series-12-to-bring-back-beloved-design-material-says-leaker/",
+      "pubDate": "2026-08-19T19:32:06.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -50,6 +113,13 @@
       "title": "Meta brings its personal assistant app to Mac, for better and worse",
       "url": "https://appleinsider.com/articles/26/08/19/meta-brings-its-personal-assistant-app-to-mac-for-better-and-worse?utm_source=rss",
       "pubDate": "2026-08-19T18:26:47.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple is about to launch best reason yet to wear AirPods all day long",
+      "url": "https://9to5mac.com/2026/08/19/apple-is-about-to-launch-best-reason-yet-to-wear-airpods-all-day-long/",
+      "pubDate": "2026-08-19T18:17:43.000Z"
     },
     {
       "source": "The Verge",
@@ -85,6 +155,13 @@
       "title": "Anker and Jackery Kick Off Power Station Sales With Up to $1,500 Off",
       "url": "https://www.macrumors.com/2026/08/19/anker-and-jackery-1500-off/",
       "pubDate": "2026-08-19T17:30:08.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Meta AI is now available as a more capable desktop app for Mac",
+      "url": "https://9to5mac.com/2026/08/19/meta-ai-is-now-available-as-a-more-capable-desktop-app-for-mac/",
+      "pubDate": "2026-08-19T17:29:29.000Z"
     },
     {
       "source": "AppleInsider",
@@ -136,11 +213,11 @@
       "pubDate": "2026-08-19T16:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Google’s Pixel 11 Pro Fold feels like the end of an era",
-      "url": "https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review",
-      "pubDate": "2026-08-19T16:00:00.000Z"
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple TV hit comedy from Ted Lasso, Shrinking creator returns soon",
+      "url": "https://9to5mac.com/2026/08/19/apple-tv-hit-comedy-from-ted-lasso-shrinking-creator-returns-soon/",
+      "pubDate": "2026-08-19T15:41:37.000Z"
     },
     {
       "source": "AppleInsider",
@@ -150,11 +227,25 @@
       "pubDate": "2026-08-19T15:34:50.000Z"
     },
     {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Deals: 1-day Apple sale – $400 off M5 Pro MacBook Pro, iPhone Air up to $406 off, iPad mini $450 off, AirPods, more",
+      "url": "https://9to5mac.com/2026/08/19/deals-1-day-apple-sale-macbook-pro-iphone-air-airpods/",
+      "pubDate": "2026-08-19T15:31:25.000Z"
+    },
+    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "The best look into Apple's past comes from this 'MacWeek' archive",
       "url": "https://appleinsider.com/articles/26/08/19/the-best-look-into-apples-past-comes-from-this-macweek-archive?utm_source=rss",
       "pubDate": "2026-08-19T15:27:38.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple will launch 10+ new products soon, with September event coming",
+      "url": "https://9to5mac.com/2026/08/19/apple-will-launch-10-new-products-soon-with-september-event-coming/",
+      "pubDate": "2026-08-19T15:17:10.000Z"
     },
     {
       "source": "AppleInsider",
@@ -185,11 +276,32 @@
       "pubDate": "2026-08-19T14:43:02.000Z"
     },
     {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "ClarityCheck people-finder left millions of face photos exposed, likely without their knowledge",
+      "url": "https://9to5mac.com/2026/08/19/claritycheck-people-finder-left-millions-of-face-photos-exposed-likely-without-their-knowledge/",
+      "pubDate": "2026-08-19T14:17:19.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Things 3.23 update now available with major repeating to-do improvements",
+      "url": "https://9to5mac.com/2026/08/19/things-3-23-update-now-available-with-major-repeating-to-do-improvements/",
+      "pubDate": "2026-08-19T14:03:30.000Z"
+    },
+    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Things 3.23 Brings Long-Requested Overhaul of Repeating To-Dos",
       "url": "https://www.macrumors.com/2026/08/19/things-3-23-brings-long-requested-overhaul-of-repeating-to-dos/",
       "pubDate": "2026-08-19T14:00:06.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Amazon announces huge drone delivery expansion, here’s where it’s coming next",
+      "url": "https://9to5mac.com/2026/08/19/amazon-announces-huge-drone-delivery-expansion-heres-where-its-coming-next/",
+      "pubDate": "2026-08-19T13:52:32.000Z"
     },
     {
       "source": "MacRumors",
@@ -220,25 +332,11 @@
       "pubDate": "2026-08-19T11:06:09.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Lexar Armor 700 8TB review: Impressive capacity, good speeds, with a catch",
-      "url": "https://appleinsider.com/articles/26/08/18/lexar-armor-700-8tb-review-impressive-capacity-good-speeds-with-a-catch?utm_source=rss",
-      "pubDate": "2026-08-19T10:48:50.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iPhone 17 Pro Cases Fit iPhone 18 Pro - Or At Least Otterbox Thinks So",
       "url": "https://www.macrumors.com/2026/08/19/iphone-17-pro-cases-fit-iphone-18-pro/",
       "pubDate": "2026-08-19T09:39:55.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "What's new with the Camera app in iOS 27: Siri mode, enhanced controls, & more",
-      "url": "https://appleinsider.com/articles/26/08/19/whats-new-with-the-camera-app-in-ios-27-siri-mode-enhanced-controls-more?utm_source=rss",
-      "pubDate": "2026-08-19T03:05:20.000Z"
     },
     {
       "source": "MacRumors",
@@ -269,81 +367,11 @@
       "pubDate": "2026-08-18T21:15:07.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iCloud, Photos, Find My and More Experiencing Issues",
-      "url": "https://www.macrumors.com/2026/08/18/icloud-photos-find-my-service-issues/",
-      "pubDate": "2026-08-18T20:56:35.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) The Rebound 612: The Sommelier of Sentences",
       "url": "https://sixcolors.com/podcast/2026/08/the-rebound-612-the-sommelier-of-sentences/",
       "pubDate": "2026-08-18T11:00:00.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Sponsor) Magic Lasso Adblock: incredibly private and secure Safari web browsing",
-      "url": "https://sixcolors.com/feed-only/2026/08/magic-lasso-adblock-incredibly-private-and-secure-safari-web-browsing-19/",
-      "pubDate": "2026-08-17T16:00:38.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "LLMs aren’t writing",
-      "url": "https://sixcolors.com/post/2026/08/llms-arent-writing/",
-      "pubDate": "2026-08-17T14:10:16.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Review: SuperDuper! 4 gets a stem-to-stern revamp, but is just as seaworthy as ever",
-      "url": "https://sixcolors.com/post/2026/08/review-superduper-4-gets-a-stem-to-stern-revamp-but-is-just-as-seaworthy-as-ever/",
-      "pubDate": "2026-08-13T21:20:23.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) Clockwise 669: I Love a Good Donut",
-      "url": "https://sixcolors.com/podcast/2026/08/clockwise-669-i-love-a-good-donut/",
-      "pubDate": "2026-08-12T22:20:24.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "MLB hires indie Mosaic app developer",
-      "url": "https://sixcolors.com/post/2026/08/mlb-hires-indie-mosaic-app-developer/",
-      "pubDate": "2026-08-12T21:50:34.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "TerminalWidget makes custom widget building easy",
-      "url": "https://sixcolors.com/post/2026/08/terminalwidget-makes-custom-widget-building-easy/",
-      "pubDate": "2026-08-12T17:53:45.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "App report: Talk back and track on a Mac",
-      "url": "https://sixcolors.com/post/2026/08/app-report-talk-back-and-track-on-a-mac/",
-      "pubDate": "2026-08-12T15:32:32.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) The Rebound 611: Don’t You Dare Put That in Titles",
-      "url": "https://sixcolors.com/podcast/2026/08/the-rebound-611-dont-you-dare-put-that-in-titles/",
-      "pubDate": "2026-08-11T14:00:00.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) Upgrade 632: [Redacted Apple Information]",
-      "url": "https://sixcolors.com/podcast/2026/08/upgrade-632-redacted-apple-information/",
-      "pubDate": "2026-08-10T21:14:46.000Z"
     }
   ]
 }
