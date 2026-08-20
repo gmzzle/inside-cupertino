@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T10:48:20.847Z",
+  "generatedAt": "2026-08-20T11:44:03.169Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,62 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "OpenAI's distortion & speculation warrant denying suit dismissal, says Apple",
+      "url": "https://appleinsider.com/articles/26/08/20/distortion-speculation-warrant-denying-openai-request-for-lawsuit-dismissal-says-apple?utm_source=rss",
+      "pubDate": "2026-08-20T11:40:05.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Bought Logitech kit during the Trump tariff mess? You may be due a refund …",
+      "url": "https://9to5mac.com/2026/08/20/bought-logitech-kit-during-the-trump-tariff-mess-you-may-be-due-a-refund/",
+      "pubDate": "2026-08-20T11:37:58.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "AirPods with cameras not coming until 2027, won't take photos",
+      "url": "https://appleinsider.com/articles/26/08/19/airpods-with-cameras-not-coming-till-2027-wont-take-photos?utm_source=rss",
+      "pubDate": "2026-08-20T11:30:23.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Strong iPhone Sales Are Giving Samsung Display a Big OLED Boost",
+      "url": "https://www.macrumors.com/2026/08/20/strong-iphone-sales-boosting-samsung-oled/",
+      "pubDate": "2026-08-20T11:10:55.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: August 20, 2026 – Apple RAM suppliers, iPhone Ultra rumors",
+      "url": "https://9to5mac.com/2026/08/20/daily-august-20-2026/",
+      "pubDate": "2026-08-20T11:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The piano that taught my cat to play for her supper",
+      "url": "https://www.theverge.com/entertainment/980552/pet-piano-cat-autofeeder",
+      "pubDate": "2026-08-20T11:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The Audi S6 Sportback E-tron proves that sedans still matter",
+      "url": "https://www.theverge.com/transportation/982464/audi-s6-sportback-etron-sedan-ev-review",
+      "pubDate": "2026-08-20T11:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple’s long-running app store battle with the EU appears to finally be over",
+      "url": "https://9to5mac.com/2026/08/20/apples-long-running-app-store-battle-with-the-eu-appears-to-finally-be-over/",
+      "pubDate": "2026-08-20T10:52:18.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -59,13 +115,6 @@
       "pubDate": "2026-08-20T02:12:36.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Distortion & speculation warrant denying OpenAI request for lawsuit dismissal, says Apple",
-      "url": "https://appleinsider.com/articles/26/08/20/distortion-speculation-warrant-denying-openai-request-for-lawsuit-dismissal-says-apple?utm_source=rss",
-      "pubDate": "2026-08-20T01:42:31.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Astropad Workbench 1.3 adds faster streaming, privacy curtain, and more",
@@ -92,13 +141,6 @@
       "title": "Schlage Sense Pro review: UWB Home Key proves itself again on this sleek smart lock",
       "url": "https://appleinsider.com/articles/26/08/20/schlage-sense-pro-review-uwb-home-key-proves-itself-again-on-this-sleek-smart-lock?utm_source=rss",
       "pubDate": "2026-08-20T00:07:22.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "AirPods with cameras not coming till 2027, won't take photos",
-      "url": "https://appleinsider.com/articles/26/08/19/airpods-with-cameras-not-coming-till-2027-wont-take-photos?utm_source=rss",
-      "pubDate": "2026-08-19T23:52:24.000Z"
     },
     {
       "source": "9to5Mac",
@@ -185,13 +227,6 @@
       "pubDate": "2026-08-19T20:03:12.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Special 1-day Apple anniversary sale: AirPods Pro 3, MacBook Pro $400 off, iPhone Air/17 Pro, AirTag 2, more",
-      "url": "https://9to5mac.com/2026/08/19/special-1-day-apple-anniversary-sale-airpods/",
-      "pubDate": "2026-08-19T19:53:24.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Nielsen is leaning more on wearables to hear what people are watching",
@@ -204,13 +239,6 @@
       "title": "New Apple Store Reportedly Opening in Idaho",
       "url": "https://www.macrumors.com/2026/08/19/new-apple-store-in-idaho-report/",
       "pubDate": "2026-08-19T19:46:44.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Watch Series 12 to bring back beloved design material, says leaker",
-      "url": "https://9to5mac.com/2026/08/19/apple-watch-series-12-to-bring-back-beloved-design-material-says-leaker/",
-      "pubDate": "2026-08-19T19:32:06.000Z"
     },
     {
       "source": "MacRumors",
@@ -239,13 +267,6 @@
       "title": "Meta brings its personal assistant app to Mac, for better and worse",
       "url": "https://appleinsider.com/articles/26/08/19/meta-brings-its-personal-assistant-app-to-mac-for-better-and-worse?utm_source=rss",
       "pubDate": "2026-08-19T18:26:47.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple is about to launch best reason yet to wear AirPods all day long",
-      "url": "https://9to5mac.com/2026/08/19/apple-is-about-to-launch-best-reason-yet-to-wear-airpods-all-day-long/",
-      "pubDate": "2026-08-19T18:17:43.000Z"
     },
     {
       "source": "The Verge",
@@ -290,20 +311,6 @@
       "pubDate": "2026-08-19T17:25:19.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "OpenAI hit the brakes. Now what?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
-      "pubDate": "2026-08-19T17:10:09.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "GTA VI keeps leaking ahead of its gameplay premiere",
-      "url": "https://www.theverge.com/games/982338/grand-theft-auto-vi-gta-leaks-videos",
-      "pubDate": "2026-08-19T17:03:11.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple Maps ads will be tasteful and minimal, might even help your local businesses",
@@ -337,13 +344,6 @@
       "title": "Things 3.23 Brings Long-Requested Overhaul of Repeating To-Dos",
       "url": "https://www.macrumors.com/2026/08/19/things-3-23-brings-long-requested-overhaul-of-repeating-to-dos/",
       "pubDate": "2026-08-19T14:00:06.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Amazon and Best Buy Offer Up to $500 Discounts on 2026 MacBook Pro",
-      "url": "https://www.macrumors.com/2026/08/19/500-discounts-macbook-pro/",
-      "pubDate": "2026-08-19T13:51:40.000Z"
     },
     {
       "source": "Six Colors",
