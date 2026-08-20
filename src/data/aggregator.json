@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T20:47:37.531Z",
+  "generatedAt": "2026-08-20T21:44:28.062Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Layoffs in Apple's Vision Products Group prove slow progress in spatial computing",
+      "url": "https://appleinsider.com/articles/26/08/20/layoffs-in-apples-vision-products-group-prove-slow-progress-in-spatial-computing?utm_source=rss",
+      "pubDate": "2026-08-20T21:05:57.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "WhatsApp is working on even more Liquid Glass interface changes on iOS",
+      "url": "https://9to5mac.com/2026/08/20/whatsapp-is-working-on-even-more-liquid-glass-interface-changes-on-ios/",
+      "pubDate": "2026-08-20T20:55:53.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -50,13 +64,6 @@
       "title": "Tested: Amazon's drone delivery service is fast, free, and loud",
       "url": "https://appleinsider.com/articles/26/08/20/tested-amazons-drone-delivery-service-is-fast-free-and-loud?utm_source=rss",
       "pubDate": "2026-08-20T19:51:54.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Layoffs in Apple's Vision Products Group prove slow progress in spatial computing",
-      "url": "https://appleinsider.com/articles/26/08/20/layoffs-in-apples-vision-products-group-prove-slow-progress-in-spatial-computing?utm_source=rss",
-      "pubDate": "2026-08-20T19:48:44.000Z"
     },
     {
       "source": "AppleInsider",
@@ -253,13 +260,6 @@
       "title": "iPhone 18 won’t launch next month, here’s when it’s coming instead",
       "url": "https://9to5mac.com/2026/08/20/iphone-18-wont-launch-next-month-heres-when-its-coming-instead/",
       "pubDate": "2026-08-20T14:02:14.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 breaks 15 years of muscle memory on iPhone and iPad",
-      "url": "https://9to5mac.com/2026/08/20/ios-27-just-broke-15-years-of-muscle-memory-on-iphone-and-ipad/",
-      "pubDate": "2026-08-20T14:00:00.000Z"
     },
     {
       "source": "MacRumors",
