@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T22:45:58.490Z",
+  "generatedAt": "2026-08-20T23:41:30.437Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Music to Label AI-Generated Songs",
+      "url": "https://www.macrumors.com/2026/08/20/apple-music-to-label-ai-generated-songs/",
+      "pubDate": "2026-08-20T23:41:24.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Open and move windows between displays automatically",
+      "url": "https://sixcolors.com/post/2026/08/open-and-move-windows-between-displays-automatically/",
+      "pubDate": "2026-08-20T23:17:42.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "ChatGPT Can Now Read and Send iMessages on Mac",
+      "url": "https://www.macrumors.com/2026/08/20/chatgpt-imessages-mac/",
+      "pubDate": "2026-08-20T23:12:55.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple reportedly lays off 60 Vision employees amid shifting priorities",
+      "url": "https://9to5mac.com/2026/08/20/apple-reportedly-lays-off-60-vision-employees-amid-shifting-priorities/",
+      "pubDate": "2026-08-20T22:47:51.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -248,13 +276,6 @@
       "pubDate": "2026-08-20T15:01:29.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "New ‘HomePad’ reveal is another reason to put it in every room of your house",
-      "url": "https://9to5mac.com/2026/08/20/new-homepad-reveal-is-another-reason-to-put-it-in-every-room-of-your-house/",
-      "pubDate": "2026-08-20T15:01:04.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iPhone 18 Pro: Pre-Orders and Release Date",
@@ -297,13 +318,6 @@
       "pubDate": "2026-08-20T12:48:20.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Fake Cases Hint at New Clear and TechWoven Colors for iPhone 18 Pro",
-      "url": "https://www.macrumors.com/2026/08/20/new-clear-and-techwoven-cases-for-iphone-18-pro/",
-      "pubDate": "2026-08-20T11:59:35.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Samsung and Apple are now neck and neck in Europe's declining smartphone market",
@@ -316,13 +330,6 @@
       "title": "OpenAI's distortion & speculation warrant denying suit dismissal, says Apple",
       "url": "https://appleinsider.com/articles/26/08/20/distortion-speculation-warrant-denying-openai-request-for-lawsuit-dismissal-says-apple?utm_source=rss",
       "pubDate": "2026-08-20T11:40:05.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Strong iPhone Sales Are Giving Samsung Display a Big OLED Boost",
-      "url": "https://www.macrumors.com/2026/08/20/strong-iphone-sales-boosting-samsung-oled/",
-      "pubDate": "2026-08-20T11:10:55.000Z"
     },
     {
       "source": "AppleInsider",
@@ -365,13 +372,6 @@
       "title": "(Podcast) The Rebound 612: The Sommelier of Sentences",
       "url": "https://sixcolors.com/podcast/2026/08/the-rebound-612-the-sommelier-of-sentences/",
       "pubDate": "2026-08-18T11:00:00.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Sponsor) Magic Lasso Adblock: incredibly private and secure Safari web browsing",
-      "url": "https://sixcolors.com/feed-only/2026/08/magic-lasso-adblock-incredibly-private-and-secure-safari-web-browsing-19/",
-      "pubDate": "2026-08-17T16:00:38.000Z"
     }
   ]
 }
