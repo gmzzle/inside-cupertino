@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T14:55:37.573Z",
+  "generatedAt": "2026-08-20T15:49:19.375Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,69 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple TV has beloved comedy returning soon, with Pluribus star added",
+      "url": "https://9to5mac.com/2026/08/20/apple-tv-has-beloved-comedy-returning-soon-with-pluribus-star-added/",
+      "pubDate": "2026-08-20T15:46:55.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "It’s Greg Brockman’s OpenAI now",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+      "pubDate": "2026-08-20T15:45:55.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "This app makes the Pixel 11&#8217;s HiLight feature actually useful",
+      "url": "https://www.theverge.com/tech/982791/this-app-makes-the-pixel-11s-hilight-feature-actually-useful",
+      "pubDate": "2026-08-20T15:30:34.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Deals: M5 MacBook Air $1,099, M5 Pro MacBook Pro 48GB $400 off, Series 11 from $254, AirTag 2, more",
+      "url": "https://9to5mac.com/2026/08/20/deals-m5-macbook-air-macbook-pro-airtag-2/",
+      "pubDate": "2026-08-20T15:23:08.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "LG’s 65-inch B6 OLED is $300 lower than its previous best price",
+      "url": "https://www.theverge.com/gadgets/982695/lg-b6-65-inch-oled-doordash-digital-game-deal-sale",
+      "pubDate": "2026-08-20T15:08:38.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's New Beats 360 Headphones Keep Leaking",
+      "url": "https://www.macrumors.com/2026/08/20/apple-beats-360-headphones-leak/",
+      "pubDate": "2026-08-20T15:01:29.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "New ‘HomePad’ reveal is another reason to put it in every room of your house",
+      "url": "https://9to5mac.com/2026/08/20/new-homepad-reveal-is-another-reason-to-put-it-in-every-room-of-your-house/",
+      "pubDate": "2026-08-20T15:01:04.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone 18 Pro: Pre-Orders and Release Date?",
+      "url": "https://www.macrumors.com/2026/08/20/iphone-18-pro-preorders-release-date-when/",
+      "pubDate": "2026-08-20T15:00:42.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Amazon&#8217;s drone deliveries are landing in pools and ponds",
+      "url": "https://www.theverge.com/tech/982808/amazon-prime-air-drones-packages-pools-ponds",
+      "pubDate": "2026-08-20T14:59:21.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -80,13 +143,6 @@
       "pubDate": "2026-08-20T14:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Waymo lifts the lid on the ‘brain’ powering its robotaxis",
-      "url": "https://www.theverge.com/transportation/982653/waymo-brain-computer-chip-robotaxi-hardware-suppliers",
-      "pubDate": "2026-08-20T14:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Watch Series 11 Discounted by $100 at Best Buy and Amazon",
@@ -96,16 +152,9 @@
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
-      "title": "These 5 Apple Products Will Reportedly Be Upgraded With OLED Displays",
+      "title": "5 Apple Products to Get OLED Displays",
       "url": "https://www.macrumors.com/2026/08/20/five-apple-products-to-get-oled-displays/",
-      "pubDate": "2026-08-20T13:50:38.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "DJI Osmo fans are breaking the shackles of its closed-source camera app",
-      "url": "https://www.theverge.com/tech/981852/osmosis-app-download-dji-osmo-camera-video-mimo-replacement",
-      "pubDate": "2026-08-20T13:30:00.000Z"
+      "pubDate": "2026-08-20T13:50:27.000Z"
     },
     {
       "source": "MacRumors",
@@ -115,25 +164,11 @@
       "pubDate": "2026-08-20T13:17:31.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "NASA gives up on trying to rescue the Swift telescope",
-      "url": "https://www.theverge.com/science/982661/nasa-katalyst-swift-rescue-mission-failure-update",
-      "pubDate": "2026-08-20T13:04:37.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Adobe Firefly’s music, voiceover, and sound effects generation tools now generally available",
       "url": "https://9to5mac.com/2026/08/20/adobe-fireflys-music-voiceover-and-sound-effects-generation-tools-now-generally-available/",
       "pubDate": "2026-08-20T13:00:05.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "I bought DJI’s banned camera — it was cheap and easy",
-      "url": "https://www.theverge.com/tech/981669/dji-osmo-pocket-4-pro-us-ban-black-market",
-      "pubDate": "2026-08-20T13:00:00.000Z"
     },
     {
       "source": "MacRumors",
@@ -255,13 +290,6 @@
       "pubDate": "2026-08-20T00:07:22.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Camera-equipped AirPods reportedly won’t launch in 2026, despite demo video leak",
-      "url": "https://9to5mac.com/2026/08/19/camera-equipped-airpods-reportedly-wont-launch-in-2026-despite-demo-video-leak/",
-      "pubDate": "2026-08-19T23:42:49.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple's Camera AirPods Not Launching Until 2027 Despite Leaked Video",
@@ -269,25 +297,11 @@
       "pubDate": "2026-08-19T23:42:46.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: August 19, 2026 – Apple TV 4K rumors, Apple Maps ads",
-      "url": "https://9to5mac.com/2026/08/19/daily-august-19-2026/",
-      "pubDate": "2026-08-19T23:06:38.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Meta AI Launches Mac App With Screen Sharing and Dictation",
       "url": "https://www.macrumors.com/2026/08/19/meta-ai-mac-app/",
       "pubDate": "2026-08-19T22:35:26.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Report: Smart wearables market set to generate more than $1 trillion through 2032",
-      "url": "https://9to5mac.com/2026/08/19/report-smart-wearables-market-set-to-generate-more-than-1-trillion-through-2032/",
-      "pubDate": "2026-08-19T21:21:52.000Z"
     },
     {
       "source": "Six Colors",
@@ -309,20 +323,6 @@
       "title": "Ceramic Apple Watch Series 12 is getting more rumor mill traction",
       "url": "https://appleinsider.com/articles/26/08/19/ceramic-apple-watch-series-12-is-getting-more-rumor-mill-traction?utm_source=rss",
       "pubDate": "2026-08-19T20:07:43.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "New Apple Store Reportedly Opening in Idaho",
-      "url": "https://www.macrumors.com/2026/08/19/new-apple-store-in-idaho-report/",
-      "pubDate": "2026-08-19T19:46:44.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "College Students Can Get a Free Year of Google AI Pro",
-      "url": "https://www.macrumors.com/2026/08/19/students-free-year-google-ai-pro/",
-      "pubDate": "2026-08-19T19:00:11.000Z"
     },
     {
       "source": "AppleInsider",
