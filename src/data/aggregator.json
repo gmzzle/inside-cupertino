@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T16:51:31.548Z",
+  "generatedAt": "2026-08-20T17:46:15.022Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,41 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Australia says Roblox hasn&#8217;t fixed its child predator problem",
+      "url": "https://www.theverge.com/games/982885/roblox-australia-safety-regulator-child-safety",
+      "pubDate": "2026-08-20T17:42:34.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Amazon slashes iPads down to as low as $399 for the weekend",
+      "url": "https://appleinsider.com/articles/26/08/20/amazon-slashes-ipads-down-to-as-low-as-399-for-the-weekend?utm_source=rss",
+      "pubDate": "2026-08-20T17:39:38.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "FCC officially decides gigabit speeds are too good for you",
+      "url": "https://www.theverge.com/policy/982863/fcc-kills-gigabit-goal",
+      "pubDate": "2026-08-20T17:38:30.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Framework says it&#8217;s addressing a BIOS update that bricked some of its older laptops",
+      "url": "https://www.theverge.com/gadgets/982800/framework-laptop-13-amd-7040-bios-320-bricking-warranty",
+      "pubDate": "2026-08-20T17:16:02.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Triathlon runner credits Apple Watch for saving his life",
+      "url": "https://appleinsider.com/articles/26/08/20/triathlon-runner-credits-apple-watch-for-saving-his-life?utm_source=rss",
+      "pubDate": "2026-08-20T16:54:50.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -147,27 +182,6 @@
       "sourceHomepage": "https://www.theverge.com",
       "title": "FromSoftware can do anything",
       "url": "https://www.theverge.com/entertainment/981970/fromsoftware-duskbloods-nintendo-hidetaka-miyazaki",
-      "pubDate": "2026-08-20T14:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "We played The Duskbloods, the Switch 2&#8217;s wildest new exclusive",
-      "url": "https://www.theverge.com/entertainment/981990/the-duskbloods-hands-on-nintendo-switch-2-fromsoftware",
-      "pubDate": "2026-08-20T14:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Welcome to the AI crisis in math",
-      "url": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
-      "pubDate": "2026-08-20T14:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "This tiny guitar amp is the most unhinged distortion pedal I’ve ever used",
-      "url": "https://www.theverge.com/gadgets/982598/death-by-audio-rainger-fx-amp-crash-guitar-pedal-review",
       "pubDate": "2026-08-20T14:00:00.000Z"
     },
     {
@@ -330,20 +344,6 @@
       "title": "Beats 360 retail leak spills almost everything about the over-ear headphones",
       "url": "https://appleinsider.com/articles/26/08/19/beats-360-retail-leak-spills-almost-everything-about-the-over-ear-headphones?utm_source=rss",
       "pubDate": "2026-08-19T18:39:20.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Meta brings its personal assistant app to Mac, for better and worse",
-      "url": "https://appleinsider.com/articles/26/08/19/meta-brings-its-personal-assistant-app-to-mac-for-better-and-worse?utm_source=rss",
-      "pubDate": "2026-08-19T18:26:47.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "What to expect from the 2026 Apple TV 4K: Siri AI, Siri Remote, better networking, more!",
-      "url": "https://appleinsider.com/articles/26/08/19/what-to-expect-from-the-2026-apple-tv-4k-siri-ai-siri-remote-better-networking-more?utm_source=rss",
-      "pubDate": "2026-08-19T17:25:19.000Z"
     },
     {
       "source": "Six Colors",
