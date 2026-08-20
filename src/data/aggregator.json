@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T23:38:28.541Z",
+  "generatedAt": "2026-08-20T01:52:18.899Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,62 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Distortion & speculation warrant denying OpenAI request for lawsuit dismissal, says Apple",
+      "url": "https://appleinsider.com/articles/26/08/20/distortion-speculation-warrant-denying-openai-request-for-lawsuit-dismissal-says-apple?utm_source=rss",
+      "pubDate": "2026-08-20T01:42:31.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Astropad Workbench 1.3 adds faster streaming, privacy curtain, and more",
+      "url": "https://9to5mac.com/2026/08/19/astropad-workbench-1-3-adds-faster-streaming-privacy-curtain-and-more/",
+      "pubDate": "2026-08-20T01:19:48.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "PSA: ChatGPT outage is blocking users from logging in or creating new accounts [U: Fixed]",
+      "url": "https://9to5mac.com/2026/08/19/psa-chatgpt-outage-is-blocking-users-from-logging-in-or-creating-new-accounts/",
+      "pubDate": "2026-08-20T00:28:11.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "EU Welcomes Apple's App Store Changes, Epic Slams 'Junk Fees'",
+      "url": "https://www.macrumors.com/2026/08/19/ec-epic-apple-app-store-changes/",
+      "pubDate": "2026-08-20T00:16:25.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Schlage Sense Pro review: UWB Home Key proves itself again on this sleek smart lock",
+      "url": "https://appleinsider.com/articles/26/08/20/schlage-sense-pro-review-uwb-home-key-proves-itself-again-on-this-sleek-smart-lock?utm_source=rss",
+      "pubDate": "2026-08-20T00:07:22.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "AirPods with cameras not coming till 2027, won't take photos",
+      "url": "https://appleinsider.com/articles/26/08/19/airpods-with-cameras-not-coming-till-2027-wont-take-photos?utm_source=rss",
+      "pubDate": "2026-08-19T23:52:24.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Camera-equipped AirPods reportedly won’t launch in 2026, despite demo video leak",
+      "url": "https://9to5mac.com/2026/08/19/camera-equipped-airpods-reportedly-wont-launch-in-2026-despite-demo-video-leak/",
+      "pubDate": "2026-08-19T23:42:49.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's Camera AirPods Not Launching Until 2027 Despite Leaked Video",
+      "url": "https://www.macrumors.com/2026/08/19/airpods-with-cameras-2027-launch/",
+      "pubDate": "2026-08-19T23:42:46.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -241,39 +297,11 @@
       "pubDate": "2026-08-19T16:15:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple TV hit comedy from Ted Lasso, Shrinking creator returns soon",
-      "url": "https://9to5mac.com/2026/08/19/apple-tv-hit-comedy-from-ted-lasso-shrinking-creator-returns-soon/",
-      "pubDate": "2026-08-19T15:41:37.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Predictable as the tides, Epic Games hates the new EU App Store fees",
-      "url": "https://appleinsider.com/articles/26/08/19/epic-games-disagrees-with-apples-junk-eu-fee-changes?utm_source=rss",
-      "pubDate": "2026-08-19T15:34:50.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: 1-day Apple sale – $400 off M5 Pro MacBook Pro, iPhone Air up to $406 off, iPad mini $450 off, AirPods, more",
-      "url": "https://9to5mac.com/2026/08/19/deals-1-day-apple-sale-macbook-pro-iphone-air-airpods/",
-      "pubDate": "2026-08-19T15:31:25.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "The best look into Apple's past comes from this 'MacWeek' archive",
       "url": "https://appleinsider.com/articles/26/08/19/the-best-look-into-apples-past-comes-from-this-macweek-archive?utm_source=rss",
       "pubDate": "2026-08-19T15:27:38.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple will launch 10+ new products soon, with September event coming",
-      "url": "https://9to5mac.com/2026/08/19/apple-will-launch-10-new-products-soon-with-september-event-coming/",
-      "pubDate": "2026-08-19T15:17:10.000Z"
     },
     {
       "source": "AppleInsider",
@@ -318,39 +346,11 @@
       "pubDate": "2026-08-19T13:51:40.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple's home automation hardware might work more like Apple Watch than a HomePod",
-      "url": "https://appleinsider.com/articles/26/08/19/apples-home-automation-hardware-will-work-more-like-an-apple-watch-than-a-homepod?utm_source=rss",
-      "pubDate": "2026-08-19T12:46:47.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iPad Mini 8: Release Date, Pricing, and What to Expect",
       "url": "https://www.macrumors.com/2026/08/19/ipad-mini-8-release-date-pricing-what-to-expect/",
       "pubDate": "2026-08-19T12:17:28.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "PSA: Do not buy iPhone 18 Pro cases before Apple's launch",
-      "url": "https://appleinsider.com/articles/26/08/19/psa-do-not-buy-iphone-18-pro-cases-before-apples-launch?utm_source=rss",
-      "pubDate": "2026-08-19T11:06:09.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone 17 Pro Cases Fit iPhone 18 Pro - Or At Least Otterbox Thinks So",
-      "url": "https://www.macrumors.com/2026/08/19/iphone-17-pro-cases-fit-iphone-18-pro/",
-      "pubDate": "2026-08-19T09:39:55.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27: 8+ New CarPlay Features",
-      "url": "https://www.macrumors.com/guide/ios-27-carplay/",
-      "pubDate": "2026-08-18T23:17:02.000Z"
     },
     {
       "source": "Six Colors",
