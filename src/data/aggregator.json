@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T17:46:15.022Z",
+  "generatedAt": "2026-08-20T19:00:35.221Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,55 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Mark Zuckerberg bought an Irish castle",
+      "url": "https://www.theverge.com/tech/982955/meta-mark-zuckerberg-strancally-castle-ireland",
+      "pubDate": "2026-08-20T18:50:14.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "AirPods Pro 3 and more just got new firmware release in beta",
+      "url": "https://9to5mac.com/2026/08/20/airpods-pro-3-and-more-just-got-new-firmware-release-in-beta/",
+      "pubDate": "2026-08-20T18:33:11.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "AirPods 4 vs AirPods Pro 3: Which should you buy in 2026?",
+      "url": "https://9to5mac.com/2026/08/20/airpods-4-vs-airpods-pro-3-which-should-you-buy-in-2026/",
+      "pubDate": "2026-08-20T18:28:27.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple, Where is CarPlay Ultra?",
+      "url": "https://www.macrumors.com/2026/08/20/apple-where-is-carplay-ultra/",
+      "pubDate": "2026-08-20T18:25:12.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "AirPods with camera leak, iOS 27 beta 6, iPhone 18 Pro cases",
+      "url": "https://9to5mac.com/2026/08/20/happy-hour-604/",
+      "pubDate": "2026-08-20T18:00:10.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "ChatGPT update adds Apple Messages integration on Mac",
+      "url": "https://9to5mac.com/2026/08/20/chatgpt-update-adds-apple-messages-integration-on-mac/",
+      "pubDate": "2026-08-20T17:59:38.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "watchOS 27 adds three new Apple Watch features I’ve been loving",
+      "url": "https://9to5mac.com/2026/08/20/watchos-27-adds-three-new-apple-watch-features-ive-been-loving/",
+      "pubDate": "2026-08-20T17:50:06.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -178,13 +227,6 @@
       "pubDate": "2026-08-20T14:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "FromSoftware can do anything",
-      "url": "https://www.theverge.com/entertainment/981970/fromsoftware-duskbloods-nintendo-hidetaka-miyazaki",
-      "pubDate": "2026-08-20T14:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Watch Series 11 Discounted by $100 at Best Buy and Amazon",
@@ -220,13 +262,6 @@
       "pubDate": "2026-08-20T12:48:20.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Roblox still allows predators to contact children, says regulator",
-      "url": "https://9to5mac.com/2026/08/20/roblox-still-allows-predators-to-contact-children-says-regulator/",
-      "pubDate": "2026-08-20T12:30:57.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Fake Cases Hint at New Clear and TechWoven Colors for iPhone 18 Pro",
@@ -248,13 +283,6 @@
       "pubDate": "2026-08-20T11:40:05.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Bought Logitech kit during the Trump tariff mess? You may be due a refund …",
-      "url": "https://9to5mac.com/2026/08/20/bought-logitech-kit-during-the-trump-tariff-mess-you-may-be-due-a-refund/",
-      "pubDate": "2026-08-20T11:37:58.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "AirPods with cameras not coming until 2027, won't take photos",
@@ -269,20 +297,6 @@
       "pubDate": "2026-08-20T11:10:55.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: August 20, 2026 – Apple RAM suppliers, iPhone Ultra rumors",
-      "url": "https://9to5mac.com/2026/08/20/daily-august-20-2026/",
-      "pubDate": "2026-08-20T11:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple’s long-running app store battle with the EU appears to finally be over",
-      "url": "https://9to5mac.com/2026/08/20/apples-long-running-app-store-battle-with-the-eu-appears-to-finally-be-over/",
-      "pubDate": "2026-08-20T10:52:18.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Fires Back at OpenAI's Bid to Toss Trade Secrets Suit",
@@ -290,25 +304,11 @@
       "pubDate": "2026-08-20T10:40:54.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple hits back at OpenAI’s bid to dismiss lawsuit, reaffirms ‘pervasive trade secret misappropriation’",
-      "url": "https://9to5mac.com/2026/08/19/apple-hits-back-at-openais-bid-to-dismiss-lawsuit-reaffirms-pervasive-trade-secret-misappropriation/",
-      "pubDate": "2026-08-20T02:21:55.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "European Commission approves of Apple's new App Store terms even if Epic doesn't",
       "url": "https://appleinsider.com/articles/26/08/20/european-commission-approves-of-apples-new-app-store-terms-even-if-epic-doesnt?utm_source=rss",
       "pubDate": "2026-08-20T02:12:36.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "EU Welcomes Apple's App Store Changes, Epic Slams 'Junk Fees'",
-      "url": "https://www.macrumors.com/2026/08/19/ec-epic-apple-app-store-changes/",
-      "pubDate": "2026-08-20T00:16:25.000Z"
     },
     {
       "source": "AppleInsider",
