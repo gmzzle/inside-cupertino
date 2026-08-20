@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T09:50:37.691Z",
+  "generatedAt": "2026-08-20T10:48:20.847Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Fires Back at OpenAI's Bid to Toss Trade Secrets Suit",
+      "url": "https://www.macrumors.com/2026/08/20/apple-fires-back-openai-bid-toss-lawsuit/",
+      "pubDate": "2026-08-20T10:40:54.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Sennheiser’s new Momentum 5 earbuds feature easily replaceable batteries",
+      "url": "https://www.theverge.com/tech/982216/sennheiser-momentum-true-wireless-5-earbuds-replaceable-batteries",
+      "pubDate": "2026-08-20T10:00:00.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -290,13 +304,6 @@
       "pubDate": "2026-08-19T17:03:11.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Meta AI is getting a Mac app",
-      "url": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
-      "pubDate": "2026-08-19T17:00:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple Maps ads will be tasteful and minimal, might even help your local businesses",
@@ -337,13 +344,6 @@
       "title": "Amazon and Best Buy Offer Up to $500 Discounts on 2026 MacBook Pro",
       "url": "https://www.macrumors.com/2026/08/19/500-discounts-macbook-pro/",
       "pubDate": "2026-08-19T13:51:40.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPad Mini 8: Release Date, Pricing, and What to Expect",
-      "url": "https://www.macrumors.com/2026/08/19/ipad-mini-8-release-date-pricing-what-to-expect/",
-      "pubDate": "2026-08-19T12:17:28.000Z"
     },
     {
       "source": "Six Colors",
