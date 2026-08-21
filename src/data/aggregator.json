@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T17:46:11.943Z",
+  "generatedAt": "2026-08-21T18:57:06.056Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,41 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPadOS 27 adds three features to make iPad more like the Mac",
+      "url": "https://9to5mac.com/2026/08/21/ipados-27-adds-three-features-to-make-ipad-more-like-the-mac/",
+      "pubDate": "2026-08-21T18:50:16.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Grok Bot is an all-new iPhone and Mac app from SpaceXAI and Cursor [U]",
+      "url": "https://9to5mac.com/2026/08/21/grok-bot-is-an-all-new-iphone-and-mac-app-from-spacexai-and-cursor/",
+      "pubDate": "2026-08-21T18:16:22.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "$100 Best Buy gift cards will be $60 at stores Saturday",
+      "url": "https://www.theverge.com/gadgets/982513/best-buy-gift-card-in-store-deal",
+      "pubDate": "2026-08-21T18:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "The MacRumors Show: Michael Fisher Talks iPhone Ultra",
+      "url": "https://www.macrumors.com/2026/08/21/the-macrumors-show-michael-fisher-iphone-ultra/",
+      "pubDate": "2026-08-21T17:48:57.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone 18 Pro release date: Here’s when Apple’s new flagship is coming",
+      "url": "https://9to5mac.com/2026/08/21/iphone-18-release-date-when-apples-new-model-is-coming/",
+      "pubDate": "2026-08-21T17:47:34.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -283,32 +318,11 @@
       "pubDate": "2026-08-21T11:26:05.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Patreon is changing its algorithm to help smaller creators get discovered",
-      "url": "https://www.theverge.com/tech/983156/patreon-update-roadmap-algorithm-changes",
-      "pubDate": "2026-08-21T11:08:09.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: August 21, 2026 – AirPods with cameras, more",
-      "url": "https://9to5mac.com/2026/08/21/daily-august-21-2026/",
-      "pubDate": "2026-08-21T11:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Camera AirPods Code Reveals Image Capture Resolution, Status Light, Person Detection, and More",
       "url": "https://www.macrumors.com/2026/08/21/camera-airpods-code-reveals-hardware-details/",
       "pubDate": "2026-08-21T09:32:05.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "‘The Dynasty: UConn Huskies’ now available to stream on Apple TV",
-      "url": "https://9to5mac.com/2026/08/20/the-dynasty-uconn-huskies-now-available-to-stream-on-apple-tv/",
-      "pubDate": "2026-08-21T01:00:43.000Z"
     },
     {
       "source": "MacRumors",
@@ -344,20 +358,6 @@
       "title": "ChatGPT Can Now Read and Send iMessages on Mac",
       "url": "https://www.macrumors.com/2026/08/20/chatgpt-imessages-mac/",
       "pubDate": "2026-08-20T23:12:55.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple reportedly lays off 60 Vision employees amid shifting priorities",
-      "url": "https://9to5mac.com/2026/08/20/apple-reportedly-lays-off-60-vision-employees-amid-shifting-priorities/",
-      "pubDate": "2026-08-20T22:47:51.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Releases New AirPods Beta Firmware With iOS 27 Features",
-      "url": "https://www.macrumors.com/2026/08/20/airpods-beta-firmware-9a5347a/",
-      "pubDate": "2026-08-20T19:10:34.000Z"
     },
     {
       "source": "Six Colors",
