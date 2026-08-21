@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T23:41:30.437Z",
+  "generatedAt": "2026-08-21T01:58:10.151Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,11 +24,32 @@
   ],
   "items": [
     {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "‘The Dynasty: UConn Huskies’ now available to stream on Apple TV",
+      "url": "https://9to5mac.com/2026/08/20/the-dynasty-uconn-huskies-now-available-to-stream-on-apple-tv/",
+      "pubDate": "2026-08-21T01:00:43.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Dark Cherry and More: Every iPhone 18 Pro and iPhone Ultra Color Rumor",
+      "url": "https://www.macrumors.com/guide/iphone-18-pro-ultra-colors/",
+      "pubDate": "2026-08-21T00:33:41.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Hisense TopLift dehumidifier review: Matter-enabled for hot summer months",
+      "url": "https://appleinsider.com/articles/26/08/21/hisense-toplift-dehumidifier-review-matter-enabled-for-hot-summer-months?utm_source=rss",
+      "pubDate": "2026-08-21T00:04:24.000Z"
+    },
+    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Music to Label AI-Generated Songs",
       "url": "https://www.macrumors.com/2026/08/20/apple-music-to-label-ai-generated-songs/",
-      "pubDate": "2026-08-20T23:41:24.000Z"
+      "pubDate": "2026-08-20T23:41:33.000Z"
     },
     {
       "source": "Six Colors",
@@ -255,13 +276,6 @@
       "pubDate": "2026-08-20T15:30:34.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: M5 MacBook Air $1,099, M5 Pro MacBook Pro 48GB $400 off, Series 11 from $254, AirTag 2, more",
-      "url": "https://9to5mac.com/2026/08/20/deals-m5-macbook-air-macbook-pro-airtag-2/",
-      "pubDate": "2026-08-20T15:23:08.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "LG’s 65-inch B6 OLED is $300 lower than its previous best price",
@@ -311,13 +325,6 @@
       "pubDate": "2026-08-20T13:17:31.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27 Shared Albums Go Full Res at the Cost of Your iCloud Storage",
-      "url": "https://www.macrumors.com/2026/08/20/ios-27-shared-albums-eat-into-icloud-storage/",
-      "pubDate": "2026-08-20T12:48:20.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Samsung and Apple are now neck and neck in Europe's declining smartphone market",
@@ -337,13 +344,6 @@
       "title": "European Commission approves of Apple's new App Store terms even if Epic doesn't",
       "url": "https://appleinsider.com/articles/26/08/20/european-commission-approves-of-apples-new-app-store-terms-even-if-epic-doesnt?utm_source=rss",
       "pubDate": "2026-08-20T02:12:36.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Schlage Sense Pro review: UWB Home Key proves itself again on this sleek smart lock",
-      "url": "https://appleinsider.com/articles/26/08/20/schlage-sense-pro-review-uwb-home-key-proves-itself-again-on-this-sleek-smart-lock?utm_source=rss",
-      "pubDate": "2026-08-20T00:07:22.000Z"
     },
     {
       "source": "Six Colors",
