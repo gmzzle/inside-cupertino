@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T20:42:10.035Z",
+  "generatedAt": "2026-08-21T21:40:43.182Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Over one million people have clicked LinkedIn’s AI slop button",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+      "pubDate": "2026-08-21T21:25:50.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Epic accuses Apple of sidestepping App Store antitrust deal in Brazil",
+      "url": "https://9to5mac.com/2026/08/21/epic-accuses-apple-of-sidestepping-app-store-antitrust-deal-in-brazil/",
+      "pubDate": "2026-08-21T21:20:58.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Watch Series 12 and Ultra 4 to get one big upgrade at perfect time",
+      "url": "https://9to5mac.com/2026/08/21/apple-watch-series-12-and-ultra-4-to-get-one-big-upgrade-at-perfect-time/",
+      "pubDate": "2026-08-21T20:53:21.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -199,20 +220,6 @@
       "pubDate": "2026-08-21T15:30:55.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple TV has three big new releases coming very soon",
-      "url": "https://9to5mac.com/2026/08/21/apple-tv-has-three-big-new-releases-coming-soon/",
-      "pubDate": "2026-08-21T15:30:23.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: M5 Pro MacBook Pro $500 off, AirTag 2 from $20, Find My Wallet Card $25, AirPods Pro 3, more",
-      "url": "https://9to5mac.com/2026/08/21/deals-macbook-pro-airtag-2-find-my-card-airpods-pro-3/",
-      "pubDate": "2026-08-21T15:28:06.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "iPhone sales rise in Latin America even as smartphone market shrinks",
@@ -309,13 +316,6 @@
       "title": "AirPods with cameras leak, Apple Maps ads, & Siri AI on the AppleInsider Podcast",
       "url": "https://appleinsider.com/articles/26/08/21/airpods-with-cameras-leak-apple-maps-ads-siri-ai-on-the-appleinsider-podcast?utm_source=rss",
       "pubDate": "2026-08-21T12:23:27.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Tesla sunsets its Solar Roof tiles",
-      "url": "https://www.theverge.com/tech/983167/tesla-solar-roof-tiles-discontinued",
-      "pubDate": "2026-08-21T12:01:07.000Z"
     },
     {
       "source": "AppleInsider",
