@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T08:58:52.834Z",
+  "generatedAt": "2026-08-21T09:52:52.923Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Camera AirPods Code Reveals Image Capture Resolution, Status Light, Person Detection, and More",
+      "url": "https://www.macrumors.com/2026/08/21/camera-airpods-code-reveals-hardware-details/",
+      "pubDate": "2026-08-21T09:32:05.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -316,13 +323,6 @@
       "title": "5 Apple Products to Get OLED Displays",
       "url": "https://www.macrumors.com/2026/08/20/five-apple-products-to-get-oled-displays/",
       "pubDate": "2026-08-20T13:50:27.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Ceramic Apple Watch Rumored to Return With Series 12",
-      "url": "https://www.macrumors.com/2026/08/20/ceramic-apple-watch-to-return-with-series-12/",
-      "pubDate": "2026-08-20T13:17:31.000Z"
     },
     {
       "source": "AppleInsider",
