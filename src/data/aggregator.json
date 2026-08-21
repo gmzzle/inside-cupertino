@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T22:42:54.960Z",
+  "generatedAt": "2026-08-21T23:40:02.476Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "10 Ways to Improve Your iPhone's Battery Life",
+      "url": "https://www.macrumors.com/guide/iphone-battery-life-10-tips/",
+      "pubDate": "2026-08-21T22:53:10.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -344,13 +351,6 @@
       "title": "AirPod cameras will detect people, and warn about image capture with a status light",
       "url": "https://appleinsider.com/articles/26/08/21/airpod-cameras-will-detect-people-and-warn-about-image-capture-with-a-status-light?utm_source=rss",
       "pubDate": "2026-08-21T11:26:05.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Camera AirPods Code Reveals Image Capture Resolution, Status Light, Person Detection, and More",
-      "url": "https://www.macrumors.com/2026/08/21/camera-airpods-code-reveals-hardware-details/",
-      "pubDate": "2026-08-21T09:32:05.000Z"
     },
     {
       "source": "Six Colors",
