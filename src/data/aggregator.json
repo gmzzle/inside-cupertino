@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T01:58:10.151Z",
+  "generatedAt": "2026-08-21T03:16:45.689Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Genki’s new customizable controller has a big screen and adjustable buttons",
+      "url": "https://www.theverge.com/tech/981536/genki-manta-wireless-customizable-controller-tmr-screen",
+      "pubDate": "2026-08-21T02:00:00.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -276,13 +283,6 @@
       "pubDate": "2026-08-20T15:30:34.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "LG’s 65-inch B6 OLED is $300 lower than its previous best price",
-      "url": "https://www.theverge.com/gadgets/982695/lg-b6-65-inch-oled-doordash-digital-game-deal-sale",
-      "pubDate": "2026-08-20T15:08:38.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple's New Beats 360 Headphones Keep Leaking",
@@ -334,13 +334,6 @@
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
-      "title": "OpenAI's distortion & speculation warrant denying suit dismissal, says Apple",
-      "url": "https://appleinsider.com/articles/26/08/20/distortion-speculation-warrant-denying-openai-request-for-lawsuit-dismissal-says-apple?utm_source=rss",
-      "pubDate": "2026-08-20T11:40:05.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
       "title": "European Commission approves of Apple's new App Store terms even if Epic doesn't",
       "url": "https://appleinsider.com/articles/26/08/20/european-commission-approves-of-apples-new-app-store-terms-even-if-epic-doesnt?utm_source=rss",
       "pubDate": "2026-08-20T02:12:36.000Z"
@@ -372,6 +365,13 @@
       "title": "(Podcast) The Rebound 612: The Sommelier of Sentences",
       "url": "https://sixcolors.com/podcast/2026/08/the-rebound-612-the-sommelier-of-sentences/",
       "pubDate": "2026-08-18T11:00:00.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Sponsor) Magic Lasso Adblock: incredibly private and secure Safari web browsing",
+      "url": "https://sixcolors.com/feed-only/2026/08/magic-lasso-adblock-incredibly-private-and-secure-safari-web-browsing-19/",
+      "pubDate": "2026-08-17T16:00:38.000Z"
     }
   ]
 }
