@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T18:49:33.207Z",
+  "generatedAt": "2026-08-22T19:36:42.448Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "We’re just two months away from the first touchscreen MacBook: Here’s what to expect",
+      "url": "https://9to5mac.com/2026/08/22/touchscreen-macbook-ultra-coming-soon-heres-whats-coming/",
+      "pubDate": "2026-08-22T17:58:00.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -218,13 +225,6 @@
       "title": "Apple's latest layoffs extend past just Vision Pro development teams",
       "url": "https://appleinsider.com/articles/26/08/21/apples-latest-layoffs-extend-past-just-vision-pro-development-teams?utm_source=rss",
       "pubDate": "2026-08-21T19:14:47.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "HomeKit Weekly: Homey secures Matter 1.5 certification to expand bridging and energy support",
-      "url": "https://9to5mac.com/2026/08/21/homekit-weekly-homey-secures-matter-1-5-certification-to-expand-bridging-and-energy-support/",
-      "pubDate": "2026-08-21T18:52:00.000Z"
     },
     {
       "source": "The Verge",
