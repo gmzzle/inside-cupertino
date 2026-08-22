@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T13:01:46.315Z",
+  "generatedAt": "2026-08-22T13:45:04.243Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent",
+      "url": "https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv",
+      "pubDate": "2026-08-22T13:41:01.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's Biggest Summer Deals Drop: AirPods Max 2 Plummet to $429, M4 iPad Air $100 Off",
+      "url": "https://www.macrumors.com/2026/08/22/best-apple-deals-of-the-week-8-21-26/",
+      "pubDate": "2026-08-22T13:05:00.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -241,13 +255,6 @@
       "pubDate": "2026-08-21T16:52:56.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Pixel 11 gets in on the digicam trend",
-      "url": "https://www.theverge.com/podcast/983288/pixel-11-gets-in-on-the-digicam-trend",
-      "pubDate": "2026-08-21T16:27:05.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Sponsor) Magic Lasso Adblock: incredibly private and secure Safari web browsing",
@@ -288,13 +295,6 @@
       "title": "Apple paid Ireland a staggering $17 billion in taxes in 2025",
       "url": "https://appleinsider.com/articles/26/08/21/apple-paid-ireland-a-staggering-17-billion-in-taxes-in-2025?utm_source=rss",
       "pubDate": "2026-08-21T15:01:41.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple's Biggest Summer Deals Drop: AirPods Max 2 Plummet to $429, M4 iPad Air $100 Off",
-      "url": "https://www.macrumors.com/2026/08/21/best-apple-deals-of-the-week-8-21-26/",
-      "pubDate": "2026-08-21T14:23:42.000Z"
     },
     {
       "source": "AppleInsider",
