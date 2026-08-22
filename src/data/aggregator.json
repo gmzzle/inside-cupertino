@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T20:41:06.881Z",
+  "generatedAt": "2026-08-22T21:36:59.068Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Google’s new Pixel 11 offers an incredible camera feature that Apple should copy",
+      "url": "https://9to5mac.com/2026/08/22/pixel-11-new-camera-feature-apple-should-copy/",
+      "pubDate": "2026-08-22T20:43:49.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Indie App Spotlight: ‘CloudGear’ brings all cloud gaming platforms into one tvOS app",
+      "url": "https://9to5mac.com/2026/08/22/indie-app-spotlight-cloudgear-brings-all-cloud-gaming-platforms-into-one-tvos-app/",
+      "pubDate": "2026-08-22T19:30:00.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -197,20 +211,6 @@
       "title": "Apple is laying off staffers working on the Vision Pro and Siri",
       "url": "https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri",
       "pubDate": "2026-08-21T19:44:55.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple refurb store: Apple TV 4K is back, Apple Watch Ultra 3 offers, more",
-      "url": "https://9to5mac.com/2026/08/21/apple-refurb-store-apple-tv-4k-ultra/",
-      "pubDate": "2026-08-21T19:43:19.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple lays off 200+ people across Vision Pro and Siri teams",
-      "url": "https://9to5mac.com/2026/08/21/apple-lays-off-200-people-across-vision-pro-and-siri-teams/",
-      "pubDate": "2026-08-21T19:17:51.000Z"
     },
     {
       "source": "MacRumors",
