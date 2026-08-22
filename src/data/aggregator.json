@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T11:36:10.388Z",
+  "generatedAt": "2026-08-22T13:01:46.315Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Top Stories: Apple Leaks - Camera-Equipped AirPods, Beats 360, and More",
+      "url": "https://www.macrumors.com/2026/08/22/top-stories-apple-leaks-camera-airpods/",
+      "pubDate": "2026-08-22T13:00:12.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook proves it",
+      "url": "https://www.theverge.com/tech/983554/hp-omnibook-3-16-snapdragon-laptop-review",
+      "pubDate": "2026-08-22T13:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Weekend Apple deals: $500 off MacBook Pro, AirPods Pro 3, AirPods Max 2 $120 off, AirTag 2, more",
+      "url": "https://9to5mac.com/2026/08/22/weekend-apple-deals-macbook-pro-airpods-pro-3/",
+      "pubDate": "2026-08-22T12:17:11.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Two great new repairable gadgets",
+      "url": "https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2",
+      "pubDate": "2026-08-22T12:00:00.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -185,13 +213,6 @@
       "pubDate": "2026-08-21T17:48:57.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone 18 Pro release date: Here’s when Apple’s new flagship is coming",
-      "url": "https://9to5mac.com/2026/08/21/iphone-18-release-date-when-apples-new-model-is-coming/",
-      "pubDate": "2026-08-21T17:47:34.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "M6 MacBook Pro rumors: Improved performance, in a familiar form factor",
@@ -269,20 +290,6 @@
       "pubDate": "2026-08-21T15:01:41.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Why does it seem like food recalls are out of control this year?",
-      "url": "https://www.theverge.com/science/983241/food-recalls-bigger-out-of-control",
-      "pubDate": "2026-08-21T14:45:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Google’s Pixel 10A is a great deal at 15 percent off",
-      "url": "https://www.theverge.com/gadgets/983171/google-pixel-10a-steelseries-gaming-headset-soldering-4k-bluray-deal-sale",
-      "pubDate": "2026-08-21T14:35:22.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple's Biggest Summer Deals Drop: AirPods Max 2 Plummet to $429, M4 iPad Air $100 Off",
@@ -309,13 +316,6 @@
       "title": "Apple Paid $17 Billion in Taxes to Ireland Last Year",
       "url": "https://www.macrumors.com/2026/08/21/apple-paid-17-billion-in-taxes-to-ireland/",
       "pubDate": "2026-08-21T13:45:55.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Smartphone Sales Are Falling Worldwide, But Apple Keeps Growing",
-      "url": "https://www.macrumors.com/2026/08/21/smartphone-sales-falling-but-apple-grows/",
-      "pubDate": "2026-08-21T13:38:47.000Z"
     },
     {
       "source": "AppleInsider",
