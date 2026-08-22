@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T07:00:20.902Z",
+  "generatedAt": "2026-08-22T07:46:34.066Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Vision Pro Was Almost Called 'Reality Pro'",
+      "url": "https://www.macrumors.com/2026/08/22/vision-pro-was-almost-called-reality-pro/",
+      "pubDate": "2026-08-22T07:30:49.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -337,13 +344,6 @@
       "title": "When to reuse, sell or recycle an old iPhone or iPad",
       "url": "https://appleinsider.com/inside/ipad/tips/when-to-reuse-sell-or-recycle-an-old-iphone-or-ipad?utm_source=rss",
       "pubDate": "2026-08-21T11:30:28.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Reportedly Lays Off 60 Vision Products Group Employees",
-      "url": "https://www.macrumors.com/2026/08/21/apple-lays-off-vision-products-employees/",
-      "pubDate": "2026-08-21T11:28:45.000Z"
     },
     {
       "source": "AppleInsider",
