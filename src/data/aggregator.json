@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T23:40:02.476Z",
+  "generatedAt": "2026-08-22T01:51:09.451Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "ChatGPT’s iPhone app gets a handy shortcut to attach recent photos more quickly",
+      "url": "https://9to5mac.com/2026/08/21/chatgpts-iphone-app-gets-a-handy-shortcut-to-attach-recent-photos-more-quickly/",
+      "pubDate": "2026-08-21T23:50:13.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -204,13 +211,6 @@
       "title": "Microsoft and Discord subpoenaed over GTA VI gameplay leaks",
       "url": "https://www.theverge.com/games/983323/grand-theft-auto-vi-gta-leaks-microsoft-discord-subpoenaed",
       "pubDate": "2026-08-21T16:52:56.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Another disguised Russian banking app has topped the US iPhone App Store",
-      "url": "https://9to5mac.com/2026/08/21/another-russian-banking-app-in-disguise-has-topped-the-us-app-store/",
-      "pubDate": "2026-08-21T16:47:04.000Z"
     },
     {
       "source": "The Verge",
