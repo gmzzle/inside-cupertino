@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T13:03:04.859Z",
+  "generatedAt": "2026-08-23T13:46:11.252Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -108,6 +108,13 @@
       "pubDate": "2026-08-22T13:00:12.000Z"
     },
     {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Which do you plan to buy: iPhone 18 Pro or foldable iPhone Ultra? [Poll]",
+      "url": "https://9to5mac.com/2026/08/22/which-do-you-plan-to-buy-iphone-18-pro-or-foldable-iphone-ultra-poll/",
+      "pubDate": "2026-08-22T13:00:00.000Z"
+    },
+    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook proves it",
@@ -197,13 +204,6 @@
       "title": "When is Apple Pay coming to your Walmart? Here’s the full schedule",
       "url": "https://9to5mac.com/2026/08/21/when-is-apple-pay-coming-to-your-walmart-heres-the-full-schedule/",
       "pubDate": "2026-08-21T20:31:01.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple paid Ireland $17 billion last year as EU back-tax case came due",
-      "url": "https://9to5mac.com/2026/08/21/apple-paid-ireland-17-billion-last-year-as-eu-back-tax-case-came-due/",
-      "pubDate": "2026-08-21T20:29:03.000Z"
     },
     {
       "source": "MacRumors",
