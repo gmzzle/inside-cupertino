@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T11:36:01.310Z",
+  "generatedAt": "2026-08-23T13:03:04.859Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Grand Theft Auto VI exists in its own universe",
+      "url": "https://www.theverge.com/column/983410/grand-theft-auto-vi-exists-in-its-own-universe",
+      "pubDate": "2026-08-23T12:00:00.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -232,13 +239,6 @@
       "title": "Apple's latest layoffs extend past just Vision Pro development teams",
       "url": "https://appleinsider.com/articles/26/08/21/apples-latest-layoffs-extend-past-just-vision-pro-development-teams?utm_source=rss",
       "pubDate": "2026-08-21T19:14:47.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "$100 Best Buy gift cards will be $60 at stores Saturday",
-      "url": "https://www.theverge.com/gadgets/982513/best-buy-gift-card-in-store-deal",
-      "pubDate": "2026-08-21T18:00:00.000Z"
     },
     {
       "source": "MacRumors",
