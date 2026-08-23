@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T13:46:11.252Z",
+  "generatedAt": "2026-08-23T14:41:39.682Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,41 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Stores preparing ‘significant’ changes for new Home product launches: report",
+      "url": "https://9to5mac.com/2026/08/23/apple-preparing-for-homepod-mini-apple-tv-smart-home-launches/",
+      "pubDate": "2026-08-23T14:33:51.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "How Apple leaked product plans and even a video in a beta",
+      "url": "https://appleinsider.com/articles/26/08/23/how-apple-leaked-product-plans-and-even-a-video-in-a-beta?utm_source=rss",
+      "pubDate": "2026-08-23T14:30:08.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Some people outside of Apple have already used the folding iPhone",
+      "url": "https://appleinsider.com/articles/26/08/23/some-people-outside-of-apple-have-already-used-the-folding-iphone?utm_source=rss",
+      "pubDate": "2026-08-23T14:24:56.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "It's anyone's guess how high iPhone prices might go, but $100 might be enough",
+      "url": "https://appleinsider.com/articles/26/08/23/its-anyones-guess-how-high-iphone-prices-might-go-but-100-might-be-enough?utm_source=rss",
+      "pubDate": "2026-08-23T14:22:51.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "AirTag 2 4-Pack Hits New Low Price of $85 on Amazon",
+      "url": "https://www.macrumors.com/2026/08/23/airtag-2-85-amazon/",
+      "pubDate": "2026-08-23T13:52:53.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -199,13 +234,6 @@
       "pubDate": "2026-08-21T20:53:21.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "When is Apple Pay coming to your Walmart? Here’s the full schedule",
-      "url": "https://9to5mac.com/2026/08/21/when-is-apple-pay-coming-to-your-walmart-heres-the-full-schedule/",
-      "pubDate": "2026-08-21T20:31:01.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple's Camera-Equipped AirPods: All the New Rumors",
@@ -318,13 +346,6 @@
       "pubDate": "2026-08-21T14:09:21.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Paid $17 Billion in Taxes to Ireland Last Year",
-      "url": "https://www.macrumors.com/2026/08/21/apple-paid-17-billion-in-taxes-to-ireland/",
-      "pubDate": "2026-08-21T13:45:55.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Amazon slashes LG 27\" UltraGear OLED monitor to $468, lowest price ever",
@@ -337,27 +358,6 @@
       "title": "AirPods with cameras leak, Apple Maps ads, & Siri AI on the AppleInsider Podcast",
       "url": "https://appleinsider.com/articles/26/08/21/airpods-with-cameras-leak-apple-maps-ads-siri-ai-on-the-appleinsider-podcast?utm_source=rss",
       "pubDate": "2026-08-21T12:23:27.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "ChatGPT can now control Messages on the Mac for some reason",
-      "url": "https://appleinsider.com/articles/26/08/21/chatgpt-can-now-control-messages-on-the-mac-for-some-reason?utm_source=rss",
-      "pubDate": "2026-08-21T11:52:54.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "When to reuse, sell or recycle an old iPhone or iPad",
-      "url": "https://appleinsider.com/inside/ipad/tips/when-to-reuse-sell-or-recycle-an-old-iphone-or-ipad?utm_source=rss",
-      "pubDate": "2026-08-21T11:30:28.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "AirPod cameras will detect people, and warn about image capture with a status light",
-      "url": "https://appleinsider.com/articles/26/08/21/airpod-cameras-will-detect-people-and-warn-about-image-capture-with-a-status-light?utm_source=rss",
-      "pubDate": "2026-08-21T11:26:05.000Z"
     },
     {
       "source": "Six Colors",
