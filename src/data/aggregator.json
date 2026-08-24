@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T13:14:10.514Z",
+  "generatedAt": "2026-08-24T14:05:47.556Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,76 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Apple’s four-pack of second-gen AirTags are $20 off",
+      "url": "https://www.theverge.com/gadgets/983726/apple-airtags-second-gen-four-pack-elgato-stream-deck-switch-2-deal-sale",
+      "pubDate": "2026-08-24T14:04:04.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Amazon Offers Up to $150 Discounts on M5 MacBook Air",
+      "url": "https://www.macrumors.com/2026/08/24/amazon-150-discount-m5-macbook-air/",
+      "pubDate": "2026-08-24T14:01:26.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "How GoFundMe became America’s backup plan",
+      "url": "https://www.theverge.com/podcast/982901/gofundme-ceo-tim-cadogan-fundraising-healthcare-medical-expenses",
+      "pubDate": "2026-08-24T14:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone 20 Pro’s all-glass design gets new update from leaker",
+      "url": "https://9to5mac.com/2026/08/24/iphone-20-pros-all-glass-design-gets-new-update-from-leaker/",
+      "pubDate": "2026-08-24T13:48:09.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Netflix reportedly considers opening its app to other streamers",
+      "url": "https://www.theverge.com/streaming/983741/netflix-open-app-peacock-fox-one",
+      "pubDate": "2026-08-24T13:47:14.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone 18 Pro and iPhone Ultra: When Will Apple Event Be Announced?",
+      "url": "https://www.macrumors.com/2026/08/24/iphone-18-pro-iphone-ultra-apple-event-when/",
+      "pubDate": "2026-08-24T13:45:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "AI assistant is rolling out to the Apple Store app on iOS",
+      "url": "https://appleinsider.com/articles/26/08/24/ai-assistant-is-rolling-out-to-the-apple-store-app-on-ios?utm_source=rss",
+      "pubDate": "2026-08-24T13:39:50.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iPhone 20 will look like a rounder and thinner iPhone Air",
+      "url": "https://appleinsider.com/articles/26/08/24/iphone-20-will-look-like-a-rounder-and-thinner-iphone-air?utm_source=rss",
+      "pubDate": "2026-08-24T13:37:59.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "AirTag 2 now just $20 each ahead of new feature coming soon",
+      "url": "https://9to5mac.com/2026/08/24/airtag-2-deal-best-price/",
+      "pubDate": "2026-08-24T13:20:18.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "AirTag 2 4-Pack Hits New Low Price of $79.99 on Amazon [Updated]",
+      "url": "https://www.macrumors.com/2026/08/24/airtag-2-85-amazon/",
+      "pubDate": "2026-08-24T13:02:00.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -105,7 +175,7 @@
       "sourceHomepage": "https://www.macrumors.com",
       "title": "How Apple Leaked Itself",
       "url": "https://www.macrumors.com/2026/08/24/how-apple-leaked-itself/",
-      "pubDate": "2026-08-24T10:00:55.000Z"
+      "pubDate": "2026-08-24T10:00:44.000Z"
     },
     {
       "source": "The Verge",
@@ -220,25 +290,11 @@
       "pubDate": "2026-08-23T14:33:51.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "AirTag 2 4-Pack Hits New Low Price of $79.99 on Amazon",
-      "url": "https://www.macrumors.com/2026/08/23/airtag-2-85-amazon/",
-      "pubDate": "2026-08-23T13:52:44.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Grand Theft Auto VI exists in its own universe",
       "url": "https://www.theverge.com/column/983410/grand-theft-auto-vi-exists-in-its-own-universe",
       "pubDate": "2026-08-23T12:00:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Crime blotter: Bail revoked in Hingham Apple Store crash case",
-      "url": "https://appleinsider.com/articles/26/08/23/crime-blotter-bail-revoked-in-hingham-apple-store-crash-case?utm_source=rss",
-      "pubDate": "2026-08-23T11:14:46.000Z"
     },
     {
       "source": "9to5Mac",
@@ -283,67 +339,11 @@
       "pubDate": "2026-08-22T15:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent",
-      "url": "https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv",
-      "pubDate": "2026-08-22T13:41:01.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple @ Work: Most IT leaders want AI to help manage their Macs, but few are ready for it",
-      "url": "https://9to5mac.com/2026/08/22/apple-work-most-it-leaders-want-ai-to-manage-their-macs-but-few-are-ready-for-it/",
-      "pubDate": "2026-08-22T13:30:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple's Biggest Summer Deals Drop: AirPods Max 2 Plummet to $429, M4 iPad Air $100 Off",
       "url": "https://www.macrumors.com/2026/08/22/best-apple-deals-of-the-week-8-21-26/",
       "pubDate": "2026-08-22T13:05:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Top Stories: Apple Leaks - Camera-Equipped AirPods, Beats 360, and More",
-      "url": "https://www.macrumors.com/2026/08/22/top-stories-apple-leaks-camera-airpods/",
-      "pubDate": "2026-08-22T13:00:12.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Which do you plan to buy: iPhone 18 Pro or foldable iPhone Ultra? [Poll]",
-      "url": "https://9to5mac.com/2026/08/22/which-do-you-plan-to-buy-iphone-18-pro-or-foldable-iphone-ultra-poll/",
-      "pubDate": "2026-08-22T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook proves it",
-      "url": "https://www.theverge.com/tech/983554/hp-omnibook-3-16-snapdragon-laptop-review",
-      "pubDate": "2026-08-22T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Two great new repairable gadgets",
-      "url": "https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2",
-      "pubDate": "2026-08-22T12:00:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Vision Pro Was Almost Called 'Reality Pro'",
-      "url": "https://www.macrumors.com/2026/08/22/vision-pro-was-almost-called-reality-pro/",
-      "pubDate": "2026-08-22T07:30:49.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple's latest layoffs extend past just Vision Pro development teams",
-      "url": "https://appleinsider.com/articles/26/08/21/apples-latest-layoffs-extend-past-just-vision-pro-development-teams?utm_source=rss",
-      "pubDate": "2026-08-21T19:14:47.000Z"
     },
     {
       "source": "Six Colors",
