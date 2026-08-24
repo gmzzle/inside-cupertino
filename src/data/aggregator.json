@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T09:05:17.800Z",
+  "generatedAt": "2026-08-24T10:04:46.739Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "How Apple Leaked Itself",
+      "url": "https://www.macrumors.com/2026/08/24/how-apple-leaked-itself/",
+      "pubDate": "2026-08-24T10:00:55.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Humanoid robots smash Usain Bolt&#8217;s 100-meter record",
+      "url": "https://www.theverge.com/tech/983688/world-humanoid-robot-games-sprint-record-2026",
+      "pubDate": "2026-08-24T09:10:40.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -276,13 +290,6 @@
       "pubDate": "2026-08-21T22:14:11.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "TikTok will pay $400 million to settle DOJ child privacy lawsuit",
-      "url": "https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa",
-      "pubDate": "2026-08-21T22:13:34.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple's Camera-Equipped AirPods: All the New Rumors",
@@ -309,13 +316,6 @@
       "title": "Apple's latest layoffs extend past just Vision Pro development teams",
       "url": "https://appleinsider.com/articles/26/08/21/apples-latest-layoffs-extend-past-just-vision-pro-development-teams?utm_source=rss",
       "pubDate": "2026-08-21T19:14:47.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "The MacRumors Show: Michael Fisher Talks iPhone Ultra",
-      "url": "https://www.macrumors.com/2026/08/21/the-macrumors-show-michael-fisher-iphone-ultra/",
-      "pubDate": "2026-08-21T17:48:57.000Z"
     },
     {
       "source": "AppleInsider",
