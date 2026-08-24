@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T19:45:44.727Z",
+  "generatedAt": "2026-08-24T20:49:12.400Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,69 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "This is the first look at the inside of Apple's AI servers",
+      "url": "https://appleinsider.com/articles/26/08/24/this-is-the-first-look-at-the-inside-of-apples-ai-servers?utm_source=rss",
+      "pubDate": "2026-08-24T20:30:29.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Handy disk image tool is getting removed from macOS",
+      "url": "https://appleinsider.com/articles/26/08/24/handy-disk-image-tool-is-to-be-removed-from-macos?utm_source=rss",
+      "pubDate": "2026-08-24T20:30:02.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Hide My Email no longer changing domains, will keep iCloud.com",
+      "url": "https://appleinsider.com/articles/26/08/24/hide-my-email-no-longer-changing-domains-will-keep-icloudcom?utm_source=rss",
+      "pubDate": "2026-08-24T20:29:15.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple’s Emergency SOS Live Video is now available in Brazil",
+      "url": "https://9to5mac.com/2026/08/24/apples-emergency-sos-live-video-is-now-available-in-brazil/",
+      "pubDate": "2026-08-24T20:28:19.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Won't Change Hide My Email Domain After Backlash",
+      "url": "https://www.macrumors.com/2026/08/24/apple-hide-my-email-domain/",
+      "pubDate": "2026-08-24T20:17:23.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple official refurb store: This week’s top picks at up to $500 off",
+      "url": "https://9to5mac.com/2026/08/24/apple-official-refurb-store-best-offers/",
+      "pubDate": "2026-08-24T20:04:21.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Holds Farewell Party for Tim Cook as Ternus Prepares to Take Over",
+      "url": "https://www.macrumors.com/2026/08/24/apple-tim-cook-farewell-party/",
+      "pubDate": "2026-08-24T19:58:55.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The cat-and-mouse game over 3D-printed guns has begun",
+      "url": "https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul",
+      "pubDate": "2026-08-24T19:50:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Epic fights Apple’s bid to seal key data behind proposed fees on linked-out purchases",
+      "url": "https://9to5mac.com/2026/08/24/epic-fights-apples-bid-to-seal-key-data-behind-proposed-fees-on-linked-out-purchases/",
+      "pubDate": "2026-08-24T19:49:35.000Z"
+    },
     {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
@@ -50,13 +113,6 @@
       "title": "Apple gearing up to start filming 'Ted Lasso' season 5 in January",
       "url": "https://appleinsider.com/articles/26/08/24/apple-gearing-up-to-start-filming-ted-lasso-season-5-in-january?utm_source=rss",
       "pubDate": "2026-08-24T19:06:22.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "This is the first look at the inside of Apple's AI servers",
-      "url": "https://appleinsider.com/articles/26/08/24/this-is-the-first-look-at-the-inside-of-apples-ai-servers?utm_source=rss",
-      "pubDate": "2026-08-24T19:00:37.000Z"
     },
     {
       "source": "9to5Mac",
@@ -143,13 +199,6 @@
       "pubDate": "2026-08-24T17:29:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 beta 7 now available as Apple tests major Siri AI upgrade",
-      "url": "https://9to5mac.com/2026/08/24/ios-27-beta-7/",
-      "pubDate": "2026-08-24T17:28:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Seeds tvOS 27 Beta 7 to Developers",
@@ -199,25 +248,11 @@
       "pubDate": "2026-08-24T15:48:53.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple is about to launch five new products that I’m very excited for",
-      "url": "https://9to5mac.com/2026/08/24/apple-is-about-to-launch-five-new-products-that-im-very-excited-for/",
-      "pubDate": "2026-08-24T15:43:52.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iOS 27: All the New Safari Features",
       "url": "https://www.macrumors.com/guide/ios-27-safari/",
       "pubDate": "2026-08-24T15:42:25.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "ESPN streaming prices are going up, including Disney+ and Hulu bundles",
-      "url": "https://9to5mac.com/2026/08/24/espn-streaming-prices-are-going-up-along-with-disney-and-hulu-bundles/",
-      "pubDate": "2026-08-24T15:36:24.000Z"
     },
     {
       "source": "The Verge",
@@ -290,32 +325,11 @@
       "pubDate": "2026-08-24T13:02:00.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Store App Rolling Out 'Early Preview' of New Shopping Assistant",
-      "url": "https://www.macrumors.com/2026/08/24/apple-store-app-virtual-shopping-assistant/",
-      "pubDate": "2026-08-24T12:56:14.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone 20's Curved Glass Design to Be Made Like iPhone Air",
-      "url": "https://www.macrumors.com/2026/08/24/iphone-20-curved-glass-to-be-like-iphone-air/",
-      "pubDate": "2026-08-24T12:42:09.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Amazon slashes AirTag 4-pack to $79.99, lowest price ever",
       "url": "https://appleinsider.com/articles/26/08/24/amazon-slashes-airtag-4-pack-to-7999-lowest-price-ever?utm_source=rss",
       "pubDate": "2026-08-24T12:21:05.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Handy disk image tool is getting removed from macOS",
-      "url": "https://appleinsider.com/articles/26/08/24/handy-disk-image-tool-is-to-be-removed-from-macos?utm_source=rss",
-      "pubDate": "2026-08-24T12:10:57.000Z"
     },
     {
       "source": "The Verge",
@@ -337,20 +351,6 @@
       "title": "The road to Steve Jobs' resignation, and the rise of Tim Cook as his first successor",
       "url": "https://appleinsider.com/articles/18/08/24/the-road-to-steve-jobs-resignation-and-the-rise-of-tim-cook-as-his-successor?utm_source=rss",
       "pubDate": "2026-08-24T11:16:45.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Humanoid robots smash Usain Bolt&#8217;s 100-meter record",
-      "url": "https://www.theverge.com/tech/983688/world-humanoid-robot-games-sprint-record-2026",
-      "pubDate": "2026-08-24T09:10:40.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Sunday Reboot: AirPods will be the best smart glasses",
-      "url": "https://appleinsider.com/articles/26/08/23/sunday-reboot-airpods-will-be-the-best-smart-glasses?utm_source=rss",
-      "pubDate": "2026-08-23T20:02:45.000Z"
     },
     {
       "source": "Six Colors",
