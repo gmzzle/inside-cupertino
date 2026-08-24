@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T14:05:47.556Z",
+  "generatedAt": "2026-08-24T15:01:40.021Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,9 +24,16 @@
   ],
   "items": [
     {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple starts testing AI shopping assistant in the Apple Store app",
+      "url": "https://9to5mac.com/2026/08/24/apple-store-app-is-testing-an-ai-shopping-assistant/",
+      "pubDate": "2026-08-24T14:07:53.000Z"
+    },
+    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple’s four-pack of second-gen AirTags are $20 off",
+      "title": "Apple’s four-pack of second-gen AirTags is $20 off",
       "url": "https://www.theverge.com/gadgets/983726/apple-airtags-second-gen-four-pack-elgato-stream-deck-switch-2-deal-sale",
       "pubDate": "2026-08-24T14:04:04.000Z"
     },
@@ -316,13 +323,6 @@
       "title": "We’re just two months away from the first touchscreen MacBook: Here’s what to expect",
       "url": "https://9to5mac.com/2026/08/22/touchscreen-macbook-ultra-coming-soon-heres-whats-coming/",
       "pubDate": "2026-08-22T17:58:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone 18 Pro event date: When Apple announced its event over the last six years",
-      "url": "https://9to5mac.com/2026/08/22/iphone-18-pro-event-date-when-announcement/",
-      "pubDate": "2026-08-22T17:32:09.000Z"
     },
     {
       "source": "The Verge",
