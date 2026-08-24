@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T20:49:12.400Z",
+  "generatedAt": "2026-08-24T21:44:52.178Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "OneRepublic headlines Tim Cook's going away party as he prepares to step down as CEO",
+      "url": "https://appleinsider.com/articles/26/08/24/onerepublic-headlines-tim-cooks-going-away-party-as-he-prepares-to-step-down-as-ceo?utm_source=rss",
+      "pubDate": "2026-08-24T21:29:14.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple reverses planned Hide My Email domain change after user pushback",
+      "url": "https://9to5mac.com/2026/08/24/apple-reverses-planned-hide-my-email-domain-change-after-user-pushback/",
+      "pubDate": "2026-08-24T21:05:31.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Home Hub Code Hints at Face-Based Profile Switching",
+      "url": "https://www.macrumors.com/2026/08/24/home-hub-ambient-sending/",
+      "pubDate": "2026-08-24T20:53:28.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -178,13 +199,6 @@
       "pubDate": "2026-08-24T17:33:20.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "macOS 27 Golden Gate developer beta 7 now available, here’s how to install it",
-      "url": "https://9to5mac.com/2026/08/24/macos-27-golden-gate-developer-beta-7-now-available-heres-how-to-install-it/",
-      "pubDate": "2026-08-24T17:32:22.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Seeds watchOS 27 Beta 7 to Developers",
@@ -318,13 +332,6 @@
       "pubDate": "2026-08-24T13:37:59.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "AirTag 2 4-Pack Hits New Low Price of $79.99 on Amazon [Updated]",
-      "url": "https://www.macrumors.com/2026/08/24/airtag-2-85-amazon/",
-      "pubDate": "2026-08-24T13:02:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Amazon slashes AirTag 4-pack to $79.99, lowest price ever",
@@ -344,13 +351,6 @@
       "title": "When to reuse, sell or recycle an old iPhone or iPad",
       "url": "https://appleinsider.com/inside/ipad/tips/when-to-reuse-sell-or-recycle-an-old-iphone-or-ipad?utm_source=rss",
       "pubDate": "2026-08-24T11:19:43.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "The road to Steve Jobs' resignation, and the rise of Tim Cook as his first successor",
-      "url": "https://appleinsider.com/articles/18/08/24/the-road-to-steve-jobs-resignation-and-the-rise-of-tim-cook-as-his-successor?utm_source=rss",
-      "pubDate": "2026-08-24T11:16:45.000Z"
     },
     {
       "source": "Six Colors",
