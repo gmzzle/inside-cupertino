@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T11:44:48.598Z",
+  "generatedAt": "2026-08-24T13:14:10.514Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -26,7 +26,42 @@
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
-      "title": "Tim Cook Replaced Steve Jobs 15 Years Ago Today, He Leaves Sept 1",
+      "title": "Apple Store App Rolling Out 'Early Preview' of New Shopping Assistant",
+      "url": "https://www.macrumors.com/2026/08/24/apple-store-app-virtual-shopping-assistant/",
+      "pubDate": "2026-08-24T12:56:14.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone 20's Curved Glass Design to Be Made Like iPhone Air",
+      "url": "https://www.macrumors.com/2026/08/24/iphone-20-curved-glass-to-be-like-iphone-air/",
+      "pubDate": "2026-08-24T12:42:09.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Amazon slashes AirTag 4-pack to $79.99, lowest price ever",
+      "url": "https://appleinsider.com/articles/26/08/24/amazon-slashes-airtag-4-pack-to-7999-lowest-price-ever?utm_source=rss",
+      "pubDate": "2026-08-24T12:21:05.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 fixes three of the most annoying Messages bugs",
+      "url": "https://9to5mac.com/2026/08/24/ios-27-fixes-three-of-the-most-annoying-messages-bugs/",
+      "pubDate": "2026-08-24T12:11:38.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Handy disk image tool is getting removed from macOS",
+      "url": "https://appleinsider.com/articles/26/08/24/handy-disk-image-tool-is-to-be-removed-from-macos?utm_source=rss",
+      "pubDate": "2026-08-24T12:10:57.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Tim Cook Replaced Steve Jobs 15 Years Ago Today, Steps Down Sept 1",
       "url": "https://www.macrumors.com/2026/08/24/tim-cook-replaced-steve-jobs-15-years-ago-today/",
       "pubDate": "2026-08-24T11:38:17.000Z"
     },
@@ -187,9 +222,9 @@
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
-      "title": "AirTag 2 4-Pack Hits New Low Price of $85 on Amazon",
+      "title": "AirTag 2 4-Pack Hits New Low Price of $79.99 on Amazon",
       "url": "https://www.macrumors.com/2026/08/23/airtag-2-85-amazon/",
-      "pubDate": "2026-08-23T13:52:53.000Z"
+      "pubDate": "2026-08-23T13:52:44.000Z"
     },
     {
       "source": "The Verge",
@@ -290,13 +325,6 @@
       "pubDate": "2026-08-22T13:00:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Weekend Apple deals: $500 off MacBook Pro, AirPods Pro 3, AirPods Max 2 $120 off, AirTag 2, more",
-      "url": "https://9to5mac.com/2026/08/22/weekend-apple-deals-macbook-pro-airpods-pro-3/",
-      "pubDate": "2026-08-22T12:17:11.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Two great new repairable gadgets",
@@ -311,39 +339,11 @@
       "pubDate": "2026-08-22T07:30:49.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "10 Ways to Improve Your iPhone's Battery Life",
-      "url": "https://www.macrumors.com/guide/iphone-battery-life-10-tips/",
-      "pubDate": "2026-08-21T22:53:10.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple's Camera-Equipped AirPods: All the New Rumors",
-      "url": "https://www.macrumors.com/guide/airpods-ultra/",
-      "pubDate": "2026-08-21T20:02:41.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple's latest layoffs extend past just Vision Pro development teams",
       "url": "https://appleinsider.com/articles/26/08/21/apples-latest-layoffs-extend-past-just-vision-pro-development-teams?utm_source=rss",
       "pubDate": "2026-08-21T19:14:47.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "M6 MacBook Pro rumors: Improved performance, in a familiar form factor",
-      "url": "https://appleinsider.com/articles/26/08/21/m6-macbook-pro-rumors-improved-performance-in-a-familiar-form-factor?utm_source=rss",
-      "pubDate": "2026-08-21T17:20:05.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "App Store review is broken in a time where it is needed the most",
-      "url": "https://appleinsider.com/articles/26/08/13/app-store-review-is-broken-in-a-time-where-it-is-needed-the-most?utm_source=rss",
-      "pubDate": "2026-08-21T17:03:19.000Z"
     },
     {
       "source": "Six Colors",
