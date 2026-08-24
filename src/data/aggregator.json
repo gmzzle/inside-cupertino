@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T19:00:41.784Z",
+  "generatedAt": "2026-08-24T19:45:44.727Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "App Report: Easy listening, easier reading",
+      "url": "https://sixcolors.com/post/2026/08/app-report-easy-listening-easier-reading/",
+      "pubDate": "2026-08-24T19:41:58.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 adds three new iPhone features I’ve been really loving",
+      "url": "https://9to5mac.com/2026/08/24/ios-27-adds-three-new-iphone-features-ive-been-really-loving/",
+      "pubDate": "2026-08-24T19:23:04.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Here’s everything new Apple TV has coming in September",
+      "url": "https://9to5mac.com/2026/08/24/heres-everything-new-apple-tv-has-coming-in-september-2026/",
+      "pubDate": "2026-08-24T19:12:48.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple gearing up to start filming 'Ted Lasso' season 5 in January",
+      "url": "https://appleinsider.com/articles/26/08/24/apple-gearing-up-to-start-filming-ted-lasso-season-5-in-january?utm_source=rss",
+      "pubDate": "2026-08-24T19:06:22.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -57,13 +85,6 @@
       "title": "MagSafe Monday: The TUCCH Mag Wallet feels like a real wallet, not just a slot to stick cards in",
       "url": "https://9to5mac.com/2026/08/24/tucch-mag-wallet/",
       "pubDate": "2026-08-24T18:18:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple gearing up to start filming 'Ted Lasso' season 5 in January",
-      "url": "https://appleinsider.com/articles/26/08/24/apple-gearing-up-to-start-filming-ted-lasso-season-5-in-january?utm_source=rss",
-      "pubDate": "2026-08-24T17:51:01.000Z"
     },
     {
       "source": "AppleInsider",
@@ -197,20 +218,6 @@
       "title": "ESPN streaming prices are going up, including Disney+ and Hulu bundles",
       "url": "https://9to5mac.com/2026/08/24/espn-streaming-prices-are-going-up-along-with-disney-and-hulu-bundles/",
       "pubDate": "2026-08-24T15:36:24.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: AirTag 2 best price ever from $20 each, AirPods, M5 MacBook Pro $320 off, Find My gear, more",
-      "url": "https://9to5mac.com/2026/08/24/deals-airtag-2-best-price-ever-m5-macbook-pro/",
-      "pubDate": "2026-08-24T15:21:50.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Affordable iPhone accessories for CarPlay worth trying",
-      "url": "https://9to5mac.com/2026/08/24/affordable-iphone-accessories-for-carplay-worth-trying/",
-      "pubDate": "2026-08-24T15:18:53.000Z"
     },
     {
       "source": "The Verge",
@@ -365,13 +372,6 @@
       "title": "Open and move windows between displays automatically",
       "url": "https://sixcolors.com/post/2026/08/open-and-move-windows-between-displays-automatically/",
       "pubDate": "2026-08-20T23:17:42.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) Clockwise 670: Scratch Your Own Itch",
-      "url": "https://sixcolors.com/podcast/2026/08/clockwise-670-scratch-your-own-itch/",
-      "pubDate": "2026-08-19T20:23:16.000Z"
     }
   ]
 }
