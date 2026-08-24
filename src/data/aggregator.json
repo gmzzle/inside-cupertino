@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T16:56:15.721Z",
+  "generatedAt": "2026-08-24T17:47:19.074Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,83 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Seventh developer betas of iOS 27, macOS 27 land as releases loom",
+      "url": "https://appleinsider.com/articles/26/08/24/seventh-developer-betas-of-ios-27-macos-27-land-as-releases-loom?utm_source=rss",
+      "pubDate": "2026-08-24T17:39:01.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple releases beta 7 for iPadOS 27, watchOS 27, and more",
+      "url": "https://9to5mac.com/2026/08/24/apple-releases-beta-7-for-ipados-27-tvos-27-and-more/",
+      "pubDate": "2026-08-24T17:35:16.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Releases macOS Golden Gate Beta 7",
+      "url": "https://www.macrumors.com/2026/08/24/apple-releases-macos-golden-gate-beta-7/",
+      "pubDate": "2026-08-24T17:35:05.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Seeds Seventh iOS 27 and iPadOS 27 Betas to Developers",
+      "url": "https://www.macrumors.com/2026/08/24/apple-seeds-ios-27-beta-7/",
+      "pubDate": "2026-08-24T17:34:02.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Second Release Candidates for macOS Tahoe 26.7 and macOS Sequoia 15.8 now available",
+      "url": "https://9to5mac.com/2026/08/24/second-release-candidates-for-macos-tahoe-26-7-and-macos-sequoia-15-8-now-available/",
+      "pubDate": "2026-08-24T17:33:20.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "macOS 27 Golden Gate developer beta 7 now available, here’s how to install it",
+      "url": "https://9to5mac.com/2026/08/24/macos-27-golden-gate-developer-beta-7-now-available-heres-how-to-install-it/",
+      "pubDate": "2026-08-24T17:32:22.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Seeds watchOS 27 Beta 7 to Developers",
+      "url": "https://www.macrumors.com/2026/08/24/apple-seeds-watchos-27-beta-7-to-developers/",
+      "pubDate": "2026-08-24T17:30:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Seeds Seventh visionOS 27 Beta to Developers",
+      "url": "https://www.macrumors.com/2026/08/24/apple-seeds-visionos-27-beta-7/",
+      "pubDate": "2026-08-24T17:29:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 beta 7 now available as Apple tests major Siri AI upgrade",
+      "url": "https://9to5mac.com/2026/08/24/ios-27-beta-7/",
+      "pubDate": "2026-08-24T17:28:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Seeds tvOS 27 Beta 7 to Developers",
+      "url": "https://www.macrumors.com/2026/08/24/apple-seeds-tvos-27-beta-7-to-developers/",
+      "pubDate": "2026-08-24T17:27:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Zillow and Redfin settle FTC antitrust case over their rental listings partnership",
+      "url": "https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement",
+      "pubDate": "2026-08-24T17:01:05.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -213,25 +290,11 @@
       "pubDate": "2026-08-24T12:21:05.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 fixes three of the most annoying Messages bugs",
-      "url": "https://9to5mac.com/2026/08/24/ios-27-fixes-three-of-the-most-annoying-messages-bugs/",
-      "pubDate": "2026-08-24T12:11:38.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Handy disk image tool is getting removed from macOS",
       "url": "https://appleinsider.com/articles/26/08/24/handy-disk-image-tool-is-to-be-removed-from-macos?utm_source=rss",
       "pubDate": "2026-08-24T12:10:57.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Tim Cook Replaced Steve Jobs 15 Years Ago Today, Steps Down Sept 1",
-      "url": "https://www.macrumors.com/2026/08/24/tim-cook-replaced-steve-jobs-15-years-ago-today/",
-      "pubDate": "2026-08-24T11:38:17.000Z"
     },
     {
       "source": "The Verge",
@@ -243,23 +306,9 @@
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
-      "title": "How Apple leaked product plans and even a video in a beta",
-      "url": "https://appleinsider.com/articles/26/08/23/how-apple-leaked-product-plans-and-even-a-video-in-a-beta?utm_source=rss",
-      "pubDate": "2026-08-24T11:26:43.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
       "title": "When to reuse, sell or recycle an old iPhone or iPad",
       "url": "https://appleinsider.com/inside/ipad/tips/when-to-reuse-sell-or-recycle-an-old-iphone-or-ipad?utm_source=rss",
       "pubDate": "2026-08-24T11:19:43.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Preparing to Increase iPhone Prices",
-      "url": "https://www.macrumors.com/2026/08/24/apple-preparing-to-increase-iphone-prices/",
-      "pubDate": "2026-08-24T11:17:31.000Z"
     },
     {
       "source": "AppleInsider",
@@ -269,13 +318,6 @@
       "pubDate": "2026-08-24T11:16:45.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "How Apple Leaked Itself",
-      "url": "https://www.macrumors.com/2026/08/24/how-apple-leaked-itself/",
-      "pubDate": "2026-08-24T10:00:44.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Humanoid robots smash Usain Bolt&#8217;s 100-meter record",
@@ -283,46 +325,11 @@
       "pubDate": "2026-08-24T09:10:40.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "These are the best MacBook deals right now: August 2026 Buyer’s Guide",
-      "url": "https://9to5mac.com/2026/08/23/best-apple-macbook-deals-right-now-august/",
-      "pubDate": "2026-08-24T02:54:40.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Hands-on: Mophie’s new battery banks offer pocketable power, built-in cables at low price",
-      "url": "https://9to5mac.com/2026/08/23/mophie-new-pocketable-battery-banks-for-iphone/",
-      "pubDate": "2026-08-23T20:27:08.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Sunday Reboot: AirPods will be the best smart glasses",
       "url": "https://appleinsider.com/articles/26/08/23/sunday-reboot-airpods-will-be-the-best-smart-glasses?utm_source=rss",
       "pubDate": "2026-08-23T20:02:45.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Retail Stores Preparing for New Home Product Launches",
-      "url": "https://www.macrumors.com/2026/08/23/apple-stores-prepare-new-home-products/",
-      "pubDate": "2026-08-23T19:20:20.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series",
-      "url": "https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games",
-      "pubDate": "2026-08-23T19:14:37.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "M6 iMac Coming This Year in New Colors",
-      "url": "https://www.macrumors.com/2026/08/23/m6-imac-this-year-new-colors/",
-      "pubDate": "2026-08-23T18:36:39.000Z"
     },
     {
       "source": "AppleInsider",
@@ -337,13 +344,6 @@
       "title": "Apple Stores refresh prepares to push a big smart home revamp",
       "url": "https://appleinsider.com/articles/26/08/23/apple-stores-refresh-aims-to-push-a-big-smart-home-revamp?utm_source=rss",
       "pubDate": "2026-08-23T15:41:16.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Report: Apple launching updated iMac with M6 chip and new colors later this year",
-      "url": "https://9to5mac.com/2026/08/23/apple-refreshed-imac-m6-chip-new-colors/",
-      "pubDate": "2026-08-23T15:20:34.000Z"
     },
     {
       "source": "Six Colors",
