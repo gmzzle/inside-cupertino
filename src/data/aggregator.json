@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T22:45:40.042Z",
+  "generatedAt": "2026-08-24T23:37:13.626Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Siri AI Will Have a Waitlist When iOS 27 Launches",
+      "url": "https://www.macrumors.com/2026/08/24/siri-ai-ios-27-waitlist/",
+      "pubDate": "2026-08-24T23:37:02.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Releases New iOS 27, iPadOS 27, macOS 27, and tvOS 27 Public Betas",
+      "url": "https://www.macrumors.com/2026/08/24/apple-releases-ios-27-public-beta-5/",
+      "pubDate": "2026-08-24T22:51:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "New public betas now available for iOS 27, iPadOS 27, macOS 27 Golden Gate, more",
+      "url": "https://9to5mac.com/2026/08/24/new-public-betas-now-available-for-ios-27-ipados-27-macos-27-golden-gate-more/",
+      "pubDate": "2026-08-24T22:45:50.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -192,13 +213,6 @@
       "pubDate": "2026-08-24T17:39:01.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple releases beta 7 for iPadOS 27, watchOS 27, and more",
-      "url": "https://9to5mac.com/2026/08/24/apple-releases-beta-7-for-ipados-27-tvos-27-and-more/",
-      "pubDate": "2026-08-24T17:35:16.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Releases macOS Golden Gate Beta 7",
@@ -304,13 +318,6 @@
       "pubDate": "2026-08-24T14:04:04.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Amazon Offers Up to $150 Discounts on M5 MacBook Air",
-      "url": "https://www.macrumors.com/2026/08/24/amazon-150-discount-m5-macbook-air/",
-      "pubDate": "2026-08-24T14:01:26.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "How GoFundMe became America’s backup plan",
@@ -323,13 +330,6 @@
       "title": "Netflix reportedly considers opening its app to other streamers",
       "url": "https://www.theverge.com/streaming/983741/netflix-open-app-peacock-fox-one",
       "pubDate": "2026-08-24T13:47:14.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone 18 Pro and iPhone Ultra: When Will Apple Event Be Announced?",
-      "url": "https://www.macrumors.com/2026/08/24/iphone-18-pro-iphone-ultra-apple-event-when/",
-      "pubDate": "2026-08-24T13:45:00.000Z"
     },
     {
       "source": "AppleInsider",
