@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T15:56:26.429Z",
+  "generatedAt": "2026-08-24T16:56:15.721Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple smart home display rumors & Sonos Gambit soundbar leak on Smart Home Insider",
+      "url": "https://appleinsider.com/articles/26/08/24/apple-smart-home-display-rumors-sonos-gambit-soundbar-leak-on-smart-home-insider?utm_source=rss",
+      "pubDate": "2026-08-24T16:45:34.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Robotaxis are real now — so is the pushback",
+      "url": "https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa",
+      "pubDate": "2026-08-24T16:42:37.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Trump may use Apple Chinese RAM buy request as diplomatic tool",
+      "url": "https://appleinsider.com/articles/26/08/24/trump-may-use-apple-chinese-ram-buy-request-as-diplomatic-tool?utm_source=rss",
+      "pubDate": "2026-08-24T16:31:43.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Watch Series 12: Everything to Expect Next Month",
+      "url": "https://www.macrumors.com/2026/08/24/apple-watch-series-12-everything-to-expect/",
+      "pubDate": "2026-08-24T15:55:45.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -297,13 +325,6 @@
       "pubDate": "2026-08-23T18:36:39.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Gurman: iPhone Ultra Wows Early Testers, Except for Its Camera",
-      "url": "https://www.macrumors.com/2026/08/23/apple-foldable-iphone-early-tester-thoughts/",
-      "pubDate": "2026-08-23T18:19:25.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "M6 iMac refresh expected before the end of 2026",
@@ -323,27 +344,6 @@
       "title": "Report: Apple launching updated iMac with M6 chip and new colors later this year",
       "url": "https://9to5mac.com/2026/08/23/apple-refreshed-imac-m6-chip-new-colors/",
       "pubDate": "2026-08-23T15:20:34.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "It's anyone's guess how high iPhone prices might go, but $100 more might be enough",
-      "url": "https://appleinsider.com/articles/26/08/23/its-anyones-guess-how-high-iphone-prices-might-go-but-100-might-be-enough?utm_source=rss",
-      "pubDate": "2026-08-23T15:02:37.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "We’re All Going to the World’s Fair is an intimate coming-of-age horror film",
-      "url": "https://www.theverge.com/entertainment/983177/jane-schoenbrun-were-all-going-to-the-worlds-fair-horror-movie-review",
-      "pubDate": "2026-08-23T15:00:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Some people outside of Apple have already used the folding iPhone",
-      "url": "https://appleinsider.com/articles/26/08/23/some-people-outside-of-apple-have-already-used-the-folding-iphone?utm_source=rss",
-      "pubDate": "2026-08-23T14:41:43.000Z"
     },
     {
       "source": "Six Colors",
