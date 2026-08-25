@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T10:50:40.818Z",
+  "generatedAt": "2026-08-25T11:44:46.562Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,41 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "'MacBook Ultra' Coming Soon With Touchscreen and 5 Other Changes",
+      "url": "https://www.macrumors.com/2026/08/25/macbook-ultra-coming-soon-touchscreen-5-changes/",
+      "pubDate": "2026-08-25T11:43:11.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "MacBook Lock aims to keep your laptop safe in coffee shops",
+      "url": "https://9to5mac.com/2026/08/25/macbook-lock-aims-to-keep-your-laptop-safe-in-coffee-shops/",
+      "pubDate": "2026-08-25T11:37:43.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone Trade-In Values Slide Ahead of New Model Launch",
+      "url": "https://www.macrumors.com/2026/08/25/iphone-trade-in-values-slide-ahead-of-launch/",
+      "pubDate": "2026-08-25T11:27:41.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Prepare to wait for Siri AI access when iOS 27 launches next month",
+      "url": "https://9to5mac.com/2026/08/25/prepare-to-wait-for-siri-ai-access-when-ios-27-launches-next-month/",
+      "pubDate": "2026-08-25T11:01:24.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Greenworks’ MaximusZ electric riding mower has five motors and a few compromises",
+      "url": "https://www.theverge.com/transportation/983980/greenworks-maximusz-electric-riding-mower-review-specs-price",
+      "pubDate": "2026-08-25T11:00:00.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -241,25 +276,11 @@
       "pubDate": "2026-08-24T19:50:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Epic fights Apple’s bid to seal key data behind proposed fees on linked-out purchases",
-      "url": "https://9to5mac.com/2026/08/24/epic-fights-apples-bid-to-seal-key-data-behind-proposed-fees-on-linked-out-purchases/",
-      "pubDate": "2026-08-24T19:49:35.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "App Report: Easy listening, easier reading",
       "url": "https://sixcolors.com/post/2026/08/app-report-easy-listening-easier-reading/",
       "pubDate": "2026-08-24T19:41:58.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 adds three new iPhone features I’ve been really loving",
-      "url": "https://9to5mac.com/2026/08/24/ios-27-adds-three-new-iphone-features-ive-been-really-loving/",
-      "pubDate": "2026-08-24T19:23:04.000Z"
     },
     {
       "source": "AppleInsider",
@@ -281,20 +302,6 @@
       "title": "Apple Releases macOS Golden Gate Beta 7",
       "url": "https://www.macrumors.com/2026/08/24/apple-releases-macos-golden-gate-beta-7/",
       "pubDate": "2026-08-24T17:35:05.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Seeds Seventh iOS 27 and iPadOS 27 Betas to Developers",
-      "url": "https://www.macrumors.com/2026/08/24/apple-seeds-ios-27-beta-7/",
-      "pubDate": "2026-08-24T17:34:02.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Seeds watchOS 27 Beta 7 to Developers",
-      "url": "https://www.macrumors.com/2026/08/24/apple-seeds-watchos-27-beta-7-to-developers/",
-      "pubDate": "2026-08-24T17:30:00.000Z"
     },
     {
       "source": "The Verge",
@@ -344,13 +351,6 @@
       "title": "Raspberry Pi shares its official tutorial for making a cyberdeck",
       "url": "https://www.theverge.com/tech/983786/raspberry-pi-cyberdeck-tutorial-price-increases",
       "pubDate": "2026-08-24T14:49:44.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple’s four-pack of second-gen AirTags is $20 off",
-      "url": "https://www.theverge.com/gadgets/983726/apple-airtags-second-gen-four-pack-elgato-stream-deck-switch-2-deal-sale",
-      "pubDate": "2026-08-24T14:04:04.000Z"
     },
     {
       "source": "Six Colors",
