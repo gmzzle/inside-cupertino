@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T16:01:20.110Z",
+  "generatedAt": "2026-08-25T16:56:49.770Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,41 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Mac Studio With M5 Ultra Chip and 512GB of RAM Launching in October",
+      "url": "https://www.macrumors.com/2026/08/25/mac-studio-m5-ultra-512gb-ram-october/",
+      "pubDate": "2026-08-25T16:55:49.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "GeForce Now is getting support for the Steam Controller",
+      "url": "https://www.theverge.com/games/984422/nvidia-geforce-now-steam-controller-machine-support",
+      "pubDate": "2026-08-25T16:47:15.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Polestar claims it was blindsided by sales ban",
+      "url": "https://www.theverge.com/transportation/984390/polestar-blindsided-sales-ban-letter-dealer-trump",
+      "pubDate": "2026-08-25T16:14:45.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "New Macs and More: Here's Everything Apple Announced Today",
+      "url": "https://www.macrumors.com/2026/08/25/everything-apple-announced-today/",
+      "pubDate": "2026-08-25T16:10:21.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Why the new Mac Studio can support up to eight screens",
+      "url": "https://appleinsider.com/articles/26/08/25/why-the-new-mac-studio-can-support-up-to-eight-screens?utm_source=rss",
+      "pubDate": "2026-08-25T16:01:37.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -262,25 +297,11 @@
       "pubDate": "2026-08-25T13:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple launches new Mac Studios with its ‘most powerful chip ever’ — the M5 Ultra",
-      "url": "https://www.theverge.com/tech/984207/apple-mac-studio-m5-max-ultra-price-specs-launch",
-      "pubDate": "2026-08-25T13:00:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "New Parallels Desktop 27 delivers faster OpenGL for Windows apps on Mac",
       "url": "https://appleinsider.com/articles/26/08/25/new-parallels-desktop-27-delivers-faster-opengl-for-windows-apps-on-mac?utm_source=rss",
       "pubDate": "2026-08-25T12:59:09.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The OLED Xbox Ally X20 officially starts at $1,300",
-      "url": "https://www.theverge.com/games/984139/the-oled-xbox-ally-x20-officially-starts-at-1300",
-      "pubDate": "2026-08-25T12:30:00.000Z"
     },
     {
       "source": "9to5Mac",
@@ -318,32 +339,11 @@
       "pubDate": "2026-08-25T11:55:29.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "'MacBook Ultra' Coming Soon With Touchscreen and 5 Other Changes",
-      "url": "https://www.macrumors.com/2026/08/25/macbook-ultra-coming-soon-touchscreen-5-changes/",
-      "pubDate": "2026-08-25T11:43:11.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone Trade-In Values Slide Ahead of New Model Launch",
-      "url": "https://www.macrumors.com/2026/08/25/iphone-trade-in-values-slide-ahead-of-launch/",
-      "pubDate": "2026-08-25T11:27:41.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "New Mac mini days away, OLED iPad mini in October, AirPods 5 in 2026",
       "url": "https://appleinsider.com/articles/26/08/25/new-mac-mini-days-away-oled-ipad-mini-in-october-airpods-5-in-2026?utm_source=rss",
       "pubDate": "2026-08-25T02:13:15.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Nuki Smart Lock & Keypad 2 NFC review: A low-profile lock with Apple Home Key support",
-      "url": "https://appleinsider.com/articles/26/08/25/nuki-smart-lock-keypad-2-nfc-review-a-low-profile-lock-with-apple-home-key-support?utm_source=rss",
-      "pubDate": "2026-08-25T00:05:10.000Z"
     },
     {
       "source": "Six Colors",
