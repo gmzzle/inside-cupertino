@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T19:46:33.586Z",
+  "generatedAt": "2026-08-25T20:47:05.826Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,62 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 release date: Here’s when the new iPhone update will launch",
+      "url": "https://9to5mac.com/2026/08/25/ios-27-release-date-when-next-major-iphone-update-is-coming/",
+      "pubDate": "2026-08-25T20:45:15.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Maps Ads Are Here, and There's No Way to Turn Them Off",
+      "url": "https://www.macrumors.com/2026/08/25/apple-maps-ads-live/",
+      "pubDate": "2026-08-25T20:40:17.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "At just $8, you owe it to yourself to grab Inscryption",
+      "url": "https://www.theverge.com/gadgets/984677/inscryption-humble-daniel-mullins-pony-island-deal-sale",
+      "pubDate": "2026-08-25T20:38:37.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The Witcher 3 is getting a remaster",
+      "url": "https://www.theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer",
+      "pubDate": "2026-08-25T20:24:24.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "JetBrains local model won't cost any tokens, but needs a $2,700 Mac mini to run it",
+      "url": "https://appleinsider.com/articles/26/08/25/jetbrains-local-model-wont-cost-any-tokens-but-needs-a-2700-mac-mini-to-run-it?utm_source=rss",
+      "pubDate": "2026-08-25T20:16:41.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "M6 Mac mini vs M4 Mac mini: Compact powerhouses compared",
+      "url": "https://appleinsider.com/inside/mac-mini/vs/m6-mac-mini-vs-m4-mac-mini-compact-powerhouses-compared?utm_source=rss",
+      "pubDate": "2026-08-25T20:14:45.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "WhatsApp announces three ways to make accounts more secure",
+      "url": "https://9to5mac.com/2026/08/25/whatsapp-announces-three-ways-to-make-accounts-more-secure/",
+      "pubDate": "2026-08-25T20:10:26.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Three new Macs are launching this fall, here’s what’s coming",
+      "url": "https://9to5mac.com/2026/08/25/three-new-macs-are-launching-this-fall-heres-whats-coming/",
+      "pubDate": "2026-08-25T19:54:57.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -215,13 +271,6 @@
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
-      "title": "M6 Mac mini vs M4 Mac mini: Compact powerhouses compared",
-      "url": "https://appleinsider.com/inside/mac-mini/vs/m6-mac-mini-vs-m4-mac-mini-compact-powerhouses-compared?utm_source=rss",
-      "pubDate": "2026-08-25T15:16:29.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
       "title": "Mac Studio gets update to M5 Max and M5 Ultra",
       "url": "https://appleinsider.com/articles/26/08/25/mac-studio-gets-update-to-m5-max-and-m5-ultra?utm_source=rss",
       "pubDate": "2026-08-25T14:59:14.000Z"
@@ -262,13 +311,6 @@
       "pubDate": "2026-08-25T14:27:56.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple&#8217;s ‘new’ polishing cloth is the same except $10 cheaper",
-      "url": "https://www.theverge.com/tech/984353/apple-polishing-cloth-cheaper",
-      "pubDate": "2026-08-25T14:25:52.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "M6 Mac mini vs M4 Mac mini: Here are all the new features",
@@ -281,20 +323,6 @@
       "title": "Apple Quietly Refreshes Magic Keyboards",
       "url": "https://www.macrumors.com/2026/08/25/apple-quietly-refreshes-magic-keyboards/",
       "pubDate": "2026-08-25T14:22:41.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple releases new Polishing Cloth for $9",
-      "url": "https://9to5mac.com/2026/08/25/apple-releases-new-polishing-cloth-for-9/",
-      "pubDate": "2026-08-25T14:10:40.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
-      "pubDate": "2026-08-25T14:00:00.000Z"
     },
     {
       "source": "MacRumors",
@@ -311,13 +339,6 @@
       "pubDate": "2026-08-25T13:45:35.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple outlines 50 ways to make devices easier to use as we age",
-      "url": "https://9to5mac.com/2026/08/25/apple-outlines-50-ways-to-make-devices-easier-to-use-as-we-age/",
-      "pubDate": "2026-08-25T13:30:02.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Unveils New Mac Studio With M5 Max and M5 Ultra Chips",
@@ -325,32 +346,11 @@
       "pubDate": "2026-08-25T13:13:00.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Debuts M5 Ultra as Most Powerful Chip Ever",
-      "url": "https://www.macrumors.com/2026/08/25/apple-debuts-m5-ultra/",
-      "pubDate": "2026-08-25T13:12:00.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Apple unveils M6, M5 Ultra chips and updates its desktop Macs",
       "url": "https://sixcolors.com/post/2026/08/apple-unveils-m6-m5-ultra-chips-and-updates-its-desktop-macs/",
       "pubDate": "2026-08-25T13:00:45.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple unveils new Mac Studio with M5 Max and M5 Ultra",
-      "url": "https://9to5mac.com/2026/08/25/apple-unveils-next-generation-mac-studio-with-m5-max-and-m5-ultra/",
-      "pubDate": "2026-08-25T13:00:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "New Parallels Desktop 27 delivers faster OpenGL for Windows apps on Mac",
-      "url": "https://appleinsider.com/articles/26/08/25/new-parallels-desktop-27-delivers-faster-opengl-for-windows-apps-on-mac?utm_source=rss",
-      "pubDate": "2026-08-25T12:59:09.000Z"
     },
     {
       "source": "Six Colors",
