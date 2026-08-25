@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T22:46:15.868Z",
+  "generatedAt": "2026-08-25T23:39:34.353Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple shares behind-the-scenes video for its fun new Mac mini ad",
+      "url": "https://9to5mac.com/2026/08/25/apple-shares-behind-the-scenes-video-for-its-fun-new-mac-mini-ad/",
+      "pubDate": "2026-08-25T23:26:35.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Notability can now organize meeting recordings, transcriptions, and notes around your calendar",
+      "url": "https://9to5mac.com/2026/08/25/notability-can-now-organize-meeting-recordings-transcriptions-and-notes-around-your-calendar/",
+      "pubDate": "2026-08-25T22:49:13.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: August 25, 2026 – New Mac mini and Mac Studio unveiled",
+      "url": "https://9to5mac.com/2026/08/25/daily-august-25-2026/",
+      "pubDate": "2026-08-25T22:48:14.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -227,13 +248,6 @@
       "pubDate": "2026-08-25T17:12:31.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "New Mac mini and more now available from Amazon for launch day pre-order",
-      "url": "https://9to5mac.com/2026/08/25/new-mac-mini-now-available-amazon-launch-day-preorder/",
-      "pubDate": "2026-08-25T17:09:04.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Nothing OS 5.0 brings a new Glyph Interface app and a more customizable homescreen",
@@ -267,20 +281,6 @@
       "title": "Apple's infamous Polishing Cloth drops to $9",
       "url": "https://appleinsider.com/articles/26/08/25/apples-infamous-polishing-cloth-drops-to-9?utm_source=rss",
       "pubDate": "2026-08-25T15:45:06.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple TV unveils Matthew McConaughey comedy series from ‘The Office’ alum",
-      "url": "https://9to5mac.com/2026/08/25/apple-tv-unveils-matthew-mcconaughey-comedy-series-from-the-office-alum/",
-      "pubDate": "2026-08-25T15:28:41.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: M6 Mac mini $500+ off with M4 trades, AirTag 2 $20 each, 48GB M5 Pro MacBook Pro $400 off, more",
-      "url": "https://9to5mac.com/2026/08/25/deals-m6-mac-mini-airtag-2-48gb-macbook-pro/",
-      "pubDate": "2026-08-25T15:24:39.000Z"
     },
     {
       "source": "MacRumors",
