@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T11:44:46.562Z",
+  "generatedAt": "2026-08-25T13:12:14.025Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,153 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "M6 Mac mini arrives in RAM and SSD constrained environment",
+      "url": "https://appleinsider.com/articles/26/08/25/m6-mac-mini-arrives-in-ram-and-ssd-constrained-environment?utm_source=rss",
+      "pubDate": "2026-08-25T13:11:45.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Announces New Mac Studio With M5 Ultra Chip",
+      "url": "https://www.macrumors.com/2026/08/25/apple-announces-new-mac-studio-with-m5-ultra-chip/",
+      "pubDate": "2026-08-25T13:07:01.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Where to preorder the updated Mac Mini and Mac Studio",
+      "url": "https://www.theverge.com/gadgets/984096/mac-mini-mac-studio-m5-m6-ultra-preorder",
+      "pubDate": "2026-08-25T13:02:18.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Apple unveils M6, M5 Ultra chips and updates its desktop Macs",
+      "url": "https://sixcolors.com/post/2026/08/apple-unveils-m6-m5-ultra-chips-and-updates-its-desktop-macs/",
+      "pubDate": "2026-08-25T13:00:45.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple unveils new Mac Studio with M5 Max and M5 Ultra",
+      "url": "https://9to5mac.com/2026/08/25/apple-unveils-next-generation-mac-studio-with-m5-max-and-m5-ultra/",
+      "pubDate": "2026-08-25T13:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple announces updated Mac mini, here’s everything new",
+      "url": "https://9to5mac.com/2026/08/25/apple-announces-new-mac-mini-heres-everything-new/",
+      "pubDate": "2026-08-25T13:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple launches next-gen Apple Silicon chips: M6 and M5 Ultra",
+      "url": "https://9to5mac.com/2026/08/25/apple-launches-next-gen-apple-silicon-chips-m6-and-m5-ultra/",
+      "pubDate": "2026-08-25T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The lens in Wyze’s new $40 indoor camera retracts for privacy",
+      "url": "https://www.theverge.com/tech/961785/wyze-indoor-cam-pan-tilt-2k-night-vision",
+      "pubDate": "2026-08-25T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "GuliKit’s Switch 2 TV dock gives me one feature I’ve missed when traveling",
+      "url": "https://www.theverge.com/tech/983020/gulikit-dock-nintendo-switch-2-hands-on",
+      "pubDate": "2026-08-25T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Uber is letting parents check in on their teens through drivers’ selfie cameras",
+      "url": "https://www.theverge.com/transportation/983926/uber-teen-account-live-video-driver-selfie-camera",
+      "pubDate": "2026-08-25T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Apple&#8217;s new M6 chip gets more cores and more AI compute",
+      "url": "https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio",
+      "pubDate": "2026-08-25T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Apple’s new Mac Mini has fresh M6 and M5 Pro chip offerings — and higher prices",
+      "url": "https://www.theverge.com/tech/984190/apple-mac-mini-m6-m5-pro-price-specs",
+      "pubDate": "2026-08-25T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Apple launches new Mac Studios with its ‘most powerful chip ever’ — the M5 Ultra",
+      "url": "https://www.theverge.com/tech/984207/apple-mac-studio-m5-max-ultra-price-specs-launch",
+      "pubDate": "2026-08-25T13:00:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "New Parallels Desktop 27 delivers faster OpenGL for Windows apps on Mac",
+      "url": "https://appleinsider.com/articles/26/08/25/new-parallels-desktop-27-delivers-faster-opengl-for-windows-apps-on-mac?utm_source=rss",
+      "pubDate": "2026-08-25T12:59:09.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The OLED Xbox Ally X20 officially starts at $1,300",
+      "url": "https://www.theverge.com/games/984139/the-oled-xbox-ally-x20-officially-starts-at-1300",
+      "pubDate": "2026-08-25T12:30:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "AI awaiting its iPhone moment, says Altman; needs to learn key Apple lesson",
+      "url": "https://9to5mac.com/2026/08/25/ai-awaiting-its-iphone-moment-says-altman-needs-to-learn-key-apple-lesson/",
+      "pubDate": "2026-08-25T12:18:42.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "DuckDuckGo survey highlights how much personal information users share with AI",
+      "url": "https://9to5mac.com/2026/08/25/duckduckgo-survey-highlights-how-much-personal-information-users-share-with-ai/",
+      "pubDate": "2026-08-25T12:00:39.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple @ Work: Parallels Desktop 27 brings OpenGL 4.3 and AI acceleration to Apple Silicon",
+      "url": "https://9to5mac.com/2026/08/25/parallels-desktop-27/",
+      "pubDate": "2026-08-25T12:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The TCL Note A1 is a kinder, gentler tablet",
+      "url": "https://www.theverge.com/tech/984086/tcl-note-a1-nxtpaper-tablet-review",
+      "pubDate": "2026-08-25T12:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Watch Series 12 to Get Fitness Tracking Upgrades",
+      "url": "https://www.macrumors.com/2026/08/25/apple-watch-series-12-to-get-fitness-upgrades/",
+      "pubDate": "2026-08-25T11:55:58.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "You'll have to wait in line for Siri AI in iOS 27",
+      "url": "https://appleinsider.com/articles/26/08/25/youll-have-to-wait-in-line-for-siri-ai-in-ios-27?utm_source=rss",
+      "pubDate": "2026-08-25T11:55:29.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -64,20 +211,6 @@
       "title": "Apple @ Work Podcast: Breaking down Apple’s bug bounty cap and cool down period",
       "url": "https://9to5mac.com/2026/08/25/breaking-down-apples-bug-bounty-cap-and-cool-down-period/",
       "pubDate": "2026-08-25T10:23:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
-      "pubDate": "2026-08-25T09:15:03.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Android is getting its own weird dots to cure car sickness",
-      "url": "https://www.theverge.com/tech/984226/google-motion-assist-anti-nausea-car-sickness-cure",
-      "pubDate": "2026-08-25T08:36:27.000Z"
     },
     {
       "source": "MacRumors",
@@ -136,13 +269,6 @@
       "pubDate": "2026-08-25T01:47:49.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Tom Selleck confirmed as guest star in upcoming Apple TV comedy series",
-      "url": "https://9to5mac.com/2026/08/24/tom-selleck-confirmed-as-guest-star-in-upcoming-apple-tv-comedy-series/",
-      "pubDate": "2026-08-25T01:05:52.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Nuki Smart Lock & Keypad 2 NFC review: A low-profile lock with Apple Home Key support",
@@ -157,13 +283,6 @@
       "pubDate": "2026-08-25T00:04:40.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Lenovo confirms Legion Go issues after gamers report bricked devices",
-      "url": "https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked",
-      "pubDate": "2026-08-24T23:38:10.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Siri AI Will Have a Waitlist When iOS 27 Launches",
@@ -176,20 +295,6 @@
       "title": "Apple Releases New iOS 27, iPadOS 27, macOS 27, and tvOS 27 Public Betas",
       "url": "https://www.macrumors.com/2026/08/24/apple-releases-ios-27-public-beta-5/",
       "pubDate": "2026-08-24T22:51:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "New public betas now available for iOS 27, iPadOS 27, macOS 27 Golden Gate, more",
-      "url": "https://9to5mac.com/2026/08/24/new-public-betas-now-available-for-ios-27-ipados-27-macos-27-golden-gate-more/",
-      "pubDate": "2026-08-24T22:45:50.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "ChatGPT now lets users create custom iMessage and WhatsApp stickers",
-      "url": "https://9to5mac.com/2026/08/24/chatgpt-now-lets-users-create-custom-imessage-and-whatsapp-stickers/",
-      "pubDate": "2026-08-24T22:15:15.000Z"
     },
     {
       "source": "Six Colors",
@@ -213,13 +318,6 @@
       "pubDate": "2026-08-24T21:29:14.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple reverses planned Hide My Email domain change after user pushback",
-      "url": "https://9to5mac.com/2026/08/24/apple-reverses-planned-hide-my-email-domain-change-after-user-pushback/",
-      "pubDate": "2026-08-24T21:05:31.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Home Hub Code Hints at Face-Based Profile Switching",
@@ -241,39 +339,11 @@
       "pubDate": "2026-08-24T20:29:15.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple’s Emergency SOS Live Video is now available in Brazil",
-      "url": "https://9to5mac.com/2026/08/24/apples-emergency-sos-live-video-is-now-available-in-brazil/",
-      "pubDate": "2026-08-24T20:28:19.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Won't Change Hide My Email Domain After Backlash",
       "url": "https://www.macrumors.com/2026/08/24/apple-hide-my-email-domain/",
       "pubDate": "2026-08-24T20:17:23.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple official refurb store: This week’s top picks at up to $500 off",
-      "url": "https://9to5mac.com/2026/08/24/apple-official-refurb-store-best-offers/",
-      "pubDate": "2026-08-24T20:04:21.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Holds Farewell Party for Tim Cook as Ternus Prepares to Take Over",
-      "url": "https://www.macrumors.com/2026/08/24/apple-tim-cook-farewell-party/",
-      "pubDate": "2026-08-24T19:58:55.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The cat-and-mouse game over 3D-printed guns has begun",
-      "url": "https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul",
-      "pubDate": "2026-08-24T19:50:00.000Z"
     },
     {
       "source": "Six Colors",
@@ -290,69 +360,6 @@
       "pubDate": "2026-08-24T19:06:22.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Seventh developer betas of iOS 27, macOS 27 land as releases loom",
-      "url": "https://appleinsider.com/articles/26/08/24/seventh-developer-betas-of-ios-27-macos-27-land-as-releases-loom?utm_source=rss",
-      "pubDate": "2026-08-24T17:39:01.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Releases macOS Golden Gate Beta 7",
-      "url": "https://www.macrumors.com/2026/08/24/apple-releases-macos-golden-gate-beta-7/",
-      "pubDate": "2026-08-24T17:35:05.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Zillow and Redfin settle FTC antitrust case over their rental listings partnership",
-      "url": "https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement",
-      "pubDate": "2026-08-24T17:01:05.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple smart home display rumors & Sonos Gambit soundbar leak on Smart Home Insider",
-      "url": "https://appleinsider.com/articles/26/08/24/apple-smart-home-display-rumors-sonos-gambit-soundbar-leak-on-smart-home-insider?utm_source=rss",
-      "pubDate": "2026-08-24T16:45:34.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Robotaxis are real now — so is the pushback",
-      "url": "https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa",
-      "pubDate": "2026-08-24T16:42:37.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Trump may use Apple Chinese RAM buy request as diplomatic tool",
-      "url": "https://appleinsider.com/articles/26/08/24/trump-may-use-apple-chinese-ram-buy-request-as-diplomatic-tool?utm_source=rss",
-      "pubDate": "2026-08-24T16:31:43.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Witcher 4 developers target a 2028 release",
-      "url": "https://www.theverge.com/games/983822/the-witcher-4-release-window-gamescom",
-      "pubDate": "2026-08-24T15:48:53.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "ESPN streaming plans are getting more expensive",
-      "url": "https://www.theverge.com/streaming/983794/espn-disney-plus-bundles-price-increase",
-      "pubDate": "2026-08-24T15:06:24.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Raspberry Pi shares its official tutorial for making a cyberdeck",
-      "url": "https://www.theverge.com/tech/983786/raspberry-pi-cyberdeck-tutorial-price-increases",
-      "pubDate": "2026-08-24T14:49:44.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Sponsor) Magic Lasso Adblock: incredibly private and secure Safari web browsing",
@@ -365,13 +372,6 @@
       "title": "Schlage Sense Pro UWB smart lock review: What price beauty?",
       "url": "https://sixcolors.com/post/2026/08/schlage-sense-pro-uwb-smart-lock-review-what-price-beauty/",
       "pubDate": "2026-08-21T15:30:55.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Open and move windows between displays automatically",
-      "url": "https://sixcolors.com/post/2026/08/open-and-move-windows-between-displays-automatically/",
-      "pubDate": "2026-08-20T23:17:42.000Z"
     }
   ]
 }
