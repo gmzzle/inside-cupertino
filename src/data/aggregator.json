@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T07:59:23.101Z",
+  "generatedAt": "2026-08-25T09:00:53.965Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Android is getting its own weird dots to cure car sickness",
+      "url": "https://www.theverge.com/tech/984226/google-motion-assist-anti-nausea-car-sickness-cure",
+      "pubDate": "2026-08-25T08:36:27.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -344,13 +351,6 @@
       "title": "How GoFundMe became America’s backup plan",
       "url": "https://www.theverge.com/podcast/982901/gofundme-ceo-tim-cadogan-fundraising-healthcare-medical-expenses",
       "pubDate": "2026-08-24T14:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Netflix reportedly considers opening its app to other streamers",
-      "url": "https://www.theverge.com/streaming/983741/netflix-open-app-peacock-fox-one",
-      "pubDate": "2026-08-24T13:47:14.000Z"
     },
     {
       "source": "Six Colors",
