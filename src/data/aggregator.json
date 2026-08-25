@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T09:52:05.188Z",
+  "generatedAt": "2026-08-25T10:50:40.818Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple @ Work Podcast: Breaking down Apple’s bug bounty cap and cool down period",
+      "url": "https://9to5mac.com/2026/08/25/breaking-down-apples-bug-bounty-cap-and-cool-down-period/",
+      "pubDate": "2026-08-25T10:23:00.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -253,13 +260,6 @@
       "title": "iOS 27 adds three new iPhone features I’ve been really loving",
       "url": "https://9to5mac.com/2026/08/24/ios-27-adds-three-new-iphone-features-ive-been-really-loving/",
       "pubDate": "2026-08-24T19:23:04.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Here’s everything new Apple TV has coming in September",
-      "url": "https://9to5mac.com/2026/08/24/heres-everything-new-apple-tv-has-coming-in-september-2026/",
-      "pubDate": "2026-08-24T19:12:48.000Z"
     },
     {
       "source": "AppleInsider",
