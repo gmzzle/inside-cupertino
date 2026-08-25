@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T03:13:03.991Z",
+  "generatedAt": "2026-08-25T04:03:16.405Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "New iPad Mini With Four Upgrades Expected to Launch by Late October",
+      "url": "https://www.macrumors.com/2026/08/24/new-ipad-mini-by-end-of-october-report/",
+      "pubDate": "2026-08-25T03:33:31.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -50,6 +57,13 @@
       "title": "New Mac Mini Reportedly Set to Launch Before iPhone 18 Pro Event",
       "url": "https://www.macrumors.com/2026/08/24/new-mac-mini-in-coming-days-report/",
       "pubDate": "2026-08-25T02:19:17.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Reportedly Will Announce iPhone 18 Pro Event Date This Week",
+      "url": "https://www.macrumors.com/2026/08/24/apple-invites-iphone-18-pro-event-soon/",
+      "pubDate": "2026-08-25T02:15:00.000Z"
     },
     {
       "source": "AppleInsider",
@@ -267,20 +281,6 @@
       "title": "Apple Seeds watchOS 27 Beta 7 to Developers",
       "url": "https://www.macrumors.com/2026/08/24/apple-seeds-watchos-27-beta-7-to-developers/",
       "pubDate": "2026-08-24T17:30:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Seeds Seventh visionOS 27 Beta to Developers",
-      "url": "https://www.macrumors.com/2026/08/24/apple-seeds-visionos-27-beta-7/",
-      "pubDate": "2026-08-24T17:29:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Seeds tvOS 27 Beta 7 to Developers",
-      "url": "https://www.macrumors.com/2026/08/24/apple-seeds-tvos-27-beta-7-to-developers/",
-      "pubDate": "2026-08-24T17:27:00.000Z"
     },
     {
       "source": "The Verge",
