@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T09:00:53.965Z",
+  "generatedAt": "2026-08-25T09:52:05.188Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+      "pubDate": "2026-08-25T09:15:03.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -344,13 +351,6 @@
       "title": "Apple’s four-pack of second-gen AirTags is $20 off",
       "url": "https://www.theverge.com/gadgets/983726/apple-airtags-second-gen-four-pack-elgato-stream-deck-switch-2-deal-sale",
       "pubDate": "2026-08-24T14:04:04.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "How GoFundMe became America’s backup plan",
-      "url": "https://www.theverge.com/podcast/982901/gofundme-ceo-tim-cadogan-fundraising-healthcare-medical-expenses",
-      "pubDate": "2026-08-24T14:00:00.000Z"
     },
     {
       "source": "Six Colors",
