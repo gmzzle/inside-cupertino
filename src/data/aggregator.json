@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T13:12:14.025Z",
+  "generatedAt": "2026-08-25T14:06:27.006Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -26,16 +26,65 @@
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
-      "title": "M6 Mac mini arrives in RAM and SSD constrained environment",
+      "title": "Mac Studio gets update to M5 Max and M5 Ultra",
+      "url": "https://appleinsider.com/articles/26/08/25/mac-studio-gets-update-to-m5-max-and-m5-ultra?utm_source=rss",
+      "pubDate": "2026-08-25T14:03:25.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "M6 Mac mini arrives with a new record-high starting price",
       "url": "https://appleinsider.com/articles/26/08/25/m6-mac-mini-arrives-in-ram-and-ssd-constrained-environment?utm_source=rss",
-      "pubDate": "2026-08-25T13:11:45.000Z"
+      "pubDate": "2026-08-25T13:52:11.000Z"
     },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Announces New Mac Studio With M5 Ultra Chip",
+      "title": "Apple Releases New Polishing Cloth",
+      "url": "https://www.macrumors.com/2026/08/25/apple-releases-new-polishing-cloth/",
+      "pubDate": "2026-08-25T13:50:36.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's New Mac Mini and Mac Studio Are Now Available to Pre-Order",
+      "url": "https://www.macrumors.com/2026/08/25/apples-mac-mini-mac-studio-available-pre-order/",
+      "pubDate": "2026-08-25T13:45:35.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple outlines 50 ways to make devices easier to use as we age",
+      "url": "https://9to5mac.com/2026/08/25/apple-outlines-50-ways-to-make-devices-easier-to-use-as-we-age/",
+      "pubDate": "2026-08-25T13:30:02.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Unveils New Mac Studio With M5 Max and M5 Ultra Chips",
       "url": "https://www.macrumors.com/2026/08/25/apple-announces-new-mac-studio-with-m5-ultra-chip/",
-      "pubDate": "2026-08-25T13:07:01.000Z"
+      "pubDate": "2026-08-25T13:13:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Debuts M5 Ultra as Most Powerful Chip Ever",
+      "url": "https://www.macrumors.com/2026/08/25/apple-debuts-m5-ultra/",
+      "pubDate": "2026-08-25T13:12:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Announces New Mac Mini With M6 and M5 Pro Chips and More",
+      "url": "https://www.macrumors.com/2026/08/25/apple-announces-2026-mac-mini/",
+      "pubDate": "2026-08-25T13:11:44.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Reveals M6 as First-Ever 2nm Chip",
+      "url": "https://www.macrumors.com/2026/08/25/apple-reveals-m6/",
+      "pubDate": "2026-08-25T13:05:00.000Z"
     },
     {
       "source": "The Verge",
@@ -61,15 +110,15 @@
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple announces updated Mac mini, here’s everything new",
-      "url": "https://9to5mac.com/2026/08/25/apple-announces-new-mac-mini-heres-everything-new/",
+      "title": "Apple launches next-gen Apple Silicon chips: M6 and M5 Ultra",
+      "url": "https://9to5mac.com/2026/08/25/apple-launches-next-gen-apple-silicon-chips-m6-and-m5-ultra/",
       "pubDate": "2026-08-25T13:00:00.000Z"
     },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple launches next-gen Apple Silicon chips: M6 and M5 Ultra",
-      "url": "https://9to5mac.com/2026/08/25/apple-launches-next-gen-apple-silicon-chips-m6-and-m5-ultra/",
+      "title": "Apple announces updated Mac mini, here’s everything new",
+      "url": "https://9to5mac.com/2026/08/25/apple-announces-new-mac-mini-heres-everything-new/",
       "pubDate": "2026-08-25T13:00:00.000Z"
     },
     {
@@ -248,25 +297,11 @@
       "pubDate": "2026-08-25T02:19:17.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Reportedly Will Announce iPhone 18 Pro Event Date This Week",
-      "url": "https://www.macrumors.com/2026/08/24/apple-invites-iphone-18-pro-event-soon/",
-      "pubDate": "2026-08-25T02:15:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "New Mac mini days away, OLED iPad mini in October, AirPods 5 in 2026",
       "url": "https://appleinsider.com/articles/26/08/25/new-mac-mini-days-away-oled-ipad-mini-in-october-airpods-5-in-2026?utm_source=rss",
       "pubDate": "2026-08-25T02:13:15.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
-      "url": "https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users/",
-      "pubDate": "2026-08-25T01:47:49.000Z"
     },
     {
       "source": "AppleInsider",
@@ -281,20 +316,6 @@
       "title": "Smart TV analytics provide dire numbers for Apple TV F1 viewership, but not whole story",
       "url": "https://appleinsider.com/articles/26/08/25/smart-tv-analytics-provide-dire-numbers-for-apple-tv-f1-viewership-but-not-whole-story?utm_source=rss",
       "pubDate": "2026-08-25T00:04:40.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Siri AI Will Have a Waitlist When iOS 27 Launches",
-      "url": "https://www.macrumors.com/2026/08/24/siri-ai-ios-27-waitlist/",
-      "pubDate": "2026-08-24T23:37:02.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Releases New iOS 27, iPadOS 27, macOS 27, and tvOS 27 Public Betas",
-      "url": "https://www.macrumors.com/2026/08/24/apple-releases-ios-27-public-beta-5/",
-      "pubDate": "2026-08-24T22:51:00.000Z"
     },
     {
       "source": "Six Colors",
@@ -318,13 +339,6 @@
       "pubDate": "2026-08-24T21:29:14.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Home Hub Code Hints at Face-Based Profile Switching",
-      "url": "https://www.macrumors.com/2026/08/24/home-hub-ambient-sending/",
-      "pubDate": "2026-08-24T20:53:28.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "This is the first look at the inside of Apple's AI servers",
@@ -339,25 +353,11 @@
       "pubDate": "2026-08-24T20:29:15.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Won't Change Hide My Email Domain After Backlash",
-      "url": "https://www.macrumors.com/2026/08/24/apple-hide-my-email-domain/",
-      "pubDate": "2026-08-24T20:17:23.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "App Report: Easy listening, easier reading",
       "url": "https://sixcolors.com/post/2026/08/app-report-easy-listening-easier-reading/",
       "pubDate": "2026-08-24T19:41:58.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple gearing up to start filming 'Ted Lasso' season 5 in January",
-      "url": "https://appleinsider.com/articles/26/08/24/apple-gearing-up-to-start-filming-ted-lasso-season-5-in-january?utm_source=rss",
-      "pubDate": "2026-08-24T19:06:22.000Z"
     },
     {
       "source": "Six Colors",
