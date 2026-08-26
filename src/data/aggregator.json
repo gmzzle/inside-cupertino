@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T17:00:10.725Z",
+  "generatedAt": "2026-08-26T19:18:55.293Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -26,16 +26,93 @@
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
+      "title": "Amazon knocks $150 off Pixel 11 phones, with up to $200 in gift cards",
+      "url": "https://www.theverge.com/gadgets/984516/pixel-11-promo-code-doom-dark-ages-deal-sale",
+      "pubDate": "2026-08-26T19:18:23.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) Clockwise 671: Rockin’ the Gig",
+      "url": "https://sixcolors.com/podcast/2026/08/clockwise-671-rockin-the-gig/",
+      "pubDate": "2026-08-26T19:17:07.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's iPhone Ultra could mark the return of a red iPhone",
+      "url": "https://appleinsider.com/articles/26/08/26/apples-iphone-ultra-could-mark-the-return-of-a-red-iphone?utm_source=rss",
+      "pubDate": "2026-08-26T19:13:35.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Leaker says iPhone Ultra will come in these colors, with one surprise",
+      "url": "https://9to5mac.com/2026/08/26/leaker-says-iphone-ultra-will-come-in-these-colors-with-one-surprise/",
+      "pubDate": "2026-08-26T18:17:53.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Being a mom is hard — the heat is making it harder",
+      "url": "https://www.theverge.com/news/985225/heat-stress-children-climate-change-study",
+      "pubDate": "2026-08-26T18:14:08.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "How to watch Apple's iPhone 18 Pro & iPhone Ultra launch live",
+      "url": "https://appleinsider.com/inside/iphone-18/tips/how-to-watch-apples-iphone-18-pro-iphone-ultra-launch-live?utm_source=rss",
+      "pubDate": "2026-08-26T18:07:19.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Astropad’s new Rock Paper Pencil 4 adds a graphite feel to Apple Pencil and iPad",
+      "url": "https://9to5mac.com/2026/08/26/astropads-new-rock-paper-pencil-4-adds-a-graphite-feel-to-apple-pencil-and-ipad/",
+      "pubDate": "2026-08-26T18:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The Switch 2’s $50 price increase is happening next week",
+      "url": "https://www.theverge.com/gadgets/984331/switch-2-price-increase-psa",
+      "pubDate": "2026-08-26T18:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "OpenAI expands free ChatGPT for Teachers to 55 school systems across 20 states",
+      "url": "https://9to5mac.com/2026/08/26/free-chatgpt-for-teachers-expansion/",
+      "pubDate": "2026-08-26T17:46:34.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Apple Maps has ads now",
+      "url": "https://www.theverge.com/tech/985249/apple-maps-iphone-ads",
+      "pubDate": "2026-08-26T17:34:32.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone Ultra is coming: Three new features will be worth the wait",
+      "url": "https://9to5mac.com/2026/08/26/iphone-ultra-is-coming-three-new-features-will-be-worth-the-wait/",
+      "pubDate": "2026-08-26T17:18:11.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "What to expect from Apple's 'Surprise and shine' iPhone 18 Pro event on September 9",
+      "url": "https://appleinsider.com/articles/26/08/26/what-to-expect-from-apples-surprise-and-shine-iphone-18-pro-event-on-september-9?utm_source=rss",
+      "pubDate": "2026-08-26T17:15:14.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
       "title": "Google’s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;",
       "url": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
       "pubDate": "2026-08-26T17:00:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "1-800-APL-CARE Now Connects You With AI Assistant Instead of Human",
-      "url": "https://www.macrumors.com/2026/08/26/1-800-apl-care-ai-assistant/",
-      "pubDate": "2026-08-26T16:56:19.000Z"
     },
     {
       "source": "AppleInsider",
@@ -63,7 +140,14 @@
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Event Livestream: Where and When to Watch on September 9",
       "url": "https://www.macrumors.com/2026/08/26/apple-event-livestream-youtube/",
-      "pubDate": "2026-08-26T16:41:43.000Z"
+      "pubDate": "2026-08-26T16:41:37.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "1-800-APL-CARE Now Connects You With AI Assistant Instead of Human",
+      "url": "https://www.macrumors.com/2026/08/26/1-800-apl-care-ai-assistant/",
+      "pubDate": "2026-08-26T16:40:19.000Z"
     },
     {
       "source": "MacRumors",
@@ -85,13 +169,6 @@
       "title": "iPhone Ultra motherboard may just have leaked",
       "url": "https://appleinsider.com/articles/26/08/26/iphone-ultra-motherboard-may-just-have-leaked?utm_source=rss",
       "pubDate": "2026-08-26T16:11:20.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "What to expect from Apple's 'Surprise and shine' iPhone 18 Pro event on September 9",
-      "url": "https://appleinsider.com/articles/26/08/26/what-to-expect-from-apples-surprise-and-shine-iphone-18-pro-event-on-september-9?utm_source=rss",
-      "pubDate": "2026-08-26T16:05:39.000Z"
     },
     {
       "source": "The Verge",
@@ -255,39 +332,11 @@
       "pubDate": "2026-08-26T14:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "You can now buy music on SoundCloud",
-      "url": "https://www.theverge.com/entertainment/984926/soundcloud-direct-music-sales-beta-launch",
-      "pubDate": "2026-08-26T14:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Your Oura Ring can&#8217;t measure what&#8217;s going on in your skull",
-      "url": "https://www.theverge.com/column/984991/optimizer-oura-ring-lawsuit-sleep-tracking-wearables",
-      "pubDate": "2026-08-26T14:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iOS 27 Tweaks Apple Wallet's U.S. Passport Feature",
       "url": "https://www.macrumors.com/2026/08/26/ios-27-tweaks-digital-id-feature/",
       "pubDate": "2026-08-26T13:46:25.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple upgrading recent Mac mini orders to M6, M5 Pro models for free",
-      "url": "https://9to5mac.com/2026/08/26/apple-upgrading-recent-mac-mini-orders-to-m6-m5-pro-models-for-free/",
-      "pubDate": "2026-08-26T13:39:35.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Meta agrees to heavy restrictions on teen users in major lawsuit settlement",
-      "url": "https://www.theverge.com/policy/985032/meta-state-ag-kids-online-safety-settlement",
-      "pubDate": "2026-08-26T13:31:32.000Z"
     },
     {
       "source": "MacRumors",
@@ -297,46 +346,11 @@
       "pubDate": "2026-08-26T13:10:59.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Ring says its new encryption limits what it can give police",
-      "url": "https://www.theverge.com/tech/984838/ring-take-encryption-throw-away-the-key-law-enforcement",
-      "pubDate": "2026-08-26T12:55:45.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Ads have landed in Apple Maps, and they are as bad as expected",
-      "url": "https://9to5mac.com/2026/08/26/ads-have-landed-in-apple-maps-and-they-are-as-bad-as-expected/",
-      "pubDate": "2026-08-26T12:31:07.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Instagram can now create Reels automatically – but Meta doesn’t want to upset creators",
-      "url": "https://9to5mac.com/2026/08/26/instagram-can-now-create-reels-automatically-but-meta-doesnt-want-to-upset-creators/",
-      "pubDate": "2026-08-26T11:43:14.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "M5 Max Mac Studio vs. M4 Max Mac Studio: Faster, more expensive",
       "url": "https://appleinsider.com/articles/26/08/26/m5-max-mac-studio-vs-m4-max-mac-studio-faster-more-expensive?utm_source=rss",
       "pubDate": "2026-08-26T11:38:59.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "25% of US adults are interested in the iPhone Ultra – but won’t pay for it",
-      "url": "https://9to5mac.com/2026/08/26/25-of-us-adults-are-interested-in-the-iphone-ultra-but-wont-pay-for-it/",
-      "pubDate": "2026-08-26T11:23:25.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "OpenAI's lawsuit delays cause more harm every day, says Apple",
-      "url": "https://appleinsider.com/articles/26/08/26/openais-lawsuit-delays-cause-more-harm-every-day-says-apple?utm_source=rss",
-      "pubDate": "2026-08-26T11:19:15.000Z"
     },
     {
       "source": "Six Colors",
@@ -358,20 +372,6 @@
       "title": "Apple unveils M6, M5 Ultra chips and updates its desktop Macs",
       "url": "https://sixcolors.com/post/2026/08/apple-unveils-m6-m5-ultra-chips-and-updates-its-desktop-macs/",
       "pubDate": "2026-08-25T13:00:45.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) Upgrade 634: Crime River",
-      "url": "https://sixcolors.com/podcast/2026/08/upgrade-634-crime-river/",
-      "pubDate": "2026-08-24T22:00:09.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "App Report: Easy listening, easier reading",
-      "url": "https://sixcolors.com/post/2026/08/app-report-easy-listening-easier-reading/",
-      "pubDate": "2026-08-24T19:41:58.000Z"
     }
   ]
 }
