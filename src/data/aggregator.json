@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T15:53:33.097Z",
+  "generatedAt": "2026-08-26T17:00:10.725Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,97 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Google’s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;",
+      "url": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
+      "pubDate": "2026-08-26T17:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "1-800-APL-CARE Now Connects You With AI Assistant Instead of Human",
+      "url": "https://www.macrumors.com/2026/08/26/1-800-apl-care-ai-assistant/",
+      "pubDate": "2026-08-26T16:56:19.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Meta agrees to $18B settlement to end teen social hygiene lawsuit",
+      "url": "https://appleinsider.com/articles/26/08/26/meta-agrees-18b-settlement-to-end-teen-social-hygiene-lawsuit?utm_source=rss",
+      "pubDate": "2026-08-26T16:55:27.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "If you're going to the iPhone 18 Pro event, there's a 'Welcome Run'",
+      "url": "https://appleinsider.com/articles/26/08/26/if-youre-going-to-the-iphone-18-pro-event-theres-a-welcome-run?utm_source=rss",
+      "pubDate": "2026-08-26T16:46:03.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Save $500 on Apple's 2TB MacBook Pro with M5 Pro 20-core GPU",
+      "url": "https://appleinsider.com/articles/26/08/26/save-500-on-apples-2tb-macbook-pro-with-m5-pro-20-core-gpu?utm_source=rss",
+      "pubDate": "2026-08-26T16:45:04.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Event Livestream: Where and When to Watch on September 9",
+      "url": "https://www.macrumors.com/2026/08/26/apple-event-livestream-youtube/",
+      "pubDate": "2026-08-26T16:41:43.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Leaked Images Give First Look at Apple's AI Servers",
+      "url": "https://www.macrumors.com/2026/08/26/leaked-images-of-apple-ai-servers/",
+      "pubDate": "2026-08-26T16:34:32.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Anthony Mackie and Jamie Dornan lead new Apple TV heist drama",
+      "url": "https://appleinsider.com/articles/26/08/26/anthony-mackie-and-jamie-dornan-lead-new-apple-tv-heist-drama?utm_source=rss",
+      "pubDate": "2026-08-26T16:26:21.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iPhone Ultra motherboard may just have leaked",
+      "url": "https://appleinsider.com/articles/26/08/26/iphone-ultra-motherboard-may-just-have-leaked?utm_source=rss",
+      "pubDate": "2026-08-26T16:11:20.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "What to expect from Apple's 'Surprise and shine' iPhone 18 Pro event on September 9",
+      "url": "https://appleinsider.com/articles/26/08/26/what-to-expect-from-apples-surprise-and-shine-iphone-18-pro-event-on-september-9?utm_source=rss",
+      "pubDate": "2026-08-26T16:05:39.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Apple announces September iPhone launch event",
+      "url": "https://www.theverge.com/tech/983407/apple-iphone-launch-event-2026-date",
+      "pubDate": "2026-08-26T16:03:49.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Event Announced for September 9: 'Surprise and Shine'",
+      "url": "https://www.macrumors.com/2026/08/26/apple-iphone-event-2026/",
+      "pubDate": "2026-08-26T16:02:48.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple announces iPhone 18 Pro and foldable iPhone Ultra event: ‘Surprise and shine’",
+      "url": "https://9to5mac.com/2026/08/26/apple-officially-announces-iphone-18-pro-foldable-event/",
+      "pubDate": "2026-08-26T16:02:04.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -129,13 +220,6 @@
       "pubDate": "2026-08-26T14:25:41.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Meta agrees $18B settlement to end teen social hygiene lawsuit",
-      "url": "https://appleinsider.com/articles/26/08/26/meta-agrees-18b-settlement-to-end-teen-social-hygiene-lawsuit?utm_source=rss",
-      "pubDate": "2026-08-26T14:19:46.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Concept Video Imagines Apple's Foldable iPhone Ultra Reveal",
@@ -213,13 +297,6 @@
       "pubDate": "2026-08-26T13:10:59.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "New Mac Studio Can Be Clustered Together for Faster AI Performance",
-      "url": "https://www.macrumors.com/2026/08/26/new-mac-studio-can-be-clustered-together/",
-      "pubDate": "2026-08-26T12:56:48.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Ring says its new encryption limits what it can give police",
@@ -227,53 +304,11 @@
       "pubDate": "2026-08-26T12:55:45.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "75% of US Adults Aren't Interested in a Foldable iPhone",
-      "url": "https://www.macrumors.com/2026/08/26/most-arent-interested-in-a-foldable-iphone/",
-      "pubDate": "2026-08-26T12:53:46.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPhone Ultra motherboard may just have leaked",
-      "url": "https://appleinsider.com/articles/26/08/26/iphone-ultra-motherboard-may-just-have-leaked?utm_source=rss",
-      "pubDate": "2026-08-26T12:34:51.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Ads have landed in Apple Maps, and they are as bad as expected",
       "url": "https://9to5mac.com/2026/08/26/ads-have-landed-in-apple-maps-and-they-are-as-bad-as-expected/",
       "pubDate": "2026-08-26T12:31:07.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Rockstar finally responds to &#8216;heartbreaking&#8217; GTA 6 leaks",
-      "url": "https://www.theverge.com/games/984959/gta-vi-leaks-rockstar-games-official-statement-heartbreaking",
-      "pubDate": "2026-08-26T12:04:15.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple's New Polishing Cloth Is Softer, Not Smaller Than Original",
-      "url": "https://www.macrumors.com/2026/08/26/new-apple-polishing-cloth-softer/",
-      "pubDate": "2026-08-26T12:02:43.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The second-generation Bose QuietComfort Headphones are good, but don’t stand out",
-      "url": "https://www.theverge.com/tech/984764/bose-quietcomfort-headphones-gen-2-review",
-      "pubDate": "2026-08-26T12:00:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "New Mac Mini Bumps Display Refresh Rates to 165Hz",
-      "url": "https://www.macrumors.com/2026/08/26/new-mac-mini-bumps-display-refresh-rates/",
-      "pubDate": "2026-08-26T11:50:29.000Z"
     },
     {
       "source": "9to5Mac",
@@ -304,46 +339,11 @@
       "pubDate": "2026-08-26T11:19:15.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "There’s a $300 gotcha in an M5 Max Mac Studio upgrade",
-      "url": "https://9to5mac.com/2026/08/26/theres-a-300-gotcha-in-an-m5-max-mac-studio-upgrade/",
-      "pubDate": "2026-08-26T10:56:23.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Asus ROG Kithara headset review: Audiophile gaming",
-      "url": "https://appleinsider.com/articles/26/08/26/asus-rog-kithara-headset-review-audiophile-gaming?utm_source=rss",
-      "pubDate": "2026-08-26T00:29:51.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "‘Designed in California’ feeds are up and running ↦",
       "url": "https://sixcolors.com/link/2026/08/designed-in-california-feeds-are-up-and-running/",
       "pubDate": "2026-08-25T21:09:20.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "JetBrains local model won't cost any tokens, but needs a $2,700 Mac mini to run it",
-      "url": "https://appleinsider.com/articles/26/08/25/jetbrains-local-model-wont-cost-any-tokens-but-needs-a-2700-mac-mini-to-run-it?utm_source=rss",
-      "pubDate": "2026-08-25T20:16:41.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple Maps ads are finally showing up on iPhone",
-      "url": "https://appleinsider.com/articles/26/08/25/apple-maps-ads-are-finally-showing-up-on-iphone?utm_source=rss",
-      "pubDate": "2026-08-25T19:25:54.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "M5 Ultra Mac Studio vs M3 Ultra Mac Studio: Apple's AI desktop, compared",
-      "url": "https://appleinsider.com/inside/mac-studio/vs/m5-ultra-mac-studio-vs-m3-ultra-mac-studio-apples-ai-desktop-compared?utm_source=rss",
-      "pubDate": "2026-08-25T19:19:49.000Z"
     },
     {
       "source": "Six Colors",
