@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T01:59:00.438Z",
+  "generatedAt": "2026-08-26T03:19:16.760Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple renews push for expedited discovery in OpenAI trade secret misappropriation lawsuit",
+      "url": "https://9to5mac.com/2026/08/25/apple-renews-push-for-expedited-discovery-in-openai-trade-secret-misappropriation-lawsuit/",
+      "pubDate": "2026-08-26T02:58:54.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -234,13 +241,6 @@
       "pubDate": "2026-08-25T17:30:02.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Anthropic update unifies memory feature across Claude Cowork and chat",
-      "url": "https://9to5mac.com/2026/08/25/anthropic-update-unifies-memory-feature-across-claude-cowork-and-chat/",
-      "pubDate": "2026-08-25T17:20:08.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Gamescom Opening Night Live 2026: The biggest announcements and trailers",
@@ -295,13 +295,6 @@
       "title": "Apple Smart Home Display Still Coming This Year",
       "url": "https://www.macrumors.com/2026/08/25/apple-smart-home-display-still-coming/",
       "pubDate": "2026-08-25T15:19:48.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Mac Studio gets update to M5 Max and M5 Ultra",
-      "url": "https://appleinsider.com/articles/26/08/25/mac-studio-gets-update-to-m5-max-and-m5-ultra?utm_source=rss",
-      "pubDate": "2026-08-25T14:59:14.000Z"
     },
     {
       "source": "AppleInsider",
@@ -372,6 +365,13 @@
       "title": "(Podcast) Upgrade 634: Crime River",
       "url": "https://sixcolors.com/podcast/2026/08/upgrade-634-crime-river/",
       "pubDate": "2026-08-24T22:00:09.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "App Report: Easy listening, easier reading",
+      "url": "https://sixcolors.com/post/2026/08/app-report-easy-listening-easier-reading/",
+      "pubDate": "2026-08-24T19:41:58.000Z"
     }
   ]
 }
