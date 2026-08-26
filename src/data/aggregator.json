@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T19:18:55.293Z",
+  "generatedAt": "2026-08-26T23:35:54.878Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,6 +24,104 @@
   ],
   "items": [
     {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Astropad Launches Rock Paper Pencil 4.0 With New Graphite Apple Pencil Tip",
+      "url": "https://www.macrumors.com/2026/08/26/astropad-rock-paper-pencil-4/",
+      "pubDate": "2026-08-26T23:26:07.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Meta Agrees to Limit Teens' Time on Facebook and Instagram, Calls on TikTok and YouTube to Match",
+      "url": "https://www.macrumors.com/2026/08/26/meta-teen-time-limit/",
+      "pubDate": "2026-08-26T22:28:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "What to expect from Apple's 'Surprise and shine' iPhone 18 Pro event on September 9",
+      "url": "https://appleinsider.com/articles/26/08/26/what-to-expect-from-apples-surprise-and-shine-iphone-18-pro-event-on-september-9?utm_source=rss",
+      "pubDate": "2026-08-26T22:04:12.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Releases Safari Technology Preview 251 With Bug Fixes and Performance Improvements",
+      "url": "https://www.macrumors.com/2026/08/26/apple-releases-safari-technology-preview-251/",
+      "pubDate": "2026-08-26T22:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
+      "url": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
+      "pubDate": "2026-08-26T21:40:53.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "OpenAI’s rogue AI model incident was worse than we thought",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
+      "pubDate": "2026-08-26T21:36:06.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Here’s how many foldable iPhones IDC expects Apple to ship in one year",
+      "url": "https://9to5mac.com/2026/08/26/heres-how-many-foldable-iphones-idc-expects-apple-to-ship-in-one-year/",
+      "pubDate": "2026-08-26T21:13:32.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Here’s everything new for Reminders in iOS 27",
+      "url": "https://9to5mac.com/2026/08/26/heres-everything-new-for-reminders-in-ios-27/",
+      "pubDate": "2026-08-26T20:24:07.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Counterpoint: iPhone 17 topped worldwide smartphone sales during Q2",
+      "url": "https://9to5mac.com/2026/08/26/counterpoint-iphone-17-topped-worldwide-smartphone-sales-during-q2/",
+      "pubDate": "2026-08-26T20:07:02.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "All the ways Instagram and Facebook are changing for teens",
+      "url": "https://www.theverge.com/tech/985329/instagram-facebook-meta-settlement-changes",
+      "pubDate": "2026-08-26T20:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple just did something rare that signals big September event",
+      "url": "https://9to5mac.com/2026/08/26/apple-just-did-something-rare-that-signals-big-september-event/",
+      "pubDate": "2026-08-26T19:57:26.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iOS 27: 13 Ways the Messages App is Smarter and Less Annoying",
+      "url": "https://www.macrumors.com/guide/ios-27-messages/",
+      "pubDate": "2026-08-26T19:47:04.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Google Translate thinks Apple’s iPhone Ultra event tagline in China includes a hidden ‘foldable’ teaser",
+      "url": "https://9to5mac.com/2026/08/26/apples-iphone-ultra-event-tagline-in-china-includes-a-hidden-foldable-teaser/",
+      "pubDate": "2026-08-26T19:41:07.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple’s ‘Surprise and shine’ hashmoji is already live on X",
+      "url": "https://9to5mac.com/2026/08/26/apples-surprise-and-shine-hashmoji-is-already-live-on-x/",
+      "pubDate": "2026-08-26T19:36:54.000Z"
+    },
+    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Amazon knocks $150 off Pixel 11 phones, with up to $200 in gift cards",
@@ -47,7 +145,7 @@
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
-      "title": "Leaker says iPhone Ultra will come in these colors, with one surprise",
+      "title": "Leaker says iPhone Ultra will come in these colors, with one surprise [Updated]",
       "url": "https://9to5mac.com/2026/08/26/leaker-says-iphone-ultra-will-come-in-these-colors-with-one-surprise/",
       "pubDate": "2026-08-26T18:17:53.000Z"
     },
@@ -99,13 +197,6 @@
       "title": "iPhone Ultra is coming: Three new features will be worth the wait",
       "url": "https://9to5mac.com/2026/08/26/iphone-ultra-is-coming-three-new-features-will-be-worth-the-wait/",
       "pubDate": "2026-08-26T17:18:11.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "What to expect from Apple's 'Surprise and shine' iPhone 18 Pro event on September 9",
-      "url": "https://appleinsider.com/articles/26/08/26/what-to-expect-from-apples-surprise-and-shine-iphone-18-pro-event-on-september-9?utm_source=rss",
-      "pubDate": "2026-08-26T17:15:14.000Z"
     },
     {
       "source": "The Verge",
@@ -199,32 +290,11 @@
       "pubDate": "2026-08-26T15:45:22.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple TV reveals new crime thriller coming soon with major stars",
-      "url": "https://9to5mac.com/2026/08/26/apple-tv-reveals-new-crime-thriller-coming-soon-with-major-stars/",
-      "pubDate": "2026-08-26T15:33:26.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: AirPods, AirTag 2, M6 Mac mini trades up to $500 off,  iPhone 17 Pro $220 off, Anker Smart Display power bank, more",
-      "url": "https://9to5mac.com/2026/08/26/deals-airpods-airtag-2-m6-mac-mini-iphone-17-pro/",
-      "pubDate": "2026-08-26T15:29:10.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Volvo’s cars will warn one another about hazards in the road",
       "url": "https://www.theverge.com/transportation/985070/volvo-connected-safety-hazard-alert-animal-cyclist",
       "pubDate": "2026-08-26T15:28:14.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Wallet driver’s license support just launched in a new state",
-      "url": "https://9to5mac.com/2026/08/26/apple-wallet-drivers-license-support-launches-in-virginia/",
-      "pubDate": "2026-08-26T15:25:12.000Z"
     },
     {
       "source": "AppleInsider",
@@ -248,13 +318,6 @@
       "pubDate": "2026-08-26T15:16:32.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Volvo details CarPlay update that adds Spatial Audio feature for three models",
-      "url": "https://9to5mac.com/2026/08/26/volvo-details-carplay-update-that-adds-spatial-audio-feature-for-three-models/",
-      "pubDate": "2026-08-26T15:07:43.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Explains Why Spotlight Indexing Can Take Days After an Update",
@@ -269,13 +332,6 @@
       "pubDate": "2026-08-26T14:57:58.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Xbox announces disc-to-digital feature that digitizes your physical games",
-      "url": "https://www.theverge.com/tech/984936/xbox-disc-to-digital-feature-official",
-      "pubDate": "2026-08-26T14:30:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Pre-Ordering a Mac Mini or Mac Studio? Here's How to Get Money Back at Best Buy",
@@ -283,67 +339,11 @@
       "pubDate": "2026-08-26T14:29:30.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 reveals Apple TV 4K, HomePod may get powerful new features",
-      "url": "https://9to5mac.com/2026/08/26/ios-27-reveals-apple-tv-4k-homepod-may-get-powerful-new-features/",
-      "pubDate": "2026-08-26T14:27:34.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "New Mac Mini and Mac Studio Add Genlock Support for Camera Syncing",
-      "url": "https://www.macrumors.com/2026/08/26/new-mac-mini-and-mac-studio-add-genlock/",
-      "pubDate": "2026-08-26T14:25:41.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Concept Video Imagines Apple's Foldable iPhone Ultra Reveal",
-      "url": "https://www.macrumors.com/2026/08/26/concept-video-imagines-foldable-iphone-reveal/",
-      "pubDate": "2026-08-26T14:06:48.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Hands-On: Sonnet Echo 21 Thunderbolt 5 SuperDock – a significant speed boost [Video]",
-      "url": "https://9to5mac.com/2026/08/26/sonnet-echo-21-thunderbolt-5-superdock-review/",
-      "pubDate": "2026-08-26T14:06:38.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Microsoft’s 25th anniversary Xbox will cost $899",
-      "url": "https://www.theverge.com/games/985003/microsoft-xbox-25th-anniversary-console-price",
-      "pubDate": "2026-08-26T14:05:38.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "World's best selling smartphone is the iPhone 17 - again",
       "url": "https://appleinsider.com/articles/26/08/26/worlds-best-selling-smartphone-is-the-iphone-17---again?utm_source=rss",
       "pubDate": "2026-08-26T14:00:59.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Elden Ring on the Switch 2 isn&#8217;t tarnished",
-      "url": "https://www.theverge.com/entertainment/983307/elden-ring-nintendo-switch-2-review",
-      "pubDate": "2026-08-26T14:00:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27 Tweaks Apple Wallet's U.S. Passport Feature",
-      "url": "https://www.macrumors.com/2026/08/26/ios-27-tweaks-digital-id-feature/",
-      "pubDate": "2026-08-26T13:46:25.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Giving Some Mac Mini Customers a Free Upgrade",
-      "url": "https://www.macrumors.com/2026/08/26/apple-free-mac-mini-upgrade-email/",
-      "pubDate": "2026-08-26T13:10:59.000Z"
     },
     {
       "source": "AppleInsider",
