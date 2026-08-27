@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T09:52:02.857Z",
+  "generatedAt": "2026-08-27T20:32:27.706Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -26,16 +26,296 @@
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple is automatically updating some Apple Watch apps for watchOS 27 compatibility",
-      "url": "https://9to5mac.com/2026/08/27/apple-is-automatically-updating-some-apple-watch-apps-for-watchos-27-compatibility/",
-      "pubDate": "2026-08-27T09:33:35.000Z"
+      "title": "Apple announces App Store price changes in four countries",
+      "url": "https://9to5mac.com/2026/08/27/apple-announces-app-store-price-changes-in-four-countries/",
+      "pubDate": "2026-08-27T20:31:32.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple cleared for the second time to pursue documents from federal agencies in antitrust case",
+      "url": "https://9to5mac.com/2026/08/27/apple-cleared-for-the-second-time-to-pursue-documents-from-federal-agencies-in-antitrust-case/",
+      "pubDate": "2026-08-27T20:08:59.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "How to photograph the August 27 lunar eclipse with iPhone Live Photos",
+      "url": "https://appleinsider.com/inside/iphone-17/tips/how-to-photograph-the-august-27-lunar-eclipse-with-iphone-live-photos?utm_source=rss",
+      "pubDate": "2026-08-27T20:05:31.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series",
+      "url": "https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games",
+      "pubDate": "2026-08-27T20:01:56.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's new & cheaper Apple Polishing Cloth almost as good as the original",
+      "url": "https://appleinsider.com/articles/26/08/27/apples-new-cheaper-apple-polishing-cloth-almost-as-good-as-the-original?utm_source=rss",
+      "pubDate": "2026-08-27T20:01:38.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "GTA VI looks just as great as we could hope for",
+      "url": "https://www.theverge.com/games/983941/grand-theft-auto-vi-gta-netflix-extended-look",
+      "pubDate": "2026-08-27T19:49:57.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Skip Apple's $3,800 storage upgrade with these 8TB SSD",
+      "url": "https://appleinsider.com/articles/26/08/27/skip-apples-3800-storage-upgrade-with-these-8tb-ssd?utm_source=rss",
+      "pubDate": "2026-08-27T19:36:52.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "New Apple TV 4K is coming: Four features launching soon",
+      "url": "https://9to5mac.com/2026/08/27/new-apple-tv-4k-is-coming-four-features-launching-soon/",
+      "pubDate": "2026-08-27T19:30:51.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Google’s AI note-taking app now allows you to interact with books",
+      "url": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
+      "pubDate": "2026-08-27T19:30:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Save $1,400 on Apple's 14-inch MacBook Pro M5 Max with 128GB RAM",
+      "url": "https://appleinsider.com/articles/26/08/27/save-1400-on-apples-14-inch-macbook-pro-m5-max-with-128gb-ram?utm_source=rss",
+      "pubDate": "2026-08-27T19:29:13.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "New Mac mini, new Mac Studio announced as iPhone 18 Pro event confirmed",
+      "url": "https://9to5mac.com/2026/08/27/happy-hour-605/",
+      "pubDate": "2026-08-27T19:20:20.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27’s Passwords app adds powerful feature that can save you time",
+      "url": "https://9to5mac.com/2026/08/27/ios-27s-passwords-app-can-change-your-passwords-for-you-automatically/",
+      "pubDate": "2026-08-27T19:14:11.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Google tells Android app developers to cool it on memory use, or else",
+      "url": "https://www.theverge.com/tech/985679/google-play-android-17-memory-limit",
+      "pubDate": "2026-08-27T18:33:11.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "New Mac mini and more now available from Amazon for launch day pre-order [Updated]",
+      "url": "https://9to5mac.com/2026/08/27/new-mac-mini-now-available-amazon-launch-day-preorder/",
+      "pubDate": "2026-08-27T18:23:29.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "M6 Mac mini: Three things Apple didn’t highlight in the announcement",
+      "url": "https://9to5mac.com/2026/08/27/m6-mac-mini-three-things-apple-didnt-highlight-in-the-announcement/",
+      "pubDate": "2026-08-27T18:20:18.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Tim Cook Stepping Down as Apple CEO Next Week: 15 Years in Quotes",
+      "url": "https://www.macrumors.com/2026/08/27/tim-cook-15-years-of-quotes/",
+      "pubDate": "2026-08-27T18:13:20.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "PSA: Don't use a free iPhone that just turns up at your home",
+      "url": "https://appleinsider.com/articles/26/08/27/psa-dont-use-a-free-iphone-that-just-turns-up-at-your-home?utm_source=rss",
+      "pubDate": "2026-08-27T17:07:08.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's M5 MacBook Air with 32GB RAM drops to $1,549",
+      "url": "https://appleinsider.com/articles/26/08/27/apples-m5-macbook-air-with-32gb-ram-drops-to-1549?utm_source=rss",
+      "pubDate": "2026-08-27T16:57:17.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "2025 vs. 2026 Mac Studio Buyer's Guide: All Upgrades Compared",
+      "url": "https://www.macrumors.com/guide/2025-vs-2026-mac-studio/",
+      "pubDate": "2026-08-27T16:30:02.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Speedo’s new smart goggles module can track all four swim strokes",
+      "url": "https://www.theverge.com/gadgets/985650/speedo-iq-vanquisher-goggles-module",
+      "pubDate": "2026-08-27T16:18:51.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
+      "pubDate": "2026-08-27T16:15:52.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Built-in Genlock makes the Mac Studio a boon for professional video production",
+      "url": "https://appleinsider.com/articles/26/08/27/built-in-genlock-makes-the-mac-studio-a-boon-for-professional-video-production?utm_source=rss",
+      "pubDate": "2026-08-27T16:07:13.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Sony finally has a cheaper OLED to compete with midrange Samsung and LG TVs",
+      "url": "https://www.theverge.com/tech/985363/sony-releases-cheaper-bravia-6-oled-tv",
+      "pubDate": "2026-08-27T16:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Americans are cheering for vigilantes who take down Flock cameras",
+      "url": "https://www.theverge.com/tech/985155/flock-camera-destruction-vigilantes",
+      "pubDate": "2026-08-27T15:49:47.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "How to watch Apple’s September event: iPhone 18 Pro, iPhone Ultra, more",
+      "url": "https://9to5mac.com/2026/08/27/how-to-watch-apples-september-event-iphone-18-pro-iphone-ultra-more/",
+      "pubDate": "2026-08-27T15:44:11.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Deals: iPhone 17 Pro up to $285 off, AirTag 2, AirPods Pro 3, Anker MagSafe Nano power bank, more",
+      "url": "https://9to5mac.com/2026/08/27/deals-iphone-17-pro-airtag-2-airpods-pro-3-power-bank/",
+      "pubDate": "2026-08-27T15:31:20.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "M6 release schedule: Here’s every new Mac and iPad launching next",
+      "url": "https://9to5mac.com/2026/08/27/m6-release-schedule-heres-every-new-mac-and-ipad-launching-next/",
+      "pubDate": "2026-08-27T15:22:29.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "LG Labor Day Sale Brings Major Discounts on OLED TVs and Monitors",
+      "url": "https://www.macrumors.com/2026/08/27/lg-labor-day-sale/",
+      "pubDate": "2026-08-27T15:10:55.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Event: Six New Products to Expect on September 9",
+      "url": "https://www.macrumors.com/2026/08/27/apple-event-announced-six-new-products/",
+      "pubDate": "2026-08-27T15:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Google launches Pokémon Sleep special-edition Fitbit Air",
+      "url": "https://www.theverge.com/gadgets/985584/google-fitbit-air-pokemon-sleep",
+      "pubDate": "2026-08-27T14:58:33.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "In a swipe at Tesla, Waymo says ‘cameras… aren’t enough’",
+      "url": "https://www.theverge.com/transportation/985503/waymo-tesla-lidar-camera-robotaxi-cybercab-musk",
+      "pubDate": "2026-08-27T14:55:20.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's viral iPhone Ultra tease has probably been lost in translation",
+      "url": "https://appleinsider.com/articles/26/08/27/apples-viral-iphone-ultra-tease-has-probably-been-lost-in-translation?utm_source=rss",
+      "pubDate": "2026-08-27T14:41:12.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Arcade sees Sneaky Sasquatch/Subway Surfers+ crossover, with stickers too",
+      "url": "https://9to5mac.com/2026/08/27/apple-arcade-sees-sneaky-sasquatch-subway-surfers-crossover-with-stickers-too/",
+      "pubDate": "2026-08-27T14:26:54.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Four advantages iPhone 18 Pro will have over the iPhone Ultra",
+      "url": "https://9to5mac.com/2026/08/27/four-advantages-iphone-18-pro-will-have-over-the-iphone-ultra/",
+      "pubDate": "2026-08-27T14:22:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's New Macs to Ship With macOS Golden Gate",
+      "url": "https://www.macrumors.com/2026/08/27/new-macs-to-ship-with-macos-golden-gate/",
+      "pubDate": "2026-08-27T14:12:12.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "2026 MacBook Pro Sees Up to $500 Discounts at Amazon and Best Buy",
+      "url": "https://www.macrumors.com/2026/08/27/macbook-pro-500-discounts/",
+      "pubDate": "2026-08-27T13:57:21.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Announces Sneaky Sasquatch Updates, Files New Trademarks",
+      "url": "https://www.macrumors.com/2026/08/27/apple-seeks-sneaky-sasquatch-trademark-merchandise/",
+      "pubDate": "2026-08-27T12:44:45.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Mac, iPhone, and Apple Vision Pro suppliers in Vietnam get new Apple Education Center",
+      "url": "https://appleinsider.com/articles/26/08/27/mac-iphone-and-apple-vision-pro-suppliers-in-vietnam-get-new-apple-education-center?utm_source=rss",
+      "pubDate": "2026-08-27T12:23:16.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "M5 Ultra Mac Studio vs M1 Ultra Mac Studio: Four years of change, compared",
+      "url": "https://appleinsider.com/inside/mac-studio/vs/m5-ultra-mac-studio-vs-m1-ultra-mac-studio-four-years-of-change-compared?utm_source=rss",
+      "pubDate": "2026-08-27T12:13:27.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Event Logo Hints at Two iPhone 18 Pro Features",
+      "url": "https://www.macrumors.com/2026/08/27/apple-event-hints-iphone-18-pro-features/",
+      "pubDate": "2026-08-27T11:46:03.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Announces New Education Center in Vietnam",
+      "url": "https://www.macrumors.com/2026/08/27/apple-announces-new-education-center-in-vietnam/",
+      "pubDate": "2026-08-27T11:27:58.000Z"
     },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "'Exclusive Red' iPhone Ultra Images Not What They Seem",
       "url": "https://www.macrumors.com/2026/08/27/exclusive-red-iphone-ultra-images/",
-      "pubDate": "2026-08-27T08:58:16.000Z"
+      "pubDate": "2026-08-27T08:58:05.000Z"
     },
     {
       "source": "MacRumors",
@@ -52,32 +332,11 @@
       "pubDate": "2026-08-27T03:27:52.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple says these three things can speed up the new Spotlight indexing",
-      "url": "https://9to5mac.com/2026/08/26/apple-says-these-three-things-can-speed-up-the-new-spotlight-indexing/",
-      "pubDate": "2026-08-27T02:24:45.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "The best displays to pair with your new Mac mini or Mac Studio",
-      "url": "https://9to5mac.com/2026/08/26/best-new-mac-displays/",
-      "pubDate": "2026-08-27T00:28:28.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Take Control of Siri AI and Apple Intelligence Ebook Now Out ↦",
       "url": "https://sixcolors.com/link/2026/08/take-control-of-siri-ai-and-apple-intelligence-ebook-now-out/",
       "pubDate": "2026-08-27T00:13:38.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "LM Studio adds GLM-5.3-Flash to Bionic, with image support and 1M-token context",
-      "url": "https://9to5mac.com/2026/08/26/lm-studio-adds-glm-5-3-flash-to-bionic-with-image-support-and-1m-token-context/",
-      "pubDate": "2026-08-27T00:10:19.000Z"
     },
     {
       "source": "AppleInsider",
@@ -87,13 +346,6 @@
       "pubDate": "2026-08-27T00:08:40.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "PSA: Proton Mail and other Proton platforms facing widespread outage [U: Fixed]",
-      "url": "https://9to5mac.com/2026/08/26/psa-proton-mail-and-other-proton-platforms-facing-widespread-outage/",
-      "pubDate": "2026-08-26T23:45:19.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple's iPhone Event Tagline is Different in Every Country",
@@ -101,263 +353,11 @@
       "pubDate": "2026-08-26T23:41:10.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Astropad Launches Rock Paper Pencil 4.0 With New Graphite Apple Pencil Tip",
-      "url": "https://www.macrumors.com/2026/08/26/astropad-rock-paper-pencil-4/",
-      "pubDate": "2026-08-26T23:26:07.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Meta Agrees to Limit Teens' Time on Facebook and Instagram, Calls on TikTok and YouTube to Match",
-      "url": "https://www.macrumors.com/2026/08/26/meta-teen-time-limit/",
-      "pubDate": "2026-08-26T22:28:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "What to expect from Apple's 'Surprise and shine' iPhone 18 Pro event on September 9",
-      "url": "https://appleinsider.com/articles/26/08/26/what-to-expect-from-apples-surprise-and-shine-iphone-18-pro-event-on-september-9?utm_source=rss",
-      "pubDate": "2026-08-26T22:04:12.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Releases Safari Technology Preview 251 With Bug Fixes and Performance Improvements",
-      "url": "https://www.macrumors.com/2026/08/26/apple-releases-safari-technology-preview-251/",
-      "pubDate": "2026-08-26T22:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
-      "url": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
-      "pubDate": "2026-08-26T21:40:53.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "OpenAI’s rogue AI model incident was worse than we thought",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
-      "pubDate": "2026-08-26T21:36:06.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Here’s how many foldable iPhones IDC expects Apple to ship in one year",
-      "url": "https://9to5mac.com/2026/08/26/heres-how-many-foldable-iphones-idc-expects-apple-to-ship-in-one-year/",
-      "pubDate": "2026-08-26T21:13:32.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Here’s everything new for Reminders in iOS 27",
-      "url": "https://9to5mac.com/2026/08/26/heres-everything-new-for-reminders-in-ios-27/",
-      "pubDate": "2026-08-26T20:24:07.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Counterpoint: iPhone 17 topped worldwide smartphone sales during Q2",
-      "url": "https://9to5mac.com/2026/08/26/counterpoint-iphone-17-topped-worldwide-smartphone-sales-during-q2/",
-      "pubDate": "2026-08-26T20:07:02.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "All the ways Instagram and Facebook are changing for teens",
-      "url": "https://www.theverge.com/tech/985329/instagram-facebook-meta-settlement-changes",
-      "pubDate": "2026-08-26T20:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple just did something rare that signals big September event",
-      "url": "https://9to5mac.com/2026/08/26/apple-just-did-something-rare-that-signals-big-september-event/",
-      "pubDate": "2026-08-26T19:57:26.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27: 13 Ways the Messages App is Smarter and Less Annoying",
-      "url": "https://www.macrumors.com/guide/ios-27-messages/",
-      "pubDate": "2026-08-26T19:47:04.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Google Translate thinks Apple’s iPhone Ultra event tagline in China includes a hidden ‘foldable’ teaser",
-      "url": "https://9to5mac.com/2026/08/26/apples-iphone-ultra-event-tagline-in-china-includes-a-hidden-foldable-teaser/",
-      "pubDate": "2026-08-26T19:41:07.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple’s ‘Surprise and shine’ hashmoji is already live on X",
-      "url": "https://9to5mac.com/2026/08/26/apples-surprise-and-shine-hashmoji-is-already-live-on-x/",
-      "pubDate": "2026-08-26T19:36:54.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Amazon knocks $150 off Pixel 11 phones, with up to $200 in gift cards",
-      "url": "https://www.theverge.com/gadgets/984516/pixel-11-promo-code-doom-dark-ages-deal-sale",
-      "pubDate": "2026-08-26T19:18:23.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) Clockwise 671: Rockin’ the Gig",
       "url": "https://sixcolors.com/podcast/2026/08/clockwise-671-rockin-the-gig/",
       "pubDate": "2026-08-26T19:17:07.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple's iPhone Ultra could mark the return of a red iPhone",
-      "url": "https://appleinsider.com/articles/26/08/26/apples-iphone-ultra-could-mark-the-return-of-a-red-iphone?utm_source=rss",
-      "pubDate": "2026-08-26T19:13:35.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Leaker says iPhone Ultra will come in these colors, with one surprise [Updated]",
-      "url": "https://9to5mac.com/2026/08/26/leaker-says-iphone-ultra-will-come-in-these-colors-with-one-surprise/",
-      "pubDate": "2026-08-26T18:17:53.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Being a mom is hard — the heat is making it harder",
-      "url": "https://www.theverge.com/news/985225/heat-stress-children-climate-change-study",
-      "pubDate": "2026-08-26T18:14:08.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "How to watch Apple's iPhone 18 Pro & iPhone Ultra launch live",
-      "url": "https://appleinsider.com/inside/iphone-18/tips/how-to-watch-apples-iphone-18-pro-iphone-ultra-launch-live?utm_source=rss",
-      "pubDate": "2026-08-26T18:07:19.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Switch 2’s $50 price increase is happening next week",
-      "url": "https://www.theverge.com/gadgets/984331/switch-2-price-increase-psa",
-      "pubDate": "2026-08-26T18:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple Maps has ads now",
-      "url": "https://www.theverge.com/tech/985249/apple-maps-iphone-ads",
-      "pubDate": "2026-08-26T17:34:32.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Google’s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;",
-      "url": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
-      "pubDate": "2026-08-26T17:00:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Meta agrees to $18B settlement to end teen social hygiene lawsuit",
-      "url": "https://appleinsider.com/articles/26/08/26/meta-agrees-18b-settlement-to-end-teen-social-hygiene-lawsuit?utm_source=rss",
-      "pubDate": "2026-08-26T16:55:27.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "If you're going to the iPhone 18 Pro event, there's a 'Welcome Run'",
-      "url": "https://appleinsider.com/articles/26/08/26/if-youre-going-to-the-iphone-18-pro-event-theres-a-welcome-run?utm_source=rss",
-      "pubDate": "2026-08-26T16:46:03.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Save $500 on Apple's 2TB MacBook Pro with M5 Pro 20-core GPU",
-      "url": "https://appleinsider.com/articles/26/08/26/save-500-on-apples-2tb-macbook-pro-with-m5-pro-20-core-gpu?utm_source=rss",
-      "pubDate": "2026-08-26T16:45:04.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Event Livestream: Where and When to Watch on September 9",
-      "url": "https://www.macrumors.com/2026/08/26/apple-event-livestream-youtube/",
-      "pubDate": "2026-08-26T16:41:37.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "1-800-APL-CARE Now Connects You With AI Assistant Instead of Human",
-      "url": "https://www.macrumors.com/2026/08/26/1-800-apl-care-ai-assistant/",
-      "pubDate": "2026-08-26T16:40:19.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Leaked Images Give First Look at Apple's AI Servers",
-      "url": "https://www.macrumors.com/2026/08/26/leaked-images-of-apple-ai-servers/",
-      "pubDate": "2026-08-26T16:34:32.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Anthony Mackie and Jamie Dornan lead new Apple TV heist drama",
-      "url": "https://appleinsider.com/articles/26/08/26/anthony-mackie-and-jamie-dornan-lead-new-apple-tv-heist-drama?utm_source=rss",
-      "pubDate": "2026-08-26T16:26:21.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple announces September iPhone launch event",
-      "url": "https://www.theverge.com/tech/983407/apple-iphone-launch-event-2026-date",
-      "pubDate": "2026-08-26T16:03:49.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Event Announced for September 9: 'Surprise and Shine'",
-      "url": "https://www.macrumors.com/2026/08/26/apple-iphone-event-2026/",
-      "pubDate": "2026-08-26T16:02:48.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Volvo’s cars will warn one another about hazards in the road",
-      "url": "https://www.theverge.com/transportation/985070/volvo-connected-safety-hazard-alert-animal-cyclist",
-      "pubDate": "2026-08-26T15:28:14.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "How to use digital IDs in Apple Wallet & where they are supported",
-      "url": "https://appleinsider.com/articles/25/11/18/how-to-use-digital-ids-in-apple-wallet-where-they-are-supported?utm_source=rss",
-      "pubDate": "2026-08-26T15:19:42.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone 17 Remains World's Best Selling Smartphone",
-      "url": "https://www.macrumors.com/2026/08/26/iphone-17-remains-best-selling-smartphone/",
-      "pubDate": "2026-08-26T15:19:29.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "This iPhone Ultra teaser is almost as good as Apple launch videos",
-      "url": "https://appleinsider.com/articles/26/08/26/this-iphone-ultra-teaser-is-almost-as-good-as-apple-launch-videos?utm_source=rss",
-      "pubDate": "2026-08-26T15:16:32.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "World's best selling smartphone is the iPhone 17 - again",
-      "url": "https://appleinsider.com/articles/26/08/26/worlds-best-selling-smartphone-is-the-iphone-17---again?utm_source=rss",
-      "pubDate": "2026-08-26T14:00:59.000Z"
     },
     {
       "source": "Six Colors",
