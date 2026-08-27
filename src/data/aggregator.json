@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T23:35:54.878Z",
+  "generatedAt": "2026-08-27T09:52:02.857Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,83 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple is automatically updating some Apple Watch apps for watchOS 27 compatibility",
+      "url": "https://9to5mac.com/2026/08/27/apple-is-automatically-updating-some-apple-watch-apps-for-watchos-27-compatibility/",
+      "pubDate": "2026-08-27T09:33:35.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "'Exclusive Red' iPhone Ultra Images Not What They Seem",
+      "url": "https://www.macrumors.com/2026/08/27/exclusive-red-iphone-ultra-images/",
+      "pubDate": "2026-08-27T08:58:16.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "How to Install iOS 27 Public Beta 5 on Your iPhone",
+      "url": "https://www.macrumors.com/how-to/install-ios-27-public-beta-iphone-ipad/",
+      "pubDate": "2026-08-27T08:12:04.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "How to make Mac Downloads & other Dock folders easier to use",
+      "url": "https://appleinsider.com/inside/macos/tips/how-to-make-mac-downloads-other-dock-folders-easier-to-use?utm_source=rss",
+      "pubDate": "2026-08-27T03:27:52.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple says these three things can speed up the new Spotlight indexing",
+      "url": "https://9to5mac.com/2026/08/26/apple-says-these-three-things-can-speed-up-the-new-spotlight-indexing/",
+      "pubDate": "2026-08-27T02:24:45.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "The best displays to pair with your new Mac mini or Mac Studio",
+      "url": "https://9to5mac.com/2026/08/26/best-new-mac-displays/",
+      "pubDate": "2026-08-27T00:28:28.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Take Control of Siri AI and Apple Intelligence Ebook Now Out ↦",
+      "url": "https://sixcolors.com/link/2026/08/take-control-of-siri-ai-and-apple-intelligence-ebook-now-out/",
+      "pubDate": "2026-08-27T00:13:38.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "LM Studio adds GLM-5.3-Flash to Bionic, with image support and 1M-token context",
+      "url": "https://9to5mac.com/2026/08/26/lm-studio-adds-glm-5-3-flash-to-bionic-with-image-support-and-1m-token-context/",
+      "pubDate": "2026-08-27T00:10:19.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Bringnox smart roller shades review: wide window coverage in your Apple Home",
+      "url": "https://appleinsider.com/articles/26/08/27/bringnox-smart-roller-shades-review-wide-window-coverage-in-your-apple-home?utm_source=rss",
+      "pubDate": "2026-08-27T00:08:40.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "PSA: Proton Mail and other Proton platforms facing widespread outage [U: Fixed]",
+      "url": "https://9to5mac.com/2026/08/26/psa-proton-mail-and-other-proton-platforms-facing-widespread-outage/",
+      "pubDate": "2026-08-26T23:45:19.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's iPhone Event Tagline is Different in Every Country",
+      "url": "https://www.macrumors.com/2026/08/26/apple-iphone-event-taglines/",
+      "pubDate": "2026-08-26T23:41:10.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -164,13 +241,6 @@
       "pubDate": "2026-08-26T18:07:19.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Astropad’s new Rock Paper Pencil 4 adds a graphite feel to Apple Pencil and iPad",
-      "url": "https://9to5mac.com/2026/08/26/astropads-new-rock-paper-pencil-4-adds-a-graphite-feel-to-apple-pencil-and-ipad/",
-      "pubDate": "2026-08-26T18:00:00.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "The Switch 2’s $50 price increase is happening next week",
@@ -178,25 +248,11 @@
       "pubDate": "2026-08-26T18:00:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "OpenAI expands free ChatGPT for Teachers to 55 school systems across 20 states",
-      "url": "https://9to5mac.com/2026/08/26/free-chatgpt-for-teachers-expansion/",
-      "pubDate": "2026-08-26T17:46:34.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Apple Maps has ads now",
       "url": "https://www.theverge.com/tech/985249/apple-maps-iphone-ads",
       "pubDate": "2026-08-26T17:34:32.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone Ultra is coming: Three new features will be worth the wait",
-      "url": "https://9to5mac.com/2026/08/26/iphone-ultra-is-coming-three-new-features-will-be-worth-the-wait/",
-      "pubDate": "2026-08-26T17:18:11.000Z"
     },
     {
       "source": "The Verge",
@@ -255,13 +311,6 @@
       "pubDate": "2026-08-26T16:26:21.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPhone Ultra motherboard may just have leaked",
-      "url": "https://appleinsider.com/articles/26/08/26/iphone-ultra-motherboard-may-just-have-leaked?utm_source=rss",
-      "pubDate": "2026-08-26T16:11:20.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Apple announces September iPhone launch event",
@@ -274,20 +323,6 @@
       "title": "Apple Event Announced for September 9: 'Surprise and Shine'",
       "url": "https://www.macrumors.com/2026/08/26/apple-iphone-event-2026/",
       "pubDate": "2026-08-26T16:02:48.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple announces iPhone 18 Pro and foldable iPhone Ultra event: ‘Surprise and shine’",
-      "url": "https://9to5mac.com/2026/08/26/apple-officially-announces-iphone-18-pro-foldable-event/",
-      "pubDate": "2026-08-26T16:02:04.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Pioneer releases its first collection of iPhone accessories",
-      "url": "https://9to5mac.com/2026/08/26/pioneer-releases-its-first-collection-of-iphone-accessories/",
-      "pubDate": "2026-08-26T15:45:22.000Z"
     },
     {
       "source": "The Verge",
@@ -318,39 +353,11 @@
       "pubDate": "2026-08-26T15:16:32.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Explains Why Spotlight Indexing Can Take Days After an Update",
-      "url": "https://www.macrumors.com/2026/08/26/apple-explains-spotlight-indexing/",
-      "pubDate": "2026-08-26T15:06:11.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Wallet Driver's License Feature Just Launched in Virginia",
-      "url": "https://www.macrumors.com/2026/08/26/apple-wallet-id-feature-launches-in-15th-state/",
-      "pubDate": "2026-08-26T14:57:58.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Pre-Ordering a Mac Mini or Mac Studio? Here's How to Get Money Back at Best Buy",
-      "url": "https://www.macrumors.com/2026/08/26/best-buy-mac-mini-mac-studio/",
-      "pubDate": "2026-08-26T14:29:30.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "World's best selling smartphone is the iPhone 17 - again",
       "url": "https://appleinsider.com/articles/26/08/26/worlds-best-selling-smartphone-is-the-iphone-17---again?utm_source=rss",
       "pubDate": "2026-08-26T14:00:59.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "M5 Max Mac Studio vs. M4 Max Mac Studio: Faster, more expensive",
-      "url": "https://appleinsider.com/articles/26/08/26/m5-max-mac-studio-vs-m4-max-mac-studio-faster-more-expensive?utm_source=rss",
-      "pubDate": "2026-08-26T11:38:59.000Z"
     },
     {
       "source": "Six Colors",
@@ -365,13 +372,6 @@
       "title": "(Podcast) The Rebound 613: Snotty Asides",
       "url": "https://sixcolors.com/podcast/2026/08/the-rebound-613-snotty-asides/",
       "pubDate": "2026-08-25T14:00:00.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Apple unveils M6, M5 Ultra chips and updates its desktop Macs",
-      "url": "https://sixcolors.com/post/2026/08/apple-unveils-m6-m5-ultra-chips-and-updates-its-desktop-macs/",
-      "pubDate": "2026-08-25T13:00:45.000Z"
     }
   ]
 }
