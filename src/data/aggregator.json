@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T14:29:49.144Z",
+  "generatedAt": "2026-08-29T18:32:33.849Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,55 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Sony Music and Warner Chappell are suing Anthropic",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+      "pubDate": "2026-08-29T18:19:53.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple CarPlay gaining a new AI chatbot app before Siri AI arrives",
+      "url": "https://9to5mac.com/2026/08/29/apple-carplay-gaining-a-new-ai-chatbot-app-before-siri-ai-arrives/",
+      "pubDate": "2026-08-29T17:13:20.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Save up to $200 on Sonos speakers, subs, soundbars this weekend",
+      "url": "https://appleinsider.com/articles/26/08/29/save-up-to-200-on-sonos-speakers-subs-soundbars-this-weekend?utm_source=rss",
+      "pubDate": "2026-08-29T16:48:50.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Distraction-free writing gadget BYOK is adding custom extensions",
+      "url": "https://www.theverge.com/gadgets/986427/distraction-free-writing-gadget-byok-scripts-extensions",
+      "pubDate": "2026-08-29T16:01:13.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Tested: You have to see Sharge’s impressive new metal unibody power bank with display [Launch deal]",
+      "url": "https://9to5toys.com/2026/08/29/sharge-impressive-metal-power-bank-display-review/",
+      "pubDate": "2026-08-29T15:51:36.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Welcome to Night Vale cocreator Joseph Fink learned storytelling from Grim Fandango",
+      "url": "https://www.theverge.com/entertainment/983448/welcome-to-night-vale-cocreator-joseph-fink-learned-storytelling-from-grim-fandango",
+      "pubDate": "2026-08-29T15:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple will be launching its first pair of smart glasses next year: Here’s what’s coming",
+      "url": "https://9to5mac.com/2026/08/29/apple-first-ai-smart-glasses-feature-release-date-roundup/",
+      "pubDate": "2026-08-29T14:48:00.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -157,13 +206,6 @@
       "pubDate": "2026-08-28T18:09:24.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "ChatGPT and Codex now support multiple Gmail and Google Calendar accounts",
-      "url": "https://9to5mac.com/2026/08/28/chatgpt-and-codex-now-support-multiple-gmail-and-google-calendar-accounts/",
-      "pubDate": "2026-08-28T18:01:41.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple's Siri Settlement: Here's When iPhone Owners Can Submit Claims",
@@ -183,13 +225,6 @@
       "title": "Save hundreds on a TCL mini-LED TV with quantum dots and high refresh rate",
       "url": "https://www.theverge.com/gadgets/985741/tcl-qm7l-belkin-thunderbolt-dock-deal-sale",
       "pubDate": "2026-08-28T17:03:07.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "WhatsApp rolls out new chat themes on iOS, including animated wallpapers",
-      "url": "https://9to5mac.com/2026/08/28/whatsapp-rolls-out-new-chat-themes-on-ios-including-animated-wallpapers/",
-      "pubDate": "2026-08-28T16:30:09.000Z"
     },
     {
       "source": "The Verge",
@@ -227,13 +262,6 @@
       "pubDate": "2026-08-28T16:16:15.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone 18 Pro: Two new features I’m excited to upgrade for",
-      "url": "https://9to5mac.com/2026/08/28/iphone-18-pro-two-new-features-im-excited-to-upgrade-for/",
-      "pubDate": "2026-08-28T16:14:44.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "The MacRumors Show: Apple's Surprisingly Big Week of Announcements",
@@ -253,13 +281,6 @@
       "title": "New Macs, iPhone launch date, AI Music, & Tim Cook on the AppleInsider Podcast",
       "url": "https://appleinsider.com/articles/26/08/28/new-macs-iphone-launch-date-ai-music-tim-cook-on-the-appleinsider-podcast?utm_source=rss",
       "pubDate": "2026-08-28T15:51:38.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The iPhone Fold could make concerts even worse",
-      "url": "https://www.theverge.com/podcast/986145/m6-mac-mini-meta-settlement-gta-6-vergecast",
-      "pubDate": "2026-08-28T15:26:19.000Z"
     },
     {
       "source": "AppleInsider",
@@ -311,32 +332,11 @@
       "pubDate": "2026-08-28T14:01:44.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "BBC hit 'Small Prophets' bought by Apple TV in rare UK comedy deal",
-      "url": "https://appleinsider.com/articles/26/08/28/bbc-hit-small-prophets-bought-by-apple-tv-in-rare-uk-comedy-deal?utm_source=rss",
-      "pubDate": "2026-08-28T13:48:51.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple TV now costs $14.99 a month after its fourth price hike in four years",
-      "url": "https://www.theverge.com/tech/986130/apple-tv-plus-price-hike",
-      "pubDate": "2026-08-28T13:47:36.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple TV Streaming Service Receives Price Increase",
       "url": "https://www.macrumors.com/2026/08/28/apple-tv-price-increase/",
       "pubDate": "2026-08-28T13:10:18.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple TV’s sci-fi thriller Dark Matter gets even trippier in season 2",
-      "url": "https://www.theverge.com/entertainment/983263/dark-matter-season-2-review-apple-tv",
-      "pubDate": "2026-08-28T12:00:00.000Z"
     },
     {
       "source": "AppleInsider",
