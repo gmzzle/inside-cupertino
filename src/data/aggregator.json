@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T18:32:33.849Z",
+  "generatedAt": "2026-08-29T21:45:31.331Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,11 +24,46 @@
   ],
   "items": [
     {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Will Apple’s ‘revamped’ Health app with AI health coach debut next month?",
+      "url": "https://9to5mac.com/2026/08/29/apple-health-revamp-ai-coach-new-apple-watch-next-month/",
+      "pubDate": "2026-08-29T21:38:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Vicariously hike the Appalachian in the gorgeous A Trail Tale",
+      "url": "https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale",
+      "pubDate": "2026-08-29T20:59:26.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Alt-right troll Milo Yiannopoulos has been deported",
+      "url": "https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice",
+      "pubDate": "2026-08-29T19:49:59.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Indie App Spotlight: ‘Laytr’ is a one stop shop for logging everything you want to see later",
+      "url": "https://9to5mac.com/2026/08/29/indie-app-spotlight-laytr-is-a-one-stop-shop-for-logging-everything-you-want-to-find-later/",
+      "pubDate": "2026-08-29T19:30:00.000Z"
+    },
+    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Sony Music and Warner Chappell are suing Anthropic",
       "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
       "pubDate": "2026-08-29T18:19:53.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "As a relatively new Apple Vision Pro user, this is my favorite way to use it",
+      "url": "https://9to5mac.com/2026/08/29/heres-how-i-enjoy-using-apple-vision-pro/",
+      "pubDate": "2026-08-29T17:50:00.000Z"
     },
     {
       "source": "9to5Mac",
@@ -178,32 +213,11 @@
       "pubDate": "2026-08-28T20:00:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Photos in iOS 27 upgrades one of my favorite features in a big way",
-      "url": "https://9to5mac.com/2026/08/28/apple-photos-in-ios-27-upgrades-one-of-my-favorite-features-in-a-big-way/",
-      "pubDate": "2026-08-28T19:26:40.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Steve Jobs' 8th Grade Science Project Sells for $34,375",
       "url": "https://www.macrumors.com/2026/08/28/steve-jobs-science-project-auction/",
       "pubDate": "2026-08-28T19:24:43.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "HomeKit Weekly: Linkind’s Smart Light Stick brings flame effects with Matter support",
-      "url": "https://9to5mac.com/2026/08/28/linkinds-smart-light-stick-brings-flame-effects-and-matter-support/",
-      "pubDate": "2026-08-28T18:49:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Here’s how Apple Watch Ultra 4 will differentiate itself from prior models",
-      "url": "https://9to5mac.com/2026/08/28/heres-how-apple-watch-ultra-4-will-differentiate-itself-from-prior-models/",
-      "pubDate": "2026-08-28T18:09:24.000Z"
     },
     {
       "source": "MacRumors",
@@ -227,25 +241,11 @@
       "pubDate": "2026-08-28T17:03:07.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Trump’s EPA wants to let data centers hide their air pollution",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
-      "pubDate": "2026-08-28T16:28:40.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Steve Jobs' 8th-grade science fair project sold for over $34,000",
       "url": "https://appleinsider.com/articles/26/08/28/steve-jobs-8th-grade-science-fair-project-sold-for-over-34000?utm_source=rss",
       "pubDate": "2026-08-28T16:28:18.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything",
-      "url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
-      "pubDate": "2026-08-28T16:22:16.000Z"
     },
     {
       "source": "AppleInsider",
