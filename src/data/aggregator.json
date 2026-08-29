@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T09:07:36.451Z",
+  "generatedAt": "2026-08-29T14:29:49.144Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,55 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Top Stories: Apple's 'Surprise and Shine' Event, Plus New Mac mini and Mac Studio",
+      "url": "https://www.macrumors.com/2026/08/29/top-stories-apple-surprise-and-shine-event-invites/",
+      "pubDate": "2026-08-29T13:00:12.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The Galaxy Z Flip 8 is at its best when there’s friction",
+      "url": "https://www.theverge.com/tech/986033/samsung-galaxy-z-flip-8-review",
+      "pubDate": "2026-08-29T13:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Amazon Offers Early Savings on 2026 Mac Mini, Plus Record Low on AirTag 2",
+      "url": "https://www.macrumors.com/2026/08/29/best-apple-deals-of-the-week-8-28-26/",
+      "pubDate": "2026-08-29T12:31:59.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Asahi Linux nears M3 support release, M4 and M5 are on the way",
+      "url": "https://appleinsider.com/articles/26/08/29/asahi-linux-nears-m3-support-release-m4-and-m5-are-on-the-way?utm_source=rss",
+      "pubDate": "2026-08-29T12:19:17.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple weekend deals: M6 Mac mini, AirPods Pro 3, AirTag 2, iPhone 17 Pro, more",
+      "url": "https://9to5mac.com/2026/08/29/apple-weekend-deals-m6-mac-mini-airpods-airtag-2/",
+      "pubDate": "2026-08-29T12:13:39.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple @ Work: Parallels Desktop 27 brings OpenGL 4.3 and AI acceleration to Apple Silicon",
+      "url": "https://9to5mac.com/2026/08/29/parallels-desktop-27/",
+      "pubDate": "2026-08-29T12:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Musicians-turned-detectives are hunting for AI grifters",
+      "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+      "pubDate": "2026-08-29T12:00:00.000Z"
+    },
     {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
@@ -192,13 +241,6 @@
       "pubDate": "2026-08-28T16:12:18.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "This video experiment perfectly illustrates my frustration with iPhone Cinematic mode",
-      "url": "https://9to5mac.com/2026/08/28/this-video-experiment-perfectly-illustrates-my-frustration-with-iphone-cinematic-mode/",
-      "pubDate": "2026-08-28T16:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple TV Buys an Existing Hit for the First Time Ever",
@@ -211,13 +253,6 @@
       "title": "New Macs, iPhone launch date, AI Music, & Tim Cook on the AppleInsider Podcast",
       "url": "https://appleinsider.com/articles/26/08/28/new-macs-iphone-launch-date-ai-music-tim-cook-on-the-appleinsider-podcast?utm_source=rss",
       "pubDate": "2026-08-28T15:51:38.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: Amazon Labor Day sale, AirPods Pro 3, M6 Mac mini, Apple Watch $200, AirTag 2, more",
-      "url": "https://9to5mac.com/2026/08/28/deals-amazon-labor-day-sale-airpods-pro-3-m6-mac-mini/",
-      "pubDate": "2026-08-28T15:29:34.000Z"
     },
     {
       "source": "The Verge",
@@ -297,46 +332,11 @@
       "pubDate": "2026-08-28T13:10:18.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Watch SE 3 Hits New Low Price of $199.99 on Amazon",
-      "url": "https://www.macrumors.com/2026/08/28/apple-watch-se-199/",
-      "pubDate": "2026-08-28T13:06:28.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Pledges Donation for Nepal and Tibet Flood Relief",
-      "url": "https://www.macrumors.com/2026/08/28/apple-pledges-donation-for-flood-relief/",
-      "pubDate": "2026-08-28T13:03:47.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Apple TV’s sci-fi thriller Dark Matter gets even trippier in season 2",
       "url": "https://www.theverge.com/entertainment/983263/dark-matter-season-2-review-apple-tv",
       "pubDate": "2026-08-28T12:00:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Tim Cook pledges aid to victims of Nepal flooding",
-      "url": "https://appleinsider.com/articles/26/08/28/tim-cook-pledges-aid-to-victims-of-nepal-flooding?utm_source=rss",
-      "pubDate": "2026-08-28T11:26:02.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
-      "pubDate": "2026-08-28T03:14:06.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The GTA VI ‘extended look’ is now streaming on YouTube",
-      "url": "https://www.theverge.com/games/985910/grand-theft-auto-gta-vi-extended-look-youtube-netflix-stream",
-      "pubDate": "2026-08-28T01:05:18.000Z"
     },
     {
       "source": "AppleInsider",
