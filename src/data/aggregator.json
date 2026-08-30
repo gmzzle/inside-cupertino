@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T06:41:41.095Z",
+  "generatedAt": "2026-08-30T12:55:17.072Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple weekend deals: M6 Mac mini, AirPods Pro 3, AirTag 2, iPhone 17 Pro, more [Updated]",
+      "url": "https://9to5mac.com/2026/08/30/apple-weekend-deals-m6-mac-mini-airpods-airtag-2/",
+      "pubDate": "2026-08-30T12:15:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "China’s robots race ahead",
+      "url": "https://www.theverge.com/tech/986167/china-humanoid-robot-games-race",
+      "pubDate": "2026-08-30T12:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Two new small, powerful Macs",
+      "url": "https://www.theverge.com/tech/986280/mac-mini-studio-star-wars-zero-company-wyze-camera",
+      "pubDate": "2026-08-30T12:00:00.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -145,13 +166,6 @@
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple weekend deals: M6 Mac mini, AirPods Pro 3, AirTag 2, iPhone 17 Pro, more",
-      "url": "https://9to5mac.com/2026/08/29/apple-weekend-deals-m6-mac-mini-airpods-airtag-2/",
-      "pubDate": "2026-08-29T12:13:39.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
       "title": "Apple @ Work: Parallels Desktop 27 brings OpenGL 4.3 and AI acceleration to Apple Silicon",
       "url": "https://9to5mac.com/2026/08/29/parallels-desktop-27/",
       "pubDate": "2026-08-29T12:00:00.000Z"
@@ -192,13 +206,6 @@
       "pubDate": "2026-08-28T22:30:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Xbox CEO calls Project Helix a ‘family of devices’",
-      "url": "https://www.theverge.com/games/986337/xbox-ceo-asha-sharma-project-helix-family-of-devices",
-      "pubDate": "2026-08-28T22:03:13.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Steve Jobs’ 1968 science fair project fetches $34,375 at auction",
@@ -232,13 +239,6 @@
       "title": "Which Macs Will Get an M6 Chip and Which Won't?",
       "url": "https://www.macrumors.com/2026/08/28/m6-chip-macs/",
       "pubDate": "2026-08-28T17:27:18.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Save hundreds on a TCL mini-LED TV with quantum dots and high refresh rate",
-      "url": "https://www.theverge.com/gadgets/985741/tcl-qm7l-belkin-thunderbolt-dock-deal-sale",
-      "pubDate": "2026-08-28T17:03:07.000Z"
     },
     {
       "source": "AppleInsider",
