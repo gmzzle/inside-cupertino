@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T21:45:31.331Z",
+  "generatedAt": "2026-08-30T00:21:59.708Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Card keeps getting better, here’s everything new",
+      "url": "https://9to5mac.com/2026/08/29/apple-card-keeps-getting-better-heres-everything-new/",
+      "pubDate": "2026-08-29T23:18:38.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -204,13 +211,6 @@
       "title": "Apple's Kentucky iPhone glass plant will add 200 permanent jobs",
       "url": "https://appleinsider.com/articles/26/08/28/apples-kentucky-iphone-glass-plant-will-add-200-permanent-jobs?utm_source=rss",
       "pubDate": "2026-08-28T21:10:51.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Overtime 079: The $899 Mac mini",
-      "url": "https://9to5mac.com/2026/08/28/9to5mac-overtime-079-the-899-mac-mini/",
-      "pubDate": "2026-08-28T20:00:00.000Z"
     },
     {
       "source": "MacRumors",
