@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T12:55:17.072Z",
+  "generatedAt": "2026-08-30T17:30:56.039Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,111 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's 1TB M5 MacBook Air plunges to $1,399, save $200",
+      "url": "https://appleinsider.com/articles/26/08/30/apples-1tb-m5-macbook-air-plunges-to-1399-save-200?utm_source=rss",
+      "pubDate": "2026-08-30T17:11:46.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iPhone, Home, iPad mini : Apple's launches for September and October",
+      "url": "https://appleinsider.com/articles/26/08/30/iphone-home-ipad-mini-apples-launches-for-september-and-october?utm_source=rss",
+      "pubDate": "2026-08-30T17:10:56.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple’s next iPad mini is almost ready, here’s what to expect",
+      "url": "https://9to5mac.com/2026/08/30/apples-next-ipad-mini-is-almost-here-heres-what-to-expect/",
+      "pubDate": "2026-08-30T16:54:54.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The Nancy Grace Roman Space Telescope launches to study dark matter and dark energy",
+      "url": "https://www.theverge.com/science/986544/nancy-grace-roman-space-telescope-launch",
+      "pubDate": "2026-08-30T16:36:39.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
+      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+      "pubDate": "2026-08-30T15:52:05.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Texas Governor Abbott blocks funding for more Flock cameras",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
+      "pubDate": "2026-08-30T15:35:10.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Ternus takeover won't mean a mass Apple exec exodus",
+      "url": "https://appleinsider.com/articles/26/08/30/ternus-takeover-wont-mean-a-mass-apple-exec-exodus?utm_source=rss",
+      "pubDate": "2026-08-30T15:17:26.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "New Apple Watch Series 12 and Apple Watch Ultra 4 Features Revealed",
+      "url": "https://www.macrumors.com/2026/08/30/apple-watch-series-12-ultra-4-features/",
+      "pubDate": "2026-08-30T14:54:09.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple Watch Series 12 ceramic case rumors continue with new color claims",
+      "url": "https://appleinsider.com/articles/26/08/30/apple-watch-series-12-ceramic-case-rumors-continue-with-new-color-claims?utm_source=rss",
+      "pubDate": "2026-08-30T14:53:42.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple reportedly considered launching a new Apple Pencil for iPhone Ultra",
+      "url": "https://9to5mac.com/2026/08/30/iphone-ultra-apple-pencil-support-tested/",
+      "pubDate": "2026-08-30T14:38:37.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Don't expect an Apple Pencil for the folding iPhone",
+      "url": "https://appleinsider.com/articles/26/08/30/dont-expect-an-apple-pencil-for-the-folding-iphone?utm_source=rss",
+      "pubDate": "2026-08-30T14:32:27.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Pencil for iPhone Ultra Was Tested",
+      "url": "https://www.macrumors.com/2026/08/30/apple-pencil-for-iphone-ultra-was-tested/",
+      "pubDate": "2026-08-30T14:27:55.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Report: Apple Watch Series 12 may feature always-on heart-rate tracking, new Fitness app",
+      "url": "https://9to5mac.com/2026/08/30/apple-watch-series-12-last-minute-leaks-new-fitness-app-heart-rate/",
+      "pubDate": "2026-08-30T14:27:28.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Beyond iPhone 18 Pro: AirPods 5 in September, iPad Mini With OLED Display in October",
+      "url": "https://www.macrumors.com/2026/08/30/iphone-18-pro-airpods-5-ipad-mini-oled/",
+      "pubDate": "2026-08-30T14:25:52.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Chess.com launched a poker site and is planning even more classic games",
+      "url": "https://www.theverge.com/games/986302/chess-poker-expansion-gambit",
+      "pubDate": "2026-08-30T13:00:00.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -82,7 +187,7 @@
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
-      "title": "Sony Music and Warner Chappell are suing Anthropic",
+      "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
       "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
       "pubDate": "2026-08-29T18:19:53.000Z"
     },
@@ -143,13 +248,6 @@
       "pubDate": "2026-08-29T13:00:12.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Galaxy Z Flip 8 is at its best when there’s friction",
-      "url": "https://www.theverge.com/tech/986033/samsung-galaxy-z-flip-8-review",
-      "pubDate": "2026-08-29T13:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Amazon Offers Early Savings on 2026 Mac Mini, Plus Record Low on AirTag 2",
@@ -171,46 +269,11 @@
       "pubDate": "2026-08-29T12:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Musicians-turned-detectives are hunting for AI grifters",
-      "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
-      "pubDate": "2026-08-29T12:00:00.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Apple takes first immersive baseball swings from the on-deck circle",
       "url": "https://sixcolors.com/post/2026/08/apple-takes-first-immersive-baseball-swings-from-the-on-deck-circle/",
       "pubDate": "2026-08-29T04:03:25.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: August 28, 2026 – Foldable iPhone expectations, more",
-      "url": "https://9to5mac.com/2026/08/28/9to5mac-daily-august-28-2026-foldable-iphone-expectations-more/",
-      "pubDate": "2026-08-29T01:02:53.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Google further buries search results under AI mode",
-      "url": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
-      "pubDate": "2026-08-28T22:48:11.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Most people overpay for their phone plan – Tello Mobile maxes out at $25/month",
-      "url": "https://9to5mac.com/2026/08/28/most-people-overpay-phone-plan-tello-mobile-maxes-out-at-25-month/",
-      "pubDate": "2026-08-28T22:30:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Steve Jobs’ 1968 science fair project fetches $34,375 at auction",
-      "url": "https://9to5mac.com/2026/08/28/steve-jobs-1968-science-fair-project-fetches-34375-at-auction/",
-      "pubDate": "2026-08-28T21:35:19.000Z"
     },
     {
       "source": "AppleInsider",
@@ -281,69 +344,6 @@
       "title": "New Macs, iPhone launch date, AI Music, & Tim Cook on the AppleInsider Podcast",
       "url": "https://appleinsider.com/articles/26/08/28/new-macs-iphone-launch-date-ai-music-tim-cook-on-the-appleinsider-podcast?utm_source=rss",
       "pubDate": "2026-08-28T15:51:38.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "It's not clear when iPhone 18 Pro and folding iPhone preorders will start",
-      "url": "https://appleinsider.com/articles/26/08/28/its-not-clear-when-iphone-18-pro-and-folding-iphone-preorders-will-start?utm_source=rss",
-      "pubDate": "2026-08-28T15:19:24.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone 18 Pro Pre-Orders May Start at an Unusual Time",
-      "url": "https://www.macrumors.com/2026/08/28/iphone-18-pro-pre-orders-may-start-at-unusual-time/",
-      "pubDate": "2026-08-28T15:17:27.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "What NOT to Expect at Apple's 'Surprise and Shine' September 9 Event",
-      "url": "https://www.macrumors.com/2026/08/28/what-not-to-expect-apple-sept-9-event/",
-      "pubDate": "2026-08-28T14:54:56.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Sam Altman needs to put up or shut up about AI hacking",
-      "url": "https://appleinsider.com/articles/26/08/28/sam-altman-needs-to-put-up-or-shut-up-about-ai-hacking?utm_source=rss",
-      "pubDate": "2026-08-28T14:25:38.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Best Retina-class displays to pair with Mac mini or Mac studio",
-      "url": "https://appleinsider.com/inside/mac/best/best-retina-class-displays-to-pair-with-mac-mini-or-mac-studio?utm_source=rss",
-      "pubDate": "2026-08-28T14:17:05.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple's latest price hike is to Apple TV streaming and Apple One",
-      "url": "https://appleinsider.com/articles/26/08/28/apples-latest-price-hike-is-to-apple-tv-streaming-and-apple-one?utm_source=rss",
-      "pubDate": "2026-08-28T14:03:35.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple One Just Went Up in Price",
-      "url": "https://www.macrumors.com/2026/08/28/apple-one-price-increase/",
-      "pubDate": "2026-08-28T14:01:44.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple TV Streaming Service Receives Price Increase",
-      "url": "https://www.macrumors.com/2026/08/28/apple-tv-price-increase/",
-      "pubDate": "2026-08-28T13:10:18.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple's M5 MacBook Air with 32GB RAM drops to $1,549",
-      "url": "https://appleinsider.com/articles/26/08/27/apples-m5-macbook-air-with-32gb-ram-drops-to-1549?utm_source=rss",
-      "pubDate": "2026-08-27T16:57:17.000Z"
     },
     {
       "source": "Six Colors",
