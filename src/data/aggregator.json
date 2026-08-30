@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T21:08:36.917Z",
+  "generatedAt": "2026-08-30T23:31:19.796Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Professor Murder Rides the Subway is a forgotten slice of dance punk perfection",
+      "url": "https://www.theverge.com/entertainment/986564/professor-murder-rides-the-subway-dance-punk-perfection-review",
+      "pubDate": "2026-08-30T21:18:59.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -239,13 +246,6 @@
       "title": "Save up to $200 on Sonos speakers, subs, soundbars this weekend",
       "url": "https://appleinsider.com/articles/26/08/29/save-up-to-200-on-sonos-speakers-subs-soundbars-this-weekend?utm_source=rss",
       "pubDate": "2026-08-29T16:48:50.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Distraction-free writing gadget BYOK is adding custom extensions",
-      "url": "https://www.theverge.com/gadgets/986427/distraction-free-writing-gadget-byok-scripts-extensions",
-      "pubDate": "2026-08-29T16:01:13.000Z"
     },
     {
       "source": "9to5Mac",
