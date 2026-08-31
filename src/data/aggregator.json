@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T20:07:16.655Z",
+  "generatedAt": "2026-08-31T23:52:07.379Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,118 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Qualcomm Raising Chip Prices Starting Tomorrow",
+      "url": "https://www.macrumors.com/2026/08/31/qualcomm-chip-price-increase/",
+      "pubDate": "2026-08-31T23:39:44.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The Google TV Streamer now costs $50 more",
+      "url": "https://www.theverge.com/tech/987032/google-tv-streamer-price-increase",
+      "pubDate": "2026-08-31T22:32:51.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) Upgrade 635: The 2026 September Event Draft",
+      "url": "https://sixcolors.com/podcast/2026/08/upgrade-635-the-2026-september-event-draft/",
+      "pubDate": "2026-08-31T22:24:48.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Save up to $1600 on Roborock products, including the flagship Saros 20",
+      "url": "https://9to5mac.com/2026/08/31/save-1600-roborock-products-including-flagship-saros-20/",
+      "pubDate": "2026-08-31T22:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "JMGO’s very bright all-in-one projector looks ideal for gamers and sports",
+      "url": "https://www.theverge.com/tech/985986/jmgo-4k-gaming-projector-price-specs",
+      "pubDate": "2026-08-31T22:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "FTC lawsuit alleges Amazon has been ‘secretly and systematically’ overcharging for ads",
+      "url": "https://www.theverge.com/tech/986982/amazon-advertising-prices-ftc-lawsuit",
+      "pubDate": "2026-08-31T21:41:42.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Blast from the past",
+      "url": "https://sixcolors.com/post/2026/08/blast-from-the-past/",
+      "pubDate": "2026-08-31T21:25:13.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "I went to the loneliest baseball game on Apple Vision Pro",
+      "url": "https://www.theverge.com/tech/986967/apple-vision-pro-mlb-red-sox-yankees-immersive-game",
+      "pubDate": "2026-08-31T21:18:27.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Releases New iOS 27, iPadOS 27, macOS 27, and tvOS 27 Public Betas",
+      "url": "https://www.macrumors.com/2026/08/31/apple-ios-27-public-beta-6/",
+      "pubDate": "2026-08-31T21:13:29.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple ends hardware support for three Intel MacBook models",
+      "url": "https://appleinsider.com/articles/26/08/31/apple-ends-hardware-support-for-three-intel-macbook-models?utm_source=rss",
+      "pubDate": "2026-08-31T20:30:28.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "New evidence shows OpenAI's trade secret theft & destruction of evidence, says Apple",
+      "url": "https://appleinsider.com/articles/26/08/31/new-evidence-shows-openais-trade-secret-theft-destruction-of-evidence-says-apple?utm_source=rss",
+      "pubDate": "2026-08-31T20:24:54.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Says Former Engineer Used Stolen Trade Secrets at OpenAI, Taught AI Agent to Run Them",
+      "url": "https://www.macrumors.com/2026/08/31/apple-openai-lawsuit-trade-secret-theft-evidence/",
+      "pubDate": "2026-08-31T20:22:40.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone 18 Pro: Three reasons you might want to upgrade from iPhone 17 Pro",
+      "url": "https://9to5mac.com/2026/08/31/iphone-18-pro-three-reasons-you-might-want-to-upgrade-from-iphone-17-pro/",
+      "pubDate": "2026-08-31T20:21:16.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "How to tap into network debugging",
+      "url": "https://sixcolors.com/post/2026/08/how-to-tap-into-network-debugging/",
+      "pubDate": "2026-08-31T20:20:11.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple reveals ‘shocking evidence’ from ex-employee’s MacBook in OpenAI suit",
+      "url": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/",
+      "pubDate": "2026-08-31T20:20:00.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "‘The fan who built an alternate MLB app got hired by the league’ ↦",
+      "url": "https://sixcolors.com/link/2026/08/the-fan-who-built-an-alternate-mlb-app-got-hired-by-the-league/",
+      "pubDate": "2026-08-31T20:12:01.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -227,25 +339,11 @@
       "pubDate": "2026-08-31T15:41:08.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Tim Cook Comments on His Final Day as Apple CEO",
-      "url": "https://www.macrumors.com/2026/08/31/tim-cook-messages-on-final-day-as-apple-ceo/",
-      "pubDate": "2026-08-31T15:39:34.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Debian won&#8217;t ban AI code from its Linux distribution",
       "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
       "pubDate": "2026-08-31T15:34:58.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Sony’s WH-1000XM5 headphones are back down to their lowest price",
-      "url": "https://www.theverge.com/gadgets/986647/sony-wh1000xm5-headphones-nintendo-switch-2-matic-sonos-deal-sale",
-      "pubDate": "2026-08-31T15:31:59.000Z"
     },
     {
       "source": "9to5Mac",
@@ -255,39 +353,11 @@
       "pubDate": "2026-08-31T15:28:54.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Read Tim Cook’s full memo to Apple employees on his last day as CEO",
-      "url": "https://9to5mac.com/2026/08/31/read-tim-cooks-full-memo-to-apple-employees-on-his-last-day-as-ceo/",
-      "pubDate": "2026-08-31T15:14:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: AirPods from $80, MagSafe Battery up to 60% off, AirTag 2 $20 each, Apple Pencil, more",
-      "url": "https://9to5mac.com/2026/08/31/deals-airpods-magsafe-battery-airtag-2-apple-pencil/",
-      "pubDate": "2026-08-31T15:05:48.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "M5 Max vs. M1 Max Mac Studio: Apple's workhorse is better than ever",
       "url": "https://appleinsider.com/inside/mac-studio/vs/m5-max-vs-m1-max-mac-studio-apples-workhorse-is-better-than-ever?utm_source=rss",
       "pubDate": "2026-08-31T14:56:17.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "MapQuest Tops App Store Charts After Refusing 'Lake America' Change",
-      "url": "https://www.macrumors.com/2026/08/31/mapquest-tops-app-store-charts/",
-      "pubDate": "2026-08-31T14:49:23.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Trump ‘directly’ pushing Apple to update Lake Ontario name to Lake America in Maps",
-      "url": "https://9to5mac.com/2026/08/31/trump-directly-pushing-apple-to-update-lake-ontario-name-to-lake-america-in-maps/",
-      "pubDate": "2026-08-31T14:47:16.000Z"
     },
     {
       "source": "AppleInsider",
@@ -297,81 +367,11 @@
       "pubDate": "2026-08-31T14:29:54.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "New York governor to 3D-printed gun leader: &#8216;tell Cody I will get ahead of him&#8217;",
-      "url": "https://www.theverge.com/policy/986733/kathy-hochul-3d-printed-guns-cody-wilson-response",
-      "pubDate": "2026-08-31T14:20:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Inducted Into 'Brand Hall of Fame' for Iconic Ads",
-      "url": "https://www.macrumors.com/2026/08/31/apple-inducted-into-brand-hall-of-fame/",
-      "pubDate": "2026-08-31T14:06:15.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
-      "url": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
-      "pubDate": "2026-08-31T14:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "ChatGPT to face tougher regulation in the EU",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
-      "pubDate": "2026-08-31T13:27:36.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple becomes the first brand to be honored by the Creative Hall of Fame",
       "url": "https://appleinsider.com/articles/26/08/31/apple-becomes-the-first-brand-to-be-honored-by-the-creative-hall-of-fame?utm_source=rss",
       "pubDate": "2026-08-31T12:41:16.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Potential Apple RAM supplier CXMT sues feds to get off the supplier blacklist",
-      "url": "https://appleinsider.com/articles/26/08/31/potential-apple-ram-supplier-cxmt-sues-feds-to-take-it-off-the-supplier-blacklist?utm_source=rss",
-      "pubDate": "2026-08-31T12:30:47.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Tim Cook, the man who grew Apple by trillions of dollars",
-      "url": "https://appleinsider.com/articles/26/08/31/apple-at-50-tim-cook-the-man-who-grew-apple-by-trillions-of-dollars?utm_source=rss",
-      "pubDate": "2026-08-31T11:14:06.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Tim Cook's greatest moments hosting WWDC",
-      "url": "https://appleinsider.com/articles/26/08/28/tim-cooks-greatest-moments-hosting-wwdc?utm_source=rss",
-      "pubDate": "2026-08-31T10:59:03.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Apple takes first immersive baseball swings from the on-deck circle",
-      "url": "https://sixcolors.com/post/2026/08/apple-takes-first-immersive-baseball-swings-from-the-on-deck-circle/",
-      "pubDate": "2026-08-29T04:03:25.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Take Control of Siri AI and Apple Intelligence Ebook Now Out ↦",
-      "url": "https://sixcolors.com/link/2026/08/take-control-of-siri-ai-and-apple-intelligence-ebook-now-out/",
-      "pubDate": "2026-08-27T00:13:38.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) Clockwise 671: Rockin’ the Gig",
-      "url": "https://sixcolors.com/podcast/2026/08/clockwise-671-rockin-the-gig/",
-      "pubDate": "2026-08-26T19:17:07.000Z"
     }
   ]
 }
