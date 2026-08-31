@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T13:54:55.941Z",
+  "generatedAt": "2026-08-31T20:07:16.655Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -26,30 +26,296 @@
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
-      "title": "Today is Tim Cook’s last day as Apple CEO, John Ternus takes over tomorrow",
-      "url": "https://9to5mac.com/2026/08/31/tim-cook-last-day-john-ternus-apple-ceo/",
-      "pubDate": "2026-08-31T13:52:39.000Z"
+      "title": "How to run Mario Kart 64 with native Metal rendering, high frame rate, and HD textures on iPhone [Video]",
+      "url": "https://9to5mac.com/2026/08/31/how-to-run-mario-kart-64-with-native-metal-rendering-high-frame-rate-and-hd-textures-on-iphone-video/",
+      "pubDate": "2026-08-31T19:50:57.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple pundits say Vision Pro is by far the best way to watch baseball",
-      "url": "https://9to5mac.com/2026/08/31/apple-pundits-say-vision-pro-is-by-far-the-best-way-to-watch-baseball/",
-      "pubDate": "2026-08-31T13:51:07.000Z"
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Alienware’s budget-friendly QD-OLED is discounted for the first time",
+      "url": "https://www.theverge.com/gadgets/986901/alienware-qdoled-2726dm-deal-sale",
+      "pubDate": "2026-08-31T19:31:59.000Z"
     },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
-      "title": "Google Maps Showing 'Lake America' in U.S., Apple Maps Yet to Follow",
-      "url": "https://www.macrumors.com/2026/08/31/google-maps-lake-america/",
-      "pubDate": "2026-08-31T13:33:16.000Z"
+      "title": "AirPods With Cameras Could Bring Improved Spatial Audio Head Tracking",
+      "url": "https://www.macrumors.com/2026/08/31/camera-airpods-spatial-audio-head-tracking/",
+      "pubDate": "2026-08-31T19:02:40.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone Ultra release timing: Here’s what the latest reporting says",
+      "url": "https://9to5mac.com/2026/08/31/iphone-ultra-release-timing-heres-what-the-latest-reporting-says/",
+      "pubDate": "2026-08-31T18:55:25.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Jason Snell’s productivity picks (The Mac App Store/Jason Snell)",
+      "url": "https://apps.apple.com/us/story/id1896604185",
+      "pubDate": "2026-08-31T18:53:20.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "AI needs more Macs, but not for the reason you might assume",
+      "url": "https://appleinsider.com/articles/26/08/31/ai-needs-more-macs-but-not-for-the-reason-you-might-assume?utm_source=rss",
+      "pubDate": "2026-08-31T18:39:42.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Adds Three More Macs to Obsolete Products List",
+      "url": "https://www.macrumors.com/2026/08/31/apple-retina-macbook-air-obsolete/",
+      "pubDate": "2026-08-31T18:37:51.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "MagSafe Monday: Anker’s foldable 3-in-1 charger brings 25-watt Qi2 charging into something pocket-sized",
+      "url": "https://9to5mac.com/2026/08/31/ankers-foldable-3-in-1-charger-brings-25w-qi2-charging-into-something-pocket-sized/",
+      "pubDate": "2026-08-31T18:30:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Seemingly Made a Mistake When Announcing the New Mac Studio",
+      "url": "https://www.macrumors.com/2026/08/31/apple-edits-mac-studio-press-release/",
+      "pubDate": "2026-08-31T18:19:20.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Eighth iOS 27, macOS 27 developer betas arrive for testing",
+      "url": "https://appleinsider.com/articles/26/08/31/eighth-ios-27-macos-27-developer-betas-arrive-for-testing?utm_source=rss",
+      "pubDate": "2026-08-31T17:20:55.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple releases beta 8 for iPadOS 27, watchOS 27, and more",
+      "url": "https://9to5mac.com/2026/08/31/apple-releases-beta-8-for-ipados-27-watchos-27-and-more/",
+      "pubDate": "2026-08-31T17:16:48.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "macOS 27 developer beta 8 now available, here’s what’s coming",
+      "url": "https://9to5mac.com/2026/08/31/macos-27-developer-beta-8-now-available-heres-whats-coming/",
+      "pubDate": "2026-08-31T17:16:05.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Releases macOS Golden Gate Beta 8",
+      "url": "https://www.macrumors.com/2026/08/31/apple-seeds-macos-27-beta-8/",
+      "pubDate": "2026-08-31T17:14:06.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Seeds Eighth iOS 27 and iPadOS 27 Betas to Developers",
+      "url": "https://www.macrumors.com/2026/08/31/apple-seeds-ios-27-beta-8/",
+      "pubDate": "2026-08-31T17:13:25.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 beta 8 now available as Apple tests major Siri AI upgrade",
+      "url": "https://9to5mac.com/2026/08/31/ios-27-beta-8/",
+      "pubDate": "2026-08-31T17:12:20.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Seeds watchOS 27 Beta 8 to Developers",
+      "url": "https://www.macrumors.com/2026/08/31/apple-seeds-watchos-27-beta-8/",
+      "pubDate": "2026-08-31T17:12:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Car owners want tech they can ignore",
+      "url": "https://www.theverge.com/news/986721/car-tech-survey-jd-power-smart-ignition",
+      "pubDate": "2026-08-31T17:11:17.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Seeds tvOS 27 Beta 8 to Developers",
+      "url": "https://www.macrumors.com/2026/08/31/apple-seeds-tvos-27-beta-8/",
+      "pubDate": "2026-08-31T17:11:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Seeds Eighth visionOS 27 Beta to Developers",
+      "url": "https://www.macrumors.com/2026/08/31/apple-seeds-visionos-27-beta-8/",
+      "pubDate": "2026-08-31T17:10:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple Fellow Phil Schiller no longer working on App Store or events",
+      "url": "https://appleinsider.com/articles/26/08/31/apple-fellow-phil-schiller-no-longer-working-on-app-store-or-events?utm_source=rss",
+      "pubDate": "2026-08-31T17:07:34.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's Phil Schiller Scales Back Role as John Ternus Era Begins",
+      "url": "https://www.macrumors.com/2026/08/31/phil-schiller-stepping-down-app-store/",
+      "pubDate": "2026-08-31T16:54:47.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Phil Schiller steps down from leading the App Store and Apple events",
+      "url": "https://9to5mac.com/2026/08/31/phil-schiller-steps-down-from-leading-the-app-store-and-apple-events/",
+      "pubDate": "2026-08-31T16:54:07.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Phil Schiller is leaving his biggest jobs at Apple",
+      "url": "https://www.theverge.com/tech/986869/apple-phil-schiller-stepping-down",
+      "pubDate": "2026-08-31T16:54:07.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Markiplier is now GoPro’s biggest shareholder",
+      "url": "https://www.theverge.com/tech/986847/markiplier-gopro-investor",
+      "pubDate": "2026-08-31T16:38:10.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Read Tim Cook&#8217;s final message to Apple staff as CEO",
+      "url": "https://www.theverge.com/tech/986832/read-tim-cooks-final-message-as-ceo-to-apple-staff",
+      "pubDate": "2026-08-31T16:30:45.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple could discontinue 10+ popular products next week",
+      "url": "https://9to5mac.com/2026/08/31/apple-could-discontinue-10-popular-products-next-week/",
+      "pubDate": "2026-08-31T16:04:23.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Tim Cook signs off as CEO with thanks to staff and a tribute to John Ternus",
+      "url": "https://appleinsider.com/articles/26/08/31/tim-cook-signs-off-as-ceo-with-thanks-to-staff-and-a-tribute-to-john-ternus?utm_source=rss",
+      "pubDate": "2026-08-31T15:49:48.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Save $500 on Apple's M5 Max 16-inch MacBook Pro during early Labor Day Sale",
+      "url": "https://appleinsider.com/articles/26/08/31/save-500-on-apples-m5-max-16-inch-macbook-pro-during-early-labor-day-sale?utm_source=rss",
+      "pubDate": "2026-08-31T15:49:34.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "White House really wants Apple to change 'Lake Ontario' to 'Lake America' now",
+      "url": "https://appleinsider.com/articles/26/08/31/white-house-really-wants-apple-to-change-lake-ontario-to-lake-america-now?utm_source=rss",
+      "pubDate": "2026-08-31T15:41:08.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Tim Cook Comments on His Final Day as Apple CEO",
+      "url": "https://www.macrumors.com/2026/08/31/tim-cook-messages-on-final-day-as-apple-ceo/",
+      "pubDate": "2026-08-31T15:39:34.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Debian won&#8217;t ban AI code from its Linux distribution",
+      "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+      "pubDate": "2026-08-31T15:34:58.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Sony’s WH-1000XM5 headphones are back down to their lowest price",
+      "url": "https://www.theverge.com/gadgets/986647/sony-wh1000xm5-headphones-nintendo-switch-2-matic-sonos-deal-sale",
+      "pubDate": "2026-08-31T15:31:59.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "AirPods 5: Here’s what rumors say will launch next week",
+      "url": "https://9to5mac.com/2026/08/31/airpods-5-heres-what-rumors-say-will-launch-next-week/",
+      "pubDate": "2026-08-31T15:28:54.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Read Tim Cook’s full memo to Apple employees on his last day as CEO",
+      "url": "https://9to5mac.com/2026/08/31/read-tim-cooks-full-memo-to-apple-employees-on-his-last-day-as-ceo/",
+      "pubDate": "2026-08-31T15:14:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Deals: AirPods from $80, MagSafe Battery up to 60% off, AirTag 2 $20 each, Apple Pencil, more",
+      "url": "https://9to5mac.com/2026/08/31/deals-airpods-magsafe-battery-airtag-2-apple-pencil/",
+      "pubDate": "2026-08-31T15:05:48.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "M5 Max vs. M1 Max Mac Studio: Apple's workhorse is better than ever",
+      "url": "https://appleinsider.com/inside/mac-studio/vs/m5-max-vs-m1-max-mac-studio-apples-workhorse-is-better-than-ever?utm_source=rss",
+      "pubDate": "2026-08-31T14:56:17.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "MapQuest Tops App Store Charts After Refusing 'Lake America' Change",
+      "url": "https://www.macrumors.com/2026/08/31/mapquest-tops-app-store-charts/",
+      "pubDate": "2026-08-31T14:49:23.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Trump ‘directly’ pushing Apple to update Lake Ontario name to Lake America in Maps",
+      "url": "https://9to5mac.com/2026/08/31/trump-directly-pushing-apple-to-update-lake-ontario-name-to-lake-america-in-maps/",
+      "pubDate": "2026-08-31T14:47:16.000Z"
     },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Both Tim Cook & John Ternus are the right guys in the right place, at the right time",
       "url": "https://appleinsider.com/articles/26/08/31/both-tim-cook-john-ternus-are-the-right-guys-in-the-right-place-at-the-right-time?utm_source=rss",
-      "pubDate": "2026-08-31T13:29:08.000Z"
+      "pubDate": "2026-08-31T14:29:54.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "New York governor to 3D-printed gun leader: &#8216;tell Cody I will get ahead of him&#8217;",
+      "url": "https://www.theverge.com/policy/986733/kathy-hochul-3d-printed-guns-cody-wilson-response",
+      "pubDate": "2026-08-31T14:20:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Inducted Into 'Brand Hall of Fame' for Iconic Ads",
+      "url": "https://www.macrumors.com/2026/08/31/apple-inducted-into-brand-hall-of-fame/",
+      "pubDate": "2026-08-31T14:06:15.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
+      "url": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
+      "pubDate": "2026-08-31T14:00:00.000Z"
     },
     {
       "source": "The Verge",
@@ -57,20 +323,6 @@
       "title": "ChatGPT to face tougher regulation in the EU",
       "url": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
       "pubDate": "2026-08-31T13:27:36.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Instagram cracks down on AI accounts pretending to be human",
-      "url": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop",
-      "pubDate": "2026-08-31T13:00:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Tim Cook Steps Down as Apple CEO Tomorrow",
-      "url": "https://www.macrumors.com/2026/08/31/tim-cook-steps-down-as-apple-ceo-tomorrow/",
-      "pubDate": "2026-08-31T12:42:47.000Z"
     },
     {
       "source": "AppleInsider",
@@ -87,39 +339,11 @@
       "pubDate": "2026-08-31T12:30:47.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Maps still shows Lake Ontario as Google Maps changes name",
-      "url": "https://9to5mac.com/2026/08/31/apple-maps-still-shows-lake-ontario-as-google-maps-changes-name/",
-      "pubDate": "2026-08-31T12:20:27.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "CarPlay keeps getting better with three recent exciting app updates",
-      "url": "https://9to5mac.com/2026/08/31/carplay-keeps-getting-better-with-three-recent-exciting-app-updates/",
-      "pubDate": "2026-08-31T12:11:46.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Unusual timing of Mac mini and Mac Studio updates all about AI, claims report",
-      "url": "https://9to5mac.com/2026/08/31/unusual-timing-of-mac-mini-and-mac-studio-updates-all-about-ai-claims-report/",
-      "pubDate": "2026-08-31T11:50:55.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Tim Cook, the man who grew Apple by trillions of dollars",
       "url": "https://appleinsider.com/articles/26/08/31/apple-at-50-tim-cook-the-man-who-grew-apple-by-trillions-of-dollars?utm_source=rss",
       "pubDate": "2026-08-31T11:14:06.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Here’s the likely reason the iPhone Ultra isn’t getting an Apple Pencil",
-      "url": "https://9to5mac.com/2026/08/31/heres-the-likely-reason-the-iphone-ultra-isnt-getting-an-apple-pencil/",
-      "pubDate": "2026-08-31T11:06:32.000Z"
     },
     {
       "source": "AppleInsider",
@@ -129,228 +353,11 @@
       "pubDate": "2026-08-31T10:59:03.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Professor Murder Rides the Subway is a forgotten slice of dance punk perfection",
-      "url": "https://www.theverge.com/entertainment/986564/professor-murder-rides-the-subway-dance-punk-perfection-review",
-      "pubDate": "2026-08-30T21:18:59.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Sunday Reboot: Mac scheduling and the Ternus Cook-out",
-      "url": "https://appleinsider.com/articles/26/08/30/sunday-reboot-mac-scheduling-and-the-ternus-cook-out?utm_source=rss",
-      "pubDate": "2026-08-30T20:13:56.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "California court revives lawsuit accusing Apple of blocking independent repairs",
-      "url": "https://appleinsider.com/articles/26/08/30/california-court-revives-lawsuit-accusing-apple-of-blocking-independent-repairs?utm_source=rss",
-      "pubDate": "2026-08-30T20:10:24.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple CarPlay just added a major weather app",
-      "url": "https://9to5mac.com/2026/08/30/apple-carplay-just-added-a-major-weather-app/",
-      "pubDate": "2026-08-30T19:57:16.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode 3 assets",
-      "url": "https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3",
-      "pubDate": "2026-08-30T19:14:08.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple's 1TB M5 MacBook Air plunges to $1,399, save $200",
-      "url": "https://appleinsider.com/articles/26/08/30/apples-1tb-m5-macbook-air-plunges-to-1399-save-200?utm_source=rss",
-      "pubDate": "2026-08-30T17:11:46.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPhone, Home, iPad mini : Apple's launches for September and October",
-      "url": "https://appleinsider.com/articles/26/08/30/iphone-home-ipad-mini-apples-launches-for-september-and-october?utm_source=rss",
-      "pubDate": "2026-08-30T17:10:56.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple’s next iPad mini is almost ready, here’s what to expect",
-      "url": "https://9to5mac.com/2026/08/30/apples-next-ipad-mini-is-almost-here-heres-what-to-expect/",
-      "pubDate": "2026-08-30T16:54:54.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Nancy Grace Roman Space Telescope launches to study dark matter and dark energy",
-      "url": "https://www.theverge.com/science/986544/nancy-grace-roman-space-telescope-launch",
-      "pubDate": "2026-08-30T16:36:39.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
-      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
-      "pubDate": "2026-08-30T15:52:05.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Texas Governor Abbott blocks funding for more Flock cameras",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
-      "pubDate": "2026-08-30T15:35:10.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Ternus takeover won't mean a mass Apple exec exodus",
-      "url": "https://appleinsider.com/articles/26/08/30/ternus-takeover-wont-mean-a-mass-apple-exec-exodus?utm_source=rss",
-      "pubDate": "2026-08-30T15:17:26.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "New Apple Watch Series 12 and Apple Watch Ultra 4 Features Revealed",
-      "url": "https://www.macrumors.com/2026/08/30/apple-watch-series-12-ultra-4-features/",
-      "pubDate": "2026-08-30T14:54:09.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple Watch Series 12 ceramic case rumors continue with new color claims",
-      "url": "https://appleinsider.com/articles/26/08/30/apple-watch-series-12-ceramic-case-rumors-continue-with-new-color-claims?utm_source=rss",
-      "pubDate": "2026-08-30T14:53:42.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple reportedly considered launching a new Apple Pencil for iPhone Ultra",
-      "url": "https://9to5mac.com/2026/08/30/iphone-ultra-apple-pencil-support-tested/",
-      "pubDate": "2026-08-30T14:38:37.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Don't expect an Apple Pencil for the folding iPhone",
-      "url": "https://appleinsider.com/articles/26/08/30/dont-expect-an-apple-pencil-for-the-folding-iphone?utm_source=rss",
-      "pubDate": "2026-08-30T14:32:27.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Pencil for iPhone Ultra Was Tested",
-      "url": "https://www.macrumors.com/2026/08/30/apple-pencil-for-iphone-ultra-was-tested/",
-      "pubDate": "2026-08-30T14:27:55.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Report: Apple Watch Series 12 may feature always-on heart-rate tracking, new Fitness app",
-      "url": "https://9to5mac.com/2026/08/30/apple-watch-series-12-last-minute-leaks-new-fitness-app-heart-rate/",
-      "pubDate": "2026-08-30T14:27:28.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Beyond iPhone 18 Pro: AirPods 5 in September, iPad Mini With OLED Display in October",
-      "url": "https://www.macrumors.com/2026/08/30/iphone-18-pro-airpods-5-ipad-mini-oled/",
-      "pubDate": "2026-08-30T14:25:52.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Chess.com launched a poker site, and it’s planning even more classic games",
-      "url": "https://www.theverge.com/games/986302/chess-poker-expansion-gambit",
-      "pubDate": "2026-08-30T13:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple weekend deals: M6 Mac mini, AirPods Pro 3, AirTag 2, iPhone 17 Pro, more [Updated]",
-      "url": "https://9to5mac.com/2026/08/30/apple-weekend-deals-m6-mac-mini-airpods-airtag-2/",
-      "pubDate": "2026-08-30T12:15:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "China’s robots race ahead",
-      "url": "https://www.theverge.com/tech/986167/china-humanoid-robot-games-race",
-      "pubDate": "2026-08-30T12:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Two new small, powerful Macs",
-      "url": "https://www.theverge.com/tech/986280/mac-mini-studio-star-wars-zero-company-wyze-camera",
-      "pubDate": "2026-08-30T12:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Card keeps getting better, here’s everything new",
-      "url": "https://9to5mac.com/2026/08/29/apple-card-keeps-getting-better-heres-everything-new/",
-      "pubDate": "2026-08-29T23:18:38.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Vicariously hike the Appalachian in the gorgeous A Trail Tale",
-      "url": "https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale",
-      "pubDate": "2026-08-29T20:59:26.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Top Stories: Apple's 'Surprise and Shine' Event, Plus New Mac mini and Mac Studio",
-      "url": "https://www.macrumors.com/2026/08/29/top-stories-apple-surprise-and-shine-event-invites/",
-      "pubDate": "2026-08-29T13:00:12.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Amazon Offers Early Savings on 2026 Mac Mini, Plus Record Low on AirTag 2",
-      "url": "https://www.macrumors.com/2026/08/29/best-apple-deals-of-the-week-8-28-26/",
-      "pubDate": "2026-08-29T12:31:59.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Apple takes first immersive baseball swings from the on-deck circle",
       "url": "https://sixcolors.com/post/2026/08/apple-takes-first-immersive-baseball-swings-from-the-on-deck-circle/",
       "pubDate": "2026-08-29T04:03:25.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Steve Jobs' 8th Grade Science Project Sells for $34,375",
-      "url": "https://www.macrumors.com/2026/08/28/steve-jobs-science-project-auction/",
-      "pubDate": "2026-08-28T19:24:43.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple's Siri Settlement: Here's When iPhone Owners Can Submit Claims",
-      "url": "https://www.macrumors.com/2026/08/28/apple-siri-ai-settlement-claims-timing/",
-      "pubDate": "2026-08-28T18:01:20.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Which Macs Will Get an M6 Chip and Which Won't?",
-      "url": "https://www.macrumors.com/2026/08/28/m6-chip-macs/",
-      "pubDate": "2026-08-28T17:27:18.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "This New App Brings 1990s 'After Dark' Screen Savers to Modern macOS",
-      "url": "https://www.macrumors.com/2026/08/28/after-dark-screen-savers-on-modern-macos/",
-      "pubDate": "2026-08-28T16:16:15.000Z"
     },
     {
       "source": "Six Colors",
@@ -365,13 +372,6 @@
       "title": "(Podcast) Clockwise 671: Rockin’ the Gig",
       "url": "https://sixcolors.com/podcast/2026/08/clockwise-671-rockin-the-gig/",
       "pubDate": "2026-08-26T19:17:07.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "‘Designed in California’ feeds are up and running ↦",
-      "url": "https://sixcolors.com/link/2026/08/designed-in-california-feeds-are-up-and-running/",
-      "pubDate": "2026-08-25T21:09:20.000Z"
     }
   ]
 }
