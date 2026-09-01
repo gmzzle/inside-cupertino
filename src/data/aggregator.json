@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T05:12:41.967Z",
+  "generatedAt": "2026-09-01T10:11:14.697Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,48 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple leadership page updated as John Ternus becomes the new CEO",
+      "url": "https://9to5mac.com/2026/09/01/apple-leadership-page-updated-as-john-ternus-becomes-the-new-ceo/",
+      "pubDate": "2026-09-01T10:09:53.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "John Ternus is now the CEO of Apple",
+      "url": "https://www.theverge.com/tech/987150/apple-ceo-john-ternus",
+      "pubDate": "2026-09-01T10:04:02.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple @ Work Podcast: The human side of AI adoption in the enterprise",
+      "url": "https://9to5mac.com/2026/09/01/apple-work-podcast-the-human-side-of-ai-adoption-in-the-enterprise/",
+      "pubDate": "2026-09-01T10:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Dyson made a camera-equipped toothbrush that flosses for you",
+      "url": "https://www.theverge.com/tech/986737/dyson-camerajet-smart-toothbrush-live-camera-flosser-pricing-availability",
+      "pubDate": "2026-09-01T09:30:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Tim Cook signs off as CEO with thanks to staff and a tribute to John Ternus",
+      "url": "https://appleinsider.com/articles/26/08/31/tim-cook-signs-off-as-ceo-with-thanks-to-staff-and-a-tribute-to-john-ternus?utm_source=rss",
+      "pubDate": "2026-09-01T07:02:59.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Intel to Apple Silicon, Cook to Ternus - Apple is pulling off another major transition",
+      "url": "https://appleinsider.com/articles/26/09/01/intel-to-apple-silicon-cook-to-ternus---apple-is-pulling-off-another-major-transition?utm_source=rss",
+      "pubDate": "2026-09-01T07:01:52.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -255,13 +297,6 @@
       "pubDate": "2026-08-31T17:13:25.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 beta 8 now available as Apple tests major Siri AI upgrade",
-      "url": "https://9to5mac.com/2026/08/31/ios-27-beta-8/",
-      "pubDate": "2026-08-31T17:12:20.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Seeds watchOS 27 Beta 8 to Developers",
@@ -304,13 +339,6 @@
       "pubDate": "2026-08-31T16:54:47.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Phil Schiller steps down from leading the App Store and Apple events",
-      "url": "https://9to5mac.com/2026/08/31/phil-schiller-steps-down-from-leading-the-app-store-and-apple-events/",
-      "pubDate": "2026-08-31T16:54:07.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Phil Schiller is leaving his biggest jobs at Apple",
@@ -323,20 +351,6 @@
       "title": "Markiplier is now GoPro’s biggest shareholder",
       "url": "https://www.theverge.com/tech/986847/markiplier-gopro-investor",
       "pubDate": "2026-08-31T16:38:10.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Read Tim Cook&#8217;s final message to Apple staff as CEO",
-      "url": "https://www.theverge.com/tech/986832/read-tim-cooks-final-message-as-ceo-to-apple-staff",
-      "pubDate": "2026-08-31T16:30:45.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Tim Cook signs off as CEO with thanks to staff and a tribute to John Ternus",
-      "url": "https://appleinsider.com/articles/26/08/31/tim-cook-signs-off-as-ceo-with-thanks-to-staff-and-a-tribute-to-john-ternus?utm_source=rss",
-      "pubDate": "2026-08-31T15:49:48.000Z"
     },
     {
       "source": "AppleInsider",
@@ -353,25 +367,11 @@
       "pubDate": "2026-08-31T15:41:08.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Debian won&#8217;t ban AI code from its Linux distribution",
-      "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
-      "pubDate": "2026-08-31T15:34:58.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "M5 Max vs. M1 Max Mac Studio: Apple's workhorse is better than ever",
       "url": "https://appleinsider.com/inside/mac-studio/vs/m5-max-vs-m1-max-mac-studio-apples-workhorse-is-better-than-ever?utm_source=rss",
       "pubDate": "2026-08-31T14:56:17.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Both Tim Cook & John Ternus are the right guys in the right place, at the right time",
-      "url": "https://appleinsider.com/articles/26/08/31/both-tim-cook-john-ternus-are-the-right-guys-in-the-right-place-at-the-right-time?utm_source=rss",
-      "pubDate": "2026-08-31T14:29:54.000Z"
     }
   ]
 }
