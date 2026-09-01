@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T23:52:07.379Z",
+  "generatedAt": "2026-09-01T05:12:41.967Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,6 +24,20 @@
   ],
   "items": [
     {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: August 31, 2026 – Apple TV price hikes, more",
+      "url": "https://9to5mac.com/2026/08/31/daily-august-31-2026/",
+      "pubDate": "2026-09-01T02:18:49.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "uGreen NASync DXP4800 Pro review: Sweet spot of price & performance",
+      "url": "https://appleinsider.com/articles/26/08/31/ugreen-nasync-dxp4800-pro-review-sweet-spot-of-price-performance?utm_source=rss",
+      "pubDate": "2026-08-31T23:53:04.000Z"
+    },
+    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Qualcomm Raising Chip Prices Starting Tomorrow",
@@ -43,6 +57,13 @@
       "title": "(Podcast) Upgrade 635: The 2026 September Event Draft",
       "url": "https://sixcolors.com/podcast/2026/08/upgrade-635-the-2026-september-event-draft/",
       "pubDate": "2026-08-31T22:24:48.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "How I’m using Codex and ChatGPT on my Mac",
+      "url": "https://9to5mac.com/2026/08/31/codex-report-four-months-of-building-joy-on-my-mac-with-chatgpt/",
+      "pubDate": "2026-08-31T22:00:00.000Z"
     },
     {
       "source": "9to5Mac",
@@ -311,13 +332,6 @@
       "pubDate": "2026-08-31T16:30:45.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple could discontinue 10+ popular products next week",
-      "url": "https://9to5mac.com/2026/08/31/apple-could-discontinue-10-popular-products-next-week/",
-      "pubDate": "2026-08-31T16:04:23.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Tim Cook signs off as CEO with thanks to staff and a tribute to John Ternus",
@@ -346,13 +360,6 @@
       "pubDate": "2026-08-31T15:34:58.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "AirPods 5: Here’s what rumors say will launch next week",
-      "url": "https://9to5mac.com/2026/08/31/airpods-5-heres-what-rumors-say-will-launch-next-week/",
-      "pubDate": "2026-08-31T15:28:54.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "M5 Max vs. M1 Max Mac Studio: Apple's workhorse is better than ever",
@@ -365,13 +372,6 @@
       "title": "Both Tim Cook & John Ternus are the right guys in the right place, at the right time",
       "url": "https://appleinsider.com/articles/26/08/31/both-tim-cook-john-ternus-are-the-right-guys-in-the-right-place-at-the-right-time?utm_source=rss",
       "pubDate": "2026-08-31T14:29:54.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple becomes the first brand to be honored by the Creative Hall of Fame",
-      "url": "https://appleinsider.com/articles/26/08/31/apple-becomes-the-first-brand-to-be-honored-by-the-creative-hall-of-fame?utm_source=rss",
-      "pubDate": "2026-08-31T12:41:16.000Z"
     }
   ]
 }
