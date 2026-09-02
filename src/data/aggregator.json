@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T16:36:17.681Z",
+  "generatedAt": "2026-09-02T19:48:11.830Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,104 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iOS 27 Introduces New 'iPhone Handoff' Feature",
+      "url": "https://www.macrumors.com/2026/09/02/ios-27-iphone-handoff-feature/",
+      "pubDate": "2026-09-02T19:35:53.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Anthropic upgrades Claude’s computer use to run in the background on Mac",
+      "url": "https://9to5mac.com/2026/09/02/anthropic-upgrades-claude-codes-computer-use-to-run-in-the-background-on-mac/",
+      "pubDate": "2026-09-02T19:14:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 fixes Apple Mail in three ways longtime users will love",
+      "url": "https://9to5mac.com/2026/09/02/ios-27-fixes-apple-mail-in-three-ways-longtime-users-will-love/",
+      "pubDate": "2026-09-02T19:00:40.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Here are some of REI’s best Labor Day sale deals",
+      "url": "https://www.theverge.com/gadgets/988398/rei-labor-day-sale-deal-2026",
+      "pubDate": "2026-09-02T18:56:59.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "1Password wades into a right-wing mess after funding a Linux project",
+      "url": "https://www.theverge.com/tech/988536/1password-dhh-linux-controversy",
+      "pubDate": "2026-09-02T18:48:14.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone 18 Pro will have three upgrades that have been rumored for years",
+      "url": "https://9to5mac.com/2026/09/02/iphone-18-pro-will-have-three-upgrades-that-have-been-rumored-for-years/",
+      "pubDate": "2026-09-02T18:21:33.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 basically turns your iPhone and AirPods into an Apple Watch at the gym",
+      "url": "https://9to5mac.com/2026/09/02/ios-27-basically-turns-your-iphone-and-airpods-into-an-apple-watch-at-the-gym/",
+      "pubDate": "2026-09-02T18:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Amazon’s AI assistant can now spot fake emails from the company",
+      "url": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
+      "pubDate": "2026-09-02T17:52:56.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Judge rejects DOJ bid to split advertising business from Google",
+      "url": "https://appleinsider.com/articles/26/09/02/judge-rejects-doj-bid-to-split-advertising-business-from-google?utm_source=rss",
+      "pubDate": "2026-09-02T17:26:38.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "'I Wouldn't Be Talking to You': Apple Shares Apple Watch Survival Story",
+      "url": "https://www.macrumors.com/2026/09/02/apple-watch-heart-story/",
+      "pubDate": "2026-09-02T17:25:20.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Range Rover’s new EV looks just like a regular Range Rover — that’s refreshing",
+      "url": "https://www.theverge.com/transportation/988232/range-rover-electric-range-battery-specs",
+      "pubDate": "2026-09-02T17:01:08.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The best tech and gadgets announced at IFA so far",
+      "url": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones",
+      "pubDate": "2026-09-02T16:43:50.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple’s new film from ‘Best Picture’ Oscar winner gets first trailer",
+      "url": "https://9to5mac.com/2026/09/02/apples-new-film-from-best-picture-oscar-winner-gets-first-trailer/",
+      "pubDate": "2026-09-02T16:41:31.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
+      "pubDate": "2026-09-02T16:40:50.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -87,13 +185,6 @@
       "pubDate": "2026-09-02T15:15:55.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Belkin’s kid-friendly wireless headphones are 25 percent off",
-      "url": "https://www.theverge.com/gadgets/987687/belkin-headphones-sonos-ace-nintendo-switch-2-kirby-amazon-resale-deal-sale",
-      "pubDate": "2026-09-02T14:58:15.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Adobe for Slack brings more generative AI to your digital workspace",
@@ -101,32 +192,11 @@
       "pubDate": "2026-09-02T14:37:38.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
-      "pubDate": "2026-09-02T14:35:03.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "NYC bans AI use for students until they reach high school",
-      "url": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban",
-      "pubDate": "2026-09-02T14:30:00.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "iOS 27 gives Apple Pay its best upgrade in years with redesign",
       "url": "https://9to5mac.com/2026/09/02/ios-27-gives-apple-pay-its-best-upgrade-in-years-with-redesign/",
       "pubDate": "2026-09-02T14:26:06.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Tado’s new thermostat is designed as a Nest killer",
-      "url": "https://www.theverge.com/tech/987888/tado-smart-thermostat-x-2nd-gen-launch-google-nest",
-      "pubDate": "2026-09-02T14:15:00.000Z"
     },
     {
       "source": "MacRumors",
@@ -185,13 +255,6 @@
       "pubDate": "2026-09-02T13:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "‘Wordle in 1’ is the NYT’s new puzzle just for subscribers",
-      "url": "https://www.theverge.com/games/988099/nyt-bonus-puzzle-games-weekly-wordle",
-      "pubDate": "2026-09-02T13:00:00.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "9to5Mac Daily: September 2, 2026 – Apple vs OpenAI update, more",
@@ -206,32 +269,11 @@
       "pubDate": "2026-09-02T12:38:02.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "AI will be the defining test of Apple’s environmental commitments, says Greenpeace",
-      "url": "https://9to5mac.com/2026/09/02/ai-will-be-the-defining-test-of-apples-environmental-commitments-says-greenpeace/",
-      "pubDate": "2026-09-02T12:24:47.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Labor Day 2026 deals now live: AirPods Pro 3, M6 Mac mini, AirTag 2, iPhone, more [Updated]",
-      "url": "https://9to5mac.com/2026/09/02/apple-labor-day-2026-deals-live/",
-      "pubDate": "2026-09-02T12:17:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Mac Studio Buyer's Guide: M5 Max vs. M5 Ultra",
       "url": "https://www.macrumors.com/guide/m5-max-vs-m5-ultra/",
       "pubDate": "2026-09-02T12:07:59.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Elon Musk’s heterodox robotaxi philosophy gets put to the test",
-      "url": "https://www.theverge.com/transportation/987901/tesla-cybercab-launch-elon-musk-robotaxi-camera-lidar",
-      "pubDate": "2026-09-02T12:00:00.000Z"
     },
     {
       "source": "MacRumors",
@@ -248,32 +290,11 @@
       "pubDate": "2026-09-02T11:48:16.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Dropbox breach seemingly caused by egregious authentication failure [U]",
-      "url": "https://9to5mac.com/2026/09/02/dropbox-login-breach-seemingly-caused-by-egregious-authentication-failure/",
-      "pubDate": "2026-09-02T11:43:21.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "FBI investigates as hackers sell digital scans of 153M drivers licenses",
-      "url": "https://9to5mac.com/2026/09/02/fbi-investigates-as-hackers-sell-digital-scans-of-153m-drivers-licenses/",
-      "pubDate": "2026-09-02T11:28:58.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Developers can stop supporting Intel Macs, says Apple",
       "url": "https://appleinsider.com/articles/26/09/02/developers-can-stop-supporting-intel-macs-says-apple?utm_source=rss",
       "pubDate": "2026-09-02T11:06:30.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Leakers battle over whether third iPhone 18 Pro color will be silver or black",
-      "url": "https://9to5mac.com/2026/09/02/leakers-battle-over-whether-third-iphone-18-pro-color-will-be-silver-or-black/",
-      "pubDate": "2026-09-02T10:53:31.000Z"
     },
     {
       "source": "AppleInsider",
@@ -325,20 +346,6 @@
       "pubDate": "2026-09-01T21:50:32.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Maps Renames Lake Ontario 'Lake America'",
-      "url": "https://www.macrumors.com/2026/09/01/apple-maps-lake-america/",
-      "pubDate": "2026-09-01T20:58:35.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "macOS Golden Gate Seems to Hint at MacBook Pro With OLED Display",
-      "url": "https://www.macrumors.com/2026/09/01/macos-golden-gate-hdr-liquid-glass/",
-      "pubDate": "2026-09-01T19:34:56.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Diagnosing sentiment in my typo-reporting workflow",
@@ -365,13 +372,6 @@
       "title": "Blast from the past",
       "url": "https://sixcolors.com/post/2026/08/blast-from-the-past/",
       "pubDate": "2026-08-31T21:25:13.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "How to tap into network debugging",
-      "url": "https://sixcolors.com/post/2026/08/how-to-tap-into-network-debugging/",
-      "pubDate": "2026-08-31T20:20:11.000Z"
     }
   ]
 }
