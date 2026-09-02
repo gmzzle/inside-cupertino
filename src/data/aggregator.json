@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T19:48:11.830Z",
+  "generatedAt": "2026-09-02T22:40:04.536Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,55 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "US government worried that AI companies can't innovate without legal theft",
+      "url": "https://appleinsider.com/articles/26/09/02/us-government-worried-that-ai-companies-cant-innovate-without-legal-theft?utm_source=rss",
+      "pubDate": "2026-09-02T21:48:29.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) Clockwise 672: OnlyMolars",
+      "url": "https://sixcolors.com/podcast/2026/09/clockwise-672-onlymolars/",
+      "pubDate": "2026-09-02T21:38:09.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Rare Working Apple-1 Could Fetch $800,000 at Auction",
+      "url": "https://www.macrumors.com/2026/09/02/hatfield-apple-1-auction/",
+      "pubDate": "2026-09-02T21:02:32.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Hobby Lobby stealthily adds support for Apple Pay",
+      "url": "https://appleinsider.com/articles/26/09/02/hobby-lobby-stealthily-adds-support-for-apple-pay?utm_source=rss",
+      "pubDate": "2026-09-02T20:52:38.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's smart home display could be coming soon, sounds amazing",
+      "url": "https://appleinsider.com/articles/26/09/02/apples-smart-home-display-could-be-coming-soon-sounds-amazing?utm_source=rss",
+      "pubDate": "2026-09-02T20:16:02.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+      "pubDate": "2026-09-02T20:11:40.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Ryan Reynolds’ new Apple TV spy movie is a winner, reviews here",
+      "url": "https://9to5mac.com/2026/09/02/ryan-reynolds-new-apple-tv-spy-movie-is-a-winner-reviews-here/",
+      "pubDate": "2026-09-02T19:53:35.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -157,13 +206,6 @@
       "pubDate": "2026-09-02T15:36:43.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Continuous glucose monitors are about to get more complicated",
-      "url": "https://www.theverge.com/column/988242/optimizer-abbott-libre-duo-ketones-diabetic-ketoacidosis",
-      "pubDate": "2026-09-02T15:30:00.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Deals: AirPods Pro 3 $50 off, M5 MacBook Air $240 off, M6 Mac mini, accessories from $5.50, more",
@@ -220,6 +262,13 @@
       "pubDate": "2026-09-02T14:00:22.000Z"
     },
     {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) The Rebound 614: That’s People",
+      "url": "https://sixcolors.com/podcast/2026/09/the-rebound-614-thats-people/",
+      "pubDate": "2026-09-02T14:00:00.000Z"
+    },
+    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Apple Wallet driver’s license support launches in Oklahoma",
@@ -255,13 +304,6 @@
       "pubDate": "2026-09-02T13:00:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: September 2, 2026 – Apple vs OpenAI update, more",
-      "url": "https://9to5mac.com/2026/09/02/daily-september-2-2026/",
-      "pubDate": "2026-09-02T12:50:22.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "How organized crime steals millions through an Apple gift card scam",
@@ -288,20 +330,6 @@
       "title": "M6 Mac mini vs M1 Mac mini: original Apple Silicon versus the new",
       "url": "https://appleinsider.com/inside/mac-mini/vs/m6-mac-mini-vs-m1-mac-mini-five-year-gap-hardware-compared?utm_source=rss",
       "pubDate": "2026-09-02T11:48:16.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Developers can stop supporting Intel Macs, says Apple",
-      "url": "https://appleinsider.com/articles/26/09/02/developers-can-stop-supporting-intel-macs-says-apple?utm_source=rss",
-      "pubDate": "2026-09-02T11:06:30.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Leaker battle: will iPhone 18 Pro come in silver or not?",
-      "url": "https://appleinsider.com/articles/26/09/02/leaker-battle-will-iphone-18-pro-come-in-silver-or-not?utm_source=rss",
-      "pubDate": "2026-09-02T10:28:23.000Z"
     },
     {
       "source": "MacRumors",
@@ -339,39 +367,11 @@
       "pubDate": "2026-09-01T23:35:51.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Here's What Apple is Paying John Ternus to Run the Company",
-      "url": "https://www.macrumors.com/2026/09/01/apple-ceo-john-ternus-compensation/",
-      "pubDate": "2026-09-01T21:50:32.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Diagnosing sentiment in my typo-reporting workflow",
       "url": "https://sixcolors.com/post/2026/09/the-wrinkle-in-my-typo-workflow/",
       "pubDate": "2026-09-01T18:00:39.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "App Report: AI to the rescue! No… really",
-      "url": "https://sixcolors.com/post/2026/09/app-report-ai-to-the-rescue-no-really/",
-      "pubDate": "2026-09-01T16:00:11.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) Upgrade 635: The 2026 September Event Draft",
-      "url": "https://sixcolors.com/podcast/2026/08/upgrade-635-the-2026-september-event-draft/",
-      "pubDate": "2026-08-31T22:24:48.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Blast from the past",
-      "url": "https://sixcolors.com/post/2026/08/blast-from-the-past/",
-      "pubDate": "2026-08-31T21:25:13.000Z"
     }
   ]
 }
