@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T19:51:10.845Z",
+  "generatedAt": "2026-09-03T22:39:10.766Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,11 +24,60 @@
   ],
   "items": [
     {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "M6 vs. M5 Pro Mac Mini Buyer's Guide",
+      "url": "https://www.macrumors.com/guide/m6-vs-m5-pro-mac-mini/",
+      "pubDate": "2026-09-03T22:00:11.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "You can watch the coolant flow inside Ugreen’s liquid-cooled power bank",
+      "url": "https://www.theverge.com/tech/988648/ugreen-magflow-pro-magnetic-wireless-power-bank-10k-liquid-cooling",
+      "pubDate": "2026-09-03T22:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "MacBook Neo 2: Here’s everything we know so far",
+      "url": "https://9to5mac.com/2026/09/03/macbook-neo-2-features-release-date/",
+      "pubDate": "2026-09-03T21:00:37.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Dungeons &#038; Dragons is getting a &#8216;Ravenloft&#8217; live-action Netflix series",
+      "url": "https://www.theverge.com/entertainment/989880/dungeons-and-dragons-ravenloft-netflix",
+      "pubDate": "2026-09-03T20:48:05.000Z"
+    },
+    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Global chemical giant BASF sues Apple over Face ID tech",
       "url": "https://appleinsider.com/articles/26/09/03/apples-face-id-technology-target-of-latest-lawsuit-from-german-company-basf?utm_source=rss",
-      "pubDate": "2026-09-03T19:49:40.000Z"
+      "pubDate": "2026-09-03T20:39:40.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone 18 Pro and Pro Max: Two new display upgrades coming next week",
+      "url": "https://9to5mac.com/2026/09/03/iphone-18-pro-new-display-upgrades-are-coming-in-two-ways/",
+      "pubDate": "2026-09-03T20:29:33.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Foldable iPhone Ultra: The Latest Rumors Before Apple's Event",
+      "url": "https://www.macrumors.com/2026/09/03/iphone-ultra-latest-rumors/",
+      "pubDate": "2026-09-03T20:10:51.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "John Ternus is now Apple CEO, last-minute iPhone event rumors, Apple TV price increase",
+      "url": "https://9to5mac.com/2026/09/03/happy-hour-606/",
+      "pubDate": "2026-09-03T20:00:29.000Z"
     },
     {
       "source": "9to5Mac",
@@ -171,20 +220,6 @@
       "pubDate": "2026-09-03T16:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Lenovo’s new MacBook Neo competitor comes in two sizes and seven colors",
-      "url": "https://www.theverge.com/tech/988765/lenovo-ideapad-vibe-laptop-macbook-neo-competitor-ifa-colors-price-specs",
-      "pubDate": "2026-09-03T16:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "This ultra-thin Lenovo laptop concept uses solid-state cooling",
-      "url": "https://www.theverge.com/tech/988882/lenovo-project-aeroblade-concept-frore-airjet-silent-cooling",
-      "pubDate": "2026-09-03T16:00:00.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Apple’s big roadmap for new Mac and iPad models revealed: report",
@@ -204,13 +239,6 @@
       "title": "Apple AirPods Pro 3 are down to $199 during Amazon's Labor Day Sale",
       "url": "https://appleinsider.com/articles/26/09/03/apple-airpods-pro-3-are-down-to-199-during-amazons-labor-day-sale?utm_source=rss",
       "pubDate": "2026-09-03T15:28:39.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "AI outage: Claude, ChatGPT, and Grok are currently down for many users [U]",
-      "url": "https://9to5mac.com/2026/09/03/chatgpt-and-codex-are-experiencing-an-outage-for-many-users/",
-      "pubDate": "2026-09-03T14:57:31.000Z"
     },
     {
       "source": "AppleInsider",
@@ -255,25 +283,11 @@
       "pubDate": "2026-09-03T14:33:59.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple will launch six major new products next week, here’s what’s coming",
-      "url": "https://9to5mac.com/2026/09/03/apple-will-launch-six-major-new-products-next-week-heres-whats-coming/",
-      "pubDate": "2026-09-03T14:25:36.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Apparently Cancels Plans for Two New MacBooks",
       "url": "https://www.macrumors.com/2026/09/03/apple-cancels-plans-for-two-new-macbooks/",
       "pubDate": "2026-09-03T14:12:51.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "We need to talk about Siri AI for Apple Watch",
-      "url": "https://9to5mac.com/2026/09/03/we-need-to-talk-about-siri-ai-for-apple-watch/",
-      "pubDate": "2026-09-03T14:07:07.000Z"
     },
     {
       "source": "MacRumors",
@@ -330,20 +344,6 @@
       "title": "Anker's New MindBase Home Hub Runs AI Locally, Doubles as NAS",
       "url": "https://www.macrumors.com/2026/09/03/anker-mindbase-new-cameras/",
       "pubDate": "2026-09-03T07:30:13.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Claude, ChatGPT, and Grok Are Down on iPhone and Web",
-      "url": "https://www.macrumors.com/2026/09/03/chatgpt-claude-and-grok-are-down/",
-      "pubDate": "2026-09-03T07:01:33.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Govee Debuts $400 Matter-Enabled Sky Ceiling Light",
-      "url": "https://www.macrumors.com/2026/09/03/govee-sky-ceiling-light/",
-      "pubDate": "2026-09-03T06:00:11.000Z"
     },
     {
       "source": "Six Colors",
