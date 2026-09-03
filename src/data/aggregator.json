@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T16:27:06.752Z",
+  "generatedAt": "2026-09-03T19:51:10.845Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,118 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Global chemical giant BASF sues Apple over Face ID tech",
+      "url": "https://appleinsider.com/articles/26/09/03/apples-face-id-technology-target-of-latest-lawsuit-from-german-company-basf?utm_source=rss",
+      "pubDate": "2026-09-03T19:49:40.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple’s Calendar app in iOS 27 has brand new design for key features",
+      "url": "https://9to5mac.com/2026/09/03/apples-calendar-app-in-ios-27-has-brand-new-design-for-key-features/",
+      "pubDate": "2026-09-03T19:02:28.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "OpenAI releasing major upgrade to ChatGPT and Codex with GPT-6 Astra, details here",
+      "url": "https://9to5mac.com/2026/09/03/openai-releasing-major-upgrade-to-chatgpt-and-codex-with-gpt-6-astra-details-here/",
+      "pubDate": "2026-09-03T18:48:48.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple TV picks up sci-fi thriller 'Waffle House Index' in seven-figure deal",
+      "url": "https://appleinsider.com/articles/26/09/03/apple-tv-picks-up-sci-fi-thriller-waffle-house-index-in-seven-figure-deal?utm_source=rss",
+      "pubDate": "2026-09-03T18:43:03.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Congressman says TikTok backed out of a meeting to avoid child safety questions",
+      "url": "https://www.theverge.com/policy/989769/tiktok-house-committee-china-kids-online-safety",
+      "pubDate": "2026-09-03T18:37:57.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "M4 Macs can share local AI work with PCs using Nvidia PAIR",
+      "url": "https://appleinsider.com/articles/26/09/03/m4-macs-can-share-local-ai-work-with-pcs-using-nvidia-pair?utm_source=rss",
+      "pubDate": "2026-09-03T18:35:42.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Three advantages iPhone Ultra will have over iPhone 18 Pro",
+      "url": "https://9to5mac.com/2026/09/03/three-advantages-iphone-ultra-will-have-over-iphone-18-pro/",
+      "pubDate": "2026-09-03T18:17:57.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Samsung&#8217;s beloved Q Series sound system is hundreds off for Labor Day",
+      "url": "https://www.theverge.com/gadgets/989499/samsung-q-series-soundbar-dbrand-killswitch-2-deal-sale",
+      "pubDate": "2026-09-03T18:14:07.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+      "pubDate": "2026-09-03T18:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Vision Pro was just used in a first-of-its-kind surgery",
+      "url": "https://9to5mac.com/2026/09/03/apple-vision-pro-was-just-used-in-a-first-of-its-kind-surgery/",
+      "pubDate": "2026-09-03T17:59:08.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple Studio Display drops to $1,499 with Labor Day deals",
+      "url": "https://appleinsider.com/articles/26/09/03/apple-studio-display-drops-to-1499-with-labor-day-deals?utm_source=rss",
+      "pubDate": "2026-09-03T17:56:44.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Watch loses a useful multitasking feature in watchOS 27 that I’ve been missing",
+      "url": "https://9to5mac.com/2026/09/03/apple-watch-loses-a-useful-multitasking-feature-in-watchos-27-that-ive-been-missing/",
+      "pubDate": "2026-09-03T17:44:55.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Maxed-out iPhone Ultra likely to break the $3,000 mark",
+      "url": "https://appleinsider.com/articles/26/09/03/maxed-out-iphone-ultra-likely-to-break-the-3000-mark?utm_source=rss",
+      "pubDate": "2026-09-03T17:06:37.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Pfizer launches immersive Apple Vision Pro experience to explain cancer research",
+      "url": "https://appleinsider.com/articles/26/09/03/pfizer-launches-immersive-apple-vision-pro-experience-to-explain-cancer-research?utm_source=rss",
+      "pubDate": "2026-09-03T17:05:11.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Microsoft slashes Xbox Cloud Gaming to just 15 hours a month for Ultimate subscribers",
+      "url": "https://www.theverge.com/news/989166/microsoft-xbox-cloud-gaming-hourly-limits-changes",
+      "pubDate": "2026-09-03T17:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Microsoft opens up Xbox Cloud Gaming with new pay-as-you-go option",
+      "url": "https://www.theverge.com/news/989211/microsoft-xbox-cloud-gaming-pay-as-you-go-option",
+      "pubDate": "2026-09-03T17:00:00.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -73,34 +185,6 @@
       "pubDate": "2026-09-03T16:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Nvidia’s new RTX Spark laptops launch in October with two different configs",
-      "url": "https://www.theverge.com/news/989133/nvidia-rtx-spark-laptops-n1x-specifications",
-      "pubDate": "2026-09-03T16:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
-      "pubDate": "2026-09-03T16:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "This 14-inch laptop has a screen that unrolls to 17 inches",
-      "url": "https://www.theverge.com/tech/989477/lenovo-thinkbook-project-swan-concept-laptop-14-17-rollable-ifa-announcement",
-      "pubDate": "2026-09-03T16:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Google now lets you chat with Gmail, Docs, and Keep",
-      "url": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
-      "pubDate": "2026-09-03T16:00:00.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Apple’s big roadmap for new Mac and iPad models revealed: report",
@@ -108,16 +192,9 @@
       "pubDate": "2026-09-03T15:49:51.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The best tech and gadgets announced at IFA so far",
-      "url": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones",
-      "pubDate": "2026-09-03T15:37:59.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: AirPods Pro 3, 2026 Apple Studio Display $214 off, iPad Air $100 off, charging gear, more",
+      "title": "Deals: AirPods Pro 3, 2026 Apple Studio Display XDR $329+ off, iPad Air $100 off, charging gear, more",
       "url": "https://9to5mac.com/2026/09/03/deals-airpods-pro-3-2026-apple-studio-display-ipad-air/",
       "pubDate": "2026-09-03T15:29:04.000Z"
     },
@@ -129,23 +206,9 @@
       "pubDate": "2026-09-03T15:28:39.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Maxed-out iPhone Ultra likely to break the $3,000 mark",
-      "url": "https://appleinsider.com/articles/26/09/03/maxed-out-iphone-ultra-likely-to-break-the-3000-mark?utm_source=rss",
-      "pubDate": "2026-09-03T15:21:40.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple sued over App Tracking Transparency in $2.7 billion class action",
-      "url": "https://appleinsider.com/articles/26/09/03/apple-sued-over-app-tracking-transparency-in-27-billion-class-action?utm_source=rss",
-      "pubDate": "2026-09-03T15:17:50.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
-      "title": "AI outage: Claude, ChatGPT, and Grok are currently down for many users",
+      "title": "AI outage: Claude, ChatGPT, and Grok are currently down for many users [U]",
       "url": "https://9to5mac.com/2026/09/03/chatgpt-and-codex-are-experiencing-an-outage-for-many-users/",
       "pubDate": "2026-09-03T14:57:31.000Z"
     },
@@ -206,13 +269,6 @@
       "pubDate": "2026-09-03T14:12:51.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "There is a way to run Wallpaper Engine files on Mac, with caveats",
-      "url": "https://appleinsider.com/inside/macos-27/tips/there-is-a-way-to-run-wallpaper-engine-files-on-mac-with-caveats?utm_source=rss",
-      "pubDate": "2026-09-03T14:12:34.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "We need to talk about Siri AI for Apple Watch",
@@ -225,13 +281,6 @@
       "title": "Mini-LED MacBook Pro Models Could Stick Around Until 2028",
       "url": "https://www.macrumors.com/2026/09/03/mini-led-macbook-pro-models-until-2028/",
       "pubDate": "2026-09-03T14:01:43.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Brydge announces color-matched keyboards for the entry-level iPad",
-      "url": "https://9to5mac.com/2026/09/03/brydge-announces-color-matched-keyboards-for-the-entry-level-ipad/",
-      "pubDate": "2026-09-03T14:00:03.000Z"
     },
     {
       "source": "MacRumors",
@@ -248,13 +297,6 @@
       "pubDate": "2026-09-03T13:50:28.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple faces yet another lawsuit over App Tracking Transparency, with a twist [U]",
-      "url": "https://9to5mac.com/2026/09/03/apple-faces-yet-another-lawsuit-over-app-tracking-transparency-with-a-twist/",
-      "pubDate": "2026-09-03T13:20:58.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "iPhone 18 Pro chip leak hints at performance upgrades in two key areas",
@@ -269,46 +311,11 @@
       "pubDate": "2026-09-03T12:41:56.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Leaker claims iPhone 18 Pro chip will have 7 GPU cores and faster RAM",
-      "url": "https://9to5mac.com/2026/09/03/leaker-claims-iphone-18-pro-chip-will-have-7-gpu-cores-and-faster-ram/",
-      "pubDate": "2026-09-03T12:15:08.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iPhone 18 Pro Chip Leak Indicates Major GPU and Memory Bandwidth Improvements",
       "url": "https://www.macrumors.com/2026/09/03/iphone-18-pro-chip-leak-suggests-improvements/",
       "pubDate": "2026-09-03T12:06:35.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: September 3, 2026 – More Apple executive news, Apple Maps",
-      "url": "https://9to5mac.com/2026/09/03/daily-september-3-2026/",
-      "pubDate": "2026-09-03T12:00:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPhone Air review one year later: More than the sum of its flaws",
-      "url": "https://appleinsider.com/articles/26/09/03/iphone-air-review-one-year-later-more-than-the-sum-of-its-flaws?utm_source=rss",
-      "pubDate": "2026-09-03T11:38:46.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple paying 400% more for iPhone 18 Pro memory, says TrendForce",
-      "url": "https://9to5mac.com/2026/09/03/apple-paying-400-more-for-iphone-18-pro-memory-says-trendforce/",
-      "pubDate": "2026-09-03T11:37:29.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "US government worried that AI companies can't innovate without legal theft",
-      "url": "https://appleinsider.com/articles/26/09/02/us-government-worried-that-ai-companies-cant-innovate-without-legal-theft?utm_source=rss",
-      "pubDate": "2026-09-03T11:11:46.000Z"
     },
     {
       "source": "MacRumors",
@@ -365,13 +372,6 @@
       "title": "Diagnosing sentiment in my typo-reporting workflow",
       "url": "https://sixcolors.com/post/2026/09/the-wrinkle-in-my-typo-workflow/",
       "pubDate": "2026-09-01T18:00:39.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "App Report: AI to the rescue! No… really",
-      "url": "https://sixcolors.com/post/2026/09/app-report-ai-to-the-rescue-no-really/",
-      "pubDate": "2026-09-01T16:00:11.000Z"
     }
   ]
 }
