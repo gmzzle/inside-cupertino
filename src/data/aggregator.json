@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T01:07:28.952Z",
+  "generatedAt": "2026-09-03T05:50:25.423Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "There is a way to run Wallpaper Engine files on Mac, with caveats",
+      "url": "https://appleinsider.com/inside/macos-27/tips/there-is-a-way-to-run-wallpaper-engine-files-on-mac-with-caveats?utm_source=rss",
+      "pubDate": "2026-09-03T03:00:33.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -285,9 +292,9 @@
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone Driver's License Feature in Apple Wallet Just Launched in 16th U.S. State",
+      "title": "iPhone Driver's License Feature in Apple Wallet Launches in Oklahoma",
       "url": "https://www.macrumors.com/2026/09/02/apple-wallet-id-feature-16th-us-state/",
-      "pubDate": "2026-09-02T13:38:58.000Z"
+      "pubDate": "2026-09-02T13:38:49.000Z"
     },
     {
       "source": "9to5Mac",
@@ -302,13 +309,6 @@
       "title": "Trust fall: TSMC's relationship with Apple is something Intel struggles to match",
       "url": "https://appleinsider.com/articles/26/09/02/trust-fall-tsmcs-relationship-with-apple-is-something-intel-struggles-to-match?utm_source=rss",
       "pubDate": "2026-09-02T13:12:18.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "How organized crime steals millions through an Apple gift card scam",
-      "url": "https://appleinsider.com/articles/26/09/02/how-organized-crime-steals-millions-through-an-apple-gift-card-scam?utm_source=rss",
-      "pubDate": "2026-09-02T12:38:02.000Z"
     },
     {
       "source": "MacRumors",
