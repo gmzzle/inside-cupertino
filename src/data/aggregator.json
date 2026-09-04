@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T00:59:50.526Z",
+  "generatedAt": "2026-09-04T11:25:07.639Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,111 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's suppliers only made a few hundred iPhone Ultra units per day in August",
+      "url": "https://appleinsider.com/articles/26/09/04/apples-suppliers-only-made-a-few-hundred-iphone-ultra-units-in-august?utm_source=rss",
+      "pubDate": "2026-09-04T11:20:41.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Inside iMovie: Getting started with video editing in iOS 27 and iPadOS 27",
+      "url": "https://appleinsider.com/inside/ios-27/tips/inside-imovie-getting-started-with-video-editing-in-ios-27-and-ipados-27?utm_source=rss",
+      "pubDate": "2026-09-04T11:05:38.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Why AI food looks like that",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
+      "pubDate": "2026-09-04T11:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers",
+      "url": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers",
+      "pubDate": "2026-09-04T10:44:15.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+      "pubDate": "2026-09-04T10:41:48.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone Ultra Production Hitting Just 'a Few Hundred' a Day, Says Nikkei",
+      "url": "https://www.macrumors.com/2026/09/04/iphone-ultra-production-extremely-limited/",
+      "pubDate": "2026-09-04T10:09:03.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "This NAS company wants to run your local smart home",
+      "url": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
+      "pubDate": "2026-09-04T09:41:44.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Is Testing a Four-HomePod Surround System, Code Suggests",
+      "url": "https://www.macrumors.com/2026/09/04/apple-testing-four-homepod-surround-system/",
+      "pubDate": "2026-09-04T09:30:01.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "New action comedy movie Mayday is now streaming on Apple TV",
+      "url": "https://9to5mac.com/2026/09/04/new-action-comedy-movie-mayday-is-now-streaming-on-apple-tv/",
+      "pubDate": "2026-09-04T09:10:03.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Lexar’s Muse is an ultra-slim portable SSD that’s less than 4mm thick",
+      "url": "https://www.theverge.com/tech/986960/lexar-muse-ultra-thin-ssd-storage-drive-proprietary-cable",
+      "pubDate": "2026-09-04T07:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Aqara goes all in on smart lighting",
+      "url": "https://www.theverge.com/tech/989581/aqara-smart-lighting-ifa-2026",
+      "pubDate": "2026-09-04T07:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "This rugged phone’s removable camera can survive and capture your extreme adventures",
+      "url": "https://www.theverge.com/tech/989657/rugone-xsnap-7-pro-smartphone-removable-action-camera-rugged-waterproof",
+      "pubDate": "2026-09-04T07:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Five Sleeps Until iPhone 18 Pro: Here's What We Know",
+      "url": "https://www.macrumors.com/2026/09/03/iphone-18-pro-heres-what-we-know/",
+      "pubDate": "2026-09-04T02:25:35.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "HomePods may finally get surround sound through four connected speakers",
+      "url": "https://appleinsider.com/articles/26/09/04/homepods-may-finally-get-surround-sound-through-four-connected-speakers?utm_source=rss",
+      "pubDate": "2026-09-04T01:50:07.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control",
+      "url": "https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40",
+      "pubDate": "2026-09-04T01:49:25.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -52,25 +157,11 @@
       "pubDate": "2026-09-03T22:00:11.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "You can watch the coolant flow inside Ugreen’s liquid-cooled power bank",
-      "url": "https://www.theverge.com/tech/988648/ugreen-magflow-pro-magnetic-wireless-power-bank-10k-liquid-cooling",
-      "pubDate": "2026-09-03T22:00:00.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "MacBook Neo 2: Here’s everything we know so far",
       "url": "https://9to5mac.com/2026/09/03/macbook-neo-2-features-release-date/",
       "pubDate": "2026-09-03T21:00:37.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Dungeons &#038; Dragons is getting a &#8216;Ravenloft&#8217; live-action Netflix series",
-      "url": "https://www.theverge.com/entertainment/989880/dungeons-and-dragons-ravenloft-netflix",
-      "pubDate": "2026-09-03T20:48:05.000Z"
     },
     {
       "source": "9to5Mac",
@@ -115,13 +206,6 @@
       "pubDate": "2026-09-03T18:43:03.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Congressman says TikTok backed out of a meeting to avoid child safety questions",
-      "url": "https://www.theverge.com/policy/989769/tiktok-house-committee-china-kids-online-safety",
-      "pubDate": "2026-09-03T18:37:57.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "M4 Macs can share local AI work with PCs using Nvidia PAIR",
@@ -134,20 +218,6 @@
       "title": "Three advantages iPhone Ultra will have over iPhone 18 Pro",
       "url": "https://9to5mac.com/2026/09/03/three-advantages-iphone-ultra-will-have-over-iphone-18-pro/",
       "pubDate": "2026-09-03T18:17:57.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Samsung&#8217;s beloved Q Series sound system is hundreds off for Labor Day",
-      "url": "https://www.theverge.com/gadgets/989499/samsung-q-series-soundbar-dbrand-killswitch-2-deal-sale",
-      "pubDate": "2026-09-03T18:14:07.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
-      "pubDate": "2026-09-03T18:00:00.000Z"
     },
     {
       "source": "9to5Mac",
@@ -185,20 +255,6 @@
       "pubDate": "2026-09-03T17:05:11.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Microsoft slashes Xbox Cloud Gaming to just 15 hours a month for Ultimate subscribers",
-      "url": "https://www.theverge.com/news/989166/microsoft-xbox-cloud-gaming-hourly-limits-changes",
-      "pubDate": "2026-09-03T17:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Microsoft opens up Xbox Cloud Gaming with new pay-as-you-go option",
-      "url": "https://www.theverge.com/news/989211/microsoft-xbox-cloud-gaming-pay-as-you-go-option",
-      "pubDate": "2026-09-03T17:00:00.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Apple has reportedly canceled innovative product that was ‘Ternus priority’",
@@ -213,13 +269,6 @@
       "pubDate": "2026-09-03T16:08:40.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "I held the first truly bezel-free phone",
-      "url": "https://www.theverge.com/tech/985009/tecno-bezelless-concept-phone-ifa",
-      "pubDate": "2026-09-03T16:00:00.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Apple’s big roadmap for new Mac and iPad models revealed: report",
@@ -227,39 +276,11 @@
       "pubDate": "2026-09-03T15:49:51.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: AirPods Pro 3, 2026 Apple Studio Display XDR $329+ off, iPad Air $100 off, charging gear, more",
-      "url": "https://9to5mac.com/2026/09/03/deals-airpods-pro-3-2026-apple-studio-display-ipad-air/",
-      "pubDate": "2026-09-03T15:29:04.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple AirPods Pro 3 are down to $199 during Amazon's Labor Day Sale",
       "url": "https://appleinsider.com/articles/26/09/03/apple-airpods-pro-3-are-down-to-199-during-amazons-labor-day-sale?utm_source=rss",
       "pubDate": "2026-09-03T15:28:39.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "OLED MacBook might get M5 Ultra chip, but it feels unlikely",
-      "url": "https://appleinsider.com/articles/26/09/03/oled-macbook-might-get-m5-ultra-chip-but-it-feels-unlikely?utm_source=rss",
-      "pubDate": "2026-09-03T14:51:54.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Long-rumored all-screen folding MacBook Pro project may be dead",
-      "url": "https://appleinsider.com/articles/26/09/03/long-rumored-all-screen-folding-macbook-pro-project-may-be-dead?utm_source=rss",
-      "pubDate": "2026-09-03T14:49:43.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple may find OLED middle-ground between MacBook Pro and Air in 2029",
-      "url": "https://appleinsider.com/articles/26/09/03/apple-may-find-oled-middle-ground-between-macbook-pro-and-air-in-2029?utm_source=rss",
-      "pubDate": "2026-09-03T14:48:54.000Z"
     },
     {
       "source": "MacRumors",
@@ -311,34 +332,6 @@
       "pubDate": "2026-09-03T13:50:28.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPhone 18 Pro chip leak hints at performance upgrades in two key areas",
-      "url": "https://appleinsider.com/articles/26/09/03/iphone-18-pro-chip-leak-hints-at-performance-upgrades-in-two-key-areas?utm_source=rss",
-      "pubDate": "2026-09-03T12:53:44.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone 18 Pro Chip Leak Indicates Major GPU and Memory Bandwidth Improvements",
-      "url": "https://www.macrumors.com/2026/09/03/iphone-18-pro-chip-leak-suggests-improvements/",
-      "pubDate": "2026-09-03T12:06:35.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone 18 Pro Prices Estimated Ahead of Apple Event Next Week",
-      "url": "https://www.macrumors.com/2026/09/03/iphone-18-pro-prices-apple-event-next-week/",
-      "pubDate": "2026-09-03T10:41:31.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Anker's New MindBase Home Hub Runs AI Locally, Doubles as NAS",
-      "url": "https://www.macrumors.com/2026/09/03/anker-mindbase-new-cameras/",
-      "pubDate": "2026-09-03T07:30:13.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) Clockwise 672: OnlyMolars",
@@ -372,6 +365,13 @@
       "title": "App Report: AI to the rescue! No… really",
       "url": "https://sixcolors.com/post/2026/09/app-report-ai-to-the-rescue-no-really/",
       "pubDate": "2026-09-01T16:00:11.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) Upgrade 635: The 2026 September Event Draft",
+      "url": "https://sixcolors.com/podcast/2026/08/upgrade-635-the-2026-september-event-draft/",
+      "pubDate": "2026-08-31T22:24:48.000Z"
     }
   ]
 }
