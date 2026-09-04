@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T19:37:00.784Z",
+  "generatedAt": "2026-09-04T22:21:57.552Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,97 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Foldable 'iPhone Ultra' Still Likely to Be Missing These Five Features",
+      "url": "https://www.macrumors.com/2026/09/04/foldable-iphone-likely-to-be-missing-these-features/",
+      "pubDate": "2026-09-04T22:00:14.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Audacity 4 is a complete revamp of the ‘world’s most popular’ audio editor",
+      "url": "https://www.theverge.com/tech/990658/audacity-4-update-audio-editing",
+      "pubDate": "2026-09-04T21:23:50.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "CarPlay now works with five major chatbot apps",
+      "url": "https://9to5mac.com/2026/09/04/carplay-now-works-with-five-major-chatbot-apps/",
+      "pubDate": "2026-09-04T21:17:46.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Planning AI Home Security Camera and Service for 2027",
+      "url": "https://www.macrumors.com/2026/09/04/apple-home-security-camera-2027/",
+      "pubDate": "2026-09-04T21:05:37.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "This Week in Apple: Counting Apple CEOs",
+      "url": "https://sixcolors.com/post/2026/09/this-week-in-apple-counting-apple-ceos/",
+      "pubDate": "2026-09-04T21:00:39.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Anthropic's Claude Comes to CarPlay",
+      "url": "https://www.macrumors.com/2026/09/04/anthropics-claude-is-coming-to-carplay/",
+      "pubDate": "2026-09-04T20:43:31.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "watchOS 27 removes three features that Apple Watch users might miss after updating",
+      "url": "https://9to5mac.com/2026/09/04/watchos-27-removes-three-features-that-apple-watch-users-might-miss-after-updating/",
+      "pubDate": "2026-09-04T20:36:32.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "macOS 26.7 Code Hints at Two Unreleased Apple Game Controllers",
+      "url": "https://www.macrumors.com/2026/09/04/macos-26-7-code-game-controllers/",
+      "pubDate": "2026-09-04T20:15:15.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone Duo?",
+      "url": "https://www.macrumors.com/2026/09/04/iphone-duo/",
+      "pubDate": "2026-09-04T19:54:45.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Alogic Expands Display Lineup With New 5K and 6K Models, Debuts New Peripherals",
+      "url": "https://www.macrumors.com/2026/09/04/alogic-new-displays-peripherals/",
+      "pubDate": "2026-09-04T19:51:13.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Fender MIX headphones now have an iPhone app for tuning your sound",
+      "url": "https://9to5mac.com/2026/09/04/fender-mix-headphones-now-have-an-iphone-app-for-tuning-your-sound/",
+      "pubDate": "2026-09-04T19:46:16.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Review: Acer's 6K Touchscreen Display Turns Your Mac Into a Giant iPad, Sort Of",
+      "url": "https://www.macrumors.com/review/acer-6k-touchscreen-display/",
+      "pubDate": "2026-09-04T19:45:56.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The White House is making arcade games racist",
+      "url": "https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright",
+      "pubDate": "2026-09-04T19:42:54.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -77,7 +168,7 @@
       "sourceHomepage": "https://www.macrumors.com",
       "title": "MacRumors Giveaway: Win an iPad Air and Revamped Rock Paper Pencil Kit From Astropad",
       "url": "https://www.macrumors.com/2026/09/04/macrumors-giveaway-astropad-september/",
-      "pubDate": "2026-09-04T17:41:16.000Z"
+      "pubDate": "2026-09-04T17:41:05.000Z"
     },
     {
       "source": "9to5Mac",
@@ -161,7 +252,7 @@
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Labor Day Deals Offer Up to $330 Off Studio Displays and Mac Mini Pre-Order Savings",
       "url": "https://www.macrumors.com/2026/09/04/best-apple-deals-of-the-week-9-4-26/",
-      "pubDate": "2026-09-04T15:34:23.000Z"
+      "pubDate": "2026-09-04T15:34:19.000Z"
     },
     {
       "source": "9to5Mac",
@@ -169,20 +260,6 @@
       "title": "Deals: AirPods, Apple 2026 Studio Displays up to $500 off, M5 MacBook Air $150 off, new Dark Cherry chargers, more",
       "url": "https://9to5mac.com/2026/09/04/deals-airpods-apple-studio-display-m5-macbook-air/",
       "pubDate": "2026-09-04T15:29:07.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Testing New HomePod With Siri AI",
-      "url": "https://www.macrumors.com/2026/09/04/apple-testing-new-homepod-with-siri-ai/",
-      "pubDate": "2026-09-04T15:25:33.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone 20 Rumored to Have Biggest Revamp Since iPhone X",
-      "url": "https://www.macrumors.com/2026/09/04/iphone-20-biggest-revamp-since-iphone-x/",
-      "pubDate": "2026-09-04T15:10:58.000Z"
     },
     {
       "source": "9to5Mac",
@@ -199,13 +276,6 @@
       "pubDate": "2026-09-04T14:55:40.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: September 4, 2026 – iPhone Ultra and iPhone 18 Pro rumors",
-      "url": "https://9to5mac.com/2026/09/04/daily-september-4-2026/",
-      "pubDate": "2026-09-04T14:55:35.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "What to expect at Apple’s September 9th launch event",
@@ -220,25 +290,11 @@
       "pubDate": "2026-09-04T14:52:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "New iPhone 18 Pro report details flagship camera feature and more",
-      "url": "https://9to5mac.com/2026/09/04/new-iphone-18-pro-report-details-flagship-camera-feature-and-more/",
-      "pubDate": "2026-09-04T14:36:10.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Nintendo&#8217;s next two Direct events are both happening next week",
       "url": "https://www.theverge.com/games/990207/nintendo-direct-zelda-40th",
       "pubDate": "2026-09-04T14:29:44.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Planning to Update MacBook Neo in Three Ways",
-      "url": "https://www.macrumors.com/2026/09/04/macbook-neo-2-rumors/",
-      "pubDate": "2026-09-04T14:17:36.000Z"
     },
     {
       "source": "AppleInsider",
@@ -248,46 +304,11 @@
       "pubDate": "2026-09-04T14:08:43.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Reportedly Plans to Release These 14 Products by Early Next Year",
-      "url": "https://www.macrumors.com/2026/09/04/apple-14-more-products-by-early-next-year/",
-      "pubDate": "2026-09-04T13:55:33.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple working on new surround sound, Party Mode features for HomePod",
-      "url": "https://9to5mac.com/2026/09/04/apple-working-on-new-surround-sound-party-mode-features-for-homepod/",
-      "pubDate": "2026-09-04T13:47:17.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
-      "pubDate": "2026-09-04T13:34:12.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Tesla Cybercab is barely on the road and it’s already under investigation",
-      "url": "https://www.theverge.com/transportation/990130/tesla-cybercab-nhtsa-investigation-fmvss-certify",
-      "pubDate": "2026-09-04T13:33:38.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Alogic's newest monitors include a 6K touchscreen and 5K ultrawide",
       "url": "https://appleinsider.com/articles/26/09/04/alogics-newest-monitors-include-a-6k-touchscreen-and-5k-ultrawide?utm_source=rss",
       "pubDate": "2026-09-04T12:35:23.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Ugreen Launches HomeAgent AI Hubs and Liquid-Cooled Qi2 Charger",
-      "url": "https://www.macrumors.com/2026/09/04/ugreen-launches-homeagent-hubs-qi2-chargers/",
-      "pubDate": "2026-09-04T11:57:58.000Z"
     },
     {
       "source": "AppleInsider",
@@ -309,20 +330,6 @@
       "title": "Inside iMovie: Getting started with video editing in iOS 27 and iPadOS 27",
       "url": "https://appleinsider.com/inside/ios-27/tips/inside-imovie-getting-started-with-video-editing-in-ios-27-and-ipados-27?utm_source=rss",
       "pubDate": "2026-09-04T11:05:38.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone Ultra Production Hitting Just 'a Few Hundred' a Day, Says Nikkei",
-      "url": "https://www.macrumors.com/2026/09/04/iphone-ultra-production-extremely-limited/",
-      "pubDate": "2026-09-04T10:09:03.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Is Testing a Four-HomePod Surround System, Code Suggests",
-      "url": "https://www.macrumors.com/2026/09/04/apple-testing-four-homepod-surround-system/",
-      "pubDate": "2026-09-04T09:29:50.000Z"
     },
     {
       "source": "AppleInsider",
@@ -365,13 +372,6 @@
       "title": "App Report: AI to the rescue! No… really",
       "url": "https://sixcolors.com/post/2026/09/app-report-ai-to-the-rescue-no-really/",
       "pubDate": "2026-09-01T16:00:11.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) Upgrade 635: The 2026 September Event Draft",
-      "url": "https://sixcolors.com/podcast/2026/08/upgrade-635-the-2026-september-event-draft/",
-      "pubDate": "2026-08-31T22:24:48.000Z"
     }
   ]
 }
