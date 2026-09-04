@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T16:23:09.467Z",
+  "generatedAt": "2026-09-04T19:37:00.784Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,11 +24,109 @@
   ],
   "items": [
     {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "New profile of John Ternus offers insight into life and reputation of Apple CEO",
+      "url": "https://9to5mac.com/2026/09/04/new-profile-of-john-ternus-offers-insight-into-life-and-reputation-of-apple-ceo/",
+      "pubDate": "2026-09-04T19:17:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple may have two very different game controllers in the works",
+      "url": "https://appleinsider.com/articles/26/09/04/apple-may-have-two-very-different-game-controllers-in-the-works?utm_source=rss",
+      "pubDate": "2026-09-04T19:07:10.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "OpenAI releasing major upgrade to ChatGPT and Codex with GPT-6 Astra, details here",
+      "url": "https://9to5mac.com/2026/09/04/openai-releasing-major-upgrade-to-chatgpt-and-codex-with-gpt-6-astra-details-here/",
+      "pubDate": "2026-09-04T18:52:35.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "HomeKit Weekly: ULTRALOQ’s Bolt Fingerprint has everything you’d want except Home Key",
+      "url": "https://9to5mac.com/2026/09/04/ultraloq-bolt-fingerprint/",
+      "pubDate": "2026-09-04T18:39:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "SpaceXAI expands Grok Bot to iPad as access expands to cheaper plans",
+      "url": "https://9to5mac.com/2026/09/04/spacexai-expands-grok-bot-to-ipad-as-access-expands-to-cheaper-plans/",
+      "pubDate": "2026-09-04T18:30:53.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "GoPro says it&#8217;s still committed &#8216;to your collective stoke&#8217;",
+      "url": "https://www.theverge.com/gadgets/990425/gopro-nick-woodman-starman-letter",
+      "pubDate": "2026-09-04T18:00:45.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Roland is getting into generative AI music with Melody Flip",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+      "pubDate": "2026-09-04T17:51:35.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "MacRumors Giveaway: Win an iPad Air and Revamped Rock Paper Pencil Kit From Astropad",
+      "url": "https://www.macrumors.com/2026/09/04/macrumors-giveaway-astropad-september/",
+      "pubDate": "2026-09-04T17:41:16.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Silo season 4 just got its release date on Apple TV and first trailer",
+      "url": "https://9to5mac.com/2026/09/04/silo-season-4-just-got-its-release-date-on-apple-tv-and-first-trailer/",
+      "pubDate": "2026-09-04T17:35:19.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "This is the folding iPhone, if case manufacturers are right",
+      "url": "https://appleinsider.com/articles/26/09/04/this-is-the-folding-iphone-if-case-manufacters-are-right?utm_source=rss",
+      "pubDate": "2026-09-04T17:31:24.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "AGI is whatever you want it to be",
+      "url": "https://www.theverge.com/podcast/990323/agi-is-whatever-you-want-it-to-be",
+      "pubDate": "2026-09-04T17:16:49.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Aqara Debuts Five Matter Smart Lights With Apple Home Support",
+      "url": "https://www.macrumors.com/2026/09/04/aqara-matter-smart-lights-2/",
+      "pubDate": "2026-09-04T17:12:55.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple still on track for a revolutionary iPhone 20 in 2027",
+      "url": "https://appleinsider.com/articles/26/09/04/apple-still-on-track-for-a-revolutionary-iphone-20-in-2027?utm_source=rss",
+      "pubDate": "2026-09-04T16:53:30.000Z"
+    },
+    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "The MacRumors Show: iPhone 18 Pro Event Expectations",
       "url": "https://www.macrumors.com/2026/09/04/the-macrumors-show-iphone-18-pro-event-expectations/",
       "pubDate": "2026-09-04T16:13:18.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+      "url": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
+      "pubDate": "2026-09-04T16:05:57.000Z"
     },
     {
       "source": "9to5Mac",
@@ -136,13 +234,6 @@
       "pubDate": "2026-09-04T14:29:44.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "This is the folding iPhone, if case manufacters are right",
-      "url": "https://appleinsider.com/articles/26/09/04/this-is-the-folding-iphone-if-case-manufacters-are-right?utm_source=rss",
-      "pubDate": "2026-09-04T14:26:28.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Planning to Update MacBook Neo in Three Ways",
@@ -185,60 +276,11 @@
       "pubDate": "2026-09-04T13:33:38.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple plans to launch home security and monitoring service: report",
-      "url": "https://9to5mac.com/2026/09/04/apple-plans-to-launch-home-security-and-monitoring-service-report/",
-      "pubDate": "2026-09-04T13:29:19.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Xbox app is coming to TCL TVs just as Microsoft rolls out pay-as-you-go cloud gaming",
-      "url": "https://www.theverge.com/news/990132/microsoft-xbox-tv-app-tcl-smart-tvs",
-      "pubDate": "2026-09-04T13:25:09.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple making just a few hundred iPhone Ultras per day, per report",
-      "url": "https://9to5mac.com/2026/09/04/apple-making-just-a-few-hundred-iphone-ultras-per-day-per-report/",
-      "pubDate": "2026-09-04T13:11:04.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple fixes frustrating TestFlight app regression that search feature update added",
-      "url": "https://9to5mac.com/2026/09/04/apple-fixes-frustrating-testflight-app-regression-that-search-feature-update-added/",
-      "pubDate": "2026-09-04T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "iRobot unveils the Roomba Duo",
-      "url": "https://www.theverge.com/tech/990045/irobot-roomba-duo-concept-robot-vacuum",
-      "pubDate": "2026-09-04T12:53:49.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Alogic's newest monitors include a 6K touchscreen and 5K ultrawide",
       "url": "https://appleinsider.com/articles/26/09/04/alogics-newest-monitors-include-a-6k-touchscreen-and-5k-ultrawide?utm_source=rss",
       "pubDate": "2026-09-04T12:35:23.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Bluetti launches ‘e-generator’ to take on noisy, stinky, polluting gas generators",
-      "url": "https://www.theverge.com/tech/986123/bluetti-pioneer-5000-solar-generator",
-      "pubDate": "2026-09-04T12:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "We spent the week testing IFA’s best (and weirdest) gadgets, ask us anything",
-      "url": "https://www.theverge.com/tech/989199/ifa-berlin-2026-gadgets-ask-us-anything",
-      "pubDate": "2026-09-04T12:00:00.000Z"
     },
     {
       "source": "MacRumors",
@@ -283,46 +325,11 @@
       "pubDate": "2026-09-04T09:29:50.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "New action comedy movie Mayday is now streaming on Apple TV",
-      "url": "https://9to5mac.com/2026/09/04/new-action-comedy-movie-mayday-is-now-streaming-on-apple-tv/",
-      "pubDate": "2026-09-04T09:10:03.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Five Sleeps Until iPhone 18 Pro: Here's What We Know",
-      "url": "https://www.macrumors.com/2026/09/03/iphone-18-pro-heres-what-we-know/",
-      "pubDate": "2026-09-04T02:25:35.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "HomePods may finally get surround sound through four connected speakers",
       "url": "https://appleinsider.com/articles/26/09/04/homepods-may-finally-get-surround-sound-through-four-connected-speakers?utm_source=rss",
       "pubDate": "2026-09-04T01:50:07.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Global chemical giant BASF sues Apple over Face ID tech",
-      "url": "https://appleinsider.com/articles/26/09/03/apples-face-id-technology-target-of-latest-lawsuit-from-german-company-basf?utm_source=rss",
-      "pubDate": "2026-09-03T23:33:33.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "M6 vs. M5 Pro Mac Mini Buyer's Guide",
-      "url": "https://www.macrumors.com/guide/m6-vs-m5-pro-mac-mini/",
-      "pubDate": "2026-09-03T22:00:11.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "MacBook Neo 2: Here’s everything we know so far",
-      "url": "https://9to5mac.com/2026/09/03/macbook-neo-2-features-release-date/",
-      "pubDate": "2026-09-03T21:00:37.000Z"
     },
     {
       "source": "Six Colors",
@@ -365,13 +372,6 @@
       "title": "(Podcast) Upgrade 635: The 2026 September Event Draft",
       "url": "https://sixcolors.com/podcast/2026/08/upgrade-635-the-2026-september-event-draft/",
       "pubDate": "2026-08-31T22:24:48.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Blast from the past",
-      "url": "https://sixcolors.com/post/2026/08/blast-from-the-past/",
-      "pubDate": "2026-08-31T21:25:13.000Z"
     }
   ]
 }
