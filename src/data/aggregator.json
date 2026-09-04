@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T22:39:10.766Z",
+  "generatedAt": "2026-09-04T00:59:50.526Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The unusually muted Tesla Cybercab launch",
+      "url": "https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk",
+      "pubDate": "2026-09-04T00:25:06.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Steve Ballmer got suspended by the NBA because of a podcast and a jumbotron corruption scandal",
+      "url": "https://www.theverge.com/entertainment/989962/steve-ballmer-kawhi-leonard-pablo-torre-finds-out",
+      "pubDate": "2026-09-03T23:37:37.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Global chemical giant BASF sues Apple over Face ID tech",
+      "url": "https://appleinsider.com/articles/26/09/03/apples-face-id-technology-target-of-latest-lawsuit-from-german-company-basf?utm_source=rss",
+      "pubDate": "2026-09-03T23:33:33.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -50,13 +71,6 @@
       "title": "Dungeons &#038; Dragons is getting a &#8216;Ravenloft&#8217; live-action Netflix series",
       "url": "https://www.theverge.com/entertainment/989880/dungeons-and-dragons-ravenloft-netflix",
       "pubDate": "2026-09-03T20:48:05.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Global chemical giant BASF sues Apple over Face ID tech",
-      "url": "https://appleinsider.com/articles/26/09/03/apples-face-id-technology-target-of-latest-lawsuit-from-german-company-basf?utm_source=rss",
-      "pubDate": "2026-09-03T20:39:40.000Z"
     },
     {
       "source": "9to5Mac",
@@ -206,20 +220,6 @@
       "pubDate": "2026-09-03T16:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Circular’s new smart rings add contactless payments and vibrating alerts",
-      "url": "https://www.theverge.com/tech/988517/circular-ring-3-pro-slim-nfc-contactless-payment-vibrating-alerts",
-      "pubDate": "2026-09-03T16:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Moto Watch Ultra is a return to Wear OS",
-      "url": "https://www.theverge.com/gadgets/988734/moto-watch-ultra-release-date-price-specs-wear-os-ifa",
-      "pubDate": "2026-09-03T16:00:00.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Apple’s big roadmap for new Mac and iPad models revealed: report",
@@ -318,13 +318,6 @@
       "pubDate": "2026-09-03T12:53:44.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Anker makes Matter smarthome bid with MindBase hub and NAS",
-      "url": "https://appleinsider.com/articles/26/09/03/anker-makes-matter-smarthome-bid-with-mindbase-hub-and-nas?utm_source=rss",
-      "pubDate": "2026-09-03T12:41:56.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iPhone 18 Pro Chip Leak Indicates Major GPU and Memory Bandwidth Improvements",
@@ -372,6 +365,13 @@
       "title": "Diagnosing sentiment in my typo-reporting workflow",
       "url": "https://sixcolors.com/post/2026/09/the-wrinkle-in-my-typo-workflow/",
       "pubDate": "2026-09-01T18:00:39.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "App Report: AI to the rescue! No… really",
+      "url": "https://sixcolors.com/post/2026/09/app-report-ai-to-the-rescue-no-really/",
+      "pubDate": "2026-09-01T16:00:11.000Z"
     }
   ]
 }
