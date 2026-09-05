@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T19:02:33.746Z",
+  "generatedAt": "2026-09-05T21:16:16.162Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "iPhone Handoff will seamlessly share one number between two phones",
+      "url": "https://www.theverge.com/tech/990868/iphone-handoff-ios-27",
+      "pubDate": "2026-09-05T20:53:58.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Here’s how iPhone Ultra’s form factor could compare to other Apple products",
+      "url": "https://9to5mac.com/2026/09/05/iphone-ultra-form-factor-comparison/",
+      "pubDate": "2026-09-05T19:15:18.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -64,6 +78,13 @@
       "title": "Content creators drop the ball",
       "url": "https://www.theverge.com/tech/990426/us-open-influencers-naomi-osaka-anastasia-zakharova-callaway-good-good-ad",
       "pubDate": "2026-09-05T14:00:16.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple @ Work: Capping bug bounty submissions is the wrong response in the AI era of security threats",
+      "url": "https://9to5mac.com/2026/09/05/capping-bug-bounty-submissions-is-the-wrong-response-in-the-ai-era-of-security-threats/",
+      "pubDate": "2026-09-05T13:01:00.000Z"
     },
     {
       "source": "MacRumors",
@@ -241,13 +262,6 @@
       "pubDate": "2026-09-04T18:00:45.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Roland is getting into generative AI music with Melody Flip",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
-      "pubDate": "2026-09-04T17:51:35.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "MacRumors Giveaway: Win an iPad Air and Revamped Rock Paper Pencil Kit From Astropad",
@@ -281,20 +295,6 @@
       "title": "Will the iPhone 18 Pro’s biggest upgrade really deliver?",
       "url": "https://9to5mac.com/2026/09/04/will-the-iphone-18-pros-biggest-upgrade-really-deliver/",
       "pubDate": "2026-09-04T16:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Leaked iPhone roadmap reveals plans for larger foldable, ‘biggest overhaul,’ more",
-      "url": "https://9to5mac.com/2026/09/04/leaked-iphone-roadmap-reveals-plans-for-larger-foldable-biggest-overhaul-more/",
-      "pubDate": "2026-09-04T15:48:03.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: AirPods, Apple 2026 Studio Displays up to $500 off, M5 MacBook Air $150 off, new Dark Cherry chargers, more",
-      "url": "https://9to5mac.com/2026/09/04/deals-airpods-apple-studio-display-m5-macbook-air/",
-      "pubDate": "2026-09-04T15:29:07.000Z"
     },
     {
       "source": "AppleInsider",
