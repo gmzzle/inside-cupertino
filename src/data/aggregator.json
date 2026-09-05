@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T21:16:16.162Z",
+  "generatedAt": "2026-09-05T23:54:52.514Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Explore the globe in field recordings",
+      "url": "https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings",
+      "pubDate": "2026-09-05T21:31:34.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -253,13 +260,6 @@
       "title": "SpaceXAI expands Grok Bot to iPad as access expands to cheaper plans",
       "url": "https://9to5mac.com/2026/09/04/spacexai-expands-grok-bot-to-ipad-as-access-expands-to-cheaper-plans/",
       "pubDate": "2026-09-04T18:30:53.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "GoPro says it&#8217;s still committed &#8216;to your collective stoke&#8217;",
-      "url": "https://www.theverge.com/gadgets/990425/gopro-nick-woodman-starman-letter",
-      "pubDate": "2026-09-04T18:00:45.000Z"
     },
     {
       "source": "MacRumors",
