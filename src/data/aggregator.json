@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T10:37:55.003Z",
+  "generatedAt": "2026-09-05T13:52:06.167Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,48 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple @ Work: Capping bug bounty submissions is the wrong response in the AI era of security threats",
+      "url": "https://9to5mac.com/2026/09/05/capping-bug-bounty-submissions-is-the-wrong-response-in-the-ai-era-of-security-threats/",
+      "pubDate": "2026-09-05T13:01:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Top Stories: 'Surprise and Shine' Apple Event Preview, John Ternus Takes Over, and More",
+      "url": "https://www.macrumors.com/2026/09/05/top-stories-suprise-and-shine-preview/",
+      "pubDate": "2026-09-05T13:00:10.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The weird and wonderful headphones of CanJam 2026",
+      "url": "https://www.theverge.com/tech/990706/a-day-at-canjam-socal-2026",
+      "pubDate": "2026-09-05T13:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Labor Day weekend deals: AirPods Pro 3, Studio Display, Mac mini, AirTag 2, chargers, more",
+      "url": "https://9to5mac.com/2026/09/05/apple-labor-day-weekend-deals-airpods/",
+      "pubDate": "2026-09-05T12:12:36.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "OpenAI admits to German wiki ‘incident’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+      "pubDate": "2026-09-05T11:15:55.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Robotaxis enter their villain era",
+      "url": "https://www.theverge.com/transportation/989513/road-rage-short-film-robotaxi-autonomous-ai",
+      "pubDate": "2026-09-05T11:00:00.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -234,13 +276,6 @@
       "pubDate": "2026-09-04T16:00:00.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Just Fixed TestFlight",
-      "url": "https://www.macrumors.com/2026/09/04/apple-just-fixed-testflight/",
-      "pubDate": "2026-09-04T15:56:25.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Leaked iPhone roadmap reveals plans for larger foldable, ‘biggest overhaul,’ more",
@@ -255,46 +290,11 @@
       "pubDate": "2026-09-04T15:41:17.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: AirPods, Apple 2026 Studio Displays up to $500 off, M5 MacBook Air $150 off, new Dark Cherry chargers, more",
-      "url": "https://9to5mac.com/2026/09/04/deals-airpods-apple-studio-display-m5-macbook-air/",
-      "pubDate": "2026-09-04T15:29:07.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple TV’s big fall lineup: Here’s every new show and movie coming soon",
-      "url": "https://9to5mac.com/2026/09/04/apple-tvs-fall-lineup-reveals-every-new-show-and-movie-coming-soon/",
-      "pubDate": "2026-09-04T15:02:32.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Alienware’s refurbished 16 Aurora is almost $200 off at Woot",
-      "url": "https://www.theverge.com/gadgets/989407/alienware-gaming-laptop-capsule-dishwasher-samsung-oled-deal-sale",
-      "pubDate": "2026-09-04T14:55:40.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "What to expect at Apple’s September 9th launch event",
-      "url": "https://www.theverge.com/tech/989692/apple-iphone-launch-event-september-2026-how-to-watch",
-      "pubDate": "2026-09-04T14:52:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple's home security devices may now launch in 2027",
       "url": "https://appleinsider.com/articles/26/09/04/apples-home-security-devices-may-now-launch-in-2027?utm_source=rss",
       "pubDate": "2026-09-04T14:52:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Nintendo&#8217;s next two Direct events are both happening next week",
-      "url": "https://www.theverge.com/games/990207/nintendo-direct-zelda-40th",
-      "pubDate": "2026-09-04T14:29:44.000Z"
     },
     {
       "source": "AppleInsider",
