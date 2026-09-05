@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T13:52:06.167Z",
+  "generatedAt": "2026-09-05T16:50:05.917Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,41 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "CD sales are booming as physical media continues its resurgence",
+      "url": "https://www.theverge.com/entertainment/990794/cd-sales-are-booming-as-physical-media-continues-its-resurgence",
+      "pubDate": "2026-09-05T16:49:33.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "AirTag 2 4-Pack Drops to $79.99 on Amazon, Matching Record Low",
+      "url": "https://www.macrumors.com/2026/09/05/airtag-2-4-pack-on-sale/",
+      "pubDate": "2026-09-05T16:09:38.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone 18 Pro: Everything M6 Tells Us About the A20 Chip",
+      "url": "https://www.macrumors.com/2026/09/05/what-m6-tells-us-about-a20/",
+      "pubDate": "2026-09-05T16:00:13.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Fantasy Footballers’ Andy Holloway is a dedicated zero-inbox kinda guy",
+      "url": "https://www.theverge.com/report/989270/fantasy-footballers-podcast-andy-holloway-interview",
+      "pubDate": "2026-09-05T15:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Content creators drop the ball",
+      "url": "https://www.theverge.com/tech/990426/us-open-influencers-naomi-osaka-anastasia-zakharova-callaway-good-good-ad",
+      "pubDate": "2026-09-05T14:00:16.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -234,39 +269,11 @@
       "pubDate": "2026-09-04T17:31:24.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "AGI is whatever you want it to be",
-      "url": "https://www.theverge.com/podcast/990323/agi-is-whatever-you-want-it-to-be",
-      "pubDate": "2026-09-04T17:16:49.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Aqara Debuts Five Matter Smart Lights With Apple Home Support",
-      "url": "https://www.macrumors.com/2026/09/04/aqara-matter-smart-lights-2/",
-      "pubDate": "2026-09-04T17:12:55.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple still on track for a revolutionary iPhone 20 in 2027",
       "url": "https://appleinsider.com/articles/26/09/04/apple-still-on-track-for-a-revolutionary-iphone-20-in-2027?utm_source=rss",
       "pubDate": "2026-09-04T16:53:30.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "The MacRumors Show: iPhone 18 Pro Event Expectations",
-      "url": "https://www.macrumors.com/2026/09/04/the-macrumors-show-iphone-18-pro-event-expectations/",
-      "pubDate": "2026-09-04T16:13:18.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
-      "url": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
-      "pubDate": "2026-09-04T16:05:57.000Z"
     },
     {
       "source": "9to5Mac",
@@ -281,13 +288,6 @@
       "title": "Leaked iPhone roadmap reveals plans for larger foldable, ‘biggest overhaul,’ more",
       "url": "https://9to5mac.com/2026/09/04/leaked-iphone-roadmap-reveals-plans-for-larger-foldable-biggest-overhaul-more/",
       "pubDate": "2026-09-04T15:48:03.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The best tech and gadgets announced at IFA so far",
-      "url": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones",
-      "pubDate": "2026-09-04T15:41:17.000Z"
     },
     {
       "source": "AppleInsider",
@@ -332,13 +332,6 @@
       "pubDate": "2026-09-04T11:05:38.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "HomePods may finally get surround sound through four connected speakers",
-      "url": "https://appleinsider.com/articles/26/09/04/homepods-may-finally-get-surround-sound-through-four-connected-speakers?utm_source=rss",
-      "pubDate": "2026-09-04T01:50:07.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) Clockwise 672: OnlyMolars",
@@ -372,6 +365,13 @@
       "title": "App Report: AI to the rescue! No… really",
       "url": "https://sixcolors.com/post/2026/09/app-report-ai-to-the-rescue-no-really/",
       "pubDate": "2026-09-01T16:00:11.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) Upgrade 635: The 2026 September Event Draft",
+      "url": "https://sixcolors.com/podcast/2026/08/upgrade-635-the-2026-september-event-draft/",
+      "pubDate": "2026-08-31T22:24:48.000Z"
     }
   ]
 }
