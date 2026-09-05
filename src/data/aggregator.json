@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T22:21:57.552Z",
+  "generatedAt": "2026-09-05T00:58:37.867Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone Ultra, iPhone 18 Pro, and More: Apple's September 9 Event Preview",
+      "url": "https://www.macrumors.com/guide/apple-september-2026-what-to-expect/",
+      "pubDate": "2026-09-04T22:26:17.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -246,13 +253,6 @@
       "title": "The best tech and gadgets announced at IFA so far",
       "url": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones",
       "pubDate": "2026-09-04T15:41:17.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Labor Day Deals Offer Up to $330 Off Studio Displays and Mac Mini Pre-Order Savings",
-      "url": "https://www.macrumors.com/2026/09/04/best-apple-deals-of-the-week-9-4-26/",
-      "pubDate": "2026-09-04T15:34:19.000Z"
     },
     {
       "source": "9to5Mac",
