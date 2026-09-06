@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T09:27:25.759Z",
+  "generatedAt": "2026-09-06T13:41:29.371Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The Fairphone 6 Plus is the midrange phone we desperately needed",
+      "url": "https://www.theverge.com/tech/990436/fairphone-6-plus-review",
+      "pubDate": "2026-09-06T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Competitive Pokémon is on phones now, but you still need a Switch to become a champion",
+      "url": "https://www.theverge.com/games/990691/competitive-pokemon-champions-mobile-tournament-accessibility",
+      "pubDate": "2026-09-06T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "DIY plug-in solar gains momentum in the US",
+      "url": "https://www.theverge.com/column/990183/diy-plug-in-solar-us",
+      "pubDate": "2026-09-06T12:00:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Crime blotter: Last two defendants sentenced in counterfeiting scheme",
+      "url": "https://appleinsider.com/articles/26/09/06/crime-blotter-last-two-defendants-sentenced-in-counterfeiting-scheme?utm_source=rss",
+      "pubDate": "2026-09-06T11:20:43.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -143,13 +171,6 @@
       "pubDate": "2026-09-05T11:15:55.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Robotaxis enter their villain era",
-      "url": "https://www.theverge.com/transportation/989513/road-rage-short-film-robotaxi-autonomous-ai",
-      "pubDate": "2026-09-05T11:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iPhone Ultra, iPhone 18 Pro, and More: Apple's September 9 Event Preview",
@@ -162,13 +183,6 @@
       "title": "Foldable 'iPhone Ultra' Still Likely to Be Missing These Five Features",
       "url": "https://www.macrumors.com/2026/09/04/foldable-iphone-likely-to-be-missing-these-features/",
       "pubDate": "2026-09-04T22:00:14.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Audacity 4 is a complete revamp of the ‘world’s most popular’ audio editor",
-      "url": "https://www.theverge.com/tech/990658/audacity-4-update-audio-editing",
-      "pubDate": "2026-09-04T21:23:50.000Z"
     },
     {
       "source": "9to5Mac",
@@ -239,13 +253,6 @@
       "title": "Review: Acer's 6K Touchscreen Display Turns Your Mac Into a Giant iPad, Sort Of",
       "url": "https://www.macrumors.com/review/acer-6k-touchscreen-display/",
       "pubDate": "2026-09-04T19:45:56.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The White House is making arcade games racist",
-      "url": "https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright",
-      "pubDate": "2026-09-04T19:42:54.000Z"
     },
     {
       "source": "9to5Mac",
@@ -330,13 +337,6 @@
       "title": "Apple's suppliers only made a few hundred iPhone Ultra units per day in August",
       "url": "https://appleinsider.com/articles/26/09/04/apples-suppliers-only-made-a-few-hundred-iphone-ultra-units-in-august?utm_source=rss",
       "pubDate": "2026-09-04T11:20:41.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Inside iMovie: Getting started with video editing in iOS 27 and iPadOS 27",
-      "url": "https://appleinsider.com/inside/ios-27/tips/inside-imovie-getting-started-with-video-editing-in-ios-27-and-ipados-27?utm_source=rss",
-      "pubDate": "2026-09-04T11:05:38.000Z"
     },
     {
       "source": "Six Colors",
