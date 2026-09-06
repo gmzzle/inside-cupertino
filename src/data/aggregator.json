@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T21:25:20.653Z",
+  "generatedAt": "2026-09-06T23:56:37.830Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+      "pubDate": "2026-09-06T23:36:04.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -129,6 +136,13 @@
       "pubDate": "2026-09-06T00:26:17.000Z"
     },
     {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Affordable iPhone accessories for CarPlay worth trying",
+      "url": "https://9to5mac.com/2026/09/05/affordable-iphone-accessories-for-carplay-worth-trying/",
+      "pubDate": "2026-09-05T22:00:00.000Z"
+    },
+    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Explore the globe in field recordings",
@@ -183,13 +197,6 @@
       "title": "iPhone 18 Pro: Everything M6 Tells Us About the A20 Chip",
       "url": "https://www.macrumors.com/2026/09/05/what-m6-tells-us-about-a20/",
       "pubDate": "2026-09-05T16:00:13.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Fantasy Footballers’ Andy Holloway is a dedicated zero-inbox kinda guy",
-      "url": "https://www.theverge.com/report/989270/fantasy-footballers-podcast-andy-holloway-interview",
-      "pubDate": "2026-09-05T15:00:00.000Z"
     },
     {
       "source": "9to5Mac",
@@ -295,13 +302,6 @@
       "title": "Review: Acer's 6K Touchscreen Display Turns Your Mac Into a Giant iPad, Sort Of",
       "url": "https://www.macrumors.com/review/acer-6k-touchscreen-display/",
       "pubDate": "2026-09-04T19:45:56.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "New profile of John Ternus offers insight into life and reputation of Apple CEO",
-      "url": "https://9to5mac.com/2026/09/04/new-profile-of-john-ternus-offers-insight-into-life-and-reputation-of-apple-ceo/",
-      "pubDate": "2026-09-04T19:17:00.000Z"
     },
     {
       "source": "AppleInsider",
