@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T23:54:52.514Z",
+  "generatedAt": "2026-09-06T04:42:17.140Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,6 +24,20 @@
   ],
   "items": [
     {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "This new reveal suggests MacBook Ultra might cost more than we think",
+      "url": "https://9to5mac.com/2026/09/05/macbook-ultra-pricing-lineup-rumor/",
+      "pubDate": "2026-09-06T03:02:03.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPadOS 27 still needs simpler multitasking, here’s what I’d like to see",
+      "url": "https://9to5mac.com/2026/09/05/ipados-27-still-needs-simpler-multitasking-heres-what-id-like-to-see/",
+      "pubDate": "2026-09-06T00:26:17.000Z"
+    },
+    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Explore the globe in field recordings",
@@ -36,6 +50,13 @@
       "title": "iPhone Handoff will seamlessly share one number between two phones",
       "url": "https://www.theverge.com/tech/990868/iphone-handoff-ios-27",
       "pubDate": "2026-09-05T20:53:58.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Indie App Spotlight: ‘KeyAlarm’ turns your most important calendar events into alarms",
+      "url": "https://9to5mac.com/2026/09/05/indie-app-spotlight-keyalarm-calendar-events-into-alarms/",
+      "pubDate": "2026-09-05T19:30:00.000Z"
     },
     {
       "source": "9to5Mac",
@@ -255,25 +276,11 @@
       "pubDate": "2026-09-04T18:39:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "SpaceXAI expands Grok Bot to iPad as access expands to cheaper plans",
-      "url": "https://9to5mac.com/2026/09/04/spacexai-expands-grok-bot-to-ipad-as-access-expands-to-cheaper-plans/",
-      "pubDate": "2026-09-04T18:30:53.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "MacRumors Giveaway: Win an iPad Air and Revamped Rock Paper Pencil Kit From Astropad",
       "url": "https://www.macrumors.com/2026/09/04/macrumors-giveaway-astropad-september/",
       "pubDate": "2026-09-04T17:41:05.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Silo season 4 just got its release date on Apple TV and first trailer",
-      "url": "https://9to5mac.com/2026/09/04/silo-season-4-just-got-its-release-date-on-apple-tv-and-first-trailer/",
-      "pubDate": "2026-09-04T17:35:19.000Z"
     },
     {
       "source": "AppleInsider",
@@ -288,13 +295,6 @@
       "title": "Apple still on track for a revolutionary iPhone 20 in 2027",
       "url": "https://appleinsider.com/articles/26/09/04/apple-still-on-track-for-a-revolutionary-iphone-20-in-2027?utm_source=rss",
       "pubDate": "2026-09-04T16:53:30.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Will the iPhone 18 Pro’s biggest upgrade really deliver?",
-      "url": "https://9to5mac.com/2026/09/04/will-the-iphone-18-pros-biggest-upgrade-really-deliver/",
-      "pubDate": "2026-09-04T16:00:00.000Z"
     },
     {
       "source": "AppleInsider",
