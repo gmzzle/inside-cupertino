@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T20:35:36.987Z",
+  "generatedAt": "2026-09-07T23:31:03.912Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,9 +24,16 @@
   ],
   "items": [
     {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "WhatsApp will soon let users chat with up to five third-party AI agents",
+      "url": "https://9to5mac.com/2026/09/07/whatsapp-will-soon-let-users-chat-with-up-to-five-third-party-ai-agents/",
+      "pubDate": "2026-09-07T21:36:39.000Z"
+    },
+    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
-      "title": "'Cupertino' legal drama isn't representative region demographics, landmarks, or reality",
+      "title": "'Cupertino' legal drama doesn't represent region demographics, landmarks, or reality",
       "url": "https://appleinsider.com/articles/26/09/07/cupertino-legal-drama-isnt-representative-region-demographics-landmarks-or-reality?utm_source=rss",
       "pubDate": "2026-09-07T20:35:30.000Z"
     },
@@ -309,13 +316,6 @@
       "title": "Apple might soon make App Store changes to raise revenue, increase margins: report",
       "url": "https://9to5mac.com/2026/09/06/apple-might-soon-make-app-store-changes-to-raise-revenue-increase-margins-report/",
       "pubDate": "2026-09-06T14:53:21.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "This new reveal suggests MacBook Ultra might cost more than we think",
-      "url": "https://9to5mac.com/2026/09/05/macbook-ultra-pricing-lineup-rumor/",
-      "pubDate": "2026-09-06T03:02:03.000Z"
     },
     {
       "source": "MacRumors",
