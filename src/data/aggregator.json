@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T04:44:48.004Z",
+  "generatedAt": "2026-09-07T10:21:06.205Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,41 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Plans to Squeeze More Revenue From the App Store, Report Says",
+      "url": "https://www.macrumors.com/2026/09/07/apple-squeeze-more-revenue-from-app-store/",
+      "pubDate": "2026-09-07T10:19:22.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Huawei copies Samsung’s privacy display in its latest trifold",
+      "url": "https://www.theverge.com/tech/990958/huawei-mate-xt-2-trifold-launch-china-privacy-display",
+      "pubDate": "2026-09-07T10:09:42.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Tim Cook Won't Appear in Apple's September 9 Event Video",
+      "url": "https://www.macrumors.com/2026/09/07/tim-cook-wont-appear-apple-sept-9-event-video/",
+      "pubDate": "2026-09-07T09:27:53.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple TV leads Emmys wins so far, with Widows Bay set for awards sweep",
+      "url": "https://9to5mac.com/2026/09/07/apple-tv-leads-emmys-awards-widows-bay/",
+      "pubDate": "2026-09-07T09:17:08.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "This AI-generated iPhone 18 Pro mock ad makes me actually love dark cherry color",
+      "url": "https://9to5mac.com/2026/09/06/this-ai-generated-iphone-18-pro-mock-ad-makes-me-actually-love-dark-cherry-color/",
+      "pubDate": "2026-09-07T05:01:31.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -178,13 +213,6 @@
       "pubDate": "2026-09-05T17:54:46.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "CD sales are booming as physical media continues its resurgence",
-      "url": "https://www.theverge.com/entertainment/990794/cd-sales-are-booming-as-physical-media-continues-its-resurgence",
-      "pubDate": "2026-09-05T16:49:33.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "AirTag 2 4-Pack Drops to $79.99 on Amazon, Matching Record Low",
@@ -262,13 +290,6 @@
       "pubDate": "2026-09-04T20:43:31.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "watchOS 27 removes three features that Apple Watch users might miss after updating",
-      "url": "https://9to5mac.com/2026/09/04/watchos-27-removes-three-features-that-apple-watch-users-might-miss-after-updating/",
-      "pubDate": "2026-09-04T20:36:32.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "macOS 26.7 Code Hints at Two Unreleased Apple Game Controllers",
@@ -290,32 +311,11 @@
       "pubDate": "2026-09-04T19:51:13.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Fender MIX headphones now have an iPhone app for tuning your sound",
-      "url": "https://9to5mac.com/2026/09/04/fender-mix-headphones-now-have-an-iphone-app-for-tuning-your-sound/",
-      "pubDate": "2026-09-04T19:46:16.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Review: Acer's 6K Touchscreen Display Turns Your Mac Into a Giant iPad, Sort Of",
-      "url": "https://www.macrumors.com/review/acer-6k-touchscreen-display/",
-      "pubDate": "2026-09-04T19:45:56.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple may have two very different game controllers in the works",
       "url": "https://appleinsider.com/articles/26/09/04/apple-may-have-two-very-different-game-controllers-in-the-works?utm_source=rss",
       "pubDate": "2026-09-04T19:07:10.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "MacRumors Giveaway: Win an iPad Air and Revamped Rock Paper Pencil Kit From Astropad",
-      "url": "https://www.macrumors.com/2026/09/04/macrumors-giveaway-astropad-september/",
-      "pubDate": "2026-09-04T17:41:05.000Z"
     },
     {
       "source": "AppleInsider",
