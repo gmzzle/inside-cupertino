@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T00:16:52.111Z",
+  "generatedAt": "2026-09-09T06:00:12.564Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,83 @@
     }
   ],
   "items": [
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Bloomberg: iPhone Duo to start at $2000, offer Apple Pencil support ↦",
+      "url": "https://sixcolors.com/link/2026/09/bloomberg-iphone-duo-to-start-at-2000-offer-apple-pencil-support/",
+      "pubDate": "2026-09-09T05:38:09.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Apple’s foldable ‘iPhone Duo’ will reportedly start at $2,000",
+      "url": "https://www.theverge.com/tech/991884/apple-iphone-duo-rumor-foldable",
+      "pubDate": "2026-09-09T05:26:53.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "New Apple Watches to get Siri AI 'Recaps' feature similar to AI wearables",
+      "url": "https://appleinsider.com/articles/26/09/09/new-apple-watches-to-get-siri-ai-recaps-feature-similar-to-ai-wearables?utm_source=rss",
+      "pubDate": "2026-09-09T05:26:23.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Foldable iPhone Duo Will Start at $2,000, Won't Launch Until at Least October",
+      "url": "https://www.macrumors.com/2026/09/09/iphone-duo-start-at-2000/",
+      "pubDate": "2026-09-09T04:45:13.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone Duo: Apple’s new foldable reportedly not named Ultra, plus price, colors, more",
+      "url": "https://9to5mac.com/2026/09/08/iphone-duo-apples-new-foldable-reportedly-not-named-ultra-plus-price-colors-more/",
+      "pubDate": "2026-09-09T04:43:16.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Rumor says foldable is iPhone Duo, gets Apple Pencil, & starts at $2,000",
+      "url": "https://appleinsider.com/articles/26/09/09/rumor-says-foldable-is-iphone-duo-gets-apple-pencil-starts-at-2000?utm_source=rss",
+      "pubDate": "2026-09-09T04:35:30.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone Ultra is coming, here’s what the final rumors say",
+      "url": "https://9to5mac.com/2026/09/08/iphone-ultra-is-coming-heres-what-the-final-rumors-are-saying/",
+      "pubDate": "2026-09-09T02:15:37.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Crime thriller ‘Last Seen’ premieres on Apple TV",
+      "url": "https://9to5mac.com/2026/09/08/crime-thriller-last-seen-premieres-on-apple-tv/",
+      "pubDate": "2026-09-09T01:30:13.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "WhatsApp doubles music clip length for status updates",
+      "url": "https://9to5mac.com/2026/09/08/whatsapp-doubles-music-clip-length-for-status-updates/",
+      "pubDate": "2026-09-09T01:12:21.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: September 8, 2026 – HomePod rumors, App Store changes",
+      "url": "https://9to5mac.com/2026/09/08/daily-september-8-2026/",
+      "pubDate": "2026-09-09T00:25:34.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "New product identifiers show up in Apple's backend, don't indicate release timing",
+      "url": "https://appleinsider.com/articles/26/09/09/new-product-identifiers-show-up-in-apples-backend-dont-indicate-release-timing?utm_source=rss",
+      "pubDate": "2026-09-09T00:24:03.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -61,7 +138,7 @@
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
-      "title": "Rivian’s Also apologizes for delays in shipping futuristic e-bikes",
+      "title": "Rivian spinout Also apologizes for delays in shipping futuristic e-bikes",
       "url": "https://www.theverge.com/transportation/991707/rivian-also-tmb-ebike-delay-apology",
       "pubDate": "2026-09-08T20:46:56.000Z"
     },
@@ -136,13 +213,6 @@
       "pubDate": "2026-09-08T18:59:07.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "OpenAI releases ChatGPT Images 2.5 with ‘sharper details’ and ‘more precise editing’",
-      "url": "https://9to5mac.com/2026/09/08/openai-releases-chatgpt-images-2-5-with-sharper-details-and-more-precise-editing/",
-      "pubDate": "2026-09-08T18:50:50.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "How to Watch Apple's 'Surprise and Shine' September 9 Event",
@@ -155,13 +225,6 @@
       "title": "Apple TV 4K may get Siri AI, thanks to the A19 or A19 Pro chip",
       "url": "https://appleinsider.com/articles/26/09/08/apple-tv-4k-may-get-siri-ai-thanks-to-the-a19-or-a19-pro-chip?utm_source=rss",
       "pubDate": "2026-09-08T18:35:42.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "New Apple TV 4K will be more powerful upgrade than we thought, per leak",
-      "url": "https://9to5mac.com/2026/09/08/new-apple-tv-4k-will-be-more-powerful-upgrade-than-we-thought-per-leak/",
-      "pubDate": "2026-09-08T18:25:25.000Z"
     },
     {
       "source": "AppleInsider",
@@ -185,32 +248,11 @@
       "pubDate": "2026-09-08T17:47:02.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "tvOS 27 removes a feature that some Apple TV users might miss after updating",
-      "url": "https://9to5mac.com/2026/09/08/tvos-27-removes-a-feature-that-some-apple-tv-users-might-miss-after-updating/",
-      "pubDate": "2026-09-08T17:39:28.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple releases iOS 26.6.2 for iPhone, here’s what’s new",
-      "url": "https://9to5mac.com/2026/09/08/apple-releases-ios-26-6-2-for-iphone-heres-whats-new/",
-      "pubDate": "2026-09-08T17:36:30.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
       "url": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
       "pubDate": "2026-09-08T17:27:31.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Watch SE 3 is now unavailable ahead of launch event",
-      "url": "https://9to5mac.com/2026/09/08/apple-watch-se-3-is-now-unavailable-ahead-of-launch-event/",
-      "pubDate": "2026-09-08T17:25:03.000Z"
     },
     {
       "source": "MacRumors",
@@ -241,13 +283,6 @@
       "pubDate": "2026-09-08T17:00:37.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Forget folding screens, Apple is working on stretchable ones",
-      "url": "https://appleinsider.com/articles/24/06/27/forget-folding-screens-apple-is-working-on-stretchable-ones?utm_source=rss",
-      "pubDate": "2026-09-08T16:59:24.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "AirPods Turn 10",
@@ -276,32 +311,11 @@
       "pubDate": "2026-09-08T16:06:56.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "BBC breakout comedy 'Small Prophets' is coming back for season two",
-      "url": "https://appleinsider.com/articles/26/09/08/bbc-breakout-comedy-small-prophets-is-coming-back-for-season-two?utm_source=rss",
-      "pubDate": "2026-09-08T16:06:53.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The White House pulls its racist Tetris clone",
-      "url": "https://www.theverge.com/games/991451/white-house-pulls-racist-tetris-clone",
-      "pubDate": "2026-09-08T16:00:51.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple to Introduce All-New 'Readiness' App Tomorrow",
       "url": "https://www.macrumors.com/2026/09/08/apple-to-announce-readiness-app/",
       "pubDate": "2026-09-08T15:55:52.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple Arcade gets 'Pusheen's Place,' 'Terraria+,' and more in October",
-      "url": "https://appleinsider.com/articles/26/09/08/apple-arcade-gets-pusheens-place-terraria-and-more-in-october?utm_source=rss",
-      "pubDate": "2026-09-08T14:59:56.000Z"
     },
     {
       "source": "MacRumors",
@@ -316,20 +330,6 @@
       "title": "Apple Sued Over Alleged Face ID Patent Infringement",
       "url": "https://www.macrumors.com/2026/09/08/apple-sued-over-face-id-patent-infringement/",
       "pubDate": "2026-09-08T14:51:22.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Arcade Adds 'Pusheen's Place' and Four More Games in October",
-      "url": "https://www.macrumors.com/2026/09/08/apple-arcade-adds-five-more-games-in-october/",
-      "pubDate": "2026-09-08T14:34:20.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple Lakeside gets a major redesign after nearly 20 years",
-      "url": "https://appleinsider.com/articles/26/09/08/apple-lakeside-gets-a-major-redesign-after-nearly-20-years?utm_source=rss",
-      "pubDate": "2026-09-08T14:03:54.000Z"
     },
     {
       "source": "Six Colors",
