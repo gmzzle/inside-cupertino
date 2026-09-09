@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T06:00:12.564Z",
+  "generatedAt": "2026-09-09T11:26:23.504Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,90 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Store Down Ahead of 'Surprise and Shine' iPhone 18 Pro Event",
+      "url": "https://www.macrumors.com/2026/09/09/apple-store-down-iphone-18-pro-event/",
+      "pubDate": "2026-09-09T11:20:38.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Foldable iPhone Duo to Come With Apple Pencil Support",
+      "url": "https://www.macrumors.com/2026/09/09/foldable-iphone-duo-apple-pencil-support/",
+      "pubDate": "2026-09-09T11:06:28.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Store is down ahead of iPhone 18 Pro, iPhone Duo foldable and more announcements",
+      "url": "https://9to5mac.com/2026/09/09/apple-store-down-iphone-18-pro-event/",
+      "pubDate": "2026-09-09T11:01:53.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone 18 Pro Price Hike to Be Lower Than Expected",
+      "url": "https://www.macrumors.com/2026/09/09/iphone-18-pro-price-hike-to-be-lower-than-expected/",
+      "pubDate": "2026-09-09T11:00:46.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Samsung ‘advice’ to Apple suggests it fears the build quality of the iPhone Duo",
+      "url": "https://9to5mac.com/2026/09/09/samsung-advice-to-apple-suggests-it-fears-the-build-quality-of-the-iphone-duo/",
+      "pubDate": "2026-09-09T10:58:55.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Watch Ultra 4 to Get Improved Battery Life",
+      "url": "https://www.macrumors.com/2026/09/09/apple-watch-ultra-4-to-get-improved-battery-life/",
+      "pubDate": "2026-09-09T10:41:44.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone 18 Pro Dynamic Island to Shrink, Add Third Live Activity",
+      "url": "https://www.macrumors.com/2026/09/09/iphone-18-pro-dynamic-island-to-shrink/",
+      "pubDate": "2026-09-09T10:39:38.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Watch Series 12 and Ultra 4 to Gain New AI Feature That Summarizes Your Day",
+      "url": "https://www.macrumors.com/2026/09/09/apple-watch-ai-feature-that-summarizes-your-day/",
+      "pubDate": "2026-09-09T10:36:34.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Last-Minute Leak Reveals iPhone Duo Color Options and Base Storage",
+      "url": "https://www.macrumors.com/2026/09/09/leak-reveals-foldable-iphone-name-price-colors/",
+      "pubDate": "2026-09-09T10:08:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Worried Anthropic researchers warn that AI &#8216;could kill all humans&#8217;",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
+      "pubDate": "2026-09-09T09:56:28.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "New iPhone 18 Pro price rises perhaps not as bad as some feared",
+      "url": "https://9to5mac.com/2026/09/09/new-iphone-18-pro-price-rises-perhaps-not-as-bad-as-some-feared/",
+      "pubDate": "2026-09-09T08:04:35.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "The new Apple Watch will use microphone and other sensors to generate AI recaps of your day",
+      "url": "https://9to5mac.com/2026/09/09/the-new-apple-watch-will-use-microphone-and-other-sensors-to-generate-ai-recaps-of-your-day/",
+      "pubDate": "2026-09-09T07:52:44.000Z"
+    },
     {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
@@ -164,13 +248,6 @@
       "pubDate": "2026-09-08T20:35:03.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone 18 Pro set to become Apple’s new default model",
-      "url": "https://9to5mac.com/2026/09/08/iphone-18-pro-set-to-become-apples-new-default-model/",
-      "pubDate": "2026-09-08T20:22:18.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
@@ -185,32 +262,11 @@
       "pubDate": "2026-09-08T19:48:37.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Report: Apple Watch shipments rise 14% in Q2 as overall market drops",
-      "url": "https://9to5mac.com/2026/09/08/report-apple-watch-shipments-rise-14-in-q2-as-overall-market-drops/",
-      "pubDate": "2026-09-08T19:39:43.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Meta AI launches Muse personal agent, including a new mobile app for iPhone",
-      "url": "https://9to5mac.com/2026/09/08/meta-ai-launches-muse-personal-agent-including-a-new-mobile-app-for-iphone/",
-      "pubDate": "2026-09-08T19:17:21.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Meta bets on AI agent Muse to catch up in AI race",
       "url": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
       "pubDate": "2026-09-08T19:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Sonos just launched ‘Sonos 27’ app update, here’s what’s new",
-      "url": "https://9to5mac.com/2026/09/08/sonos-just-launched-sonos-27-app-update-heres-whats-new/",
-      "pubDate": "2026-09-08T18:59:07.000Z"
     },
     {
       "source": "MacRumors",
@@ -255,39 +311,11 @@
       "pubDate": "2026-09-08T17:27:31.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Event Tomorrow: iPhone 18 Pro and iPhone Ultra Cheat Sheet",
-      "url": "https://www.macrumors.com/2026/09/08/apple-event-week-iphone-18-pro-cheat-sheet/",
-      "pubDate": "2026-09-08T17:24:56.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Next Apple TV's Chip Revealed in Latest Leak",
-      "url": "https://www.macrumors.com/2026/09/08/next-apple-tv-chip-leak/",
-      "pubDate": "2026-09-08T17:19:48.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Nintendo isn’t scared of GTA VI",
       "url": "https://www.theverge.com/games/991484/zelda-ocarina-of-time-gta-6",
       "pubDate": "2026-09-08T17:13:51.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Watch SE 3 is Suddenly Unavailable",
-      "url": "https://www.macrumors.com/2026/09/08/apple-watch-se-3-currently-unavailable/",
-      "pubDate": "2026-09-08T17:00:37.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "AirPods Turn 10",
-      "url": "https://www.macrumors.com/2026/09/08/airpods-turn-10/",
-      "pubDate": "2026-09-08T16:37:49.000Z"
     },
     {
       "source": "Six Colors",
@@ -302,34 +330,6 @@
       "title": "CarPlay on GM cars: Not dead yet? ↦",
       "url": "https://sixcolors.com/link/2026/09/carplay-on-gm-cars-not-dead-yet/",
       "pubDate": "2026-09-08T16:14:45.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Tesla Cybercab doesn’t have any manual controls — but it does have a virtual joystick",
-      "url": "https://www.theverge.com/transportation/991400/tesla-cybercab-virtual-joystick-manual-control",
-      "pubDate": "2026-09-08T16:06:56.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple to Introduce All-New 'Readiness' App Tomorrow",
-      "url": "https://www.macrumors.com/2026/09/08/apple-to-announce-readiness-app/",
-      "pubDate": "2026-09-08T15:55:52.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "'Small Prophets' Renewed for Season 2 Following Apple TV Deal",
-      "url": "https://www.macrumors.com/2026/09/08/small-prophets-renewed-for-season-2/",
-      "pubDate": "2026-09-08T14:56:53.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Sued Over Alleged Face ID Patent Infringement",
-      "url": "https://www.macrumors.com/2026/09/08/apple-sued-over-face-id-patent-infringement/",
-      "pubDate": "2026-09-08T14:51:22.000Z"
     },
     {
       "source": "Six Colors",
