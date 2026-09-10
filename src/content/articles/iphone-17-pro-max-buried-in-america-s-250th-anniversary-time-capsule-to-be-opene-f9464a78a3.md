@@ -2,7 +2,7 @@
 title: "An iPhone 17 Pro Max is now buried underground until 2276"
 description: "America's 250th anniversary time capsule includes a Cosmic Orange iPhone 17 Pro Max. Good luck getting it to boot in 250 years."
 pubDate: 2026-07-05T14:43:47.159Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - iphone-17
@@ -12,6 +12,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/07/04/iphone-17-pro-max-included-in-america-250-time-capsule/"
+heroImage: "https://images.unsplash.com/photo-1605236453806-6ff36851218e?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Multiple smartphone silhouettes arranged in a grid"
 ---
 
 [9to5Mac](https://9to5mac.com/2026/07/04/iphone-17-pro-max-included-in-america-250-time-capsule/) reports that someone decided an iPhone 17 Pro Max in Cosmic Orange should represent our technological moment for the next 250 years. It's now buried in a time capsule set to open in 2276 for America's 500th anniversary. The capsule includes items from every state, and apparently someone thought the best pick from the tech world was a phone that'll be obsolete before the dirt settles.

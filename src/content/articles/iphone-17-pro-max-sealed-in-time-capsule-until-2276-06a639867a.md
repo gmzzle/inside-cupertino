@@ -2,7 +2,7 @@
 title: "Apple's iPhone 17 Pro Max is now buried in Philadelphia until 2276"
 description: "A Cosmic Orange iPhone 17 Pro Max just got sealed in America's 250th birthday time capsule. What exactly are we telling the 23rd century about ourselves?"
 pubDate: 2026-07-06T16:21:24.595Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - iphone-17
@@ -13,6 +13,8 @@ tags:
 source:
   name: "MacRumors"
   url: "https://www.macrumors.com/2026/07/06/iphone-17-pro-max-sealed-in-time-capsule/"
+heroImage: "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Smartphone held in soft light against a dark background"
 ---
 
 A brand-new iPhone 17 Pro Max in Cosmic Orange is now buried under Independence National Historical Park in Philadelphia, sealed until 2276. [MacRumors](https://www.macrumors.com/2026/07/06/iphone-17-pro-max-sealed-in-time-capsule/) reported that America250, the group running the country's semiquincentennial celebrations, picked the phone as the representative of American innovation for 2026. It won't see daylight again for 250 years.

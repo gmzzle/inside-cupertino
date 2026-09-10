@@ -2,7 +2,7 @@
 title: "Apple's iOS 27 passport tweaks come with an annoying catch"
 description: "The new iOS 27 beta refines Digital ID menus, but some users are being forced to delete and re-add their passports. Classic Apple beta behavior."
 pubDate: 2026-08-26T13:54:32.792Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - ios-27
@@ -13,6 +13,8 @@ tags:
 source:
   name: "MacRumors"
   url: "https://www.macrumors.com/2026/08/26/ios-27-tweaks-digital-id-feature/"
+heroImage: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Dark code editor on a screen"
 ---
 
 [MacRumors](https://www.macrumors.com/2026/08/26/ios-27-tweaks-digital-id-feature/) reported that iOS 27 is tweaking the Digital ID passport interface in Apple Wallet, adjusting "some of the information and menus" shown alongside the feature. Fine. But here's the fun part: some beta users are finding their digital passports deactivated, forcing them to remove the card entirely and re-add it.
