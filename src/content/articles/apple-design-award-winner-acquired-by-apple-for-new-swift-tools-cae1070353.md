@@ -2,7 +2,7 @@
 title: "Apple buys Play, the visual Swift tool it gave an award to last year"
 description: "The company that won an Apple Design Award for making Swift prototyping easier is now getting absorbed. Classic Apple move."
 pubDate: 2026-06-29T16:38:31.852Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - swift
@@ -13,6 +13,8 @@ tags:
 source:
   name: "AppleInsider"
   url: "https://appleinsider.com/articles/26/06/29/apple-design-award-winner-acquired-by-apple-for-new-swift-tools?utm_source=rss"
+heroImage: "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Smartphone and coffee on a desk"
 ---
 
 [AppleInsider](https://appleinsider.com/articles/26/06/29/apple-design-award-winner-acquired-by-apple-for-new-swift-tools?utm_source=rss) reported that Apple acquired Rabbit 3 Times, Inc., the company behind Play, a visual development tool for Swift prototyping. This comes after Apple gave Play an Apple Design Award for innovation. The deal appears to be an asset purchase with optional staff hiring, not a full acquisition.

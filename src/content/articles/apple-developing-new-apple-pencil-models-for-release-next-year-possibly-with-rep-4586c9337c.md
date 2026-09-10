@@ -2,7 +2,7 @@
 title: "Apple Pencil replaceable batteries are coming because Brussels said so"
 description: "New Apple Pencil models arriving spring 2027 will likely let you swap the battery yourself. Thank EU regulations, not Apple's sudden commitment to repairability."
 pubDate: 2026-07-12T14:26:30.103Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - apple-pencil
@@ -13,6 +13,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/07/12/apple-pencil-ipad-new-battery-replacement/"
+heroImage: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Person using a tablet at a table"
 ---
 
 [9to5Mac](https://9to5mac.com/2026/07/12/apple-pencil-ipad-new-battery-replacement/) reports that Apple is prepping new Apple Pencil models for spring 2027, including refreshed versions of both the USB-C model and the Pencil Pro. The headliner: replaceable batteries, likely driven by EU rules kicking in that year requiring user-serviceable power cells in portable electronics.

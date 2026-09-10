@@ -2,7 +2,7 @@
 title: "Apple Arcade is getting Madden NFL 27, minus the microtransactions"
 description: "EA's bringing a streamlined version of Madden to Apple's gaming service in August. No Ultimate Team packs, no ads—just football."
 pubDate: 2026-07-14T14:52:11.872Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - apple-arcade
@@ -13,6 +13,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/07/14/apple-arcade-adding-the-ultimate-nfl-game-just-in-time-for-football-season/"
+heroImage: "https://images.unsplash.com/photo-1491933382430-971391ca20c0?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Apple devices arranged on a desk"
 ---
 
 Apple Arcade is adding Madden NFL 27 Arcade Edition on August 6, [9to5Mac](https://9to5mac.com/2026/07/14/apple-arcade-adding-the-ultimate-nfl-game-just-in-time-for-football-season/) reported Monday. It's the first time EA's flagship football franchise has landed on Apple's subscription service, and the timing—right before NFL preseason—is the rare example of Apple actually coordinating a content drop with the calendar.
