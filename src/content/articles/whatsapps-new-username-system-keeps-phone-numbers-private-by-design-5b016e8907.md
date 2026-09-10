@@ -2,7 +2,7 @@
 title: "WhatsApp finally gets usernames, seven years after Telegram"
 description: "Meta's catching up to features that have been table stakes elsewhere for years. Better late than never, but the timing is telling."
 pubDate: 2026-06-29T16:38:45.773Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - whatsapp
@@ -12,6 +12,8 @@ tags:
 source:
   name: "AppleInsider"
   url: "https://appleinsider.com/articles/26/06/29/whatsapps-new-username-system-keeps-phone-numbers-private-by-design?utm_source=rss"
+heroImage: "https://images.unsplash.com/photo-1491933382430-971391ca20c0?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Apple devices arranged on a desk"
 ---
 
 [AppleInsider](https://appleinsider.com/articles/26/06/29/whatsapps-new-username-system-keeps-phone-numbers-private-by-design?utm_source=rss) reported that WhatsApp opened username reservations on June 29, with a wider rollout coming later this year. The feature lets people connect without swapping phone numbers—useful for group chats, casual meetups, or anyone who doesn't want their digits floating around.

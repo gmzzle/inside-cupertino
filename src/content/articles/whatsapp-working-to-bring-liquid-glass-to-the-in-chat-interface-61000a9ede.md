@@ -2,7 +2,7 @@
 title: "WhatsApp is giving iMessage's Liquid Glass treatment to individual chats"
 description: "Meta's slowly rolling out iOS 18's design language to WhatsApp's chat interface. It's overdue, but also a sign of how far Apple's visual influence reaches."
 pubDate: 2026-05-02T06:35:41.973Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - whatsapp
@@ -13,6 +13,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/05/01/whatsapp-working-to-bring-liquid-glass-to-the-in-chat-interface/"
+heroImage: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Code on a computer monitor"
 ---
 
 [9to5Mac](https://9to5mac.com/2026/05/01/whatsapp-working-to-bring-liquid-glass-to-the-in-chat-interface/) reports that WhatsApp is now working to bring Apple's Liquid Glass design language into individual chat screens, not just the main Chats list. This is the visual overhaul Apple introduced with iOS 18 — translucent panels, refined frosting effects, the whole spatial computing aesthetic trickling down to everyday apps.

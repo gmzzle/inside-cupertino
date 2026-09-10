@@ -2,7 +2,7 @@
 title: "9to5Mac is running ads disguised as privacy journalism now"
 description: "A sponsored post for a data removal service got dressed up as editorial. It's a bad look for a site that covers Apple's privacy stance."
 pubDate: 2026-05-03T14:11:51.650Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - privacy
@@ -13,6 +13,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/05/03/why-you-need-digital-spring-cleaning-how-incogni-makes-effortless-sponsored/"
+heroImage: "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Smartphone and coffee on a desk"
 ---
 
 So [9to5Mac](https://9to5mac.com/2026/05/03/why-you-need-digital-spring-cleaning-how-incogni-makes-effortless-sponsored/) published what looks like a spring cleaning privacy explainer, complete with earnest warnings about data brokers harvesting your information. Except it's a sponsored post for Incogni, a service that scrubs your data from broker databases. The "(Sponsored)" tag is right there in the headline, but the whole thing is written like editorial.
