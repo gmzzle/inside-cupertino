@@ -2,7 +2,7 @@
 title: "Apple's reportedly planning to skip M5 on two Macs, which is weird"
 description: "Two upcoming Macs might jump straight from M4 to M6, according to Gurman. That's either a sign of architectural shifts or evidence Apple's chip naming has lost the plot."
 pubDate: 2026-07-23T15:09:23.441Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - m5
@@ -13,6 +13,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/07/23/two-new-macs-might-skip-m5-chips-and-go-straight-to-m6/"
+heroImage: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Hands typing on a laptop keyboard"
 ---
 
 According to [9to5Mac](https://9to5mac.com/2026/07/23/two-new-macs-might-skip-m5-chips-and-go-straight-to-m6/), Mark Gurman's latest roadmap suggests two new Mac models will skip the M5 generation entirely and jump straight to M6. Which is strange, because Apple's chip naming convention has been pretty straightforward since the M1 launched: every Mac gets the current generation, then waits for the next one.

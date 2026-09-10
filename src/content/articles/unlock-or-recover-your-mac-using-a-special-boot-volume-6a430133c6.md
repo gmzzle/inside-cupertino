@@ -2,7 +2,7 @@
 title: "Apple's Hidden Recovery Partition Gets a New Unlock Trick"
 description: "That secret boot volume Apple's been hiding on your Mac since 2011? It can now bail you out if you forget your password."
 pubDate: 2026-07-27T15:42:23.337Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - macos
@@ -13,6 +13,8 @@ tags:
 source:
   name: "Six Colors"
   url: "https://sixcolors.com/post/2026/07/unlock-or-recover-your-mac-using-a-special-boot-volume/"
+heroImage: "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Smartphone and coffee on a desk"
 ---
 
 Apple's hidden recovery partition—the one that's been sitting on your Mac since Lion in 2011—just got a new job: password recovery. [Six Colors](https://sixcolors.com/post/2026/07/unlock-or-recover-your-mac-using-a-special-boot-volume/) caught the update, which quietly shipped in a recent macOS point release.

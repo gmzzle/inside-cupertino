@@ -2,7 +2,7 @@
 title: "tvOS 27 beta hints HomePod and Apple TV are finally getting Siri AI"
 description: "Code strings in the latest tvOS beta suggest Apple Intelligence is coming to living room devices—a year after it should have."
 pubDate: 2026-06-23T15:49:01.335Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - apple-intelligence
@@ -13,6 +13,8 @@ tags:
 source:
   name: "AppleInsider"
   url: "https://appleinsider.com/articles/26/06/23/tvos-27-beta-code-backs-up-homepod-and-apple-tv-siri-ai-rumors?utm_source=rss"
+heroImage: "https://images.unsplash.com/photo-1556911220-bff31c812d90?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Modern kitchen and living space"
 ---
 
 [AppleInsider](https://appleinsider.com/articles/26/06/23/tvos-27-beta-code-backs-up-homepod-and-apple-tv-siri-ai-rumors?utm_source=rss) spotted references in the tvOS 27 beta that point to Apple Intelligence coming to HomePod and Apple TV. About time.
