@@ -2,7 +2,7 @@
 title: "Apple and Epic Set Their Timers for Another Round of Fee Haggling"
 description: "The Supreme Court punted Apple's stay request, so now the two companies have a schedule to argue over what Apple can charge for external payment links."
 pubDate: 2026-05-16T14:22:20.044Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - epic-games
@@ -13,6 +13,8 @@ tags:
 source:
   name: "AppleInsider"
   url: "https://appleinsider.com/articles/26/05/16/apple-epic-agree-on-pre-court-schedule-for-new-fee-proposals?utm_source=rss"
+heroImage: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Wooden gavel on a sound block"
 ---
 
 The Supreme Court declined Apple's request to pause the lower court's mandate, which means Apple and Epic are back at the negotiating table whether Apple likes it or not. [AppleInsider](https://appleinsider.com/articles/26/05/16/apple-epic-agree-on-pre-court-schedule-for-new-fee-proposals?utm_source=rss) reported that the two companies filed a joint schedule with the District Court on May 15, laying out when they'll duke it out over Apple's commission rate for outbound payment links.

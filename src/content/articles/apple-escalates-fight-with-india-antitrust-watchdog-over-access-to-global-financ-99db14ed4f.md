@@ -2,7 +2,7 @@
 title: "Apple tells India's antitrust regulator to stay in its lane"
 description: "Apple's latest court filing escalates a fight over whether India's Competition Commission can demand Apple's global financial data. The stakes are bigger than one case."
 pubDate: 2026-05-02T06:35:26.326Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - india
@@ -13,6 +13,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/05/01/apple-escalates-fight-with-india-antitrust-watchdog-over-access-to-global-financials/"
+heroImage: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Wooden gavel on a sound block"
 ---
 
 [9to5Mac](https://9to5mac.com/2026/05/01/apple-escalates-fight-with-india-antitrust-watchdog-over-access-to-global-financials/) reported that Apple is now accusing India's Competition Commission of overstepping its authority by demanding access to the company's global financials as part of an antitrust investigation. This isn't a routine objection. Apple is essentially arguing the CCI is acting beyond its jurisdiction—crossing from regulator into judge.
