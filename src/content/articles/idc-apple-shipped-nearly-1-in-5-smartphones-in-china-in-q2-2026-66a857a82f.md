@@ -2,7 +2,7 @@
 title: "Apple Took 19% of China's Phone Market Last Quarter—But Huawei's Winning"
 description: "IDC says Apple grew shipments in Q2, but Huawei grew faster. The real story is what happens when patriotism meets pricing pressure."
 pubDate: 2026-07-14T14:51:54.035Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - china
@@ -13,6 +13,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/07/14/idc-apple-shipped-nearly-1-in-5-smartphones-in-china-in-q2-2026/"
+heroImage: "https://images.unsplash.com/photo-1491933382430-971391ca20c0?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Apple devices arranged on a desk"
 ---
 
 Apple shipped nearly one in five smartphones in China during Q2 2026, according to [9to5Mac](https://9to5mac.com/2026/07/14/idc-apple-shipped-nearly-1-in-5-smartphones-in-china-in-q2-2026/), citing new IDC data. That 19% share sounds solid until you realize Huawei also posted growth—and in a market where every other player contracted, that makes this a two-horse race Apple isn't clearly winning.

@@ -2,7 +2,7 @@
 title: "Cats Lock is the Mac utility you didn't know you needed until right now"
 description: "A new Mac app blocks keyboard input when your cat walks across it. Niche? Sure. But it's also solving a surprisingly real problem."
 pubDate: 2026-05-17T04:08:59.876Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - mac
@@ -12,6 +12,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/05/16/indie-app-spotlight-cats-lock-is-a-fun-mac-app-that-solves-cat-keyboard-spam/"
+heroImage: "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "A professional desktop workstation in a softly lit studio"
 ---
 
 [9to5Mac](https://9to5mac.com/2026/05/16/indie-app-spotlight-cats-lock-is-a-fun-mac-app-that-solves-cat-keyboard-spam/) highlighted Cats Lock this week, and honestly, it's the kind of indie Mac utility that makes you wonder why Apple hasn't built this in already. The premise is simple: when your cat walks across your keyboard, the app detects the chaos and blocks the input. No more random Slack messages. No more accidentally nuking a paragraph you've been editing for twenty minutes.

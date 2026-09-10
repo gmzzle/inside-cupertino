@@ -2,7 +2,7 @@
 title: "Notepad.exe wants to fix the thing VS Code gets catastrophically wrong"
 description: "A new Mac code editor that lets you just start typing without creating a project first. Revolutionary? No. Overdue? Absolutely."
 pubDate: 2026-08-16T13:31:35.385Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - notepad-exe
@@ -13,6 +13,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/08/15/indie-app-spotlight-notepad-exe-is-an-ultra-fast-lightweight-code-editor-for-your-mac/"
+heroImage: "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Smartphone and coffee on a desk"
 ---
 
 [9to5Mac](https://9to5mac.com/2026/08/15/indie-app-spotlight-notepad-exe-is-an-ultra-fast-lightweight-code-editor-for-your-mac/) covered a new Mac code editor called Notepad.exe that does something radical: it lets you start typing code immediately without setting up a project first. Which sounds like table stakes until you remember that VS Code makes you create a folder, open that folder, dismiss seventeen extension recommendations, and wait for TypeScript to index the universe before you can write three lines of JavaScript.
