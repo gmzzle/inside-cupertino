@@ -2,7 +2,7 @@
 title: "Microsoft pulls the plug on Office 2019, forcing Mac users onto subscriptions"
 description: "Office 2019 stops working July 13. No updates, no workarounds. Microsoft wants your monthly payment instead."
 pubDate: 2026-05-28T16:54:51.104Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - microsoft
@@ -13,6 +13,8 @@ tags:
 source:
   name: "AppleInsider"
   url: "https://appleinsider.com/articles/26/05/28/microsoft-is-killing-office-2019-for-mac-and-iphone-and-you-cant-do-much-about-it?utm_source=rss"
+heroImage: "https://images.unsplash.com/photo-1496181133976-866b43b4b83a?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Open laptop on a wooden desk"
 ---
 
 [AppleInsider](https://appleinsider.com/articles/26/05/28/microsoft-is-killing-office-2019-for-mac-and-iphone-and-you-cant-do-much-about-it?utm_source=rss) reported that Microsoft is effectively bricking Office 2019 for Mac, iPad, and iPhone on July 13, 2026. Not ending support—actually stopping it from working. That's a different animal entirely.

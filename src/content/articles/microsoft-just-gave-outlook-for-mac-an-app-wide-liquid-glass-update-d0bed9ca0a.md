@@ -2,7 +2,7 @@
 title: "Microsoft Brings Liquid Glass to Outlook for Mac, Finally"
 description: "Microsoft's updated Outlook for Mac with its Liquid Glass design language. About time, honestly."
 pubDate: 2026-06-16T18:05:11.598Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - outlook
@@ -13,6 +13,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/06/16/microsoft-just-gave-outlook-for-mac-an-app-wide-liquid-glass-update/"
+heroImage: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Hands typing on a laptop keyboard"
 ---
 
 Microsoft rolled out an "app-wide" Liquid Glass update to Outlook for Mac today, which [9to5Mac](https://9to5mac.com/2026/06/16/microsoft-just-gave-outlook-for-mac-an-app-wide-liquid-glass-update/) says should make it "look more at home" on the platform. Translation: Microsoft is finally catching up to the visual standards Apple set with macOS Big Sur back in 2020.
