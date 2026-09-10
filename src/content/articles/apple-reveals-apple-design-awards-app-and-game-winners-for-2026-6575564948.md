@@ -2,7 +2,7 @@
 title: "Apple's 2026 Design Awards are out, and the winners are more niche than ever"
 description: "The annual WWDC developer participation trophies are here. This year's picks lean heavily into indie darlings you've probably never heard of."
 pubDate: 2026-06-02T17:24:21.630Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - design-awards
@@ -13,6 +13,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/06/02/apple-reveals-apple-design-awards-app-and-game-winners-for-2026/"
+heroImage: "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Smartphone and coffee on a desk"
 ---
 
 [9to5Mac](https://9to5mac.com/2026/06/02/apple-reveals-apple-design-awards-app-and-game-winners-for-2026/) reported that Apple just dropped its 2026 Apple Design Awards winners—twelve apps and games getting the fancy cube trophy ahead of next week's WWDC keynote. The timing is the same as always: drop the winners early, let developers bask in the glow, then move on to iOS 20 and whatever Vision Pro revision is coming.

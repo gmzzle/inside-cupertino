@@ -2,7 +2,7 @@
 title: "Apple Drops Second Betas for tvOS 27 and visionOS 27"
 description: "The usual mid-cycle beta refresh is here. Not much drama, but it's a sign the release cycle is moving along as expected."
 pubDate: 2026-06-22T17:40:42.980Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - tvos
@@ -13,6 +13,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/06/22/apple-releases-beta-2-for-tvos-27-visionos-27-and-more/"
+heroImage: "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Television in a living room"
 ---
 
 [9to5Mac](https://9to5mac.com/2026/06/22/apple-releases-beta-2-for-tvos-27-visionos-27-and-more/) reported that Apple released beta 2 for tvOS 27 and visionOS 27 today, along with the rest of its software lineup. This is the expected two-week cadence—beta 1 dropped at WWDC, now beta 2 arrives right on schedule.

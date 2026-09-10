@@ -2,7 +2,7 @@
 title: "Apple's Mac roadmap through 2028 just leaked, and it's boring in the best way"
 description: "Bloomberg's new report shows Apple settling into a predictable Mac update cadence - which is exactly what the lineup needs right now."
 pubDate: 2026-07-22T15:04:00.848Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - mac
@@ -13,6 +13,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/07/22/apples-huge-mac-roadmap-revealed-in-new-report/"
+heroImage: "https://images.unsplash.com/photo-1496181133976-866b43b4b83a?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Open laptop on a wooden desk"
 ---
 
 [9to5Mac](https://9to5mac.com/2026/07/22/apples-huge-mac-roadmap-revealed-in-new-report/) surfaced Bloomberg's latest Mac pipeline report, and the biggest takeaway isn't what's coming - it's that Apple finally has a rhythm. After years of Intel chaos and the initial M-series scramble, the company appears locked into an 18-month chip cadence with predictable product refreshes trailing behind. That's not exciting, but it's exactly what the Mac business needed.
