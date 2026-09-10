@@ -2,7 +2,7 @@
 title: "Apple TV+'s Summer Slate Actually Looks Good This Time"
 description: "Between Cape Fear and a handful of returning hits, Apple's streaming service might finally have enough shows to keep you subscribed past the free trial."
 pubDate: 2026-06-05T15:55:09.055Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - apple-tv-plus
@@ -12,6 +12,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/06/05/apple-tv-has-its-best-summer-lineup-ever-heres-whats-coming/"
+heroImage: "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Television in a living room"
 ---
 
 [9to5Mac](https://9to5mac.com/2026/06/05/apple-tv-has-its-best-summer-lineup-ever-heres-whats-coming/) is calling this Apple TV+'s "best summer lineup ever," which admittedly isn't a high bar. But the thing is, they might actually be right this time.

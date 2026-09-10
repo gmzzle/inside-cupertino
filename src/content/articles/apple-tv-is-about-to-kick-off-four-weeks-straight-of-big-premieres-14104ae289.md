@@ -2,7 +2,7 @@
 title: "Apple TV+ is suddenly stacking premieres like it knows what it's doing"
 description: "Four straight weeks of new shows starting with Slow Horses season 5. Apple's learned that spacing out releases actually works."
 pubDate: 2026-09-10T16:54:56.633Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - apple-tv-plus
@@ -12,6 +12,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/09/10/apple-tv-is-about-to-kick-off-four-weeks-of-big-premieres/"
+heroImage: "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Shopping bags and retail packages"
 ---
 
 [9to5Mac](https://9to5mac.com/2026/09/10/apple-tv-is-about-to-kick-off-four-weeks-of-big-premieres/) notes Apple TV+ is dropping big premieres four weeks in a row starting next week. That might sound like basic programming, but for Apple it represents something closer to actual strategy.

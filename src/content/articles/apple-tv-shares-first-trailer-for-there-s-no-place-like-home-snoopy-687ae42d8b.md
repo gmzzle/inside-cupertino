@@ -2,7 +2,7 @@
 title: "Snoopy's Doghouse Gets Sold in Apple TV+'s Next Peanuts Special"
 description: "Apple's betting on another Peanuts special, this time with Snoopy tracking down his iconic doghouse after a yard sale mishap. The formula's working."
 pubDate: 2026-07-09T15:56:24.612Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - apple-tv-plus
@@ -13,6 +13,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/07/09/apple-tv-shares-first-trailer-for-theres-no-place-like-home-snoopy/"
+heroImage: "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Television in a living room"
 ---
 
 [9to5Mac](https://9to5mac.com/2026/07/09/apple-tv-shares-first-trailer-for-theres-no-place-like-home-snoopy/) shared the first trailer for *There's No Place Like Home, Snoopy*, which puts the beagle on a quest to recover his doghouse after someone at a yard sale buys it. It's exactly the kind of low-stakes, high-heart premise that's kept Peanuts specials running for decades.
