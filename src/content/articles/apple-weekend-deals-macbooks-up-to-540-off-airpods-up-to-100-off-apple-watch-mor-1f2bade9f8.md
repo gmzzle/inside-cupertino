@@ -2,7 +2,7 @@
 title: "Apple's refurb store is undercutting its own retail discounts"
 description: "Weekend deals are fine, but the real savings are in Apple's own certified refurb section—and nobody seems to talk about it."
 pubDate: 2026-08-15T13:30:48.247Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - deals
@@ -13,6 +13,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/08/15/apple-weekend-deals-macbooks-airpods/"
+heroImage: "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Shopping bags and retail packages"
 ---
 
 [9to5Mac](https://9to5mac.com/2026/08/15/apple-weekend-deals-macbooks-airpods/) rounded up this weekend's Apple deals, and the headline figures look decent enough: AirPods Pro 3 at 25% off, AirPods Max 2 down $100, M5 Pro MacBooks discounted up to $540. Standard retail discount fare.

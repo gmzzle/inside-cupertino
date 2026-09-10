@@ -2,7 +2,7 @@
 title: "The ClickFix Attack Shows Why IT Needs to Stop Deferring macOS Updates"
 description: "A new social engineering campaign is exploiting the 90-day update window that many IT departments still use. Time to rethink that policy."
 pubDate: 2026-05-23T14:40:40.818Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - security
@@ -13,6 +13,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/05/23/apple-work-why-the-clickfix-campaign-means-it-is-time-to-kill-the-90-day-update-deferral/"
+heroImage: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Dark code editor on a screen"
 ---
 
 Mac admins are spooked right now, and they should be. [9to5Mac](https://9to5mac.com/2026/05/23/apple-work-why-the-clickfix-campaign-means-it-is-time-to-kill-the-90-day-update-deferral/) flagged a Netskope report on a new macOS malware campaign called ClickFix that's making the rounds, and it's nasty precisely because it doesn't rely on exotic exploits. It relies on users doing what sketchy pop-ups tell them to do - and it works.

@@ -2,7 +2,7 @@
 title: "Mac Studio's M7 Ultra might finally get that redesign it's been putting off"
 description: "Apple's planning an M5 chip bump for 2024, fine. But 2028's M7 model could be the first real update since 2022's launch."
 pubDate: 2026-06-28T14:49:13.815Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - mac-studio
@@ -13,6 +13,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/06/28/m7-ultra-mac-studio-coming-in-2028-after-m5-ultra-model-later-this-year/"
+heroImage: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Hands typing on a laptop keyboard"
 ---
 
 [9to5Mac](https://9to5mac.com/2026/06/28/m7-ultra-mac-studio-coming-in-2028-after-m5-ultra-model-later-this-year/) reported that Apple's Mac Studio is getting an M5 refresh later this year, followed by an M7 Ultra model in 2028 that could bring "more interesting changes." Translation: the 2024 model is a spec bump, the 2028 one might actually be new hardware.
