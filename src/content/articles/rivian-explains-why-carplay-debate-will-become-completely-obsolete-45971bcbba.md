@@ -2,7 +2,7 @@
 title: "Rivian's Software Chief Thinks AI Will Save Him From Adding CarPlay"
 description: "Wassym Bensaid says deep AI integration will make the CarPlay debate obsolete. That's a convenient timeline for a company that just doesn't want to give up screen real estate."
 pubDate: 2026-05-28T16:54:35.432Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - carplay
@@ -12,6 +12,8 @@ tags:
 source:
   name: "MacRumors"
   url: "https://www.macrumors.com/2026/05/28/rivian-software-chief-on-carplay/"
+heroImage: "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Shopping bags and retail packages"
 ---
 
 Rivian's software chief Wassym Bensaid told The Verge's Decoder podcast that his company still won't offer CarPlay because it "takes over every single pixel in the car," [MacRumors](https://www.macrumors.com/2026/05/28/rivian-software-chief-on-carplay/) reported. Fair enough. But then he pivoted to his real argument: AI agents will eventually make the whole CarPlay debate "completely obsolete."

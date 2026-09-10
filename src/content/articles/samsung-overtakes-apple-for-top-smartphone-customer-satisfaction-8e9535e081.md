@@ -2,7 +2,7 @@
 title: "Samsung Edges Past Apple in Customer Satisfaction (By One Point)"
 description: "Apple drops to second place in the ACSI rankings for the first time in years. The gap is tiny, but the timing is awkward."
 pubDate: 2026-05-20T16:27:03.151Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - customer-satisfaction
@@ -13,6 +13,8 @@ tags:
 source:
   name: "MacRumors"
   url: "https://www.macrumors.com/2026/05/20/samsung-overtakes-apple-for-customer-satisfaction/"
+heroImage: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Wooden gavel on a sound block"
 ---
 
 [MacRumors](https://www.macrumors.com/2026/05/20/samsung-overtakes-apple-for-customer-satisfaction/) reported that Samsung now leads Apple 81 to 80 in the American Customer Satisfaction Index's annual smartphone study. It's the first time in recent memory Apple hasn't tied or topped the category, and while a one-point gap is basically a rounding error, the optics aren't great.
