@@ -2,7 +2,7 @@
 title: "iPhone 18 Pro Max reportedly costs Apple $300 more to build"
 description: "Component shortages are hitting Apple's flagship hard. A $200-plus price hike seems likely, and that's going to hurt."
 pubDate: 2026-07-09T15:56:06.258Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - iphone-18
@@ -13,6 +13,8 @@ tags:
 source:
   name: "AppleInsider"
   url: "https://appleinsider.com/articles/26/07/09/price-rises-certain-as-iphone-18-pro-max-component-costs-soar?utm_source=rss"
+heroImage: "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Shopping bags and retail packages"
 ---
 
 [AppleInsider](https://appleinsider.com/articles/26/07/09/price-rises-certain-as-iphone-18-pro-max-component-costs-soar?utm_source=rss) is reporting that the iPhone 18 Pro Max bill of materials is running $300 higher than the iPhone 17 Pro Max. If Counterpoint Research's numbers are even close, Apple's going to pass most of that along. We're probably looking at a $200-plus bump on the Pro Max when it ships this fall.

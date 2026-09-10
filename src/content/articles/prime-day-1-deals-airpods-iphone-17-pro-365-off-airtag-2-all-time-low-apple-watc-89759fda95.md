@@ -2,7 +2,7 @@
 title: "Prime Day puts iPhone 17 Pro at $365 off, but only if you're okay with 'renewed'"
 description: "Amazon's cutting deep on Apple gear for Prime Day 2026, including rare discounts on AirTag 2 and the black Magic Mouse. The iPhone deal has a catch."
 pubDate: 2026-06-23T15:49:19.254Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - prime-day
@@ -13,6 +13,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/06/23/prime-day-deals-airpods-iphone-17-airtag-2-apple-watch/"
+heroImage: "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Shopping bags and retail packages"
 ---
 
 [9to5Mac](https://9to5mac.com/2026/06/23/prime-day-deals-airpods-iphone-17-airtag-2-apple-watch/) reports Amazon is running Prime Day discounts across Apple's lineup, with some genuinely notable pricing. The $365 off iPhone 17 Pro sounds great until you notice the fine print: it's Amazon Renewed Premium. That's their refurb program, which is fine if you're comfortable with it, but calling it a straight "Prime Day discount" is doing some heavy lifting. It's a deal, sure. It's just not the same as $365 off new.
