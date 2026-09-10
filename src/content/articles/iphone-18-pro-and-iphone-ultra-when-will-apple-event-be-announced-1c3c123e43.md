@@ -2,7 +2,7 @@
 title: "Apple's September 8 iPhone event rumor doesn't pass the smell test"
 description: "A dubious report claims Apple will announce the iPhone 18 Pro on September 8. The problem? Apple never does that."
 pubDate: 2026-08-24T13:52:06.536Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - iphone-18
@@ -12,6 +12,8 @@ tags:
 source:
   name: "MacRumors"
   url: "https://www.macrumors.com/2026/08/24/iphone-18-pro-iphone-ultra-apple-event-when/"
+heroImage: "https://images.unsplash.com/photo-1592286927505-1def25115558?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Close-up of an iPhone in soft studio lighting"
 ---
 
 [MacRumors](https://www.macrumors.com/2026/08/24/iphone-18-pro-iphone-ultra-apple-event-when/) is casting doubt on a ChannelNews report that pegs Apple's September event for Tuesday, September 8, and they're right to be skeptical. Apple has never held its iPhone reveal the day after Labor Day. There's always been at least a two-day buffer, which would push the realistic earliest date to Wednesday, September 9.

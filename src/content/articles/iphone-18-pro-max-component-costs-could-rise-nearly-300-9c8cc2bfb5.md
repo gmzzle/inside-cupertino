@@ -2,7 +2,7 @@
 title: "iPhone 18 Pro Max parts could cost Apple $300 more, but you'll still pay $1,199"
 description: "Memory chip shortages and TSMC's 2nm transition are hitting Apple's component costs hard. Don't expect them to eat it."
 pubDate: 2026-07-10T15:32:30.993Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - iphone-18
@@ -13,6 +13,8 @@ tags:
 source:
   name: "MacRumors"
   url: "https://www.macrumors.com/2026/07/10/iphone-18-pro-max-costs-could-rise/"
+heroImage: "https://images.unsplash.com/photo-1605236453806-6ff36851218e?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Multiple smartphone silhouettes arranged in a grid"
 ---
 
 The iPhone 18 Pro Max's bill of materials is set to jump nearly $300 compared to this year's model, according to a [MacRumors](https://www.macrumors.com/2026/07/10/iphone-18-pro-max-costs-could-rise/) report on Counterpoint Research estimates. The 1TB configuration is getting hit especially hard: NAND flash alone could run Apple north of $250, which is roughly what *all* the components in an iPhone 17 Pro Max cost combined. DRAM pricing is spiking too, both caught up in the memory shortage driven by AI server demand.

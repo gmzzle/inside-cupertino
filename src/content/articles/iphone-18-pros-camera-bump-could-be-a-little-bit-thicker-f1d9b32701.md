@@ -2,7 +2,7 @@
 title: "The iPhone 18 Pro might actually get thicker, and that's fine"
 description: "A Weibo rumor says Apple's adding 2mm to the iPhone 18 Pro's camera bump. If true, it's the practical move—not the elegant one."
 pubDate: 2026-07-07T15:43:54.940Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - iphone-18
@@ -12,6 +12,8 @@ tags:
 source:
   name: "AppleInsider"
   url: "https://appleinsider.com/articles/26/07/07/iphone-18-pros-camera-bump-could-be-a-little-bit-thicker?utm_source=rss"
+heroImage: "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Smartphone held in soft light against a dark background"
 ---
 
 [AppleInsider](https://appleinsider.com/articles/26/07/07/iphone-18-pros-camera-bump-could-be-a-little-bit-thicker?utm_source=rss) is running a Weibo rumor that the iPhone 18 Pro's camera bump will grow by about 2mm compared to the iPhone 17 Pro. That's a lot for a component Apple usually tries to shave down, not bulk up.
