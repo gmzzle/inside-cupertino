@@ -2,7 +2,7 @@
 title: "The Apple Watch SE 3 is good enough, and that's Apple's problem"
 description: "Prime Day pricing makes the gap between SE and Series 11 uncomfortably narrow. For most wrists, the cheaper one wins."
 pubDate: 2026-06-24T15:33:25.119Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - apple-watch
@@ -13,6 +13,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/06/24/apple-watch-series-11-vs-apple-watch-se/"
+heroImage: "https://images.unsplash.com/photo-1434494876617-05f1dda2b0fc?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Smartwatch worn on a wrist outdoors"
 ---
 
 Apple's watch lineup has a positioning problem, and Prime Day pricing just made it worse. [9to5Mac](https://9to5mac.com/2026/06/24/apple-watch-series-11-vs-apple-watch-se/) is running the usual comparison guide between the SE 3 and Series 11, but the real story is in the discount gap: the SE 3 starts at $199, while the Series 11 drops to $279. That's an $80 difference for an always-on display, faster chip, and blood oxygen monitoring. For a lot of people, that math doesn't add up.

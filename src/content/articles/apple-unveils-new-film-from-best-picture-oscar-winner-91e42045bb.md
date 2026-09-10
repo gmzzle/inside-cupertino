@@ -2,7 +2,7 @@
 title: "Sian Heder's Being Heumann hits Apple TV+ after CODA's Oscar win"
 description: "Apple's betting on the director who delivered its first Best Picture statue. Smart move, but Judy Heumann's story deserves more than prestige bait."
 pubDate: 2026-07-20T15:11:56.019Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - apple-tv-plus
@@ -13,6 +13,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/07/20/apple-unveils-new-film-from-best-picture-oscar-winner/"
+heroImage: "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Television in a living room"
 ---
 
 [9to5Mac](https://9to5mac.com/2026/07/20/apple-unveils-new-film-from-best-picture-oscar-winner/) reported that Sian Heder's next film, *Being Heumann*, now has a release date on Apple TV+. This is the director's first project since *CODA* became the first streaming film to win Best Picture in 2022, which also happened to be Apple's first Oscar in that category. The company paid $25 million for *CODA* at Sundance in 2021. That bet paid off in cultural capital, even if the movie's actual viewership numbers remain a mystery Apple will never share.

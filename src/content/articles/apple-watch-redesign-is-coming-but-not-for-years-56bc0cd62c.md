@@ -2,7 +2,7 @@
 title: "Apple Watch is treading water until at least 2027"
 description: "The Series 12 and Ultra 4 are getting faster chips and maybe some software tweaks. That's it. A real redesign isn't coming for years."
 pubDate: 2026-07-26T14:36:42.399Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - apple-watch
@@ -13,6 +13,8 @@ tags:
 source:
   name: "AppleInsider"
   url: "https://appleinsider.com/articles/26/07/26/apple-watch-redesign-is-coming-but-not-for-years?utm_source=rss"
+heroImage: "https://images.unsplash.com/photo-1434494876617-05f1dda2b0fc?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Smartwatch worn on a wrist outdoors"
 ---
 
 [AppleInsider](https://appleinsider.com/articles/26/07/26/apple-watch-redesign-is-coming-but-not-for-years?utm_source=rss) reports that Apple is already testing the September 2026 Apple Watch lineup, and the short version is: don't expect much. The Series 12 and Ultra 4 are getting new processors for better performance, possibly some fitness tracking improvements through software, but no new sensors and no visible design changes.
