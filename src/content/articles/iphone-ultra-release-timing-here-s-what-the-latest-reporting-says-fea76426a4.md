@@ -2,7 +2,7 @@
 title: "iPhone Ultra Ships When Apple Figures Out the Hinge, Apparently"
 description: "The foldable iPhone gets announced next week, but don't hold your breath for a delivery date. Apple's playing it safe after the hardware nightmares of 2024."
 pubDate: 2026-08-31T19:24:43.146Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - iphone-ultra
@@ -13,6 +13,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/08/31/iphone-ultra-release-timing-heres-what-the-latest-reporting-says/"
+heroImage: "https://images.unsplash.com/photo-1605236453806-6ff36851218e?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Multiple smartphone silhouettes arranged in a grid"
 ---
 
 Apple's announcing the iPhone Ultra at next week's event, but [9to5Mac](https://9to5mac.com/2026/08/31/iphone-ultra-release-timing-heres-what-the-latest-reporting-says/) reports the actual ship date is still up in the air. That's not how this usually works. When Apple says September event, you expect October phones. This time? Maybe November. Maybe later.

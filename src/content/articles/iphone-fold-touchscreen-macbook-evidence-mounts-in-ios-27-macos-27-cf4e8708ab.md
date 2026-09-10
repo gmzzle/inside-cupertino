@@ -2,7 +2,7 @@
 title: "iOS 27 beta just gave away Apple's foldable roadmap"
 description: "Code references in the developer previews point to a folding iPhone and touchscreen MacBook. Apple's getting sloppy—or testing the waters."
 pubDate: 2026-06-14T15:07:41.031Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - iphone-fold
@@ -13,6 +13,8 @@ tags:
 source:
   name: "AppleInsider"
   url: "https://appleinsider.com/articles/26/06/14/iphone-fold-touchscreen-macbook-evidence-mounts-in-ios-27-macos-27?utm_source=rss"
+heroImage: "https://images.unsplash.com/photo-1496181133976-866b43b4b83a?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Open laptop on a wooden desk"
 ---
 
 Apple just leaked its own hardware again. [AppleInsider](https://appleinsider.com/articles/26/06/14/iphone-fold-touchscreen-macbook-evidence-mounts-in-ios-27-macos-27?utm_source=rss) caught references in the iOS 27 and macOS 27 Golden Gate betas that point to both a folding iPhone and a MacBook with a touchscreen—two products Apple has publicly waffled on for years while Samsung and Microsoft have shipped theirs.

@@ -2,7 +2,7 @@
 title: "Apple Wallet IDs finally hit Virginia, which means the rollout is still glacial"
 description: "Four years after announcement, digital driver's licenses are in just 15 states. Virginia's next, which is nice, but this feature is still moving like molasses."
 pubDate: 2026-05-29T16:42:20.876Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - wallet
@@ -12,6 +12,8 @@ tags:
 source:
   name: "MacRumors"
   url: "https://www.macrumors.com/2026/05/29/apple-wallet-ids-coming-to-15th-state/"
+heroImage: "https://images.unsplash.com/photo-1592286927505-1def25115558?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Close-up of an iPhone in soft studio lighting"
 ---
 
 [MacRumors](https://www.macrumors.com/2026/05/29/apple-wallet-ids-coming-to-15th-state/) reports Virginia is getting Wallet-based driver's licenses soon, making it the 15th state to support the feature. That's counting Puerto Rico in the total, which is a bit of creative scorekeeping since it's a territory, but sure. Arkansas just came online this week.
