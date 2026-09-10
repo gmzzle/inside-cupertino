@@ -2,7 +2,7 @@
 title: "B&H knocks $200 off the 48GB M5 Pro MacBook Pro, which is still $2,899"
 description: "A flash sale on the upgraded 14-inch makes the RAM bump cheaper, but you're still deep into Pro territory at nearly three grand."
 pubDate: 2026-09-09T17:03:16.945Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - macbook-pro
@@ -13,6 +13,8 @@ tags:
 source:
   name: "AppleInsider"
   url: "https://appleinsider.com/articles/26/09/09/flash-deal-drives-m5-pro-macbook-pro-with-48gb-ram-down-to-2899?utm_source=rss"
+heroImage: "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Shopping bags and retail packages"
 ---
 
 [AppleInsider](https://appleinsider.com/articles/26/09/09/flash-deal-drives-m5-pro-macbook-pro-with-48gb-ram-down-to-2899?utm_source=rss) spotted a flash sale at B&H that drops the 14-inch MacBook Pro with M5 Pro and 48GB of RAM to $2,899. That's $200 off, which matters when you're already this far into the price curve.

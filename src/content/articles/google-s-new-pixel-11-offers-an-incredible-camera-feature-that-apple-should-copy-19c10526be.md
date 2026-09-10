@@ -2,7 +2,7 @@
 title: "Google's Pixel 11 Camera Controls Show What iPhone Photography Is Missing"
 description: "The Pixel 11's new processing options let you dial in your shot before you take it. Apple's computational photography is great, but you can't turn it off."
 pubDate: 2026-08-23T13:32:35.322Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - camera
@@ -13,6 +13,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/08/22/pixel-11-new-camera-feature-apple-should-copy/"
+heroImage: "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Smartphone held in soft light against a dark background"
 ---
 
 [9to5Mac](https://9to5mac.com/2026/08/22/pixel-11-new-camera-feature-apple-should-copy/) is making noise about the Pixel 11's new camera controls, and honestly, they're onto something. Google's letting you tweak processing settings before you shoot—think HDR intensity, noise reduction levels, that sort of thing. It's granular control over the computational stuff that usually just happens automatically.
