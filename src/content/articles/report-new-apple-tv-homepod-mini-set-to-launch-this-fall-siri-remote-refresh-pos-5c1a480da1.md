@@ -2,7 +2,7 @@
 title: "Apple's Fall Living Room Refresh Is All About the Chip Inside"
 description: "New Apple TV and HomePod mini arriving this fall with faster processors to handle next-gen Siri. The remote might finally get a tweak too."
 pubDate: 2026-05-31T14:46:08.715Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - apple-tv
@@ -13,6 +13,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/05/31/new-apple-tv-and-homepod-mini-launching-this-fall-apple-intelligence/"
+heroImage: "https://images.unsplash.com/photo-1556911220-bff31c812d90?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Modern kitchen and living space"
 ---
 
 [9to5Mac](https://9to5mac.com/2026/05/31/new-apple-tv-and-homepod-mini-launching-this-fall-apple-intelligence/) reports that Apple's planning updated Apple TV and HomePod mini units for this fall, timed to the launch of next-generation Siri in iOS 27. Both are essentially chip bumps, not redesigns. The Apple TV 4K might also get a tweaked Siri Remote.

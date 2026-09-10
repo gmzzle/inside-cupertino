@@ -2,7 +2,7 @@
 title: "Apple's Finally Fixing the AirPods Settings Mess in iOS 27"
 description: "The current AirPods settings screen is a disaster. Apple's planning a redesign for iOS 27, but no standalone app."
 pubDate: 2026-05-24T14:24:46.983Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - airpods
@@ -12,6 +12,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/05/24/report-ios-27-to-revamp-the-airpods-settings-ui/"
+heroImage: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Over-ear headphones on a colorful backdrop"
 ---
 
 [9to5Mac](https://9to5mac.com/2026/05/24/report-ios-27-to-revamp-the-airpods-settings-ui/) reported that iOS 27 will bring a redesigned AirPods settings interface, supposedly "more functional, better organized and more streamlined." About time.

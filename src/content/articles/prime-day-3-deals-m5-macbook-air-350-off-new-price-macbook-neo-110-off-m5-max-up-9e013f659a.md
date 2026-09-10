@@ -2,7 +2,7 @@
 title: "Amazon's Prime Day deals are a hostage negotiation against Apple's price hikes"
 description: "M5 MacBooks are up to $800 off during Prime Day, but only because Apple just jacked up prices. Amazon's effectively running damage control."
 pubDate: 2026-06-25T15:39:41.985Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - prime-day
@@ -13,6 +13,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/06/25/prime-day-deals-macbook-air-macbook-neo-airpods-pro-3/"
+heroImage: "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Shopping bags and retail packages"
 ---
 
 Apple raised prices across the MacBook and iPad lines earlier this week, and now Amazon is scrambling to move inventory before the new MSRPs take effect. [9to5Mac](https://9to5mac.com/2026/06/25/prime-day-deals-macbook-air-macbook-neo-airpods-pro-3/) reports the M5 MacBook Air is $350 off and the M5 Pro/Max models are getting slashed by up to $800, which sounds great until you realize these discounts are measured against prices that didn't exist three days ago.
