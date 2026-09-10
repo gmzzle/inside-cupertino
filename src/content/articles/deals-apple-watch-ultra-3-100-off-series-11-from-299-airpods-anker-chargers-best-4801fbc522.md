@@ -2,7 +2,7 @@
 title: "Apple Watch Ultra 3 hits $100 off as clearance season starts early"
 description: "Amazon's discounting the Ultra 3 ahead of schedule. Either demand is soft or they know something about September's lineup."
 pubDate: 2026-08-03T15:43:42.892Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - apple-watch
@@ -13,6 +13,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/08/03/deals-apple-watch-ultra-3-100-off-airpods-anker-chargers/"
+heroImage: "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Shopping bags and retail packages"
 ---
 
 Amazon just knocked $100 off the Apple Watch Ultra 3, which is interesting timing considering we're barely into August. [9to5Mac](https://9to5mac.com/2026/08/03/deals-apple-watch-ultra-3-100-off-airpods-anker-chargers/) spotted the discount alongside refreshed Series 11 pricing starting at $299, and the whole thing feels less like a summer sale and more like inventory management.

@@ -2,7 +2,7 @@
 title: "Apple's price hikes are coming, and accessory makers are racing to clear stock"
 description: "Amazon's slashing prices on iPad Air and Magic Keyboards before new pricing takes effect. Meanwhile, AirTag 2 is already cheaper than the original."
 pubDate: 2026-07-01T15:42:30.614Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - deals
@@ -13,6 +13,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/07/01/deals-airtag-2-m4-ipad-air-magic-keyboard-satechi/"
+heroImage: "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Shopping bags and retail packages"
 ---
 
 Apple's July price adjustments are creating a weird discount window. [9to5Mac](https://9to5mac.com/2026/07/01/deals-airtag-2-m4-ipad-air-magic-keyboard-satechi/) spotted M4 iPad Air models at $350 off and M5 iPad Pros down $300 at Amazon—but only on remaining stock. Once those units ship, the new pricing kicks in and these deals evaporate.

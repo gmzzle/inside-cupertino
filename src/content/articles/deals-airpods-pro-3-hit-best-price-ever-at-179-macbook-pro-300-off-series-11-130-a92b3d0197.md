@@ -2,7 +2,7 @@
 title: "AirPods Pro 3 Just Hit $179, Which Tells You Everything About AirPods Pro 4"
 description: "Apple's third-gen AirPods Pro are getting steep discounts barely a year after launch. That's not normal—and it probably means new ones are coming soon."
 pubDate: 2026-06-10T16:35:59.994Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - airpods
@@ -13,6 +13,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/06/10/deals-airpods-pro-240w-beats-cable-macbook-pro/"
+heroImage: "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Shopping bags and retail packages"
 ---
 
 AirPods Pro 3 are down to $179 at Amazon, according to [9to5Mac](https://9to5mac.com/2026/06/10/deals-airpods-pro-240w-beats-cable-macbook-pro/)—nearly 30% off a product that launched in September 2025. That's the kind of discount you see when a retailer knows something you don't.
