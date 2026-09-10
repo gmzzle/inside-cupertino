@@ -2,7 +2,7 @@
 title: "Apple's fabric AirPod patent is clever tech hunting for a real problem"
 description: "A new patent describes scanning your ears to 3D-print custom AirPods. The tech is cool. The logistics? That's the actual question."
 pubDate: 2026-09-01T17:11:12.323Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - airpods
@@ -13,6 +13,8 @@ tags:
 source:
   name: "AppleInsider"
   url: "https://appleinsider.com/articles/26/09/01/it-might-be-trivial-to-make-custom-fit-airpods-in-the-future?utm_source=rss"
+heroImage: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Wooden gavel on a sound block"
 ---
 
 Apple has filed a patent for fabric-based AirPods that would be custom-fit to each user's ears using 3D scanning, [AppleInsider](https://appleinsider.com/articles/26/09/01/it-might-be-trivial-to-make-custom-fit-airpods-in-the-future?utm_source=rss) reported. The idea is straightforward: scan your ear with an iPhone's LiDAR sensor, send those measurements somewhere, get back AirPods molded specifically for your tragus and concha. It's the kind of thing that sounds great until you think about it for thirty seconds.

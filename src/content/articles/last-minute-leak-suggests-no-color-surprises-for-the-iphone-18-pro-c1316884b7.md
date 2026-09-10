@@ -2,7 +2,7 @@
 title: "Bloomberg Predicts iPhone 18 Pro Colors Minutes Before Event, As If Anyone Cares"
 description: "Right before showtime, we're getting yet another leak about iPhone 18 Pro colors. The safe bet? Apple's sticking with what works."
 pubDate: 2026-09-09T17:03:31.458Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - iphone-18-pro
@@ -13,6 +13,8 @@ tags:
 source:
   name: "AppleInsider"
   url: "https://appleinsider.com/articles/26/09/09/last-minute-leak-suggests-no-color-surprises-for-the-iphone-18-pro?utm_source=rss"
+heroImage: "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Smartphone held in soft light against a dark background"
 ---
 
 [AppleInsider](https://appleinsider.com/articles/26/09/09/last-minute-leak-suggests-no-color-surprises-for-the-iphone-18-pro?utm_source=rss) is running a Bloomberg report minutes before Apple's event that predicts the iPhone 18 Pro color lineup. The headline promises "no surprises," which is probably the most honest thing you'll read about an Apple event all day.

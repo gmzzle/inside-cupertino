@@ -2,7 +2,7 @@
 title: "John Ternus's First Tweet Is Exactly What You'd Expect"
 description: "The new Apple CEO joined X with a one-word post. It's both a callback to Steve Jobs and a sign that Ternus isn't Tim Cook 2.0."
 pubDate: 2026-09-01T17:11:27.950Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - john-ternus
@@ -12,6 +12,8 @@ tags:
 source:
   name: "AppleInsider"
   url: "https://appleinsider.com/articles/26/09/01/john-ternus-says-hello-in-his-x-accounts-first-post?utm_source=rss"
+heroImage: "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Smartphone and coffee on a desk"
 ---
 
 [AppleInsider](https://appleinsider.com/articles/26/09/01/john-ternus-says-hello-in-his-x-accounts-first-post?utm_source=rss) reported that John Ternus posted "hello" as his first tweet on X. That's it. One word, lowercase, no punctuation. It's the digital equivalent of walking into a room and nodding.
