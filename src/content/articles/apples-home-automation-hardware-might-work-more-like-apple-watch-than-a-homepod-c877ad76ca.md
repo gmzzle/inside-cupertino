@@ -2,7 +2,7 @@
 title: "Apple's HomeHub borrows the Watch UI, which actually makes sense"
 description: "New macOS code shows Apple's long-rumored home display will use Watch-style faces and complications. Smart move—if they nail the right defaults."
 pubDate: 2026-08-19T13:43:49.340Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - homehub
@@ -13,6 +13,8 @@ tags:
 source:
   name: "AppleInsider"
   url: "https://appleinsider.com/articles/26/08/19/apples-home-automation-hardware-will-work-more-like-an-apple-watch-than-a-homepod?utm_source=rss"
+heroImage: "https://images.unsplash.com/photo-1556911220-bff31c812d90?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Modern kitchen and living space"
 ---
 
 [AppleInsider](https://appleinsider.com/articles/26/08/19/apples-home-automation-hardware-will-work-more-like-an-apple-watch-than-a-homepod?utm_source=rss) dug into macOS Tahoe code and found references to a "Face Gallery" and complications for the long-rumored HomeHub device. Basically, Apple's taking the Watch's customizable face approach and dropping it onto whatever this home automation screen turns out to be.

@@ -2,7 +2,7 @@
 title: "Apple Takes Down Beta Site an Hour Before WWDC Because Drama Loves a Deadline"
 description: "The beta portal's annual pre-keynote vanishing act is back. Here's what it actually means for developers waiting on iOS 20 and friends."
 pubDate: 2026-06-08T16:49:52.362Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - wwdc
@@ -12,6 +12,8 @@ tags:
 source:
   name: "MacRumors"
   url: "https://www.macrumors.com/2026/06/08/apple-beta-website-back-soon/"
+heroImage: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Dark code editor on a screen"
 ---
 
 [MacRumors](https://www.macrumors.com/2026/06/08/apple-beta-website-back-soon/) noticed Apple's Beta Software Program site went dark an hour before the WWDC keynote, which is both completely predictable and somehow still manages to generate mild anxiety among the people who depend on it.

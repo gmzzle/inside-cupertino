@@ -2,7 +2,7 @@
 title: "Best Buy's Anniversary Sale Has the AirPods Max 2 at Their Lowest Price Yet"
 description: "The second-gen AirPods Max are down to $429 at Best Buy, and the M4 iPad Air is $100 off. Actual discounts on stuff Apple rarely budges on."
 pubDate: 2026-08-22T13:31:58.604Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - airpods-max
@@ -12,6 +12,8 @@ tags:
 source:
   name: "MacRumors"
   url: "https://www.macrumors.com/2026/08/22/best-apple-deals-of-the-week-8-21-26/"
+heroImage: "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Shopping bags and retail packages"
 ---
 
 [MacRumors](https://www.macrumors.com/2026/08/22/best-apple-deals-of-the-week-8-21-26/) rounded up this week's Apple deals, and for once there's something worth paying attention to. Best Buy's 60th anniversary sale has the AirPods Max 2 at $429, which is $120 off and the lowest price we've seen since they launched last year. If you've been waiting for Apple's most divisive headphones to hit a number that doesn't feel insulting, this is it.
