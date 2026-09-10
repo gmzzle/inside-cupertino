@@ -2,7 +2,7 @@
 title: "Amazon's Back-to-School Sale Has Nothing to Do With School"
 description: "If you need a 55-inch Frame TV for biology class, Amazon's got you covered. Otherwise, this is just August retail dressed up in a theme."
 pubDate: 2026-08-12T14:20:54.074Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - accessories
@@ -13,6 +13,8 @@ tags:
 source:
   name: "MacRumors"
   url: "https://www.macrumors.com/2026/08/12/back-to-school-accessory/"
+heroImage: "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Shopping bags and retail packages"
 ---
 
 [MacRumors](https://www.macrumors.com/2026/08/12/back-to-school-accessory/) rounded up Amazon's "back to school" accessory sale this week, and it's the usual August ritual: retailers slap a scholastic label on whatever inventory they need to move. Sony WH-1000XM5 headphones for $248? Sure, students use headphones. A $1,200 Samsung 32-inch Smart Monitor? That's a stretch. A 55-inch Frame TV for $898? Come on.

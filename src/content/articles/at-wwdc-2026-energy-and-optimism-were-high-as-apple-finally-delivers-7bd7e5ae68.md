@@ -2,7 +2,7 @@
 title: "WWDC 2026: Apple Actually Shipped the AI It Promised Two Years Ago"
 description: "After two years of cautious previews and half-baked AI features, developers at WWDC say Apple finally delivered. The vibe shift is real."
 pubDate: 2026-06-15T17:59:10.250Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - wwdc
@@ -12,6 +12,8 @@ tags:
 source:
   name: "AppleInsider"
   url: "https://appleinsider.com/articles/26/06/15/at-wwdc-2026-energy-and-optimism-were-high-as-apple-finally-delivers?utm_source=rss"
+heroImage: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Dark code editor on a screen"
 ---
 
 [AppleInsider](https://appleinsider.com/articles/26/06/15/at-wwdc-2026-energy-and-optimism-were-high-as-apple-finally-delivers?utm_source=rss) caught the mood at WWDC 2026: developers are actually excited again. That's notable because the past two years of Apple Intelligence announcements have felt more like cautious beta tests than product launches.

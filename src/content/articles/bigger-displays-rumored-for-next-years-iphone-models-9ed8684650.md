@@ -2,7 +2,7 @@
 title: "Apple's prototyping 6.4-inch and 7-inch displays for the iPhone 20"
 description: "The rumor mill says Apple's testing bigger screens for 2027. If true, it's the clearest sign yet that the company sees the growth treadmill as the only way forward."
 pubDate: 2026-08-04T15:24:38.809Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - iphone-20
@@ -12,6 +12,8 @@ tags:
 source:
   name: "MacRumors"
   url: "https://www.macrumors.com/2026/08/04/bigger-displays-rumored-for-next-year-iphones/"
+heroImage: "https://images.unsplash.com/photo-1592286927505-1def25115558?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Close-up of an iPhone in soft studio lighting"
 ---
 
 [MacRumors](https://www.macrumors.com/2026/08/04/bigger-displays-rumored-for-next-year-iphones/) is reporting that Apple's sampling display panels at 6.4 inches and roughly 7 inches for next year's iPhone 20 lineup. The smaller one would go in the Pro, the larger in the Pro Max. Both would be bigger than what we've got now—the iPhone 17 Pro is 6.3 inches, the Pro Max is 6.9.
