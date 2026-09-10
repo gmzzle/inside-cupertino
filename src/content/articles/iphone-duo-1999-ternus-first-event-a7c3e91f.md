@@ -2,7 +2,7 @@
 title: "Apple's First Foldable Costs Two Grand. That's the Story."
 description: "Ternus’s first keynote: a $1,999 iPhone Duo, a missing base iPhone 18, and a premium playbook that treats price as the feature."
 pubDate: 2026-09-10T17:00:00.000Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - iphone
