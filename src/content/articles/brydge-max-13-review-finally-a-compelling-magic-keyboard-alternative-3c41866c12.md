@@ -2,7 +2,7 @@
 title: "The Brydge Max 13 costs almost as much as Apple's keyboard. That's the point."
 description: "Brydge isn't trying to undercut the Magic Keyboard on price—they're betting some iPad Pro owners will pay for aluminum and flexibility instead."
 pubDate: 2026-06-05T15:54:52.546Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - ipad-pro
@@ -12,6 +12,8 @@ tags:
 source:
   name: "AppleInsider"
   url: "https://appleinsider.com/articles/26/06/05/brydge-max-13-review-finally-a-compelling-magic-keyboard-alternative?utm_source=rss"
+heroImage: "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Smartphone and coffee on a desk"
 ---
 
 [AppleInsider](https://appleinsider.com/articles/26/06/05/brydge-max-13-review-finally-a-compelling-magic-keyboard-alternative?utm_source=rss) just reviewed the Brydge Max 13, and the interesting part isn't that it exists—it's that Brydge priced it at $400, basically matching Apple's own Magic Keyboard instead of undercutting it. That's either incredibly bold or incredibly stupid, and the answer depends on whether you think the iPad Pro accessory market has room for a premium alternative that doesn't say Apple on the box.

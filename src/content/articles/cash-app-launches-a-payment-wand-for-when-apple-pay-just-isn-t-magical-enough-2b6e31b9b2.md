@@ -2,7 +2,7 @@
 title: "Cash App Made a Payment Wand Because Why Not"
 description: "Block's Cash App just released a tap-to-pay wand keychain. It's real, it works with NFC terminals, and it's somehow both dumber and smarter than it sounds."
 pubDate: 2026-06-04T16:20:37.815Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - cash-app
@@ -13,6 +13,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/06/04/cash-app-launches-a-payment-wand-for-when-apple-pay-just-isnt-magical-enough/"
+heroImage: "https://images.unsplash.com/photo-1491933382430-971391ca20c0?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Apple devices arranged on a desk"
 ---
 
 [9to5Mac](https://9to5mac.com/2026/06/04/cash-app-launches-a-payment-wand-for-when-apple-pay-just-isnt-magical-enough/) reported that Cash App—Block's consumer payment app—has launched an actual payment wand. Not a stylus that happens to pay. A wand. For contactless payments. It's a keychain fob shaped like a magic wand that taps NFC terminals to complete transactions.
