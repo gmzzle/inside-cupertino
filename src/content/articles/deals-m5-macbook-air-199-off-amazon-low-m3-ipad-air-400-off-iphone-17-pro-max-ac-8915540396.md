@@ -2,7 +2,7 @@
 title: "Amazon's M5 MacBook Air discount shows how fast Apple moved on"
 description: "When a seven-month-old MacBook Air is already $199 off, you know Apple's release cadence has retailers scrambling to clear inventory."
 pubDate: 2026-05-21T16:16:22.220Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - macbook-air
@@ -13,6 +13,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/05/21/deals-m5-macbook-air-m3-ipad-air-iphone-17-pro-max/"
+heroImage: "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Shopping bags and retail packages"
 ---
 
 Amazon's dropping the 15-inch M5 MacBook Air by $199 to a new low, and [9to5Mac](https://9to5mac.com/2026/05/21/deals-m5-macbook-air-m3-ipad-air-iphone-17-pro-max/) is calling it an "all-time low" like that's a selling point. But here's the thing: the M5 Air only launched in October 2025. We're seven months in and retailers are already cutting deep to move units ahead of Memorial Day weekend.

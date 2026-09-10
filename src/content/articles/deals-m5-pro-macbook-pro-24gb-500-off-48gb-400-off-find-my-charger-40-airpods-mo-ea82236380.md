@@ -2,7 +2,7 @@
 title: "MacBook Pro M5 discounts are all over the place and it's kind of weird"
 description: "The 24GB model is $500 off, the 48GB is $400 off. That math doesn't add up, and it says something about where inventory is sitting."
 pubDate: 2026-07-27T15:42:06.863Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - macbook-pro
@@ -13,6 +13,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/07/27/deals-macbook-pro-find-my-charger-airpods/"
+heroImage: "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Shopping bags and retail packages"
 ---
 
 [9to5Mac](https://9to5mac.com/2026/07/27/deals-macbook-pro-find-my-charger-airpods/) is flagging deals on the M5 Pro MacBook Pro, and the discount structure is... revealing. The 24GB RAM model is $500 off. The 48GB model is $400 off. That's backwards from what you'd expect, and it probably means the 24GB config sold worse than Apple anticipated.

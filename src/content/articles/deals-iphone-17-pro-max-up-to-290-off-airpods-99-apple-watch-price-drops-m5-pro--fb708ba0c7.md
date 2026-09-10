@@ -2,7 +2,7 @@
 title: "iPhone 17 Pro discounts are already here, and that's not a good sign"
 description: "Retailers are slashing hundreds off the four-month-old iPhone 17 Pro. Either demand is soft or Apple made way too many."
 pubDate: 2026-06-19T16:00:34.617Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - iphone-17
@@ -13,6 +13,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/06/19/deals-iphone-17-pro-airpods-apple-watch-macbook-pro/"
+heroImage: "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Shopping bags and retail packages"
 ---
 
 [9to5Mac](https://9to5mac.com/2026/06/19/deals-iphone-17-pro-airpods-apple-watch-macbook-pro/) rounded up today's Apple deals, and the headline number jumps out: iPhone 17 Pro Max discounted up to $250, the regular Pro up to $290 off. We're talking about phones that launched in February. Four months ago. That's not normal.
