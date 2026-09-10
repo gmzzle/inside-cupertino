@@ -2,7 +2,7 @@
 title: "Apple TV+ is making a dating show, and calling it a documentary"
 description: "The streamer that brought you Ted Lasso and Severance is now doing reality dating. They're just refusing to call it that."
 pubDate: 2026-07-23T15:09:05.428Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - apple-tv-plus
@@ -13,6 +13,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/07/23/apple-tv-announces-its-first-dating-series-the-last-person-on-earth/"
+heroImage: "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Television in a living room"
 ---
 
 [9to5Mac](https://9to5mac.com/2026/07/23/apple-tv-announces-its-first-dating-series-the-last-person-on-earth/) reported that Apple TV+ is launching *The Last Person on Earth*, which they're carefully labeling a "documentary series" despite being, very obviously, a dating show. This is funny because everyone knows what it is, but Apple's brand team apparently needs the documentary fig leaf.

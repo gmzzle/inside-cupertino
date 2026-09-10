@@ -2,7 +2,7 @@
 title: "Friday Night Baseball rolls into July with the same quiet momentum"
 description: "Apple and MLB just dropped the July lineup. No fanfare, no pivot. Two years in, the deal still feels like Apple's version of showing up."
 pubDate: 2026-06-04T16:20:54.804Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - apple-tv-plus
@@ -12,6 +12,8 @@ tags:
 source:
   name: "MacRumors"
   url: "https://www.macrumors.com/2026/06/04/apple-tv-friday-night-baseball-july/"
+heroImage: "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Television in a living room"
 ---
 
 [MacRumors](https://www.macrumors.com/2026/06/04/apple-tv-friday-night-baseball-july/) reported that Apple and MLB have released the July schedule for Friday Night Baseball, continuing the weekly doubleheader format that's been running since spring 2022. No big changes, no drama. Just another month of games bundled into Apple TV+ at no extra charge.

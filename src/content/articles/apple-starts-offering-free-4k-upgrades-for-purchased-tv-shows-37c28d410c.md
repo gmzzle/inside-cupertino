@@ -2,7 +2,7 @@
 title: "Apple Finally Upgrades TV Show Purchases to 4K, Nine Years Late"
 description: "Apple's been doing free 4K upgrades for movies since 2017. TV shows? They just got added to the list."
 pubDate: 2026-07-06T16:21:08.570Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - apple-tv
@@ -12,6 +12,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/07/06/apple-starts-offering-free-4k-upgrades-for-purchased-tv-shows/"
+heroImage: "https://images.unsplash.com/photo-1491933382430-971391ca20c0?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Apple devices arranged on a desk"
 ---
 
 [9to5Mac](https://9to5mac.com/2026/07/06/apple-starts-offering-free-4k-upgrades-for-purchased-tv-shows/) reported that Apple is now offering free 4K upgrades for TV shows you've already purchased, something it's been doing for movies since 2017. That's a nine-year gap for what should've been the same policy from day one.
