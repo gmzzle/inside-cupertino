@@ -11,6 +11,8 @@ tags:
   - iphone-duo
   - apple-event
   - pricing
+heroImage: "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Smartphone held in soft light against a dark background"
 ---
 
 John Ternus’s first fall keynote did exactly what Tim Cook’s machine was built to do: sell the expensive thing with a straight face and make the missing pieces feel intentional.
