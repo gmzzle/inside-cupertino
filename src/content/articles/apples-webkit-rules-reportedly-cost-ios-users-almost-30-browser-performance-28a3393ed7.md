@@ -2,7 +2,7 @@
 title: "Microsoft just proved Apple's browser lockdown costs you 30% in speed"
 description: "Edge engineers benchmarked a Chromium prototype on iOS using Apple's new framework. It crushed Safari. No surprise to anyone but Apple."
 pubDate: 2026-06-17T16:39:05.847Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - webkit
@@ -13,6 +13,8 @@ tags:
 source:
   name: "MacRumors"
   url: "https://www.macrumors.com/2026/06/17/webkit-rule-costs-ios-users-browser-performance/"
+heroImage: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Code on a computer monitor"
 ---
 
 [MacRumors](https://www.macrumors.com/2026/06/17/webkit-rule-costs-ios-users-browser-performance/) reported Monday that Microsoft's Edge team ran Speedometer 3.1 on a Chromium-based prototype built with Apple's BrowserEngineKit framework. The score: 49.27 versus Safari's 38.3. That's a 28.6% gap on Apple's own performance test. The prototype also beat Safari on JetStream 3 by 13% and MotionMark by 2%. This is preliminary data from one engineer's device, not a controlled lab setup, but the direction is clear.

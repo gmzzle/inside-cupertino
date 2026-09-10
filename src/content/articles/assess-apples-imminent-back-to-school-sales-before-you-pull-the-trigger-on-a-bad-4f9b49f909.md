@@ -2,7 +2,7 @@
 title: "Apple's Back to School sale is coming, and you should probably wait"
 description: "The annual education promotion is almost here, but history says the freebies aren't worth rushing for—and competitors will offer better deals anyway."
 pubDate: 2026-07-12T14:26:46.015Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - education
@@ -13,6 +13,8 @@ tags:
 source:
   name: "AppleInsider"
   url: "https://appleinsider.com/articles/26/07/12/assess-apples-imminent-back-to-school-sales-before-you-pull-the-trigger-on-a-bad-deal?utm_source=rss"
+heroImage: "https://images.unsplash.com/photo-1491933382430-971391ca20c0?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Apple devices arranged on a desk"
 ---
 
 [AppleInsider](https://appleinsider.com/articles/26/07/12/assess-apples-imminent-back-to-school-sales-before-you-pull-the-trigger-on-a-bad-deal?utm_source=rss) is telling students to pump the brakes on Apple's upcoming Back to School promotion, and they're right. Apple's education sales have become predictable summer theater: modest discounts on Macs and iPads, maybe a gift card or free AirPods, all wrapped in marketing that makes it feel more generous than it is.

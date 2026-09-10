@@ -2,7 +2,7 @@
 title: "Garmin's New Cirqa Band Is Actually the Case for an Apple Ring"
 description: "Garmin just launched a screenless fitness tracker. It's a solid move, but if Apple's going to do this, a ring makes way more sense than a band."
 pubDate: 2026-07-21T15:04:08.218Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - garmin
@@ -13,6 +13,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/07/21/as-garmin-cirqa-launches-should-apple-make-a-fitness-band-or-ring-poll/"
+heroImage: "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Smartphone and coffee on a desk"
 ---
 
 [9to5Mac](https://9to5mac.com/2026/07/21/as-garmin-cirqa-launches-should-apple-make-a-fitness-band-or-ring-poll/) is asking whether Apple should make a fitness band or ring, prompted by Garmin's new Cirqa Smart Band. The real question is why Apple would bother with a band at all.
