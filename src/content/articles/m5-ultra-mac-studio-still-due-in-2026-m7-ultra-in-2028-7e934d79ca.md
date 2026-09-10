@@ -2,7 +2,7 @@
 title: "Mac Studio's Two-Year Update Cycle Is the New Normal"
 description: "Apple's skipping the M4 Ultra wasn't a fluke. The Mac Studio is settling into a cadence that makes sense for almost nobody who buys one."
 pubDate: 2026-06-28T14:49:31.819Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - mac-studio
@@ -12,6 +12,8 @@ tags:
 source:
   name: "AppleInsider"
   url: "https://appleinsider.com/articles/26/06/28/m5-ultra-mac-studio-still-due-in-2026-m7-ultra-in-2028?utm_source=rss"
+heroImage: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Hands typing on a laptop keyboard"
 ---
 
 [AppleInsider](https://appleinsider.com/articles/26/06/28/m5-ultra-mac-studio-still-due-in-2026-m7-ultra-in-2028?utm_source=rss) reports the Mac Studio is getting the M5 Ultra in 2026 and the M7 Ultra in 2028, which means Apple's now comfortable letting its most powerful desktop sit untouched for two full years at a stretch. The M4 generation got skipped entirely for the Ultra chip, and apparently that's the template going forward.

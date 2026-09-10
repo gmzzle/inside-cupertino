@@ -2,7 +2,7 @@
 title: "M6 Mac mini launches at a higher price, same tiny box"
 description: "Apple's weirdly-timed August Mac mini refresh brings M6 chips and a price bump, while keeping the compact design unchanged."
 pubDate: 2026-08-25T13:50:37.698Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - mac-mini
@@ -12,6 +12,8 @@ tags:
 source:
   name: "AppleInsider"
   url: "https://appleinsider.com/articles/26/08/25/m6-mac-mini-arrives-in-ram-and-ssd-constrained-environment?utm_source=rss"
+heroImage: "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Shopping bags and retail packages"
 ---
 
 [AppleInsider](https://appleinsider.com/articles/26/08/25/m6-mac-mini-arrives-in-ram-and-ssd-constrained-environment?utm_source=rss) reports the M6 Mac mini is here, and it's pricier than ever. The external design is unchanged from the M4 revision—still that palm-sized aluminum box—but the starting price hit a new high. That's a bold move for a product category Apple has historically positioned as the accessible Mac.

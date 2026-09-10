@@ -2,7 +2,7 @@
 title: "Apple dropped a Vision Pro trailer on YouTube instead of, you know, Vision Pro"
 description: "Apple announced its next Immersive Video with a 2D trailer on YouTube. For a $3,500 headset starving for exclusive content, that's a choice."
 pubDate: 2026-05-20T16:26:46.516Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - vision-pro
@@ -12,6 +12,8 @@ tags:
 source:
   name: "AppleInsider"
   url: "https://appleinsider.com/articles/26/05/20/latest-apple-immersive-rollout-exemplifies-apple-vision-pros-entire-problem?utm_source=rss"
+heroImage: "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Television in a living room"
 ---
 
 Apple released a trailer for its next Apple Immersive Video on Wednesday. Where did they put it? YouTube. In 2D. Not in the Vision Pro app where people who actually own the $3,500 headset might see it. Not even a notification inside visionOS. Just a standard YouTube upload that could've been promoting literally anything else.
