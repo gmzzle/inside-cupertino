@@ -2,7 +2,7 @@
 title: "Apple's Splitting the iPhone 18 Launch, and It's Actually Kind of Smart"
 description: "The base iPhone 18 is getting bumped to spring 2027 while the Pro models ship this fall. Weird? Yes. Strategic? Also yes."
 pubDate: 2026-06-15T17:58:54.785Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - iphone-18
@@ -13,6 +13,8 @@ tags:
 source:
   name: "MacRumors"
   url: "https://www.macrumors.com/2026/06/15/no-iphone-18-this-year-apple-supplier-confirms/"
+heroImage: "https://images.unsplash.com/photo-1592286927505-1def25115558?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Close-up of an iPhone in soft studio lighting"
 ---
 
 Apple's breaking its iPhone launch rhythm for the first time in over a decade. [MacRumors](https://www.macrumors.com/2026/06/15/no-iphone-18-this-year-apple-supplier-confirms/) caught comments from Largan Precision, Apple's primary camera lens supplier, about a customer "postponed the launch of a new model to the first quarter of 2027." They didn't name Apple, but come on - Largan's iPhone business isn't exactly a secret.

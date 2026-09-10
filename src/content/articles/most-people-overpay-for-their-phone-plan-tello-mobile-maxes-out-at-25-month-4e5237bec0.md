@@ -2,7 +2,7 @@
 title: "Tello Mobile's $25 unlimited plan is real, and you're probably overpaying"
 description: "Most Americans drop $60-100/month on wireless. Tello runs on T-Mobile's network for a fraction of that. Here's the catch—and why it still works."
 pubDate: 2026-08-28T22:54:41.633Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - tello-mobile
@@ -13,6 +13,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/08/28/most-people-overpay-phone-plan-tello-mobile-maxes-out-at-25-month/"
+heroImage: "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Smartphone and coffee on a desk"
 ---
 
 [9to5Mac](https://9to5mac.com/2026/08/28/most-people-overpay-phone-plan-tello-mobile-maxes-out-at-25-month/) pointed out something obvious but worth repeating: most people are getting fleeced on their wireless bill. The average American pays somewhere between $60 and $100 a month for phone service, often without realizing there are plans a quarter of that price running on the exact same towers.

@@ -2,7 +2,7 @@
 title: "Apple's iPad Refresh Cycle Is Still a Mess"
 description: "Multiple new iPads are rumored for later this year, which sounds great until you remember how scattered the current lineup already is."
 pubDate: 2026-04-30T15:11:43.179Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - ipad
@@ -12,6 +12,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/04/30/new-ipads-will-launch-later-this-year-heres-what-rumors-say-is-coming/"
+heroImage: "https://images.unsplash.com/photo-1544243715-0fbced5d8c7f?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Tablet device on a clean surface"
 ---
 
 Apple's apparently got multiple new iPads coming later this year, [9to5Mac](https://9to5mac.com/2026/04/30/new-ipads-will-launch-later-this-year-heres-what-rumors-say-is-coming/) reports, which is standard operating procedure at this point. The problem isn't that new iPads are coming—it's that the current lineup makes zero sense and nothing in the rumor mill suggests Apple's going to fix that.
