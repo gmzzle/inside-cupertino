@@ -2,7 +2,7 @@
 title: "iOS 27's Landscape Push Suggests Apple Wants You Buying Bigger Phones"
 description: "New system-wide landscape support isn't about foldables. It's about making the Pro Max feel essential—and maybe nudging you toward whatever Ultra thing comes next."
 pubDate: 2026-07-31T15:20:04.086Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - ios-27
@@ -13,6 +13,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/07/31/ios-27-adds-new-reason-to-upgrade-your-iphone-screen-size/"
+heroImage: "https://images.unsplash.com/photo-1592286927505-1def25115558?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Close-up of an iPhone in soft studio lighting"
 ---
 
 [9to5Mac](https://9to5mac.com/2026/07/31/ios-27-adds-new-reason-to-upgrade-your-iphone-screen-size/) spotted expanded landscape support in iOS 27, calling it a hint that the foldable iPhone Ultra is coming. Maybe. But the more immediate play is simpler: Apple wants you to feel like your regular-sized iPhone is leaving features on the table.

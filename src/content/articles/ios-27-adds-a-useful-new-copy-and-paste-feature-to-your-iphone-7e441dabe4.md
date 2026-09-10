@@ -2,7 +2,7 @@
 title: "iOS 27's Smart Paste Button Is the Kind of Small Fix Apple Should Do More Often"
 description: "A contextual paste shortcut above the keyboard sounds minor, but it's the sort of friction-removing detail that compounds across a day of phone use."
 pubDate: 2026-07-01T15:42:46.018Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - ios-27
@@ -13,6 +13,8 @@ tags:
 source:
   name: "MacRumors"
   url: "https://www.macrumors.com/2026/07/01/ios-27-new-copy-and-paste-feature/"
+heroImage: "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Smartphone held in soft light against a dark background"
 ---
 
 Apple's adding a contextual paste button to the iOS 27 keyboard that shows you what's in your clipboard and where it came from. [MacRumors](https://www.macrumors.com/2026/07/01/ios-27-new-copy-and-paste-feature/) spotted it in the beta: copy a link in Safari, open Notes, and a "paste from Safari" button appears above the keyboard with a preview of what you copied. One tap, it's in.
