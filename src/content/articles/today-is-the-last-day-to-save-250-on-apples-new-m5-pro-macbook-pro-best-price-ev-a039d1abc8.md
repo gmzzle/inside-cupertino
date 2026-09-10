@@ -2,7 +2,7 @@
 title: "The M5 Pro MacBook Pro deal that vanishes today is actually worth it"
 description: "B&H's $250 discount on the 2026 14-inch M5 Pro model is the best we've seen. Here's why it matters more than the usual retail theater."
 pubDate: 2026-04-29T15:15:27.922Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - macbook-pro
@@ -12,6 +12,8 @@ tags:
 source:
   name: "AppleInsider"
   url: "https://appleinsider.com/articles/26/04/29/today-is-the-last-day-to-save-250-on-apples-new-m5-pro-macbook-pro-best-price-ever?utm_source=rss"
+heroImage: "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Shopping bags and retail packages"
 ---
 
 [AppleInsider](https://appleinsider.com/articles/26/04/29/today-is-the-last-day-to-save-250-on-apples-new-m5-pro-macbook-pro-best-price-ever?utm_source=rss) reported that B&H Photo is dropping the 14-inch M5 Pro MacBook Pro to $1,949 today through a stacked discount - $200 instant, $50 at checkout. That's $250 off a machine that normally starts at $2,199, and it's the lowest price since the M5 models launched earlier this year.

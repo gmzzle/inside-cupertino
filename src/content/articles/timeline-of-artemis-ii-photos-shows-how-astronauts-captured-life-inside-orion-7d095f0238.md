@@ -2,7 +2,7 @@
 title: "NASA flew an iPhone 17 Pro Max to the Moon and nobody made a big deal about it"
 description: "Artemis II astronauts shot some of their mission photos on Apple's flagship. It's a quiet vote of confidence in hardware durability."
 pubDate: 2026-04-30T15:11:28.906Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - iphone
@@ -13,6 +13,8 @@ tags:
 source:
   name: "AppleInsider"
   url: "https://appleinsider.com/articles/26/04/30/timeline-of-artemis-ii-photos-shows-how-astronauts-captured-life-inside-orion?utm_source=rss"
+heroImage: "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Shopping bags and retail packages"
 ---
 
 [AppleInsider](https://appleinsider.com/articles/26/04/30/timeline-of-artemis-ii-photos-shows-how-astronauts-captured-life-inside-orion?utm_source=rss) dropped a detail that deserved more attention: astronauts on Artemis II used an iPhone 17 Pro Max to capture some of their mission imagery alongside the Nikons and GoPros. Not as a publicity stunt—just as a tool that happened to be onboard.

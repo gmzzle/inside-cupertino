@@ -2,7 +2,7 @@
 title: "Apple Accidentally Showed Off Camera AirPods in a macOS Beta"
 description: "The company buried demo videos for unreleased products in macOS Tahoe 26.7. Smooth."
 pubDate: 2026-08-22T13:32:13.178Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - airpods
@@ -13,6 +13,8 @@ tags:
 source:
   name: "MacRumors"
   url: "https://www.macrumors.com/2026/08/22/top-stories-apple-leaks-camera-airpods/"
+heroImage: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Over-ear headphones on a colorful backdrop"
 ---
 
 Apple shipped a macOS beta with promotional videos for products that don't exist yet. [MacRumors](https://www.macrumors.com/2026/08/22/top-stories-apple-leaks-camera-airpods/) pulled a clip showing camera-equipped AirPods in action—someone holds up a book, the earbuds see it, Visual Intelligence saves it for later. The kind of demo Apple would normally debut onstage, except this one got bundled into macOS Tahoe 26.7 RC by mistake.
