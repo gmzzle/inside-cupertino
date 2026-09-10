@@ -2,7 +2,7 @@
 title: "Pocket Casts Goes All-In on Liquid Glass Because That's What You Do Now"
 description: "The podcast app joins the rush to adopt Apple's new design language. It's a smart move, even if it feels a bit inevitable at this point."
 pubDate: 2026-06-10T16:35:42.844Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - pocket-casts
@@ -13,6 +13,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/06/10/pocket-casts-adopts-liquid-glass-design-in-latest-podcast-player-app-update/"
+heroImage: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Code on a computer monitor"
 ---
 
 [9to5Mac](https://9to5mac.com/2026/06/10/pocket-casts-adopts-liquid-glass-design-in-latest-podcast-player-app-update/) reported that Pocket Casts rolled out a Liquid Glass redesign this week, making it one of the first major third-party apps to fully embrace Apple's new visual language. It's a predictable move, but that doesn't make it wrong.

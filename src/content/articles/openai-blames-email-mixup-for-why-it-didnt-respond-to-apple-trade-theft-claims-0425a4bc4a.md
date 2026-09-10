@@ -2,7 +2,7 @@
 title: "OpenAI Says Apple's Lawyers Sent Legal Threats to the Wrong Email Address"
 description: "The ChatGPT maker claims it did respond to Apple's trade secret allegations—Apple's team just wasn't paying attention to their inbox."
 pubDate: 2026-07-15T14:51:25.170Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - openai
@@ -13,6 +13,8 @@ tags:
 source:
   name: "AppleInsider"
   url: "https://appleinsider.com/articles/26/07/15/openai-blames-email-mixup-for-why-it-didnt-respond-to-apple-trade-theft-claims?utm_source=rss"
+heroImage: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Wooden gavel on a sound block"
 ---
 
 So here's a twist in the Apple-OpenAI lawsuit that would be funny if it weren't potentially derailing a major IP case: OpenAI says it *did* respond to Apple's trade secret theft allegations. Apple's lawyers apparently just sent their complaints to the wrong email address and never noticed the replies sitting in some other inbox.

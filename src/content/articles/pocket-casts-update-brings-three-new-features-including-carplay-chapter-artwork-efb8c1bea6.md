@@ -2,7 +2,7 @@
 title: "Pocket Casts finally adds chapter artwork to CarPlay, plus two other tweaks"
 description: "The podcast app catches up to Apple Podcasts on a feature that's been standard for years. Better late than never, I guess."
 pubDate: 2026-07-07T15:43:39.266Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - pocket-casts
@@ -12,6 +12,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/07/07/pocket-casts-update-brings-three-new-features-including-carplay-chapter-artwork/"
+heroImage: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Dark code editor on a screen"
 ---
 
 [9to5Mac](https://9to5mac.com/2026/07/07/pocket-casts-update-brings-three-new-features-including-carplay-chapter-artwork/) reported that Pocket Casts shipped an update with three new features, headlined by CarPlay chapter artwork support. Which is nice, except Apple Podcasts has had this since iOS 14 in 2020. Six years is a hell of a lag for a table-stakes feature.
