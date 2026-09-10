@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T19:43:39.628Z",
+  "generatedAt": "2026-09-10T22:36:30.625Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,76 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "DOJ wins pause on order requiring documents from 14 agencies in Apple antitrust case",
+      "url": "https://9to5mac.com/2026/09/10/doj-wins-pause-on-order-requiring-documents-from-14-agencies-in-apple-antitrust-case/",
+      "pubDate": "2026-09-10T22:31:56.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "You Can't Use Apple Watch's Live Rewind Secretly, Apple Says",
+      "url": "https://www.macrumors.com/2026/09/10/apple-watch-live-rewind/",
+      "pubDate": "2026-09-10T22:12:04.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple now accepting App Store submissions built for iOS 27, macOS 27, more",
+      "url": "https://9to5mac.com/2026/09/10/apple-now-accepting-app-store-submissions-built-for-ios-27-macos-27-more/",
+      "pubDate": "2026-09-10T21:35:08.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Slack can now vibe-code interactive charts and reports inside chats",
+      "url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+      "pubDate": "2026-09-10T21:25:21.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple TV shares intense trailer for ‘The Last First: Winter K2’",
+      "url": "https://9to5mac.com/2026/09/10/apple-tv-shares-intense-trailer-for-the-last-first-winter-k2/",
+      "pubDate": "2026-09-10T20:40:28.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Ceramic Series 12 is Pricier to Repair Than Apple Watch Ultra 4",
+      "url": "https://www.macrumors.com/2026/09/10/ceramic-series-12-repair-costs/",
+      "pubDate": "2026-09-10T20:21:16.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Report: iPhone Duo could give Apple a 25% share of foldable market in 2026",
+      "url": "https://9to5mac.com/2026/09/10/report-iphone-duo-could-give-apple-a-25-share-of-foldable-market-in-2026/",
+      "pubDate": "2026-09-10T20:04:18.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Mac's Edge Light Feature Rumored to Expand to iPhone",
+      "url": "https://www.macrumors.com/2026/09/10/mac-edge-light-feature-may-expand-to-iphone/",
+      "pubDate": "2026-09-10T19:59:43.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Rates iPhone 18 Pro Slightly Easier to Repair Than 17 Pro",
+      "url": "https://www.macrumors.com/2026/09/10/iphone-18-pro-eu-repair-rating/",
+      "pubDate": "2026-09-10T19:49:41.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Schools are catching on to Big Tech’s playbook",
+      "url": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
+      "pubDate": "2026-09-10T19:44:20.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -206,48 +276,6 @@
       "pubDate": "2026-09-10T15:37:11.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: AirPods, Apple Watch Series 12 and Ultra 4 up to $325 off, M5 MacBook Air $200 off, more",
-      "url": "https://9to5mac.com/2026/09/10/deals-airpods-5-apple-watch-series-12-ultra-4/",
-      "pubDate": "2026-09-10T15:36:42.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Here’s how the iPhone Duo stacks up against the Samsung Galaxy Z Fold8",
-      "url": "https://9to5mac.com/2026/09/10/heres-how-the-iphone-duo-stacks-up-against-the-samsung-galaxy-z-fold8/",
-      "pubDate": "2026-09-10T15:23:29.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "This is Apple’s new Wrist Strap accessory for iPhone",
-      "url": "https://9to5mac.com/2026/09/10/this-is-apples-new-wrist-strap-accessory-for-iphone/",
-      "pubDate": "2026-09-10T15:13:33.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "The race to build great iPhone Duo apps is about to begin",
-      "url": "https://9to5mac.com/2026/09/10/the-race-to-build-great-iphone-duo-apps-is-about-to-begin/",
-      "pubDate": "2026-09-10T15:11:59.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Shop the Best Cases for Your New iPhone 18 Pro or iPhone Duo",
-      "url": "https://www.macrumors.com/2026/09/10/best-cases-iphone-18-pro-iphone-duo/",
-      "pubDate": "2026-09-10T15:11:58.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Isn't Revealing the iPhone Duo's Under-Screen Camera Resolution",
-      "url": "https://www.macrumors.com/2026/09/10/iphone-duo-apple-under-display-camera-mystery/",
-      "pubDate": "2026-09-10T15:06:02.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Where to preorder the new Apple Watch Series 12 and Ultra 4",
@@ -290,32 +318,11 @@
       "pubDate": "2026-09-10T14:21:38.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "AirPods 5 and Apple Watch Series 12 Pre-Orders Open on Amazon, With Early Discount",
-      "url": "https://www.macrumors.com/2026/09/10/amazon-pre-order-airpods-watch/",
-      "pubDate": "2026-09-10T14:08:35.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "How the iPhone Duo compares to other folding phones",
-      "url": "https://www.theverge.com/gadgets/988542/iphone-duo-foldable-samsung-google-spec-comparison",
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) The Rebound 615: What’s Wrong With You Guys?",
+      "url": "https://sixcolors.com/podcast/2026/09/the-rebound-615-whats-wrong-with-you-guys/",
       "pubDate": "2026-09-10T14:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Why the current tech backlash feels different",
-      "url": "https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers",
-      "pubDate": "2026-09-10T14:00:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone Duo Has Similar Main Camera to iPhone 17e",
-      "url": "https://www.macrumors.com/2026/09/10/iphone-duo-has-similar-main-camera-to-iphone-17e/",
-      "pubDate": "2026-09-10T13:59:14.000Z"
     },
     {
       "source": "AppleInsider",
@@ -365,13 +372,6 @@
       "title": "(Podcast) Upgrade 636: Opening a Book Backward",
       "url": "https://sixcolors.com/podcast/2026/09/upgrade-636-opening-a-book-backward/",
       "pubDate": "2026-09-09T23:49:10.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "The iPhone Duo: Tradeoffs, but fewer than feared",
-      "url": "https://sixcolors.com/post/2026/09/the-iphone-duo-tradeoffs-but-fewer-than-feared/",
-      "pubDate": "2026-09-09T20:59:45.000Z"
     }
   ]
 }
