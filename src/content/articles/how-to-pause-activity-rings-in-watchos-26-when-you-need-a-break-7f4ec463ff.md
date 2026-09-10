@@ -2,7 +2,7 @@
 title: "watchOS 11 Finally Lets You Pause Activity Rings Without the Guilt"
 description: "Apple's streak culture has been relentless for years. Now you can actually take a rest day without breaking your chain."
 pubDate: 2026-05-08T07:05:57.838Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - watchos-11
@@ -13,6 +13,8 @@ tags:
 source:
   name: "AppleInsider"
   url: "https://appleinsider.com/inside/watchos-11/tips/how-to-pause-activity-rings-in-watchos-11-when-you-need-a-break?utm_source=rss"
+heroImage: "https://images.unsplash.com/photo-1434494876617-05f1dda2b0fc?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Smartwatch worn on a wrist outdoors"
 ---
 
 [AppleInsider](https://appleinsider.com/inside/watchos-11/tips/how-to-pause-activity-rings-in-watchos-11-when-you-need-a-break?utm_source=rss) covered the new pause feature for Activity Rings in watchOS 11, which is honestly one of those "finally" features that should have existed years ago.

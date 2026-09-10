@@ -2,7 +2,7 @@
 title: "OpenAI's New Codex Update Lets You Spawn Desktop Pets, Apparently"
 description: "The latest Codex refresh includes Tamagotchi-style companions you can code yourself. Yes, really. Someone already made one that sits on the Mac Dock."
 pubDate: 2026-05-02T06:19:55.776Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - openai
@@ -13,6 +13,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/05/01/i-think-i-just-vibe-coded-lil-finder-guy-onto-my-mac/"
+heroImage: "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Smartphone and coffee on a desk"
 ---
 
 OpenAI pushed out a Codex update on Friday that includes, of all things, customizable desktop pets in the Tamagotchi vein. [9to5Mac](https://9to5mac.com/2026/05/01/i-think-i-just-vibe-coded-lil-finder-guy-onto-my-mac/) reported someone already "vibe coded" a creature called Lil Finder Guy that now hovers over their Mac Dock, which feels like exactly the kind of chaotic Friday energy this feature was designed to unleash.
