@@ -2,7 +2,7 @@
 title: "Apple's Back on Top, and It Didn't Even Need to Try That Hard"
 description: "Apple just passed Nvidia to reclaim the most valuable company crown. The gap between iPhone money and AI hype is showing."
 pubDate: 2026-07-17T14:44:18.750Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - market-cap
@@ -12,6 +12,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/07/17/apple-reclaims-most-valuable-company-title-from-nvidia-as-it-barrels-toward-5t/"
+heroImage: "https://images.unsplash.com/photo-1491933382430-971391ca20c0?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Apple devices arranged on a desk"
 ---
 
 [9to5Mac](https://9to5mac.com/2026/07/17/apple-reclaims-most-valuable-company-title-from-nvidia-as-it-barrels-toward-5t/) reported Friday that Apple overtook Nvidia in market cap during intraday trading, climbing back to the most valuable company slot it's held on and off for years. The stock's up 17 points this week, putting Apple within striking distance of a $5 trillion valuation.

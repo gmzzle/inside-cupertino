@@ -2,7 +2,7 @@
 title: "Apple's back in UK court fighting encryption demands, round two"
 description: "The Home Office dropped its global backdoor demand after the U.S. complained. Now it wants one just for UK users. Apple's saying no again."
 pubDate: 2026-08-03T15:43:26.076Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - encryption
@@ -13,6 +13,8 @@ tags:
 source:
   name: "MacRumors"
   url: "https://www.macrumors.com/2026/08/03/apple-legal-challenge-against-uk-demand/"
+heroImage: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Wooden gavel on a sound block"
 ---
 
 Apple filed another legal challenge against the UK government last month, this time fighting a narrower—but still lousy—demand for backdoor access to encrypted iCloud backups. [MacRumors](https://www.macrumors.com/2026/08/03/apple-legal-challenge-against-uk-demand/) reported the complaint went to the Investigatory Powers Tribunal in July.

@@ -2,7 +2,7 @@
 title: "Apple is supposedly testing a 7-inch iPhone and I have questions"
 description: "A leaker claims Apple is prototyping 6.4-inch and 7-inch screens for the iPhone 20. That second number doesn't make any sense."
 pubDate: 2026-08-04T15:24:19.825Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - iphone-20
@@ -12,6 +12,8 @@ tags:
 source:
   name: "AppleInsider"
   url: "https://appleinsider.com/articles/26/08/04/apple-plans-massive-64-inch-7-inch-screens-for-the-iphone-20?utm_source=rss"
+heroImage: "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Smartphone held in soft light against a dark background"
 ---
 
 [AppleInsider](https://appleinsider.com/articles/26/08/04/apple-plans-massive-64-inch-7-inch-screens-for-the-iphone-20?utm_source=rss) is reporting that Apple is prototyping 6.4-inch and 7-inch displays for the iPhone 20, citing a Weibo post from Digital Chat Station. The 6.4-inch part tracks—Apple has been slowly inching the Pro Max up from 6.1 to 6.7 inches over the years, and a jump to 6.4 for the standard Pro would follow that trajectory. Fine.
