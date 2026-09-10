@@ -2,7 +2,7 @@
 title: "Apple Vision Pro 2 Pushed to 2028, Which Is Honestly Fine"
 description: "The Vision Pro sequel won't arrive until 2028 or 2029, Bloomberg says. That's a long time, but it's also probably the right call."
 pubDate: 2026-05-31T14:45:52.962Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - vision-pro
@@ -13,6 +13,8 @@ tags:
 source:
   name: "AppleInsider"
   url: "https://appleinsider.com/articles/26/05/31/slimmer-lighter-apple-vision-pro-is-at-least-two-years-away?utm_source=rss"
+heroImage: "https://images.unsplash.com/photo-1491933382430-971391ca20c0?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Apple devices arranged on a desk"
 ---
 
 [AppleInsider](https://appleinsider.com/articles/26/05/31/slimmer-lighter-apple-vision-pro-is-at-least-two-years-away?utm_source=rss) reports the next Vision Pro is now slated for 2028 or 2029, which means we're looking at a four- or five-year gap between Gen 1 and Gen 2. For context, that's longer than Apple typically waits between major product revisions. The iPhone goes annual. The iPad used to be annual before settling into a more relaxed cadence. But Vision Pro isn't a phone or a tablet, and treating it like one would be a mistake.
