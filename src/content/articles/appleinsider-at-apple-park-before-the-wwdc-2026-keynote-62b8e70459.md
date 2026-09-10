@@ -2,7 +2,7 @@
 title: "WWDC 2026: Another Year of Keynote Hype and Hands-On Reality Checks"
 description: "Apple Park opens its doors again. Developers get iOS 27 and macOS 27 previews, plus whatever AI promises land this time."
 pubDate: 2026-06-08T16:49:36.407Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - wwdc
@@ -13,6 +13,8 @@ tags:
 source:
   name: "AppleInsider"
   url: "https://appleinsider.com/articles/26/06/08/appleinsider-at-apple-park-before-the-wwdc-2026-keynote?utm_source=rss"
+heroImage: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Code on a computer monitor"
 ---
 
 [AppleInsider](https://appleinsider.com/articles/26/06/08/appleinsider-at-apple-park-before-the-wwdc-2026-keynote?utm_source=rss) is on the ground at Apple Park for WWDC 2026, which means we're about to get the usual cycle: keynote announcements that sound transformative, followed by hands-on sessions where developers figure out what actually ships and what's still "coming later this year."

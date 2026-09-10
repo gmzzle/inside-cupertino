@@ -2,7 +2,7 @@
 title: "The M5 Air with 1TB is $1,399, which is the config you should've bought anyway"
 description: "Amazon's knocking $200 off the upgraded MacBook Air. It's a solid deal, but also a reminder that Apple's base storage tier remains cynically small."
 pubDate: 2026-08-30T17:13:43.883Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - macbook-air
@@ -12,6 +12,8 @@ tags:
 source:
   name: "AppleInsider"
   url: "https://appleinsider.com/articles/26/08/30/apples-1tb-m5-macbook-air-plunges-to-1399-save-200?utm_source=rss"
+heroImage: "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Shopping bags and retail packages"
 ---
 
 [AppleInsider](https://appleinsider.com/articles/26/08/30/apples-1tb-m5-macbook-air-plunges-to-1399-save-200?utm_source=rss) spotted a $200 discount on the 1TB M5 MacBook Air, bringing it down to $1,399 on Amazon. That's the 13-inch model with 16GB of RAM and the 10-core GPU, in Sky Blue if you care about that sort of thing.

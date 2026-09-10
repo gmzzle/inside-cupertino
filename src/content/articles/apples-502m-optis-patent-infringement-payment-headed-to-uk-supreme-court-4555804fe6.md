@@ -2,7 +2,7 @@
 title: "Apple's $502M Optis fight drags into UK Supreme Court"
 description: "Seven years in, Apple's still battling a patent-troll payout in the UK — even after beating the same company in a US court earlier this year."
 pubDate: 2026-06-30T15:28:47.751Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - optis
@@ -13,6 +13,8 @@ tags:
 source:
   name: "AppleInsider"
   url: "https://appleinsider.com/articles/26/06/29/apples-502m-payment-to-optis-over-patent-infringement-goes-to-uk-supreme-court?utm_source=rss"
+heroImage: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Wooden gavel on a sound block"
 ---
 
 [AppleInsider](https://appleinsider.com/articles/26/06/29/apples-502m-payment-to-optis-over-patent-infringement-goes-to-uk-supreme-court?utm_source=rss) reports that Apple's still fighting a UK ruling that would hand Optis $502 million for allegedly infringing LTE patents — a case that started back in 2019 and has now reached the UK Supreme Court. The kicker? Apple already beat Optis in a US federal court this past February, avoiding a $300 million judgment on essentially the same patents.
