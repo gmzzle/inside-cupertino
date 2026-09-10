@@ -2,7 +2,7 @@
 title: "Second Betas Are Out, But You Still Shouldn't Install Them"
 description: "Apple dropped the second developer betas for iOS 27 and friends. The real question: why are these version numbers so weird?"
 pubDate: 2026-06-22T17:40:27.852Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - ios-27
@@ -13,6 +13,8 @@ tags:
 source:
   name: "AppleInsider"
   url: "https://appleinsider.com/articles/26/06/22/second-developer-betas-of-ios-27-macos-27-are-out?utm_source=rss"
+heroImage: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Code on a computer monitor"
 ---
 
 [AppleInsider](https://appleinsider.com/articles/26/06/22/second-developer-betas-of-ios-27-macos-27-are-out?utm_source=rss) reported that Apple issued the second developer betas for iOS 27, macOS 27, and the rest of the OS lineup two weeks after WWDC. Standard cadence, nothing surprising there.

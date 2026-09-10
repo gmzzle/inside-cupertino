@@ -2,7 +2,7 @@
 title: "Apple's consolidating Sign in with Apple domains, and some services will break"
 description: "Apple's moving its privacy email relays to new domains. If your favorite app hasn't updated their email filters by July, your login might just stop working."
 pubDate: 2026-06-17T16:39:22.440Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - sign-in-with-apple
@@ -13,6 +13,8 @@ tags:
 source:
   name: "AppleInsider"
   url: "https://appleinsider.com/articles/26/06/17/sign-in-with-apple-domain-consolidation-could-trip-up-unprepared-services?utm_source=rss"
+heroImage: "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Smartphone and coffee on a desk"
 ---
 
 [AppleInsider](https://appleinsider.com/articles/26/06/17/sign-in-with-apple-domain-consolidation-could-trip-up-unprepared-services?utm_source=rss) reported that Apple's shifting the email domains behind Sign in with Apple and Hide My Email, and developers got two days' notice on June 15 to get their systems ready.

@@ -2,7 +2,7 @@
 title: "Sonos gear is 20% off, which means it's still not cheap"
 description: "Amazon's knocking $200 off some Sonos speakers and soundbars this weekend. Good timing if you've been waiting, but let's be real about what you're getting."
 pubDate: 2026-08-29T17:00:17.336Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - sonos
@@ -12,6 +12,8 @@ tags:
 source:
   name: "AppleInsider"
   url: "https://appleinsider.com/articles/26/08/29/save-up-to-200-on-sonos-speakers-subs-soundbars-this-weekend?utm_source=rss"
+heroImage: "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Shopping bags and retail packages"
 ---
 
 [AppleInsider](https://appleinsider.com/articles/26/08/29/save-up-to-200-on-sonos-speakers-subs-soundbars-this-weekend?utm_source=rss) flagged a weekend sale on Sonos gear at Amazon - up to $200 off speakers, subs, and Dolby Atmos soundbars. The discount tops out around 20%, which sounds meaningful until you remember we're talking about Sonos.
