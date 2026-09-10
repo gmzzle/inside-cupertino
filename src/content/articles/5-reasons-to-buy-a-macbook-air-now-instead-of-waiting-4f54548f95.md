@@ -2,7 +2,7 @@
 title: "MacRumors says buy a MacBook Air now. They're half right."
 description: "The M5 Air is a solid machine at a decent street price, but the argument that next year's model will cost even more isn't as airtight as it sounds."
 pubDate: 2026-07-28T15:21:42.208Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - macbook-air
@@ -12,6 +12,8 @@ tags:
 source:
   name: "MacRumors"
   url: "https://www.macrumors.com/2026/07/28/5-reasons-buy-macbook-air-now-no-waiting/"
+heroImage: "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "A professional desktop workstation in a softly lit studio"
 ---
 
 [MacRumors](https://www.macrumors.com/2026/07/28/5-reasons-buy-macbook-air-now-no-waiting/) published a list of reasons to buy the M5 MacBook Air right now instead of waiting for the M6 model. Some of the reasoning holds up. Some of it doesn't.

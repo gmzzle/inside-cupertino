@@ -2,7 +2,7 @@
 title: "The MacBook Neo is $110 off at Amazon, which tells you something"
 description: "Amazon's discounting the 512GB Neo to $689 after Apple's recent price hikes. That's not generosity—it's inventory math."
 pubDate: 2026-07-08T15:22:36.846Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - macbook-neo
@@ -12,6 +12,8 @@ tags:
 source:
   name: "AppleInsider"
   url: "https://appleinsider.com/articles/26/07/08/amazon-knocks-110-off-apples-macbook-neo-today?utm_source=rss"
+heroImage: "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Shopping bags and retail packages"
 ---
 
 [AppleInsider](https://appleinsider.com/articles/26/07/08/amazon-knocks-110-off-apples-macbook-neo-today?utm_source=rss) spotted the 512GB MacBook Neo down to $689.99 at Amazon in the Indigo colorway, $110 below Apple's new post-increase pricing. That's the lowest it's been since Apple bumped prices across the Mac and iPad lines a few weeks back.

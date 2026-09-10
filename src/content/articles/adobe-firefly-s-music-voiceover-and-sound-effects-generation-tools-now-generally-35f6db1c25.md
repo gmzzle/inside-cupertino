@@ -2,7 +2,7 @@
 title: "Adobe Firefly can now generate music and sound effects for your videos"
 description: "Adobe's AI assistant moves beyond images into audio territory. The licensing angle matters more than the tech itself."
 pubDate: 2026-08-20T13:47:14.178Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - adobe
@@ -13,6 +13,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/08/20/adobe-fireflys-music-voiceover-and-sound-effects-generation-tools-now-generally-available/"
+heroImage: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Over-ear headphones on a colorful backdrop"
 ---
 
 Adobe just flipped Firefly's audio tools from beta to general availability, according to [9to5Mac](https://9to5mac.com/2026/08/20/adobe-fireflys-music-voiceover-and-sound-effects-generation-tools-now-generally-available/). You can now generate background music, voiceover, and sound effects directly in Creative Cloud apps without worrying about copyright strikes.
