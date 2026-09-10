@@ -2,7 +2,7 @@
 title: "iOS 27's CarPlay Updates Are Actually Worth Installing the Beta For"
 description: "Apple quietly shipped meaningful CarPlay improvements in iOS 27's public beta. For once, the car screen gets more than a token refresh."
 pubDate: 2026-07-17T14:44:04.950Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - carplay
@@ -12,6 +12,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/07/17/the-best-carplay-upgrades-to-try-in-the-ios-27-public-beta/"
+heroImage: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Code on a computer monitor"
 ---
 
 [9to5Mac](https://9to5mac.com/2026/07/17/the-best-carplay-upgrades-to-try-in-the-ios-27-public-beta/) rounded up the CarPlay changes in iOS 27's public beta, and honestly, it's the first time in years the car experience feels like more than an afterthought. Apple's been promising a CarPlay revolution since WWDC 2022, when they teased deep system integration with automakers. That's still vaporware. But iOS 27 delivers actual usable stuff right now.

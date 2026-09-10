@@ -2,7 +2,7 @@
 title: "Tim Cook's Last WWDC Keynote Won't Be Much Different From Usual"
 description: "He'll kick it off in June, then hand the mic to Federighi like he does every year. The real changing of the guard happens in September."
 pubDate: 2026-06-07T14:53:52.767Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - tim-cook
@@ -13,6 +13,8 @@ tags:
 source:
   name: "AppleInsider"
   url: "https://appleinsider.com/articles/26/06/07/tim-cook-expected-to-head-wwdc-2026-keynote-for-the-last-time?utm_source=rss"
+heroImage: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Code on a computer monitor"
 ---
 
 [AppleInsider](https://appleinsider.com/articles/26/06/07/tim-cook-expected-to-head-wwdc-2026-keynote-for-the-last-time?utm_source=rss) is reporting that Tim Cook will probably kick off WWDC 2026 in June before handing most of the stage time to Craig Federighi, which sounds momentous until you realize that's exactly what happens at WWDC every year. Cook does the opening remarks, maybe a Services update, then Federighi owns the next 90 minutes talking about iOS and macOS while Cook watches from backstage.

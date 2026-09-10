@@ -2,7 +2,7 @@
 title: "Messages in iOS 27 got the quiet treatment it actually needed"
 description: "Apple didn't splash confetti all over Messages this year, but the under-the-hood changes might be the most useful upgrade in years."
 pubDate: 2026-07-10T15:32:09.032Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - messages
@@ -12,6 +12,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/07/10/these-are-my-favorite-new-messages-features-in-ios-27-video/"
+heroImage: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Dark code editor on a screen"
 ---
 
 Apple's best work on Messages often happens when nobody's looking. [9to5Mac](https://9to5mac.com/2026/07/10/these-are-my-favorite-new-messages-features-in-ios-27-video/) walked through the new iOS 27 features, and the theme is refreshingly mundane: the app finally works the way you assumed it already did.
