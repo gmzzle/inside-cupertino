@@ -2,7 +2,7 @@
 title: "Apple opens third-party app stores in Brazil, no lawsuit required"
 description: "Brazil becomes the second country to get alternative iOS app marketplaces, but this time Apple volunteered. Sort of."
 pubDate: 2026-06-18T16:33:57.042Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - app-store
@@ -13,6 +13,8 @@ tags:
 source:
   name: "AppleInsider"
   url: "https://appleinsider.com/articles/26/06/18/eu-style-app-store-rules-reach-brazil-with-new-app-stores-payments?utm_source=rss"
+heroImage: "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Smartphone and coffee on a desk"
 ---
 
 [AppleInsider](https://appleinsider.com/articles/26/06/18/eu-style-app-store-rules-reach-brazil-with-new-app-stores-payments?utm_source=rss) reported that Apple struck a deal with Brazil's antitrust regulator to bring alternative app marketplaces and payment systems to iOS 26.5. Same playbook as the EU's Digital Markets Act changes, but with a twist: Apple did this voluntarily to settle with CADE, Brazil's competition authority, rather than wait for a law to force the issue.

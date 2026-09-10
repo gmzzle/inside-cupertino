@@ -2,7 +2,7 @@
 title: "Epic calls Apple's new EU fees 'junk,' because of course it did"
 description: "Apple simplified its European app fee structure. Epic Games hates it anyway. The two are now locked in permanent opposition mode."
 pubDate: 2026-08-19T13:43:33.492Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - epic-games
@@ -13,6 +13,8 @@ tags:
 source:
   name: "AppleInsider"
   url: "https://appleinsider.com/articles/26/08/19/epic-games-disagrees-with-apples-junk-eu-fee-changes?utm_source=rss"
+heroImage: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Wooden gavel on a sound block"
 ---
 
 Apple rolled out revised EU App Store fees on Tuesday, simplifying the whole mess down to percentages instead of the Rube Goldberg contraption it had before. The European Commission said it "welcomed" the changes. Epic Games, as reported by [AppleInsider](https://appleinsider.com/articles/26/08/19/epic-games-disagrees-with-apples-junk-eu-fee-changes?utm_source=rss), called them "junk."

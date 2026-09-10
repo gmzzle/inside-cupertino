@@ -2,7 +2,7 @@
 title: "MacBook Neo is already $110 off, which tells you everything"
 description: "Apple's experimental laptop is getting steep discounts two months after launch. Meanwhile, the M5 Pro MacBook Pro sees its biggest cut yet."
 pubDate: 2026-07-08T15:22:20.520Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - macbook-neo
@@ -13,6 +13,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/07/08/deals-macbook-neo-m5-pro-macbook-pro-ipad-pro/"
+heroImage: "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Shopping bags and retail packages"
 ---
 
 The MacBook Neo launched in May with a lot of questions and apparently not many buyers. [9to5Mac](https://9to5mac.com/2026/07/08/deals-macbook-neo-m5-pro-macbook-pro-ipad-pro/) spotted the 512GB model at $110 off this week, which is a meaningful discount for a machine that's barely two months old. Apple doesn't do that with products that are moving.
