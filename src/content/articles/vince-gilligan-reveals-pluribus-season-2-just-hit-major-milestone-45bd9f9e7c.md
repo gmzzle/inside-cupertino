@@ -2,7 +2,7 @@
 title: "Pluribus Season 2 Has Wrapped Filming, Gilligan Says"
 description: "Vince Gilligan's Apple TV+ sci-fi hit just finished production on its second season. Now comes the long part."
 pubDate: 2026-08-12T14:20:36.819Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - apple-tv-plus
@@ -12,6 +12,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/08/12/vince-gilligan-reveals-pluribus-season-2-just-hit-major-milestone/"
+heroImage: "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Television in a living room"
 ---
 
 [9to5Mac](https://9to5mac.com/2026/08/12/vince-gilligan-reveals-pluribus-season-2-just-hit-major-milestone/) reported that Vince Gilligan confirmed season two of *Pluribus* has wrapped principal photography. That's the good news. The less-good news is we're still probably looking at early 2027 before it actually hits Apple TV+.

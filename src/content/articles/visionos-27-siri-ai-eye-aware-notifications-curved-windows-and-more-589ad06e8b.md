@@ -2,7 +2,7 @@
 title: "visionOS 27 makes Vision Pro feel less like a tech demo"
 description: "Apple's finally doing the obvious stuff—Siri that sees what you see, curved windows, notifications that know where you're looking. Small moves, but they matter."
 pubDate: 2026-06-09T15:56:09.541Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - visionos
@@ -13,6 +13,8 @@ tags:
 source:
   name: "MacRumors"
   url: "https://www.macrumors.com/2026/06/09/visionos-27-siri-ai-eye-aware-notifications/"
+heroImage: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Dark code editor on a screen"
 ---
 
 Apple didn't spend much stage time on Vision Pro at WWDC, but [MacRumors](https://www.macrumors.com/2026/06/09/visionos-27-siri-ai-eye-aware-notifications/) dug into the visionOS 27 beta and found the kind of unglamorous improvements that actually make spatial computing less annoying to use daily.

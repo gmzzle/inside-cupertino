@@ -2,7 +2,7 @@
 title: "Apple's RAM Price Hike Excuse Isn't Landing With Investors"
 description: "Wall Street's side-eye at Apple's across-the-board price increases suggests the market thinks Cupertino is testing how much it can get away with."
 pubDate: 2026-06-25T15:39:59.554Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - pricing
@@ -13,6 +13,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/06/25/wall-street-isnt-buying-apples-unprecedented-price-hikes-on-products/"
+heroImage: "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Shopping bags and retail packages"
 ---
 
 Apple followed through on last week's warning and bumped prices across multiple product lines today. The official line, as [9to5Mac](https://9to5mac.com/2026/06/25/wall-street-isnt-buying-apples-unprecedented-price-hikes-on-products/) reported, is rising RAM costs. Wall Street's reaction? A collective shrug that pushed the stock down 3.2% in afternoon trading.
