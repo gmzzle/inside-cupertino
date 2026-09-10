@@ -2,7 +2,7 @@
 title: "The iPhone 20 Pro's all-glass body sounds cool until you drop it"
 description: "Apple's reportedly going full glass for the 2026 Pro models. Great for symmetry, terrible for repair bills."
 pubDate: 2026-08-24T13:51:50.954Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - iphone-20
@@ -12,6 +12,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/08/24/iphone-20-pros-all-glass-design-gets-new-update-from-leaker/"
+heroImage: "https://images.unsplash.com/photo-1605236453806-6ff36851218e?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Multiple smartphone silhouettes arranged in a grid"
 ---
 
 Apple is apparently planning an all-glass design for the iPhone 20 Pro models in 2026, according to [9to5Mac](https://9to5mac.com/2026/08/24/iphone-20-pros-all-glass-design-gets-new-update-from-leaker/). The timing makes sense—it's the iPhone's 20th anniversary, so of course they'd do something visually dramatic. But let's be honest: an all-glass phone is a phone that's going to shatter spectacularly.

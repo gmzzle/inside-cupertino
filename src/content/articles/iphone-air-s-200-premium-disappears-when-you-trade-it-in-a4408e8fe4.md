@@ -2,7 +2,7 @@
 title: "Apple's iPhone Air trade-in math is quietly brutal"
 description: "The $200 premium to buy an iPhone Air vanishes the moment you trade it in. That's not an accident."
 pubDate: 2026-09-10T16:54:43.239Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - iphone-air
@@ -12,6 +12,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/09/10/iphone-airs-200-premium-disappears-when-you-trade-it-in/"
+heroImage: "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Smartphone held in soft light against a dark background"
 ---
 
 Apple started accepting iPhone Air trade-ins this week alongside the iPhone 18 Pro and iPhone Duo launch, and the numbers are telling. [9to5Mac](https://9to5mac.com/2026/09/10/iphone-airs-200-premium-disappears-when-you-trade-it-in/) caught what a lot of people are about to discover the hard way: the $200 premium you paid for the Air over the base iPhone 17 evaporates entirely when you go to trade it in.

@@ -2,7 +2,7 @@
 title: "iPhone 18 Rumors: The Variable Aperture Actually Matters This Time"
 description: "MacRumors ranked 20 iPhone 18 claims by plausibility. Most are boring. One could finally make the Pro camera worth the upgrade price."
 pubDate: 2026-07-21T15:03:51.304Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - iphone-18
@@ -13,6 +13,8 @@ tags:
 source:
   name: "MacRumors"
   url: "https://www.macrumors.com/2026/07/21/ranked-best-features-rumored-iphone-18/"
+heroImage: "https://images.unsplash.com/photo-1592286927505-1def25115558?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Close-up of an iPhone in soft studio lighting"
 ---
 
 [MacRumors](https://www.macrumors.com/2026/07/21/ranked-best-features-rumored-iphone-18/) put together a ranked list of iPhone 18 rumors, sorting the credible from the wishful. Most of it tracks with what the supply chain has been murmuring for months: new Pro colors including Dark Cherry, more RAM across the lineup, and an iPhone Air 2 that finally gets a second camera after the first-gen model shipped with just one lens in 2026.
