@@ -2,7 +2,7 @@
 title: "Apple's Antitrust Settlement Talks Show It Knows When to Fold"
 description: "The company's already changed enough policies to gut the DOJ's case. Settlement talks aren't surrender—they're damage control."
 pubDate: 2026-07-19T14:23:56.849Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - antitrust
@@ -13,6 +13,8 @@ tags:
 source:
   name: "MacRumors"
   url: "https://www.macrumors.com/2026/07/17/apple-doj-antitrust-settlement/"
+heroImage: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Wooden gavel on a sound block"
 ---
 
 Apple and the Justice Department are in early settlement talks over the antitrust case filed back in 2024, [MacRumors](https://www.macrumors.com/2026/07/17/apple-doj-antitrust-settlement/) reports. The DOJ's lawsuit hit Apple on everything from super apps to third-party wallets to the way Messages kneecaps cross-platform messaging. Two years later, Apple's apparently offered some proposals and now both sides are negotiating.

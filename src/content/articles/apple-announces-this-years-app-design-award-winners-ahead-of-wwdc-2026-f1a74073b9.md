@@ -2,7 +2,7 @@
 title: "Apple's 2026 Design Awards: the NBA app won something, apparently"
 description: "This year's winners include an app called Grug, the official NBA app, and Cyberpunk 2077. One of these things is extremely unlike the others."
 pubDate: 2026-06-02T17:24:05.002Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - design-awards
@@ -12,6 +12,8 @@ tags:
 source:
   name: "MacRumors"
   url: "https://www.macrumors.com/2026/06/02/apple-design-award-winners-2026/"
+heroImage: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Code on a computer monitor"
 ---
 
 [MacRumors](https://www.macrumors.com/2026/06/02/apple-design-award-winners-2026/) has the list of this year's Apple Design Award winners, released ahead of Monday's WWDC keynote. The awards span six categories, and as usual, it's a mix of delightful indie projects you've never heard of and choices that make you wonder if Apple's criteria shifted mid-meeting.
