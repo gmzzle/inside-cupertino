@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T01:05:42.608Z",
+  "generatedAt": "2026-09-10T05:59:43.126Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,6 +24,34 @@
   ],
   "items": [
     {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: September 9, 2026 – iPhone 18 Pro and iPhone Duo are here",
+      "url": "https://9to5mac.com/2026/09/09/september-9-2026-iphone-18-pro-and-iphone-duo-are-here/",
+      "pubDate": "2026-09-10T05:37:31.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iPhone Duo vs Samsung Galaxy Z Fold8 Ultra: Foldables compared",
+      "url": "https://appleinsider.com/articles/26/09/09/iphone-duo-vs-samsung-galaxy-z-fold8-ultra-foldabes-compared?utm_source=rss",
+      "pubDate": "2026-09-10T02:00:04.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Hands-On With the iPhone Duo: The Crease is Still There, But Barely",
+      "url": "https://www.macrumors.com/2026/09/09/iphone-duo-hands-on/",
+      "pubDate": "2026-09-10T01:44:32.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Everything Apple Announced at the September 2026 Event",
+      "url": "https://www.macrumors.com/2026/09/09/apple-september-2026-event-recap/",
+      "pubDate": "2026-09-10T01:25:29.000Z"
+    },
+    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "iPhone Duo supports Apple Pencil with USB-C on both displays",
@@ -42,14 +70,7 @@
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iPhone Duo is Dust-Tight With IP68 Rating, Unlike Samsung's Galaxy Z Fold8",
       "url": "https://www.macrumors.com/2026/09/09/iphone-duo-ip68-durability/",
-      "pubDate": "2026-09-10T00:46:27.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPhone Duo vs Samsung Galaxy Z Fold8 Ultra: Foldabes compared",
-      "url": "https://appleinsider.com/articles/26/09/09/iphone-duo-vs-samsung-galaxy-z-fold8-ultra-foldabes-compared?utm_source=rss",
-      "pubDate": "2026-09-10T00:45:21.000Z"
+      "pubDate": "2026-09-10T00:46:16.000Z"
     },
     {
       "source": "Six Colors",
@@ -63,7 +84,7 @@
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iOS 27's 'iPhone Handoff' Feature Limited to T-Mobile and Deutsche Telekom at Launch",
       "url": "https://www.macrumors.com/2026/09/09/ios-27-iphone-handoff-t-mobile/",
-      "pubDate": "2026-09-09T23:49:39.000Z"
+      "pubDate": "2026-09-09T23:49:35.000Z"
     },
     {
       "source": "Six Colors",
@@ -77,7 +98,7 @@
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Explains What's Inside the iPhone Duo's Folding Screen",
       "url": "https://www.macrumors.com/2026/09/09/iphone-duo-folding-screen-layers/",
-      "pubDate": "2026-09-09T23:38:55.000Z"
+      "pubDate": "2026-09-09T23:38:46.000Z"
     },
     {
       "source": "AppleInsider",
@@ -105,7 +126,7 @@
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iPhone Duo Beats iPhone Air as Apple's Thinnest iPhone, But Only When Open",
       "url": "https://www.macrumors.com/2026/09/09/iphone-duo-thinnest-iphone/",
-      "pubDate": "2026-09-09T22:43:09.000Z"
+      "pubDate": "2026-09-09T22:43:01.000Z"
     },
     {
       "source": "The Verge",
@@ -119,7 +140,7 @@
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Here's What Apple Says About the iPhone Duo's Crease",
       "url": "https://www.macrumors.com/2026/09/09/iphone-duo-crease/",
-      "pubDate": "2026-09-09T22:35:45.000Z"
+      "pubDate": "2026-09-09T22:35:39.000Z"
     },
     {
       "source": "AppleInsider",
@@ -182,7 +203,7 @@
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iPhone 18 Pro is eSIM-Only in These Countries",
       "url": "https://www.macrumors.com/2026/09/09/iphone-18-pro-esim-only-countries/",
-      "pubDate": "2026-09-09T21:52:15.000Z"
+      "pubDate": "2026-09-09T21:52:11.000Z"
     },
     {
       "source": "The Verge",
@@ -227,25 +248,11 @@
       "pubDate": "2026-09-09T21:23:43.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Three All-New 'Audio Intelligence' Features Arrive With Apple Watch Series 12 and Ultra 4",
-      "url": "https://www.macrumors.com/2026/09/09/audio-intelligence-features/",
-      "pubDate": "2026-09-09T21:23:25.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
       "url": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
       "pubDate": "2026-09-09T21:16:34.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone Duo Only Works With the $79 USB-C Apple Pencil, Not the Apple Pencil Pro",
-      "url": "https://www.macrumors.com/2026/09/09/apple-pencil-usb-c-iphone-duo/",
-      "pubDate": "2026-09-09T21:15:32.000Z"
     },
     {
       "source": "9to5Mac",
@@ -337,13 +344,6 @@
       "title": "Apps will look terrible unless they are updated for the iPhone Duo",
       "url": "https://appleinsider.com/articles/26/09/09/apps-will-look-terrible-unless-they-are-updated-for-the-iphone-duo?utm_source=rss",
       "pubDate": "2026-09-09T20:01:36.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple details how Apple Watch’s new Audio Intelligence features work in privacy paper",
-      "url": "https://9to5mac.com/2026/09/09/apple-details-how-apple-watchs-new-audio-intelligence-features-work-in-privacy-paper/",
-      "pubDate": "2026-09-09T19:59:16.000Z"
     },
     {
       "source": "AppleInsider",
