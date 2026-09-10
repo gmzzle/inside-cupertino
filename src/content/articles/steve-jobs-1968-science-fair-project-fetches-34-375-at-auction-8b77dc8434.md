@@ -2,7 +2,7 @@
 title: "Someone Just Paid $34,375 for Steve Jobs' High School Science Fair Project"
 description: "A hand-built frequency counter from 1968 sold at auction this week. The provenance matters more than the craftsmanship."
 pubDate: 2026-08-28T22:54:56.431Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - steve-jobs
@@ -12,6 +12,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/08/28/steve-jobs-1968-science-fair-project-fetches-34375-at-auction/"
+heroImage: "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Smartphone and coffee on a desk"
 ---
 
 [9to5Mac](https://9to5mac.com/2026/08/28/steve-jobs-1968-science-fair-project-fetches-34375-at-auction/) reported that Steve Jobs' 1968 science fair project sold for $34,375 at RR Auction this week. It's a hand-built frequency counter from when Jobs was a junior at Homestead High School in Cupertino. The winning bid came in at roughly the price of a base-spec Mac Studio.

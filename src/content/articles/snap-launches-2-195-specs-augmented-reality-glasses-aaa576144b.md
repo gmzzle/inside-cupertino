@@ -2,7 +2,7 @@
 title: "Snap wants $2,195 for AR glasses Apple won't sell you yet"
 description: "Specs are a real product you can actually buy. They're also a reminder that Apple's AR play is still MIA while competitors ship hardware."
 pubDate: 2026-06-16T18:05:28.297Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - augmented-reality
@@ -13,6 +13,8 @@ tags:
 source:
   name: "MacRumors"
   url: "https://www.macrumors.com/2026/06/16/snap-specs-ar-glasses/"
+heroImage: "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Smartphone and coffee on a desk"
 ---
 
 [MacRumors](https://www.macrumors.com/2026/06/16/snap-specs-ar-glasses/) reported that Snap launched Specs today, a $2,195 pair of AR glasses with dual Snapdragon chips, full-color cameras, and a 51-degree field of view. They're actual see-through glasses you wear on your face, not a ski goggle strapped to your head.

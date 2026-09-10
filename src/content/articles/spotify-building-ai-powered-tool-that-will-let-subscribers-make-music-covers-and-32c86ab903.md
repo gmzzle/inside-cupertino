@@ -2,7 +2,7 @@
 title: "Spotify wants to let you remix songs, which sounds like a copyright nightmare"
 description: "The streaming service is building AI tools for subscribers to make covers and remixes. Good luck sorting out the rights on that one."
 pubDate: 2026-05-21T16:16:04.805Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - spotify
@@ -12,6 +12,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/05/21/spotify-building-ai-powered-tool-that-will-let-subscribers-make-music-covers-and-remixes/"
+heroImage: "https://images.unsplash.com/photo-1491933382430-971391ca20c0?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Apple devices arranged on a desk"
 ---
 
 [9to5Mac](https://9to5mac.com/2026/05/21/spotify-building-ai-powered-tool-that-will-let-subscribers-make-music-covers-and-remixes/) reports Spotify is working on AI-powered remix tools that will let subscribers make their own covers and variations of existing songs. The company is also apparently still dealing with whatever icon disaster prompted users to wait for "their good old fashioned app icon" to return, but sure, let's focus on the AI remixing thing.
