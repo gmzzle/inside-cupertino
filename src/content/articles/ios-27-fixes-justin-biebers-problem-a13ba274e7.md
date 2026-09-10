@@ -2,7 +2,7 @@
 title: "Apple moved the dictation button because Justin Bieber complained"
 description: "A year after Bieber griped about the Messages mic placement, iOS 27 quietly shuffles it. Sometimes the squeaky wheel gets the redesign."
 pubDate: 2026-06-09T15:56:24.285Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - ios-27
@@ -13,6 +13,8 @@ tags:
 source:
   name: "MacRumors"
   url: "https://www.macrumors.com/2026/06/09/ios-27-fixes-justin-bieber-problem/"
+heroImage: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Code on a computer monitor"
 ---
 
 Apple shipped iOS 27 with a relocated dictation button in Messages, and it's hard not to notice the timing. Last year Justin Bieber posted about how annoying the mic button placement was—apparently he kept triggering it when he didn't mean to—and now it's moved. [MacRumors](https://www.macrumors.com/2026/06/09/ios-27-fixes-justin-bieber-problem/) flagged the change, and yeah, it does look like Apple listened to a pop star's Instagram story.

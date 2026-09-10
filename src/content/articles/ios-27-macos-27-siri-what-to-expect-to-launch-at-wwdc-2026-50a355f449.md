@@ -2,7 +2,7 @@
 title: "WWDC 2026: The OS updates are coming, but AI's the real show"
 description: "Apple's developer conference kicks off June 8. The version numbers are new, but everyone's waiting to see what Siri actually learned this year."
 pubDate: 2026-06-06T14:42:05.505Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - wwdc
@@ -13,6 +13,8 @@ tags:
 source:
   name: "AppleInsider"
   url: "https://appleinsider.com/articles/26/06/05/ios-27-macos-27-siri-what-to-expect-to-launch-at-wwdc-2026?utm_source=rss"
+heroImage: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Dark code editor on a screen"
 ---
 
 [AppleInsider](https://appleinsider.com/articles/26/06/05/ios-27-macos-27-siri-what-to-expect-to-launch-at-wwdc-2026?utm_source=rss) has the WWDC preview up, and the bones are what you'd expect: iOS 27, macOS 27, all the 27s. Developer betas drop right after the keynote on June 8. The beta split continues—version 26 gets bug fixes while 27 gets the new toys.

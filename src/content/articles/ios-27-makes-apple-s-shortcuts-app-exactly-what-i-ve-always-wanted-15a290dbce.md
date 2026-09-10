@@ -2,7 +2,7 @@
 title: "iOS 27 lets you describe shortcuts in plain English, finally"
 description: "Apple's new natural language shortcut builder is the obvious move they should've made three years ago. Better late than never."
 pubDate: 2026-06-30T15:28:31.245Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - ios-27
@@ -13,6 +13,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/06/30/ios-27-makes-apples-shortcuts-app-exactly-what-ive-always-wanted/"
+heroImage: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Code on a computer monitor"
 ---
 
 [9to5Mac](https://9to5mac.com/2026/06/30/ios-27-makes-apples-shortcuts-app-exactly-what-ive-always-wanted/) is pretty excited about iOS 27's new "describe a shortcut" feature, and honestly, they're right to be. This is the feature that should've shipped when Apple started calling everything Apple Intelligence.
