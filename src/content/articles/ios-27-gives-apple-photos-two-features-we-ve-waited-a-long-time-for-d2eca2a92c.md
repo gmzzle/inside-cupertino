@@ -2,7 +2,7 @@
 title: "Apple Photos finally gets slideshows that don't suck in iOS 27"
 description: "After years of half-baked tools, Apple's building real slideshow creation and fixing iCloud Shared Albums. Better late than literally never."
 pubDate: 2026-08-13T14:21:52.882Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - ios-27
@@ -13,6 +13,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/08/13/ios-27-gives-apple-photos-two-features-weve-waited-a-long-time-for/"
+heroImage: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Over-ear headphones on a colorful backdrop"
 ---
 
 [9to5Mac](https://9to5mac.com/2026/08/13/ios-27-gives-apple-photos-two-features-weve-waited-a-long-time-for/) reports that iOS 27 is bringing full-featured slideshow creation and upgraded iCloud Shared Albums to the Photos app. Both are overdue enough that calling them "long-awaited" is charitable.

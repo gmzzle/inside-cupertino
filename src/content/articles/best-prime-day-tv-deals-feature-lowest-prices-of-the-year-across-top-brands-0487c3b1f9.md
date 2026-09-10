@@ -2,7 +2,7 @@
 title: "Prime Day TV Deals Are Fine, But Maybe Skip the Sony"
 description: "Amazon's pushing TVs hard this week. The discounts are real, but you're still paying for Prime to access them—which changes the math."
 pubDate: 2026-06-24T15:33:41.130Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - prime-day
@@ -13,6 +13,8 @@ tags:
 source:
   name: "MacRumors"
   url: "https://www.macrumors.com/2026/06/24/best-prime-day-tv-deals/"
+heroImage: "https://images.unsplash.com/photo-1434494876617-05f1dda2b0fc?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Smartwatch worn on a wrist outdoors"
 ---
 
 [MacRumors](https://www.macrumors.com/2026/06/24/best-prime-day-tv-deals/) rounded up the TV deals hitting Prime Day, and yeah, the discounts are legitimate. Samsung, LG, Hisense—all the usual suspects are marked down 30-50% in some cases. If you're already paying for Prime and you've been waiting on a new TV, this is probably your moment.
