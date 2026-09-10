@@ -2,7 +2,7 @@
 title: "Halide Mark III ships with the upgrades Apple's Camera app still won't do"
 description: "The pro iPhone camera app finally landed its 3.0 version. These three changes highlight exactly where Apple leaves power users hanging."
 pubDate: 2026-05-27T16:38:40.260Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - halide
@@ -12,6 +12,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/05/27/halide-mark-iii-pro-camera-for-iphone-arrives-with-three-key-photography-upgrades/"
+heroImage: "https://images.unsplash.com/photo-1592286927505-1def25115558?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Close-up of an iPhone in soft studio lighting"
 ---
 
 [9to5Mac](https://9to5mac.com/2026/05/27/halide-mark-iii-pro-camera-for-iphone-arrives-with-three-key-photography-upgrades/) reported that Halide Mark III is out today, roughly eighteen months after the team started teasing it. The delay makes sense when you see what shipped: manual focus peaking, a redesigned RAW processor, and real-time histogram overlays. These aren't features you slap together in a sprint.

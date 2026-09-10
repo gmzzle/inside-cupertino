@@ -2,7 +2,7 @@
 title: "The iPhone Fold dummy shots are here, and they look exactly like you'd expect"
 description: "Fresh images show Apple's foldable in open and closed states. The design is real boring, which might actually be the point."
 pubDate: 2026-06-07T14:53:34.994Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - iphone-fold
@@ -13,6 +13,8 @@ tags:
 source:
   name: "AppleInsider"
   url: "https://appleinsider.com/articles/26/06/07/more-iphone-fold-dummy-shots-appear-in-folded-open-forms?utm_source=rss"
+heroImage: "https://images.unsplash.com/photo-1605236453806-6ff36851218e?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Multiple smartphone silhouettes arranged in a grid"
 ---
 
 [AppleInsider](https://appleinsider.com/articles/26/06/07/more-iphone-fold-dummy-shots-appear-in-folded-open-forms?utm_source=rss) posted new images from Sonny Dickson showing what's allegedly an iPhone Fold dummy unit in both folded and unfolded states. These follow an earlier leak from June 1 on Weibo. The design? It's a phone that folds in half. No wild hinge experiments, no triple-screen contraption, just the form factor Samsung and Motorola have been shipping for years.

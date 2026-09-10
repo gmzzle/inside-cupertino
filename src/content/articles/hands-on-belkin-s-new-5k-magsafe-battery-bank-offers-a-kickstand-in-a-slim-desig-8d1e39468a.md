@@ -2,7 +2,7 @@
 title: "Belkin's 5K MagSafe Battery Bank Finally Adds the Kickstand Everyone Wanted"
 description: "The new Belkin battery pack is slim, has a kickstand, and ships now. It's what Apple should've made in the first place."
 pubDate: 2026-05-23T14:40:22.418Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - magsafe
@@ -13,6 +13,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/05/23/belkin-5000mah-magsafe-slim-battery-bank-hands-on-kickstand/"
+heroImage: "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Smartphone and coffee on a desk"
 ---
 
 [9to5Mac](https://9to5mac.com/2026/05/23/belkin-5000mah-magsafe-slim-battery-bank-hands-on-kickstand/) got hands-on with Belkin's new 5,000mAh MagSafe battery bank, and the headline feature is simple: it has a kickstand. Which sounds boring until you remember that Apple's own MagSafe Battery Pack never had one, and that omission was baffling from day one.
