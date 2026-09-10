@@ -2,7 +2,7 @@
 title: "Apple Music jumps to $11.99, and the excuse is getting old"
 description: "Another year, another price hike blamed on licensing costs. Apple's streaming margins are under pressure, but so is the value proposition."
 pubDate: 2026-07-19T14:23:39.721Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - apple-music
@@ -12,6 +12,8 @@ tags:
 source:
   name: "MacRumors"
   url: "https://www.macrumors.com/2026/07/17/apple-music-price-increase/"
+heroImage: "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Smartphone held in soft light against a dark background"
 ---
 
 [MacRumors](https://www.macrumors.com/2026/07/17/apple-music-price-increase/) reported today that Apple Music is now $11.99 for individuals, up from $10.99. The Family plan jumped $3 to $19.99, and even students aren't spared—they're paying $6.99 now instead of $5.99. Apple's explanation: "rising licensing costs." That's the same line they used in October 2022, the last time they raised prices.

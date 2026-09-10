@@ -2,7 +2,7 @@
 title: "Apple Upgrade is a lease, not a loophole, and Klarna's the one holding the keys"
 description: "Apple's new program lets you lease devices starting at $18/month. It's convenient, sure, but the math makes buying look smarter unless you upgrade constantly."
 pubDate: 2026-07-28T15:22:00.549Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - apple-upgrade
@@ -13,6 +13,8 @@ tags:
 source:
   name: "MacRumors"
   url: "https://www.macrumors.com/2026/07/28/apple-upgrade-program-pricing/"
+heroImage: "https://images.unsplash.com/photo-1605236453806-6ff36851218e?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Multiple smartphone silhouettes arranged in a grid"
 ---
 
 [MacRumors](https://www.macrumors.com/2026/07/28/apple-upgrade-program-pricing/) has the pricing breakdown for Apple Upgrade, and it's about what you'd expect: monthly payments that look manageable until you multiply them out. An iPhone 17e runs $17.99/month for 24 months. That's $432 over two years for a phone that costs, what, $599 retail? You're paying 72% of the device cost to rent it, then either handing it back or paying extra to own it.

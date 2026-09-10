@@ -2,7 +2,7 @@
 title: "Apple TV+'s Comic-Con lineup: two sci-fi bets and a Matchbox movie"
 description: "Apple showed up to SDCC with trailers for Dark Matter season two, the Neuromancer adaptation, and a movie based on toy cars. One of these things is not like the others."
 pubDate: 2026-07-26T14:36:59.679Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - apple-tv-plus
@@ -13,6 +13,8 @@ tags:
 source:
   name: "AppleInsider"
   url: "https://appleinsider.com/articles/26/07/26/apple-tv-teases-new-trailers-for-matchbox-neuromancer-dark-matter?utm_source=rss"
+heroImage: "https://images.unsplash.com/photo-1592286927505-1def25115558?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Close-up of an iPhone in soft studio lighting"
 ---
 
 [AppleInsider](https://appleinsider.com/articles/26/07/26/apple-tv-teases-new-trailers-for-matchbox-neuromancer-dark-matter?utm_source=rss) reported that Apple TV+ brought three trailers to San Diego Comic-Con this weekend: Dark Matter season two, the upcoming Neuromancer adaptation, and something called Matchbox The Movie. That last one is exactly what it sounds like—a feature film inspired by the little die-cast cars you used to roll down ramps as a kid.
