@@ -2,7 +2,7 @@
 title: "iOS 27 beta 5 tweaks icons while iPhone 18 Pro Max battery leaks"
 description: "Apple's still fiddling with iOS 27 a month before launch, and someone photographed what's supposedly the iPhone 18 Pro Max battery. Sure."
 pubDate: 2026-08-15T13:30:32.078Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - ios-27
@@ -12,6 +12,8 @@ tags:
 source:
   name: "MacRumors"
   url: "https://www.macrumors.com/2026/08/15/top-stories-ios-27-beta-5/"
+heroImage: "https://images.unsplash.com/photo-1605236453806-6ff36851218e?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Multiple smartphone silhouettes arranged in a grid"
 ---
 
 We're five betas into iOS 27 and Apple's still adjusting app icons and tweaking Liquid Glass - the visual effect they introduced back in iOS 26 that nobody asked for but everyone has opinions about. [MacRumors](https://www.macrumors.com/2026/08/15/top-stories-ios-27-beta-5/) walked through the changes this week, and honestly, icon redesigns this late in the beta cycle is classic Apple. They'll obsess over a five-pixel shift in a corner radius while leaving actually broken things for a point release.

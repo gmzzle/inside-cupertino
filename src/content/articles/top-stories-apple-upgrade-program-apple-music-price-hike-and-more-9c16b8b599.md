@@ -2,7 +2,7 @@
 title: "Apple Upgrade is the iPhone Upgrade Program, but worse and for everything"
 description: "Apple's new Klarna-backed leasing program launches next week with longer terms and fewer perks than the plan it's replacing."
 pubDate: 2026-07-25T14:38:11.004Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - financing
@@ -13,6 +13,8 @@ tags:
 source:
   name: "MacRumors"
   url: "https://www.macrumors.com/2026/07/25/top-stories-apple-upgrade-program/"
+heroImage: "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Shopping bags and retail packages"
 ---
 
 Apple's replacing the iPhone Upgrade Program with something called Apple Upgrade, and [MacRumors](https://www.macrumors.com/2026/07/25/top-stories-apple-upgrade-program/) reports it launches July 28 with Klarna handling the backend. The new program covers iPhones, iPads, Macs, and Apple Watches with 24-month terms for phones and watches, 36-month terms for tablets and computers.
