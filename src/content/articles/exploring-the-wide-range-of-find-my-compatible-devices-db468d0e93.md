@@ -2,7 +2,7 @@
 title: "Find My became a platform without Apple really trying"
 description: "Five years after AirTags, third-party gear is everywhere. Apple built the rails, then mostly stepped aside."
 pubDate: 2026-04-27T15:08:40.122Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - find-my
@@ -13,6 +13,8 @@ tags:
 source:
   name: "Six Colors"
   url: "https://sixcolors.com/post/2026/04/find-my-diversifies-as-hardware-makers-go-for-baroque/"
+heroImage: "https://images.unsplash.com/photo-1491933382430-971391ca20c0?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Apple devices arranged on a desk"
 ---
 
 Five years in, AirTags have done something unusual for Apple: they created a hardware ecosystem that Apple doesn't entirely control. [Six Colors](https://sixcolors.com/post/2026/04/find-my-diversifies-as-hardware-makers-go-for-baroque/) noted the range of Find My-compatible devices now on the market, and it's genuinely weird how broad it's gotten. Chipolo card trackers, Belkin key rings, even bike bells and luggage locks. Apple opened the Find My network to third parties in 2021, handed them the spec, and then largely got out of the way.

@@ -2,7 +2,7 @@
 title: "Meta's New 'Facebook Verified' Badge Confirms You're Human, Not Much Else"
 description: "Facebook's free verification system tells you someone's real, but not who they are. It's a weird halfway solution to a problem Meta mostly created."
 pubDate: 2026-07-24T14:55:12.911Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - meta
@@ -13,6 +13,8 @@ tags:
 source:
   name: "AppleInsider"
   url: "https://appleinsider.com/articles/26/07/24/facebook-verified-is-here-so-you-can-tell-if-your-new-friend-is-really-an-ai?utm_source=rss"
+heroImage: "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Smartphone and coffee on a desk"
 ---
 
 Meta just rolled out Facebook Verified, a free badge that [AppleInsider](https://appleinsider.com/articles/26/07/24/facebook-verified-is-here-so-you-can-tell-if-your-new-friend-is-really-an-ai?utm_source=rss) reports will show up on profiles to confirm you're chatting with an actual human and not a bot. The catch? It only verifies you're real, not that you're who you claim to be. So your new friend John Smith might genuinely be a person, but whether he's actually named John Smith or is a 47-year-old scammer in Belarus remains Facebook's eternal mystery.

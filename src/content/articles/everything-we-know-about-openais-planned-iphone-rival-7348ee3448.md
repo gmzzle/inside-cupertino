@@ -2,7 +2,7 @@
 title: "OpenAI wants to build a phone, which is the worst idea they've had all year"
 description: "The ChatGPT company thinks it can out-iPhone the iPhone with an AI-first device. History says this ends badly."
 pubDate: 2026-05-29T16:42:39.034Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - openai
@@ -13,6 +13,8 @@ tags:
 source:
   name: "MacRumors"
   url: "https://www.macrumors.com/2026/05/29/everything-we-know-about-openai-iphone-rival/"
+heroImage: "https://images.unsplash.com/photo-1605236453806-6ff36851218e?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Multiple smartphone silhouettes arranged in a grid"
 ---
 
 OpenAI is apparently building a smartphone. [MacRumors](https://www.macrumors.com/2026/05/29/everything-we-know-about-openai-iphone-rival/) reports analyst Ming-Chi Kuo's supply chain checks point to an "AI agent phone" launching in the second half of 2026, running on a customized MediaTek Dimensity 9600 chip. The pitch is that you won't need apps anymore—just tell the phone what you want and it figures out how to do it.
