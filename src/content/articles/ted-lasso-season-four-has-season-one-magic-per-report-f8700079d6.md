@@ -2,7 +2,7 @@
 title: "Ted Lasso Season 4 Supposedly Recaptures the Original's Magic"
 description: "After a widely panned third season, Apple's flagship comedy is reportedly back in form. Whether that's enough remains the real question."
 pubDate: 2026-07-22T15:04:16.704Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - ted-lasso
@@ -12,6 +12,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/07/22/ted-lasso-season-four-has-season-one-magic-per-report/"
+heroImage: "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Television in a living room"
 ---
 
 [9to5Mac](https://9to5mac.com/2026/07/22/ted-lasso-season-four-has-season-one-magic-per-report/) is passing along word from The Hollywood Reporter that Ted Lasso season four has recaptured "season one magic," which is exactly what you'd expect Apple to be whispering to entertainment reporters right now.

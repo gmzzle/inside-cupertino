@@ -2,7 +2,7 @@
 title: "Sharge's New Power Bank Has RGB Lights and Two Laptop Ports. Sure."
 description: "The Shargeek 300 is a metal power bank with a display, RGB lighting, and literal see-through windows. It can charge two MacBooks at once, which raises the question: should it?"
 pubDate: 2026-08-29T17:00:35.242Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - power-bank
@@ -13,6 +13,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5toys.com/2026/08/29/sharge-impressive-metal-power-bank-display-review/"
+heroImage: "https://images.unsplash.com/photo-1491933382430-971391ca20c0?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Apple devices arranged on a desk"
 ---
 
 [9to5Mac](https://9to5toys.com/2026/08/29/sharge-impressive-metal-power-bank-display-review/) is excited about Sharge's new Shargeek 300, a metal power bank with enough ports to charge two MacBooks simultaneously, plus an onboard display and RGB lighting. It also has literal window cutouts in the case so you can admire the circuitry inside, which is either cool or the kind of thing that sounds cool until you're actually carrying it.

@@ -2,7 +2,7 @@
 title: "Apple's Mac Battery Settings Are Fine, Just Not Worth Obsessing Over"
 description: "macOS 15.4 added more battery knobs to turn, but most of what matters was decided at the factory. Here's what actually moves the needle."
 pubDate: 2026-05-04T15:10:52.400Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - macos
@@ -13,6 +13,8 @@ tags:
 source:
   name: "AppleInsider"
   url: "https://appleinsider.com/articles/26/05/04/testing-common-myths-for-your-portable-mac-to-extend-your-battery-life?utm_source=rss"
+heroImage: "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "A professional desktop workstation in a softly lit studio"
 ---
 
 [AppleInsider](https://appleinsider.com/articles/26/05/04/testing-common-myths-for-your-portable-mac-to-extend-your-battery-life?utm_source=rss) tested the usual battery life myths, and the results are about what you'd expect: most of the variables that matter were locked in when your Mac left the factory. Screen brightness matters. Closing Chrome tabs matters if you have 47 of them open. But the obsessive battery optimization ritual? Mostly theater.
