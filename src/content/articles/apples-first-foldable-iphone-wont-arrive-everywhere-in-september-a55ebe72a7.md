@@ -2,7 +2,7 @@
 title: "The iPhone Ultra staggered launch is a tell, not a flex"
 description: "Apple calling a foldable phone 'Ultra' and rolling it out slowly in select markets? That's the move of a company hedging its bets, not making a statement."
 pubDate: 2026-08-13T14:22:10.621Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - iphone-ultra
@@ -13,6 +13,8 @@ tags:
 source:
   name: "AppleInsider"
   url: "https://appleinsider.com/articles/26/08/13/apples-first-foldable-iphone-wont-arrive-everywhere-in-september?utm_source=rss"
+heroImage: "https://images.unsplash.com/photo-1496181133976-866b43b4b83a?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Open laptop on a wooden desk"
 ---
 
 [AppleInsider](https://appleinsider.com/articles/26/08/13/apples-first-foldable-iphone-wont-arrive-everywhere-in-september?utm_source=rss) reports that Apple's foldable iPhone—internally dubbed "iPhone Ultra"—will hit the U.S. first in September, with other markets waiting months for their turn. That's not how you launch a product you're confident will define the next decade of smartphones.

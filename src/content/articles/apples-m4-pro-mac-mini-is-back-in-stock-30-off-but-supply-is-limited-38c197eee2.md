@@ -2,7 +2,7 @@
 title: "Amazon has M4 Pro Mac minis Apple can't keep in stock"
 description: "The $1,570 deal wouldn't be notable except Apple itself has been out of stock for weeks. Something weird is happening with Mac mini supply."
 pubDate: 2026-07-31T15:19:47.925Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - mac-mini
@@ -13,6 +13,8 @@ tags:
 source:
   name: "AppleInsider"
   url: "https://appleinsider.com/articles/26/07/31/apples-m4-pro-mac-mini-is-back-in-stock-30-off-but-supply-is-limited?utm_source=rss"
+heroImage: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Hands typing on a laptop keyboard"
 ---
 
 [AppleInsider](https://appleinsider.com/articles/26/07/31/apples-m4-pro-mac-mini-is-back-in-stock-30-off-but-supply-is-limited?utm_source=rss) reported that Amazon has the M4 Pro Mac mini back in stock at $1,570—$30 off and shipping in 1-2 days. Meanwhile, Apple's own store has been showing 3-4 week delays on the same configuration for most of the past month.

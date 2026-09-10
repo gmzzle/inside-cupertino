@@ -2,7 +2,7 @@
 title: "Apple's quietly upgrading backordered M4 Mac minis to M6 for free"
 description: "If your M4 Mac mini hasn't shipped yet, you're probably getting an M6 instead. It's a smart move that saves Apple from a logistics nightmare."
 pubDate: 2026-08-26T13:54:50.780Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - mac-mini
@@ -13,6 +13,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/08/26/apple-upgrading-recent-mac-mini-orders-to-m6-m5-pro-models-for-free/"
+heroImage: "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "A professional desktop workstation in a softly lit studio"
 ---
 
 [9to5Mac](https://9to5mac.com/2026/08/26/apple-upgrading-recent-mac-mini-orders-to-m6-m5-pro-models-for-free/) reported that Apple's upgrading recent Mac mini orders stuck in backlog to the new M6 and M5 Pro models at no charge. If you ordered an M4 model a few weeks ago and it hasn't shipped, you're apparently getting bumped up automatically.
