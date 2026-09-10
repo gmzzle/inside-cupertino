@@ -2,7 +2,7 @@
 title: "Apple's Opening F1's Austrian Grand Prix for Free This Month"
 description: "Every session streams at no charge June 26-28. It's a smart sampler move, but also reveals how few people are actually subscribing."
 pubDate: 2026-06-18T16:33:41.261Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - formula-1
@@ -12,6 +12,8 @@ tags:
 source:
   name: "MacRumors"
   url: "https://www.macrumors.com/2026/06/18/f1-2026-austrian-grand-prix-free-on-apple-tv/"
+heroImage: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Code on a computer monitor"
 ---
 
 [MacRumors](https://www.macrumors.com/2026/06/18/f1-2026-austrian-grand-prix-free-on-apple-tv/) reported that Apple's making the entire Austrian Grand Prix weekend free to stream on Apple TV+ from June 26-28. Practice, qualifying, sprint, the whole thing. No subscription required.
