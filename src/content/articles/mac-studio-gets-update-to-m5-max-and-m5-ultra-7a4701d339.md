@@ -2,7 +2,7 @@
 title: "Mac Studio gets M5 Max and Ultra, 16 months after the last one"
 description: "Apple's pro desktop refresh lands with M5 chips and some big performance claims. The timing's a little weird though."
 pubDate: 2026-08-25T13:50:55.370Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - mac-studio
@@ -12,6 +12,8 @@ tags:
 source:
   name: "AppleInsider"
   url: "https://appleinsider.com/articles/26/08/25/mac-studio-gets-update-to-m5-max-and-m5-ultra?utm_source=rss"
+heroImage: "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "A professional desktop workstation in a softly lit studio"
 ---
 
 [AppleInsider](https://appleinsider.com/articles/26/08/25/mac-studio-gets-update-to-m5-max-and-m5-ultra?utm_source=rss) reported the Mac Studio update today, and the specs are what you'd expect: M5 Max and M5 Ultra options, the usual performance multipliers in Apple's press materials, and Johny Srouji calling it "our most powerful Mac ever" as if that phrase hasn't appeared in every pro Mac launch since 2020.

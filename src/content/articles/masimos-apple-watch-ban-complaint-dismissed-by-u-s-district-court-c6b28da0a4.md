@@ -2,7 +2,7 @@
 title: "Masimo loses another round as District Court dismisses Apple Watch complaint"
 description: "The medical device maker's attempt to challenge the USITC's denial of a renewed import ban has been thrown out with prejudice, closing another avenue in its three-year campaign."
 pubDate: 2026-04-25T16:16:08.825Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - masimo
@@ -13,6 +13,8 @@ tags:
 source:
   name: "AppleInsider"
   url: "https://appleinsider.com/articles/26/04/25/massimos-apple-watch-ban-complaint-dismissed-by-us-district-court?utm_source=rss"
+heroImage: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Wooden gavel on a sound block"
 ---
 
 Masimo's legal offensive against Apple took another hit this week when the U.S. District Court for the District of Columbia dismissed the company's complaint challenging the USITC's refusal to reinstate an Apple Watch import ban. [AppleInsider](https://appleinsider.com/articles/26/04/25/massimos-apple-watch-ban-complaint-dismissed-by-us-district-court?utm_source=rss) reported the April 24 filing shows the dismissal came with prejudice, meaning Masimo cannot refile the same claim.

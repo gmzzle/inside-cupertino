@@ -2,7 +2,7 @@
 title: "MacBook Neo supply crunch sends shoppers to Amazon and Walmart"
 description: "Apple's site shows 2-3 week waits, but third-party retailers have stock now. A small but telling shift in how Apple handles its hottest products."
 pubDate: 2026-04-27T15:08:21.636Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - macbook-neo
@@ -12,6 +12,8 @@ tags:
 source:
   name: "MacRumors"
   url: "https://www.macrumors.com/2026/04/27/macbook-neo-amazon-walmart/"
+heroImage: "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Shopping bags and retail packages"
 ---
 
 The MacBook Neo is selling faster than Apple can restock it. [MacRumors](https://www.macrumors.com/2026/04/27/macbook-neo-amazon-walmart/) reports 2-3 week delays across every Neo configuration on Apple.com, while Amazon and Walmart are shipping as soon as tomorrow. Amazon's even throwing in a $9 discount, which is basically nothing but still more than Apple's offering right now.
