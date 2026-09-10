@@ -2,7 +2,7 @@
 title: "AirTags and Sloppy Thieves: This Week's Apple Crime Roundup"
 description: "From a stolen Lamborghini recovered by AirTag to the arrest in the Morgan McSweeney iPhone theft, Apple products keep showing up in crime stories—both as targets and as evidence."
 pubDate: 2026-05-17T14:26:31.500Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - airtags
@@ -13,6 +13,8 @@ tags:
 source:
   name: "AppleInsider"
   url: "https://appleinsider.com/articles/26/05/17/crime-blotter-how-the-long-island-truck-hijackers-were-caught?utm_source=rss"
+heroImage: "https://images.unsplash.com/photo-1491933382430-971391ca20c0?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Apple devices arranged on a desk"
 ---
 
 [AppleInsider](https://appleinsider.com/articles/26/05/17/crime-blotter-how-the-long-island-truck-hijackers-were-caught?utm_source=rss) is back with another edition of their Apple crime blotter, and this week's haul is a solid reminder that criminals still haven't figured out they're carrying tracking devices.

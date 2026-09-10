@@ -2,7 +2,7 @@
 title: "The Hingham Apple Store crash case just got worse for the driver"
 description: "Two years after a driver plowed through the Hingham store, killing one person, the court finally revoked his bail. Meanwhile, AirTags keep showing up in stalking arrests."
 pubDate: 2026-08-23T13:32:19.316Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - crime
@@ -13,6 +13,8 @@ tags:
 source:
   name: "AppleInsider"
   url: "https://appleinsider.com/articles/26/08/23/crime-blotter-bail-revoked-in-hingham-apple-store-crash-case?utm_source=rss"
+heroImage: "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Smartphone and coffee on a desk"
 ---
 
 The driver who crashed through the Hingham, Massachusetts Apple Store back in 2022, killing one person and injuring over a dozen others, just had his bail revoked. [AppleInsider](https://appleinsider.com/articles/26/08/23/crime-blotter-bail-revoked-in-hingham-apple-store-crash-case?utm_source=rss) reported the development as part of their weekly crime roundup, but the timing here is worth noting: it took two years for the court to pull bail on a case that involved a car deliberately driven through a storefront full of people.

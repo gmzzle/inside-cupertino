@@ -2,7 +2,7 @@
 title: "Chrome just crushed Safari's benchmark scores on Apple's own hardware"
 description: "Google's browser set new performance records on an M5 MacBook Pro. That's embarrassing for Apple, and it raises questions about Safari's trajectory."
 pubDate: 2026-06-06T14:42:21.939Z
-draft: true
+draft: false
 author: "Inside Cupertino"
 tags:
   - chrome
@@ -13,6 +13,8 @@ tags:
 source:
   name: "AppleInsider"
   url: "https://appleinsider.com/articles/26/06/06/chrome-for-macos-soundly-beats-browser-benchmark-records?utm_source=rss"
+heroImage: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Over-ear headphones on a colorful backdrop"
 ---
 
 [AppleInsider](https://appleinsider.com/articles/26/06/06/chrome-for-macos-soundly-beats-browser-benchmark-records?utm_source=rss) reported that Chrome just set new browser benchmark records on macOS, and the real story here is that Google did it on an M5 MacBook Pro. Apple's hardware, Google's win.
