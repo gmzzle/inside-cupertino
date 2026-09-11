@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T01:07:27.322Z",
+  "generatedAt": "2026-09-11T06:01:51.165Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "New Mexico representatives ask Apple to not rename state to 'New America'",
+      "url": "https://appleinsider.com/articles/26/09/11/new-mexico-representatives-ask-apple-to-not-rename-state-to-new-america?utm_source=rss",
+      "pubDate": "2026-09-11T01:46:40.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple extends free iPhone satellite access for another year",
+      "url": "https://9to5mac.com/2026/09/10/apple-extends-free-iphone-satellite-access-for-another-year/",
+      "pubDate": "2026-09-11T01:38:07.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -262,13 +276,6 @@
       "pubDate": "2026-09-10T16:53:48.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "AirPods 5, Apple Watch Series 12, and Ultra 4 now available on Amazon",
-      "url": "https://9to5mac.com/2026/09/10/airpods-5-apple-watch-series-12-and-ultra-4-now-available-on-amazon/",
-      "pubDate": "2026-09-10T16:25:39.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Hands on: Why did iPhone Duo have to be this good?",
@@ -339,25 +346,11 @@
       "pubDate": "2026-09-10T14:00:00.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple is laying groundwork for ads in Visual Intelligence",
-      "url": "https://appleinsider.com/articles/26/09/10/apple-is-laying-groundwork-for-ads-in-visual-intelligence?utm_source=rss",
-      "pubDate": "2026-09-10T13:56:03.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Don’t call it an iPad",
       "url": "https://sixcolors.com/post/2026/09/dont-call-it-an-ipad/",
       "pubDate": "2026-09-10T13:46:32.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Why your iPhone Duo will inevitably develop a screen crease",
-      "url": "https://appleinsider.com/articles/26/09/10/why-your-iphone-duo-will-inevitably-develop-a-screen-crease?utm_source=rss",
-      "pubDate": "2026-09-10T13:28:35.000Z"
     },
     {
       "source": "Six Colors",
@@ -372,6 +365,13 @@
       "title": "(Podcast) Upgrade 636: Opening a Book Backward",
       "url": "https://sixcolors.com/podcast/2026/09/upgrade-636-opening-a-book-backward/",
       "pubDate": "2026-09-09T23:49:10.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "The iPhone Duo: Tradeoffs, but fewer than feared",
+      "url": "https://sixcolors.com/post/2026/09/the-iphone-duo-tradeoffs-but-fewer-than-feared/",
+      "pubDate": "2026-09-09T20:59:45.000Z"
     }
   ]
 }
