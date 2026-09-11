@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T19:44:18.858Z",
+  "generatedAt": "2026-09-11T22:36:17.246Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,11 +24,95 @@
   ],
   "items": [
     {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Overtime 081: iPhone Duo thoughts and impressions",
+      "url": "https://9to5mac.com/2026/09/11/9to5mac-overtime-081-iphone-duo-thoughts-and-impressions/",
+      "pubDate": "2026-09-11T22:20:54.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Report: iPhone price hike ‘better than feared,’ iPhone Duo to drive demand for the cycle",
+      "url": "https://9to5mac.com/2026/09/11/report-iphone-price-hike-better-than-feared-iphone-duo-to-drive-demand-for-the-cycle/",
+      "pubDate": "2026-09-11T22:05:22.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "New standalone Roblox games will spread safety risks beyond the main app",
+      "url": "https://appleinsider.com/articles/26/09/11/new-standalone-roblox-games-will-spread-safety-risks-beyond-the-main-app?utm_source=rss",
+      "pubDate": "2026-09-11T22:05:08.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Here's When iPhone 18 Pro Pre-Orders Begin in Every Time Zone",
+      "url": "https://www.macrumors.com/2026/09/11/iphone-18-pro-pre-orders-time-zones/",
+      "pubDate": "2026-09-11T22:02:55.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple ranks third on TIME’s World’s Best Companies list after last year’s absence",
+      "url": "https://9to5mac.com/2026/09/11/apple-ranks-third-on-times-worlds-best-companies-list-after-last-years-absence/",
+      "pubDate": "2026-09-11T20:59:16.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
+      "pubDate": "2026-09-11T20:44:02.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Two iOS 27 Features Won't Be Ready for Monday's Launch",
+      "url": "https://www.macrumors.com/2026/09/11/ios-27-delayed-features/",
+      "pubDate": "2026-09-11T20:37:37.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Counterpoint: Apple foldable panel shipments could rise 167% by 2030",
+      "url": "https://9to5mac.com/2026/09/11/counterpoint-apple-foldable-panel-shipments-could-rise-167-by-2030/",
+      "pubDate": "2026-09-11T19:57:28.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Watch Series 12 makes a big change to a small complication that I’m excited about",
+      "url": "https://9to5mac.com/2026/09/11/apple-watch-series-12-makes-a-big-change-to-a-small-complication-that-im-excited-about/",
+      "pubDate": "2026-09-11T19:50:23.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "These are the best iPhone 18 Pro cases you can buy now",
+      "url": "https://appleinsider.com/inside/iphone-18/best/best-iphone-18-pro-cases-you-can-buy-now?utm_source=rss",
+      "pubDate": "2026-09-11T19:47:17.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple says two iOS 27 features aren’t coming until a ‘future software update’",
+      "url": "https://9to5mac.com/2026/09/11/apple-says-two-ios-27-features-arent-coming-until-a-future-software-update/",
+      "pubDate": "2026-09-11T19:46:45.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Watch Series 11 vs. Series 12 Buyer's Guide: 25+ Upgrades Compared",
+      "url": "https://www.macrumors.com/guide/apple-watch-series-11-vs-12/",
+      "pubDate": "2026-09-11T19:44:27.000Z"
+    },
+    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iPhone 18 Pro Pre-Orders: Deadline to 'Get Ready' Early is Tonight",
       "url": "https://www.macrumors.com/2026/09/11/iphone-18-pro-pre-orders-get-ready/",
-      "pubDate": "2026-09-11T19:37:29.000Z"
+      "pubDate": "2026-09-11T19:37:20.000Z"
     },
     {
       "source": "9to5Mac",
@@ -89,7 +173,7 @@
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
-      "title": "Matt Mullenweg reportedly returns as Automattic CEO two days after getting booted",
+      "title": "Matt Mullenweg returns as Automattic CEO two days after getting booted",
       "url": "https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return",
       "pubDate": "2026-09-11T17:16:59.000Z"
     },
@@ -157,20 +241,6 @@
       "pubDate": "2026-09-11T16:00:26.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Four ways to achieve shallow depth of field without buying the iPhone 18 Pro",
-      "url": "https://9to5mac.com/2026/09/11/four-ways-to-achieve-shallow-depth-of-field-with-an-older-iphone/",
-      "pubDate": "2026-09-11T16:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Here’s why I left T-Mobile for an MVNO",
-      "url": "https://9to5mac.com/2026/09/11/heres-why-i-left-t-mobile-for-an-mvno/",
-      "pubDate": "2026-09-11T15:44:16.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Meta may have leaked the first look at its slim &#8216;Project Phoenix&#8217; headset",
@@ -185,25 +255,11 @@
       "pubDate": "2026-09-11T15:35:44.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Siri AI is coming: Here are three times it’s really impressed me so far",
-      "url": "https://9to5mac.com/2026/09/11/siri-ai-is-coming-here-are-three-times-its-really-impressed-me-so-far/",
-      "pubDate": "2026-09-11T15:31:35.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Where to preorder the Apple AirPods 5",
       "url": "https://www.theverge.com/gadgets/993637/apple-airpods-5-anc-wireless-charging-preorder-buy",
       "pubDate": "2026-09-11T15:31:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: AirPods 5 from $64 w/ trade, AirPods Pro 3, Studio Display XDR $330 off, Ceramic Apple Watch, more",
-      "url": "https://9to5mac.com/2026/09/11/deals-airpods-5-airpods-pro-3-studio-display-series-12/",
-      "pubDate": "2026-09-11T15:30:56.000Z"
     },
     {
       "source": "AppleInsider",
@@ -246,27 +302,6 @@
       "title": "The wireless earbuds with unbeatable call quality got their first discount",
       "url": "https://www.theverge.com/gadgets/993929/soundcore-liberty-5-pro-earbuds-control-resonant-ring-doorbell-deal-sale",
       "pubDate": "2026-09-11T14:43:26.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
-      "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-      "pubDate": "2026-09-11T14:25:21.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Watch Ultra 4 vs Ultra 3: Here’s everything new",
-      "url": "https://9to5mac.com/2026/09/11/apple-watch-ultra-4-vs-ultra-3-heres-everything-new/",
-      "pubDate": "2026-09-11T14:22:15.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "CarPlay now works with six major AI chatbot apps, leaving one key holdout",
-      "url": "https://9to5mac.com/2026/09/11/microsoft-copilot-joins-carplay-leaving-gemini-as-the-biggest-holdout/",
-      "pubDate": "2026-09-11T14:16:54.000Z"
     },
     {
       "source": "MacRumors",
@@ -316,41 +351,6 @@
       "title": "iPhone Duo design & MagSafe problems on the AppleInsider Podcast",
       "url": "https://appleinsider.com/articles/26/09/11/iphone-duo-design-magsafe-problems-on-the-appleinsider-podcast?utm_source=rss",
       "pubDate": "2026-09-11T11:47:17.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "IMAX Reacts to iPhone Duo's 1:1.4 Aspect Ratio Displays",
-      "url": "https://www.macrumors.com/2026/09/11/imax-reacts-to-iphone-duo-displays/",
-      "pubDate": "2026-09-11T11:42:36.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Samsung holds Apple to $250 per iPhone Duo display in three-year deal",
-      "url": "https://appleinsider.com/articles/26/09/11/samsung-holds-apple-to-250-per-iphone-duo-display-in-three-year-deal?utm_source=rss",
-      "pubDate": "2026-09-11T11:33:02.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Execs Explain iPhone Duo's Display Design, Secrecy, and Price",
-      "url": "https://www.macrumors.com/2026/09/11/apple-explains-iphone-duo-design-secrecy-price/",
-      "pubDate": "2026-09-11T11:09:48.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Ternus and Joswiak talk about designing the iPhone Duo in secret",
-      "url": "https://appleinsider.com/articles/26/09/11/ternus-and-joswiak-talk-about-designing-the-iphone-duo-in-secret?utm_source=rss",
-      "pubDate": "2026-09-11T10:14:40.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple to Pay $250 Per iPhone Duo Foldable Display in Samsung Deal",
-      "url": "https://www.macrumors.com/2026/09/11/apple-pay-250-dollars-iphone-duo-display-samsung/",
-      "pubDate": "2026-09-11T10:10:39.000Z"
     },
     {
       "source": "Six Colors",
