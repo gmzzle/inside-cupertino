@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T11:24:41.936Z",
+  "generatedAt": "2026-09-11T16:30:28.119Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -26,6 +26,258 @@
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone Duo Can Do Split View, But Not Like Your iPad",
+      "url": "https://www.macrumors.com/2026/09/11/iphone-duo-split-view-not-like-ipad/",
+      "pubDate": "2026-09-11T16:26:31.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "We unfolded the iPhone Duo",
+      "url": "https://www.theverge.com/podcast/994016/iphone-duo-vergecast-apple-watch-mac-llms",
+      "pubDate": "2026-09-11T16:22:24.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The White House calls Truth Social the ‘most powerful and popular’ social media platform",
+      "url": "https://www.theverge.com/policy/994072/white-house-truth-social-popular-powerful",
+      "pubDate": "2026-09-11T16:21:19.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Anthropic spent this week in hot water over cybersecurity",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+      "pubDate": "2026-09-11T16:09:14.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "The MacRumors Show: iPhone 18 Pro and iPhone Duo Announced!",
+      "url": "https://www.macrumors.com/2026/09/11/the-macrumors-show-iphone-duo/",
+      "pubDate": "2026-09-11T16:05:01.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Microsoft’s head of comms is leaving after almost 20 years",
+      "url": "https://www.theverge.com/news/993791/microsoft-frank-shaw-leaving-head-of-comms",
+      "pubDate": "2026-09-11T16:01:34.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Sponsor) Magic Lasso Adblock: Effortlessly block ads on your iPhone, iPad, Mac and Apple TV",
+      "url": "https://sixcolors.com/sponsor/2026/09/magic-lasso-adblock-effortlessly-block-ads-on-your-iphone-ipad-mac-and-apple-tv-9/",
+      "pubDate": "2026-09-11T16:00:26.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Here’s why I left T-Mobile for an MVNO",
+      "url": "https://9to5mac.com/2026/09/11/heres-why-i-left-t-mobile-for-an-mvno/",
+      "pubDate": "2026-09-11T15:44:16.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Meta may have leaked the first look at its slim &#8216;Project Phoenix&#8217; headset",
+      "url": "https://www.theverge.com/tech/994055/meta-project-phoenix-headset-leak",
+      "pubDate": "2026-09-11T15:38:31.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple Watch heart rate accuracy vs. rivals: devil is in the details",
+      "url": "https://appleinsider.com/articles/26/09/11/apple-watch-heart-rate-accuracy-vs-rivals-devil-is-in-the-details?utm_source=rss",
+      "pubDate": "2026-09-11T15:35:44.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Siri AI is coming: Here are three times it’s really impressed me so far",
+      "url": "https://9to5mac.com/2026/09/11/siri-ai-is-coming-here-are-three-times-its-really-impressed-me-so-far/",
+      "pubDate": "2026-09-11T15:31:35.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Where to preorder the Apple AirPods 5",
+      "url": "https://www.theverge.com/gadgets/993637/apple-airpods-5-anc-wireless-charging-preorder-buy",
+      "pubDate": "2026-09-11T15:31:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Deals: AirPods 5 from $64 w/ trade, AirPods Pro 3, Studio Display XDR $330 off, Ceramic Apple Watch, more",
+      "url": "https://9to5mac.com/2026/09/11/deals-airpods-5-airpods-pro-3-studio-display-series-12/",
+      "pubDate": "2026-09-11T15:30:56.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iPhone 18 Pro, iPhone Duo, more: What AppleInsider thinks about 'Surprise and Shine'",
+      "url": "https://appleinsider.com/articles/26/09/11/iphone-18-pro-iphone-duo-more-what-appleinsider-thinks-about-surprise-and-shine?utm_source=rss",
+      "pubDate": "2026-09-11T15:22:26.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Before you use Apple Upgrade for iPhone 18 Pro, unlock your credit",
+      "url": "https://appleinsider.com/articles/26/09/11/before-you-use-apple-upgrade-for-iphone-18-pro-unlock-your-credit?utm_source=rss",
+      "pubDate": "2026-09-11T15:20:12.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone Duo is Missing These 10 iPhone 18 Pro Features",
+      "url": "https://www.macrumors.com/2026/09/11/iphone-duo-is-missing-these-features/",
+      "pubDate": "2026-09-11T15:13:38.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Anime reaction YouTubers are at war with copyright enforcers",
+      "url": "https://www.theverge.com/tech/993898/nicholaslighttv-remove-your-media-youtube-crunchyroll-viz-media",
+      "pubDate": "2026-09-11T15:12:58.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Save $600 on Apple's M5 Max 14-inch MacBook Pro at Amazon",
+      "url": "https://appleinsider.com/articles/26/09/11/save-600-on-apples-m5-max-14-inch-macbook-pro-at-amazon?utm_source=rss",
+      "pubDate": "2026-09-11T15:08:11.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The wireless earbuds with unbeatable call quality got their first discount",
+      "url": "https://www.theverge.com/gadgets/993929/soundcore-liberty-5-pro-earbuds-control-resonant-ring-doorbell-deal-sale",
+      "pubDate": "2026-09-11T14:43:26.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+      "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+      "pubDate": "2026-09-11T14:25:21.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Watch Ultra 4 vs Ultra 3: Here’s everything new",
+      "url": "https://9to5mac.com/2026/09/11/apple-watch-ultra-4-vs-ultra-3-heres-everything-new/",
+      "pubDate": "2026-09-11T14:22:15.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Microsoft Copilot joins CarPlay, leaving Gemini as the biggest holdout",
+      "url": "https://9to5mac.com/2026/09/11/microsoft-copilot-joins-carplay-leaving-gemini-as-the-biggest-holdout/",
+      "pubDate": "2026-09-11T14:16:54.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "New York City’s last pickpocket doesn’t need a smartphone",
+      "url": "https://www.theverge.com/entertainment/993875/tiff-2026-the-only-living-pickpocket-in-new-york",
+      "pubDate": "2026-09-11T14:15:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: September 11, 2026 – More on Apple Intelligence, iPhone Duo",
+      "url": "https://9to5mac.com/2026/09/11/daily-september-11-2026/",
+      "pubDate": "2026-09-11T13:59:51.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Amazon Offers Up to $600 Off M5 MacBook Pro, $330 Off Studio Display",
+      "url": "https://www.macrumors.com/2026/09/11/best-apple-deals-of-the-week-9-11-26/",
+      "pubDate": "2026-09-11T13:48:25.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple shares the data behind Apple Watch Series 12’s biggest health claim",
+      "url": "https://9to5mac.com/2026/09/11/apple-shares-the-data-behind-apple-watch-series-12s-biggest-health-claim/",
+      "pubDate": "2026-09-11T13:37:20.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Reminder: AirPods 5 Do Not Include a Charging Cable in the Box",
+      "url": "https://www.macrumors.com/2026/09/11/airpods-5-lack-charging-cable-in-box/",
+      "pubDate": "2026-09-11T13:32:43.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 launches next week: Here are three new features I’ve been loving",
+      "url": "https://9to5mac.com/2026/09/11/ios-27-adds-three-new-iphone-features-ive-been-really-loving/",
+      "pubDate": "2026-09-11T13:18:14.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "You should prepare for your iPhone 18 Pro pre-order right now",
+      "url": "https://appleinsider.com/inside/iphone-18/tips/you-should-prepare-for-your-iphone-18-pro-pre-order-right-now?utm_source=rss",
+      "pubDate": "2026-09-11T13:16:22.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Your Apple Watch isn’t recording audio, it’s flowing it ↦",
+      "url": "https://sixcolors.com/link/2026/09/your-apple-watch-isnt-recording-audio-its-flowing-it/",
+      "pubDate": "2026-09-11T12:52:39.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "What Upgrading to iPhone 18 Pro From iPhone 17 Pro Gets You",
+      "url": "https://www.macrumors.com/2026/09/11/upgrade-to-iphone-18-pro-from-iphone-17-pro/",
+      "pubDate": "2026-09-11T12:44:03.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Inside Visual Intelligence on iOS and macOS: Using Apple's best AI feature",
+      "url": "https://appleinsider.com/inside/ios-27/tips/visual-intelligence-on-ios-and-macos-using-apples-image-based-ai-feature?utm_source=rss",
+      "pubDate": "2026-09-11T11:56:06.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iPhone Duo design & MagSafe problems on the AppleInsider Podcast",
+      "url": "https://appleinsider.com/articles/26/09/11/iphone-duo-design-magsafe-problems-on-the-appleinsider-podcast?utm_source=rss",
+      "pubDate": "2026-09-11T11:47:17.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "IMAX Reacts to iPhone Duo's 1:1.4 Aspect Ratio Displays",
+      "url": "https://www.macrumors.com/2026/09/11/imax-reacts-to-iphone-duo-displays/",
+      "pubDate": "2026-09-11T11:42:36.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "New Mexico representatives ask Apple to not rename state to 'New America'",
+      "url": "https://appleinsider.com/articles/26/09/11/new-mexico-representatives-ask-apple-to-not-rename-state-to-new-america?utm_source=rss",
+      "pubDate": "2026-09-11T11:34:31.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Samsung holds Apple to $250 per iPhone Duo display in three-year deal",
+      "url": "https://appleinsider.com/articles/26/09/11/samsung-holds-apple-to-250-per-iphone-duo-display-in-three-year-deal?utm_source=rss",
+      "pubDate": "2026-09-11T11:33:02.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Execs Explain iPhone Duo's Display Design, Secrecy, and Price",
       "url": "https://www.macrumors.com/2026/09/11/apple-explains-iphone-duo-design-secrecy-price/",
       "pubDate": "2026-09-11T11:09:48.000Z"
@@ -45,13 +297,6 @@
       "pubDate": "2026-09-11T10:10:39.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple addresses iPhone Duo copycats",
-      "url": "https://www.theverge.com/tech/993795/apple-addresses-iphone-duo-copycats",
-      "pubDate": "2026-09-11T10:02:58.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "John Ternus and Greg Joswiak reveal why now is the time for iPhone Duo",
@@ -64,13 +309,6 @@
       "title": "iPhone Duo, iPhone 18 Pro, Apple Watch Series 12, and AirPods 5 event",
       "url": "https://9to5mac.com/2026/09/10/happy-hour-607/",
       "pubDate": "2026-09-11T06:08:41.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "New Mexico representatives ask Apple to not rename state to 'New America'",
-      "url": "https://appleinsider.com/articles/26/09/11/new-mexico-representatives-ask-apple-to-not-rename-state-to-new-america?utm_source=rss",
-      "pubDate": "2026-09-11T01:46:40.000Z"
     },
     {
       "source": "9to5Mac",
@@ -87,25 +325,11 @@
       "pubDate": "2026-09-11T00:45:36.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "T-Mobile will charge $5/month for Apple’s new iPhone Handoff feature",
-      "url": "https://9to5mac.com/2026/09/10/t-mobile-will-charge-5-month-for-apples-new-iphone-handoff-feature/",
-      "pubDate": "2026-09-11T00:28:45.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Should your Apple Watch always be listening?",
       "url": "https://sixcolors.com/post/2026/09/should-your-apple-watch-always-be-listening/",
       "pubDate": "2026-09-11T00:13:40.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "No, you won't be able to play two videos at once on iPhone Duo",
-      "url": "https://appleinsider.com/articles/26/09/10/no-you-wont-be-able-to-play-two-videos-at-once-on-iphone-duo?utm_source=rss",
-      "pubDate": "2026-09-10T23:55:22.000Z"
     },
     {
       "source": "MacRumors",
@@ -129,216 +353,6 @@
       "pubDate": "2026-09-10T22:58:32.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "DOJ wins pause on order requiring documents from 14 agencies in Apple antitrust case",
-      "url": "https://9to5mac.com/2026/09/10/doj-wins-pause-on-order-requiring-documents-from-14-agencies-in-apple-antitrust-case/",
-      "pubDate": "2026-09-10T22:31:56.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "You Can't Use Apple Watch's Live Rewind Secretly, Apple Says",
-      "url": "https://www.macrumors.com/2026/09/10/apple-watch-live-rewind/",
-      "pubDate": "2026-09-10T22:11:55.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple now accepting App Store submissions built for iOS 27, macOS 27, more",
-      "url": "https://9to5mac.com/2026/09/10/apple-now-accepting-app-store-submissions-built-for-ios-27-macos-27-more/",
-      "pubDate": "2026-09-10T21:35:08.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Slack can now vibe-code interactive charts and reports inside chats",
-      "url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
-      "pubDate": "2026-09-10T21:25:21.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple TV shares intense trailer for ‘The Last First: Winter K2’",
-      "url": "https://9to5mac.com/2026/09/10/apple-tv-shares-intense-trailer-for-the-last-first-winter-k2/",
-      "pubDate": "2026-09-10T20:40:28.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Ceramic Series 12 is Pricier to Repair Than Apple Watch Ultra 4",
-      "url": "https://www.macrumors.com/2026/09/10/ceramic-series-12-repair-costs/",
-      "pubDate": "2026-09-10T20:21:16.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Report: iPhone Duo could give Apple a 25% share of foldable market in 2026",
-      "url": "https://9to5mac.com/2026/09/10/report-iphone-duo-could-give-apple-a-25-share-of-foldable-market-in-2026/",
-      "pubDate": "2026-09-10T20:04:18.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Mac's Edge Light Feature Rumored to Expand to iPhone",
-      "url": "https://www.macrumors.com/2026/09/10/mac-edge-light-feature-may-expand-to-iphone/",
-      "pubDate": "2026-09-10T19:59:43.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Rates iPhone 18 Pro Slightly Easier to Repair Than 17 Pro",
-      "url": "https://www.macrumors.com/2026/09/10/iphone-18-pro-eu-repair-rating/",
-      "pubDate": "2026-09-10T19:49:41.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Schools are catching on to Big Tech’s playbook",
-      "url": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
-      "pubDate": "2026-09-10T19:44:20.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple Health & Quest team up for $119 blood panel",
-      "url": "https://appleinsider.com/articles/26/09/10/apple-health-quest-team-up-for-119-blood-panel?utm_source=rss",
-      "pubDate": "2026-09-10T19:32:46.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple shares fun, 95-second recap of yesterday’s ‘Surprise and Shine’ event",
-      "url": "https://9to5mac.com/2026/09/10/apple-shares-fun-95-second-recap-of-yesterdays-surprise-and-shine-event/",
-      "pubDate": "2026-09-10T19:31:51.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Decision time: iPhone Duo vs iPhone 18 Pro & iPad mini",
-      "url": "https://appleinsider.com/inside/iphone-18/vs/decision-time-iphone-duo-vs-iphone-18-pro-ipad-mini?utm_source=rss",
-      "pubDate": "2026-09-10T19:27:28.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "RIP, iPhone Ultra",
-      "url": "https://www.macrumors.com/2026/09/10/rip-iphone-ultra/",
-      "pubDate": "2026-09-10T19:13:14.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Upgrading to Apple Watch Series 12 Could Cost You Hypertension Notifications",
-      "url": "https://www.macrumors.com/2026/09/10/apple-watch-series-12-hypertension-alerts/",
-      "pubDate": "2026-09-10T18:57:42.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple will launch 7+ new products in October, here’s what’s coming",
-      "url": "https://9to5mac.com/2026/09/10/apple-will-launch-7-new-products-in-october-heres-whats-coming/",
-      "pubDate": "2026-09-10T18:52:24.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27 Apple Health App Redesign: Every New Feature Coming in 2026",
-      "url": "https://www.macrumors.com/guide/ios-27-health-app-new-features/",
-      "pubDate": "2026-09-10T18:46:45.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple TV Remote app has hidden features that could be coming to iOS 27",
-      "url": "https://9to5mac.com/2026/09/10/apple-tv-remote-app-has-hidden-features-that-could-be-coming-to-ios-27/",
-      "pubDate": "2026-09-10T18:13:28.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPhone Duo won't work with every MagSafe accessory, and that's okay",
-      "url": "https://appleinsider.com/articles/26/09/10/iphone-duo-wont-work-with-every-magsafe-accessory?utm_source=rss",
-      "pubDate": "2026-09-10T18:10:11.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Amazon offers first Apple Watch Series 12 preorder discounts",
-      "url": "https://appleinsider.com/articles/26/09/10/amazon-offers-first-apple-watch-series-12-preorder-discounts?utm_source=rss",
-      "pubDate": "2026-09-10T17:47:41.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "AppleCare One Family vs. Individual: which plan makes more sense?",
-      "url": "https://appleinsider.com/inside/apple-services/vs/applecare-one-family-vs-individual-which-plan-makes-more-sense?utm_source=rss",
-      "pubDate": "2026-09-10T17:43:11.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPhone 18 Pro vs iPhone Duo: Apple's new models, compared",
-      "url": "https://appleinsider.com/inside/iphone-18/vs/iphone-18-pro-vs-iphone-duo-apples-new-models-compared?utm_source=rss",
-      "pubDate": "2026-09-10T17:18:11.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Amazon’s Fire TV Stick 4K is over half off at under $20",
-      "url": "https://www.theverge.com/gadgets/993455/fire-tv-stick-4k-resident-evil-requiem-deal-sale",
-      "pubDate": "2026-09-10T16:58:44.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Hands on: Why did iPhone Duo have to be this good?",
-      "url": "https://appleinsider.com/articles/26/09/10/hands-on-why-did-iphone-duo-have-to-be-this-good?utm_source=rss",
-      "pubDate": "2026-09-10T16:18:27.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Electric air taxis get the green light for test flights in Texas",
-      "url": "https://www.theverge.com/transportation/993341/evtol-air-taxi-aviation-eipp-texas",
-      "pubDate": "2026-09-10T16:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Universal Music is launching an AI music platform with ElevenLabs",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
-      "pubDate": "2026-09-10T15:38:19.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Where to preorder the new Apple Watch Series 12 and Ultra 4",
-      "url": "https://www.theverge.com/gadgets/988579/apple-watch-series-12-5g-ultra-4-preorder-buy",
-      "pubDate": "2026-09-10T15:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Wolverine on the PS5 goes back to a simpler (and bloodier) style of action game",
-      "url": "https://www.theverge.com/games/992937/wolverine-review-ps5",
-      "pubDate": "2026-09-10T15:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Meta’s Muse AI works and creeps me out",
-      "url": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
-      "pubDate": "2026-09-10T15:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Another big James Talarico interview is punted to YouTube due to FCC threats",
-      "url": "https://www.theverge.com/policy/993383/jimmy-kimmel-fcc-brendan-carr-james-talarico",
-      "pubDate": "2026-09-10T14:34:36.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) The Rebound 615: What’s Wrong With You Guys?",
@@ -358,20 +372,6 @@
       "title": "John Ternus enters, with folding phones and AI watches",
       "url": "https://sixcolors.com/post/2026/09/john-ternus-enters-with-folding-phones-and-ai-watches/",
       "pubDate": "2026-09-10T00:39:17.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) Upgrade 636: Opening a Book Backward",
-      "url": "https://sixcolors.com/podcast/2026/09/upgrade-636-opening-a-book-backward/",
-      "pubDate": "2026-09-09T23:49:10.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "The iPhone Duo: Tradeoffs, but fewer than feared",
-      "url": "https://sixcolors.com/post/2026/09/the-iphone-duo-tradeoffs-but-fewer-than-feared/",
-      "pubDate": "2026-09-09T20:59:45.000Z"
     }
   ]
 }
