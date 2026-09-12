@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T17:12:13.014Z",
+  "generatedAt": "2026-09-12T19:25:05.351Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iPhone 18 Pro vs iPhone 17 Pro: Flagships, compared",
+      "url": "https://appleinsider.com/inside/iphone-18/vs/iphone-18-pro-vs-iphone-17-pro-flagships-compared?utm_source=rss",
+      "pubDate": "2026-09-12T18:45:59.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -85,13 +92,6 @@
       "title": "Trump is giving data centers a pass to pollute",
       "url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
       "pubDate": "2026-09-12T14:41:27.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPhone 18 Pro vs iPhone 17 Pro: Flagships, compared",
-      "url": "https://appleinsider.com/inside/iphone-18/vs/iphone-18-pro-vs-iphone-17-pro-flagships-compared?utm_source=rss",
-      "pubDate": "2026-09-12T14:21:33.000Z"
     },
     {
       "source": "MacRumors",
