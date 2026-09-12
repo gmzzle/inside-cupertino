@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T01:08:24.097Z",
+  "generatedAt": "2026-09-12T05:49:01.166Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "How to Pre-Order iPhone 18 Pro From Apple and Get the Model You Want on Launch Day",
+      "url": "https://www.macrumors.com/how-to/pre-order-your-iphone-18-pro-from-apple/",
+      "pubDate": "2026-09-12T03:22:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple researchers unveil SimpleDesign, a new AI model for protein design",
+      "url": "https://9to5mac.com/2026/09/11/apple-researchers-unveil-simpledesign-a-new-ai-model-for-protein-design/",
+      "pubDate": "2026-09-12T01:56:26.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -169,13 +183,6 @@
       "title": "iPhone 18 Pro vs iPhone 15 Pro: Three-year upgrade",
       "url": "https://appleinsider.com/inside/iphone-18/vs/iphone-18-pro-vs-iphone-15-pro-three-year-upgrade?utm_source=rss",
       "pubDate": "2026-09-11T17:55:32.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27.1 release date: Here’s when to expect the new iPhone update",
-      "url": "https://9to5mac.com/2026/09/11/ios-27-1-release-date-heres-when-to-expect-the-new-iphone-update/",
-      "pubDate": "2026-09-11T17:28:37.000Z"
     },
     {
       "source": "The Verge",
@@ -330,13 +337,6 @@
       "title": "Your Apple Watch isn’t recording audio, it’s flowing it ↦",
       "url": "https://sixcolors.com/link/2026/09/your-apple-watch-isnt-recording-audio-its-flowing-it/",
       "pubDate": "2026-09-11T12:52:39.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "What Upgrading to iPhone 18 Pro From iPhone 17 Pro Gets You",
-      "url": "https://www.macrumors.com/2026/09/11/upgrade-to-iphone-18-pro-from-iphone-17-pro/",
-      "pubDate": "2026-09-11T12:44:03.000Z"
     },
     {
       "source": "AppleInsider",
