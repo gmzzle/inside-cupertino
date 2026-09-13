@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T06:12:34.501Z",
+  "generatedAt": "2026-09-13T11:58:55.555Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Here's When iOS 27 Rolls Out in Every Time Zone",
+      "url": "https://www.macrumors.com/2026/09/13/ios-27-release-date-time-zones/",
+      "pubDate": "2026-09-13T10:00:11.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -309,13 +316,6 @@
       "title": "iPhone 18 Pro Pre-Orders: Deadline to 'Get Ready' Early is Tonight",
       "url": "https://www.macrumors.com/2026/09/11/iphone-18-pro-pre-orders-get-ready/",
       "pubDate": "2026-09-11T19:37:20.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone 18 Pro First Look: Same Design, Big Changes Inside",
-      "url": "https://www.macrumors.com/2026/09/11/iphone-18-pro-hands-on/",
-      "pubDate": "2026-09-11T18:32:43.000Z"
     },
     {
       "source": "AppleInsider",
