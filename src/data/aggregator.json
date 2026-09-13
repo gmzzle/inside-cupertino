@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T11:58:55.555Z",
+  "generatedAt": "2026-09-13T16:19:41.550Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,11 +24,102 @@
   ],
   "items": [
     {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "macOS Tahoe 26.4 update stops you from copying your login Keychain",
+      "url": "https://appleinsider.com/articles/26/09/13/macos-tahoe-264-update-stops-you-from-copying-your-login-keychain?utm_source=rss",
+      "pubDate": "2026-09-13T16:15:52.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple Store Genius Bar & pickup counter revamp effort accelerating",
+      "url": "https://appleinsider.com/articles/26/09/13/apple-store-genius-bar-pickup-counter-revamp-effort-accelerating?utm_source=rss",
+      "pubDate": "2026-09-13T14:53:54.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "This unique retro dock adds a flip-up display, Thunderbolt 5, & 8TB storage to your Mac [Video]",
+      "url": "https://9to5mac.com/2026/09/13/this-unique-retro-dock-adds-a-flip-up-display-thunderbolt-5-8tb-storage-to-your-mac-wokyis-g5-g7-video/",
+      "pubDate": "2026-09-13T14:30:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Waymo pulls over, calls cops on riders with a ghost gun",
+      "url": "https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun",
+      "pubDate": "2026-09-13T14:28:12.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple Intelligence could be the key to cram Face ID into future iPhone Duo",
+      "url": "https://appleinsider.com/articles/26/09/13/apple-intelligence-could-be-the-key-to-cram-face-id-into-future-iphone-duo?utm_source=rss",
+      "pubDate": "2026-09-13T14:27:41.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple is designing its own game controllers for iPhone, could be Beats branded",
+      "url": "https://9to5mac.com/2026/09/13/apple-designing-iphone-game-controller/",
+      "pubDate": "2026-09-13T14:26:11.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "New Apple TV with Siri AI could launch at any time in the fall",
+      "url": "https://appleinsider.com/articles/26/09/13/new-apple-tv-with-siri-ai-could-launch-at-any-time-in-the-fall?utm_source=rss",
+      "pubDate": "2026-09-13T14:25:50.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "AirPods 5 Pre-Orders Go Live, While Older Models Reach Up to $100 Off This Weekend",
+      "url": "https://www.macrumors.com/2026/09/13/airpods-5-older-models-100-off/",
+      "pubDate": "2026-09-13T14:21:23.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Your Mother Your Mother Your Mother will make you forget all about Marvel’s Blade disaster",
+      "url": "https://www.theverge.com/entertainment/994393/your-mother-your-mother-your-mother-review-tiff-2026",
+      "pubDate": "2026-09-13T13:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Craig Federighi addresses iPhone Duo and iPad overlap",
+      "url": "https://9to5mac.com/2026/09/13/craig-federighi-addresses-iphone-duo-and-ipad-overlap/",
+      "pubDate": "2026-09-13T12:47:33.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Your car is selling your data",
+      "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+      "pubDate": "2026-09-13T12:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Apple’s new phones are here",
+      "url": "https://www.theverge.com/tech/994218/apple-iphone-18-pro-airpods-5-meta-muse-ai-sony-headphones",
+      "pubDate": "2026-09-13T12:00:00.000Z"
+    },
+    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Here's When iOS 27 Rolls Out in Every Time Zone",
       "url": "https://www.macrumors.com/2026/09/13/ios-27-release-date-time-zones/",
       "pubDate": "2026-09-13T10:00:11.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 breaks 15 years of muscle memory on iPhone and iPad",
+      "url": "https://9to5mac.com/2026/09/13/ios-27-just-broke-15-years-of-muscle-memory-on-iphone-and-ipad/",
+      "pubDate": "2026-09-13T08:00:00.000Z"
     },
     {
       "source": "9to5Mac",
@@ -122,13 +213,6 @@
       "pubDate": "2026-09-12T16:00:00.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPhone 18 Pro vs iPhone 15 Pro: Three-year upgrade",
-      "url": "https://appleinsider.com/inside/iphone-18/vs/iphone-18-pro-vs-iphone-15-pro-three-year-upgrade?utm_source=rss",
-      "pubDate": "2026-09-12T15:40:02.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "iPhone Duo can add fake bezel to the outside screen for better case compatibility",
@@ -141,13 +225,6 @@
       "title": "LG responds to TV spying allegations",
       "url": "https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations",
       "pubDate": "2026-09-12T15:19:44.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Trump is giving data centers a pass to pollute",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
-      "pubDate": "2026-09-12T14:41:27.000Z"
     },
     {
       "source": "MacRumors",
@@ -171,25 +248,11 @@
       "pubDate": "2026-09-12T13:29:05.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Best iPhone 18 Pro cases now available for purchase",
-      "url": "https://9to5mac.com/2026/09/12/best-iphone-18-pro-cases-now-available/",
-      "pubDate": "2026-09-12T13:18:44.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "iPhone 18 Pro pre-orders off to a surprisingly slow start",
       "url": "https://appleinsider.com/articles/26/09/12/iphone-18-pro-pre-orders-off-to-a-surprisingly-slow-start?utm_source=rss",
       "pubDate": "2026-09-12T13:04:18.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Laika’s stop-motion fantasy Wildwood looks so smooth",
-      "url": "https://www.theverge.com/entertainment/994314/tiff-2026-wildwood-stuffed-julian",
-      "pubDate": "2026-09-12T13:00:00.000Z"
     },
     {
       "source": "AppleInsider",
@@ -206,13 +269,6 @@
       "pubDate": "2026-09-12T12:02:33.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "You can now pre-order iPhone 18 Pro and iPhone 18 Pro Max",
-      "url": "https://9to5mac.com/2026/09/12/you-can-now-pre-order-iphone-18-pro-and-iphone-18-pro-max/",
-      "pubDate": "2026-09-12T12:02:03.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iPhone 18 Pro and iPhone 18 Pro Max Now Available to Pre-Order",
@@ -225,20 +281,6 @@
       "title": "Here Are The Best Carrier Deals You Can Get When Pre-Ordering iPhone 18 Pro Today",
       "url": "https://www.macrumors.com/2026/09/12/best-carrier-deals-iphone-18-pro/",
       "pubDate": "2026-09-12T12:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Where to preorder the iPhone 18 Pro and Pro Max",
-      "url": "https://www.theverge.com/gadgets/988337/iphone-18-pro-max-preorder-buy",
-      "pubDate": "2026-09-12T12:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "OpenAI just wants to win",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
-      "pubDate": "2026-09-12T11:00:00.000Z"
     },
     {
       "source": "AppleInsider",
@@ -262,20 +304,6 @@
       "pubDate": "2026-09-12T05:50:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple researchers unveil SimpleDesign, a new AI model for protein design",
-      "url": "https://9to5mac.com/2026/09/11/apple-researchers-unveil-simpledesign-a-new-ai-model-for-protein-design/",
-      "pubDate": "2026-09-12T01:56:26.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "WhatsApp rolling out redesigned iPad interface with Mac-like sidebar",
-      "url": "https://9to5mac.com/2026/09/11/whatsapp-rolling-out-redesigned-ipad-interface-with-mac-like-sidebar/",
-      "pubDate": "2026-09-11T23:34:48.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "New standalone Roblox games will spread safety risks beyond the main app",
@@ -297,13 +325,6 @@
       "pubDate": "2026-09-11T20:37:37.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "These are the best iPhone 18 Pro cases you can buy now",
-      "url": "https://appleinsider.com/inside/iphone-18/best/best-iphone-18-pro-cases-you-can-buy-now?utm_source=rss",
-      "pubDate": "2026-09-11T19:47:17.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Watch Series 11 vs. Series 12 Buyer's Guide: 25+ Upgrades Compared",
@@ -311,32 +332,11 @@
       "pubDate": "2026-09-11T19:44:27.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone 18 Pro Pre-Orders: Deadline to 'Get Ready' Early is Tonight",
-      "url": "https://www.macrumors.com/2026/09/11/iphone-18-pro-pre-orders-get-ready/",
-      "pubDate": "2026-09-11T19:37:20.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Tim Cook's cameo in the iPhone Duo launch was pure television drama",
-      "url": "https://appleinsider.com/articles/26/09/11/tim-cooks-cameo-in-the-iphone-duo-launch-was-pure-television-drama?utm_source=rss",
-      "pubDate": "2026-09-11T16:36:23.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Sponsor) Magic Lasso Adblock: Effortlessly block ads on your iPhone, iPad, Mac and Apple TV",
       "url": "https://sixcolors.com/sponsor/2026/09/magic-lasso-adblock-effortlessly-block-ads-on-your-iphone-ipad-mac-and-apple-tv-9/",
       "pubDate": "2026-09-11T16:00:26.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple Watch heart rate accuracy vs. rivals: devil is in the details",
-      "url": "https://appleinsider.com/articles/26/09/11/apple-watch-heart-rate-accuracy-vs-rivals-devil-is-in-the-details?utm_source=rss",
-      "pubDate": "2026-09-11T15:35:44.000Z"
     },
     {
       "source": "Six Colors",
