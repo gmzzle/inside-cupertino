@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T19:23:33.774Z",
+  "generatedAt": "2026-09-14T23:09:01.636Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,11 +24,228 @@
   ],
   "items": [
     {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Gentler Streak and The Outsiders’ iOS 27 updates add Siri AI, onscreen awareness support, more",
+      "url": "https://9to5mac.com/2026/09/14/gentler-streak-and-the-outsiders-ios-27-updates-add-siri-ai-onscreen-awareness-support-more/",
+      "pubDate": "2026-09-14T23:04:24.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+      "pubDate": "2026-09-14T22:59:41.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "XChat, X’s standalone messaging app, currently unavailable on App Store",
+      "url": "https://9to5mac.com/2026/09/14/xchat-xs-standalone-messaging-app-currently-unavailable-on-app-store/",
+      "pubDate": "2026-09-14T22:30:42.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Apple Home’s new security camera features cost up to $60 a month",
+      "url": "https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription",
+      "pubDate": "2026-09-14T22:28:52.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "X's Standalone Messaging App XChat Disappears From App Store",
+      "url": "https://www.macrumors.com/2026/09/14/xchat-app-disappears-from-app-store/",
+      "pubDate": "2026-09-14T22:25:43.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "X and SpaceXAI move to drop Apple from antitrust lawsuit, keep claims against OpenAI",
+      "url": "https://9to5mac.com/2026/09/14/x-and-spacexai-move-to-drop-apple-from-antitrust-lawsuit-keep-claims-against-openai/",
+      "pubDate": "2026-09-14T22:03:53.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) Upgrade 637: My Job Is to Eat the Marshmallow",
+      "url": "https://sixcolors.com/podcast/2026/09/upgrade-637-my-job-is-to-eat-the-marshmallow/",
+      "pubDate": "2026-09-14T21:50:04.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iOS 27 AI Camera Summaries Cost $9.99 for One Camera, $59.99 for Five",
+      "url": "https://www.macrumors.com/2026/09/14/ios-27-ai-camera-summaries/",
+      "pubDate": "2026-09-14T21:46:37.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Here’s every security fix included in iOS 27 and iPadOS 27",
+      "url": "https://9to5mac.com/2026/09/14/heres-every-security-fix-included-in-ios-27-and-ipados-27/",
+      "pubDate": "2026-09-14T21:26:18.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "What execs and politicians are saying about slowing down AI development",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+      "pubDate": "2026-09-14T21:21:42.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "New Apple TV, HomePod Mini, and More on Track to Launch This Year",
+      "url": "https://www.macrumors.com/2026/09/14/new-apple-tv-homepod-mini-on-track-for-2026/",
+      "pubDate": "2026-09-14T21:18:26.000Z"
+    },
+    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
-      "title": "Elon Musk's X corp files to dismiss App Store favoritism case",
+      "title": "AppleCare One Family vs. Individual: which plan makes more sense?",
+      "url": "https://appleinsider.com/inside/apple-services/vs/applecare-one-family-vs-individual-which-plan-makes-more-sense?utm_source=rss",
+      "pubDate": "2026-09-14T21:14:17.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "It's not clear why Elon Musk has filed to dismiss App Store favoritism suit",
       "url": "https://appleinsider.com/articles/26/09/14/elon-musks-x-corp-files-to-dismiss-app-store-favoritism-case?utm_source=rss",
-      "pubDate": "2026-09-14T19:07:07.000Z"
+      "pubDate": "2026-09-14T21:11:39.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple has 16 products in line for future release",
+      "url": "https://appleinsider.com/articles/26/09/14/apple-has-16-products-in-line-for-future-release?utm_source=rss",
+      "pubDate": "2026-09-14T21:04:42.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "MacBook Pro With OLED Touch Screen Running macOS 27.1 Inside Apple",
+      "url": "https://www.macrumors.com/2026/09/14/oled-macbook-pro-macos-27-1-testing/",
+      "pubDate": "2026-09-14T21:04:13.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "You need to join the Siri AI waitlist before you can use it",
+      "url": "https://appleinsider.com/articles/26/09/14/you-need-to-join-the-siri-ai-waitlist-before-you-can-use-it?utm_source=rss",
+      "pubDate": "2026-09-14T21:03:15.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Lex Friedman keeps Strategery alive ↦",
+      "url": "https://sixcolors.com/link/2026/09/lex-friedman-keeps-strategery-alive/",
+      "pubDate": "2026-09-14T21:02:37.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "macOS 27 Golden Gate, macOS Tahoe 26.7, and macOS Sequoia 15.8 fix 200+ vulnerabilities",
+      "url": "https://9to5mac.com/2026/09/14/macos-27-golden-gate-macos-tahoe-26-7-and-macos-sequoia-15-8-fix-200-vulnerabilities/",
+      "pubDate": "2026-09-14T20:54:46.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Trump throws out power plant climate pollution rules",
+      "url": "https://www.theverge.com/news/995051/epa-power-plant-climate-pollution-rollback-ai-data-centers",
+      "pubDate": "2026-09-14T20:45:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple files Supreme Court brief challenging contempt ruling in Epic case [U]",
+      "url": "https://9to5mac.com/2026/09/14/apple-files-supreme-court-brief-challenging-contempt-ruling-in-epic-case/",
+      "pubDate": "2026-09-14T20:38:10.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Hands on with Apple's iPhone Duo cases: Folio style will be an early hit with users",
+      "url": "https://appleinsider.com/articles/26/09/14/hands-on-with-apples-iphone-duo-cases-folio-style-will-be-an-early-hit-with-users?utm_source=rss",
+      "pubDate": "2026-09-14T20:35:54.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's Newest Store Features Three Design Changes",
+      "url": "https://www.macrumors.com/2026/09/14/apples-newest-store-features-three-changes/",
+      "pubDate": "2026-09-14T20:23:06.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple standing its ground in Epic's App Store fee suit",
+      "url": "https://appleinsider.com/articles/26/09/14/apple-standing-its-ground-in-epics-app-store-fee-suit?utm_source=rss",
+      "pubDate": "2026-09-14T20:09:17.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "AppleCare One Family Launches at $49.99 Per Month",
+      "url": "https://www.macrumors.com/2026/09/14/applecare-one-family-launches/",
+      "pubDate": "2026-09-14T20:06:05.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
+      "url": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
+      "pubDate": "2026-09-14T20:03:37.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Our top iPhone 18 Pro accessories to upgrade your setup",
+      "url": "https://9to5mac.com/2026/09/14/best-iphone-18-pro-accessories/",
+      "pubDate": "2026-09-14T19:59:34.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 uses a waitlist for accessing Siri AI",
+      "url": "https://9to5mac.com/2026/09/14/ios-27-has-a-waitlist-for-accessing-new-siri-ai/",
+      "pubDate": "2026-09-14T19:59:21.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Valve&#8217;s virtual reality plans hit actual reality",
+      "url": "https://www.theverge.com/tech/995055/valve-steam-frame-price-ram-impact",
+      "pubDate": "2026-09-14T19:48:06.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "SmartGym 8 brings natural-language workout creation, Siri AI integration, more",
+      "url": "https://9to5mac.com/2026/09/14/smartgym-8-brings-natural-language-workout-creation-siri-ai-integration-more/",
+      "pubDate": "2026-09-14T19:43:51.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple updates AirPods as iOS 27 adds customizable EQ",
+      "url": "https://appleinsider.com/articles/26/09/14/apple-updates-airpods-as-ios-27-adds-customizable-eq?utm_source=rss",
+      "pubDate": "2026-09-14T19:32:18.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iOS 27 Now Available: 10 Features to Try First",
+      "url": "https://www.macrumors.com/guide/ios-27-features-to-try-first/",
+      "pubDate": "2026-09-14T19:32:08.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The best deals from Nintendo’s ‘customer appreciation’ sale",
+      "url": "https://www.theverge.com/gadgets/994892/nintendo-customer-appreciation-tariff-refund-deal-sale",
+      "pubDate": "2026-09-14T19:30:58.000Z"
     },
     {
       "source": "9to5Mac",
@@ -70,28 +287,7 @@
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iOS 27 and iOS 26.7 Fix More Than 100 Security Bugs",
       "url": "https://www.macrumors.com/2026/09/14/ios-27-bug-fixes/",
-      "pubDate": "2026-09-14T18:36:28.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple just released new AirPods Pro 3 firmware, more for iOS 27",
-      "url": "https://9to5mac.com/2026/09/14/apple-just-released-new-airpods-pro-3-firmware-more-for-ios-27/",
-      "pubDate": "2026-09-14T18:33:42.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Here are the requirements to get Siri AI in iOS 27",
-      "url": "https://9to5mac.com/2026/09/14/here-are-the-requirements-to-get-siri-ai-in-ios-27/",
-      "pubDate": "2026-09-14T18:10:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "macOS Golden Gate is here and Siri AI is its remarkable best",
-      "url": "https://appleinsider.com/articles/26/09/14/macos-golden-gate-is-here-and-siri-ai-is-its-remarkable-best?utm_source=rss",
-      "pubDate": "2026-09-14T17:55:11.000Z"
+      "pubDate": "2026-09-14T18:36:17.000Z"
     },
     {
       "source": "AppleInsider",
@@ -129,27 +325,6 @@
       "pubDate": "2026-09-14T17:30:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple releases macOS Tahoe 26.7 and macOS Sequoia 15.8, here’s what’s new",
-      "url": "https://9to5mac.com/2026/09/14/apple-releases-macos-tahoe-26-7-and-macos-sequoia-15-8-heres-whats-new/",
-      "pubDate": "2026-09-14T17:27:43.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 26.7 now available for iPhone, here’s what’s new",
-      "url": "https://9to5mac.com/2026/09/14/ios-26-7-now-available-for-iphone-heres-whats-new/",
-      "pubDate": "2026-09-14T17:22:57.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iOS 27 is now available with big changes to Photos, and Siri",
-      "url": "https://appleinsider.com/articles/26/09/14/ios-27-is-now-available-with-big-changes-to-photos-and-siri?utm_source=rss",
-      "pubDate": "2026-09-14T17:22:36.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "iOS 27 Review: Little things mean a lot",
@@ -185,27 +360,6 @@
       "pubDate": "2026-09-14T17:12:24.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "watchOS 27 now available for Apple Watch, here’s what’s new",
-      "url": "https://9to5mac.com/2026/09/14/watchos-27-now-available-for-apple-watch-heres-whats-new/",
-      "pubDate": "2026-09-14T17:10:29.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "visionOS 27 is here for Apple Vision Pro with these new features",
-      "url": "https://9to5mac.com/2026/09/14/visionos-27-is-here-for-apple-vision-pro-with-these-new-features/",
-      "pubDate": "2026-09-14T17:10:17.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPadOS 27 brings Siri AI and system optimizations to your iPad",
-      "url": "https://appleinsider.com/articles/26/09/14/ipados-27-brings-siri-ai-and-system-optimizations-to-your-ipad?utm_source=rss",
-      "pubDate": "2026-09-14T17:10:14.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "macOS 27 is available now",
@@ -218,160 +372,6 @@
       "title": "Apple releases iOS 27 with Siri AI overhaul",
       "url": "https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update",
       "pubDate": "2026-09-14T17:08:49.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "macOS Golden Gate Now Available With Siri AI, Visual Intelligence and More",
-      "url": "https://www.macrumors.com/2026/09/14/apple-releases-macos-golden-gate/",
-      "pubDate": "2026-09-14T17:07:57.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple releases HomePod 27 with two new improvements",
-      "url": "https://9to5mac.com/2026/09/14/apple-releases-homepod-27-with-two-new-improvements/",
-      "pubDate": "2026-09-14T17:07:03.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "macOS 27 Golden Gate now available, here is everything new",
-      "url": "https://9to5mac.com/2026/09/14/macos-27-golden-gate-now-available-here-is-everything-new/",
-      "pubDate": "2026-09-14T17:06:56.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "tvOS 27 available now for Apple TV 4K, here’s everything new",
-      "url": "https://9to5mac.com/2026/09/14/tvos-27-available-now-for-apple-tv-4k-heres-everything-new/",
-      "pubDate": "2026-09-14T17:06:50.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Releases iOS 27 and iPadOS 27 With Siri AI and Liquid Glass Update",
-      "url": "https://www.macrumors.com/2026/09/14/apple-releases-ios-27/",
-      "pubDate": "2026-09-14T17:04:12.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Releases watchOS 27 With Siri AI, New Watch Face, Smart Stack Improvements and More",
-      "url": "https://www.macrumors.com/2026/09/14/apple-releases-watchos-27/",
-      "pubDate": "2026-09-14T17:03:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Releases visionOS 27 With Siri AI and New Spatial Experiences",
-      "url": "https://www.macrumors.com/2026/09/14/apple-releases-visionos-27/",
-      "pubDate": "2026-09-14T17:02:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Releases tvOS 27",
-      "url": "https://www.macrumors.com/2026/09/14/apple-releases-tvos-27/",
-      "pubDate": "2026-09-14T17:01:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Releases HomePod Software 27 With AutoMix Support",
-      "url": "https://www.macrumors.com/2026/09/14/apple-releases-homepod-software-27/",
-      "pubDate": "2026-09-14T17:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Steam Frame is made for irresponsible hardware nerds like me",
-      "url": "https://www.theverge.com/tech/994267/steam-frame-review",
-      "pubDate": "2026-09-14T17:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Valve’s Steam Frame costs $1,059",
-      "url": "https://www.theverge.com/games/994376/valve-steam-frame-vr-headset-price-release-date",
-      "pubDate": "2026-09-14T17:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Valve has ported Half-Life: Alyx to ARM, and it’s free with Steam Frame",
-      "url": "https://www.theverge.com/games/994454/valve-half-life-alyx-standalone-arm-port",
-      "pubDate": "2026-09-14T17:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "I reviewed Valve’s Steam Frame, ask me anything",
-      "url": "https://www.theverge.com/games/994535/steam-frame-ama-your-questions-answered",
-      "pubDate": "2026-09-14T17:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Dell XPS 13 is the first real competitor to the MacBook Neo",
-      "url": "https://www.theverge.com/tech/994636/dell-xps-13-2026-intel-wildcat-lake-8gb-16gb-review",
-      "pubDate": "2026-09-14T17:00:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27's iPhone Handoff Feature Expanding to More Carriers This Year",
-      "url": "https://www.macrumors.com/2026/09/14/ios-27-iphone-handoff-more-carriers-soon/",
-      "pubDate": "2026-09-14T16:55:50.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Netflix is making a Crazy Taxi movie and a Sonic show with ‘edge’",
-      "url": "https://www.theverge.com/streaming/994861/netflix-crazy-taxi-sonic-stranger-than-heaven",
-      "pubDate": "2026-09-14T16:48:46.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Sponsor) Rogue Amoeba’s SoundSource: Play Any App’s Audio, Anywhere You Want",
-      "url": "https://sixcolors.com/feed-only/2026/09/rogue-amoebas-soundsource-play-any-apps-audio-anywhere-you-want/",
-      "pubDate": "2026-09-14T16:00:28.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "If you let it, Apple Intelligence will train itself on your data in iOS 27",
-      "url": "https://appleinsider.com/articles/26/09/14/apple-has-altered-course-on-using-customer-data-to-train-its-ai?utm_source=rss",
-      "pubDate": "2026-09-14T15:56:32.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple has a dedicated animation for Hermes MagSafe wallets on the way",
-      "url": "https://appleinsider.com/articles/26/09/14/apple-has-a-dedicated-animation-for-hermes-magsafe-wallets-on-the-way?utm_source=rss",
-      "pubDate": "2026-09-14T15:19:58.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Amazon's iPad deals start at $399, save $150 on iPad Air",
-      "url": "https://appleinsider.com/articles/26/09/14/amazons-ipad-deals-start-at-399-save-150-on-ipad-air?utm_source=rss",
-      "pubDate": "2026-09-14T15:19:31.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Volkswagen’s slippery new EV breaks a bunch of efficiency records",
-      "url": "https://www.theverge.com/transportation/994670/volkswagen-mission-efficiency-ev-aero-drag-record",
-      "pubDate": "2026-09-14T15:12:09.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Sponsor) Magic Lasso Adblock: Effortlessly block ads on your iPhone, iPad, Mac and Apple TV",
-      "url": "https://sixcolors.com/sponsor/2026/09/magic-lasso-adblock-effortlessly-block-ads-on-your-iphone-ipad-mac-and-apple-tv-9/",
-      "pubDate": "2026-09-11T16:00:26.000Z"
     }
   ]
 }
