@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T01:07:28.008Z",
+  "generatedAt": "2026-09-14T06:20:03.525Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -26,9 +26,30 @@
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPod Touch Released 19 Years Ago Today",
+      "url": "https://www.macrumors.com/2026/09/14/ipod-touch-released-19-years-ago-today/",
+      "pubDate": "2026-09-14T06:17:50.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Amazon slashes M5 MacBook Air to $1,199, 30-day low price",
+      "url": "https://appleinsider.com/articles/26/09/14/amazon-slashes-m5-macbook-air-to-1199-30-day-low-price?utm_source=rss",
+      "pubDate": "2026-09-14T06:07:44.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
       "title": "iOS 27 Available Tomorrow With These 8 New Features",
       "url": "https://www.macrumors.com/2026/09/13/ios-27-features-available-tomorrow/",
       "pubDate": "2026-09-13T23:30:07.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's Two Rumored Game Controllers Will 'Likely' Come From Beats",
+      "url": "https://www.macrumors.com/2026/09/13/apple-beats-game-controllers-rumor/",
+      "pubDate": "2026-09-13T23:25:06.000Z"
     },
     {
       "source": "AppleInsider",
@@ -159,9 +180,9 @@
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
-      "title": "Here's When iOS 27 Rolls Out in Every Time Zone",
+      "title": "Here's When iOS 27 Rolls Out Around the World",
       "url": "https://www.macrumors.com/2026/09/13/ios-27-release-date-time-zones/",
-      "pubDate": "2026-09-13T10:00:11.000Z"
+      "pubDate": "2026-09-13T10:00:00.000Z"
     },
     {
       "source": "9to5Mac",
@@ -189,7 +210,7 @@
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Says iPhone 18 Pro Max Sold in U.S. Differs in One Way",
       "url": "https://www.macrumors.com/2026/09/12/iphone-18-pro-max-us-model-difference/",
-      "pubDate": "2026-09-12T22:27:26.000Z"
+      "pubDate": "2026-09-12T22:27:16.000Z"
     },
     {
       "source": "The Verge",
@@ -283,13 +304,6 @@
       "pubDate": "2026-09-12T12:14:00.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Preorders for the iPhone 18 Pro and iPhone 18 Pro Max are now live",
-      "url": "https://appleinsider.com/articles/26/09/12/preorders-for-the-iphone-18-pro-and-iphone-18-pro-max-are-now-live?utm_source=rss",
-      "pubDate": "2026-09-12T12:02:33.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iPhone 18 Pro and iPhone 18 Pro Max Now Available to Pre-Order",
@@ -316,20 +330,6 @@
       "title": "How to Pre-Order iPhone 18 Pro From Apple and Get the Model You Want on Launch Day",
       "url": "https://www.macrumors.com/how-to/pre-order-your-iphone-18-pro-from-apple/",
       "pubDate": "2026-09-12T05:50:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Here's When iPhone 18 Pro Pre-Orders Begin in Every Time Zone",
-      "url": "https://www.macrumors.com/2026/09/11/iphone-18-pro-pre-orders-time-zones/",
-      "pubDate": "2026-09-11T22:02:55.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Two iOS 27 Features Won't Be Ready for Monday's Launch",
-      "url": "https://www.macrumors.com/2026/09/11/ios-27-delayed-features/",
-      "pubDate": "2026-09-11T20:37:37.000Z"
     },
     {
       "source": "Six Colors",
