@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T22:25:43.867Z",
+  "generatedAt": "2026-09-14T01:07:28.008Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iOS 27 Available Tomorrow With These 8 New Features",
+      "url": "https://www.macrumors.com/2026/09/13/ios-27-features-available-tomorrow/",
+      "pubDate": "2026-09-13T23:30:07.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -323,13 +330,6 @@
       "title": "Two iOS 27 Features Won't Be Ready for Monday's Launch",
       "url": "https://www.macrumors.com/2026/09/11/ios-27-delayed-features/",
       "pubDate": "2026-09-11T20:37:37.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Watch Series 11 vs. Series 12 Buyer's Guide: 25+ Upgrades Compared",
-      "url": "https://www.macrumors.com/guide/apple-watch-series-11-vs-12/",
-      "pubDate": "2026-09-11T19:44:27.000Z"
     },
     {
       "source": "Six Colors",
