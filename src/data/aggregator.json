@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T18:13:26.116Z",
+  "generatedAt": "2026-09-15T21:27:43.312Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,6 +24,90 @@
   ],
   "items": [
     {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's 'vintage products' list now includes the final 21.5-inch Intel iMac",
+      "url": "https://appleinsider.com/articles/26/09/15/apples-vintage-products-list-now-includes-the-final-215-inch-intel-imac?utm_source=rss",
+      "pubDate": "2026-09-15T21:27:21.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 has a fun new animation when you call a contact on their birthday",
+      "url": "https://9to5mac.com/2026/09/15/ios-27-has-a-fun-new-animation-when-you-call-a-contact-on-their-birthday/",
+      "pubDate": "2026-09-15T20:44:58.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Microsoft announces Windows and Surface event for October 7th",
+      "url": "https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco",
+      "pubDate": "2026-09-15T20:36:59.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "What if social media isn’t hurting kids?",
+      "url": "https://www.theverge.com/policy/995704/peter-gray-restoring-childhood-jonathan-haidt",
+      "pubDate": "2026-09-15T20:13:30.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 gives Apple’s Calendar app new feature I’ve wanted for years",
+      "url": "https://9to5mac.com/2026/09/15/ios-27-gives-apples-calendar-app-new-feature-ive-wanted-for-years/",
+      "pubDate": "2026-09-15T20:06:34.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Another Intel iMac has joined Apple’s vintage products list",
+      "url": "https://9to5mac.com/2026/09/15/another-intel-imac-has-joined-apples-vintage-products-list/",
+      "pubDate": "2026-09-15T19:55:07.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's Last Intel 21.5-Inch iMac is Now Vintage",
+      "url": "https://www.macrumors.com/2026/09/15/apple-last-intel-imac-vintage/",
+      "pubDate": "2026-09-15T19:53:26.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone 16 Pro vs. iPhone 18 Pro Buyer's Guide: Worth Upgrading?",
+      "url": "https://www.macrumors.com/guide/iphone-16-pro-vs-18-pro/",
+      "pubDate": "2026-09-15T19:17:47.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "macOS 27 kills Time Capsule backups, but NAS hosts still work",
+      "url": "https://appleinsider.com/articles/26/09/15/macos-27-kills-time-capsule-backups-but-nas-hosts-still-work?utm_source=rss",
+      "pubDate": "2026-09-15T19:05:40.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "HBO boss reacts to Apple TV winning more Emmy awards",
+      "url": "https://9to5mac.com/2026/09/15/hbo-boss-reacts-to-apple-tv-winning-more-emmy-awards/",
+      "pubDate": "2026-09-15T18:47:47.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Kia’s electric van lineup is getting more interesting with reveal of PV7",
+      "url": "https://www.theverge.com/transportation/995608/kia-pv7-electric-van-specs-sale",
+      "pubDate": "2026-09-15T18:39:44.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "AirPods 5 Hands-On: Better Noise Cancellation, Lower Price",
+      "url": "https://www.macrumors.com/2026/09/15/airpods-5-hands-on/",
+      "pubDate": "2026-09-15T18:19:59.000Z"
+    },
+    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "One of the best 3D printers for beginners is almost $100 off",
@@ -33,7 +117,7 @@
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
-      "title": "How Fast is Apple's M5 Ultra Chip? First Benchmark Result is Truly Wild",
+      "title": "M5 Ultra Chip's Impressive Performance Boost Revealed in First Benchmark Result",
       "url": "https://www.macrumors.com/2026/09/15/apple-m5-ultra-chip-benchmark/",
       "pubDate": "2026-09-15T18:00:47.000Z"
     },
@@ -185,20 +269,6 @@
       "pubDate": "2026-09-15T14:44:53.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Watch adds an all-new Readiness app, here’s how it works",
-      "url": "https://9to5mac.com/2026/09/15/apple-watch-adds-an-all-new-readiness-app-heres-how-it-works/",
-      "pubDate": "2026-09-15T14:38:05.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Slow Horses is back tonight, and Apple just confirmed two more seasons",
-      "url": "https://9to5mac.com/2026/09/15/slow-horses-is-back-tonight-and-apple-just-confirmed-two-more-seasons/",
-      "pubDate": "2026-09-15T14:35:47.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Watch Pre-Order Discounts Expand With Up to $20 In Savings",
@@ -218,13 +288,6 @@
       "title": "Fujifilm’s Instax Pal 2 is a tiny digital camera that may not disappoint",
       "url": "https://www.theverge.com/tech/995399/fujifilm-instax-pal-2-digital-camera-wireless-autofocus-face-detection",
       "pubDate": "2026-09-15T14:03:18.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Card has three new and improved features in iOS 27",
-      "url": "https://9to5mac.com/2026/09/15/apple-card-has-three-new-and-improved-features-in-ios-27/",
-      "pubDate": "2026-09-15T14:00:41.000Z"
     },
     {
       "source": "MacRumors",
@@ -248,13 +311,6 @@
       "pubDate": "2026-09-15T13:36:45.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Battery draining faster after updating to iOS 27? Don’t panic …",
-      "url": "https://9to5mac.com/2026/09/15/battery-draining-faster-after-updating-to-ios-27-dont-panic/",
-      "pubDate": "2026-09-15T13:35:18.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iPhone Car Keys in Apple Wallet Expanding to Three More Vehicle Brands",
@@ -276,27 +332,6 @@
       "pubDate": "2026-09-15T13:15:01.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Voicemod’s new pocket-friendly device brings real-time voice changing to your phone",
-      "url": "https://www.theverge.com/tech/994828/voicemod-voice-changer-key-pocket-ios-android-soundboard",
-      "pubDate": "2026-09-15T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The premium AirPods 5 are the best open-ear earbuds Apple has made",
-      "url": "https://www.theverge.com/tech/995273/airpods-5-wireless-charging-case-review",
-      "pubDate": "2026-09-15T13:00:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Spotify Now Lets You Keep Kids' Music Out of Your Wrapped",
-      "url": "https://www.macrumors.com/2026/09/15/spotify-keep-kids-music-out-of-taste-profile/",
-      "pubDate": "2026-09-15T12:59:42.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple Watch Series 12 Siri Recap listens all day, but Apple can't access the audio",
@@ -304,46 +339,11 @@
       "pubDate": "2026-09-15T12:47:03.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "'Widow's Bay' Leads Apple TV to Record 29 Emmy Wins",
-      "url": "https://www.macrumors.com/2026/09/15/widows-bay-apple-tv-record-emmy-wins/",
-      "pubDate": "2026-09-15T12:34:26.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple Intelligence HomeKit Secure Video summaries cost up to $60 per month",
       "url": "https://appleinsider.com/articles/26/09/15/apple-intelligence-homekit-secure-video-summaries-cost-up-to-60-per-month?utm_source=rss",
       "pubDate": "2026-09-15T12:16:28.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple faces India repair probe over a lack of software warranties",
-      "url": "https://appleinsider.com/articles/26/09/15/apple-faces-india-repair-probe-over-a-lack-of-software-warranties?utm_source=rss",
-      "pubDate": "2026-09-15T12:06:54.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple Watch Ultra 4 vs. Apple Watch Ultra 3: Apple's premium smartwatch",
-      "url": "https://appleinsider.com/articles/26/09/15/apple-watch-ultra-4-vs-apple-watch-ultra-3-apples-premium-smartwatch?utm_source=rss",
-      "pubDate": "2026-09-15T11:41:50.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple's Weirdest iTunes Walk-Back Turns 12 Today",
-      "url": "https://www.macrumors.com/2026/09/15/apples-strangest-support-page-turned-12-today/",
-      "pubDate": "2026-09-15T11:13:50.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "GM updates its trucks’ native software to coexist with CarPlay",
-      "url": "https://www.theverge.com/transportation/994875/gm-chevy-gmc-truck-software-ui-carplay-android-auto",
-      "pubDate": "2026-09-15T11:00:00.000Z"
     },
     {
       "source": "Six Colors",
