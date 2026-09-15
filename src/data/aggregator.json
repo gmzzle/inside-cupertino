@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T23:09:01.636Z",
+  "generatedAt": "2026-09-15T01:29:52.032Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -26,6 +26,62 @@
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: September 14, 2026 – Apple retail changes, iPhone 18 Pro pre-orders",
+      "url": "https://9to5mac.com/2026/09/14/daily-september-14-2026/",
+      "pubDate": "2026-09-15T00:53:36.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iOS 27 Features: The Ultimate Mega Guide",
+      "url": "https://www.macrumors.com/guide/ios-27-ultimate-mega-guide/",
+      "pubDate": "2026-09-15T00:34:12.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "New Apple CEO John Ternus attending Emmy Awards (and sporting iPhone Duo)",
+      "url": "https://9to5mac.com/2026/09/14/new-apple-ceo-john-ternus-attending-emmy-awards-and-sporting-iphone-duo/",
+      "pubDate": "2026-09-15T00:23:33.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Valve is still figuring out ‘how and when’ to do Steam Deck 2",
+      "url": "https://www.theverge.com/games/995256/valve-steam-deck-2-how-and-when",
+      "pubDate": "2026-09-15T00:13:47.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "macOS Golden Gate: 10 Features to Try First",
+      "url": "https://www.macrumors.com/guide/macos-golden-gate-10-features-2/",
+      "pubDate": "2026-09-15T00:02:40.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "AppZapper Mac Uninstaller Returns as AppZapper 3000",
+      "url": "https://www.macrumors.com/2026/09/14/appzapper-3000-for-mac/",
+      "pubDate": "2026-09-14T23:58:29.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Musk Drops Apple Lawsuit Over ChatGPT Siri Deal, Keeps Suing OpenAI",
+      "url": "https://www.macrumors.com/2026/09/14/spacexai-drops-apple-lawsuit/",
+      "pubDate": "2026-09-14T23:52:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Asks Supreme Court to Throw Out App Store Contempt Ruling",
+      "url": "https://www.macrumors.com/2026/09/14/apple-supreme-court-contempt-ruling/",
+      "pubDate": "2026-09-14T23:28:29.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
       "title": "Gentler Streak and The Outsiders’ iOS 27 updates add Siri AI, onscreen awareness support, more",
       "url": "https://9to5mac.com/2026/09/14/gentler-streak-and-the-outsiders-ios-27-updates-add-siri-ai-onscreen-awareness-support-more/",
       "pubDate": "2026-09-14T23:04:24.000Z"
@@ -40,14 +96,14 @@
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
-      "title": "XChat, X’s standalone messaging app, currently unavailable on App Store",
+      "title": "XChat, X’s standalone messaging app, currently unavailable on App Store [U]",
       "url": "https://9to5mac.com/2026/09/14/xchat-xs-standalone-messaging-app-currently-unavailable-on-app-store/",
       "pubDate": "2026-09-14T22:30:42.000Z"
     },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple Home’s new security camera features cost up to $60 a month",
+      "title": "Apple Home’s new security camera features cost as much as $60 a month",
       "url": "https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription",
       "pubDate": "2026-09-14T22:28:52.000Z"
     },
@@ -56,7 +112,7 @@
       "sourceHomepage": "https://www.macrumors.com",
       "title": "X's Standalone Messaging App XChat Disappears From App Store",
       "url": "https://www.macrumors.com/2026/09/14/xchat-app-disappears-from-app-store/",
-      "pubDate": "2026-09-14T22:25:43.000Z"
+      "pubDate": "2026-09-14T22:25:34.000Z"
     },
     {
       "source": "9to5Mac",
@@ -255,41 +311,6 @@
       "pubDate": "2026-09-14T19:06:21.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 adds new opt-in setting for sharing data to improve Apple’s Foundation Models",
-      "url": "https://9to5mac.com/2026/09/14/ios-27-adds-new-opt-in-setting-for-sharing-data-to-improve-apples-foundation-models/",
-      "pubDate": "2026-09-14T19:02:17.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "More Than 1,000 Apple Watch Bands Have Been Released Since 2015",
-      "url": "https://www.macrumors.com/2026/09/14/more-than-1000-apple-watch-bands/",
-      "pubDate": "2026-09-14T19:00:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Releases New AirPods Firmware With iOS 27 Features",
-      "url": "https://www.macrumors.com/2026/09/14/apple-airpods-ios-27-firmware/",
-      "pubDate": "2026-09-14T18:42:53.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "MagSafe Monday: Vinich’s MagSafe wallet leans into a classic look",
-      "url": "https://9to5mac.com/2026/09/14/vinichs-magsafe-wallet-leans-into-a-classic-look/",
-      "pubDate": "2026-09-14T18:40:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27 and iOS 26.7 Fix More Than 100 Security Bugs",
-      "url": "https://www.macrumors.com/2026/09/14/ios-27-bug-fixes/",
-      "pubDate": "2026-09-14T18:36:17.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "How to make sure that Apple won't use your Siri AI data to improve its models",
@@ -297,25 +318,11 @@
       "pubDate": "2026-09-14T17:41:51.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Releases macOS Tahoe 26.7 and macOS Sequoia 15.8",
-      "url": "https://www.macrumors.com/2026/09/14/apple-releases-macos-tahoe-26-7/",
-      "pubDate": "2026-09-14T17:40:04.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple didn't forget about updating older operating systems",
       "url": "https://appleinsider.com/articles/26/09/14/apple-didnt-forget-about-updating-older-operating-systems?utm_source=rss",
       "pubDate": "2026-09-14T17:36:11.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Releases iOS 26.7 With Security Fixes",
-      "url": "https://www.macrumors.com/2026/09/14/apple-releases-ios-26-7/",
-      "pubDate": "2026-09-14T17:32:03.000Z"
     },
     {
       "source": "The Verge",
@@ -353,13 +360,6 @@
       "pubDate": "2026-09-14T17:15:11.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "visionOS 27 adds Siri AI to your spatial computing environment",
-      "url": "https://appleinsider.com/articles/26/09/14/visionos-27-adds-siri-ai-to-your-spatial-computing-environment?utm_source=rss",
-      "pubDate": "2026-09-14T17:12:24.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "macOS 27 is available now",
@@ -367,11 +367,11 @@
       "pubDate": "2026-09-14T17:10:13.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple releases iOS 27 with Siri AI overhaul",
-      "url": "https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update",
-      "pubDate": "2026-09-14T17:08:49.000Z"
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Sponsor) Rogue Amoeba’s SoundSource: Play Any App’s Audio, Anywhere You Want",
+      "url": "https://sixcolors.com/feed-only/2026/09/rogue-amoebas-soundsource-play-any-apps-audio-anywhere-you-want/",
+      "pubDate": "2026-09-14T16:00:28.000Z"
     }
   ]
 }
