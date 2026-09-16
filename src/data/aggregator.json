@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T21:27:43.312Z",
+  "generatedAt": "2026-09-16T00:23:20.837Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,83 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "India escalates Apple probe over alleged iOS 18 issues that incurred repair costs",
+      "url": "https://9to5mac.com/2026/09/15/india-escalates-apple-probe-over-alleged-ios-18-issues-that-incurred-repair-costs/",
+      "pubDate": "2026-09-15T23:52:22.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Details How Reference Image Proves a Photo is Real",
+      "url": "https://www.macrumors.com/2026/09/15/apple-reference-image-info/",
+      "pubDate": "2026-09-15T23:46:29.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "AI and data centers are incredibly unpopular in every poll",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+      "pubDate": "2026-09-15T23:34:25.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "OmniFocus adds Siri AI support as Omni Group updates its apps for iOS 27, macOS 27, more",
+      "url": "https://9to5mac.com/2026/09/15/omnifocus-adds-siri-ai-support-as-omni-group-updates-its-apps-for-ios-27-macos-27-more/",
+      "pubDate": "2026-09-15T23:22:20.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "App report: The apps that go with you",
+      "url": "https://sixcolors.com/post/2026/09/app-report-the-apps-that-go-with-you/",
+      "pubDate": "2026-09-15T23:06:55.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Car Keys reportedly coming to three more automakers",
+      "url": "https://9to5mac.com/2026/09/15/apple-car-keys-reportedly-coming-to-three-more-automakers/",
+      "pubDate": "2026-09-15T22:43:38.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Apple ties iCloud+ pricing to video summaries",
+      "url": "https://sixcolors.com/post/2026/09/apple-ties-icloud-pricing-to-video-summaries/",
+      "pubDate": "2026-09-15T22:30:58.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "What the iPhone Duo's Camera Can and Can't Do",
+      "url": "https://www.macrumors.com/guide/iphone-duo-camera/",
+      "pubDate": "2026-09-15T22:11:01.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Ulysses gets Siri AI support, customizable toolbars, project templates, more",
+      "url": "https://9to5mac.com/2026/09/15/ulysses-gets-siri-ai-support-customizable-toolbars-project-templates-more/",
+      "pubDate": "2026-09-15T22:01:17.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "dbrand has the iPhone Duo and iPhone 18 Pro covered – with a huge range of designs",
+      "url": "https://9to5mac.com/2026/09/15/dbrand-has-iphone-duo-iphone-18-pro-covered-with-huge-range-of-designs/",
+      "pubDate": "2026-09-15T22:00:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "$10.8K M5 Ultra Mac Studio benchmark shows a 6x increase in multi-core compute since M1",
+      "url": "https://appleinsider.com/articles/26/09/15/108k-m5-ultra-mac-studio-benchmark-shows-a-6x-increase-in-multi-core-compute-since-m1?utm_source=rss",
+      "pubDate": "2026-09-15T21:49:54.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -164,13 +241,6 @@
       "pubDate": "2026-09-15T17:00:11.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Why watchOS 27 removes the useful multitasking feature on Apple Watch",
-      "url": "https://9to5mac.com/2026/09/15/why-watchos-27-removes-the-useful-multitasking-feature-on-apple-watch/",
-      "pubDate": "2026-09-15T16:42:06.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "M6 Chip Benchmark Surfaces Ahead of New Mac Mini Launch Next Week",
@@ -183,20 +253,6 @@
       "title": "How The Oregon Trail became a generational icon",
       "url": "https://www.theverge.com/podcast/995432/how-the-oregon-trail-became-a-generational-icon",
       "pubDate": "2026-09-15T16:18:10.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: September 15, 2026 – iOS 27 now available",
-      "url": "https://9to5mac.com/2026/09/15/daily-september-15-2026/",
-      "pubDate": "2026-09-15T16:07:39.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "New Apple gear gets pre-release discounts, including AirPods 5 for $125 and more",
-      "url": "https://9to5mac.com/2026/09/15/airpods-5-apple-watch-series-12-and-ultra-4-now-available-on-amazon/",
-      "pubDate": "2026-09-15T16:03:55.000Z"
     },
     {
       "source": "The Verge",
@@ -220,25 +276,11 @@
       "pubDate": "2026-09-15T15:47:24.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 gives Camera app on iPhone three powerful new features",
-      "url": "https://9to5mac.com/2026/09/15/ios-27-gives-camera-app-on-iphone-three-powerful-new-features/",
-      "pubDate": "2026-09-15T15:40:19.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "AirPods 5 with wireless charging case review: Somehow both better & cheaper",
       "url": "https://appleinsider.com/articles/26/09/15/airpods-5-with-wireless-charging-case-review-somehow-both-better-cheaper?utm_source=rss",
       "pubDate": "2026-09-15T15:31:41.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: AirPods 5 $125, M5 MacBook Air $150 off, Apple Watch Series 12, 25W MagSafe car mount, more",
-      "url": "https://9to5mac.com/2026/09/15/deals-airpods-5-m5-macbook-air-apple-watch-series-12/",
-      "pubDate": "2026-09-15T15:29:57.000Z"
     },
     {
       "source": "MacRumors",
@@ -290,32 +332,11 @@
       "pubDate": "2026-09-15T14:03:18.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Cuts iPhone Trade-In Values While Raising Mac and iPad",
-      "url": "https://www.macrumors.com/2026/09/15/apple-cuts-iphone-trade-in-value/",
-      "pubDate": "2026-09-15T13:43:23.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "John Ternus' iPhone Duo got a red carpet moment, cue internet drama",
       "url": "https://appleinsider.com/articles/26/09/15/john-ternus-iphone-duo-got-a-red-carpet-moment-cue-internet-drama?utm_source=rss",
       "pubDate": "2026-09-15T13:38:35.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "This doorbell camera lets a human security guard watch your front door",
-      "url": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
-      "pubDate": "2026-09-15T13:36:45.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone Car Keys in Apple Wallet Expanding to Three More Vehicle Brands",
-      "url": "https://www.macrumors.com/2026/09/15/iphone-car-keys-coming-to-three-more-automakers/",
-      "pubDate": "2026-09-15T13:35:15.000Z"
     },
     {
       "source": "AppleInsider",
@@ -339,13 +360,6 @@
       "pubDate": "2026-09-15T12:47:03.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple Intelligence HomeKit Secure Video summaries cost up to $60 per month",
-      "url": "https://appleinsider.com/articles/26/09/15/apple-intelligence-homekit-secure-video-summaries-cost-up-to-60-per-month?utm_source=rss",
-      "pubDate": "2026-09-15T12:16:28.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) Upgrade 637: My Job Is to Eat the Marshmallow",
@@ -358,20 +372,6 @@
       "title": "Lex Friedman keeps Strategery alive ↦",
       "url": "https://sixcolors.com/link/2026/09/lex-friedman-keeps-strategery-alive/",
       "pubDate": "2026-09-14T21:02:37.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "iOS 27 Review: Little things mean a lot",
-      "url": "https://sixcolors.com/post/2026/09/ios-27-review-little-things-mean-a-lot/",
-      "pubDate": "2026-09-14T17:17:26.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "macOS 27 Golden Gate Review: Bridging the Tahoe gap",
-      "url": "https://sixcolors.com/post/2026/09/macos-27-golden-gate-review-bridging-the-tahoe-gap/",
-      "pubDate": "2026-09-14T17:17:13.000Z"
     }
   ]
 }
