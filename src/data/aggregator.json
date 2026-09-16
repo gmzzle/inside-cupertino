@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T20:09:31.653Z",
+  "generatedAt": "2026-09-16T22:57:51.391Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,97 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "DRAM pricing will mean more iPhone price hikes in 2027, no relief through 2028",
+      "url": "https://appleinsider.com/articles/26/09/16/dram-pricing-will-mean-more-iphone-price-hikes-in-2027-no-relief-through-2028?utm_source=rss",
+      "pubDate": "2026-09-16T22:52:50.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "WhatsApp may soon let iPhone users add a third account",
+      "url": "https://9to5mac.com/2026/09/16/whatsapp-may-soon-let-iphone-users-add-a-third-account/",
+      "pubDate": "2026-09-16T22:39:22.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iOS 27 Notification Center issue persists from beta to public release",
+      "url": "https://appleinsider.com/articles/26/09/16/ios-27-notification-center-issue-persists-from-beta-to-public-release?utm_source=rss",
+      "pubDate": "2026-09-16T22:35:47.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Tripsy’s iOS 27 update includes smarter imports, on-device AI insights, more",
+      "url": "https://9to5mac.com/2026/09/16/tripsys-ios-27-update-includes-smarter-imports-on-device-ai-insights-more/",
+      "pubDate": "2026-09-16T22:12:09.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Upgrade your Mac desk setup with the Sihoo B300 Pro for under $300",
+      "url": "https://9to5mac.com/2026/09/16/upgrade-mac-desk-setup-with-sihoo-b300-pro-under-300/",
+      "pubDate": "2026-09-16T22:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Judge scrutinizes Musk’s move to drop Apple from antitrust lawsuit involving OpenAI",
+      "url": "https://9to5mac.com/2026/09/16/judge-scrutinizes-musks-move-to-drop-apple-from-antitrust-lawsuit-involving-openai/",
+      "pubDate": "2026-09-16T21:26:54.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) Clockwise 674: The Eyes Will Be Pretzels",
+      "url": "https://sixcolors.com/podcast/2026/09/clockwise-674-the-eyes-will-be-pretzels/",
+      "pubDate": "2026-09-16T21:12:05.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27.2 will help users move data and settings from an old app to its replacement",
+      "url": "https://9to5mac.com/2026/09/16/ios-27-2-will-help-users-move-data-and-settings-from-an-old-app-to-its-replacement/",
+      "pubDate": "2026-09-16T21:03:28.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Hands-On With the Redesigned Health App in the iOS 27.2 Beta",
+      "url": "https://www.macrumors.com/2026/09/16/ios-27-2-health-app-beta/",
+      "pubDate": "2026-09-16T21:01:12.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
+      "url": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
+      "pubDate": "2026-09-16T20:59:13.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The AI data center e-waste problem is huge — and getting bigger",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
+      "pubDate": "2026-09-16T20:40:46.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "This iOS 27 bug temporarily freezes your iPhone … and it’s going viral on social media",
+      "url": "https://9to5mac.com/2026/09/16/iphone-ios-2-temporarily-brick-freeze-viral-prank/",
+      "pubDate": "2026-09-16T20:38:34.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iOS 27.2 Could Save Your Marriage",
+      "url": "https://www.macrumors.com/2026/09/16/ios-27-2-could-save-your-marriage/",
+      "pubDate": "2026-09-16T20:32:46.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -122,13 +213,6 @@
       "pubDate": "2026-09-16T17:48:06.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27.2 introduces Apple Health app overhaul, here’s what’s new",
-      "url": "https://9to5mac.com/2026/09/16/ios-27-2-introduces-apple-health-app-overhaul-heres-whats-new/",
-      "pubDate": "2026-09-16T17:34:15.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iOS 27.2 Beta Previews New Apple Intelligence Health App",
@@ -143,18 +227,11 @@
       "pubDate": "2026-09-16T17:20:29.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple releases beta 1 for watchOS 27.2, tvOS 27.2, more",
-      "url": "https://9to5mac.com/2026/09/16/apple-releases-beta-1-for-watchos-27-2-tvos-27-2-more/",
-      "pubDate": "2026-09-16T17:16:53.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Seeds First macOS Golden Gate 27.2 Beta to Developers",
       "url": "https://www.macrumors.com/2026/09/16/apple-releases-macos-27-2-beta-1/",
-      "pubDate": "2026-09-16T17:15:56.000Z"
+      "pubDate": "2026-09-16T17:15:52.000Z"
     },
     {
       "source": "MacRumors",
@@ -162,27 +239,6 @@
       "title": "Apple Releases First iOS 27.2 Beta",
       "url": "https://www.macrumors.com/2026/09/16/apple-releases-first-ios-27-2-beta/",
       "pubDate": "2026-09-16T17:14:12.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "macOS 27.2 beta 1 now available to developers, here’s what’s new",
-      "url": "https://9to5mac.com/2026/09/16/macos-27-2-beta-1-now-available-to-developers-heres-whats-new/",
-      "pubDate": "2026-09-16T17:13:39.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPadOS 27.2 beta 1 now available for iPad",
-      "url": "https://9to5mac.com/2026/09/16/ipados-27-2-beta-1-now-available-for-ipad/",
-      "pubDate": "2026-09-16T17:13:01.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple releases first iOS 27.2 developer beta for iPhone",
-      "url": "https://9to5mac.com/2026/09/16/apple-releases-first-ios-27-2-developer-beta-for-iphone/",
-      "pubDate": "2026-09-16T17:12:55.000Z"
     },
     {
       "source": "MacRumors",
@@ -211,13 +267,6 @@
       "title": "Google will now let any AI agent run your smart home",
       "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
       "pubDate": "2026-09-16T17:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Anthropic merging Claude Cowork with chat",
-      "url": "https://9to5mac.com/2026/09/16/anthropic-merging-claude-cowork-with-chat/",
-      "pubDate": "2026-09-16T16:47:54.000Z"
     },
     {
       "source": "AppleInsider",
@@ -255,13 +304,6 @@
       "pubDate": "2026-09-16T15:27:32.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Memory Supplier Explores U.S. Manufacturing With Intel",
-      "url": "https://www.macrumors.com/2026/09/16/apple-memory-supplier-explores-us-manufacturing/",
-      "pubDate": "2026-09-16T15:16:01.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Three photographers put the iPhone 18 Pro camera to work",
@@ -283,13 +325,6 @@
       "pubDate": "2026-09-16T14:44:48.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Get In On Pre-Order Discounts for the New Mac Mini and Mac Studio Before They Launch Next Week",
-      "url": "https://www.macrumors.com/2026/09/16/pre-order-mac-mini-studio/",
-      "pubDate": "2026-09-16T14:36:21.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "M6 Mac mini vs M4 Mac mini: Compact powerhouses compared",
@@ -302,6 +337,13 @@
       "title": "Prime Big Deal Days starts Oct. 6, but you can save up to $600 on Apple now",
       "url": "https://appleinsider.com/articles/26/09/16/prime-big-deal-days-starts-oct-6-but-you-can-save-up-to-600-on-apple-now?utm_source=rss",
       "pubDate": "2026-09-16T14:00:44.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) The Rebound 616: I’m Down With A P P",
+      "url": "https://sixcolors.com/podcast/2026/09/the-rebound-616-im-down-with-a-p-p/",
+      "pubDate": "2026-09-16T14:00:00.000Z"
     },
     {
       "source": "AppleInsider",
@@ -318,34 +360,6 @@
       "pubDate": "2026-09-16T12:59:23.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "What iPhone Duo doesn't have, and what compensates for those losses",
-      "url": "https://appleinsider.com/articles/26/09/16/what-iphone-duo-doesnt-have-and-what-compensates-for-those-losses?utm_source=rss",
-      "pubDate": "2026-09-16T12:55:18.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple Reference Image is a mammoth effort to combat AI-edited photos",
-      "url": "https://appleinsider.com/articles/26/09/16/apple-reference-image-is-a-mammoth-effort-to-combat-ai-edited-photos?utm_source=rss",
-      "pubDate": "2026-09-16T12:30:57.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "A brief history of AI executives calling for regulation",
-      "url": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
-      "pubDate": "2026-09-16T12:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Nintendo opens up Fire Emblem with the gigantic Fortune’s Weave",
-      "url": "https://www.theverge.com/games/995539/fire-emblem-fortunes-weave-switch-2-review",
-      "pubDate": "2026-09-16T12:00:00.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) Designed in California 8: Apple’s Mac OS Crisis: To Be, or Not? (Part 4)",
@@ -358,20 +372,6 @@
       "title": "App report: The apps that go with you",
       "url": "https://sixcolors.com/post/2026/09/app-report-the-apps-that-go-with-you/",
       "pubDate": "2026-09-15T23:06:55.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Apple ties iCloud+ pricing to video summaries",
-      "url": "https://sixcolors.com/post/2026/09/apple-ties-icloud-pricing-to-video-summaries/",
-      "pubDate": "2026-09-15T22:30:58.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) Upgrade 637: My Job Is to Eat the Marshmallow",
-      "url": "https://sixcolors.com/podcast/2026/09/upgrade-637-my-job-is-to-eat-the-marshmallow/",
-      "pubDate": "2026-09-14T21:50:04.000Z"
     }
   ]
 }
