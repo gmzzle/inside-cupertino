@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T01:27:10.889Z",
+  "generatedAt": "2026-09-17T07:42:05.514Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The streamers are fighting over Halloween",
+      "url": "https://www.theverge.com/entertainment/996314/tiff-2026-halloween-streaming-below-crystal-lake-yaga-carrie",
+      "pubDate": "2026-09-17T03:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple rolls out first Release Candidates for macOS Tahoe 26.7.1 and macOS Sequoia 15.8.1",
+      "url": "https://9to5mac.com/2026/09/16/apple-rolls-out-first-release-candidates-for-macos-tahoe-26-7-1-and-macos-sequoia-15-8-1/",
+      "pubDate": "2026-09-17T02:18:51.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -220,13 +234,6 @@
       "pubDate": "2026-09-16T18:42:59.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27.2 gives Apple TV a new profiles feature on iPhone",
-      "url": "https://9to5mac.com/2026/09/16/ios-27-2-gives-apple-tv-a-new-profiles-feature-on-iphone/",
-      "pubDate": "2026-09-16T18:30:59.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Walmart takes a bite off the cost of Metroid Ravenous physical preorders",
@@ -304,13 +311,6 @@
       "pubDate": "2026-09-16T16:37:21.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Claude comes for Gemini with its own take on Docs and Slides",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
-      "pubDate": "2026-09-16T16:30:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Get an iPhone 18 Pro on T-Mobile with any condition trade-in",
@@ -330,13 +330,6 @@
       "title": "Three photographers put the iPhone 18 Pro camera to work",
       "url": "https://appleinsider.com/articles/26/09/16/three-photographers-put-the-iphone-18-pro-camera-to-work?utm_source=rss",
       "pubDate": "2026-09-16T15:02:37.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "M6 Mac mini vs M4 Mac mini: Compact powerhouses compared",
-      "url": "https://appleinsider.com/inside/mac-mini/vs/m6-mac-mini-vs-m4-mac-mini-compact-powerhouses-compared?utm_source=rss",
-      "pubDate": "2026-09-16T14:08:10.000Z"
     },
     {
       "source": "AppleInsider",
@@ -372,6 +365,13 @@
       "title": "Apple ties iCloud+ pricing to video summaries",
       "url": "https://sixcolors.com/post/2026/09/apple-ties-icloud-pricing-to-video-summaries/",
       "pubDate": "2026-09-15T22:30:58.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) Upgrade 637: My Job Is to Eat the Marshmallow",
+      "url": "https://sixcolors.com/podcast/2026/09/upgrade-637-my-job-is-to-eat-the-marshmallow/",
+      "pubDate": "2026-09-14T21:50:04.000Z"
     }
   ]
 }
