@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T18:16:06.766Z",
+  "generatedAt": "2026-09-17T22:11:07.755Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,118 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "First iPhone 18 Pro, Apple Watch Series 12, Apple Watch Ultra 4 and AirPods 5 Orders Arriving to Customers",
+      "url": "https://www.macrumors.com/2026/09/17/iphone-18-pro-australia-nz/",
+      "pubDate": "2026-09-17T21:59:31.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "macOS 27: What’s new for the Photos app?",
+      "url": "https://9to5mac.com/2026/09/17/macos-27-whats-new-for-the-photos-app/",
+      "pubDate": "2026-09-17T21:52:38.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple showcases iPhone 18 Pro camera with new ‘What Holds Us’ photography exhibition",
+      "url": "https://9to5mac.com/2026/09/17/apple-showcases-iphone-18-pro-camera-with-new-what-holds-us-photography-exhibition/",
+      "pubDate": "2026-09-17T21:42:41.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Out-of-warranty iPhone 18 Pro batteries are more expensive to replace",
+      "url": "https://9to5mac.com/2026/09/17/out-of-warranty-iphone-18-pro-batteries-are-more-expensive-to-replace/",
+      "pubDate": "2026-09-17T20:47:09.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone 18 Pro Launching Tomorrow With These 10 New Features",
+      "url": "https://www.macrumors.com/2026/09/17/iphone-18-pro-release-date-and-features/",
+      "pubDate": "2026-09-17T20:45:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone 18 Pro and Apple Watch Series 12 hands-on review, iOS 27 released",
+      "url": "https://9to5mac.com/2026/09/17/happy-hour-608/",
+      "pubDate": "2026-09-17T20:44:56.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "How to Get the New 3-Month Trial of Apple One Premier ($120 Value)",
+      "url": "https://www.macrumors.com/2026/09/17/apple-one-three-month-trial/",
+      "pubDate": "2026-09-17T20:23:20.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iCloud+ subscribers just got new benefits in iOS 27",
+      "url": "https://9to5mac.com/2026/09/17/icloud-subscribers-just-got-new-benefits-in-ios-27/",
+      "pubDate": "2026-09-17T20:05:33.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "PDF Expert update adds handwriting recognition, expands Apple Pencil support, more",
+      "url": "https://9to5mac.com/2026/09/17/pdf-expert-update-adds-handwriting-recognition-expands-apple-pencil-support-more/",
+      "pubDate": "2026-09-17T20:03:15.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The AI Superintelligence Slowdown",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+      "pubDate": "2026-09-17T19:28:24.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "New iPhone 18 Pro Models Will Have Day One Update",
+      "url": "https://www.macrumors.com/2026/09/17/iphone-18-pro-day-one-update/",
+      "pubDate": "2026-09-17T19:25:14.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
+      "pubDate": "2026-09-17T18:58:05.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "macOS 27: Siri AI top features – Apple’s assistant finally comes to life [Video]",
+      "url": "https://9to5mac.com/2026/09/17/macos-27-golden-gate-siri-ai-top-features-apples-assistant-finally-comes-to-life-video/",
+      "pubDate": "2026-09-17T18:45:52.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Photographer Austin Mann reviews the iPhone 18 Pro camera",
+      "url": "https://9to5mac.com/2026/09/17/photographer-austin-mann-reviews-the-iphone-18-pro-camera/",
+      "pubDate": "2026-09-17T18:37:25.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone 18 Pro Unboxing: New Colors, Better Photos, and Smaller Dynamic Island",
+      "url": "https://www.macrumors.com/2026/09/17/iphone-18-pro-unboxing/",
+      "pubDate": "2026-09-17T18:34:45.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Increases Battery Replacement Fee for iPhone 18 Pro and Pro Max",
+      "url": "https://www.macrumors.com/2026/09/17/apple-higher-iphone-18-pro-battery-fee/",
+      "pubDate": "2026-09-17T18:25:23.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -122,20 +234,6 @@
       "pubDate": "2026-09-17T15:39:19.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "First iPhone 18 Pro pre-orders now say ‘shipped,’ here’s how to check yours",
-      "url": "https://9to5mac.com/2026/09/17/first-iphone-18-pro-pre-orders-now-say-shipped-heres-how-to-check-yours/",
-      "pubDate": "2026-09-17T15:38:54.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: AirPods, M6 Mac mini, Apple Studio Display $330 off, Thunderbolt 5 dock, MacBook Air, more",
-      "url": "https://9to5mac.com/2026/09/17/deals-airpods-m6-mac-mini-studio-display-thunderbolt-5-dock/",
-      "pubDate": "2026-09-17T15:34:51.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iPhone 18 Pro Makes the Starting Lineup for Apple TV's Dodgers vs. Giants Broadcast",
@@ -155,13 +253,6 @@
       "title": "Your robotaxi might be a narc",
       "url": "https://www.theverge.com/transportation/996863/robotaxi-waymo-police-privacy-surveillance",
       "pubDate": "2026-09-17T15:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone 18 Pro will be used in this week’s Friday Night Baseball broadcast",
-      "url": "https://9to5mac.com/2026/09/17/iphone-18-pro-will-be-used-in-this-weeks-friday-night-baseball-broadcast/",
-      "pubDate": "2026-09-17T14:46:24.000Z"
     },
     {
       "source": "AppleInsider",
@@ -199,13 +290,6 @@
       "pubDate": "2026-09-17T14:16:54.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPadOS 27.2 adds convenient new feature from the Mac",
-      "url": "https://9to5mac.com/2026/09/17/ipados-27-2-adds-convenient-new-feature-from-the-mac/",
-      "pubDate": "2026-09-17T14:12:43.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
@@ -227,13 +311,6 @@
       "pubDate": "2026-09-17T14:00:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Here’s everything new for Messages in iOS 27",
-      "url": "https://9to5mac.com/2026/09/17/heres-everything-new-for-messages-in-ios-27/",
-      "pubDate": "2026-09-17T13:46:21.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple Music testing out countdown clocks for upcoming albums",
@@ -241,46 +318,11 @@
       "pubDate": "2026-09-17T13:38:45.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Addigy launches Intelligence Suite, giving IT teams control over how AI is used across their fleet",
-      "url": "https://9to5mac.com/2026/09/17/addigy-launches-intelligence-suite-giving-it-teams-control-over-how-ai-is-used-across-their-fleet/",
-      "pubDate": "2026-09-17T13:00:00.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Bose’s next open earbuds have more bass, more volume, and more battery life",
       "url": "https://www.theverge.com/tech/996341/bose-ultra-open-earbuds-second-gen-wireless-sport",
       "pubDate": "2026-09-17T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Spotify’s Fresh Finds Forward gives artists free studio time and more",
-      "url": "https://www.theverge.com/entertainment/996505/spotify-fresh-finds-forward",
-      "pubDate": "2026-09-17T13:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "A Woz merch store is the most surprising launch this month",
-      "url": "https://9to5mac.com/2026/09/17/a-woz-merch-store-is-the-most-surprising-launch-this-month/",
-      "pubDate": "2026-09-17T12:49:33.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Grand Theft Auto VI’s soundtrack will feature 34 brand-new tracks",
-      "url": "https://www.theverge.com/entertainment/996831/grand-theft-auto-6-soundtrack",
-      "pubDate": "2026-09-17T12:31:30.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "General Motors continues CarPlay backtrack on two truck models",
-      "url": "https://9to5mac.com/2026/09/17/general-motors-continues-carplay-backtrack-on-two-truck-models/",
-      "pubDate": "2026-09-17T12:12:02.000Z"
     },
     {
       "source": "AppleInsider",
@@ -297,53 +339,11 @@
       "pubDate": "2026-09-17T11:37:14.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Which iOS 27 CarPlay Features Actually Work in Your Car?",
-      "url": "https://www.macrumors.com/2026/09/17/which-ios-27-carplay-features-actually-work/",
-      "pubDate": "2026-09-17T11:17:46.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "PSA: watchOS 27 Removes This Useful Feature From Your Apple Watch",
-      "url": "https://www.macrumors.com/2026/09/17/watchos-27-removes-useful-apple-watch-feature/",
-      "pubDate": "2026-09-17T08:34:26.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Everything New in iOS 27.2 Beta 1",
-      "url": "https://www.macrumors.com/guide/ios-27-2-beta-features/",
-      "pubDate": "2026-09-16T23:44:59.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Tim Cook to Attend White House State Dinner for Xi Jinping",
-      "url": "https://www.macrumors.com/2026/09/16/tim-cook-state-dinner-xi-jinping/",
-      "pubDate": "2026-09-16T23:41:11.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) Clockwise 674: The Eyes Will Be Pretzels",
       "url": "https://sixcolors.com/podcast/2026/09/clockwise-674-the-eyes-will-be-pretzels/",
       "pubDate": "2026-09-16T21:12:05.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Hands-On With the Redesigned Health App in the iOS 27.2 Beta",
-      "url": "https://www.macrumors.com/2026/09/16/ios-27-2-health-app-beta/",
-      "pubDate": "2026-09-16T21:01:12.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27.2 Could Save Your Marriage",
-      "url": "https://www.macrumors.com/2026/09/16/ios-27-2-could-save-your-marriage/",
-      "pubDate": "2026-09-16T20:32:46.000Z"
     },
     {
       "source": "AppleInsider",
