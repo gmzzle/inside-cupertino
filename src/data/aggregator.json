@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T22:11:07.755Z",
+  "generatedAt": "2026-09-18T00:22:49.780Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's 'Friday Night Baseball' broadcast will be partially captured by iPhone 18 Pro",
+      "url": "https://appleinsider.com/articles/26/09/17/apples-friday-night-baseball-broadcast-will-be-partially-captured-by-iphone-18-pro?utm_source=rss",
+      "pubDate": "2026-09-17T23:52:58.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple pushes UK court to lift secrecy around encryption backdoor order",
+      "url": "https://9to5mac.com/2026/09/17/apple-pushes-uk-court-to-lift-secrecy-around-encryption-backdoor-order/",
+      "pubDate": "2026-09-17T22:56:50.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Reportedly Accepts Even Higher RAM and Storage Prices in 2027",
+      "url": "https://www.macrumors.com/2026/09/17/apple-higher-ram-storage-prices-2027-report/",
+      "pubDate": "2026-09-17T22:40:45.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Meta AI launches Muse personal agent, including apps for iPhone and Mac",
+      "url": "https://9to5mac.com/2026/09/17/meta-ai-launches-muse-personal-agent-including-a-new-mobile-app-for-iphone/",
+      "pubDate": "2026-09-17T22:30:10.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -171,13 +199,6 @@
       "pubDate": "2026-09-17T16:28:13.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple TV just dropped trailers for two upcoming premieres",
-      "url": "https://9to5mac.com/2026/09/17/apple-tv-just-dropped-trailers-for-two-upcoming-premieres/",
-      "pubDate": "2026-09-17T16:21:35.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "50 New macOS Golden Gate Features and Changes Worth Checking Out",
@@ -218,13 +239,6 @@
       "title": "Apple showing off iPhone 18 Pro at final ‘Friday Night Baseball’ game of season ↦",
       "url": "https://sixcolors.com/link/2026/09/apple-showing-off-iphone-18-pro-at-final-friday-night-baseball-game-of-season/",
       "pubDate": "2026-09-17T15:52:23.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: September 17, 2026 – iOS 27.2 beta testing, more",
-      "url": "https://9to5mac.com/2026/09/17/daily-september-17-2026/",
-      "pubDate": "2026-09-17T15:50:52.000Z"
     },
     {
       "source": "AppleInsider",
@@ -283,13 +297,6 @@
       "pubDate": "2026-09-17T14:17:39.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Amazon Drops 13-Inch M5 MacBook Air Prices by $150",
-      "url": "https://www.macrumors.com/2026/09/17/amazon-150-m5-macbook-air-2/",
-      "pubDate": "2026-09-17T14:16:54.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
@@ -332,25 +339,11 @@
       "pubDate": "2026-09-17T12:08:13.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPhone 17 review one year later: Still plenty to appreciate",
-      "url": "https://appleinsider.com/articles/26/09/17/iphone-17-review-one-year-later-still-plenty-to-appreciate?utm_source=rss",
-      "pubDate": "2026-09-17T11:37:14.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) Clockwise 674: The Eyes Will Be Pretzels",
       "url": "https://sixcolors.com/podcast/2026/09/clockwise-674-the-eyes-will-be-pretzels/",
       "pubDate": "2026-09-16T21:12:05.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "M5 Ultra Mac Studio vs M3 Ultra Mac Studio: Apple's AI desktop, compared",
-      "url": "https://appleinsider.com/inside/mac-studio/vs/m5-ultra-mac-studio-vs-m3-ultra-mac-studio-apples-ai-desktop-compared?utm_source=rss",
-      "pubDate": "2026-09-16T14:56:50.000Z"
     },
     {
       "source": "Six Colors",
@@ -372,6 +365,13 @@
       "title": "App report: The apps that go with you",
       "url": "https://sixcolors.com/post/2026/09/app-report-the-apps-that-go-with-you/",
       "pubDate": "2026-09-15T23:06:55.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Apple ties iCloud+ pricing to video summaries",
+      "url": "https://sixcolors.com/post/2026/09/apple-ties-icloud-pricing-to-video-summaries/",
+      "pubDate": "2026-09-15T22:30:58.000Z"
     }
   ]
 }
