@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T00:22:49.780Z",
+  "generatedAt": "2026-09-18T05:56:59.512Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,6 +24,55 @@
   ],
   "items": [
     {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple CEO John Ternus Teases iPhone 18 Pro Launch Day",
+      "url": "https://www.macrumors.com/2026/09/17/john-ternus-teases-iphone-18-pro-launch/",
+      "pubDate": "2026-09-18T03:11:06.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "OpenAI won't get to see terms of settlement between Apple and SpaceXAI",
+      "url": "https://appleinsider.com/articles/26/09/18/openai-wont-get-to-see-terms-of-settlement-between-apple-and-spacexai?utm_source=rss",
+      "pubDate": "2026-09-18T02:18:58.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "WebKit blog breaks down what’s new with Safari 27 for developers, including MCP support",
+      "url": "https://9to5mac.com/2026/09/17/webkit-blog-breaks-down-whats-new-with-safari-27-for-developers-including-mcp-support/",
+      "pubDate": "2026-09-18T02:18:35.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Waymo says Singapore will be its next international robotaxi city",
+      "url": "https://www.theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027",
+      "pubDate": "2026-09-18T02:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "WhatsApp starts rolling out new in-chat search button on iOS",
+      "url": "https://9to5mac.com/2026/09/17/whatsapp-starts-rolling-out-new-in-chat-search-button-on-ios/",
+      "pubDate": "2026-09-18T01:41:34.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Judge rejects OpenAI’s bid to see X’s confidential settlement with Apple in antitrust lawsuit",
+      "url": "https://9to5mac.com/2026/09/17/judge-rejects-openais-bid-to-see-xs-confidential-settlement-with-apple-in-antitrust-lawsuit/",
+      "pubDate": "2026-09-18T01:14:35.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Report: Apple leads slowing true wireless stereo market as open-ear earbuds gain ground",
+      "url": "https://9to5mac.com/2026/09/17/report-apple-leads-slowing-true-wireless-stereo-market-as-open-ear-earbuds-gain-ground/",
+      "pubDate": "2026-09-18T00:45:55.000Z"
+    },
+    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple's 'Friday Night Baseball' broadcast will be partially captured by iPhone 18 Pro",
@@ -36,13 +85,6 @@
       "title": "Apple pushes UK court to lift secrecy around encryption backdoor order",
       "url": "https://9to5mac.com/2026/09/17/apple-pushes-uk-court-to-lift-secrecy-around-encryption-backdoor-order/",
       "pubDate": "2026-09-17T22:56:50.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Reportedly Accepts Even Higher RAM and Storage Prices in 2027",
-      "url": "https://www.macrumors.com/2026/09/17/apple-higher-ram-storage-prices-2027-report/",
-      "pubDate": "2026-09-17T22:40:45.000Z"
     },
     {
       "source": "9to5Mac",
@@ -136,20 +178,6 @@
       "pubDate": "2026-09-17T18:58:05.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "macOS 27: Siri AI top features – Apple’s assistant finally comes to life [Video]",
-      "url": "https://9to5mac.com/2026/09/17/macos-27-golden-gate-siri-ai-top-features-apples-assistant-finally-comes-to-life-video/",
-      "pubDate": "2026-09-17T18:45:52.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Photographer Austin Mann reviews the iPhone 18 Pro camera",
-      "url": "https://9to5mac.com/2026/09/17/photographer-austin-mann-reviews-the-iphone-18-pro-camera/",
-      "pubDate": "2026-09-17T18:37:25.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iPhone 18 Pro Unboxing: New Colors, Better Photos, and Smaller Dynamic Island",
@@ -171,25 +199,11 @@
       "pubDate": "2026-09-17T18:07:21.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Here are 100+ things Siri AI can do on your iPhone",
-      "url": "https://9to5mac.com/2026/09/17/here-are-100-things-siri-ai-can-do-on-your-iphone/",
-      "pubDate": "2026-09-17T17:49:13.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Save $30 or more on a refurbished Apple TV 4K",
       "url": "https://www.theverge.com/gadgets/997009/refurbished-apple-tv-4k-ring-doorbell-deal-sale",
       "pubDate": "2026-09-17T17:14:07.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Overtime 082: Origins of the Apple Store w/ special guest Ron Johnson",
-      "url": "https://9to5mac.com/2026/09/17/9to5mac-overtime-082-origins-of-the-apple-store-w-special-guest-ron-johnson/",
-      "pubDate": "2026-09-17T17:10:53.000Z"
     },
     {
       "source": "MacRumors",
@@ -323,20 +337,6 @@
       "title": "Apple Music testing out countdown clocks for upcoming albums",
       "url": "https://appleinsider.com/articles/26/09/17/apple-music-testing-out-countdown-clocks-for-upcoming-albums?utm_source=rss",
       "pubDate": "2026-09-17T13:38:45.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Bose’s next open earbuds have more bass, more volume, and more battery life",
-      "url": "https://www.theverge.com/tech/996341/bose-ultra-open-earbuds-second-gen-wireless-sport",
-      "pubDate": "2026-09-17T13:00:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "A20 Pro succeeds because it was built just for what Apple needs",
-      "url": "https://appleinsider.com/articles/26/09/17/a20-pro-succeeds-because-it-was-built-just-for-what-apple-needs?utm_source=rss",
-      "pubDate": "2026-09-17T12:08:13.000Z"
     },
     {
       "source": "Six Colors",
