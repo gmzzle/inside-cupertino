@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T19:38:22.634Z",
+  "generatedAt": "2026-09-18T22:35:42.237Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,55 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+      "pubDate": "2026-09-18T21:07:24.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 and iPadOS 27 expand language support for Dictionary, QuickType Keyboard, more",
+      "url": "https://9to5mac.com/2026/09/18/ios-27-and-ipados-27-expand-language-support-for-dictionary-quicktype-keyboard-more/",
+      "pubDate": "2026-09-18T20:31:30.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Hands-On With the Apple Watch Series 12",
+      "url": "https://www.macrumors.com/2026/09/18/apple-watch-series-12-hands-on/",
+      "pubDate": "2026-09-18T20:07:55.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Download the iPhone Duo’s official light and dark wallpapers here",
+      "url": "https://9to5mac.com/2026/09/18/download-the-iphone-duos-official-light-and-dark-wallpapers-here/",
+      "pubDate": "2026-09-18T20:05:43.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "M5 Ultra and M6 Chip Benchmark Results Reveal Graphics Performance",
+      "url": "https://www.macrumors.com/2026/09/18/m5-ultra-and-m6-chip-gpu-benchmarks/",
+      "pubDate": "2026-09-18T19:56:02.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "AirPods Pro 3 keep getting better, here’s what’s new in iOS 27",
+      "url": "https://9to5mac.com/2026/09/18/airpods-pro-3-keep-getting-better-heres-whats-new-ios-27/",
+      "pubDate": "2026-09-18T19:45:30.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone 18 Pro Max in U.S. Has Qualcomm's Snapdragon X80 Modem",
+      "url": "https://www.macrumors.com/2026/09/18/iphone-18-pro-max-us-qualcomm-x80/",
+      "pubDate": "2026-09-18T19:41:16.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -241,25 +290,11 @@
       "pubDate": "2026-09-18T15:30:16.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: AirPods Pro 3, iPhone 18 Pro cases and chargers, M5 MacBook Pro $320 off, more",
-      "url": "https://9to5mac.com/2026/09/18/deals-airpods-pro-3-iphone-18-pro-cases-m5-macbook/",
-      "pubDate": "2026-09-18T15:28:06.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "First iPhone 18 Pro teardown shows larger battery and vapor chamber",
       "url": "https://appleinsider.com/articles/26/09/18/first-iphone-18-pro-teardown-shows-larger-battery-and-vapor-chamber?utm_source=rss",
       "pubDate": "2026-09-18T15:19:35.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone 18 Pro, Apple Watch Series 12 and Ultra 4, AirPods 5 now available in stores",
-      "url": "https://9to5mac.com/2026/09/18/iphone-18-pro-apple-watch-series-12-and-ultra-4-airpods-5-now-available-in-stores/",
-      "pubDate": "2026-09-18T15:14:47.000Z"
     },
     {
       "source": "The Verge",
@@ -276,13 +311,6 @@
       "pubDate": "2026-09-18T15:01:37.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Intelligence now requires almost double the iPhone storage on latest models",
-      "url": "https://9to5mac.com/2026/09/18/apple-intelligence-now-requires-almost-double-the-iphone-storage-on-latest-models/",
-      "pubDate": "2026-09-18T14:52:31.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Lenovo’s Yoga Slim 7X is the most laptop that $1,000 can currently buy",
@@ -297,32 +325,11 @@
       "pubDate": "2026-09-18T14:41:18.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Launch Day Deals on iPhone 18 Pro, AirPods 5, Apple Watch Series 12, and More",
-      "url": "https://www.macrumors.com/2026/09/18/best-apple-deals-of-the-week-9-18-26/",
-      "pubDate": "2026-09-18T14:39:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone 18 Pro Teardown Reveals How Apple Shrunk the Dynamic Island",
-      "url": "https://www.macrumors.com/2026/09/18/iphone-18-pro-teardown/",
-      "pubDate": "2026-09-18T14:35:02.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Protect your iPhone Duo & iPhone 18 Pro lineup with ESR's latest cases",
       "url": "https://appleinsider.com/articles/26/09/18/protect-your-iphone-duo-iphone-18-pro-lineup-with-esrs-latest-cases?utm_source=rss",
       "pubDate": "2026-09-18T14:11:13.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone 18 Pro Demand Stronger Than Expected",
-      "url": "https://www.macrumors.com/2026/09/18/iphone-18-pro-demand-stronger-than-expected/",
-      "pubDate": "2026-09-18T14:01:25.000Z"
     },
     {
       "source": "AppleInsider",
@@ -351,13 +358,6 @@
       "title": "iPhone 18 Pro, Apple Watch, iPhone Duo, and iOS 27 on the AppleInsider Podcast",
       "url": "https://appleinsider.com/articles/26/09/18/iphone-18-pro-apple-watch-iphone-duo-and-ios-27-on-the-appleinsider-podcast?utm_source=rss",
       "pubDate": "2026-09-18T11:10:12.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Flash floods can strike without warning — this new technology could change that",
-      "url": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
-      "pubDate": "2026-09-18T11:00:00.000Z"
     },
     {
       "source": "Six Colors",
