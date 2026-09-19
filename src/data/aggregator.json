@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T22:35:42.237Z",
+  "generatedAt": "2026-09-19T01:11:48.088Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Gemini app for macOS adding send and read iMessage integration",
+      "url": "https://9to5google.com/2026/09/18/gemini-macos-imessage/",
+      "pubDate": "2026-09-18T23:57:57.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone 18 Pro Max Requires 'Prepare to Ship' Battery Drain Before Shipping",
+      "url": "https://www.macrumors.com/2026/09/18/iphone-18-pro-max-shipping-restriction/",
+      "pubDate": "2026-09-18T23:28:05.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "The Quantified Scientist tests the Apple Watch Series 12’s new heart rate sensor",
+      "url": "https://9to5mac.com/2026/09/18/the-quantified-scientist-tests-the-apple-watch-series-12s-new-heart-rate-sensor/",
+      "pubDate": "2026-09-18T23:08:18.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -248,25 +269,11 @@
       "pubDate": "2026-09-18T16:15:51.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27’s Wallet app adds feature that will make you want to use Apple Cash",
-      "url": "https://9to5mac.com/2026/09/18/ios-27s-wallet-app-adds-feature-that-will-make-you-want-to-use-apple-cash/",
-      "pubDate": "2026-09-18T16:14:17.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Designers Explain the Thinking Behind iPhone Duo",
       "url": "https://www.macrumors.com/2026/09/18/apple-designers-explain-iphone-duo/",
       "pubDate": "2026-09-18T16:11:02.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "I’ve now completely changed my mind about Apple Glasses",
-      "url": "https://9to5mac.com/2026/09/18/ive-now-completely-changed-my-mind-about-apple-glasses/",
-      "pubDate": "2026-09-18T16:00:00.000Z"
     },
     {
       "source": "MacRumors",
@@ -302,13 +309,6 @@
       "title": "Brendan Carr’s FCC is more worried about who The View interviews than foreign governments owning Paramount",
       "url": "https://www.theverge.com/policy/997416/brendan-carr-fcc-foreign-governments-paramount",
       "pubDate": "2026-09-18T15:12:41.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Supplier Subsidiary Considering U.S. Flash Memory Factory",
-      "url": "https://www.macrumors.com/2026/09/18/apple-supplier-subsidiary-considering-us-factory/",
-      "pubDate": "2026-09-18T15:01:37.000Z"
     },
     {
       "source": "The Verge",
