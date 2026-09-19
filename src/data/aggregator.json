@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T20:42:55.399Z",
+  "generatedAt": "2026-09-19T23:08:32.983Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Watch Series 12 and Ultra 4 missing one health-focused feature",
+      "url": "https://9to5mac.com/2026/09/19/apple-watch-series-12-ultra-4-missing-one-health-feature/",
+      "pubDate": "2026-09-19T22:16:41.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple is taking a little bit of a gamble with iPhone Duo software: Will it pay off?",
+      "url": "https://9to5mac.com/2026/09/19/apples-iphone-duo-software-gamble/",
+      "pubDate": "2026-09-19T20:46:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+      "pubDate": "2026-09-19T20:44:40.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Indie App Spotlight: ‘GasPulse’ lets you keep an eye on gas price trends around you",
+      "url": "https://9to5mac.com/2026/09/19/indie-app-spotlight-gaspulse-lets-you-keep-an-eye-on-gas-price-trends-around-you/",
+      "pubDate": "2026-09-19T19:30:00.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -206,25 +234,11 @@
       "pubDate": "2026-09-18T20:07:55.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Download the iPhone Duo’s official light and dark wallpapers here",
-      "url": "https://9to5mac.com/2026/09/18/download-the-iphone-duos-official-light-and-dark-wallpapers-here/",
-      "pubDate": "2026-09-18T20:05:43.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "M5 Ultra and M6 Chip Benchmark Results Reveal Graphics Performance",
       "url": "https://www.macrumors.com/2026/09/18/m5-ultra-and-m6-chip-gpu-benchmarks/",
       "pubDate": "2026-09-18T19:56:02.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "AirPods Pro 3 keep getting better, here’s what’s new in iOS 27",
-      "url": "https://9to5mac.com/2026/09/18/airpods-pro-3-keep-getting-better-heres-whats-new-ios-27/",
-      "pubDate": "2026-09-18T19:45:30.000Z"
     },
     {
       "source": "MacRumors",
@@ -241,13 +255,6 @@
       "pubDate": "2026-09-18T19:20:18.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Intelligence has 20+ brand new features in iOS 27, here’s the full list",
-      "url": "https://9to5mac.com/2026/09/18/apple-intelligence-has-20-brand-new-features-in-ios-27-heres-the-full-list/",
-      "pubDate": "2026-09-18T18:56:01.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Developers finally get Xcode tools to prepare apps for iPhone Duo",
@@ -260,13 +267,6 @@
       "title": "Virginia governor creates an AI task force and moves to restrain data centers",
       "url": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
       "pubDate": "2026-09-18T18:29:17.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Disney’s first CTO is Character.AI’s former CEO",
-      "url": "https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai",
-      "pubDate": "2026-09-18T18:27:04.000Z"
     },
     {
       "source": "AppleInsider",
