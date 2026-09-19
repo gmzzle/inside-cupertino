@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T11:02:22.174Z",
+  "generatedAt": "2026-09-19T14:26:56.536Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,83 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Watch Series 12 might finally convince me to switch away from WHOOP",
+      "url": "https://9to5mac.com/2026/09/19/heres-why-apple-watch-series-12-may-get-me-to-ditch-whoop/",
+      "pubDate": "2026-09-19T14:09:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
+      "url": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+      "pubDate": "2026-09-19T14:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Our top iPhone 18 Pro accessories to upgrade your setup [Updated]",
+      "url": "https://9to5mac.com/2026/09/19/best-iphone-18-pro-accessories/",
+      "pubDate": "2026-09-19T13:57:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple @ Work: Enterprise oassword management is still hard, and Dashlane’s new Vault Enforcement aims to fix it",
+      "url": "https://9to5mac.com/2026/09/19/apple-work-password-management-is-still-hard-and-dashlanes-new-vault-enforcement-admits-it/",
+      "pubDate": "2026-09-19T13:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Top Stories: iOS 27 and macOS Golden Gate Out Now, Siri AI Waitlist, and More",
+      "url": "https://www.macrumors.com/2026/09/19/top-stories-ios-27-macos-golden-gate-out-now/",
+      "pubDate": "2026-09-19T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "It’s not just LG. Every TV company is spying on you",
+      "url": "https://www.theverge.com/tech/997682/every-tv-company-is-spying",
+      "pubDate": "2026-09-19T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The AI regulation smackdown isn’t over",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+      "pubDate": "2026-09-19T13:00:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Teardown confirms US iPhone 18 Pro Max lacks Apple's C2 modem",
+      "url": "https://appleinsider.com/articles/26/09/19/teardown-confirms-us-iphone-18-pro-max-lacks-apples-c2-modem?utm_source=rss",
+      "pubDate": "2026-09-19T12:53:59.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple weekend deals: AirPods up to $100 off, Apple Watch Series 12, MacBook Air, Mac mini, more",
+      "url": "https://9to5mac.com/2026/09/19/apple-weekend-deals-airpods-apple-watch/",
+      "pubDate": "2026-09-19T12:01:56.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone 18 Pro Max still uses a Qualcomm modem in the US, teardown confirms",
+      "url": "https://9to5mac.com/2026/09/19/iphone-18-pro-max-still-uses-a-qualcomm-modem-in-the-us-teardown-confirms/",
+      "pubDate": "2026-09-19T11:45:46.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone 18 Pro Max’s battery is so big Apple had to add this new feature to iOS 27",
+      "url": "https://9to5mac.com/2026/09/19/iphone-18-pro-maxs-battery-is-so-big-apple-had-to-add-this-new-feature-to-ios-27/",
+      "pubDate": "2026-09-19T11:10:57.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -122,13 +199,6 @@
       "pubDate": "2026-09-18T18:46:22.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "HomeKit Weekly: Homey’s new Device Updates feature shows what Matter was supposed to be all along",
-      "url": "https://9to5mac.com/2026/09/18/homeys-new-device-updates-feature-shows-what-matter-was-supposed-to-be-all-along/",
-      "pubDate": "2026-09-18T18:33:00.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Virginia governor creates an AI task force and moves to restrain data centers",
@@ -164,32 +234,11 @@
       "pubDate": "2026-09-18T18:03:14.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple VP of hardware talks iPhone Duo durability, crease, hinge, and more",
-      "url": "https://9to5mac.com/2026/09/18/apple-vp-of-hardware-talks-iphone-duo-durability-crease-hinge-and-more/",
-      "pubDate": "2026-09-18T17:52:15.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple releases Xcode 27.1 beta, enabling iPhone Duo app development",
-      "url": "https://9to5mac.com/2026/09/18/apple-releases-xcode-27-1-beta-enabling-iphone-duo-app-development/",
-      "pubDate": "2026-09-18T17:50:45.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "MacRumors Giveaway: Win an iPhone Duo From iMazing",
       "url": "https://www.macrumors.com/2026/09/18/macrumors-giveaway-imazing-iphone-duo/",
       "pubDate": "2026-09-18T17:50:33.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Meta’s new Muse AI agent app overtakes ChatGPT as top iPhone app",
-      "url": "https://9to5mac.com/2026/09/18/metas-new-muse-ai-agent-app-overtakes-chatgpt-as-top-iphone-app/",
-      "pubDate": "2026-09-18T17:47:37.000Z"
     },
     {
       "source": "MacRumors",
@@ -241,20 +290,6 @@
       "pubDate": "2026-09-18T16:35:19.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: September 18, 2026 – More on iOS 27, iPhone Duo",
-      "url": "https://9to5mac.com/2026/09/18/daily-september-18-2026/",
-      "pubDate": "2026-09-18T16:34:51.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Best iPhone 18 Pro cases now available for purchase [Updated]",
-      "url": "https://9to5mac.com/2026/09/18/best-iphone-18-pro-cases-now-available/",
-      "pubDate": "2026-09-18T16:24:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple is hiding tiny 'hello' signs for iPhone 18 Pro users to find",
@@ -276,13 +311,6 @@
       "pubDate": "2026-09-18T16:15:51.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Designers Explain the Thinking Behind iPhone Duo",
-      "url": "https://www.macrumors.com/2026/09/18/apple-designers-explain-iphone-duo/",
-      "pubDate": "2026-09-18T16:11:02.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Sponsor) SoundSource by Rogue Amoeba",
@@ -302,27 +330,6 @@
       "title": "First iPhone 18 Pro teardown shows larger battery and vapor chamber",
       "url": "https://appleinsider.com/articles/26/09/18/first-iphone-18-pro-teardown-shows-larger-battery-and-vapor-chamber?utm_source=rss",
       "pubDate": "2026-09-18T15:19:35.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Brendan Carr’s FCC is more worried about who The View interviews than foreign governments owning Paramount",
-      "url": "https://www.theverge.com/policy/997416/brendan-carr-fcc-foreign-governments-paramount",
-      "pubDate": "2026-09-18T15:12:41.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Lenovo’s Yoga Slim 7X is the most laptop that $1,000 can currently buy",
-      "url": "https://www.theverge.com/gadgets/997388/lenovo-yoga-slim-7x-laptop-fire-emblem-switch-2-deal-sale",
-      "pubDate": "2026-09-18T14:51:26.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "This cartridge-playing Game Boy clone is smaller and cheaper than Analogue’s Pocket",
-      "url": "https://www.theverge.com/tech/997379/funnyplaying-fpbg-mini-game-boy-color-handheld-fpga-cartridge",
-      "pubDate": "2026-09-18T14:41:18.000Z"
     },
     {
       "source": "AppleInsider",
@@ -351,13 +358,6 @@
       "title": "Child safety protesters target Apple Fifth Avenue at iPhone 18 Pro release",
       "url": "https://appleinsider.com/articles/26/09/18/child-safety-protesters-target-apple-fifth-avenue-at-iphone-18-pro-release?utm_source=rss",
       "pubDate": "2026-09-18T12:26:05.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPhone 18 Pro, Apple Watch, iPhone Duo, and iOS 27 on the AppleInsider Podcast",
-      "url": "https://appleinsider.com/articles/26/09/18/iphone-18-pro-apple-watch-iphone-duo-and-ios-27-on-the-appleinsider-podcast?utm_source=rss",
-      "pubDate": "2026-09-18T11:10:12.000Z"
     },
     {
       "source": "Six Colors",
