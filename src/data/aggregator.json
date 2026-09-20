@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T23:08:32.983Z",
+  "generatedAt": "2026-09-20T01:11:34.006Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 makes your iPhone faster in these 30+ ways",
+      "url": "https://9to5mac.com/2026/09/19/ios-27-makes-your-iphone-faster-in-30-ways-heres-the-full-list/",
+      "pubDate": "2026-09-20T00:16:46.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -218,13 +225,6 @@
       "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
       "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
       "pubDate": "2026-09-18T21:07:24.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 and iPadOS 27 expand language support for Dictionary, QuickType Keyboard, more",
-      "url": "https://9to5mac.com/2026/09/18/ios-27-and-ipados-27-expand-language-support-for-dictionary-quicktype-keyboard-more/",
-      "pubDate": "2026-09-18T20:31:30.000Z"
     },
     {
       "source": "MacRumors",
