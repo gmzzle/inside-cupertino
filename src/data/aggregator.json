@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T22:27:48.497Z",
+  "generatedAt": "2026-09-21T01:08:04.437Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Delayed Apple TV series ‘The Savant’ may finally air next year",
+      "url": "https://9to5mac.com/2026/09/20/apple-tv-the-savant-another-release-date/",
+      "pubDate": "2026-09-20T22:52:35.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Review: Satechi’s Thunderbolt 5 CubeDock pairs perfectly with the new M6 Mac mini",
+      "url": "https://9to5mac.com/2026/09/20/satechi-thunderbolt-5-cubedock-mac-mini-review/",
+      "pubDate": "2026-09-20T22:29:43.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -239,20 +253,6 @@
       "title": "Teardown confirms US iPhone 18 Pro Max lacks Apple's C2 modem",
       "url": "https://appleinsider.com/articles/26/09/19/teardown-confirms-us-iphone-18-pro-max-lacks-apples-c2-modem?utm_source=rss",
       "pubDate": "2026-09-19T12:53:59.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple weekend deals: AirPods up to $100 off, Apple Watch Series 12, MacBook Air, Mac mini, more",
-      "url": "https://9to5mac.com/2026/09/19/apple-weekend-deals-airpods-apple-watch/",
-      "pubDate": "2026-09-19T12:01:56.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone 18 Pro Max still uses a Qualcomm modem in the US, teardown confirms",
-      "url": "https://9to5mac.com/2026/09/19/iphone-18-pro-max-still-uses-a-qualcomm-modem-in-the-us-teardown-confirms/",
-      "pubDate": "2026-09-19T11:45:46.000Z"
     },
     {
       "source": "MacRumors",
