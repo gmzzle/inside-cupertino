@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T01:08:04.437Z",
+  "generatedAt": "2026-09-21T06:23:20.161Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iFixit Shares iPhone 18 Pro Teardown With Inside Look at New Features",
+      "url": "https://www.macrumors.com/2026/09/20/ifixit-iphone-18-pro-teardown/",
+      "pubDate": "2026-09-21T03:44:59.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Fitness+ Layoffs Reported Ahead of Potential 'Major' Changes",
+      "url": "https://www.macrumors.com/2026/09/20/apple-fitness-plus-layoffs-reported/",
+      "pubDate": "2026-09-21T03:00:03.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "A Shorter Apple Pencil Was Supposed to Launch Alongside iPhone Duo",
+      "url": "https://www.macrumors.com/2026/09/20/iphone-duo-lacks-shorter-apple-pencil/",
+      "pubDate": "2026-09-21T02:47:43.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Siri AI Settlement Website Now Live: Apple to Pay Some iPhone Owners",
+      "url": "https://www.macrumors.com/2026/09/20/siri-ai-settlement-website-now-live/",
+      "pubDate": "2026-09-21T02:24:32.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -309,34 +337,6 @@
       "title": "A US NAND factory could reshape storage supply, but not yet for Apple",
       "url": "https://appleinsider.com/articles/26/09/18/a-us-nand-factory-could-reshape-storage-supply-but-not-yet-for-apple?utm_source=rss",
       "pubDate": "2026-09-18T18:19:27.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Releases Xcode 27.1 Beta With iPhone Duo Support",
-      "url": "https://www.macrumors.com/2026/09/18/apple-releases-xcode-27-1-beta-iphone-duo-support/",
-      "pubDate": "2026-09-18T18:06:21.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Watch Series 12 vs. Ultra 4 Buyer's Guide",
-      "url": "https://www.macrumors.com/guide/apple-watch-series-12-vs-ultra-4/",
-      "pubDate": "2026-09-18T18:03:14.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "MacRumors Giveaway: Win an iPhone Duo From iMazing",
-      "url": "https://www.macrumors.com/2026/09/18/macrumors-giveaway-imazing-iphone-duo/",
-      "pubDate": "2026-09-18T17:50:33.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "'Shop Different': Apple Retail Pioneer Ron Johnson Shares the Inside Story",
-      "url": "https://www.macrumors.com/2026/09/18/shop-different-ron-johnson-apple-retail-book/",
-      "pubDate": "2026-09-18T17:37:28.000Z"
     },
     {
       "source": "AppleInsider",
