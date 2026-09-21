@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T14:12:17.121Z",
+  "generatedAt": "2026-09-21T19:31:47.965Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -26,16 +26,240 @@
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
-      "title": "‘HomePad’ to launch next month with these new features: report",
-      "url": "https://9to5mac.com/2026/09/21/homepad-to-launch-next-month-with-these-new-features-report/",
-      "pubDate": "2026-09-21T14:09:08.000Z"
+      "title": "iOS 27 adds an all-new app to your iPhone’s Home Screen",
+      "url": "https://9to5mac.com/2026/09/21/ios-27-adds-an-all-new-app-to-your-iphones-home-screen/",
+      "pubDate": "2026-09-21T19:14:24.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27.2 reveals new features coming to Apple Music, CarPlay, more",
+      "url": "https://9to5mac.com/2026/09/21/ios-27-2-reveals-new-features-coming-to-apple-music-carplay-more/",
+      "pubDate": "2026-09-21T19:01:12.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "MagSafe Monday: BLAVOR’s solar power bank is built for fall camping trips",
+      "url": "https://9to5mac.com/2026/09/21/bllavors-solar-power-bank-is-built-for-fall-camping-trips/",
+      "pubDate": "2026-09-21T18:11:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone 14 Pro vs. iPhone 18 Pro Buyer's Guide: Should You Upgrade?",
+      "url": "https://www.macrumors.com/guide/iphone-14-pro-vs-18-pro/",
+      "pubDate": "2026-09-21T18:05:23.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "GM can’t ‘bring back’ Apple CarPlay because it never left",
+      "url": "https://www.theverge.com/transportation/998259/gm-apple-carplay-android-auto-phone-mirror-google",
+      "pubDate": "2026-09-21T17:47:54.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Paramount settles lawsuit blocking $110 billion Warner Bros. merger",
+      "url": "https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement",
+      "pubDate": "2026-09-21T17:42:15.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple rolls out second Release Candidates for macOS Tahoe 26.7.1 and macOS Sequoia 15.8.1",
+      "url": "https://9to5mac.com/2026/09/21/apple-rolls-out-second-release-candidates-for-macos-tahoe-26-7-1-and-macos-sequoia-15-8-1/",
+      "pubDate": "2026-09-21T17:30:14.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Second developer betas of iOS 27.2, macOS 27.2 are out now",
+      "url": "https://appleinsider.com/articles/26/09/21/second-developer-betas-of-ios-272-macos-272-are-out-now?utm_source=rss",
+      "pubDate": "2026-09-21T17:28:52.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Beta 2 now available for iPadOS 27.2, watchOS 27.2, more",
+      "url": "https://9to5mac.com/2026/09/21/beta-2-now-available-for-ipados-27-2-watchos-27-2-more/",
+      "pubDate": "2026-09-21T17:25:48.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Neural Engine timeouts & Face ID panics hit Apple's newest devices",
+      "url": "https://appleinsider.com/articles/26/09/21/neural-engine-timeouts-face-id-panics-hit-apples-newest-devices?utm_source=rss",
+      "pubDate": "2026-09-21T17:24:14.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Seeds Second macOS Golden Gate 27.2 Beta to Developers",
+      "url": "https://www.macrumors.com/2026/09/21/apple-seeds-macos-27-2-beta-2/",
+      "pubDate": "2026-09-21T17:23:13.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "macOS 27.2 Golden Gate beta 2 now available, here’s what to expect",
+      "url": "https://9to5mac.com/2026/09/21/macos-27-2-golden-gate-beta-2-now-available-heres-what-to-expect/",
+      "pubDate": "2026-09-21T17:22:29.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Releases Second iOS 27.2 Beta",
+      "url": "https://www.macrumors.com/2026/09/21/apple-releases-second-ios-27-2-beta/",
+      "pubDate": "2026-09-21T17:21:17.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple releases second iOS 27.2 developer beta for iPhone",
+      "url": "https://9to5mac.com/2026/09/21/apple-releases-second-ios-27-2-developer-beta-for-iphone/",
+      "pubDate": "2026-09-21T17:20:07.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Releases Second watchOS 27.2, tvOS 27.2 and visionOS 27.2 Betas",
+      "url": "https://www.macrumors.com/2026/09/21/apple-releases-watchos-27-2-beta-2/",
+      "pubDate": "2026-09-21T17:20:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple Vision Pro has a bright future says Apple CEO Ternus, but it's a long journey",
+      "url": "https://appleinsider.com/articles/26/09/21/apple-vision-pro-has-a-bright-future-says-apple-ceo-ternus-but-its-a-long-journey?utm_source=rss",
+      "pubDate": "2026-09-21T17:14:49.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "M4 iPad Air Now Starting at $649 on Amazon, Save Up to $149",
+      "url": "https://www.macrumors.com/2026/09/21/m4-ipad-air-149-off/",
+      "pubDate": "2026-09-21T17:13:03.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "New Mac Mini Reviews: A Good But No Longer 'Insanely Great' Deal",
+      "url": "https://www.macrumors.com/2026/09/21/mac-mini-m6-m5-pro-reviews/",
+      "pubDate": "2026-09-21T17:08:52.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Shopify just released a brand-new Apple TV app with a dashboard for businesses",
+      "url": "https://9to5mac.com/2026/09/21/shopify-just-released-a-brand-new-apple-tv-app-with-a-dashboard-for-businesses/",
+      "pubDate": "2026-09-21T17:05:39.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "This clever workaround lets iPhone 18 Pro Max skirt battery shipping max power limits",
+      "url": "https://appleinsider.com/articles/26/09/21/a-clever-workaround-lets-the-iphone-18-pro-max-skirt-battery-shipping-limits?utm_source=rss",
+      "pubDate": "2026-09-21T16:55:31.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Watch Series 12 and Ultra 4 introduce a new Theater Mode setting",
+      "url": "https://9to5mac.com/2026/09/21/apple-watch-series-12-and-ultra-4-introduce-a-new-theater-mode-setting/",
+      "pubDate": "2026-09-21T16:49:15.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "M5 Ultra Mac Studio AI performance keeps up with Nvidia 5080",
+      "url": "https://appleinsider.com/articles/26/09/21/m5-ultra-mac-studios-gpu-ai-performance-keeps-up-with-desktop-graphics-cards?utm_source=rss",
+      "pubDate": "2026-09-21T16:47:53.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Bungie says it’s ‘not done with Destiny’ and will bring back vaulted content",
+      "url": "https://www.theverge.com/news/998317/bungie-destiny-2-unvaulted-raids-campaigns-destinations",
+      "pubDate": "2026-09-21T16:35:59.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "John Ternus talks CEO offer, AI potential, more in new interview",
+      "url": "https://9to5mac.com/2026/09/21/john-ternus-talks-ceo-offer-ai-potential-more-in-new-interview/",
+      "pubDate": "2026-09-21T16:17:24.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Some iPhone 18 Pro Users Experiencing Face ID Issues",
+      "url": "https://www.macrumors.com/2026/09/21/iphone-18-pro-face-id-issues/",
+      "pubDate": "2026-09-21T16:05:08.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "CardPointers updated for iOS 27 with Siri AI, automatic offer syncing, and much more",
+      "url": "https://9to5mac.com/2026/09/21/cardpointers-updated-for-ios-27-with-siri-ai-automatic-offer-syncing-and-much-more/",
+      "pubDate": "2026-09-21T16:03:37.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Pin Music to the Top of Your Apple Watch Music Library",
+      "url": "https://www.macrumors.com/how-to/pin-music-apple-watch/",
+      "pubDate": "2026-09-21T16:03:12.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Sponsor) COHERENCE X6: Turn websites into Chromium-powered Mac apps that behave like Mac apps",
+      "url": "https://sixcolors.com/feed-only/2026/09/coherence-x6-turn-websites-into-chromium-powered-mac-apps-that-behave-like-mac-apps/",
+      "pubDate": "2026-09-21T16:00:42.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "John Ternus just gave the best defense yet for Vision Pro",
+      "url": "https://9to5mac.com/2026/09/21/john-ternus-just-gave-the-best-defense-yet-for-vision-pro/",
+      "pubDate": "2026-09-21T15:41:46.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Smart Home Display Coming as Soon as Next Month",
+      "url": "https://www.macrumors.com/2026/09/21/apple-smart-home-display-coming-next-month/",
+      "pubDate": "2026-09-21T15:30:37.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Save $150 on Apple's M5 MacBook Air with 24GB RAM, 1TB SSD; now $1,649",
+      "url": "https://appleinsider.com/articles/26/09/21/save-150-on-apples-m5-macbook-air-with-24gb-ram-1tb-ssd-now-1649?utm_source=rss",
+      "pubDate": "2026-09-21T15:23:26.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Grab an Xbox controller and a $50 Xbox gift card together for just $80",
+      "url": "https://www.theverge.com/gadgets/998207/xbox-controller-chromebook-usbc-charger-deal-sale",
+      "pubDate": "2026-09-21T15:13:32.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Aqara FP400 sensor, new iOS 27 app updates, & more news on Smart Home Insider",
+      "url": "https://appleinsider.com/articles/26/09/21/aqara-fp400-sensor-new-ios-27-app-updates-more-news-on-smart-home-insider?utm_source=rss",
+      "pubDate": "2026-09-21T15:01:39.000Z"
     },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "OWC's Best Mac Accessories Are on Sale Just for MacRumors Readers",
       "url": "https://www.macrumors.com/2026/09/21/owcs-best-mac-sale/",
-      "pubDate": "2026-09-21T14:08:04.000Z"
+      "pubDate": "2026-09-21T14:07:59.000Z"
     },
     {
       "source": "The Verge",
@@ -49,7 +273,7 @@
       "sourceHomepage": "https://www.macrumors.com",
       "title": "New Mac Studio's Biggest Upgrade Isn't the M5 Ultra Chip, Review Says",
       "url": "https://www.macrumors.com/2026/09/21/mac-studio-m5-ultra-reviews/",
-      "pubDate": "2026-09-21T13:46:32.000Z"
+      "pubDate": "2026-09-21T13:46:28.000Z"
     },
     {
       "source": "AppleInsider",
@@ -57,27 +281,6 @@
       "title": "Mac Studio review roundup: expensive, but M5 Ultra makes it worthwhile",
       "url": "https://appleinsider.com/articles/26/09/21/mac-studio-review-roundup-expensive-but-m5-ultra-makes-it-worthwhile?utm_source=rss",
       "pubDate": "2026-09-21T13:41:55.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "CarPlay just got better, here’s everything new in iOS 27",
-      "url": "https://9to5mac.com/2026/09/21/heres-everything-new-for-carplay-in-ios-27/",
-      "pubDate": "2026-09-21T13:40:08.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Unsurprisingly, iPhone 18 Pro Max SSD will slow down when hammered",
-      "url": "https://appleinsider.com/articles/26/09/21/iphone-18-pro-max-storage-hits-glacial-speeds-under-extreme-loads?utm_source=rss",
-      "pubDate": "2026-09-21T13:39:23.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "A clever workaround lets the iPhone 18 Pro Max skirt battery shipping limits",
-      "url": "https://appleinsider.com/articles/26/09/21/a-clever-workaround-lets-the-iphone-18-pro-max-skirt-battery-shipping-limits?utm_source=rss",
-      "pubDate": "2026-09-21T13:38:51.000Z"
     },
     {
       "source": "The Verge",
@@ -94,13 +297,6 @@
       "pubDate": "2026-09-21T13:34:29.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "M5 Ultra Mac Studio reviews: local AI powerhouse",
-      "url": "https://9to5mac.com/2026/09/21/m5-ultra-mac-studio-review-roundup-a-local-ai-powerhouse/",
-      "pubDate": "2026-09-21T13:34:18.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "How to Force Quit Apple Watch Apps in watchOS 27",
@@ -113,13 +309,6 @@
       "title": "Mac mini review roundup: M6 and M5 Pro make this a marvel, but a costly one",
       "url": "https://appleinsider.com/articles/26/09/21/mac-mini-review-roundup-m6-and-m5-pro-make-this-a-marvel-but-a-costly-one?utm_source=rss",
       "pubDate": "2026-09-21T13:27:25.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "New all-glass iPhone 20 Pro rumor reveals another design change",
-      "url": "https://9to5mac.com/2026/09/21/iphone-20-pro-could-be-apples-biggest-pro-phones-yet/",
-      "pubDate": "2026-09-21T13:25:11.000Z"
     },
     {
       "source": "Six Colors",
@@ -136,13 +325,6 @@
       "pubDate": "2026-09-21T13:16:25.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "New Mac Mini and Mac Studio Launch Tomorrow",
-      "url": "https://www.macrumors.com/2026/09/21/new-mac-mini-and-mac-studio-launch-tomorrow/",
-      "pubDate": "2026-09-21T13:04:41.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "These are the first five Googlebook laptops",
@@ -155,13 +337,6 @@
       "title": "M6 Mac mini review: Tiny, pricey, and powerful",
       "url": "https://sixcolors.com/post/2026/09/m6-mac-mini-review-tiny-pricey-and-powerful/",
       "pubDate": "2026-09-21T13:00:53.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "M6 Mac mini review: Apple’s most versatile Mac continues to shine",
-      "url": "https://9to5mac.com/2026/09/21/m6-mac-mini-review/",
-      "pubDate": "2026-09-21T13:00:05.000Z"
     },
     {
       "source": "The Verge",
@@ -178,186 +353,11 @@
       "pubDate": "2026-09-21T13:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Mac Mini is still mighty, just not as cheap",
-      "url": "https://www.theverge.com/tech/998006/apple-mac-mini-m6-m5-pro-review",
-      "pubDate": "2026-09-21T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The M5 Ultra Mac Studio tears through our benchmark tests",
-      "url": "https://www.theverge.com/tech/998040/apple-mac-studio-m5-ultra-initial-impressions-testing-review",
-      "pubDate": "2026-09-21T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Googlebooks feel like the first laptops built for Android owners",
-      "url": "https://www.theverge.com/tech/998095/googlebook-laptop-android-continue-on-app-cast",
-      "pubDate": "2026-09-21T13:00:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Watch Series 12 and Ultra 4 May Have Hidden Flash Storage",
-      "url": "https://www.macrumors.com/2026/09/21/apple-watch-series-12-ultra-4-hidden-storage/",
-      "pubDate": "2026-09-21T12:52:05.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Fitness+ team hit by layoffs, as ‘major changes’ reportedly loom",
-      "url": "https://9to5mac.com/2026/09/21/apple-fitness-team-hit-by-layoffs-as-major-changes-reportedly-loom/",
-      "pubDate": "2026-09-21T12:49:04.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple’s clever software solution lets iPhone batteries skirt shipping limits",
-      "url": "https://www.theverge.com/tech/998144/apple-iphone-18-pro-max-battery-firmware-limit",
-      "pubDate": "2026-09-21T12:37:27.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "You can now claim your payout from Apple’s $250 million Siri settlement",
-      "url": "https://9to5mac.com/2026/09/21/you-can-now-claim-your-payout-from-apples-250-million-siri-settlement/",
-      "pubDate": "2026-09-21T12:31:45.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "iPhone 20 Pro screen resolution detailed in new leak",
       "url": "https://appleinsider.com/articles/26/09/21/iphone-20-pro-screen-resolution-detailed-in-new-leak?utm_source=rss",
       "pubDate": "2026-09-21T12:24:42.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Claim your $25 in Apple's $250 million settlement over delayed Siri features",
-      "url": "https://appleinsider.com/articles/26/09/21/claim-your-25-in-apples-250-million-settlement-over-delayed-siri-features?utm_source=rss",
-      "pubDate": "2026-09-21T12:03:54.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Australia's Prime Minister says Tim Cook backs the country's social media curbs",
-      "url": "https://appleinsider.com/articles/26/09/21/australias-prime-minister-says-tim-cook-backs-the-countrys-social-media-curbs?utm_source=rss",
-      "pubDate": "2026-09-21T11:51:45.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone 20 Pro Display Sizes Leak Ahead of 2027 Launch",
-      "url": "https://www.macrumors.com/2026/09/21/iphone-20-pro-display-sizes-leak/",
-      "pubDate": "2026-09-21T11:30:01.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Watch Series 12 and Ultra 4 Owners Report Unexpected Reboots",
-      "url": "https://www.macrumors.com/2026/09/21/apple-watch-series-12-ultra-4-reported-reboots/",
-      "pubDate": "2026-09-21T09:08:42.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iFixit Shares iPhone 18 Pro Teardown With Inside Look at New Features",
-      "url": "https://www.macrumors.com/2026/09/20/ifixit-iphone-18-pro-teardown/",
-      "pubDate": "2026-09-21T03:44:50.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Fitness+ Layoffs Reported Ahead of Potential 'Major' Changes",
-      "url": "https://www.macrumors.com/2026/09/20/apple-fitness-plus-layoffs-reported/",
-      "pubDate": "2026-09-21T03:00:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "A Shorter Apple Pencil Was Supposed to Launch Alongside iPhone Duo",
-      "url": "https://www.macrumors.com/2026/09/20/iphone-duo-lacks-shorter-apple-pencil/",
-      "pubDate": "2026-09-21T02:47:43.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Siri AI Settlement Website Now Live: Apple to Pay Some iPhone Owners",
-      "url": "https://www.macrumors.com/2026/09/20/siri-ai-settlement-website-now-live/",
-      "pubDate": "2026-09-21T02:24:32.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Delayed Apple TV series ‘The Savant’ may finally air next year",
-      "url": "https://9to5mac.com/2026/09/20/apple-tv-the-savant-another-release-date/",
-      "pubDate": "2026-09-20T22:52:35.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Review: Satechi’s Thunderbolt 5 CubeDock pairs perfectly with the new M6 Mac mini",
-      "url": "https://9to5mac.com/2026/09/20/satechi-thunderbolt-5-cubedock-mac-mini-review/",
-      "pubDate": "2026-09-20T22:29:43.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iFixit tears down iPhone 18 Pro, explores variable aperture, finds concerning repair issue",
-      "url": "https://9to5mac.com/2026/09/20/ifixit-tears-down-iphone-18-pro-explores-variable-aperture-finds-concerning-repair-issue/",
-      "pubDate": "2026-09-20T22:02:17.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Sunday Reboot: A power station and store hopes",
-      "url": "https://appleinsider.com/articles/26/09/20/sunday-reboot-a-power-station-and-store-hopes?utm_source=rss",
-      "pubDate": "2026-09-20T19:57:39.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Five ways that the new Siri AI is frustrating iPhone and Apple Watch users",
-      "url": "https://9to5mac.com/2026/09/20/five-ways-that-the-new-siri-ai-is-frustrating-iphone-and-apple-watch-users/",
-      "pubDate": "2026-09-20T18:35:12.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Foldable futures: iPhone Duo is Apple's bet for smartphone growth",
-      "url": "https://appleinsider.com/articles/26/09/20/foldable-futures-iphone-duo-is-apples-bet-for-smartphone-growth?utm_source=rss",
-      "pubDate": "2026-09-20T17:16:56.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Claimed Apple Fitness+ layoffs are no sign of problems with the service",
-      "url": "https://appleinsider.com/articles/26/09/20/claimed-apple-fitness-layoffs-are-no-sign-of-problems-with-the-service?utm_source=rss",
-      "pubDate": "2026-09-20T15:12:01.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple Home Hub will be the intelligent center of your home",
-      "url": "https://appleinsider.com/articles/26/09/20/apple-home-hub-will-be-the-intelligent-center-of-your-home?utm_source=rss",
-      "pubDate": "2026-09-20T14:59:02.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Here’s why Apple scrapped its shorter Apple Pencil designed for iPhone Duo: report",
-      "url": "https://9to5mac.com/2026/09/20/heres-why-apple-scrapped-its-shorter-apple-pencil-designed-for-iphone-duo-report/",
-      "pubDate": "2026-09-20T14:38:43.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "M6 Pro Chip Result on Geekbench is Likely Fake",
-      "url": "https://www.macrumors.com/2026/09/19/m6-pro-geekbench-result-likely-fake/",
-      "pubDate": "2026-09-19T17:59:10.000Z"
     },
     {
       "source": "Six Colors",
@@ -367,11 +367,11 @@
       "pubDate": "2026-09-18T15:39:24.000Z"
     },
     {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Unsealed documents show Microsoft, OpenAI executives all too aware of ethical concerns ↦",
-      "url": "https://sixcolors.com/link/2026/09/unsealed-documents-show-microsoft-openai-executives-all-too-aware-of-ethical-concerns/",
-      "pubDate": "2026-09-18T13:03:17.000Z"
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Protect your iPhone Duo & iPhone 18 Pro lineup with ESR's latest cases",
+      "url": "https://appleinsider.com/articles/26/09/18/protect-your-iphone-duo-iphone-18-pro-lineup-with-esrs-latest-cases?utm_source=rss",
+      "pubDate": "2026-09-18T14:11:13.000Z"
     }
   ]
 }
