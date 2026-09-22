@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T04:59:28.557Z",
+  "generatedAt": "2026-09-22T09:59:27.114Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,41 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "App Switcher Returns in watchOS 27.2 Beta With New Launch Gesture",
+      "url": "https://www.macrumors.com/2026/09/22/app-switcher-returns-watchos-27-2-beta/",
+      "pubDate": "2026-09-22T08:41:09.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Apple&#8217;s first live music venue is opening beneath its UK headquarters",
+      "url": "https://www.theverge.com/tech/998581/apple-music-hall-london-venue-battersea",
+      "pubDate": "2026-09-22T08:35:54.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Music Hall Spatial Audio Venue Opens in Battersea Power Station",
+      "url": "https://www.macrumors.com/2026/09/22/apple-music-hall-battersea-power-station/",
+      "pubDate": "2026-09-22T08:07:39.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Music opens new live music venue in London",
+      "url": "https://9to5mac.com/2026/09/22/apple-music-opens-new-live-music-venue-in-london/",
+      "pubDate": "2026-09-22T07:51:30.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iCloud storage notification glitch puts unremovable red badge on Settings app",
+      "url": "https://9to5mac.com/2026/09/22/icloud-storage-notification-glitch-puts-unremovable-red-badge-on-settings-app/",
+      "pubDate": "2026-09-22T07:40:50.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -178,25 +213,11 @@
       "pubDate": "2026-09-21T20:03:04.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Report: AI glasses shipments surged 263% in H1 2026 as Apple prepares to enter the market",
-      "url": "https://9to5mac.com/2026/09/21/report-ai-glasses-shipments-surged-263-in-h1-2026-as-apple-prepares-to-enter-the-market/",
-      "pubDate": "2026-09-21T19:55:41.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "GM Wants You to Know It Still Plans to Ditch Apple CarPlay in Future EVs",
       "url": "https://www.macrumors.com/2026/09/21/gm-stance-on-apple-carplay/",
       "pubDate": "2026-09-21T19:32:18.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 adds an all-new app to your iPhone’s Home Screen",
-      "url": "https://9to5mac.com/2026/09/21/ios-27-adds-an-all-new-app-to-your-iphones-home-screen/",
-      "pubDate": "2026-09-21T19:14:24.000Z"
     },
     {
       "source": "MacRumors",
@@ -283,20 +304,6 @@
       "pubDate": "2026-09-21T16:35:59.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Some iPhone 18 Pro Users Experiencing Face ID Issues",
-      "url": "https://www.macrumors.com/2026/09/21/iphone-18-pro-face-id-issues/",
-      "pubDate": "2026-09-21T16:05:08.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Pin Music to the Top of Your Apple Watch Music Library",
-      "url": "https://www.macrumors.com/how-to/pin-music-apple-watch/",
-      "pubDate": "2026-09-21T16:03:12.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Sponsor) COHERENCE X6: Turn websites into Chromium-powered Mac apps that behave like Mac apps",
@@ -344,13 +351,6 @@
       "title": "Apple adds mode to temporarily limit the iPhone 18 Pro Max battery for shipping ↦",
       "url": "https://sixcolors.com/link/2026/09/apple-adds-mode-to-temporarily-limit-the-iphone-18-pro-max-battery-for-shipping/",
       "pubDate": "2026-09-21T13:22:33.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Vivo’s X500 Pro Max has 17 stops of dynamic range and 4K240 slo-mo",
-      "url": "https://www.theverge.com/gadgets/998165/vivo-x500-pro-max-launch-specs-release-date-lofic-china",
-      "pubDate": "2026-09-21T13:16:25.000Z"
     },
     {
       "source": "Six Colors",
