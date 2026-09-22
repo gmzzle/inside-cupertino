@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T23:18:42.970Z",
+  "generatedAt": "2026-09-22T04:59:28.557Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,48 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Best M6 Mac mini, 2026 Mac Studio deals on release day",
+      "url": "https://appleinsider.com/articles/26/09/22/best-m6-mac-mini-2026-mac-studio-deals-on-release-day?utm_source=rss",
+      "pubDate": "2026-09-22T04:53:59.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "watchOS 27.2 beta 2 brings the App Switcher back with a new gesture",
+      "url": "https://9to5mac.com/2026/09/21/watchos-27-2-beta-2-brings-the-app-switcher-back-with-a-new-gesture/",
+      "pubDate": "2026-09-22T02:07:14.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple challenges OpenAI’s forensic analysis in trade secrets case, seeks access to hardware R&D",
+      "url": "https://9to5mac.com/2026/09/21/apple-challenges-openais-forensic-analysis-in-trade-secrets-case-seeks-access-to-hardware-rd/",
+      "pubDate": "2026-09-22T01:37:18.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "A cut cable disrupted hundreds of flights across the US",
+      "url": "https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us",
+      "pubDate": "2026-09-21T23:48:56.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Here’s what’s really going on with GM’s CarPlay strategy (or lack thereof)",
+      "url": "https://9to5mac.com/2026/09/21/heres-whats-really-going-on-with-gms-carplay-strategy-or-lack-thereof/",
+      "pubDate": "2026-09-21T23:18:47.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Amazon wants to help the Colorado River, but we still don’t know how much water the company uses",
+      "url": "https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river",
+      "pubDate": "2026-09-21T23:15:32.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -157,20 +199,6 @@
       "pubDate": "2026-09-21T19:14:24.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27.2 reveals new features coming to Apple Music, CarPlay, more",
-      "url": "https://9to5mac.com/2026/09/21/ios-27-2-reveals-new-features-coming-to-apple-music-carplay-more/",
-      "pubDate": "2026-09-21T19:01:12.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "MagSafe Monday: BLAVOR’s solar power bank is built for fall camping trips",
-      "url": "https://9to5mac.com/2026/09/21/bllavors-solar-power-bank-is-built-for-fall-camping-trips/",
-      "pubDate": "2026-09-21T18:11:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iPhone 14 Pro vs. iPhone 18 Pro Buyer's Guide: Should You Upgrade?",
@@ -190,13 +218,6 @@
       "title": "Paramount settles lawsuit blocking $110 billion Warner Bros. merger",
       "url": "https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement",
       "pubDate": "2026-09-21T17:42:15.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple rolls out second Release Candidates for macOS Tahoe 26.7.1 and macOS Sequoia 15.8.1",
-      "url": "https://9to5mac.com/2026/09/21/apple-rolls-out-second-release-candidates-for-macos-tahoe-26-7-1-and-macos-sequoia-15-8-1/",
-      "pubDate": "2026-09-21T17:30:14.000Z"
     },
     {
       "source": "AppleInsider",
@@ -246,13 +267,6 @@
       "title": "New Mac Mini Reviews: A Good But No Longer 'Insanely Great' Deal",
       "url": "https://www.macrumors.com/2026/09/21/mac-mini-m6-m5-pro-reviews/",
       "pubDate": "2026-09-21T17:08:52.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "This clever workaround lets iPhone 18 Pro Max skirt battery shipping max power limits",
-      "url": "https://appleinsider.com/articles/26/09/21/a-clever-workaround-lets-the-iphone-18-pro-max-skirt-battery-shipping-limits?utm_source=rss",
-      "pubDate": "2026-09-21T16:55:31.000Z"
     },
     {
       "source": "AppleInsider",
@@ -318,13 +332,6 @@
       "pubDate": "2026-09-21T14:00:00.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Mac Studio review roundup: expensive, but M5 Ultra makes it worthwhile",
-      "url": "https://appleinsider.com/articles/26/09/21/mac-studio-review-roundup-expensive-but-m5-ultra-makes-it-worthwhile?utm_source=rss",
-      "pubDate": "2026-09-21T13:41:55.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
@@ -346,13 +353,6 @@
       "pubDate": "2026-09-21T13:16:25.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "These are the first five Googlebook laptops",
-      "url": "https://www.theverge.com/gadgets/997659/googlebooks-breakdown-acer-asus-hp-lenovo-dell",
-      "pubDate": "2026-09-21T13:01:00.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "M6 Mac mini review: Tiny, pricey, and powerful",
@@ -360,18 +360,18 @@
       "pubDate": "2026-09-21T13:00:53.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The long dream of the Googlebook",
-      "url": "https://www.theverge.com/tech/997972/googlebook-laptop-chromeos-android-history",
-      "pubDate": "2026-09-21T13:00:00.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Sponsor) SoundSource by Rogue Amoeba",
       "url": "https://sixcolors.com/sponsor/2026/09/soundsource-by-rogue-amoeba/",
       "pubDate": "2026-09-18T15:39:24.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Unsealed documents show Microsoft, OpenAI executives all too aware of ethical concerns ↦",
+      "url": "https://sixcolors.com/link/2026/09/unsealed-documents-show-microsoft-openai-executives-all-too-aware-of-ethical-concerns/",
+      "pubDate": "2026-09-18T13:03:17.000Z"
     }
   ]
 }
