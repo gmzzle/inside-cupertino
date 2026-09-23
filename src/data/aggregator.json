@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T11:40:27.814Z",
+  "generatedAt": "2026-09-23T17:03:56.841Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,6 +24,230 @@
   ],
   "items": [
     {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Grab Apple's new M6 Mac mini for $879.99 during month-end sale",
+      "url": "https://appleinsider.com/articles/26/09/23/grab-apples-new-m6-mac-mini-for-87999-during-month-end-sale?utm_source=rss",
+      "pubDate": "2026-09-23T16:43:47.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act",
+      "pubDate": "2026-09-23T16:23:05.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone Air vs. iPhone 18 Pro Buyer's Guide: Which Should You Buy?",
+      "url": "https://www.macrumors.com/guide/iphone-air-vs-18-pro/",
+      "pubDate": "2026-09-23T16:06:28.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Logitech’s new Blue Yeti 2 mic adjusts itself to where you are",
+      "url": "https://www.theverge.com/gadgets/999406/blue-yeti-2-usb-microphone-price-availability",
+      "pubDate": "2026-09-23T16:01:45.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Logitech’s new haptics-based gaming mouse is a little better and $20 more",
+      "url": "https://www.theverge.com/news/998266/logitech-x3-pro-superstrike-specs-price",
+      "pubDate": "2026-09-23T16:00:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Disney+ and Hulu subscriptions are about to get more expensive",
+      "url": "https://appleinsider.com/articles/26/09/23/disney-and-hulu-subscriptions-are-about-to-get-more-expensive?utm_source=rss",
+      "pubDate": "2026-09-23T15:55:44.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Xbox’s Mythic achievements sound like PlayStation’s Platinum trophy",
+      "url": "https://www.theverge.com/news/999404/xbox-mythic-achievement-feature",
+      "pubDate": "2026-09-23T15:45:11.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Deals: Apple Watch Ultra 2 clearance $200 off, AirPods, Beats 360 launch discount, iPhone 18 Pro cases, more",
+      "url": "https://9to5mac.com/2026/09/23/deals-apple-watch-ultra-2-clearance-beats-360/",
+      "pubDate": "2026-09-23T15:27:43.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Your personal AI account is about to meet corporate IT with Jamf",
+      "url": "https://appleinsider.com/articles/26/09/23/your-personal-ai-account-is-about-to-meet-corporate-it-with-jamf?utm_source=rss",
+      "pubDate": "2026-09-23T15:08:08.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "AT&T was first to get the iPhone, yet it won't support iPhone Handoff",
+      "url": "https://appleinsider.com/articles/26/09/23/att-was-first-to-get-the-iphone-yet-it-wont-support-iphone-handoff?utm_source=rss",
+      "pubDate": "2026-09-23T15:06:43.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Disney+ and Hulu just increased prices, here’s how much",
+      "url": "https://9to5mac.com/2026/09/23/disney-and-hulu-just-increased-prices-heres-how-much/",
+      "pubDate": "2026-09-23T15:04:21.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "One of the best Metroid games for the Switch is 30 percent off",
+      "url": "https://www.theverge.com/gadgets/999329/metroid-prime-remastered-nintendo-flow-usbc-apple-deal-sale",
+      "pubDate": "2026-09-23T15:01:50.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "This $199 GPS sports watch is repairable, modular, and open-source",
+      "url": "https://www.theverge.com/gadgets/999380/una-watch-sports-gps-modular",
+      "pubDate": "2026-09-23T15:01:16.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27.2 makes FaceTime’s best new feature even better",
+      "url": "https://9to5mac.com/2026/09/23/ios-27-2-makes-facetimes-best-new-feature-even-better/",
+      "pubDate": "2026-09-23T14:45:32.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Millions of Americans are being spied on with shady VPNs available on Apple's App Store",
+      "url": "https://appleinsider.com/articles/26/09/23/millions-of-americans-are-being-spied-on-with-shady-vpns-available-on-apples-app-store?utm_source=rss",
+      "pubDate": "2026-09-23T14:38:51.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "YouTube is building AI creator tools that do almost everything for them",
+      "url": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests",
+      "pubDate": "2026-09-23T14:30:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Discord will now automatically estimate your age",
+      "url": "https://www.theverge.com/tech/999305/discord-updated-age-assurance-global-rollout",
+      "pubDate": "2026-09-23T14:27:49.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Podcasts Subscriptions Will Soon Support Video",
+      "url": "https://www.macrumors.com/2026/09/23/apple-podcasts-subscriptions-to-support-video/",
+      "pubDate": "2026-09-23T14:26:51.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Next year’s iPhone Pro models have ‘near-borderless’ design: report",
+      "url": "https://9to5mac.com/2026/09/23/next-years-iphone-pro-models-have-near-borderless-design-report/",
+      "pubDate": "2026-09-23T14:21:35.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Watch Ultra 3 Drops to Record Low $599.97 on Amazon [Updated]",
+      "url": "https://www.macrumors.com/2026/09/23/apple-watch-ultra-3-599/",
+      "pubDate": "2026-09-23T14:14:54.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "AT&T Responds to iOS 27's New iPhone Handoff Feature",
+      "url": "https://www.macrumors.com/2026/09/23/att-on-ios-27-iphone-handoff/",
+      "pubDate": "2026-09-23T14:06:09.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Launch Discounts Arrive for New Mac Mini and Mac Studio, Plus Massive Deal on Samsung's Portable SSD",
+      "url": "https://www.macrumors.com/2026/09/23/launch-mac-mini-studio-deals/",
+      "pubDate": "2026-09-23T13:54:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "McDonald’s is testing ads on its drive-thru menus",
+      "url": "https://www.theverge.com/tech/999295/mcdonalds-drive-thru-menu-ads",
+      "pubDate": "2026-09-23T13:52:39.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Nobody does it like Remedy",
+      "url": "https://www.theverge.com/games/999268/control-resonant-review-ps5-xbox",
+      "pubDate": "2026-09-23T13:45:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Base Mac mini still has slower storage than any other configuration",
+      "url": "https://appleinsider.com/articles/26/09/23/base-mac-mini-still-has-slower-storage-than-any-other-configuration?utm_source=rss",
+      "pubDate": "2026-09-23T13:36:15.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "tvOS 27.2 adds new HomePod surround sound feature to Apple TV 4K [U]",
+      "url": "https://9to5mac.com/2026/09/23/tvos-27-2-adds-new-homepod-surround-sound-feature-to-apple-tv-4k/",
+      "pubDate": "2026-09-23T13:36:11.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "AirTag stalking victim says iPhone didn't warn her, so she's suing Apple",
+      "url": "https://appleinsider.com/articles/26/09/23/airtag-stalking-victim-says-iphone-didnt-warn-her-so-shes-suing-apple?utm_source=rss",
+      "pubDate": "2026-09-23T13:12:24.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 gives Apple Mail my most wished for feature upgrade",
+      "url": "https://9to5mac.com/2026/09/23/ios-27-gives-apple-mail-my-most-wished-for-feature-upgrade/",
+      "pubDate": "2026-09-23T13:10:17.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "AT&T seemingly has no plans to support Apple’s new iPhone Handoff feature",
+      "url": "https://9to5mac.com/2026/09/23/att-iphone-handoff-support/",
+      "pubDate": "2026-09-23T12:53:56.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "This Mac mini gaming handheld is one of the most ambitious projects we've seen",
+      "url": "https://appleinsider.com/articles/26/09/23/this-mac-mini-gaming-handheld-is-one-of-the-most-ambitious-projects-weve-seen?utm_source=rss",
+      "pubDate": "2026-09-23T12:42:11.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple Card Savings interest rate edges up to 3.5%",
+      "url": "https://appleinsider.com/articles/26/09/23/apple-card-savings-interest-rate-edges-up-to-35?utm_source=rss",
+      "pubDate": "2026-09-23T11:57:33.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "New iPhone Setting Lets Users Shake Off Motion-Sensing Ads",
+      "url": "https://www.macrumors.com/2026/09/23/iphone-setting-shake-off-motion-sensing-ads/",
+      "pubDate": "2026-09-23T11:49:55.000Z"
+    },
+    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Apple increases interest rate for Apple Card Savings Account",
@@ -31,23 +255,9 @@
       "pubDate": "2026-09-23T11:18:16.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
-      "pubDate": "2026-09-23T11:02:39.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Eight Sleep’s new cooling hub is small enough to hide under your bed",
-      "url": "https://www.theverge.com/tech/999018/eight-sleep-pod-6-intelligent-sleep-system-sensors-health-tracking",
-      "pubDate": "2026-09-23T11:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Intelligence Taking up 30GB+ on Some Macs Running macOS 27",
+      "title": "Apple Intelligence Taking Up 30GB+ on Some Macs Running macOS 27",
       "url": "https://www.macrumors.com/2026/09/23/apple-intelligence-30gb-some-macs-macos-27/",
       "pubDate": "2026-09-23T10:30:15.000Z"
     },
@@ -94,13 +304,6 @@
       "pubDate": "2026-09-23T00:32:42.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
-      "pubDate": "2026-09-23T00:17:17.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Apple Pay just got even better with four new features and more",
@@ -122,60 +325,11 @@
       "pubDate": "2026-09-22T23:15:53.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple releases first iOS 27.2 public beta with new iPhone Health app",
-      "url": "https://9to5mac.com/2026/09/22/apple-releases-first-ios-27-2-public-beta-with-new-iphone-health-app/",
-      "pubDate": "2026-09-22T23:06:29.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple rolls out second RCs for macOS Tahoe 26.7.1 and macOS Sequoia 15.8.1 [U: Public]",
-      "url": "https://9to5mac.com/2026/09/22/apple-rolls-out-second-release-candidates-for-macos-tahoe-26-7-1-and-macos-sequoia-15-8-1/",
-      "pubDate": "2026-09-22T23:05:25.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple releases macOS 27.2 Golden Gate public beta 1",
-      "url": "https://9to5mac.com/2026/09/22/apple-releases-macos-27-2-golden-gate-public-beta-1/",
-      "pubDate": "2026-09-22T23:01:35.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "macOS 27 gives you more control over Liquid Glass",
-      "url": "https://9to5mac.com/2026/09/22/macos-27-gives-you-more-control-over-liquid-glass/",
-      "pubDate": "2026-09-22T22:47:12.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Paramount will need to release way more movies to make this merger work",
-      "url": "https://www.theverge.com/entertainment/999056/paramount-warner-bros-discovery-merger-annual-film-quota-guardrails",
-      "pubDate": "2026-09-22T22:26:07.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple expands Tap to Pay on iPhone to eight more Latin American countries",
       "url": "https://appleinsider.com/articles/26/09/22/apple-expands-tap-to-pay-on-iphone-to-eight-more-latin-american-countries?utm_source=rss",
       "pubDate": "2026-09-22T22:19:23.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple expands Tap to Pay on iPhone across eight Latin American markets",
-      "url": "https://9to5mac.com/2026/09/22/apple-expands-tap-to-pay-on-iphone-across-eight-latin-american-markets/",
-      "pubDate": "2026-09-22T21:50:44.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple adds RAW support for 11 digital cameras across iPhone, iPad, Mac, and Vision Pro",
-      "url": "https://9to5mac.com/2026/09/22/apple-adds-raw-support-for-11-digital-cameras-across-iphone-ipad-mac-and-vision-pro/",
-      "pubDate": "2026-09-22T21:19:53.000Z"
     },
     {
       "source": "MacRumors",
@@ -185,55 +339,6 @@
       "pubDate": "2026-09-22T20:58:32.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
-      "pubDate": "2026-09-22T20:52:40.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple Maps blurring alleged detention centers in China, claims local laws require it",
-      "url": "https://appleinsider.com/articles/26/09/22/apple-maps-blurring-alleged-detention-centers-in-china-claims-local-laws-require-it?utm_source=rss",
-      "pubDate": "2026-09-22T20:52:08.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Tim Cook meets EU chief Ursula von der Leyen as bloc pushes new child safety rules",
-      "url": "https://9to5mac.com/2026/09/22/tim-cook-meets-eu-chief-ursula-von-der-leyen-as-bloc-pushes-new-child-safety-rules/",
-      "pubDate": "2026-09-22T20:40:44.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Saudi Arabia’s new Exobot EVs make the Cybertruck look normal",
-      "url": "https://www.theverge.com/transportation/998791/ceer-ev-saudi-arabia-foxconn-exobot",
-      "pubDate": "2026-09-22T20:14:54.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Qualcomm’s Snapdragon 8 Elite Gen 6 comes in an Extreme version too",
-      "url": "https://www.theverge.com/gadgets/998842/qualcomm-snapdragon-8-elite-extreme-gen-6",
-      "pubDate": "2026-09-22T20:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Motorola’s wild-looking Signature 27 runs Qualcomm’s new Extreme chipset",
-      "url": "https://www.theverge.com/tech/998844/motorola-signature-27-specs-snapdragon-8-elite-extreme-gen-6",
-      "pubDate": "2026-09-22T20:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple clarifies that Texture and Grain controls are exclusive to the latest iPhones’ cameras",
-      "url": "https://www.theverge.com/tech/998874/apple-iphone-18-pro-ios-27-camera-texture-grain-photographic-style",
-      "pubDate": "2026-09-22T19:48:08.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Park Visitor Center Just Lost an Attraction Offered Since 2017",
@@ -241,116 +346,11 @@
       "pubDate": "2026-09-22T19:42:26.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Shazam App for iPhone Updated With New Icon and iMessage Stickers",
-      "url": "https://www.macrumors.com/2026/09/22/shazam-app-new-icon-and-stickers/",
-      "pubDate": "2026-09-22T19:40:52.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Score free Pixel Buds 2A when you preorder a Googlebook at Best Buy",
-      "url": "https://www.theverge.com/gadgets/998932/googlebook-preorder-pixel-buds-2a-deal-sale",
-      "pubDate": "2026-09-22T19:28:55.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Anthropic Launches Claude Opus 5.5 With Fable-Level Performance at a Lower Price",
-      "url": "https://www.macrumors.com/2026/09/22/anthropic-claude-opus-5-5/",
-      "pubDate": "2026-09-22T19:23:31.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple's pendant project is on hold despite its AI push",
-      "url": "https://appleinsider.com/articles/26/09/22/apples-pendant-project-is-on-hold-despite-its-ai-push?utm_source=rss",
-      "pubDate": "2026-09-22T18:48:48.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Amicus briefs show strong support of Apple's arguments ahead of Epic Supreme Court judgement",
-      "url": "https://appleinsider.com/articles/26/09/22/amicus-briefs-show-strong-support-of-apples-arguments-ahead-of-epic-supreme-court-judgement?utm_source=rss",
-      "pubDate": "2026-09-22T18:34:26.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "M5 Pro Mac mini vs. M4 Pro Mac mini compared: Specs, hardware, price",
-      "url": "https://appleinsider.com/articles/26/09/22/m5-pro-mac-mini-vs-m4-pro-mac-mini-compared-specs-hardware-price?utm_source=rss",
-      "pubDate": "2026-09-22T18:18:32.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple Maps & Apple Podcasts join forces for Hidden Histories guides & episodes",
-      "url": "https://appleinsider.com/articles/26/09/22/apple-maps-apple-podcasts-join-forces-for-hidden-histories-guides-episodes?utm_source=rss",
-      "pubDate": "2026-09-22T18:15:44.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Releases Firmware Update for Beats 360",
-      "url": "https://www.macrumors.com/2026/09/22/apple-beats-360-firmware-update/",
-      "pubDate": "2026-09-22T18:05:40.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Beats 360 Pre-Orders Open at Amazon With Cushion Kits on Sale, Plus More Beats Deals",
-      "url": "https://www.macrumors.com/2026/09/22/beats-360-pre-orders-open-amazon/",
-      "pubDate": "2026-09-22T17:40:24.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Puts AirTag-Sized AI Pin on Hold",
-      "url": "https://www.macrumors.com/2026/09/22/apple-pauses-ai-pin-development/",
-      "pubDate": "2026-09-22T17:23:38.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Beats 360 Ear Cushion Kits Just $9.99 Each Until the End of October",
-      "url": "https://www.macrumors.com/2026/09/22/beats-360-ear-cushions-special-pricing/",
-      "pubDate": "2026-09-22T17:11:31.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Future Apple Watch could be screen-less Whoop competitor, says rumor",
-      "url": "https://appleinsider.com/articles/26/09/22/future-apple-watch-could-be-screen-less-whoop-competitor-says-rumor?utm_source=rss",
-      "pubDate": "2026-09-22T17:10:37.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple government liaison Tim Cook talked child safety at the UN General Assembly",
-      "url": "https://appleinsider.com/articles/26/09/22/apple-government-liaison-tim-cook-talked-child-safety-at-the-un-general-assembly?utm_source=rss",
-      "pubDate": "2026-09-22T16:21:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Save $600 on these M5 Max MacBook Pros with month-end deals",
-      "url": "https://appleinsider.com/articles/26/09/22/save-600-on-these-m5-max-macbook-pros-with-month-end-deals?utm_source=rss",
-      "pubDate": "2026-09-22T16:20:10.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "When your Mac just won’t let go of the Wi-Fi connection",
       "url": "https://sixcolors.com/post/2026/09/when-your-mac-just-wont-let-go-of-the-wi-fi-connection/",
       "pubDate": "2026-09-22T16:05:53.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Brighter, lower-power iPhone OLED screens now delayed to 2029",
-      "url": "https://appleinsider.com/articles/26/09/22/brighter-lower-power-iphone-oled-screens-now-delayed-to-2029?utm_source=rss",
-      "pubDate": "2026-09-22T14:46:36.000Z"
     },
     {
       "source": "Six Colors",
