@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T00:37:40.154Z",
+  "generatedAt": "2026-09-23T06:00:04.018Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "New Mac Mini Has Two Storage Downsides, Including Unremovable SSD",
+      "url": "https://www.macrumors.com/2026/09/22/new-mac-mini-ssd-cant-be-removed/",
+      "pubDate": "2026-09-23T03:23:19.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Card Savings Account's Interest Rate Just Went Up",
+      "url": "https://www.macrumors.com/2026/09/22/apple-card-savings-interest-rate-increase/",
+      "pubDate": "2026-09-23T02:47:01.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "How to add third-party cards to Apple Wallet app in iOS 27",
+      "url": "https://appleinsider.com/inside/ios-26/tips/how-to-add-third-party-cards-to-apple-wallet-app-in-ios-26?utm_source=rss",
+      "pubDate": "2026-09-23T02:25:54.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "‘Brothers,’ starring Matthew McConaughey and Woody Harrelson, premieres on Apple TV",
+      "url": "https://9to5mac.com/2026/09/22/brothers-starring-matthew-mcconaughey-and-woody-harrelson-premieres-on-apple-tv/",
+      "pubDate": "2026-09-23T01:01:41.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -171,13 +199,6 @@
       "pubDate": "2026-09-22T20:00:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple TV: ‘The Sisters Grimm’ gets season 2 trailer ahead of October premiere",
-      "url": "https://9to5mac.com/2026/09/22/apple-tv-the-sisters-grimm-gets-season-2-trailer-ahead-of-october-premiere/",
-      "pubDate": "2026-09-22T19:55:56.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Apple clarifies that Texture and Grain controls are exclusive to the latest iPhones’ cameras",
@@ -273,7 +294,7 @@
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Puts AirTag-Sized AI Pin on Hold",
       "url": "https://www.macrumors.com/2026/09/22/apple-pauses-ai-pin-development/",
-      "pubDate": "2026-09-22T17:23:42.000Z"
+      "pubDate": "2026-09-22T17:23:38.000Z"
     },
     {
       "source": "MacRumors",
@@ -311,20 +332,6 @@
       "pubDate": "2026-09-22T16:20:10.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Will Soon Announce an All-New Operating System",
-      "url": "https://www.macrumors.com/2026/09/22/apple-working-on-an-all-new-operating-system/",
-      "pubDate": "2026-09-22T16:19:57.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Watch Series 10 vs. Series 12 Buyer's Guide: Should You Upgrade?",
-      "url": "https://www.macrumors.com/guide/apple-watch-series-10-vs-12/",
-      "pubDate": "2026-09-22T16:13:36.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "When your Mac just won’t let go of the Wi-Fi connection",
@@ -337,13 +344,6 @@
       "title": "Brighter, lower-power iPhone OLED screens now delayed to 2029",
       "url": "https://appleinsider.com/articles/26/09/22/brighter-lower-power-iphone-oled-screens-now-delayed-to-2029?utm_source=rss",
       "pubDate": "2026-09-22T14:46:36.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Beats 360 vs AirPods Max 2: Premium personal audio compared",
-      "url": "https://appleinsider.com/inside/airpods-max/vs/beats-360-vs-airpods-max-2-premium-personal-audio-compared?utm_source=rss",
-      "pubDate": "2026-09-22T14:01:13.000Z"
     },
     {
       "source": "Six Colors",
