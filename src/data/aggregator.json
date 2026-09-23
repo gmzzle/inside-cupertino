@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T06:00:04.018Z",
+  "generatedAt": "2026-09-23T11:40:27.814Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,41 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple increases interest rate for Apple Card Savings Account",
+      "url": "https://9to5mac.com/2026/09/23/apple-increases-interest-rate-for-apple-card-savings-account/",
+      "pubDate": "2026-09-23T11:18:16.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
+      "pubDate": "2026-09-23T11:02:39.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Eight Sleep’s new cooling hub is small enough to hide under your bed",
+      "url": "https://www.theverge.com/tech/999018/eight-sleep-pod-6-intelligent-sleep-system-sensors-health-tracking",
+      "pubDate": "2026-09-23T11:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Intelligence Taking up 30GB+ on Some Macs Running macOS 27",
+      "url": "https://www.macrumors.com/2026/09/23/apple-intelligence-30gb-some-macs-macos-27/",
+      "pubDate": "2026-09-23T10:30:15.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) Designed in California 9: Apple’s Mac OS Crisis: Who’s NeXT? (Part 5)",
+      "url": "https://sixcolors.com/podcast/2026/09/designed-in-california-9-apples-mac-os-crisis-whos-next-part-5/",
+      "pubDate": "2026-09-23T09:25:08.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -171,13 +206,6 @@
       "pubDate": "2026-09-22T20:40:44.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple retires the Apple Park Visitor Center’s unique AR experience",
-      "url": "https://9to5mac.com/2026/09/22/apple-retires-the-apple-park-visitor-centers-unique-ar-experience/",
-      "pubDate": "2026-09-22T20:27:07.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Saudi Arabia’s new Exobot EVs make the Cybertruck look normal",
@@ -262,25 +290,11 @@
       "pubDate": "2026-09-22T18:15:44.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Save $30 on Apple’s Magic Keyboard with Touch ID and a numpad",
-      "url": "https://www.theverge.com/gadgets/998824/apple-magic-keyboard-touch-interstellar-4k-blu-ray-deal-sale",
-      "pubDate": "2026-09-22T18:10:57.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Releases Firmware Update for Beats 360",
       "url": "https://www.macrumors.com/2026/09/22/apple-beats-360-firmware-update/",
       "pubDate": "2026-09-22T18:05:40.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "San Francisco sues Trump Media for selling early access to Trump posts",
-      "url": "https://www.theverge.com/tech/998914/trump-truth-social-api-lawsuit-san-francisco",
-      "pubDate": "2026-09-22T17:43:50.000Z"
     },
     {
       "source": "MacRumors",
@@ -309,13 +323,6 @@
       "title": "Future Apple Watch could be screen-less Whoop competitor, says rumor",
       "url": "https://appleinsider.com/articles/26/09/22/future-apple-watch-could-be-screen-less-whoop-competitor-says-rumor?utm_source=rss",
       "pubDate": "2026-09-22T17:10:37.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Testing Prototypes of Whoop-Like Screenless Fitness Band",
-      "url": "https://www.macrumors.com/2026/09/22/apple-screenless-fitness-band/",
-      "pubDate": "2026-09-22T16:48:37.000Z"
     },
     {
       "source": "AppleInsider",
@@ -365,13 +372,6 @@
       "title": "Apple adds mode to temporarily limit the iPhone 18 Pro Max battery for shipping ↦",
       "url": "https://sixcolors.com/link/2026/09/apple-adds-mode-to-temporarily-limit-the-iphone-18-pro-max-battery-for-shipping/",
       "pubDate": "2026-09-21T13:22:33.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "M6 Mac mini review: Tiny, pricey, and powerful",
-      "url": "https://sixcolors.com/post/2026/09/m6-mac-mini-review-tiny-pricey-and-powerful/",
-      "pubDate": "2026-09-21T13:00:53.000Z"
     }
   ]
 }
