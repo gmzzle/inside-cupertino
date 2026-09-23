@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T17:03:56.841Z",
+  "generatedAt": "2026-09-23T20:24:35.460Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,132 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iOS 27.0.1 is Coming Soon",
+      "url": "https://www.macrumors.com/2026/09/23/ios-27-0-1-is-coming-soon/",
+      "pubDate": "2026-09-23T20:06:31.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple releases watchOS 27.0.1 to fix Apple Watch Series 12 and Ultra 4 bug",
+      "url": "https://9to5mac.com/2026/09/23/apple-releases-watchos-27-0-1-to-fix-apple-watch-series-12-and-ultra-4-bug/",
+      "pubDate": "2026-09-23T19:58:59.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Releases watchOS 27.0.1 With Fix for Restart Bug",
+      "url": "https://www.macrumors.com/2026/09/23/watchos-27-0-1-release/",
+      "pubDate": "2026-09-23T19:44:49.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Disney+ and Hulu Raise Prices Again, Ad-Free Plans Now $21.49",
+      "url": "https://www.macrumors.com/2026/09/23/disney-plus-hulu-price-increase/",
+      "pubDate": "2026-09-23T19:10:14.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Sports App Updated With Even More Soccer Leagues",
+      "url": "https://www.macrumors.com/2026/09/23/apple-sports-more-soccer-leagues/",
+      "pubDate": "2026-09-23T19:07:22.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Meta’s AI agent is a cute little guy who’s great at spending my money",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping",
+      "pubDate": "2026-09-23T19:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Here’s everything new for Apple Calendar in iOS 27",
+      "url": "https://9to5mac.com/2026/09/23/heres-everything-new-for-apple-calendar-in-ios-27/",
+      "pubDate": "2026-09-23T18:57:08.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Siri AI upgrade is certain for a future HomePod mini update",
+      "url": "https://appleinsider.com/articles/26/09/23/siri-ai-upgrade-is-certain-for-a-future-homepod-mini-update?utm_source=rss",
+      "pubDate": "2026-09-23T18:30:15.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Data centers are black boxes, but California wants to change that",
+      "url": "https://www.theverge.com/policy/999412/data-center-water-electricity-disclosure-bills",
+      "pubDate": "2026-09-23T18:22:57.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) Clockwise 675: I’m Very Used to Suffering",
+      "url": "https://sixcolors.com/podcast/2026/09/clockwise-675-im-very-used-to-suffering/",
+      "pubDate": "2026-09-23T18:19:06.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: September 23, 2026 – Apple wearable rumors, more",
+      "url": "https://9to5mac.com/2026/09/23/daily-september-23-2026/",
+      "pubDate": "2026-09-23T18:12:42.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Here’s everything new Apple TV has coming in October",
+      "url": "https://9to5mac.com/2026/09/23/heres-everything-new-apple-tv-has-coming-in-october-2026/",
+      "pubDate": "2026-09-23T18:05:35.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Anthropic&#8217;s biolab made a discovery it&#8217;s comparing to Crispr",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
+      "pubDate": "2026-09-23T18:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27.2: New features, release date, more",
+      "url": "https://9to5mac.com/2026/09/23/ios-27-2-new-features-release-date/",
+      "pubDate": "2026-09-23T17:41:42.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "OpenAI just upgraded ChatGPT Voice in three ways",
+      "url": "https://9to5mac.com/2026/09/23/openai-just-upgraded-chatgpt-voice-in-three-ways/",
+      "pubDate": "2026-09-23T17:24:11.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Here’s what Siri AI looks like on HomePod, per leak",
+      "url": "https://9to5mac.com/2026/09/23/heres-what-siri-ai-looks-like-on-homepod-per-leak/",
+      "pubDate": "2026-09-23T17:17:24.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "AirTag 2 4-Pack Hits $79.99 on Amazon, Matching Record Low",
+      "url": "https://www.macrumors.com/2026/09/23/airtag-2-4-pack-hits-79-99/",
+      "pubDate": "2026-09-23T17:13:12.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Siri AI Coming to HomePod",
+      "url": "https://www.macrumors.com/2026/09/23/siri-ai-coming-to-homepod/",
+      "pubDate": "2026-09-23T17:04:48.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -68,7 +194,7 @@
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
-      "title": "Xbox’s Mythic achievements sound like PlayStation’s Platinum trophy",
+      "title": "Xbox’s Mythic Achievements sound like PlayStation’s Platinum trophy",
       "url": "https://www.theverge.com/news/999404/xbox-mythic-achievement-feature",
       "pubDate": "2026-09-23T15:45:11.000Z"
     },
@@ -136,13 +262,6 @@
       "pubDate": "2026-09-23T14:30:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Discord will now automatically estimate your age",
-      "url": "https://www.theverge.com/tech/999305/discord-updated-age-assurance-global-rollout",
-      "pubDate": "2026-09-23T14:27:49.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Podcasts Subscriptions Will Soon Support Video",
@@ -171,25 +290,18 @@
       "pubDate": "2026-09-23T14:06:09.000Z"
     },
     {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) The Rebound 617: HairTag",
+      "url": "https://sixcolors.com/podcast/2026/09/the-rebound-617-hairtag/",
+      "pubDate": "2026-09-23T14:00:00.000Z"
+    },
+    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Launch Discounts Arrive for New Mac Mini and Mac Studio, Plus Massive Deal on Samsung's Portable SSD",
       "url": "https://www.macrumors.com/2026/09/23/launch-mac-mini-studio-deals/",
       "pubDate": "2026-09-23T13:54:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "McDonald’s is testing ads on its drive-thru menus",
-      "url": "https://www.theverge.com/tech/999295/mcdonalds-drive-thru-menu-ads",
-      "pubDate": "2026-09-23T13:52:39.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Nobody does it like Remedy",
-      "url": "https://www.theverge.com/games/999268/control-resonant-review-ps5-xbox",
-      "pubDate": "2026-09-23T13:45:00.000Z"
     },
     {
       "source": "AppleInsider",
@@ -213,20 +325,6 @@
       "pubDate": "2026-09-23T13:12:24.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 gives Apple Mail my most wished for feature upgrade",
-      "url": "https://9to5mac.com/2026/09/23/ios-27-gives-apple-mail-my-most-wished-for-feature-upgrade/",
-      "pubDate": "2026-09-23T13:10:17.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "AT&T seemingly has no plans to support Apple’s new iPhone Handoff feature",
-      "url": "https://9to5mac.com/2026/09/23/att-iphone-handoff-support/",
-      "pubDate": "2026-09-23T12:53:56.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "This Mac mini gaming handheld is one of the most ambitious projects we've seen",
@@ -248,20 +346,6 @@
       "pubDate": "2026-09-23T11:49:55.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple increases interest rate for Apple Card Savings Account",
-      "url": "https://9to5mac.com/2026/09/23/apple-increases-interest-rate-for-apple-card-savings-account/",
-      "pubDate": "2026-09-23T11:18:16.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Intelligence Taking Up 30GB+ on Some Macs Running macOS 27",
-      "url": "https://www.macrumors.com/2026/09/23/apple-intelligence-30gb-some-macs-macos-27/",
-      "pubDate": "2026-09-23T10:30:15.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) Designed in California 9: Apple’s Mac OS Crisis: Who’s NeXT? (Part 5)",
@@ -269,81 +353,11 @@
       "pubDate": "2026-09-23T09:25:08.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "New Mac Mini Has Two Storage Downsides, Including Unremovable SSD",
-      "url": "https://www.macrumors.com/2026/09/22/new-mac-mini-ssd-cant-be-removed/",
-      "pubDate": "2026-09-23T03:23:19.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Card Savings Account's Interest Rate Just Went Up",
-      "url": "https://www.macrumors.com/2026/09/22/apple-card-savings-interest-rate-increase/",
-      "pubDate": "2026-09-23T02:47:01.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "How to add third-party cards to Apple Wallet app in iOS 27",
       "url": "https://appleinsider.com/inside/ios-26/tips/how-to-add-third-party-cards-to-apple-wallet-app-in-ios-26?utm_source=rss",
       "pubDate": "2026-09-23T02:25:54.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "‘Brothers,’ starring Matthew McConaughey and Woody Harrelson, premieres on Apple TV",
-      "url": "https://9to5mac.com/2026/09/22/brothers-starring-matthew-mcconaughey-and-woody-harrelson-premieres-on-apple-tv/",
-      "pubDate": "2026-09-23T01:01:41.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Public beta debuts for iPadOS 27.2 and more, here’s what’s new",
-      "url": "https://9to5mac.com/2026/09/22/public-beta-debuts-for-ipados-27-2-and-more-heres-whats-new/",
-      "pubDate": "2026-09-23T00:32:42.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Pay just got even better with four new features and more",
-      "url": "https://9to5mac.com/2026/09/22/apple-pay-is-getting-even-better-with-four-new-features/",
-      "pubDate": "2026-09-22T23:57:57.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "U.S. government urges Supreme Court to reverse Apple contempt ruling over App Store commission",
-      "url": "https://9to5mac.com/2026/09/22/u-s-government-urges-supreme-court-to-reverse-apple-contempt-ruling-over-app-store-commission/",
-      "pubDate": "2026-09-22T23:43:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Releases First Public Betas of iOS 27.2 and macOS Golden Gate 27.2",
-      "url": "https://www.macrumors.com/2026/09/22/apple-releases-ios-27-2-public-beta/",
-      "pubDate": "2026-09-22T23:15:53.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple expands Tap to Pay on iPhone to eight more Latin American countries",
-      "url": "https://appleinsider.com/articles/26/09/22/apple-expands-tap-to-pay-on-iphone-to-eight-more-latin-american-countries?utm_source=rss",
-      "pubDate": "2026-09-22T22:19:23.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "OpenAI's New GPT-6 Sol and Luna Models Bring Astra Improvements to Cheaper Tiers",
-      "url": "https://www.macrumors.com/2026/09/22/openai-gpt-6-sol-luna/",
-      "pubDate": "2026-09-22T20:58:32.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Park Visitor Center Just Lost an Attraction Offered Since 2017",
-      "url": "https://www.macrumors.com/2026/09/22/apple-park-visitor-center-loses-exhibition/",
-      "pubDate": "2026-09-22T19:42:26.000Z"
     },
     {
       "source": "Six Colors",
@@ -358,20 +372,6 @@
       "title": "(Podcast) Upgrade 638: I Stared Directly into the M6",
       "url": "https://sixcolors.com/podcast/2026/09/upgrade-638-i-stared-directly-into-the-m6/",
       "pubDate": "2026-09-21T22:01:23.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Sponsor) COHERENCE X6: Turn websites into Chromium-powered Mac apps that behave like Mac apps",
-      "url": "https://sixcolors.com/feed-only/2026/09/coherence-x6-turn-websites-into-chromium-powered-mac-apps-that-behave-like-mac-apps/",
-      "pubDate": "2026-09-21T16:00:42.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Apple adds mode to temporarily limit the iPhone 18 Pro Max battery for shipping ↦",
-      "url": "https://sixcolors.com/link/2026/09/apple-adds-mode-to-temporarily-limit-the-iphone-18-pro-max-battery-for-shipping/",
-      "pubDate": "2026-09-21T13:22:33.000Z"
     }
   ]
 }
