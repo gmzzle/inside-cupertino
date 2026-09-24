@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T19:11:55.324Z",
+  "generatedAt": "2026-09-24T22:27:35.060Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,48 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "M6 Mac mini review, Apple fitness band rumors, Apple AI servers",
+      "url": "https://9to5mac.com/2026/09/24/happy-hour-609/",
+      "pubDate": "2026-09-24T20:43:14.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Google Photos Wardrobe Feature Comes to iOS",
+      "url": "https://www.macrumors.com/2026/09/24/google-photos-wardrobe-ios/",
+      "pubDate": "2026-09-24T20:33:15.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
+      "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+      "pubDate": "2026-09-24T19:59:26.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Maps just added two new features in iOS 27",
+      "url": "https://9to5mac.com/2026/09/24/heres-everything-new-for-apple-maps-in-ios-27/",
+      "pubDate": "2026-09-24T19:55:15.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Music to Host Free Head Trip Festival Livestream",
+      "url": "https://www.macrumors.com/2026/09/24/apple-music-head-trip-livestream/",
+      "pubDate": "2026-09-24T19:48:43.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "macOS 27 Top Features: much more than just Siri AI [Video]",
+      "url": "https://9to5mac.com/2026/09/24/macos-27-top-features-much-more-than-just-siri-ai-video/",
+      "pubDate": "2026-09-24T19:13:04.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -157,13 +199,6 @@
       "pubDate": "2026-09-24T16:04:31.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Xbox reset gets ugly",
-      "url": "https://www.theverge.com/tech/999919/microsoft-xbox-reorganization-activision-notepad",
-      "pubDate": "2026-09-24T16:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Watch Ultra 2 vs. Ultra 4 Buyer's Guide: Should You Upgrade?",
@@ -255,13 +290,6 @@
       "pubDate": "2026-09-24T14:08:08.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Square now integrates with Apple Business to improve Maps listings",
-      "url": "https://9to5mac.com/2026/09/24/square-now-integrates-with-apple-business-to-improve-maps-listings/",
-      "pubDate": "2026-09-24T14:03:21.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "AirPods Pro 3 on Sale for $199 This Week on Amazon",
@@ -283,32 +311,11 @@
       "pubDate": "2026-09-24T13:31:55.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple TV reveals new series with Hugh Laurie as organized crime boss",
-      "url": "https://9to5mac.com/2026/09/24/apple-tv-reveals-new-series-with-hugh-laurie-as-organized-crime-boss/",
-      "pubDate": "2026-09-24T13:29:47.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Confirms iPhone 18 Pro Bug Fix Update is Coming Next Week",
       "url": "https://www.macrumors.com/2026/09/24/apple-confirms-iphone-18-pro-fix-coming/",
       "pubDate": "2026-09-24T13:10:31.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Adobe expands creative tool access to Google Gemini, brings Acrobat to Claude",
-      "url": "https://9to5mac.com/2026/09/24/adobe-expands-creative-tool-access-to-google-gemini-brings-acrobat-to-claude/",
-      "pubDate": "2026-09-24T13:00:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Full iPhone 4 'Antennagate' Q&A Video Surfaces After 16 Years",
-      "url": "https://www.macrumors.com/2026/09/24/iphone-4-antennagate-qa-video-surfaces/",
-      "pubDate": "2026-09-24T12:39:34.000Z"
     },
     {
       "source": "AppleInsider",
@@ -323,13 +330,6 @@
       "title": "iPhone 18 Pro Face ID rebooting bug to be fixed in iOS update",
       "url": "https://appleinsider.com/articles/26/09/24/iphone-18-pro-face-id-rebooting-bug-to-be-fixed-in-ios-update?utm_source=rss",
       "pubDate": "2026-09-24T11:16:29.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Meta Did a 'One More Thing' and It's an AI Tamagotchi",
-      "url": "https://www.macrumors.com/2026/09/24/meta-did-a-one-more-thing-and-its-an-ai-tamagotchi/",
-      "pubDate": "2026-09-24T08:54:11.000Z"
     },
     {
       "source": "AppleInsider",
