@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T13:50:04.163Z",
+  "generatedAt": "2026-09-25T18:38:38.153Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,18 +24,284 @@
   ],
   "items": [
     {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Roku&#8217;s first OLED TVs are up to $400 off, starting at $699",
+      "url": "https://www.theverge.com/gadgets/1000859/roku-pro-series-oled-nothing-phone-4a-pro-deal-sale",
+      "pubDate": "2026-09-25T18:18:57.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Amazon's $199 Discount on Apple Watch Ultra 3 Returns to Help Clear Stock",
+      "url": "https://www.macrumors.com/2026/09/25/apple-watch-ultra-3-returns/",
+      "pubDate": "2026-09-25T18:17:02.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Thousands of banks can now sue over Apple Pay fees in one antitrust case",
+      "url": "https://appleinsider.com/articles/26/09/25/thousands-of-banks-can-now-sue-over-apple-pay-fees-in-one-antitrust-case?utm_source=rss",
+      "pubDate": "2026-09-25T18:15:26.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Sponsor) Coherence X6",
+      "url": "https://sixcolors.com/sponsor/2026/09/coherence-x6/",
+      "pubDate": "2026-09-25T18:00:05.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple Intelligence is coming to the the next entry-level iPad",
+      "url": "https://appleinsider.com/articles/26/09/25/apple-intelligence-is-coming-to-the-the-next-entry-level-ipad?utm_source=rss",
+      "pubDate": "2026-09-25T17:56:32.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "MacRumors Giveaway: Win an Apple Watch Ultra 4 From Lululook",
+      "url": "https://www.macrumors.com/2026/09/25/macrumors-giveaway-lululook-ultra-4/",
+      "pubDate": "2026-09-25T17:56:23.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Phones don’t have lights",
+      "url": "https://www.theverge.com/podcast/1000751/vergecast-meta-connect-muse-googlebooks",
+      "pubDate": "2026-09-25T17:42:59.000Z"
+    },
+    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone Duo video shows left-handed use for new model",
-      "url": "https://9to5mac.com/2026/09/25/iphone-duo-video-shows-left-handed-use-for-new-model/",
-      "pubDate": "2026-09-25T13:45:26.000Z"
+      "title": "tvOS 27 to add screensaver sound effects on Apple TV 4K, per leak",
+      "url": "https://9to5mac.com/2026/09/25/tvos-27-to-add-screensaver-sound-effects-on-apple-tv-4k-per-leak/",
+      "pubDate": "2026-09-25T17:28:48.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "These camera apps give you more control over the iPhone 18 Pro’s aperture",
+      "url": "https://www.theverge.com/tech/1000729/moment-pro-blackmagic-camera-ii-ios-app-iphone-18-pro-max-aperature-camera",
+      "pubDate": "2026-09-25T17:23:30.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Code Confirms iPad 12 Specs: A19, 8GB RAM, N1, C1X Modem",
+      "url": "https://www.macrumors.com/2026/09/25/ipad-12-feature-leak/",
+      "pubDate": "2026-09-25T17:12:42.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: September 25, 2026 – New AirPods features, iOS 27.2 tidbits",
+      "url": "https://9to5mac.com/2026/09/25/daily-september-25-2026/",
+      "pubDate": "2026-09-25T17:06:46.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "watchOS 27 upgrades popular Apple Watch face with new options",
+      "url": "https://9to5mac.com/2026/09/25/watchos-27-upgrades-popular-apple-watch-face-with-new-options/",
+      "pubDate": "2026-09-25T17:05:14.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Some iPhone 18 Pro Max Users Experiencing AT&T Cellular Issues",
+      "url": "https://www.macrumors.com/2026/09/25/iphone-18-pro-max-att-cellular-issues/",
+      "pubDate": "2026-09-25T17:02:15.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Tesla&#8217;s Optimus robot is going through growing pains",
+      "url": "https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands",
+      "pubDate": "2026-09-25T17:01:36.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Launch Week Deals Hit Latest Macs, Apple Watch Ultra 4, and Apple Accessories",
+      "url": "https://www.macrumors.com/2026/09/25/best-apple-deals-of-the-week-9-25-26/",
+      "pubDate": "2026-09-25T16:54:09.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Meta makes the Muse filesystem even more accessible",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
+      "pubDate": "2026-09-25T16:49:53.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Leaks reveal a new Apple HomePod mini, iPad mini, and Apple TV 4K",
+      "url": "https://www.theverge.com/tech/1000772/apple-code-leak-homepod-mini-2-ipad-mini-8-apple-tv-4k",
+      "pubDate": "2026-09-25T16:22:05.000Z"
     },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Interview: Why Ron Johnson says Apple had no choice but to gamble millions on retail",
       "url": "https://appleinsider.com/articles/26/09/25/interview-why-ron-johnson-says-apple-had-no-choice-but-to-gamble-millions-on-retail?utm_source=rss",
-      "pubDate": "2026-09-25T13:33:32.000Z"
+      "pubDate": "2026-09-25T16:06:58.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's next HomePod mini won't get a redesign, but will get some new colors",
+      "url": "https://appleinsider.com/articles/26/09/25/apples-next-homepod-mini-wont-get-a-redesign-but-will-get-some-new-colors?utm_source=rss",
+      "pubDate": "2026-09-25T15:59:16.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "The MacRumors Show: Tyler Stalman Talks iPhone 18 Pro's Camera",
+      "url": "https://www.macrumors.com/2026/09/25/the-macrumors-show-tyler-stalman-iphone-18-pro-camera/",
+      "pubDate": "2026-09-25T15:58:50.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iPad mini finally getting FaceTime camera move, leak suggests",
+      "url": "https://appleinsider.com/articles/26/09/25/ipad-mini-finally-getting-facetime-camera-move-leak-suggests?utm_source=rss",
+      "pubDate": "2026-09-25T15:54:28.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Sony and UMG are suing Suno again",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
+      "pubDate": "2026-09-25T15:51:56.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "New Apple TV 4K leak confirms a very familiar form factor",
+      "url": "https://appleinsider.com/articles/26/09/25/new-apple-tv-4k-leak-confirms-a-very-familiar-form-factor?utm_source=rss",
+      "pubDate": "2026-09-25T15:49:58.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "New iPad mini details revealed in latest leak",
+      "url": "https://9to5mac.com/2026/09/25/new-ipad-mini-details-revealed-in-latest-leak/",
+      "pubDate": "2026-09-25T15:40:06.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "One company is at the center of a wave of rogue AI attacks",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+      "pubDate": "2026-09-25T15:39:48.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Elton John announced as first Apple Music Hall gig",
+      "url": "https://appleinsider.com/articles/26/09/25/elton-john-announced-as-first-apple-music-hall-gig?utm_source=rss",
+      "pubDate": "2026-09-25T15:36:15.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple Watch Ultra 4 drops to $779 during weekend sale",
+      "url": "https://appleinsider.com/articles/26/09/25/apple-watch-ultra-4-drops-to-779-during-weekend-sale?utm_source=rss",
+      "pubDate": "2026-09-25T15:31:57.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Leaked images reveal new Apple TV 4K, HomePod mini",
+      "url": "https://9to5mac.com/2026/09/25/leaked-images-reveal-new-apple-tv-4k-homepod-mini/",
+      "pubDate": "2026-09-25T15:30:57.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Deals: Mac Studio, AirPods Pro 3, Powerbeats Pro 2, 2-pack Beats cables $14, smart doorbell 60% off, more",
+      "url": "https://9to5mac.com/2026/09/25/deals-mac-studio-airpods-pro-3-powerbeats/",
+      "pubDate": "2026-09-25T15:28:21.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPad Mini With A20 Pro, New HomePod Mini Colors, and New Apple TV 4K All Just Leaked",
+      "url": "https://www.macrumors.com/2026/09/25/new-ipad-mini-homepod-mini-apple-tv-leaked/",
+      "pubDate": "2026-09-25T15:18:34.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPad Mini 8 Leaked: A20 Pro Chip, Landscape Camera, and More",
+      "url": "https://www.macrumors.com/2026/09/25/ipad-mini-8-leaked/",
+      "pubDate": "2026-09-25T15:18:06.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Exclusive: First Look at HomePod Mini 2 in Three New Colors",
+      "url": "https://www.macrumors.com/2026/09/25/first-look-at-homepod-mini-2/",
+      "pubDate": "2026-09-25T15:17:25.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "New Apple TV 4K Leaked",
+      "url": "https://www.macrumors.com/2026/09/25/new-apple-tv-4k-leaked/",
+      "pubDate": "2026-09-25T15:16:44.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "One week with Apple Watch Series 12 (and just getting started)",
+      "url": "https://sixcolors.com/post/2026/09/one-week-with-apple-watch-series-12-and-just-getting-started/",
+      "pubDate": "2026-09-25T15:00:23.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "HomeKit Weekly: ULTRALOQ releases its first UWB smart lock that works with Apple Home",
+      "url": "https://9to5mac.com/2026/09/25/ultraloq-bolt-mission/",
+      "pubDate": "2026-09-25T15:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple has big October coming for new hardware and software, here’s the lineup",
+      "url": "https://9to5mac.com/2026/09/25/apple-has-big-october-coming-for-new-hardware-and-software-heres-the-lineup/",
+      "pubDate": "2026-09-25T14:44:02.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "The history of Apple Cards ↦",
+      "url": "https://sixcolors.com/link/2026/09/the-history-of-apple-cards/",
+      "pubDate": "2026-09-25T14:24:21.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Cricut&#8217;s new compact crafter prints, cuts, and laminates stickers",
+      "url": "https://www.theverge.com/tech/1000655/cricut-sticker-pix-print-cut-crafting-printer-machines-stickers",
+      "pubDate": "2026-09-25T14:21:25.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Gaming’s biggest horror series are more vital than ever",
+      "url": "https://www.theverge.com/entertainment/1000595/silent-hill-townfall-resident-evil",
+      "pubDate": "2026-09-25T14:10:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone Duo video shows left-handed use for new model",
+      "url": "https://9to5mac.com/2026/09/25/iphone-duo-video-shows-left-handed-use-for-new-model/",
+      "pubDate": "2026-09-25T13:45:26.000Z"
     },
     {
       "source": "AppleInsider",
@@ -52,32 +318,11 @@
       "pubDate": "2026-09-25T13:10:12.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
-      "url": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
-      "pubDate": "2026-09-25T13:00:00.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "AirPods just got a long-requested feature in new software update",
       "url": "https://9to5mac.com/2026/09/25/airpods-just-got-a-long-requested-feature-in-new-update/",
       "pubDate": "2026-09-25T12:04:47.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Insta360 conquered 360 cameras — now it’s eyeing glasses",
-      "url": "https://www.theverge.com/tech/999489/insta360-smart-glasses-mirrorless-interview",
-      "pubDate": "2026-09-25T12:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
-      "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
-      "pubDate": "2026-09-25T12:00:00.000Z"
     },
     {
       "source": "AppleInsider",
@@ -94,13 +339,6 @@
       "pubDate": "2026-09-25T11:26:59.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple Watch Ultra 4 review: An end-to-end health ecosystem",
-      "url": "https://appleinsider.com/articles/26/09/25/apple-watch-ultra-4-review-an-end-to-end-health-ecosystem?utm_source=rss",
-      "pubDate": "2026-09-25T11:24:04.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Create a Custom Pass in the Wallet App on iPhone",
@@ -115,207 +353,11 @@
       "pubDate": "2026-09-25T07:14:29.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "How to watch 'It's the Great Pumpkin, Charlie Brown' for free in 2026",
-      "url": "https://appleinsider.com/inside/apple-tv-plus/tips/how-to-watch-its-the-great-pumpkin-charlie-brown-for-free-in-2026?utm_source=rss",
-      "pubDate": "2026-09-25T03:03:17.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Here’s the Tesla Semi… again",
-      "url": "https://www.theverge.com/transportation/1000317/tesla-semi-launch-customer-delivery-freight-battery-engineer",
-      "pubDate": "2026-09-25T02:12:57.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Microsoft is killing off the ‘Copilot Plus PC’ brand",
-      "url": "https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand",
-      "pubDate": "2026-09-25T01:25:53.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Apple shares video highlighting new child safety features across its devices",
       "url": "https://9to5mac.com/2026/09/24/apple-shares-video-highlighting-new-child-safety-features-across-its-devices/",
       "pubDate": "2026-09-25T01:17:50.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "‘Knife Edge: Chasing Michelin Stars’ season 2 premieres on Apple TV",
-      "url": "https://9to5mac.com/2026/09/24/knife-edge-chasing-michelin-stars-season-2-premieres-on-apple-tv/",
-      "pubDate": "2026-09-25T01:00:44.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Rare ‘Antennagate’ press conference Q&A video surfaces online",
-      "url": "https://9to5mac.com/2026/09/24/rare-antennagate-press-conference-qa-video-surfaces-online/",
-      "pubDate": "2026-09-25T00:31:14.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple and Qualcomm renew global patent licensing agreement",
-      "url": "https://9to5mac.com/2026/09/24/apple-and-qualcomm-renew-global-patent-licensing-agreement/",
-      "pubDate": "2026-09-24T23:51:06.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures",
-      "url": "https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats",
-      "pubDate": "2026-09-24T23:50:55.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Qualcomm’s new ‘Elite’ sound chip might finally deliver the Wi-Fi earbud dream",
-      "url": "https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream",
-      "pubDate": "2026-09-24T23:42:39.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "What's Gone in macOS Golden Gate and What's Next in macOS 28",
-      "url": "https://www.macrumors.com/2026/09/24/macos-golden-gate-features-removed/",
-      "pubDate": "2026-09-24T23:06:55.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Sports adds real-time Grand Slam draws, expands soccer coverage",
-      "url": "https://9to5mac.com/2026/09/24/apple-sports-adds-real-time-grand-slam-draws-expands-soccer-coverage/",
-      "pubDate": "2026-09-24T23:03:46.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "TestFlight App Gets New iOS 27 Features",
-      "url": "https://www.macrumors.com/2026/09/24/testflight-ios-27-update/",
-      "pubDate": "2026-09-24T22:28:23.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Microsoft puts Brad Smith in charge of communications",
-      "url": "https://www.theverge.com/news/1000374/microsoft-comms-pr-brad-smith-cela",
-      "pubDate": "2026-09-24T22:08:22.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "M6 Mac mini review, Apple fitness band rumors, Apple AI servers",
-      "url": "https://9to5mac.com/2026/09/24/happy-hour-609/",
-      "pubDate": "2026-09-24T20:43:14.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Google Photos Wardrobe Feature Comes to iOS",
-      "url": "https://www.macrumors.com/2026/09/24/google-photos-wardrobe-ios/",
-      "pubDate": "2026-09-24T20:33:15.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
-      "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-      "pubDate": "2026-09-24T19:59:26.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Maps just added two new features in iOS 27",
-      "url": "https://9to5mac.com/2026/09/24/heres-everything-new-for-apple-maps-in-ios-27/",
-      "pubDate": "2026-09-24T19:55:15.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Music to Host Free Head Trip Festival Livestream",
-      "url": "https://www.macrumors.com/2026/09/24/apple-music-head-trip-livestream/",
-      "pubDate": "2026-09-24T19:48:43.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "macOS 27 Top Features: much more than just Siri AI [Video]",
-      "url": "https://9to5mac.com/2026/09/24/macos-27-top-features-much-more-than-just-siri-ai-video/",
-      "pubDate": "2026-09-24T19:13:04.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Sadly, this $1,549 RTX 5070-equipped gaming PC is a very good deal",
-      "url": "https://www.theverge.com/gadgets/1000122/cyberpowerpc-gaming-prebuilt-rtx-5070-core-i7-asrock-oled-monitor-deal-sale",
-      "pubDate": "2026-09-24T18:19:23.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple has three products launching soon that we’ve waited a long time for",
-      "url": "https://9to5mac.com/2026/09/24/apple-has-three-products-launching-soon-that-weve-waited-a-long-time-for/",
-      "pubDate": "2026-09-24T18:09:32.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "watchOS 27.2 Code Hints at iPhone-Style Screenshot Previews",
-      "url": "https://www.macrumors.com/2026/09/24/watchos-27-2-screenshot-previews/",
-      "pubDate": "2026-09-24T17:36:33.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Beats 360 Headphones Now Available in Apple Stores",
-      "url": "https://www.macrumors.com/2026/09/24/beats-360-apple-store-launch/",
-      "pubDate": "2026-09-24T17:14:22.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Shares New Video Promoting iOS 27 Parental Controls",
-      "url": "https://www.macrumors.com/2026/09/24/ios-27-parental-controls-video/",
-      "pubDate": "2026-09-24T16:58:26.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Has Announced 12 New Products in the Past Month",
-      "url": "https://www.macrumors.com/2026/09/24/apple-12-new-products-in-past-month/",
-      "pubDate": "2026-09-24T16:52:01.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Snoopy & Fraggles getting new holiday specials on Apple TV",
-      "url": "https://appleinsider.com/articles/26/09/24/snoopy-fraggles-getting-new-holiday-specials-on-apple-tv?utm_source=rss",
-      "pubDate": "2026-09-24T16:19:27.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Watch Ultra 2 vs. Ultra 4 Buyer's Guide: Should You Upgrade?",
-      "url": "https://www.macrumors.com/guide/apple-watch-ultra-2-vs-ultra-4/",
-      "pubDate": "2026-09-24T15:55:27.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Here's When Apple TV is Airing Free 'Peanuts' Holiday Specials This Year",
-      "url": "https://www.macrumors.com/2026/09/24/apple-tv-free-peanuts-specials/",
-      "pubDate": "2026-09-24T15:39:11.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Amazon, B&H battle for the best price with $1,849 M5 MacBook Pro deal",
-      "url": "https://appleinsider.com/articles/26/09/24/amazon-bh-battle-for-the-best-price-with-1849-m5-macbook-pro-deal?utm_source=rss",
-      "pubDate": "2026-09-24T15:24:40.000Z"
     },
     {
       "source": "Six Colors",
@@ -325,53 +367,11 @@
       "pubDate": "2026-09-24T14:53:20.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Square brings Apple Business into its dashboard",
-      "url": "https://appleinsider.com/articles/26/09/24/square-brings-apple-business-into-its-dashboard?utm_source=rss",
-      "pubDate": "2026-09-24T14:47:29.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Hugh Laurie turns crime boss for new Apple TV drama 'The Wanted Man'",
-      "url": "https://appleinsider.com/articles/26/09/24/hugh-laurie-turns-crime-boss-for-new-apple-tv-drama-the-wanted-man?utm_source=rss",
-      "pubDate": "2026-09-24T14:11:24.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Watch Steve Jobs in the full 'Antennagate' video before it gets erased again",
-      "url": "https://appleinsider.com/articles/26/09/24/watch-steve-jobs-in-the-full-antennagate-video-before-it-gets-erased-again?utm_source=rss",
-      "pubDate": "2026-09-24T14:10:15.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Support St. Jude and watch the 2026 Relay Podcastathon ↦",
       "url": "https://sixcolors.com/link/2026/09/support-st-jude-and-watch-the-2026-relay-podcastathon/",
       "pubDate": "2026-09-23T22:39:58.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "App Report: Tiny delights",
-      "url": "https://sixcolors.com/post/2026/09/app-report-tiny-delights/",
-      "pubDate": "2026-09-23T22:25:42.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) Clockwise 675: I’m Very Used to Suffering",
-      "url": "https://sixcolors.com/podcast/2026/09/clockwise-675-im-very-used-to-suffering/",
-      "pubDate": "2026-09-23T18:19:06.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) The Rebound 617: HairTag",
-      "url": "https://sixcolors.com/podcast/2026/09/the-rebound-617-hairtag/",
-      "pubDate": "2026-09-23T14:00:00.000Z"
     }
   ]
 }
