@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T18:38:38.153Z",
+  "generatedAt": "2026-09-25T22:22:57.631Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,69 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "TestFlight now works in landscape as Apple prepares for iPhone Duo",
+      "url": "https://9to5mac.com/2026/09/25/testflight-now-works-in-landscape-as-apple-prepares-for-iphone-duo/",
+      "pubDate": "2026-09-25T22:19:53.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple faces class action over Apple Pay fees charged to card issuers",
+      "url": "https://9to5mac.com/2026/09/25/apple-faces-class-action-over-apple-pay-fees-charged-to-card-issuers/",
+      "pubDate": "2026-09-25T21:01:42.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Imagining the next MacBook Neo",
+      "url": "https://sixcolors.com/post/2026/09/imagining-the-next-macbook-neo/",
+      "pubDate": "2026-09-25T20:24:35.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Music Hall confirms first eight shows, starting with Elton John",
+      "url": "https://9to5mac.com/2026/09/25/apple-music-hall-confirms-first-eight-shows-starting-with-elton-john/",
+      "pubDate": "2026-09-25T20:08:16.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Overtime 083: iPod Shuffle vibes",
+      "url": "https://9to5mac.com/2026/09/25/9to5mac-overtime-083-ipod-shuffle-vibes/",
+      "pubDate": "2026-09-25T20:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Banks and Credit Unions to Team Up Against Apple Pay Fees",
+      "url": "https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/",
+      "pubDate": "2026-09-25T19:22:29.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Card adds new feature in iOS 27 that every card should have",
+      "url": "https://9to5mac.com/2026/09/25/apple-card-adds-new-feature-in-ios-27-that-every-card-should-have/",
+      "pubDate": "2026-09-25T19:19:06.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple TV has too many good shows on now and I can’t keep up",
+      "url": "https://9to5mac.com/2026/09/25/apple-tv-has-too-many-good-shows-on-now-and-i-cant-keep-up/",
+      "pubDate": "2026-09-25T19:07:36.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Finally Shares tvOS 27 Release Notes With List of New Features",
+      "url": "https://www.macrumors.com/2026/09/25/tvos-27-release-notes/",
+      "pubDate": "2026-09-25T18:58:04.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -262,20 +325,6 @@
       "pubDate": "2026-09-25T15:00:23.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "HomeKit Weekly: ULTRALOQ releases its first UWB smart lock that works with Apple Home",
-      "url": "https://9to5mac.com/2026/09/25/ultraloq-bolt-mission/",
-      "pubDate": "2026-09-25T15:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple has big October coming for new hardware and software, here’s the lineup",
-      "url": "https://9to5mac.com/2026/09/25/apple-has-big-october-coming-for-new-hardware-and-software-heres-the-lineup/",
-      "pubDate": "2026-09-25T14:44:02.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "The history of Apple Cards ↦",
@@ -297,32 +346,11 @@
       "pubDate": "2026-09-25T14:10:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone Duo video shows left-handed use for new model",
-      "url": "https://9to5mac.com/2026/09/25/iphone-duo-video-shows-left-handed-use-for-new-model/",
-      "pubDate": "2026-09-25T13:45:26.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Ron Johnson & buying iPhones in Apple Stores on the AppleInsider Podcast",
       "url": "https://appleinsider.com/articles/26/09/25/ron-johnson-buying-iphones-in-apple-stores-on-the-appleinsider-podcast?utm_source=rss",
       "pubDate": "2026-09-25T13:11:57.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Wallet in iOS 27 adds feature that’s been on my wishlist for years",
-      "url": "https://9to5mac.com/2026/09/25/apple-wallet-in-ios-27-adds-feature-thats-been-on-my-wishlist-for-years/",
-      "pubDate": "2026-09-25T13:10:12.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "AirPods just got a long-requested feature in new software update",
-      "url": "https://9to5mac.com/2026/09/25/airpods-just-got-a-long-requested-feature-in-new-update/",
-      "pubDate": "2026-09-25T12:04:47.000Z"
     },
     {
       "source": "AppleInsider",
@@ -339,39 +367,11 @@
       "pubDate": "2026-09-25T11:26:59.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Create a Custom Pass in the Wallet App on iPhone",
-      "url": "https://www.macrumors.com/how-to/create-a-custom-pass-in-the-wallet-app-on-iphone/",
-      "pubDate": "2026-09-25T10:44:22.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "How to Check Your Mac's Manufacture Date in macOS 27",
-      "url": "https://www.macrumors.com/how-to/check-your-mac-manufacture-date-macos/",
-      "pubDate": "2026-09-25T07:14:29.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple shares video highlighting new child safety features across its devices",
-      "url": "https://9to5mac.com/2026/09/24/apple-shares-video-highlighting-new-child-safety-features-across-its-devices/",
-      "pubDate": "2026-09-25T01:17:50.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Apple renews Qualcomm patent deal ↦",
       "url": "https://sixcolors.com/link/2026/09/apple-renews-qualcomm-patent-deal/",
       "pubDate": "2026-09-24T14:53:20.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Support St. Jude and watch the 2026 Relay Podcastathon ↦",
-      "url": "https://sixcolors.com/link/2026/09/support-st-jude-and-watch-the-2026-relay-podcastathon/",
-      "pubDate": "2026-09-23T22:39:58.000Z"
     }
   ]
 }
