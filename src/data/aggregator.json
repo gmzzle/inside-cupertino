@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T07:51:30.465Z",
+  "generatedAt": "2026-09-25T13:50:04.163Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,90 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone Duo video shows left-handed use for new model",
+      "url": "https://9to5mac.com/2026/09/25/iphone-duo-video-shows-left-handed-use-for-new-model/",
+      "pubDate": "2026-09-25T13:45:26.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Interview: Why Ron Johnson says Apple had no choice but to gamble millions on retail",
+      "url": "https://appleinsider.com/articles/26/09/25/interview-why-ron-johnson-says-apple-had-no-choice-but-to-gamble-millions-on-retail?utm_source=rss",
+      "pubDate": "2026-09-25T13:33:32.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Ron Johnson & buying iPhones in Apple Stores on the AppleInsider Podcast",
+      "url": "https://appleinsider.com/articles/26/09/25/ron-johnson-buying-iphones-in-apple-stores-on-the-appleinsider-podcast?utm_source=rss",
+      "pubDate": "2026-09-25T13:11:57.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Wallet in iOS 27 adds feature that’s been on my wishlist for years",
+      "url": "https://9to5mac.com/2026/09/25/apple-wallet-in-ios-27-adds-feature-thats-been-on-my-wishlist-for-years/",
+      "pubDate": "2026-09-25T13:10:12.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
+      "url": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
+      "pubDate": "2026-09-25T13:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "AirPods just got a long-requested feature in new software update",
+      "url": "https://9to5mac.com/2026/09/25/airpods-just-got-a-long-requested-feature-in-new-update/",
+      "pubDate": "2026-09-25T12:04:47.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Insta360 conquered 360 cameras — now it’s eyeing glasses",
+      "url": "https://www.theverge.com/tech/999489/insta360-smart-glasses-mirrorless-interview",
+      "pubDate": "2026-09-25T12:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
+      "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
+      "pubDate": "2026-09-25T12:00:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Higher prices are just making iPhones more desirable in India",
+      "url": "https://appleinsider.com/articles/26/09/25/higher-prices-are-just-making-iphones-more-desirable-in-india?utm_source=rss",
+      "pubDate": "2026-09-25T11:49:08.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "How to leave iCloud without losing your data",
+      "url": "https://appleinsider.com/inside/icloud/tips/how-to-leave-icloud-without-losing-your-data?utm_source=rss",
+      "pubDate": "2026-09-25T11:26:59.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple Watch Ultra 4 review: An end-to-end health ecosystem",
+      "url": "https://appleinsider.com/articles/26/09/25/apple-watch-ultra-4-review-an-end-to-end-health-ecosystem?utm_source=rss",
+      "pubDate": "2026-09-25T11:24:04.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Create a Custom Pass in the Wallet App on iPhone",
+      "url": "https://www.macrumors.com/how-to/create-a-custom-pass-in-the-wallet-app-on-iphone/",
+      "pubDate": "2026-09-25T10:44:22.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -178,20 +262,6 @@
       "pubDate": "2026-09-24T18:09:32.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Jensen Huang talks about AI and climate change like a supervillain",
-      "url": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
-      "pubDate": "2026-09-24T18:04:44.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Meta is going to let you build games with AI right on your phone",
-      "url": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
-      "pubDate": "2026-09-24T17:52:29.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "watchOS 27.2 Code Hints at iPhone-Style Screenshot Previews",
@@ -199,39 +269,11 @@
       "pubDate": "2026-09-24T17:36:33.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: September 24, 2026 – iPhone Handoff, iOS 27 updates",
-      "url": "https://9to5mac.com/2026/09/24/9to5mac-daily-september-24-2026-iphone-handoff-ios-27-updates/",
-      "pubDate": "2026-09-24T17:36:23.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Watch Ultra 4 includes a new watch face bezel option",
-      "url": "https://9to5mac.com/2026/09/24/apple-watch-ultra-4-includes-a-new-watch-face-bezel-option/",
-      "pubDate": "2026-09-24T17:29:05.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "watchOS 27.2 includes hidden overhaul for Apple Watch screenshots",
-      "url": "https://9to5mac.com/2026/09/24/watchos-27-2-includes-hidden-overhaul-for-apple-watch-screenshots/",
-      "pubDate": "2026-09-24T17:24:26.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Beats 360 Headphones Now Available in Apple Stores",
       "url": "https://www.macrumors.com/2026/09/24/beats-360-apple-store-launch/",
       "pubDate": "2026-09-24T17:14:22.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Muse will apparently let you download its entire filesystem",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
-      "pubDate": "2026-09-24T17:14:12.000Z"
     },
     {
       "source": "MacRumors",
@@ -290,13 +332,6 @@
       "pubDate": "2026-09-24T14:47:29.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Square Announces Apple Business Integration",
-      "url": "https://www.macrumors.com/2026/09/24/square-announces-apple-business-integration/",
-      "pubDate": "2026-09-24T14:28:43.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Hugh Laurie turns crime boss for new Apple TV drama 'The Wanted Man'",
@@ -309,41 +344,6 @@
       "title": "Watch Steve Jobs in the full 'Antennagate' video before it gets erased again",
       "url": "https://appleinsider.com/articles/26/09/24/watch-steve-jobs-in-the-full-antennagate-video-before-it-gets-erased-again?utm_source=rss",
       "pubDate": "2026-09-24T14:10:15.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple & Qualcomm renew global patent licensing agreement",
-      "url": "https://appleinsider.com/articles/26/09/24/apple-qualcomm-renew-global-patent-licensing-agreement?utm_source=rss",
-      "pubDate": "2026-09-24T14:08:08.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "How to remove Apple Intelligence models & reclaim storage in macOS 27",
-      "url": "https://appleinsider.com/inside/macos-27/tips/how-to-remove-apple-intelligence-models-reclaim-storage-in-macos-27?utm_source=rss",
-      "pubDate": "2026-09-24T13:31:55.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "AT&T calls failing for a small number of iPhone 18 Pro users",
-      "url": "https://appleinsider.com/articles/26/09/24/att-calls-failing-for-a-small-number-of-iphone-18-pro-users?utm_source=rss",
-      "pubDate": "2026-09-24T11:46:21.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPhone 18 Pro Face ID rebooting bug to be fixed in iOS update",
-      "url": "https://appleinsider.com/articles/26/09/24/iphone-18-pro-face-id-rebooting-bug-to-be-fixed-in-ios-update?utm_source=rss",
-      "pubDate": "2026-09-24T11:16:29.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple's spatial computing strategy was on full display at Meta Connect",
-      "url": "https://appleinsider.com/articles/26/09/24/apples-spatial-computing-strategy-was-on-full-display-at-meta-connect?utm_source=rss",
-      "pubDate": "2026-09-24T04:38:30.000Z"
     },
     {
       "source": "Six Colors",
