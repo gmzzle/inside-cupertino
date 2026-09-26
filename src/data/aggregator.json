@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T01:35:48.828Z",
+  "generatedAt": "2026-09-26T07:44:56.362Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "watchOS 27: 12 New Things To Check Out on Your Apple Watch",
+      "url": "https://www.macrumors.com/guide/watchos-27-new-things-apple-watch/",
+      "pubDate": "2026-09-26T07:30:06.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Can an &#8216;eSUV&#8217; e-bike really go from trail to town?",
+      "url": "https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox",
+      "pubDate": "2026-09-26T07:00:00.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -311,13 +325,6 @@
       "pubDate": "2026-09-25T15:17:25.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "New Apple TV 4K Leaked",
-      "url": "https://www.macrumors.com/2026/09/25/new-apple-tv-4k-leaked/",
-      "pubDate": "2026-09-25T15:16:44.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "One week with Apple Watch Series 12 (and just getting started)",
@@ -337,13 +344,6 @@
       "title": "Cricut&#8217;s new compact crafter prints, cuts, and laminates stickers",
       "url": "https://www.theverge.com/tech/1000655/cricut-sticker-pix-print-cut-crafting-printer-machines-stickers",
       "pubDate": "2026-09-25T14:21:25.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Gaming’s biggest horror series are more vital than ever",
-      "url": "https://www.theverge.com/entertainment/1000595/silent-hill-townfall-resident-evil",
-      "pubDate": "2026-09-25T14:10:00.000Z"
     },
     {
       "source": "AppleInsider",
