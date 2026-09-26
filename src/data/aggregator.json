@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T07:44:56.362Z",
+  "generatedAt": "2026-09-26T13:07:33.900Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -26,6 +26,41 @@
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
+      "title": "Top Stories: Apple Leaks, Siri AI Settlement, and More",
+      "url": "https://www.macrumors.com/2026/09/26/top-stories-apple-leaks-siri-ai-settlement/",
+      "pubDate": "2026-09-26T13:00:12.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple @ Work: The enterprise needs to kill the SSO tax, and it’s an opportunity for Apple",
+      "url": "https://9to5mac.com/2026/09/26/apple-work-the-enterprise-needs-to-kill-the-sso-tax-and-its-an-opportunity-for-apple/",
+      "pubDate": "2026-09-26T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Control Resonant is a great game — it’s even better when you read everything",
+      "url": "https://www.theverge.com/games/1000818/control-resonant-reading-collectibles-documents-logs",
+      "pubDate": "2026-09-26T13:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Weekend Apple deals: Beats 360, AirPods Pro 3, Mac Studio, MacBook Air, more",
+      "url": "https://9to5mac.com/2026/09/26/apple-deals-this-week-best/",
+      "pubDate": "2026-09-26T12:42:34.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Pokémon card resellers have turned collecting into an online blood sport",
+      "url": "https://www.theverge.com/games/1001002/pokemon-30th-celebration-scalping-resellers",
+      "pubDate": "2026-09-26T12:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
       "title": "watchOS 27: 12 New Things To Check Out on Your Apple Watch",
       "url": "https://www.macrumors.com/guide/watchos-27-new-things-apple-watch/",
       "pubDate": "2026-09-26T07:30:06.000Z"
@@ -33,7 +68,7 @@
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
-      "title": "Can an &#8216;eSUV&#8217; e-bike really go from trail to town?",
+      "title": "Can &#8216;eSUV&#8217; e-bikes really go from trail to town?",
       "url": "https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox",
       "pubDate": "2026-09-26T07:00:00.000Z"
     },
@@ -192,20 +227,6 @@
       "pubDate": "2026-09-25T17:12:42.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: September 25, 2026 – New AirPods features, iOS 27.2 tidbits",
-      "url": "https://9to5mac.com/2026/09/25/daily-september-25-2026/",
-      "pubDate": "2026-09-25T17:06:46.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "watchOS 27 upgrades popular Apple Watch face with new options",
-      "url": "https://9to5mac.com/2026/09/25/watchos-27-upgrades-popular-apple-watch-face-with-new-options/",
-      "pubDate": "2026-09-25T17:05:14.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Some iPhone 18 Pro Max Users Experiencing AT&T Cellular Issues",
@@ -283,13 +304,6 @@
       "pubDate": "2026-09-25T15:49:58.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "One company is at the center of a wave of rogue AI attacks",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
-      "pubDate": "2026-09-25T15:39:48.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Elton John announced as first Apple Music Hall gig",
@@ -318,13 +332,6 @@
       "pubDate": "2026-09-25T15:18:06.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Exclusive: First Look at HomePod Mini 2 in Three New Colors",
-      "url": "https://www.macrumors.com/2026/09/25/first-look-at-homepod-mini-2/",
-      "pubDate": "2026-09-25T15:17:25.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "One week with Apple Watch Series 12 (and just getting started)",
@@ -337,13 +344,6 @@
       "title": "The history of Apple Cards ↦",
       "url": "https://sixcolors.com/link/2026/09/the-history-of-apple-cards/",
       "pubDate": "2026-09-25T14:24:21.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Cricut&#8217;s new compact crafter prints, cuts, and laminates stickers",
-      "url": "https://www.theverge.com/tech/1000655/cricut-sticker-pix-print-cut-crafting-printer-machines-stickers",
-      "pubDate": "2026-09-25T14:21:25.000Z"
     },
     {
       "source": "AppleInsider",
