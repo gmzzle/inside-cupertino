@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T13:07:33.900Z",
+  "generatedAt": "2026-09-26T17:11:55.709Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,48 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple owes Taction $5.7B after losing haptic feedback IP trial",
+      "url": "https://appleinsider.com/articles/26/09/26/apple-owes-taction-57b-after-losing-haptic-feedback-ip-trial?utm_source=rss",
+      "pubDate": "2026-09-26T17:01:01.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Save $200 on Apple Watch Ultra 3 with Milanese Loop while supplies last",
+      "url": "https://appleinsider.com/articles/26/09/26/save-200-on-apple-watch-ultra-3-with-milanese-loop-while-supplies-last?utm_source=rss",
+      "pubDate": "2026-09-26T17:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Watch Series 12 one week later: There’s so much more than meets the eye",
+      "url": "https://9to5mac.com/2026/09/26/apple-watch-series-12-one-week-later/",
+      "pubDate": "2026-09-26T16:59:27.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "OpenAI pauses training of its ‘most capable models’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+      "pubDate": "2026-09-26T16:34:59.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "These are my favorite iPhone 18 Pro & Pro Max cases so far [Video]",
+      "url": "https://9to5mac.com/2026/09/26/these-are-my-favorite-iphone-18-pro-pro-max-cases-so-far-video/",
+      "pubDate": "2026-09-26T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+      "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+      "pubDate": "2026-09-26T14:00:00.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -143,13 +185,6 @@
       "pubDate": "2026-09-25T19:19:06.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple TV has too many good shows on now and I can’t keep up",
-      "url": "https://9to5mac.com/2026/09/25/apple-tv-has-too-many-good-shows-on-now-and-i-cant-keep-up/",
-      "pubDate": "2026-09-25T19:07:36.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Finally Shares tvOS 27 Release Notes With List of New Features",
@@ -206,13 +241,6 @@
       "pubDate": "2026-09-25T17:42:59.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "tvOS 27 to add screensaver sound effects on Apple TV 4K, per leak",
-      "url": "https://9to5mac.com/2026/09/25/tvos-27-to-add-screensaver-sound-effects-on-apple-tv-4k-per-leak/",
-      "pubDate": "2026-09-25T17:28:48.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "These camera apps give you more control over the iPhone 18 Pro’s aperture",
@@ -255,13 +283,6 @@
       "pubDate": "2026-09-25T16:49:53.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Leaks reveal a new Apple HomePod mini, iPad mini, and Apple TV 4K",
-      "url": "https://www.theverge.com/tech/1000772/apple-code-leak-homepod-mini-2-ipad-mini-8-apple-tv-4k",
-      "pubDate": "2026-09-25T16:22:05.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Interview: Why Ron Johnson says Apple had no choice but to gamble millions on retail",
@@ -288,13 +309,6 @@
       "title": "iPad mini finally getting FaceTime camera move, leak suggests",
       "url": "https://appleinsider.com/articles/26/09/25/ipad-mini-finally-getting-facetime-camera-move-leak-suggests?utm_source=rss",
       "pubDate": "2026-09-25T15:54:28.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Sony and UMG are suing Suno again",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
-      "pubDate": "2026-09-25T15:51:56.000Z"
     },
     {
       "source": "AppleInsider",
@@ -351,20 +365,6 @@
       "title": "Ron Johnson & buying iPhones in Apple Stores on the AppleInsider Podcast",
       "url": "https://appleinsider.com/articles/26/09/25/ron-johnson-buying-iphones-in-apple-stores-on-the-appleinsider-podcast?utm_source=rss",
       "pubDate": "2026-09-25T13:11:57.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Higher prices are just making iPhones more desirable in India",
-      "url": "https://appleinsider.com/articles/26/09/25/higher-prices-are-just-making-iphones-more-desirable-in-india?utm_source=rss",
-      "pubDate": "2026-09-25T11:49:08.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "How to leave iCloud without losing your data",
-      "url": "https://appleinsider.com/inside/icloud/tips/how-to-leave-icloud-without-losing-your-data?utm_source=rss",
-      "pubDate": "2026-09-25T11:26:59.000Z"
     },
     {
       "source": "Six Colors",
