@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T14:03:03.251Z",
+  "generatedAt": "2026-09-27T18:26:26.198Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,55 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Amazon slashes $900 off Apple's M5 Max MacBook Pro, lowest price ever",
+      "url": "https://appleinsider.com/articles/26/09/27/amazon-slashes-900-off-apples-m5-max-macbook-pro-lowest-price-ever?utm_source=rss",
+      "pubDate": "2026-09-27T17:51:01.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+      "pubDate": "2026-09-27T17:21:07.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple Vision Pro's development graveyard exemplifies Apple's '1,000 no's to every yes'",
+      "url": "https://appleinsider.com/articles/26/09/27/apple-vision-pros-development-graveyard-exemplifies-apples-1000-nos-to-every-yes?utm_source=rss",
+      "pubDate": "2026-09-27T16:00:32.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Amazon Just Knocked $900 Off Apple's Latest 16-Inch MacBook Pro",
+      "url": "https://www.macrumors.com/2026/09/27/2026-macbook-pro-900-off/",
+      "pubDate": "2026-09-27T15:30:35.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's smart glasses predicted for 2027, upgraded Apple Vision Pro 2028",
+      "url": "https://appleinsider.com/articles/26/09/27/apples-smart-glasses-predicted-for-2027-upgraded-apple-vision-pro-2028?utm_source=rss",
+      "pubDate": "2026-09-27T14:49:18.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Report: Apple working on new Vision Pro, with different form factors on the table",
+      "url": "https://9to5mac.com/2026/09/27/apple-working-on-new-lighter-vision-pro-version/",
+      "pubDate": "2026-09-27T14:47:05.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's US staff will get extended Thanksgiving break under Ternus too",
+      "url": "https://appleinsider.com/articles/26/09/27/apples-us-staff-will-get-extended-thanksgiving-break-under-ternus-too?utm_source=rss",
+      "pubDate": "2026-09-27T14:45:21.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -50,6 +99,13 @@
       "title": "The smart home graveyard is getting crowded",
       "url": "https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard",
       "pubDate": "2026-09-27T12:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Best iPhone 18 Pro cases now available for purchase [Update #2]",
+      "url": "https://9to5mac.com/2026/09/27/best-iphone-18-pro-cases-now-available/",
+      "pubDate": "2026-09-27T08:24:00.000Z"
     },
     {
       "source": "9to5Mac",
@@ -157,13 +213,6 @@
       "pubDate": "2026-09-26T12:42:34.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Pokémon card resellers have turned collecting into an online blood sport",
-      "url": "https://www.theverge.com/games/1001002/pokemon-30th-celebration-scalping-resellers",
-      "pubDate": "2026-09-26T12:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "watchOS 27: 12 New Things To Check Out on Your Apple Watch",
@@ -190,20 +239,6 @@
       "title": "Apple’s dimensional drawings offer a fascinating look at its product designs",
       "url": "https://9to5mac.com/2026/09/25/apples-dimensional-drawings-offer-a-fascinating-look-at-its-product-designs/",
       "pubDate": "2026-09-25T23:07:09.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "TestFlight now works in landscape as Apple prepares for iPhone Duo",
-      "url": "https://9to5mac.com/2026/09/25/testflight-now-works-in-landscape-as-apple-prepares-for-iphone-duo/",
-      "pubDate": "2026-09-25T22:19:53.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple faces class action over Apple Pay fees charged to card issuers",
-      "url": "https://9to5mac.com/2026/09/25/apple-faces-class-action-over-apple-pay-fees-charged-to-card-issuers/",
-      "pubDate": "2026-09-25T21:01:42.000Z"
     },
     {
       "source": "Six Colors",
@@ -285,13 +320,6 @@
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
-      "title": "Interview: Why Ron Johnson says Apple had no choice but to gamble millions on retail",
-      "url": "https://appleinsider.com/articles/26/09/25/interview-why-ron-johnson-says-apple-had-no-choice-but-to-gamble-millions-on-retail?utm_source=rss",
-      "pubDate": "2026-09-25T16:06:58.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
       "title": "Apple's next HomePod mini won't get a redesign, but will get some new colors",
       "url": "https://appleinsider.com/articles/26/09/25/apples-next-homepod-mini-wont-get-a-redesign-but-will-get-some-new-colors?utm_source=rss",
       "pubDate": "2026-09-25T15:59:16.000Z"
@@ -325,25 +353,11 @@
       "pubDate": "2026-09-25T15:36:15.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple Watch Ultra 4 drops to $779 during weekend sale",
-      "url": "https://appleinsider.com/articles/26/09/25/apple-watch-ultra-4-drops-to-779-during-weekend-sale?utm_source=rss",
-      "pubDate": "2026-09-25T15:31:57.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iPad Mini With A20 Pro, New HomePod Mini Colors, and New Apple TV 4K All Just Leaked",
       "url": "https://www.macrumors.com/2026/09/25/new-ipad-mini-homepod-mini-apple-tv-leaked/",
       "pubDate": "2026-09-25T15:18:34.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPad Mini 8 Leaked: A20 Pro Chip, Landscape Camera, and More",
-      "url": "https://www.macrumors.com/2026/09/25/ipad-mini-8-leaked/",
-      "pubDate": "2026-09-25T15:18:06.000Z"
     },
     {
       "source": "Six Colors",
@@ -358,20 +372,6 @@
       "title": "The history of Apple Cards ↦",
       "url": "https://sixcolors.com/link/2026/09/the-history-of-apple-cards/",
       "pubDate": "2026-09-25T14:24:21.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Ron Johnson & buying iPhones in Apple Stores on the AppleInsider Podcast",
-      "url": "https://appleinsider.com/articles/26/09/25/ron-johnson-buying-iphones-in-apple-stores-on-the-appleinsider-podcast?utm_source=rss",
-      "pubDate": "2026-09-25T13:11:57.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Apple renews Qualcomm patent deal ↦",
-      "url": "https://sixcolors.com/link/2026/09/apple-renews-qualcomm-patent-deal/",
-      "pubDate": "2026-09-24T14:53:20.000Z"
     }
   ]
 }
