@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T22:03:14.416Z",
+  "generatedAt": "2026-09-29T01:59:24.095Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,62 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Emmy wins and recent premieres help Apple TV reach highest weekly viewership ever",
+      "url": "https://9to5mac.com/2026/09/28/emmy-wins-and-recent-premieres-help-apple-tv-reach-highest-weekly-viewership-ever/",
+      "pubDate": "2026-09-29T01:44:04.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple and Amazon face renewed UK antitrust lawsuit",
+      "url": "https://9to5mac.com/2026/09/28/apple-and-amazon-face-renewed-uk-antitrust-lawsuit/",
+      "pubDate": "2026-09-29T01:21:23.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "This website lets you explore nearly 30 years of Apple product colors",
+      "url": "https://9to5mac.com/2026/09/28/this-website-lets-you-explore-nearly-30-years-of-apple-product-colors/",
+      "pubDate": "2026-09-29T01:01:54.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Nothing’s new flagship Headphone 1 Pro put you in the studio",
+      "url": "https://www.theverge.com/tech/1001797/nothings-headphone-1-pro-review",
+      "pubDate": "2026-09-29T01:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone Duo StandBy Leak Reveals Five Unannounced Faces",
+      "url": "https://www.macrumors.com/2026/09/28/iphone-duo-standby-leak/",
+      "pubDate": "2026-09-29T00:04:54.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Huion Kamvas Pad 12 Review: A portable but problematic artist's tool",
+      "url": "https://appleinsider.com/articles/26/09/29/huion-kamvas-pad-12-review-a-portable-but-problematic-artists-tool?utm_source=rss",
+      "pubDate": "2026-09-29T00:03:34.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "macOS 27: How to use the new ‘Notify Me’ feature in Safari",
+      "url": "https://9to5mac.com/2026/09/28/macos-27-how-to-use-the-new-notify-me-feature-in-safari/",
+      "pubDate": "2026-09-28T22:53:05.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+      "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+      "pubDate": "2026-09-28T21:31:35.000Z"
+    },
     {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
@@ -157,20 +213,6 @@
       "pubDate": "2026-09-28T17:33:45.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 26.7.1 available now for iPhone with security fixes",
-      "url": "https://9to5mac.com/2026/09/28/ios-26-7-1-available-now-for-iphone-with-security-fixes/",
-      "pubDate": "2026-09-28T17:29:47.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple releases macOS 27.0.1 Golden Gate, plus macOS Tahoe 26.7.1 and macOS Sequoia 15.8.1 [U]",
-      "url": "https://9to5mac.com/2026/09/28/apple-releases-macos-27-0-1-golden-gate-plus-macos-tahoe-26-7-1-and-macos-sequoia-15-8-1/",
-      "pubDate": "2026-09-28T17:15:11.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Releases macOS Golden Gate 27.0.1 With Bug Fixes",
@@ -183,13 +225,6 @@
       "title": "Apple Releases iOS 27.0.1 With Face ID Bug Fix",
       "url": "https://www.macrumors.com/2026/09/28/apple-releases-ios-27-0-1/",
       "pubDate": "2026-09-28T17:09:47.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple releases iOS 27.0.1 for iPhone, here’s what’s new",
-      "url": "https://9to5mac.com/2026/09/28/apple-releases-ios-27-0-1-for-iphone-heres-whats-new/",
-      "pubDate": "2026-09-28T17:08:19.000Z"
     },
     {
       "source": "Six Colors",
@@ -211,13 +246,6 @@
       "title": "OpenAI keeps bulldozing mathematicians",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
       "pubDate": "2026-09-28T17:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: September 28, 2026 – New HomePod and Apple TV leaks, more",
-      "url": "https://9to5mac.com/2026/09/28/daily-september-28-2026/",
-      "pubDate": "2026-09-28T16:53:13.000Z"
     },
     {
       "source": "The Verge",
@@ -255,13 +283,6 @@
       "pubDate": "2026-09-28T15:06:30.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Dreame’s step-climbing X50 Ultra mopping vacuum is hundreds off",
-      "url": "https://www.theverge.com/gadgets/1001313/dreame-x50-ultra-robot-vacuum-mop-asus-rog-ally-deal-sale",
-      "pubDate": "2026-09-28T14:55:12.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Last Chance: OWC's Best Mac Accessories Are on Sale Just for MacRumors Readers",
@@ -274,13 +295,6 @@
       "title": "12 New Things to Expect From Apple This October",
       "url": "https://www.macrumors.com/2026/09/28/12-new-things-from-apple-this-october/",
       "pubDate": "2026-09-28T14:13:01.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Bose’s first wired earbuds in 11 years add noise canceling",
-      "url": "https://www.theverge.com/tech/1001326/bose-wired-earbuds-noise-canceling-headphones-preorder",
-      "pubDate": "2026-09-28T14:09:44.000Z"
     },
     {
       "source": "AppleInsider",
@@ -334,13 +348,6 @@
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple Vision Pro's development graveyard exemplifies Apple's '1,000 no's to every yes'",
-      "url": "https://appleinsider.com/articles/26/09/27/apple-vision-pros-development-graveyard-exemplifies-apples-1000-nos-to-every-yes?utm_source=rss",
-      "pubDate": "2026-09-28T09:36:06.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
       "title": "Sunday Reboot: Big Whoop and more Apple Watch nagging",
       "url": "https://appleinsider.com/articles/26/09/27/sunday-reboot-big-whoop-and-more-apple-watch-nagging?utm_source=rss",
       "pubDate": "2026-09-27T20:32:03.000Z"
@@ -351,13 +358,6 @@
       "title": "Amazon slashes $900 off Apple's M5 Max MacBook Pro, lowest price ever",
       "url": "https://appleinsider.com/articles/26/09/27/amazon-slashes-900-off-apples-m5-max-macbook-pro-lowest-price-ever?utm_source=rss",
       "pubDate": "2026-09-27T17:51:01.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Amazon Just Knocked $900 Off Apple's Latest 16-Inch MacBook Pro",
-      "url": "https://www.macrumors.com/2026/09/27/2026-macbook-pro-900-off/",
-      "pubDate": "2026-09-27T15:30:26.000Z"
     },
     {
       "source": "Six Colors",
