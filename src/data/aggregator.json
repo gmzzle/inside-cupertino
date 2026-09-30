@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T19:22:54.537Z",
+  "generatedAt": "2026-09-30T23:52:25.916Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,6 +24,90 @@
   ],
   "items": [
     {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Code hints continue to reveal features of Apple's upcoming Home Hub",
+      "url": "https://appleinsider.com/articles/26/09/30/code-hints-continue-to-reveal-features-of-apples-upcoming-home-hub?utm_source=rss",
+      "pubDate": "2026-09-30T23:40:17.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The new and huger Paramount has a new co-CEO",
+      "url": "https://www.theverge.com/news/1003037/paramount-david-ellison-co-ceo-ynon-kriez",
+      "pubDate": "2026-09-30T23:08:49.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's Home Hub Borrows From the iPhone Duo's StandBy Mode",
+      "url": "https://www.macrumors.com/2026/09/30/home-hub-photo-face/",
+      "pubDate": "2026-09-30T22:57:11.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple TV is currently down for some users, as other Apple services also face issues [U]",
+      "url": "https://9to5mac.com/2026/09/30/apple-tv-is-currently-down-for-some-users-as-other-apple-services-also-face-issues/",
+      "pubDate": "2026-09-30T22:47:35.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Elder fraud is rising – here’s how to protect your family",
+      "url": "https://9to5mac.com/2026/09/30/elder-fraud-rising-heres-how-to-protect-your-family/",
+      "pubDate": "2026-09-30T22:30:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Neon sticks it to A24 by announcing a Creative Commons SCP Foundation movie",
+      "url": "https://www.theverge.com/entertainment/1002958/neon-a24-creative-commons-scp-foundation-movie",
+      "pubDate": "2026-09-30T20:45:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
+      "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+      "pubDate": "2026-09-30T20:41:41.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Music expands to four new countries",
+      "url": "https://9to5mac.com/2026/09/30/apple-music-expands-to-four-new-countries/",
+      "pubDate": "2026-09-30T20:39:07.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Our top iPhone 18 Pro accessories to upgrade your setup [Update #2]",
+      "url": "https://9to5mac.com/2026/09/30/best-iphone-18-pro-accessories/",
+      "pubDate": "2026-09-30T20:10:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Report: Meta’s Muse crosses 5 million downloads amid massive advertising push",
+      "url": "https://9to5mac.com/2026/09/30/report-metas-muse-crosses-5-million-downloads-amid-massive-advertising-push/",
+      "pubDate": "2026-09-30T20:02:52.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: September 30, 2026 – How John Ternus wants to reshape Apple",
+      "url": "https://9to5mac.com/2026/09/30/daily-september-30-2026/",
+      "pubDate": "2026-09-30T19:32:47.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple Invites update leans on iOS 27's new features",
+      "url": "https://appleinsider.com/articles/26/09/30/apple-invites-update-leans-on-ios-27s-new-features?utm_source=rss",
+      "pubDate": "2026-09-30T19:31:53.000Z"
+    },
+    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "iOS 27.2 adds new Messages feature that’s already a favorite",
@@ -35,7 +119,7 @@
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Invites App Updated With Three New Features",
       "url": "https://www.macrumors.com/2026/09/30/apple-invites-app-three-new-features/",
-      "pubDate": "2026-09-30T19:04:03.000Z"
+      "pubDate": "2026-09-30T19:03:54.000Z"
     },
     {
       "source": "9to5Mac",
@@ -143,32 +227,11 @@
       "pubDate": "2026-09-30T16:24:30.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Watch Series 12, Ultra 4 adding two new features soon",
-      "url": "https://9to5mac.com/2026/09/30/apple-watch-series-12-ultra-4-adding-two-new-features-soon/",
-      "pubDate": "2026-09-30T16:13:02.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Watch SE 3 vs. Series 12 Buyer's Guide: Which Should You Buy?",
       "url": "https://www.macrumors.com/guide/apple-watch-se-3-vs-series-12/",
       "pubDate": "2026-09-30T16:05:19.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Halide 3.2 pro camera arrives with iPhone 18 Pro aperture feature and two new looks",
-      "url": "https://9to5mac.com/2026/09/30/halide-3-2-pro-camera-arrives-with-iphone-18-pro-aperture-feature-and-two-new-looks/",
-      "pubDate": "2026-09-30T16:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Halide camera app now offers full control of the iPhone 18 Pro’s aperture",
-      "url": "https://www.theverge.com/tech/1002642/halide-ios-camera-app-update-iphone-18-pro-max-variable-aperture",
-      "pubDate": "2026-09-30T16:00:00.000Z"
     },
     {
       "source": "MacRumors",
@@ -178,39 +241,11 @@
       "pubDate": "2026-09-30T15:54:43.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: iPhone 17 Pro Max, MacBook Pro, HomeKit Prime Day discounts, Apple Watch bands from $7, more",
-      "url": "https://9to5mac.com/2026/09/30/deals-iphone-17-pro-max-macbook-pro-prime-day-bands/",
-      "pubDate": "2026-09-30T15:28:09.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "M5 15\" MacBook Air with 24GB RAM, 1TB SSD falls to $1,849 ahead of fall Prime Day",
       "url": "https://appleinsider.com/articles/26/09/30/m5-15-macbook-air-with-24gb-ram-1tb-ssd-falls-to-1849-ahead-of-fall-prime-day?utm_source=rss",
       "pubDate": "2026-09-30T15:25:23.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
-      "pubDate": "2026-09-30T15:18:49.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "New Apple TV comedy has 100% Rotten Tomatoes, here’s the trailer",
-      "url": "https://9to5mac.com/2026/09/30/new-apple-tv-comedy-has-100-rotten-tomatoes-heres-the-trailer/",
-      "pubDate": "2026-09-30T15:03:02.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Google reportedly tests paying publishers for AI search results",
-      "url": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
-      "pubDate": "2026-09-30T14:51:49.000Z"
     },
     {
       "source": "AppleInsider",
@@ -234,25 +269,11 @@
       "pubDate": "2026-09-30T14:24:34.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple’s new hardware October 13 won’t include one rumored product: report",
-      "url": "https://9to5mac.com/2026/09/30/apples-new-hardware-october-13-wont-include-one-rumored-product-report/",
-      "pubDate": "2026-09-30T14:15:30.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Amazon Takes Up to $150 Off Select M5 MacBook Air Models",
       "url": "https://www.macrumors.com/2026/09/30/amazon-m5-macbook-air/",
       "pubDate": "2026-09-30T14:14:22.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "DoorDash now lets you order by text in Apple Messages",
-      "url": "https://9to5mac.com/2026/09/30/doordash-now-lets-you-order-by-text-in-apple-messages/",
-      "pubDate": "2026-09-30T13:35:16.000Z"
     },
     {
       "source": "Six Colors",
@@ -332,32 +353,11 @@
       "pubDate": "2026-09-30T00:01:50.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "OpenAI Launches Always-On 'Dots' Agents to Rival Meta's Muse",
-      "url": "https://www.macrumors.com/2026/09/29/openai-launches-dots/",
-      "pubDate": "2026-09-29T22:45:10.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "The most repairable AirPods ever are still a frustrating mess to get into",
       "url": "https://appleinsider.com/articles/26/09/29/the-most-repairable-airpods-ever-are-still-a-frustrating-mess-to-get-into?utm_source=rss",
       "pubDate": "2026-09-29T21:38:14.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "'Get Ready' to pre-order the iPhone Duo starting October 12",
-      "url": "https://appleinsider.com/articles/26/09/29/get-ready-to-pre-order-the-iphone-duo-starting-october-12?utm_source=rss",
-      "pubDate": "2026-09-29T21:14:31.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple & American Academy of Pediatrics team up for new Screen Time guide",
-      "url": "https://appleinsider.com/articles/26/09/29/apple-american-academy-of-pediatrics-team-up-for-new-screen-time-guide?utm_source=rss",
-      "pubDate": "2026-09-29T18:16:01.000Z"
     },
     {
       "source": "Six Colors",
