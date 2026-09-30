@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T00:29:07.542Z",
+  "generatedAt": "2026-09-30T06:45:12.199Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,11 +24,32 @@
   ],
   "items": [
     {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Pay now rolling out to Axis Bank customers in India [U]",
+      "url": "https://9to5mac.com/2026/09/29/apple-pay-now-rolling-out-to-axis-bank-customers-in-india/",
+      "pubDate": "2026-09-30T01:19:30.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Bank of America says Meta’s Muse highlights a new risk for Apple’s services revenue",
+      "url": "https://9to5mac.com/2026/09/29/bank-of-america-says-metas-muse-highlights-a-new-risk-for-apples-services-revenue/",
+      "pubDate": "2026-09-30T00:41:46.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Sam Altman says OpenAI won’t go public until its models are safe",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+      "pubDate": "2026-09-30T00:19:13.000Z"
+    },
+    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Pay Now Available in India With Axis Bank Cards",
       "url": "https://www.macrumors.com/2026/09/29/apple-pay-india/",
-      "pubDate": "2026-09-30T00:02:00.000Z"
+      "pubDate": "2026-09-30T00:01:50.000Z"
     },
     {
       "source": "MacRumors",
@@ -269,13 +290,6 @@
       "pubDate": "2026-09-29T17:08:53.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Final Cut Camera updated with support for iPhone 18 Pro features, more",
-      "url": "https://9to5mac.com/2026/09/29/final-cut-camera-iphone-18-pro-features/",
-      "pubDate": "2026-09-29T17:00:40.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "More releases, more often will be the Apple way under CEO Ternus",
@@ -288,20 +302,6 @@
       "title": "Xbox’s Mythic Achievements are here and they&#8217;re just like PlayStation Platinum trophies",
       "url": "https://www.theverge.com/news/1002099/xbox-mythic-achievement-announcement-feature",
       "pubDate": "2026-09-29T16:17:01.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple&#8217;s new CEO could change when it launches phones and laptops",
-      "url": "https://www.theverge.com/tech/1002107/apple-ceo-john-ternus-product-launch-strategy",
-      "pubDate": "2026-09-29T16:09:44.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "OpenAI makes 20+ announcements at DevDay event including always-on agents called dots, watch live",
-      "url": "https://9to5mac.com/2026/09/29/openai-teases-20-announcements-at-devday-watch-live/",
-      "pubDate": "2026-09-29T16:03:40.000Z"
     },
     {
       "source": "AppleInsider",
@@ -330,13 +330,6 @@
       "title": "Making millions of iPhone Duos is proving harder than Apple hoped",
       "url": "https://appleinsider.com/articles/26/09/29/making-millions-of-iphone-duos-is-proving-harder-than-apple-hoped?utm_source=rss",
       "pubDate": "2026-09-29T14:16:53.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Light Touch faithfully emulates the iPod touch 2G on your Mac",
-      "url": "https://appleinsider.com/inside/macos-27/tips/light-touch-faithfully-emulates-the-ipod-touch-2g-on-your-mac?utm_source=rss",
-      "pubDate": "2026-09-29T13:50:35.000Z"
     },
     {
       "source": "Six Colors",
@@ -372,6 +365,13 @@
       "title": "One week with Apple Watch Series 12 (and just getting started)",
       "url": "https://sixcolors.com/post/2026/09/one-week-with-apple-watch-series-12-and-just-getting-started/",
       "pubDate": "2026-09-25T15:00:23.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "The history of Apple Cards ↦",
+      "url": "https://sixcolors.com/link/2026/09/the-history-of-apple-cards/",
+      "pubDate": "2026-09-25T14:24:21.000Z"
     }
   ]
 }
