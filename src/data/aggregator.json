@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T23:52:25.916Z",
+  "generatedAt": "2026-10-01T05:58:47.630Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,48 @@
     }
   ],
   "items": [
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "‘Shop Different’ Review: The Genius of Retail (The Wall Street Journal/Jason Snell)",
+      "url": "https://www.wsj.com/business/retail/shop-different-review-the-genius-of-retail-e66f192b",
+      "pubDate": "2026-10-01T03:46:04.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "WhatsApp expands parental controls to teen accounts with group alerts, Meta AI restrictions",
+      "url": "https://9to5mac.com/2026/09/30/whatsapp-expands-parental-controls-to-teen-accounts-with-group-alerts-meta-ai-restrictions/",
+      "pubDate": "2026-10-01T02:09:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Vivo’s X Fold 6 accidentally feels like a throwback",
+      "url": "https://www.theverge.com/tech/1002680/vivo-x-fold-6-global-release-specs-cameras",
+      "pubDate": "2026-10-01T02:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
+      "url": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+      "pubDate": "2026-10-01T00:23:45.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's Smart Home Hub: Everything We Know So Far",
+      "url": "https://www.macrumors.com/guide/apple-command-center/",
+      "pubDate": "2026-09-30T23:58:30.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Orico Thunderbolt 5 Desktop Workstation - excellent price for a storage dock",
+      "url": "https://appleinsider.com/articles/26/09/30/orico-thunderbolt-5-desktop-workstation---excellent-price-for-a-storage-dock?utm_source=rss",
+      "pubDate": "2026-09-30T23:54:42.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -178,13 +220,6 @@
       "pubDate": "2026-09-30T17:51:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Music 7.0 beta brings Liquid Glass redesign to Android",
-      "url": "https://9to5google.com/2026/09/30/apple-music-7-0-redesign-liquid-glass/",
-      "pubDate": "2026-09-30T17:47:57.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Reddit says it has to cut back access to ‘Old Reddit’ because of AI bots",
@@ -211,20 +246,6 @@
       "title": "This blog could help you poop better",
       "url": "https://www.theverge.com/column/1002625/optimizer-fibermaxxing-wellness-health",
       "pubDate": "2026-09-30T17:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Asus won’t say how it escaped the US router ban",
-      "url": "https://www.theverge.com/policy/1002504/asus-escape-us-router-ban-us-manufacturing",
-      "pubDate": "2026-09-30T16:44:20.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "&#8216;Xbox is not for sale&#8217; says Microsoft&#8217;s gaming chief",
-      "url": "https://www.theverge.com/news/1002736/xbox-not-for-sale-asha-sharma-interview",
-      "pubDate": "2026-09-30T16:24:30.000Z"
     },
     {
       "source": "MacRumors",
@@ -346,32 +367,11 @@
       "pubDate": "2026-09-30T07:00:00.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Pay Now Available in India With Axis Bank Cards",
-      "url": "https://www.macrumors.com/2026/09/29/apple-pay-india/",
-      "pubDate": "2026-09-30T00:01:50.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "The most repairable AirPods ever are still a frustrating mess to get into",
-      "url": "https://appleinsider.com/articles/26/09/29/the-most-repairable-airpods-ever-are-still-a-frustrating-mess-to-get-into?utm_source=rss",
-      "pubDate": "2026-09-29T21:38:14.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) Upgrade 639: I Know How to Go to Sleep",
       "url": "https://sixcolors.com/podcast/2026/09/upgrade-639-i-know-how-to-go-to-sleep/",
       "pubDate": "2026-09-28T21:17:12.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Why Stolen Device Protection makes Passwords safer",
-      "url": "https://sixcolors.com/post/2026/09/stolen-device-protection-passwords-glenn/",
-      "pubDate": "2026-09-28T17:00:43.000Z"
     }
   ]
 }
