@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T05:41:05.264Z",
+  "generatedAt": "2026-10-02T12:39:09.869Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,76 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "AT&T claims iOS 27.0.1 fixes iPhone 18 Pro Max cellular issues, but users disagree",
+      "url": "https://9to5mac.com/2026/10/02/att-claims-ios-27-0-1-fixes-iphone-18-pro-max-cellular-issues-but-users-disagree/",
+      "pubDate": "2026-10-02T12:27:29.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Home Hub, iPhone 18 Pro cameras, and Meta VR on the AppleInsider Podcast",
+      "url": "https://appleinsider.com/articles/26/10/02/home-hub-iphone-18-pro-cameras-and-meta-vr-on-the-appleinsider-podcast?utm_source=rss",
+      "pubDate": "2026-10-02T12:12:39.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Star Wars: Galactic Racer is my childhood podracing dream come true",
+      "url": "https://www.theverge.com/entertainment/1002887/star-wars-galactic-racer-review",
+      "pubDate": "2026-10-02T12:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "AI hallucinations are making entitled customers even worse",
+      "url": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
+      "pubDate": "2026-10-02T12:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "If a data center is camouflaged in the woods, will anyone hate it?",
+      "url": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
+      "pubDate": "2026-10-02T12:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Amazon writes scary blog warning communities not to block data centers",
+      "url": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
+      "pubDate": "2026-10-02T11:52:20.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Optimistic AT&T tells iPhone 18 Pro Max iOS 27.0.1 update will fix call problems",
+      "url": "https://appleinsider.com/articles/26/10/02/optimistic-att-tells-iphone-18-pro-max-ios-2701-update-will-fix-call-problems?utm_source=rss",
+      "pubDate": "2026-10-02T11:37:12.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Be more comfortable at your desk, and think about ergonomics",
+      "url": "https://appleinsider.com/articles/26/10/02/be-more-comfortable-at-your-desk-and-think-about-ergonomics?utm_source=rss",
+      "pubDate": "2026-10-02T11:10:18.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "M6 Mac mini review: Excellent hardware badly hampered by too-small SSD",
+      "url": "https://appleinsider.com/articles/26/10/02/m6-mac-mini-review-excellent-hardware-badly-hampered-by-too-small-ssd?utm_source=rss",
+      "pubDate": "2026-10-02T11:08:23.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "AI music maker Suno now generates spoken words",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+      "pubDate": "2026-10-02T09:42:19.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -206,25 +276,11 @@
       "pubDate": "2026-10-01T17:12:21.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Sony brings AI graphics upscaling to the regular PS5",
-      "url": "https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr",
-      "pubDate": "2026-10-01T16:53:39.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Watch yet more classic movies for free on Apple TV",
       "url": "https://appleinsider.com/articles/26/10/01/watch-yet-more-classic-movies-for-free-on-apple-tv?utm_source=rss",
       "pubDate": "2026-10-01T16:24:16.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Can VR glasses save VR?",
-      "url": "https://www.theverge.com/tech/1003034/meta-vr-glasses-vs-augmented-reality",
-      "pubDate": "2026-10-01T16:10:32.000Z"
     },
     {
       "source": "MacRumors",
@@ -234,32 +290,11 @@
       "pubDate": "2026-10-01T16:08:01.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "ESPN app recently got big upgrade on Apple TV 4K and iPhone",
-      "url": "https://9to5mac.com/2026/10/01/espn-app-recently-got-big-upgrade-on-apple-tv-4k-and-iphone/",
-      "pubDate": "2026-10-01T16:04:08.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Microsoft’s Office and Teams chief is leaving",
-      "url": "https://www.theverge.com/news/1003515/microsoft-ryan-roslansky-office-teams-linkedin-leaving",
-      "pubDate": "2026-10-01T16:02:37.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iPhone 18 Pro Colors Buyer's Guide: Which Should You Choose?",
       "url": "https://www.macrumors.com/guide/iphone-18-pro-colors/",
       "pubDate": "2026-10-01T16:01:16.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Inside Microsoft’s big Copilot rethink",
-      "url": "https://www.theverge.com/tech/1003365/microsoft-copilot-os-for-work-notepad",
-      "pubDate": "2026-10-01T16:00:00.000Z"
     },
     {
       "source": "AppleInsider",
@@ -269,46 +304,11 @@
       "pubDate": "2026-10-01T15:51:17.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple's 2TB M5 Pro MacBook Pro plunges to $2,699, save $500",
-      "url": "https://appleinsider.com/articles/26/10/01/apples-2tb-m5-pro-macbook-pro-plunges-to-2699-save-500?utm_source=rss",
-      "pubDate": "2026-10-01T15:49:34.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Home Hub will rely on AI to identify which user's content to display",
-      "url": "https://appleinsider.com/articles/26/10/01/home-hub-will-rely-on-ai-to-identify-which-users-content-to-display?utm_source=rss",
-      "pubDate": "2026-10-01T15:47:50.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Faster Mac & iPad Pro networking needs just one cable with Sonnet's new adapter",
-      "url": "https://appleinsider.com/articles/26/10/01/faster-mac-ipad-pro-networking-needs-just-one-cable-with-sonnets-new-adapter?utm_source=rss",
-      "pubDate": "2026-10-01T15:44:28.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Early Prime Big Deal Days: Best Discounts on Accessories, TVs, and More at Amazon",
       "url": "https://www.macrumors.com/2026/10/01/best-early-prime-day-deals-on-accessories/",
       "pubDate": "2026-10-01T15:38:45.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Touch-screen OLED MacBook Pro expected in October or November",
-      "url": "https://appleinsider.com/articles/26/10/01/touch-screen-oled-macbook-pro-expected-in-october-or-november?utm_source=rss",
-      "pubDate": "2026-10-01T14:56:49.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "NYC is now the first city in America that bans sketchy subscriptions",
-      "url": "https://www.theverge.com/policy/1003426/nyc-click-to-cancel-subscriptions-rule",
-      "pubDate": "2026-10-01T14:49:25.000Z"
     },
     {
       "source": "MacRumors",
