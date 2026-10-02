@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T23:54:02.208Z",
+  "generatedAt": "2026-10-02T05:41:05.264Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "AT&T Acknowledges iPhone 18 Pro Max Issues: 'Update Immediately'",
+      "url": "https://www.macrumors.com/2026/10/01/att-acknowledges-iphone-18-pro-max-issues/",
+      "pubDate": "2026-10-02T03:42:44.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple TV’s acclaimed ‘The Last First: Winter K2’ documentary now streaming",
+      "url": "https://9to5mac.com/2026/10/01/apple-tvs-acclaimed-the-last-first-winter-k2-documentary-now-streaming/",
+      "pubDate": "2026-10-02T01:00:20.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -117,7 +131,7 @@
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Says iPhone Duo Has Replaceable 'Cover Layer' Above the Display",
+      "title": "Apple Says iPhone Duo Has Replaceable 'Cover Layer'",
       "url": "https://www.macrumors.com/2026/10/01/iphone-duo-cover-layer-is-replaceable/",
       "pubDate": "2026-10-01T19:25:11.000Z"
     },
@@ -276,13 +290,6 @@
       "pubDate": "2026-10-01T15:44:28.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "HP’s MacBook Neo competitor is $699 with an OLED display and plenty of catches",
-      "url": "https://9to5google.com/2026/10/01/hp-omnibook-5-macbook-neo-competitor-699-oled-display-plenty-of-catches/",
-      "pubDate": "2026-10-01T15:40:02.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Early Prime Big Deal Days: Best Discounts on Accessories, TVs, and More at Amazon",
@@ -302,13 +309,6 @@
       "title": "NYC is now the first city in America that bans sketchy subscriptions",
       "url": "https://www.theverge.com/policy/1003426/nyc-click-to-cancel-subscriptions-rule",
       "pubDate": "2026-10-01T14:49:25.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple's Home Hub color options surface ahead of expected October debut",
-      "url": "https://appleinsider.com/articles/26/10/01/apples-home-hub-color-options-surface-ahead-of-expected-october-debut?utm_source=rss",
-      "pubDate": "2026-10-01T14:44:04.000Z"
     },
     {
       "source": "MacRumors",
@@ -346,20 +346,6 @@
       "pubDate": "2026-10-01T11:59:27.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Oppo can't get accusations of Apple Watch trade secret theft dismissed",
-      "url": "https://appleinsider.com/articles/26/10/01/oppo-cant-get-accusations-of-apple-watch-trade-secret-theft-dismissed?utm_source=rss",
-      "pubDate": "2026-10-01T11:37:57.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone 18 Pro Sales Jump in China Ahead of iPhone Duo Launch",
-      "url": "https://www.macrumors.com/2026/10/01/strong-iphone-18-pro-launch-sales-china/",
-      "pubDate": "2026-10-01T11:37:34.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "‘Shop Different’ Review: The Genius of Retail (The Wall Street Journal/Jason Snell)",
@@ -372,6 +358,20 @@
       "title": "(Podcast) Clockwise 676: Mad at a Supermarket",
       "url": "https://sixcolors.com/podcast/2026/09/clockwise-676-mad-at-a-supermarket/",
       "pubDate": "2026-09-30T17:51:00.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Numbers update get statistical and trigonometry functions, and Apple tells you what they all are ↦",
+      "url": "https://sixcolors.com/link/2026/09/numbers-update-get-statistical-and-trigonometry-functions-and-apple-tells-you-what-they-all-are/",
+      "pubDate": "2026-09-30T13:09:13.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) Designed in California 10: Apple’s Mac OS Crisis: The Bake-Off (Part 6)",
+      "url": "https://sixcolors.com/podcast/2026/09/designed-in-california-10-apples-mac-os-crisis-the-bake-off-part-6/",
+      "pubDate": "2026-09-30T09:00:00.000Z"
     }
   ]
 }
