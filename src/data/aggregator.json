@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T02:00:18.052Z",
+  "generatedAt": "2026-10-03T08:08:38.232Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Says iPhone 18 Pro Max Users With AT&T Cellular Issue Need to Have Device Replaced",
+      "url": "https://www.macrumors.com/2026/10/02/apple-statement-on-iphone-18-pro-max-att-issue/",
+      "pubDate": "2026-10-03T03:21:12.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -351,13 +358,6 @@
       "title": "Apple's Smart Home Camera Will Apparently Have 'No Video Recording'",
       "url": "https://www.macrumors.com/2026/10/01/apple-smart-home-camera-no-video-recording/",
       "pubDate": "2026-10-01T17:44:21.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple TV Just Updated Its Selection of 'Bonus' Movies",
-      "url": "https://www.macrumors.com/2026/10/01/apple-tv-new-bonus-movies/",
-      "pubDate": "2026-10-01T16:08:01.000Z"
     },
     {
       "source": "Six Colors",
