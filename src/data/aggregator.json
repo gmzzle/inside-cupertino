@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T08:08:38.232Z",
+  "generatedAt": "2026-10-03T13:24:50.056Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Top Stories: Apple Smart Home Launch on October 13, iPhone Duo Production Issues, and More",
+      "url": "https://www.macrumors.com/2026/10/03/top-stories-apple-smart-home-launch-october-13/",
+      "pubDate": "2026-10-03T13:00:12.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple weekend deals: MacBook Pro $500 off, AirTag 2, Prime Day HomeKit discounts, MagSafe chargers, more",
+      "url": "https://9to5mac.com/2026/10/03/apple-weekend-deals-macbook-discounts/",
+      "pubDate": "2026-10-03T12:21:42.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "3D movies are finally worth watching",
+      "url": "https://www.theverge.com/tech/1004131/3d-movies-are-finally-worth-watching-xreal-meta-glasses-vision-pro",
+      "pubDate": "2026-10-03T12:00:00.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -248,20 +269,6 @@
       "pubDate": "2026-10-02T16:18:55.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Using an iPad mini to preview the iPhone Duo experience",
-      "url": "https://9to5mac.com/2026/10/02/using-an-ipad-mini-to-preview-the-iphone-duo-experience/",
-      "pubDate": "2026-10-02T16:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Dots get up in Muse’s business",
-      "url": "https://www.theverge.com/podcast/1004059/openai-dots-kindle-homepad-cybercab-vergecast",
-      "pubDate": "2026-10-02T15:47:05.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Early October Prime Day deals: Save up to $600 on Mac, Apple Watch, Jackery, Ugreen",
@@ -351,13 +358,6 @@
       "title": "Amazon introduces new Kindles and accessories ↦",
       "url": "https://sixcolors.com/link/2026/10/amazon-introduces-new-kindles-and-accessories/",
       "pubDate": "2026-10-01T18:29:39.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple's Smart Home Camera Will Apparently Have 'No Video Recording'",
-      "url": "https://www.macrumors.com/2026/10/01/apple-smart-home-camera-no-video-recording/",
-      "pubDate": "2026-10-01T17:44:21.000Z"
     },
     {
       "source": "Six Colors",
