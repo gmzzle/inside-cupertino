@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T00:39:57.314Z",
+  "generatedAt": "2026-10-04T06:57:48.860Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Early October Prime Day deals: Save up to $600 on Mac, Apple Watch, Jackery, Ugreen",
+      "url": "https://appleinsider.com/articles/26/10/02/early-october-prime-day-deals-save-up-to-600-on-mac-apple-watch-jackery-ugreen?utm_source=rss",
+      "pubDate": "2026-10-04T04:20:37.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Amazon's $1,099 M5 MacBook Air deal offers $200 October Prime Day savings",
+      "url": "https://appleinsider.com/articles/26/10/04/amazons-1099-m5-macbook-air-deal-offers-200-october-prime-day-savings?utm_source=rss",
+      "pubDate": "2026-10-04T04:02:17.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -276,13 +290,6 @@
       "pubDate": "2026-10-02T16:18:55.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Early October Prime Day deals: Save up to $600 on Mac, Apple Watch, Jackery, Ugreen",
-      "url": "https://appleinsider.com/articles/26/10/02/early-october-prime-day-deals-save-up-to-600-on-mac-apple-watch-jackery-ugreen?utm_source=rss",
-      "pubDate": "2026-10-02T15:24:50.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Upgrading From an Older Apple Watch? Here's How the New Features Stack Up",
@@ -316,13 +323,6 @@
       "title": "Optimistic AT&T tells iPhone 18 Pro Max iOS 27.0.1 update will fix call problems",
       "url": "https://appleinsider.com/articles/26/10/02/optimistic-att-tells-iphone-18-pro-max-ios-2701-update-will-fix-call-problems?utm_source=rss",
       "pubDate": "2026-10-02T11:37:12.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Be more comfortable at your desk, and think about ergonomics",
-      "url": "https://appleinsider.com/articles/26/10/02/be-more-comfortable-at-your-desk-and-think-about-ergonomics?utm_source=rss",
-      "pubDate": "2026-10-02T11:10:18.000Z"
     },
     {
       "source": "MacRumors",
