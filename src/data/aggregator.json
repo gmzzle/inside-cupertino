@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T17:38:15.532Z",
+  "generatedAt": "2026-10-04T21:28:56.969Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -26,6 +26,34 @@
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
+      "title": "The new Fitbit Edge leaks",
+      "url": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks",
+      "pubDate": "2026-10-04T21:02:09.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Sunday Reboot: Waiting a decade for Apple Pay and Apple Music",
+      "url": "https://appleinsider.com/articles/26/10/04/sunday-reboot-waiting-a-decade-for-apple-pay-and-apple-music?utm_source=rss",
+      "pubDate": "2026-10-04T20:07:57.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Prick’s theatrical industrial punk is perfect for spooky season",
+      "url": "https://www.theverge.com/entertainment/1004595/prick-industrial-glam-punk-album-review",
+      "pubDate": "2026-10-04T20:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "This is my biggest AirPods complaint, and it’s not necessarily about the hardware",
+      "url": "https://9to5mac.com/2026/10/04/this-is-my-biggest-airpods-complaint/",
+      "pubDate": "2026-10-04T19:09:34.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
       "title": "The best early October Prime Day deals happening now",
       "url": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
       "pubDate": "2026-10-04T17:18:00.000Z"
@@ -33,7 +61,7 @@
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
-      "title": "NJ’s lieutenant governor told PBS, AI says he didn’t commit sexual harassment",
+      "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
       "pubDate": "2026-10-04T16:16:04.000Z"
     },
@@ -133,20 +161,6 @@
       "sourceHomepage": "https://www.theverge.com",
       "title": "The forgotten Chromebook that started it all",
       "url": "https://www.theverge.com/podcast/1001215/the-forgotten-chromebook-that-started-it-all",
-      "pubDate": "2026-10-04T12:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The rise, fall, and rise of portable MP3 players",
-      "url": "https://www.theverge.com/column/1003566/history-apple-ipod-mp3-music-player",
-      "pubDate": "2026-10-04T12:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Amazon’s colorful and sturdy new Kindles",
-      "url": "https://www.theverge.com/tech/1004199/amazon-kindle-openai-dots-witcher-3-remastered-bose-wired-headphones",
       "pubDate": "2026-10-04T12:00:00.000Z"
     },
     {
@@ -269,25 +283,11 @@
       "pubDate": "2026-10-02T21:05:13.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple confirms iPhone 18 Pro Max AT&T cellular issues, affected devices require hardware replacement",
-      "url": "https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement/",
-      "pubDate": "2026-10-02T20:47:02.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple moves to protect private Mac data from overreaching AI apps",
       "url": "https://appleinsider.com/articles/26/10/02/apple-moves-to-protect-private-mac-data-from-overreaching-ai-apps?utm_source=rss",
       "pubDate": "2026-10-02T20:46:27.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "SwitchBot Lock Vision Pro review: lack of home key support will drive Apple users away",
-      "url": "https://appleinsider.com/articles/26/10/02/swtichbot-lock-vision-pro-review-lack-of-home-key-support-will-drive-apple-users-away?utm_source=rss",
-      "pubDate": "2026-10-02T20:39:21.000Z"
     },
     {
       "source": "MacRumors",
