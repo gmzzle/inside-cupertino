@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T00:57:27.005Z",
+  "generatedAt": "2026-10-05T07:05:12.884Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Amazon slashes 50% off Beats Studio Pro headphones",
+      "url": "https://appleinsider.com/articles/26/10/05/amazon-slashes-50-off-beats-studio-pro-headphones?utm_source=rss",
+      "pubDate": "2026-10-05T04:05:04.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's New CEO John Ternus is Making Product Design a 'Major Priority'",
+      "url": "https://www.macrumors.com/2026/10/04/john-ternus-making-design-a-major-priority/",
+      "pubDate": "2026-10-05T02:35:01.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Hiring 'iCup' Specialist",
+      "url": "https://www.macrumors.com/2026/10/04/apple-icup-job-listing/",
+      "pubDate": "2026-10-05T02:11:42.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "MacBook Pro With OLED Display Rumored to Be 'Significantly Lighter'",
+      "url": "https://www.macrumors.com/2026/10/04/oled-macbook-pro-significantly-lighter-rumor/",
+      "pubDate": "2026-10-05T01:22:06.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -290,13 +318,6 @@
       "pubDate": "2026-10-02T21:05:13.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple moves to protect private Mac data from overreaching AI apps",
-      "url": "https://appleinsider.com/articles/26/10/02/apple-moves-to-protect-private-mac-data-from-overreaching-ai-apps?utm_source=rss",
-      "pubDate": "2026-10-02T20:46:27.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Announces 'Full Disk Access' Changes on macOS Due to AI Agents",
@@ -330,27 +351,6 @@
       "title": "Upgrading From an Older Apple Watch? Here's How the New Features Stack Up",
       "url": "https://www.macrumors.com/guide/upgrading-from-older-apple-watch/",
       "pubDate": "2026-10-02T15:20:39.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Beats 360 Cushion Kits and Apple Accessories See Early Prime Day Price Drops",
-      "url": "https://www.macrumors.com/2026/10/02/best-apple-deals-of-the-week-10-2-26/",
-      "pubDate": "2026-10-02T14:59:58.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Store in UK Reopening on iPhone Duo Launch Day",
-      "url": "https://www.macrumors.com/2026/10/02/apple-store-in-uk-reopens-on-iphone-duo-launch-day/",
-      "pubDate": "2026-10-02T14:17:47.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "AT&T Acknowledges iPhone 18 Pro Max Issues: Update 'Immediately'",
-      "url": "https://www.macrumors.com/2026/10/01/att-acknowledges-iphone-18-pro-max-issues/",
-      "pubDate": "2026-10-02T03:42:44.000Z"
     },
     {
       "source": "Six Colors",
