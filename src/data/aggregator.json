@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T21:28:56.969Z",
+  "generatedAt": "2026-10-05T00:57:27.005Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Event Reportedly Planned for October 13",
+      "url": "https://www.macrumors.com/2026/10/04/apple-event-reportedly-planned-for-october-13/",
+      "pubDate": "2026-10-05T00:07:38.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -344,13 +351,6 @@
       "title": "AT&T Acknowledges iPhone 18 Pro Max Issues: Update 'Immediately'",
       "url": "https://www.macrumors.com/2026/10/01/att-acknowledges-iphone-18-pro-max-issues/",
       "pubDate": "2026-10-02T03:42:44.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "New 'AirFly Drive' Accessory Turns Wired CarPlay Into Wireless CarPlay",
-      "url": "https://www.macrumors.com/2026/10/01/twelve-south-airfly-drive/",
-      "pubDate": "2026-10-01T22:08:42.000Z"
     },
     {
       "source": "Six Colors",
