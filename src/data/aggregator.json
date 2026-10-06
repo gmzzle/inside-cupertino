@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T10:21:46.267Z",
+  "generatedAt": "2026-10-06T17:12:43.050Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,284 +24,333 @@
   ],
   "items": [
     {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "We'll be shocked If there isn't another Apple price hike before March 2027",
+      "url": "https://appleinsider.com/articles/26/10/06/well-be-shocked-if-there-isnt-another-apple-price-hike-before-march-2027?utm_source=rss",
+      "pubDate": "2026-10-06T17:11:16.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPadOS 27.2 public beta 2 and more now available, here’s what’s new",
+      "url": "https://9to5mac.com/2026/10/06/ipados-27-2-public-beta-2-and-more-now-available-heres-whats-new/",
+      "pubDate": "2026-10-06T17:07:10.000Z"
+    },
+    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27.2 May Let You Hide Specific Suggested Actions in Messages",
-      "url": "https://www.macrumors.com/2026/10/06/ios-27-2-switch-off-messages-suggestions/",
-      "pubDate": "2026-10-06T09:43:18.000Z"
+      "title": "Apple Releases Second Public Betas of iOS 27.2 and macOS Golden Gate 27.2",
+      "url": "https://www.macrumors.com/2026/10/06/ios-27-2-public-beta-2/",
+      "pubDate": "2026-10-06T17:06:24.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "macOS 27.2 public beta 2 now available, here’s what’s coming",
+      "url": "https://9to5mac.com/2026/10/06/macos-27-2-public-beta-2-now-available-heres-whats-coming/",
+      "pubDate": "2026-10-06T17:04:33.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple releases second iOS 27.2 public beta with new iPhone Health app",
+      "url": "https://9to5mac.com/2026/10/06/apple-releases-second-ios-27-2-public-beta-with-new-iphone-health-app/",
+      "pubDate": "2026-10-06T17:04:16.000Z"
     },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple's M6 Mac mini with 512GB SSD plunges to $949 for Prime Day",
-      "url": "https://appleinsider.com/articles/26/10/06/apples-m6-mac-mini-with-512gb-ssd-plunges-to-949-for-prime-day?utm_source=rss",
-      "pubDate": "2026-10-06T08:16:17.000Z"
+      "title": "A Wi-Fi eGPU for Mac sounds good in theory, if you can afford it",
+      "url": "https://appleinsider.com/articles/26/10/06/a-wi-fi-egpu-for-mac-sounds-good-in-theory-if-you-can-afford-it?utm_source=rss",
+      "pubDate": "2026-10-06T17:02:06.000Z"
     },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
-      "title": "This remote-controlled wagon is silly but so very useful",
-      "url": "https://www.theverge.com/tech/1004820/this-remote-controlled-wagon-is-silly-but-useful",
-      "pubDate": "2026-10-06T08:00:00.000Z"
+      "title": "Anker’s 100W universal charger is a great travel gadget for $64",
+      "url": "https://www.theverge.com/gadgets/1004339/anker-nano-100w-universal-travel-charger-prime-day-deal-sale",
+      "pubDate": "2026-10-06T17:00:00.000Z"
     },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
-      "title": "Best Prime Big Deal Days offers on Apple Watch, AirPods, Mac, iPad & more",
-      "url": "https://appleinsider.com/articles/26/10/06/best-prime-big-deal-days-offers-on-apple-watch-airpods-mac-ipad-more?utm_source=rss",
-      "pubDate": "2026-10-06T07:38:21.000Z"
+      "title": "Prime Big Deal Days 4K monitor deals deliver prices as low as $170",
+      "url": "https://appleinsider.com/articles/26/10/06/prime-big-deal-days-4k-monitor-deals-deliver-prices-as-low-as-170?utm_source=rss",
+      "pubDate": "2026-10-06T16:55:56.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple reportedly planning second wave of product announcements later this month",
-      "url": "https://9to5mac.com/2026/10/05/apple-reportedly-planning-second-wave-of-product-announcements-later-this-month/",
-      "pubDate": "2026-10-06T03:25:14.000Z"
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "'Crossy Road Rush' Launching Exclusively on Apple Arcade in November",
+      "url": "https://www.macrumors.com/2026/10/06/crossy-road-rush-apple-arcade/",
+      "pubDate": "2026-10-06T16:46:09.000Z"
     },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
-      "title": "How to use filtering in Messages on iOS 27",
-      "url": "https://appleinsider.com/inside/ios-26/tips/how-to-use-filtering-in-messages-on-ios-26?utm_source=rss",
-      "pubDate": "2026-10-06T02:54:55.000Z"
+      "title": "There's a new and good-looking iPod clone coming in 2027",
+      "url": "https://appleinsider.com/articles/26/10/06/theres-a-new-and-good-looking-ipod-clone-coming-in-2027?utm_source=rss",
+      "pubDate": "2026-10-06T16:39:47.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Our favorite headphones and earbuds are cheaper during October Prime Day",
+      "url": "https://www.theverge.com/gadgets/1004886/october-prime-day-big-deals-days-headphones-earbuds-deal-sale",
+      "pubDate": "2026-10-06T16:30:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "We can’t just change the definition of ‘recording’",
+      "url": "https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording",
+      "pubDate": "2026-10-06T16:29:44.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Watch Series 9 vs. Series 12 Buyer's Guide: Is It Worth Upgrading?",
+      "url": "https://www.macrumors.com/guide/apple-watch-series-9-vs-series-12/",
+      "pubDate": "2026-10-06T16:16:46.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "HBO Max and Paramount Plus will merge into a single streamer under Skydance",
+      "url": "https://www.theverge.com/entertainment/1005696/hbo-max-paramout-plus-merge-skydance",
+      "pubDate": "2026-10-06T16:03:06.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The stylish Nothing Headphone 1 are cheaper than ever",
+      "url": "https://www.theverge.com/gadgets/1004290/nothing-headphone-1-deal-sale",
+      "pubDate": "2026-10-06T16:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Arturia adds proper sound design tools to its AstroLab synths",
+      "url": "https://www.theverge.com/gadgets/1005671/arturia-astrolab-synth-firmware-update",
+      "pubDate": "2026-10-06T16:00:00.000Z"
     },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
-      "title": "Second October 'event' possible with new Macs as the focus",
-      "url": "https://appleinsider.com/articles/26/10/06/second-october-event-possible-with-new-macs-as-the-focus?utm_source=rss",
-      "pubDate": "2026-10-06T02:45:04.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Sources: Apple Planning Two Sets of Product Launches in October",
-      "url": "https://www.macrumors.com/2026/10/05/apple-two-sets-of-product-launches-october/",
-      "pubDate": "2026-10-06T02:25:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Announces iPhone Duo Apps Can Now Be Submitted to App Store",
-      "url": "https://www.macrumors.com/2026/10/05/apple-opens-iphone-duo-app-submissions/",
-      "pubDate": "2026-10-06T02:15:04.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple accuses OpenAI of improperly adding new arguments to trade secrets case",
-      "url": "https://9to5mac.com/2026/10/05/apple-accuses-openai-of-improperly-adding-new-arguments-to-trade-secrets-case/",
-      "pubDate": "2026-10-06T01:43:32.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple invites developers to submit iPhone Duo-ready apps to the App Store",
-      "url": "https://9to5mac.com/2026/10/05/apple-invites-developers-to-submit-iphone-duo-ready-apps-to-the-app-store/",
-      "pubDate": "2026-10-06T00:52:16.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
-      "pubDate": "2026-10-05T23:09:55.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple may soon track when Google promotes Chrome inside Safari",
-      "url": "https://9to5mac.com/2026/10/05/apple-may-soon-track-when-google-promotes-chrome-inside-safari/",
-      "pubDate": "2026-10-05T23:09:35.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "This tool frees up Apple Intelligence storage on macOS, but think twice before using it",
-      "url": "https://9to5mac.com/2026/10/05/this-tool-frees-up-apple-intelligence-storage-on-macos-but-think-twice-before-using-it/",
-      "pubDate": "2026-10-05T22:55:49.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: October 5, 2026 – macOS privacy changes, more",
-      "url": "https://9to5mac.com/2026/10/05/daily-october-5-2026/",
-      "pubDate": "2026-10-05T22:39:59.000Z"
+      "title": "James Corden and Ruth Jones reunite for Apple TV's 'The Choir'",
+      "url": "https://appleinsider.com/articles/26/10/06/james-corden-and-ruth-jones-reunite-for-apple-tvs-the-choir?utm_source=rss",
+      "pubDate": "2026-10-06T15:48:46.000Z"
     },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
-      "title": "macOS development continues to hint at touchscreen MacBooks",
-      "url": "https://appleinsider.com/articles/26/10/05/macos-development-continues-to-hint-at-touchscreen-macbooks?utm_source=rss",
-      "pubDate": "2026-10-05T22:35:04.000Z"
+      "title": "Amazon is blowing out Kindles at up to 50% off",
+      "url": "https://appleinsider.com/articles/26/10/06/amazon-is-blowing-out-kindles-at-up-to-50-off?utm_source=rss",
+      "pubDate": "2026-10-06T15:35:17.000Z"
     },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
-      "title": "HeyPolo gives parents real-time visibility into how their teen is driving, all inside one app",
-      "url": "https://9to5mac.com/2026/10/05/heypolo-gives-parents-real-time-visibility-how-their-teen-driving/",
-      "pubDate": "2026-10-05T22:30:00.000Z"
+      "title": "Apple’s MacBook Pro overhaul is coming soon, here’s what to expect",
+      "url": "https://9to5mac.com/2026/10/06/apples-huge-macbook-pro-overhaul-is-coming-soon-heres-what-we-know/",
+      "pubDate": "2026-10-06T15:25:02.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Prime Day Savings: TVs, Headphones, Chargers, and Other Tech Accessories",
+      "url": "https://www.macrumors.com/2026/10/06/prime-day-savings-tvs-accessories/",
+      "pubDate": "2026-10-06T15:24:39.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Prime Day 1 deals: AirPods Pro 3, Max 2 $120 off, M6 Mac mini $150 off, MacBook Air $200 off, more",
+      "url": "https://9to5mac.com/2026/10/06/prime-day-deals-airpods-pro-3-m6-mac-mini-macbook-air/",
+      "pubDate": "2026-10-06T15:19:11.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Is your secure iMessage conversation actually secure?",
+      "url": "https://sixcolors.com/post/2026/10/is-your-secure-imessage-conversation-actually-secure/",
+      "pubDate": "2026-10-06T15:15:27.000Z"
     },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
-      "title": "Siri AI & Smart Replies coming to the Apple TV, tvOS 27.2 code suggests",
-      "url": "https://appleinsider.com/articles/26/10/05/siri-ai-smart-replies-coming-to-the-apple-tv-tvos-272-code-suggests?utm_source=rss",
-      "pubDate": "2026-10-05T21:49:25.000Z"
+      "title": "Rumor: Apple considered 16GB iPhone 18 Pro, iPhone Duo",
+      "url": "https://appleinsider.com/articles/26/10/06/rumor-apple-considered-16gb-iphone-18-pro-iphone-duo?utm_source=rss",
+      "pubDate": "2026-10-06T15:09:12.000Z"
     },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
-      "title": "macOS 27.2 reveals new clues about Apple’s touchscreen MacBook Pro",
-      "url": "https://9to5mac.com/2026/10/05/macos-27-2-reveals-new-clues-about-apples-touchscreen-macbook-pro/",
-      "pubDate": "2026-10-05T21:34:48.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Reverse-engineered games: All the news on video game decomps, recomps, VR and web and 3D ports",
-      "url": "https://www.theverge.com/games/1004869/reverse-engineered-games-all-the-news-on-video-game-decomps-recomps-vr-and-web-and-3d-ports",
-      "pubDate": "2026-10-05T21:17:45.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Matic is the first robovac to get an FCC ban waiver, not that it needs it",
-      "url": "https://www.theverge.com/policy/1004926/matic-fcc-ban-waiver-conditional-approval",
-      "pubDate": "2026-10-05T21:15:05.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "macOS 27.2 Adds Touch Gestures Ahead of MacBook Ultra",
-      "url": "https://www.macrumors.com/2026/10/05/macos-27-2-touch-gestures/",
-      "pubDate": "2026-10-05T21:14:08.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple and AT&T Have Yet to Explain Cause of iPhone 18 Pro Max Issue",
-      "url": "https://www.macrumors.com/2026/10/05/apple-att-yet-to-share-cause-of-iphone-issue/",
-      "pubDate": "2026-10-05T21:10:06.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "This is Apple Music’s new logo, probably",
-      "url": "https://9to5mac.com/2026/10/05/this-is-apple-musics-new-logo-probably/",
-      "pubDate": "2026-10-05T20:50:43.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "OpenAI details new text watermarking system for ChatGPT, Codex, and the API",
-      "url": "https://9to5mac.com/2026/10/05/openai-details-new-text-watermarking-system-for-chatgpt-codex-and-the-api/",
-      "pubDate": "2026-10-05T20:46:17.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "tvOS 27.2 Code Hints at Apple Intelligence for New Apple TV",
-      "url": "https://www.macrumors.com/2026/10/05/tvos-27-2-apple-intelligence-code/",
-      "pubDate": "2026-10-05T20:45:55.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "This startup is issuing AI-generated acne prescriptions",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
-      "pubDate": "2026-10-05T20:14:57.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple TV brings back hit limited series for season 2 ‘by popular demand’",
-      "url": "https://9to5mac.com/2026/10/05/apple-tv-brings-back-hit-limited-series-for-season-2-by-popular-demand/",
-      "pubDate": "2026-10-05T19:39:38.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "All the drama around AI&#8217;s takeover of mathematics",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
-      "pubDate": "2026-10-05T19:28:59.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Wikipedia operator says OpenAI&#8217;s &#8216;rogue&#8217; bots may be linked to a May outage",
-      "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
-      "pubDate": "2026-10-05T19:05:19.000Z"
+      "title": "Apple TV unveils new series  reuniting stars of record-breaking comedy",
+      "url": "https://9to5mac.com/2026/10/06/apple-tv-unveils-new-series-reuniting-stars-of-record-breaking-comedy/",
+      "pubDate": "2026-10-06T15:04:29.000Z"
     },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
-      "title": "Identity verification to be required when reloading Apple Cash",
-      "url": "https://appleinsider.com/articles/26/10/05/identity-verification-to-be-required-when-reloading-apple-cash?utm_source=rss",
-      "pubDate": "2026-10-05T18:56:42.000Z"
+      "title": "New four-HomePod mini surround sound config will come with smart home updates",
+      "url": "https://appleinsider.com/articles/26/10/06/new-four-homepod-mini-surround-sound-config-will-come-with-smart-home-updates?utm_source=rss",
+      "pubDate": "2026-10-06T15:01:07.000Z"
     },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
-      "title": "Hyundai CEO says only a ‘level playing field’ can minimize damage from China",
-      "url": "https://www.theverge.com/transportation/1004785/hyundai-ceo-china-ev-us-market-share",
-      "pubDate": "2026-10-05T18:41:48.000Z"
+      "title": "The earbuds with the best call quality are cheaper than ever",
+      "url": "https://www.theverge.com/gadgets/1004111/soundcore-liberty-5-pro-prime-day-deal-sale",
+      "pubDate": "2026-10-06T15:00:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "These Thunderbolt 5 docks have steep Prime Big Deal Days discounts",
+      "url": "https://appleinsider.com/articles/26/10/06/these-thunderbolt-5-docks-have-steep-prime-big-deal-days-discounts?utm_source=rss",
+      "pubDate": "2026-10-06T14:58:42.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple TV 4K Rumored to Support Four HomePods for Surround Sound",
+      "url": "https://www.macrumors.com/2026/10/06/apple-tv-4k-four-homepods-rumor/",
+      "pubDate": "2026-10-06T14:40:21.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "New leaks reveal more details about the Fitbit Edge including its price",
+      "url": "https://www.theverge.com/tech/1005519/google-fitbit-edge-leak-fitness-tracker-price-features",
+      "pubDate": "2026-10-06T14:37:28.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "A Trump Mobile breach may have exposed data of more than 3,600 people",
+      "url": "https://www.theverge.com/tech/1005546/trump-mobile-data-breach-leak",
+      "pubDate": "2026-10-06T14:35:24.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone 18 Pro and Duo Were Once Planned With 16GB RAM, Leaker Says",
+      "url": "https://www.macrumors.com/2026/10/06/iphone-18-pro-and-duo-planned-with-16gb/",
+      "pubDate": "2026-10-06T14:22:11.000Z"
     },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
-      "title": "Upgrade to Apple Watch Series 12 or Ultra 4? Here’s how to get the most out of it",
-      "url": "https://9to5mac.com/2026/10/05/upgrade-to-apple-watch-series-12-or-ultra-4-heres-how-to-get-the-most-out-of-it/",
-      "pubDate": "2026-10-05T18:35:26.000Z"
+      "title": "Here’s what iPhone Duo’s new two-page PDF experience looks like",
+      "url": "https://9to5mac.com/2026/10/06/heres-what-iphone-duos-new-two-page-pdf-experience-looks-like/",
+      "pubDate": "2026-10-06T14:20:32.000Z"
     },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
-      "title": "Third developer betas for iOS 27.2, macOS 27.2 land for testing",
-      "url": "https://appleinsider.com/articles/26/10/05/third-developer-betas-for-ios-272-macos-272-land-for-testing?utm_source=rss",
-      "pubDate": "2026-10-05T18:30:49.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Seeds Third macOS Golden Gate 27.2 Beta to Developers",
-      "url": "https://www.macrumors.com/2026/10/05/apple-seeds-macos-27-2-beta-3/",
-      "pubDate": "2026-10-05T18:23:16.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Releases Third watchOS 27.2, tvOS 27.2 and visionOS 27.2 Betas",
-      "url": "https://www.macrumors.com/2026/10/05/apple-releases-watchos-27-2-beta-3/",
-      "pubDate": "2026-10-05T18:20:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Releases Third iOS 27.2 Beta",
-      "url": "https://www.macrumors.com/2026/10/05/apple-seeds-ios-27-2-beta-3/",
-      "pubDate": "2026-10-05T18:19:56.000Z"
+      "title": "Interest is making Apple's payout to Masimo much larger",
+      "url": "https://appleinsider.com/articles/26/10/06/interest-is-making-apples-payout-to-masimo-much-larger?utm_source=rss",
+      "pubDate": "2026-10-06T14:19:55.000Z"
     },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
-      "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
-      "pubDate": "2026-10-05T18:08:39.000Z"
+      "title": "The Pixel Watch 5 is a better value at $65 off",
+      "url": "https://www.theverge.com/gadgets/1003583/pixel-watch-5-prime-day-deal-sale",
+      "pubDate": "2026-10-06T14:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Leaks reveal new Apple TV 4K and HomePod features coming next week",
+      "url": "https://9to5mac.com/2026/10/06/leaks-reveal-new-apple-tv-4k-and-homepod-features-coming-next-week/",
+      "pubDate": "2026-10-06T13:57:43.000Z"
     },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Cash Adds ID Check for Reloads, Teases Bank Funding",
-      "url": "https://www.macrumors.com/2026/10/05/apple-cash-reload-id-check/",
-      "pubDate": "2026-10-05T17:57:55.000Z"
+      "title": "Apple's Entire Mac Lineup Gets Massive Discounts for Prime Day",
+      "url": "https://www.macrumors.com/2026/10/06/mac-lineup-discounts-prime-day/",
+      "pubDate": "2026-10-06T13:55:33.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Prime Day iPad Deals Include Low Prices on iPad Air, iPad Mini, and More",
+      "url": "https://www.macrumors.com/2026/10/06/prime-day-ipad-deals-2026/",
+      "pubDate": "2026-10-06T13:45:11.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Apple’s new parental controls are having a messy roll out ↦",
+      "url": "https://sixcolors.com/link/2026/10/apples-new-parental-controls-are-having-a-messy-roll-out/",
+      "pubDate": "2026-10-06T13:43:17.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple must pay Masimo an extra $184M for Apple Watch patent infringement",
+      "url": "https://9to5mac.com/2026/10/06/apple-must-pay-masimo-an-extra-184m-for-apple-watch-patent-infringement/",
+      "pubDate": "2026-10-06T13:35:41.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple will launch 7+ new products in October, here’s what’s coming",
+      "url": "https://9to5mac.com/2026/10/06/apple-will-launch-7-new-products-in-october-heres-whats-coming/",
+      "pubDate": "2026-10-06T13:32:06.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's $634 Million Apple Watch Patent Bill Just Got Even Bigger",
+      "url": "https://www.macrumors.com/2026/10/06/apple-watch-patent-bill-just-got-bigger/",
+      "pubDate": "2026-10-06T13:09:59.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "A fun night video test of the iPhone 18 Pro",
+      "url": "https://9to5mac.com/2026/10/06/a-fun-night-video-test-of-the-iphone-18-pro/",
+      "pubDate": "2026-10-06T12:49:04.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Amazon Prime Big Deal Days Offers Major Discounts on AirPods, iPads, and Much More",
+      "url": "https://www.macrumors.com/2026/10/06/amazon-prime-big-deal-days-mega/",
+      "pubDate": "2026-10-06T12:43:41.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "All of the best fall Prime Day deals now live: AirPods, Mac mini, MacBook, chargers, cases, more",
+      "url": "https://9to5mac.com/2026/10/06/best-fall-prime-day-apple-deals-live/",
+      "pubDate": "2026-10-06T12:31:24.000Z"
     },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple One subscribers in Europe hit with a price increase",
-      "url": "https://appleinsider.com/articles/26/10/05/apple-one-subscribers-in-europe-hit-with-a-price-increase?utm_source=rss",
-      "pubDate": "2026-10-05T17:49:39.000Z"
+      "title": "Modernized Apple Music logo is now chunkier than ever",
+      "url": "https://appleinsider.com/articles/26/10/06/modernized-apple-music-logo-is-now-chunkier-than-ever?utm_source=rss",
+      "pubDate": "2026-10-06T12:07:51.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Microsoft OneDrive to Drop Support for These iPhone Models",
+      "url": "https://www.macrumors.com/2026/10/06/microsoft-onedrive-drop-support-iphone-models/",
+      "pubDate": "2026-10-06T11:53:38.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "HomePod Mini Waits Reach Eight Weeks Ahead of Rumored Refresh",
+      "url": "https://www.macrumors.com/2026/10/06/homepod-mini-waits-reach-eight-weeks/",
+      "pubDate": "2026-10-06T11:31:13.000Z"
     },
     {
       "source": "Six Colors",
@@ -311,41 +360,6 @@
       "pubDate": "2026-10-05T17:30:00.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Configurator App Updated",
-      "url": "https://www.macrumors.com/2026/10/05/apple-configurator-app-updated/",
-      "pubDate": "2026-10-05T17:18:18.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
-      "pubDate": "2026-10-05T16:55:42.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple One Just Went Up in Price in These Countries",
-      "url": "https://www.macrumors.com/2026/10/05/apple-one-price-increases-in-select-countries/",
-      "pubDate": "2026-10-05T16:43:53.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Prime Day AirPods deals: $179 AirPods Pro 3, $120 off AirPods Max 2",
-      "url": "https://appleinsider.com/articles/26/10/05/prime-day-airpods-deals-179-airpods-pro-3-120-off-airpods-max-2?utm_source=rss",
-      "pubDate": "2026-10-05T15:59:09.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple Watch Prime Day deals drive Series 12 down to $349, $100 off Ultra 4",
-      "url": "https://appleinsider.com/articles/26/10/05/apple-watch-prime-day-deals-drive-series-12-down-to-349-100-off-ultra-4?utm_source=rss",
-      "pubDate": "2026-10-05T14:30:51.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Secretive helps you keep your SSH keys secret, keep them safe",
@@ -353,25 +367,11 @@
       "pubDate": "2026-10-05T14:02:40.000Z"
     },
     {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Apple is changing Full Disk Access in macOS",
-      "url": "https://sixcolors.com/post/2026/10/apple-is-changing-full-disk-access-in-macos/",
-      "pubDate": "2026-10-05T13:22:52.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Support St. Jude and watch the 2026 Relay Podcastathon ↦",
-      "url": "https://sixcolors.com/link/2026/10/support-st-jude-and-watch-the-2026-relay-podcastathon-2/",
-      "pubDate": "2026-10-02T18:30:28.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Amazon introduces new Kindles and accessories ↦",
-      "url": "https://sixcolors.com/link/2026/10/amazon-introduces-new-kindles-and-accessories/",
-      "pubDate": "2026-10-01T18:29:39.000Z"
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Amazon slashes up to $200 off 2026 Mac mini, Mac Studio",
+      "url": "https://appleinsider.com/articles/26/10/05/amazon-slashes-up-to-200-off-2026-mac-mini-mac-studio?utm_source=rss",
+      "pubDate": "2026-10-05T13:51:19.000Z"
     }
   ]
 }
