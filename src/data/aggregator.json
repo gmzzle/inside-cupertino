@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T03:00:29.090Z",
+  "generatedAt": "2026-10-06T10:21:46.267Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,6 +24,41 @@
   ],
   "items": [
     {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iOS 27.2 May Let You Hide Specific Suggested Actions in Messages",
+      "url": "https://www.macrumors.com/2026/10/06/ios-27-2-switch-off-messages-suggestions/",
+      "pubDate": "2026-10-06T09:43:18.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's M6 Mac mini with 512GB SSD plunges to $949 for Prime Day",
+      "url": "https://appleinsider.com/articles/26/10/06/apples-m6-mac-mini-with-512gb-ssd-plunges-to-949-for-prime-day?utm_source=rss",
+      "pubDate": "2026-10-06T08:16:17.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "This remote-controlled wagon is silly but so very useful",
+      "url": "https://www.theverge.com/tech/1004820/this-remote-controlled-wagon-is-silly-but-useful",
+      "pubDate": "2026-10-06T08:00:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Best Prime Big Deal Days offers on Apple Watch, AirPods, Mac, iPad & more",
+      "url": "https://appleinsider.com/articles/26/10/06/best-prime-big-deal-days-offers-on-apple-watch-airpods-mac-ipad-more?utm_source=rss",
+      "pubDate": "2026-10-06T07:38:21.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple reportedly planning second wave of product announcements later this month",
+      "url": "https://9to5mac.com/2026/10/05/apple-reportedly-planning-second-wave-of-product-announcements-later-this-month/",
+      "pubDate": "2026-10-06T03:25:14.000Z"
+    },
+    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "How to use filtering in Messages on iOS 27",
@@ -43,6 +78,13 @@
       "title": "Sources: Apple Planning Two Sets of Product Launches in October",
       "url": "https://www.macrumors.com/2026/10/05/apple-two-sets-of-product-launches-october/",
       "pubDate": "2026-10-06T02:25:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Announces iPhone Duo Apps Can Now Be Submitted to App Store",
+      "url": "https://www.macrumors.com/2026/10/05/apple-opens-iphone-duo-app-submissions/",
+      "pubDate": "2026-10-06T02:15:04.000Z"
     },
     {
       "source": "9to5Mac",
@@ -213,13 +255,6 @@
       "pubDate": "2026-10-05T18:35:26.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 upgrades Messages app with key new features for RCS",
-      "url": "https://9to5mac.com/2026/10/05/ios-27-upgrades-messages-app-with-key-new-features-for-rcs/",
-      "pubDate": "2026-10-05T18:31:31.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Third developer betas for iOS 27.2, macOS 27.2 land for testing",
@@ -231,7 +266,7 @@
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Seeds Third macOS Golden Gate 27.2 Beta to Developers",
       "url": "https://www.macrumors.com/2026/10/05/apple-seeds-macos-27-2-beta-3/",
-      "pubDate": "2026-10-05T18:23:19.000Z"
+      "pubDate": "2026-10-05T18:23:16.000Z"
     },
     {
       "source": "MacRumors",
@@ -283,25 +318,11 @@
       "pubDate": "2026-10-05T17:18:18.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iCloud+ custom emails limit raised from three to a more sane ten",
-      "url": "https://appleinsider.com/articles/26/10/05/icloud-custom-emails-limit-raised-from-three-to-a-more-sane-ten?utm_source=rss",
-      "pubDate": "2026-10-05T17:07:55.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
       "pubDate": "2026-10-05T16:55:42.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Sam Altman says ‘some bad things&#8217; will happen, but AI is totally worth it",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
-      "pubDate": "2026-10-05T16:44:21.000Z"
     },
     {
       "source": "MacRumors",
@@ -316,27 +337,6 @@
       "title": "Prime Day AirPods deals: $179 AirPods Pro 3, $120 off AirPods Max 2",
       "url": "https://appleinsider.com/articles/26/10/05/prime-day-airpods-deals-179-airpods-pro-3-120-off-airpods-max-2?utm_source=rss",
       "pubDate": "2026-10-05T15:59:09.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone 13 Pro vs. iPhone 18 Pro Buyer's Guide: Is It Worth Upgrading?",
-      "url": "https://www.macrumors.com/guide/iphone-13-pro-vs-18-pro/",
-      "pubDate": "2026-10-05T15:58:56.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPad Could Get Significantly Thinner Bezels, Leaker Says",
-      "url": "https://www.macrumors.com/2026/10/05/ipad-to-get-thinner-bezels/",
-      "pubDate": "2026-10-05T15:39:28.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple's smart home plans & Xthings Security with Raj Sundar on Smart Home Insider",
-      "url": "https://appleinsider.com/articles/26/10/05/apples-smart-home-plans-xthings-security-with-raj-sundar-on-smart-home-insider?utm_source=rss",
-      "pubDate": "2026-10-05T14:50:47.000Z"
     },
     {
       "source": "AppleInsider",
