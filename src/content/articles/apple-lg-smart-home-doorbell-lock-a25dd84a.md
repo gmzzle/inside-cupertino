@@ -1,7 +1,7 @@
 ---
 title: "Apple's Doorbell and Smart Lock Are Coming. They'll Say LG on the Box."
 description: "Bloomberg says Apple co-developed seven smart home accessories with LG, including a doorbell, deadbolt, thermostat and cameras, sold under LG's brand."
-pubDate: 2026-10-07T15:45:00.000Z
+pubDate: 2026-10-07T15:25:00.000Z
 draft: false
 author: "Inside Cupertino"
 tags:
