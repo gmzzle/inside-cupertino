@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T22:00:04.135Z",
+  "generatedAt": "2026-10-08T01:57:39.190Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,62 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Microsoft Launches $2,599 Surface Laptop Ultra to Take on MacBook Pro",
+      "url": "https://www.macrumors.com/2026/10/07/microsoft-surface-laptop-ultra/",
+      "pubDate": "2026-10-08T00:45:43.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Jackery HomePower 2000 Plus v2 review: keeping you prepared when the power goes out",
+      "url": "https://appleinsider.com/articles/26/10/08/jackery-homepower-2000-plus-v2-review-keeping-you-prepared-when-the-power-goes-out?utm_source=rss",
+      "pubDate": "2026-10-08T00:13:02.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "All of the best fall Prime Day deals: AirPods, Mac mini, MacBook, chargers, cases, more",
+      "url": "https://9to5mac.com/2026/10/07/best-fall-prime-day-apple-deals-live/",
+      "pubDate": "2026-10-08T00:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Google's SynthID AI Detector is Now Available to Everyone",
+      "url": "https://www.macrumors.com/2026/10/07/google-synthid-detector/",
+      "pubDate": "2026-10-07T23:42:44.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "WhatsApp expands the Liquid Glass design to its video player",
+      "url": "https://9to5mac.com/2026/10/07/whatsapp-expands-the-liquid-glass-design-to-its-video-player/",
+      "pubDate": "2026-10-07T23:19:01.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "ChatGPT Gets GPT-6 and New Intelligent UI With Visual Answers",
+      "url": "https://www.macrumors.com/2026/10/07/chatgpt-intelligent-ui/",
+      "pubDate": "2026-10-07T22:27:06.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Get AirPods Pro 3 for $179, Apple Watch for $199, and More Before Prime Day Ends Today",
+      "url": "https://www.macrumors.com/2026/10/07/prime-day-ends-today-october-26/",
+      "pubDate": "2026-10-07T22:10:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "BMW’s iX4 SUV is a 428-mile defensive weapon against China’s EV takeover",
+      "url": "https://www.theverge.com/transportation/1006837/bmw-ix4-ev-range-price-specs-tesla-china",
+      "pubDate": "2026-10-07T22:01:00.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -213,13 +269,6 @@
       "pubDate": "2026-10-07T18:01:20.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "How Microsoft built its MacBook Pro competitor",
-      "url": "https://www.theverge.com/tech/1006356/microsoft-surface-laptop-ultra-behind-the-scenes",
-      "pubDate": "2026-10-07T18:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Boston's MBTA Testing New Charlie Card With Apple Wallet Support",
@@ -248,20 +297,6 @@
       "pubDate": "2026-10-07T17:40:40.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple’s new Home cameras and doorbell with LG revealed in leaked images",
-      "url": "https://9to5mac.com/2026/10/07/apples-new-home-cameras-and-doorbell-with-lg-revealed-in-leaked-images/",
-      "pubDate": "2026-10-07T17:27:27.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Get AirPods Pro 3 for $179, Apple Watch for $199, and More Before Prime Day Ends Today",
-      "url": "https://www.macrumors.com/2026/10/07/prime-day-ends-today-october-26/",
-      "pubDate": "2026-10-07T17:10:25.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Trent Crimm's new book about Richmond AFC is out",
@@ -274,13 +309,6 @@
       "title": "Last call to grab Apple's 15-inch MacBook Air M5 for $1,299",
       "url": "https://appleinsider.com/articles/26/10/07/last-call-to-grab-apples-15-inch-macbook-air-m5-for-1299?utm_source=rss",
       "pubDate": "2026-10-07T16:44:16.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple releases free chapter from Ted Lasso ‘The Richmond Way’ book",
-      "url": "https://9to5mac.com/2026/10/07/apple-releases-free-chapter-from-ted-lasso-the-richmond-way-book/",
-      "pubDate": "2026-10-07T16:18:34.000Z"
     },
     {
       "source": "MacRumors",
@@ -311,13 +339,6 @@
       "pubDate": "2026-10-07T15:59:38.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Meta's Muse is now on the iPad App Store. Leave it there.",
-      "url": "https://appleinsider.com/articles/26/10/07/metas-muse-is-now-on-the-ipad-app-store-leave-it-there?utm_source=rss",
-      "pubDate": "2026-10-07T15:35:04.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "You Can Get Up to $149 Off Every New Mac Mini During Prime Day",
@@ -339,32 +360,11 @@
       "pubDate": "2026-10-07T14:47:21.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "12 New Things to Expect From Apple in October",
-      "url": "https://www.macrumors.com/2026/10/07/12-new-things-to-expect-from-apple-in-october/",
-      "pubDate": "2026-10-07T14:40:34.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Prime Day Offers Best TV Prices of the Year From Samsung, Sony, and More",
-      "url": "https://www.macrumors.com/2026/10/07/prime-day-best-tv-prices/",
-      "pubDate": "2026-10-07T14:06:24.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "FCC filings for LG/Apple smart home devices uncovered ↦",
       "url": "https://sixcolors.com/link/2026/10/fcc-filings-for-lg-apple-smart-home-devices-uncovered/",
       "pubDate": "2026-10-07T13:46:24.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "First Look at LG's Smart Home Products Made With Apple",
-      "url": "https://www.macrumors.com/2026/10/07/first-look-at-lg-apple-smart-home-products/",
-      "pubDate": "2026-10-07T13:26:59.000Z"
     },
     {
       "source": "Six Colors",
