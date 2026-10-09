@@ -1,7 +1,7 @@
 ---
 title: "Apple Reportedly Trims iPhone 18 Pro Orders as the $100 Price Bump Bites"
 description: "Nikkei Asia says Apple cut October component orders for the iPhone 18 Pro and Pro Max by at least 15% after higher, memory-driven prices cooled demand."
-pubDate: 2026-10-09T15:50:00.000Z
+pubDate: 2026-10-09T15:40:00.000Z
 draft: false
 author: "Inside Cupertino"
 tags:
