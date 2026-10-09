@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T16:15:41.812Z",
+  "generatedAt": "2026-10-09T21:42:00.782Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,6 +24,195 @@
   ],
   "items": [
     {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+      "pubDate": "2026-10-09T21:15:38.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Potentially Behind 'HomeView' Trademark Filed Alongside 'homeOS' Last Year",
+      "url": "https://www.macrumors.com/2026/10/09/homeview-trademark/",
+      "pubDate": "2026-10-09T20:44:24.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple acqui-hires AI startup founded by former NotebookLM developers",
+      "url": "https://9to5mac.com/2026/10/09/apple-acqui-hires-ai-startup-founded-by-former-notebooklm-developers/",
+      "pubDate": "2026-10-09T20:04:58.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Overtime 085: Here comes the HomePad",
+      "url": "https://9to5mac.com/2026/10/09/9to5mac-overtime-085-here-comes-the-homepad/",
+      "pubDate": "2026-10-09T20:01:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: October 9, 2026 – Apple’s ‘Welcome home’ launch announced, more",
+      "url": "https://9to5mac.com/2026/10/09/daily-october-9-2026/",
+      "pubDate": "2026-10-09T19:54:42.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Mark Your Calendar: Six Important Apple Dates Coming Up This Month",
+      "url": "https://www.macrumors.com/2026/10/09/six-important-apple-dates-this-month/",
+      "pubDate": "2026-10-09T19:51:04.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Ohio blogger found guilty of harassment for sending Shrek nude to senator",
+      "url": "https://www.theverge.com/policy/1008991/ohio-blogger-harassment-shrek-nude",
+      "pubDate": "2026-10-09T19:41:11.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Redesign your new M6 Mac mini for 2026 with these colorful wraps",
+      "url": "https://appleinsider.com/articles/26/10/09/redesign-your-new-m6-mac-mini-for-2026-with-these-colorful-wraps?utm_source=rss",
+      "pubDate": "2026-10-09T19:21:09.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+      "pubDate": "2026-10-09T19:09:44.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "‘HomePad’ is coming next week, with three features I’ve long wanted",
+      "url": "https://9to5mac.com/2026/10/09/homepad-is-coming-next-week-with-three-features-ive-long-wanted/",
+      "pubDate": "2026-10-09T19:02:07.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Wean yourself off the Action Button before you get an iPhone Duo",
+      "url": "https://appleinsider.com/inside/ios/tips/wean-yourself-off-the-action-button-before-you-get-an-iphone-duo?utm_source=rss",
+      "pubDate": "2026-10-09T18:35:14.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Brendan Carr says he&#8217;ll let Pete Hegseth decide whether TV networks can air the public execution",
+      "url": "https://www.theverge.com/policy/1008950/fcc-brendan-carr-pete-hegseth-execution-tv-networks-air",
+      "pubDate": "2026-10-09T18:30:48.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "HomeKit Weekly: Onvis releases a Matter over Thread outdoor smart plug with energy monitoring",
+      "url": "https://9to5mac.com/2026/10/09/homekit-weekly-onvis-releases-a-matter-over-thread-outdoor-smart-plug-with-energy-monitoring/",
+      "pubDate": "2026-10-09T18:19:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple marks first Apple TV 4K ‘vintage’ with new model imminent",
+      "url": "https://9to5mac.com/2026/10/09/apple-marks-first-apple-tv-4k-vintage-with-new-model-imminent/",
+      "pubDate": "2026-10-09T18:15:44.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Nikon microscopic video competition winner disqualified for using generative AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
+      "pubDate": "2026-10-09T18:06:57.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Google teases Fitbit Edge launch next week",
+      "url": "https://www.theverge.com/tech/1008918/google-fitbit-edge-launch-next-week",
+      "pubDate": "2026-10-09T18:05:55.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "My Apple TV 4K is now 'vintage,' and I'm ready for a new one",
+      "url": "https://appleinsider.com/articles/26/10/09/my-apple-tv-4k-is-now-vintage-and-im-ready-for-a-new-one?utm_source=rss",
+      "pubDate": "2026-10-09T17:54:23.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Grok Bot just got its own email address, here’s how to claim yours",
+      "url": "https://9to5mac.com/2026/10/09/grok-bot-just-got-its-own-email-address-heres-how-to-claim-yours/",
+      "pubDate": "2026-10-09T17:42:19.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The Samsung Galaxy S26 Ultra is down to $950 after Prime Day",
+      "url": "https://www.theverge.com/gadgets/1008857/samsung-galaxy-s26-ultra-deal-sale",
+      "pubDate": "2026-10-09T17:41:24.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Mail added four convenient new features in iOS 27",
+      "url": "https://9to5mac.com/2026/10/09/heres-everything-new-for-apple-mail-in-ios-27/",
+      "pubDate": "2026-10-09T17:32:12.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Amazon’s new Kindles appear to have a light leak problem",
+      "url": "https://www.theverge.com/tech/1008833/amazon-kindle-light-leak",
+      "pubDate": "2026-10-09T17:25:39.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "MacRumors Giveaway: Win an Apple Watch Series 12 and a Nylon Band From Southern Straps",
+      "url": "https://www.macrumors.com/2026/10/09/macrumors-giveaway-series-12-southern-straps/",
+      "pubDate": "2026-10-09T17:20:39.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "If we trust it, Home Hub privacy could lead a smart home revolution",
+      "url": "https://appleinsider.com/articles/26/10/09/if-we-trust-it-home-hub-privacy-could-lead-a-smart-home-revolution?utm_source=rss",
+      "pubDate": "2026-10-09T17:07:52.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Microsoft tries to spark new life into Windows",
+      "url": "https://www.theverge.com/tech/1008801/microsoft-windows-surface-event-hybrid-ai-notepad",
+      "pubDate": "2026-10-09T17:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Frances Haugen hopes The Social Reckoning will inspire more whistleblowers",
+      "url": "https://www.theverge.com/policy/1008806/frances-haugen-social-reckoning-facebook-whistleblower",
+      "pubDate": "2026-10-09T16:50:40.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "First Apple TV 4K Now 'Vintage' Ahead of New Model Coming on Tuesday",
+      "url": "https://www.macrumors.com/2026/10/09/first-apple-tv-4k-now-vintage/",
+      "pubDate": "2026-10-09T16:25:41.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "TextExpander has a new free tier",
+      "url": "https://appleinsider.com/articles/26/10/09/textexpander-has-a-new-free-tier?utm_source=rss",
+      "pubDate": "2026-10-09T16:21:43.000Z"
+    },
+    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "An iPhone near an LG home accessory will trigger a helpful Dynamic Island hint",
@@ -47,13 +236,6 @@
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Shares Fall After News of iPhone 18 Pro Order Cuts",
-      "url": "https://www.macrumors.com/2026/10/09/apple-shares-fall-after-iphone-18-pro-order-cuts/",
-      "pubDate": "2026-10-09T15:49:13.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
       "title": "The MacRumors Show: Apple's Smart Home Products Are Coming",
       "url": "https://www.macrumors.com/2026/10/09/the-macrumors-show-smart-home-products/",
       "pubDate": "2026-10-09T15:36:36.000Z"
@@ -66,25 +248,18 @@
       "pubDate": "2026-10-09T15:35:33.000Z"
     },
     {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Shares Fall After News of iPhone 18 Pro Order Cuts",
+      "url": "https://www.macrumors.com/2026/10/09/apple-shares-fall-after-iphone-18-pro-order-cuts/",
+      "pubDate": "2026-10-09T15:35:09.000Z"
+    },
+    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Will Apple’s ‘Welcome home’ event be livestreamed? Here’s what we know",
       "url": "https://9to5mac.com/2026/10/09/will-apples-welcome-home-event-be-livestreamed-heres-what-we-know/",
       "pubDate": "2026-10-09T15:18:17.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "YouTube, Meta, and Twitch won&#8217;t say if they&#8217;ll allow the US government to livestream an execution",
-      "url": "https://www.theverge.com/streaming/1008722/youtube-meta-twitch-government-execution-livestream",
-      "pubDate": "2026-10-09T15:15:30.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The AI is in the computer",
-      "url": "https://www.theverge.com/podcast/1008707/amazon-alexa-tablet-googlebooks-apple-vergecast",
-      "pubDate": "2026-10-09T15:10:12.000Z"
     },
     {
       "source": "AppleInsider",
@@ -129,39 +304,11 @@
       "pubDate": "2026-10-09T14:35:48.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Trump’s attempt to rename AI is looking awfully artificial",
-      "url": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
-      "pubDate": "2026-10-09T14:25:43.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "SpaceX to become ‘major mobile carrier’ in US with Starlink Mobile upgrades",
-      "url": "https://9to5mac.com/2026/10/09/spacex-to-become-major-mobile-carrier-in-us-with-starlink-mobile-upgrades/",
-      "pubDate": "2026-10-09T14:17:26.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple’s new ‘second-party’ HomeKit products will have this exclusive iPhone feature",
-      "url": "https://9to5mac.com/2026/10/09/apples-new-second-party-homekit-products-will-have-this-exclusive-iphone-feature/",
-      "pubDate": "2026-10-09T14:10:33.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Telesin Master Grip Kit for iPhone review: Awkwardly packaged real optical zoom",
       "url": "https://appleinsider.com/articles/26/10/09/telesin-master-grip-kit-for-iphone-review-awkwardly-packaged-real-optical-zoom?utm_source=rss",
       "pubDate": "2026-10-09T14:00:47.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
-      "url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
-      "pubDate": "2026-10-09T14:00:00.000Z"
     },
     {
       "source": "MacRumors",
@@ -171,20 +318,6 @@
       "pubDate": "2026-10-09T13:59:54.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27.0.1 is now Apple’s recommended update for users still on iOS 26",
-      "url": "https://9to5mac.com/2026/10/09/ios-27-0-1-is-now-apples-recommended-update-for-users-still-on-ios-26/",
-      "pubDate": "2026-10-09T13:41:06.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "A week with Googlebooks: four notes from our testing so far",
-      "url": "https://www.theverge.com/tech/1008563/googlebook-software-impressions-thoughts-roundtable",
-      "pubDate": "2026-10-09T13:36:02.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Mac Shipments Fall, But Apple Still Gains Ground in Shrinking Market",
@@ -192,32 +325,11 @@
       "pubDate": "2026-10-09T13:16:30.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Meta is banning TikTok ads across its platforms",
-      "url": "https://www.theverge.com/tech/1008658/meta-tiktok-bytedance-ads-ban",
-      "pubDate": "2026-10-09T13:12:45.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The humble Playdate has become one of gaming’s best deals",
-      "url": "https://www.theverge.com/entertainment/1008441/playdate-season-3",
-      "pubDate": "2026-10-09T13:00:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "October Apple announcements & more Home Hub leaks on the AppleInsider Podcast",
       "url": "https://appleinsider.com/articles/26/10/09/october-apple-announcements-more-home-hub-leaks-on-the-appleinsider-podcast?utm_source=rss",
       "pubDate": "2026-10-09T12:50:29.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Report: Apple cuts iPhone 18 Pro production due to ‘soft demand’",
-      "url": "https://9to5mac.com/2026/10/09/report-apple-cuts-iphone-18-pro-production-due-to-soft-demand/",
-      "pubDate": "2026-10-09T12:37:23.000Z"
     },
     {
       "source": "AppleInsider",
@@ -234,41 +346,6 @@
       "pubDate": "2026-10-09T12:23:22.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Right on schedule, sources claim iPhone 18 Pro orders have been cut",
-      "url": "https://appleinsider.com/articles/26/10/09/right-on-schedule-sources-claim-iphone-18-pro-orders-have-been-cut?utm_source=rss",
-      "pubDate": "2026-10-09T12:14:41.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "You can run AI models on that Intel Mac Pro",
-      "url": "https://appleinsider.com/articles/26/10/09/you-can-run-ai-models-on-that-intel-mac-pro?utm_source=rss",
-      "pubDate": "2026-10-09T11:25:55.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "How to get started with making music in GarageBand for Mac",
-      "url": "https://appleinsider.com/inside/macos/tips/how-to-get-started-with-making-music-in-garageband-for-mac?utm_source=rss",
-      "pubDate": "2026-10-09T11:17:07.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Huxe's AI tools for creating podcasts from a prompt is bought by Apple",
-      "url": "https://appleinsider.com/articles/26/10/09/huxes-ai-tools-for-creating-podcasts-from-a-prompt-is-bought-by-apple?utm_source=rss",
-      "pubDate": "2026-10-09T11:14:50.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "OpenAI doubles down on decision to fire three AI safety researchers",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
-      "pubDate": "2026-10-09T09:48:26.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Signs Hiring and Licensing Deal With AI Podcast Startup Huxe",
@@ -276,81 +353,11 @@
       "pubDate": "2026-10-09T08:44:22.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Microsoft 365 Family subscribers will finally be able to share AI benefits",
-      "url": "https://www.theverge.com/news/1008581/microsoft-365-family-premium-shared-ai-features-storage-changes",
-      "pubDate": "2026-10-09T07:14:32.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "OLED MacBook Pro to help boost premium display shipments, per report",
-      "url": "https://9to5mac.com/2026/10/08/oled-macbook-pro-to-help-boost-premium-display-shipments-per-report/",
-      "pubDate": "2026-10-09T02:21:43.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple rolls out AT&T carrier update for iPhone 18 Pro Max on iOS 27.2 beta",
-      "url": "https://9to5mac.com/2026/10/08/apple-rolls-out-att-carrier-update-for-iphone-18-pro-max-on-ios-27-2-beta/",
-      "pubDate": "2026-10-09T02:11:17.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "‘Matchbox The Movie’ starring John Cena premieres on Apple TV",
-      "url": "https://9to5mac.com/2026/10/08/matchbox-the-movie-starring-john-cena-premieres-on-apple-tv/",
-      "pubDate": "2026-10-09T01:00:23.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Researchers uncover new DarkSword spyware variant affecting unpatched iPhones",
-      "url": "https://9to5mac.com/2026/10/08/researchers-uncover-new-darksword-spyware-variant-affecting-unpatched-iphones/",
-      "pubDate": "2026-10-08T23:08:18.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple's October 13 Launch: What's Coming",
-      "url": "https://www.macrumors.com/2026/10/08/apple-october-13-launch/",
-      "pubDate": "2026-10-08T22:59:21.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "OpenAI silences familiar voices",
       "url": "https://sixcolors.com/post/2026/10/openai-silences-familiar-voices/",
       "pubDate": "2026-10-08T22:50:22.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "US plans livestream of execution by firing squad",
-      "url": "https://www.theverge.com/tech/1008530/us-government-livestream-execution-firing-squad-fort-hood",
-      "pubDate": "2026-10-08T22:32:04.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Anthropic Says Users Can't Be Needlessly Cruel to Claude",
-      "url": "https://www.macrumors.com/2026/10/08/anthropic-user-guideline-update/",
-      "pubDate": "2026-10-08T21:53:18.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple to Launch Touchscreen OLED MacBook Pro and OLED iPad mini on October 27",
-      "url": "https://www.macrumors.com/2026/10/08/apple-october-27-macbook-pro/",
-      "pubDate": "2026-10-08T20:31:49.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Now Pushing iPhone Users Still on iOS 26 to Install iOS 27",
-      "url": "https://www.macrumors.com/2026/10/08/apple-now-pushing-ios-27/",
-      "pubDate": "2026-10-08T20:17:58.000Z"
     },
     {
       "source": "Six Colors",
@@ -365,13 +372,6 @@
       "title": "(Podcast) Clockwise 677: A Nice Cave Somewhere",
       "url": "https://sixcolors.com/podcast/2026/10/clockwise-677-a-nice-cave-somewhere/",
       "pubDate": "2026-10-07T18:37:00.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "App Report: All That Jazz",
-      "url": "https://sixcolors.com/post/2026/10/app-report-all-that-jazz/",
-      "pubDate": "2026-10-07T16:00:50.000Z"
     }
   ]
 }
