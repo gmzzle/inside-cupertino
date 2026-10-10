@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T08:31:37.150Z",
+  "generatedAt": "2026-10-10T15:23:47.332Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,118 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "AirPods 5 vs. AirPods 5 With Wireless Charging Case Buyer's Guide",
+      "url": "https://www.macrumors.com/guide/airpods-5-vs-with-wireless-charging-case/",
+      "pubDate": "2026-10-10T15:00:10.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "K-pop star Sunmi loves Notion and ear cleaning videos",
+      "url": "https://www.theverge.com/entertainment/1008654/k-pop-sunmi-wonder-girls-interview",
+      "pubDate": "2026-10-10T15:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Anthropic is cutting off its internal evaluations from the internet",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+      "pubDate": "2026-10-10T14:41:16.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Will Warner Bros. kill Skydance — or will David Ellison kill Warner Bros?",
+      "url": "https://www.theverge.com/podcast/1008733/warner-skydance-paramount-ellison-debt-failure",
+      "pubDate": "2026-10-10T14:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Accessory Deals This Weekend: Save on TVs, Headphones, and Smart Home Gear",
+      "url": "https://www.macrumors.com/2026/10/10/accessory-deals-this-weekend/",
+      "pubDate": "2026-10-10T13:59:48.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's All-New Home Hub Will Be Revealed October 13: What to Expect",
+      "url": "https://www.macrumors.com/2026/10/10/apple-to-unveil-all-new-type-of-device/",
+      "pubDate": "2026-10-10T13:58:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Announcing HomePod Mini 2 Next Week With These New Features",
+      "url": "https://www.macrumors.com/2026/10/10/apple-to-announce-new-homepod-mini-next-week/",
+      "pubDate": "2026-10-10T13:55:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "A New Apple TV 4K is Finally Coming on Tuesday",
+      "url": "https://www.macrumors.com/2026/10/10/new-apple-tv-4k-is-coming-tuesday/",
+      "pubDate": "2026-10-10T13:45:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Top Stories: Apple's 'Welcome Home' Launch on October 13 and More",
+      "url": "https://www.macrumors.com/2026/10/10/top-stories-apple-welcome-home-launch-october-13/",
+      "pubDate": "2026-10-10T13:00:10.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "LG’s RGB LED TV is good for certain situations, but an OLED is better",
+      "url": "https://www.theverge.com/tech/1008957/lg-mrgb95b-rgb-led-tv-review",
+      "pubDate": "2026-10-10T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "AI agent makers are promising privacy — will they deliver?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+      "pubDate": "2026-10-10T13:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple weekend deals: AirPods, up to $200 off new Macs, Apple Watch, more from $41",
+      "url": "https://9to5mac.com/2026/10/10/apple-weekend-deals-mac-mini/",
+      "pubDate": "2026-10-10T12:03:06.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The techlash has gone Hollywood",
+      "url": "https://www.theverge.com/tech/1008836/social-reckoning-cupertino-techlash-installer",
+      "pubDate": "2026-10-10T12:00:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iPhone Duo will greet some owners by name on its first boot",
+      "url": "https://appleinsider.com/articles/26/10/10/iphone-duo-will-greet-some-owners-by-name-on-its-first-boot?utm_source=rss",
+      "pubDate": "2026-10-10T11:36:38.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The Telo MT1 is a big truck trapped in a tiny truck’s body",
+      "url": "https://www.theverge.com/transportation/1005502/telo-mt1-review-ev-tiny-truck",
+      "pubDate": "2026-10-10T11:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The director of Fjord takes the &#8216;risky position&#8217; of moderator",
+      "url": "https://www.theverge.com/entertainment/1008748/fjord-cristian-mungiu-interview",
+      "pubDate": "2026-10-10T11:00:00.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -66,13 +178,6 @@
       "pubDate": "2026-10-09T21:50:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
-      "pubDate": "2026-10-09T21:15:38.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Potentially Behind 'HomeView' Trademark Filed Alongside 'homeOS' Last Year",
@@ -108,25 +213,11 @@
       "pubDate": "2026-10-09T19:51:04.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Ohio blogger found guilty of harassment for sending Shrek nude to senator",
-      "url": "https://www.theverge.com/policy/1008991/ohio-blogger-harassment-shrek-nude",
-      "pubDate": "2026-10-09T19:41:11.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Redesign your new M6 Mac mini for 2026 with these colorful wraps",
       "url": "https://appleinsider.com/articles/26/10/09/redesign-your-new-m6-mac-mini-for-2026-with-these-colorful-wraps?utm_source=rss",
       "pubDate": "2026-10-09T19:21:09.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
-      "pubDate": "2026-10-09T19:09:44.000Z"
     },
     {
       "source": "9to5Mac",
@@ -143,13 +234,6 @@
       "pubDate": "2026-10-09T18:35:14.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Brendan Carr says he&#8217;ll let Pete Hegseth decide whether TV networks can air the public execution",
-      "url": "https://www.theverge.com/policy/1008950/fcc-brendan-carr-pete-hegseth-execution-tv-networks-air",
-      "pubDate": "2026-10-09T18:30:48.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "HomeKit Weekly: Onvis releases a Matter over Thread outdoor smart plug with energy monitoring",
@@ -162,20 +246,6 @@
       "title": "Apple marks first Apple TV 4K ‘vintage’ with new model imminent",
       "url": "https://9to5mac.com/2026/10/09/apple-marks-first-apple-tv-4k-vintage-with-new-model-imminent/",
       "pubDate": "2026-10-09T18:15:44.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Nikon microscopic video competition winner disqualified for using generative AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
-      "pubDate": "2026-10-09T18:06:57.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Google teases Fitbit Edge launch next week",
-      "url": "https://www.theverge.com/tech/1008918/google-fitbit-edge-launch-next-week",
-      "pubDate": "2026-10-09T18:05:55.000Z"
     },
     {
       "source": "AppleInsider",
@@ -192,25 +262,11 @@
       "pubDate": "2026-10-09T17:42:19.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Samsung Galaxy S26 Ultra is down to $950 after Prime Day",
-      "url": "https://www.theverge.com/gadgets/1008857/samsung-galaxy-s26-ultra-deal-sale",
-      "pubDate": "2026-10-09T17:41:24.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Apple Mail added four convenient new features in iOS 27",
       "url": "https://9to5mac.com/2026/10/09/heres-everything-new-for-apple-mail-in-ios-27/",
       "pubDate": "2026-10-09T17:32:12.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Amazon’s new Kindles appear to have a light leak problem",
-      "url": "https://www.theverge.com/tech/1008833/amazon-kindle-light-leak",
-      "pubDate": "2026-10-09T17:25:39.000Z"
     },
     {
       "source": "MacRumors",
@@ -262,27 +318,6 @@
       "pubDate": "2026-10-09T15:52:57.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "The MacRumors Show: Apple's Smart Home Products Are Coming",
-      "url": "https://www.macrumors.com/2026/10/09/the-macrumors-show-smart-home-products/",
-      "pubDate": "2026-10-09T15:36:36.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: AirPods Max 2 $120 off, Mac mini, MacBook Air, Magic Mouse 25% off, Nomad iPhone 18 Pro cases, more",
-      "url": "https://9to5mac.com/2026/10/09/deals-airpods-max-2-mac-mini-macbook-air-magic-mouse/",
-      "pubDate": "2026-10-09T15:35:33.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Shares Fall After News of iPhone 18 Pro Order Cuts",
-      "url": "https://www.macrumors.com/2026/10/09/apple-shares-fall-after-iphone-18-pro-order-cuts/",
-      "pubDate": "2026-10-09T15:35:09.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple's M5 MacBook Air is $200 off, with prices from $1,099",
@@ -304,20 +339,6 @@
       "pubDate": "2026-10-09T15:00:00.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Leak Details iPhone Features for Apple's LG Home Accessories",
-      "url": "https://www.macrumors.com/2026/10/09/leak-details-iphone-features-for-home-accessories/",
-      "pubDate": "2026-10-09T14:50:57.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Prime Day Leftover Deals: AirPods Max 2 for $429, Mac Mini for $779.99, and More",
-      "url": "https://www.macrumors.com/2026/10/09/prime-day-leftover-deals/",
-      "pubDate": "2026-10-09T14:35:48.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Telesin Master Grip Kit for iPhone review: Awkwardly packaged real optical zoom",
@@ -325,32 +346,11 @@
       "pubDate": "2026-10-09T14:00:47.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Every M5 MacBook Air Now $200 Off on Amazon",
-      "url": "https://www.macrumors.com/2026/10/09/every-m5-macbook-air-200-off/",
-      "pubDate": "2026-10-09T13:59:54.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Mac Shipments Fall, But Apple Still Gains Ground in Shrinking Market",
-      "url": "https://www.macrumors.com/2026/10/09/mac-shipments-fall-but-apple-gains-ground/",
-      "pubDate": "2026-10-09T13:16:30.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "October Apple announcements & more Home Hub leaks on the AppleInsider Podcast",
       "url": "https://appleinsider.com/articles/26/10/09/october-apple-announcements-more-home-hub-leaks-on-the-appleinsider-podcast?utm_source=rss",
       "pubDate": "2026-10-09T12:50:29.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Owning an Apple Home: second-party accessories could be the reboot we need",
-      "url": "https://appleinsider.com/articles/26/10/09/owning-an-apple-home-second-party-accessories-could-be-the-reboot-we-need?utm_source=rss",
-      "pubDate": "2026-10-09T12:29:31.000Z"
     },
     {
       "source": "Six Colors",
