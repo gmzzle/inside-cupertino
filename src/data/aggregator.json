@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T20:04:58.919Z",
+  "generatedAt": "2026-10-10T23:34:46.093Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "pubDate": "2026-10-10T22:10:17.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -182,13 +189,6 @@
       "sourceHomepage": "https://www.theverge.com",
       "title": "The Telo MT1 is a big truck trapped in a tiny truck’s body",
       "url": "https://www.theverge.com/transportation/1005502/telo-mt1-review-ev-tiny-truck",
-      "pubDate": "2026-10-10T11:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The director of Fjord takes the &#8216;risky position&#8217; of moderator",
-      "url": "https://www.theverge.com/entertainment/1008748/fjord-cristian-mungiu-interview",
       "pubDate": "2026-10-10T11:00:00.000Z"
     },
     {
