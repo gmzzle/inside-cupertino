@@ -1,7 +1,7 @@
 ---
 title: "A Sneakier DarkSword Is Stealing Keychains and Crypto Wallets From Unpatched iPhones"
 description: "iVerify found P7 DarkSword, a reworked iPhone spyware implant that pulls Keychain and wallet data on the device. The fix is an iOS update you probably already have."
-pubDate: 2026-10-10T15:20:00.000Z
+pubDate: 2026-10-10T15:05:00.000Z
 draft: false
 author: "Inside Cupertino"
 tags:
