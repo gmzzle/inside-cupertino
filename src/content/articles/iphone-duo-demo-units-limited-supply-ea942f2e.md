@@ -1,6 +1,6 @@
 ---
 title: "Apple Stores Will Be Full of iPhone Duos to Try. Getting One to Keep Is Another Story."
-description: "Gurman says Apple is stocking flagship stores with up to 150 iPhone Duo demo units for the Oct. 23 launch, but supply will be limited. Here's what that means for buyers."
+description: "Gurman says Apple's Fifth Avenue store alone will have more than 150 iPhone Duo demo units for the Oct. 23 launch, but supply will be limited. Here's what that means."
 pubDate: 2026-10-11T22:10:00.000Z
 draft: false
 author: "Inside Cupertino"
@@ -18,7 +18,7 @@ heroAlt: "A black iPhone resting on its box next to an Apple Watch, a MacBook Pr
 
 When the iPhone Duo goes on sale on October 23, you'll have no trouble finding one to fold open in an Apple Store. Finding one to take home may be harder.
 
-That's the split picture from Bloomberg's Mark Gurman in this week's Power On newsletter. Apple is planning one of its biggest in-store pushes in years for its first foldable, with far more demo units than a normal iPhone launch, while warning signs point to tight stock on day one.
+That's the split picture from Bloomberg's Mark Gurman in this week's Power On newsletter. Apple is planning a major in-store push for its first foldable, with an unusually large number of demo units, while Gurman says supply will be limited.
 
 ## The demo numbers
 
@@ -40,7 +40,7 @@ So the big displays aren't a sign that shelves will be full. If anything, they'r
 
 ## Why Apple is going this big
 
-A foldable is a hard product to sell from a webpage. Most buyers have never used one, and at $1,999 for the 256GB model, the Duo is the most expensive iPhone Apple has ever sold. People want to feel the crease and the hinge before they spend that.
+A foldable is a hard product to sell from a webpage. Most buyers have never used one, and at $1,999 for the 256GB model, the Duo costs a lot more than most people have ever paid for a phone. People want to feel the crease and the hinge before they spend that.
 
 It also fits a pattern from the last few days. Gurman reported on Friday that U.S. Apple Stores will [greet Duo buyers by name](/articles/iphone-duo-hello-name-greeting-apple-store-5208f3b3/) the first time they turn the phone on, using store equipment that can update sealed boxes. Put that together with a dedicated section at Fifth Avenue and a fixture built just to show the fold, and Apple is clearly steering Duo buyers toward its own stores.
 
