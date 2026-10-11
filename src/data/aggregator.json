@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T05:50:13.711Z",
+  "generatedAt": "2026-10-11T12:53:50.372Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Horror is big business",
+      "url": "https://www.theverge.com/column/1008432/horror-popular-widows-bay-resident-evil",
+      "pubDate": "2026-10-11T12:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Why the LeapPad couldn&#8217;t survive the iPad",
+      "url": "https://www.theverge.com/podcast/1008578/leapfrog-leappad-technology-version-history",
+      "pubDate": "2026-10-11T12:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+      "pubDate": "2026-10-11T11:00:00.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -171,13 +192,6 @@
       "pubDate": "2026-10-10T13:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "AI agent makers are promising privacy — will they deliver?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
-      "pubDate": "2026-10-10T13:00:00.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Apple weekend deals: AirPods, up to $200 off new Macs, Apple Watch, more from $41",
@@ -185,25 +199,11 @@
       "pubDate": "2026-10-10T12:03:06.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The techlash has gone Hollywood",
-      "url": "https://www.theverge.com/tech/1008836/social-reckoning-cupertino-techlash-installer",
-      "pubDate": "2026-10-10T12:00:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "iPhone Duo will greet some owners by name on its first boot",
       "url": "https://appleinsider.com/articles/26/10/10/iphone-duo-will-greet-some-owners-by-name-on-its-first-boot?utm_source=rss",
       "pubDate": "2026-10-10T11:36:38.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Telo MT1 is a big truck trapped in a tiny truck’s body",
-      "url": "https://www.theverge.com/transportation/1005502/telo-mt1-review-ev-tiny-truck",
-      "pubDate": "2026-10-10T11:00:00.000Z"
     },
     {
       "source": "MacRumors",
