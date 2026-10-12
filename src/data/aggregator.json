@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T01:20:51.005Z",
+  "generatedAt": "2026-10-12T09:15:32.030Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "New Apple TV 4K and HomePod Mini 2 Pre-Orders Expected to Begin This Week",
+      "url": "https://www.macrumors.com/2026/10/11/new-apple-tv-homepod-mini-2-preorders/",
+      "pubDate": "2026-10-12T03:17:03.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -323,13 +330,6 @@
       "title": "Accessory Deals This Weekend: Save on TVs, Headphones, and Smart Home Gear",
       "url": "https://www.macrumors.com/2026/10/10/accessory-deals-this-weekend/",
       "pubDate": "2026-10-10T13:59:48.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple's All-New Home Hub Will Be Revealed October 13: What to Expect",
-      "url": "https://www.macrumors.com/2026/10/10/apple-to-unveil-all-new-type-of-device/",
-      "pubDate": "2026-10-10T13:58:00.000Z"
     },
     {
       "source": "9to5Mac",
