@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T02:01:53.475Z",
+  "generatedAt": "2026-10-13T09:27:22.880Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "How to get started with making music in GarageBand for Mac",
+      "url": "https://appleinsider.com/inside/macos/tips/how-to-get-started-with-making-music-in-garageband-for-mac?utm_source=rss",
+      "pubDate": "2026-10-13T02:53:19.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -267,13 +274,6 @@
       "title": "Amazon Discounting 2026 MacBook Pro by as Much as $600 This Week",
       "url": "https://www.macrumors.com/2026/10/12/2026-macbook-pro-600-week/",
       "pubDate": "2026-10-12T14:26:39.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Just about all of 'No Man's Sky' is coming to iPhone and iPad",
-      "url": "https://appleinsider.com/articles/26/10/12/just-about-all-of-no-mans-sky-is-coming-to-iphone-and-ipad?utm_source=rss",
-      "pubDate": "2026-10-12T14:10:15.000Z"
     },
     {
       "source": "MacRumors",
