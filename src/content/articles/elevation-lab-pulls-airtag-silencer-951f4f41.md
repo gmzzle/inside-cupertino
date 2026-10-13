@@ -1,7 +1,7 @@
 ---
 title: "Elevation Lab Pulls Its $10 AirTag Silencer After Stalking Backlash"
 description: "Elevation Lab has stopped selling the Silencer, a $9.99 tool that destroyed an AirTag's speaker. Its CEO says it could help someone track a person who'd never get a phone alert."
-pubDate: 2026-10-13T22:20:00.000Z
+pubDate: 2026-10-13T22:10:00.000Z
 draft: false
 author: "Inside Cupertino"
 tags:
