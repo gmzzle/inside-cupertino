@@ -1,5 +1,5 @@
 ---
-title: "China Clears Alibaba's Qwen for iPhone Duo. Preorders Start Thursday."
+title: "China Clears Alibaba's Qwen for iPhone Duo. Preorders Start Friday."
 description: "MIIT filings show China iPhone Duo listing Apple Intelligence plus Alibaba's Qwen and Wanxiang — just as China Duo preorders open Oct. 16."
 pubDate: 2026-10-14T15:15:00.000Z
 draft: false
@@ -40,7 +40,7 @@ None of today's filing coverage invents a public ship date for the software. App
 
 ## Timing: Duo preorders are this week
 
-The regulatory update lands right against the China Duo calendar. China Duo preorders are reported to open October 16 around 8 p.m. China time, with shipping October 23. Local start pricing has been reported at 15,999 yuan. In the U.S., [Get Ready for Duo preorders](/articles/iphone-duo-get-ready-preorders-oct-16-c4e91a70/) is already open ahead of October 16 at 5:00 a.m. PT.
+The regulatory update lands right against the China Duo calendar. China Duo preorders are reported to open Friday, October 16 around 8 p.m. China time, with shipping October 23. Local start pricing has been reported at 15,999 yuan. In the U.S., [Get Ready for Duo preorders](/articles/iphone-duo-get-ready-preorders-oct-16-c4e91a70/) is already open ahead of Friday, October 16 at 5:00 a.m. PT.
 
 So China buyers get a foldable launch week that also happens to carry the clearest public signal yet that Apple Intelligence there will lean on Alibaba's registered models — not the same foundation models used in regions where Apple Intelligence is already shipping.
 
@@ -56,7 +56,7 @@ Computerworld notes Tim Cook — now executive chairman in that outlet's framing
 
 ## What to watch next
 
-- **China Duo order window:** October 16 preorders, October 23 ship, start price reported at 15,999 yuan.
+- **China Duo order window:** Friday, October 16 preorders, October 23 ship, start price reported at 15,999 yuan.
 - **Software timing:** still unset publicly. A telecom-permit clearance is not an iOS China feature drop with a date on Apple's site.
 - **Other handsets:** the same model-registration updates are reported beyond Duo, including 18 Pro Max and broader Pro / Air coverage — a China portfolio move, not a foldable-only footnote.
 
