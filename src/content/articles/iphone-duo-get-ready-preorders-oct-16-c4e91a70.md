@@ -19,7 +19,7 @@ heroAlt: "The back of a purple iPhone lying face-down on a pale surface"
 
 If you want an iPhone Duo near launch day, Apple just gave you the one head start that actually matters.
 
-[MacRumors](https://www.macrumors.com/2026/10/12/you-can-now-set-up-your-iphone-duo-pre-order/) reports that Apple has opened **Get Ready** for the Duo in the Apple Store app and on Apple's online store. Preorders still start Thursday, October 16, at 5:00 a.m. Pacific (8:00 a.m. Eastern), with the phone shipping October 23. Get Ready is the step you do *now* so checkout on Friday is basically one tap.
+[MacRumors](https://www.macrumors.com/2026/10/12/you-can-now-set-up-your-iphone-duo-pre-order/) reports that Apple has opened **Get Ready** for the Duo in the Apple Store app and on Apple's online store. Preorders still start Friday, October 16, at 5:00 a.m. Pacific (8:00 a.m. Eastern), with the phone shipping October 23. Get Ready is the step you do *now* so checkout on Friday is basically one tap.
 
 [AppleInsider](https://appleinsider.com/inside/iphone-duo/tips/how-to-set-up-your-iphone-duo-pre-order-to-make-checkout-faster) says the flow went live around noon Eastern on October 12 and is available internationally. It stays open through late October 15, then Apple's storefront typically drops offline early on the 16th before reopening for preorders.
 
