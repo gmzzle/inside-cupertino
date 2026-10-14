@@ -46,4 +46,4 @@ It also fits a pattern from the last few days. Gurman reported on Friday that U.
 
 ## What to do if you want one
 
-Preorders open Thursday, October 16, at 5 a.m. Pacific. If you already know you want a Duo, that's your best shot at getting one on or near October 23. If you're on the fence, the store visit is a reasonable plan: Apple is going out of its way to let you try one first. Just don't expect to walk out with one the same day, at least not in the first few weeks.
+Preorders open Friday, October 16, at 5 a.m. Pacific. If you already know you want a Duo, that's your best shot at getting one on or near October 23. If you're on the fence, the store visit is a reasonable plan: Apple is going out of its way to let you try one first. Just don't expect to walk out with one the same day, at least not in the first few weeks.
