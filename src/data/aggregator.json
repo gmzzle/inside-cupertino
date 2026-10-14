@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T01:55:01.075Z",
+  "generatedAt": "2026-10-14T07:40:25.608Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -353,13 +353,6 @@
       "pubDate": "2026-10-13T16:53:43.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Save $600 on Apple's 14-inch MacBook Pro with a 20-core GPU",
-      "url": "https://appleinsider.com/articles/26/10/13/save-600-on-apples-14-inch-macbook-pro-with-a-20-core-gpu?utm_source=rss",
-      "pubDate": "2026-10-13T16:20:01.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "New Home Collection banner offers Apple-influenced accessories",
@@ -372,6 +365,13 @@
       "title": "New Apple TV 4K adds Siri AI support",
       "url": "https://sixcolors.com/post/2026/10/new-apple-tv-4k-adds-siri-ai-support/",
       "pubDate": "2026-10-13T13:40:13.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "New HomePod mini 2 offers Siri AI–but not yet",
+      "url": "https://sixcolors.com/post/2026/10/new-homepod-mini-2-offers-siri-ai-but-not-yet/",
+      "pubDate": "2026-10-13T13:18:27.000Z"
     }
   ]
 }
