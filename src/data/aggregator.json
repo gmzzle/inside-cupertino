@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T18:38:38.824Z",
+  "generatedAt": "2026-10-14T22:18:37.732Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,181 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The best feature of Apple’s HomeView might be its simplicity",
+      "url": "https://www.theverge.com/tech/1011431/apple-homeview-smart-display-best-feature",
+      "pubDate": "2026-10-14T22:00:02.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Working Apple I signed by Steve Wozniak sold for an impressive $1.15M",
+      "url": "https://appleinsider.com/articles/26/10/14/working-apple-i-signed-by-steve-wozniak-sold-for-an-impressive-115m?utm_source=rss",
+      "pubDate": "2026-10-14T21:50:23.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple just closed the day above $5 trillion for the first time",
+      "url": "https://9to5mac.com/2026/10/14/apple-just-closed-the-day-above-5-trillion-for-the-first-time/",
+      "pubDate": "2026-10-14T21:47:28.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Which Apple Home Devices Get Siri AI, and When",
+      "url": "https://www.macrumors.com/2026/10/14/apple-home-devices-siri-ai/",
+      "pubDate": "2026-10-14T21:23:57.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: October 14, 2026 – Apple Home Collection, iOS 27.2 beta 4",
+      "url": "https://9to5mac.com/2026/10/14/daily-october-14-2026/",
+      "pubDate": "2026-10-14T21:17:25.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Invites update makes it easier to manage guests and track RSVPs",
+      "url": "https://9to5mac.com/2026/10/14/apple-invites-update-makes-it-easier-to-manage-guests-and-track-rsvps/",
+      "pubDate": "2026-10-14T21:15:32.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+      "pubDate": "2026-10-14T21:11:28.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple showcases iPad Pro and iPhone 18 Pro Max’s role in ‘landmark fashion show’",
+      "url": "https://9to5mac.com/2026/10/14/apple-showcases-ipad-pro-and-iphone-18-pro-maxs-role-in-landmark-fashion-show/",
+      "pubDate": "2026-10-14T21:02:09.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's Long-Delayed HomeView Was Already Being Tested in 2024",
+      "url": "https://www.macrumors.com/2026/10/14/apple-homeview-tested/",
+      "pubDate": "2026-10-14T20:51:41.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27 adds brand new widgets for your iPhone’s Home Screen",
+      "url": "https://9to5mac.com/2026/10/14/ios-27-adds-brand-new-widgets-for-your-iphones-home-screen/",
+      "pubDate": "2026-10-14T20:36:16.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Intelligence Coming to China in December With iOS 27.3",
+      "url": "https://www.macrumors.com/2026/10/14/apple-intelligence-china-ios-27-3/",
+      "pubDate": "2026-10-14T20:24:50.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple Intelligence finally gets a release window for its debut in China",
+      "url": "https://appleinsider.com/articles/26/10/14/apple-intelligence-finally-gets-a-release-window-for-its-debut-in-china?utm_source=rss",
+      "pubDate": "2026-10-14T20:21:12.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Intelligence reportedly coming to China in December, but without Siri AI",
+      "url": "https://9to5mac.com/2026/10/14/apple-intelligence-reportedly-coming-to-china-in-december-but-without-siri-ai/",
+      "pubDate": "2026-10-14T20:20:14.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple HomeView hands on: So many questions, but I like it",
+      "url": "https://appleinsider.com/articles/26/10/14/apple-homeview-hands-on-so-many-questions-but-i-like-it?utm_source=rss",
+      "pubDate": "2026-10-14T20:20:07.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Invites App Updated With Two New Features",
+      "url": "https://www.macrumors.com/2026/10/14/apple-invites-two-new-features/",
+      "pubDate": "2026-10-14T20:20:01.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Microsoft and Japan took down a cybercrime network behind over a billion scam messages",
+      "url": "https://www.theverge.com/tech/1011487/microsoft-scam-messages-marketplace-takedown",
+      "pubDate": "2026-10-14T20:03:43.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iPhone 18 Pro demand takes Apple to a $5 trillion market valuation",
+      "url": "https://appleinsider.com/articles/26/10/14/iphone-18-pro-demand-takes-apple-to-a-5-trillion-market-valuation?utm_source=rss",
+      "pubDate": "2026-10-14T20:01:19.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "ElevationLab pulls AirTag Silencer after backlash over stalking concerns",
+      "url": "https://9to5mac.com/2026/10/14/elevationlab-pulls-airtag-silencer-after-backlash-over-stalking-concerns/",
+      "pubDate": "2026-10-14T19:55:29.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple TV just confirmed a new season for one of my favorite shows this year",
+      "url": "https://9to5mac.com/2026/10/14/apple-tv-just-confirmed-a-new-season-for-one-of-my-favorite-shows-this-year/",
+      "pubDate": "2026-10-14T19:19:03.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The AI race is back on",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+      "pubDate": "2026-10-14T19:06:03.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "OpenAI Says Ex-Employee Showed Its Device Plans to Apple",
+      "url": "https://www.macrumors.com/2026/10/14/openai-apple-potential-counterclaim/",
+      "pubDate": "2026-10-14T18:55:13.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
+      "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+      "pubDate": "2026-10-14T18:47:54.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "How to get Wi-Fi streaming, Bluetooth, USB-C on your old iPod",
+      "url": "https://appleinsider.com/articles/26/10/14/how-to-get-wi-fi-streaming-bluetooth-usb-c-on-your-old-ipod?utm_source=rss",
+      "pubDate": "2026-10-14T18:40:54.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Les Benjamins takes fashion to the sky with iPad-designed hot air balloons",
+      "url": "https://appleinsider.com/articles/26/10/14/les-benjamins-takes-fashion-to-the-sky-with-ipad-designed-hot-air-balloons?utm_source=rss",
+      "pubDate": "2026-10-14T18:40:02.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "As a TV enthusiast, I was hoping for more from the Apple TV 4K",
+      "url": "https://www.theverge.com/tech/1011324/apple-tv-4k-missed-features",
+      "pubDate": "2026-10-14T18:38:59.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -80,25 +255,11 @@
       "pubDate": "2026-10-14T17:19:11.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Anbernic’s next dual-screen handheld could replace your aging Nintendo 3DS",
-      "url": "https://www.theverge.com/tech/1011200/anbernic-rg-dds-dual-screen-handheld-emulator-nintendo-3ds",
-      "pubDate": "2026-10-14T17:13:27.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Store Near Los Angeles Closed Due to 'Events Beyond Our Control'",
       "url": "https://www.macrumors.com/2026/10/14/apple-del-amo-temporarily-closed/",
       "pubDate": "2026-10-14T17:08:57.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "My AI doppelganger tells me what to eat",
-      "url": "https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health",
-      "pubDate": "2026-10-14T17:00:00.000Z"
     },
     {
       "source": "AppleInsider",
@@ -115,13 +276,6 @@
       "pubDate": "2026-10-14T16:48:29.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
-      "pubDate": "2026-10-14T16:43:24.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "OpenAI cries foul, says Apple stole secrets from it in 2026",
@@ -134,20 +288,6 @@
       "title": "No, HomePod Mini 1 Won't Support Siri AI as CNET Reported",
       "url": "https://www.macrumors.com/2026/10/14/homepod-mini-1-to-support-siri-ai-says-cnet/",
       "pubDate": "2026-10-14T16:36:42.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Repairing the iPhone Duo&#8217;s folding screen costs as much as a new iPhone",
-      "url": "https://www.theverge.com/tech/1011245/iphone-duo-repair-costs-applecare",
-      "pubDate": "2026-10-14T16:21:28.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Honey, Xbox shrunk its controller",
-      "url": "https://www.theverge.com/news/1011216/xbox-nano-controller-release-date-pricing",
-      "pubDate": "2026-10-14T16:16:46.000Z"
     },
     {
       "source": "AppleInsider",
@@ -169,13 +309,6 @@
       "title": "iPhone Duo Compromises: Everything You Have to Give Up",
       "url": "https://www.macrumors.com/2026/10/14/iphone-duo-compromises/",
       "pubDate": "2026-10-14T16:08:53.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Microsoft has a new machine learning tool to improve weather forecasts",
-      "url": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
-      "pubDate": "2026-10-14T16:05:21.000Z"
     },
     {
       "source": "MacRumors",
@@ -206,41 +339,6 @@
       "pubDate": "2026-10-14T15:43:34.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "How CarPlay entitlements work, and why they're a problem for HomeView",
-      "url": "https://appleinsider.com/articles/26/10/14/how-carplay-entitlements-work-and-why-theyre-a-problem-for-homeview?utm_source=rss",
-      "pubDate": "2026-10-14T15:34:11.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "This project allows you to connect an Apple Watch to Android, Linux, Windows",
-      "url": "https://appleinsider.com/articles/26/10/14/this-project-allows-you-to-connect-an-apple-watch-to-android-linux-windows?utm_source=rss",
-      "pubDate": "2026-10-14T15:28:39.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: Apple HomeView pre-order discount, AirTag 2, Magic Keyboard, AirPods, more",
-      "url": "https://9to5mac.com/2026/10/14/apple-homeview-pre-order-deals-live/",
-      "pubDate": "2026-10-14T15:28:13.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "HomeView will support video apps like YouTube, Netflix—if they say yes",
-      "url": "https://9to5mac.com/2026/10/14/homeview-will-support-video-apps-like-youtube-netflix-if-they-say-yes/",
-      "pubDate": "2026-10-14T15:25:56.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "HomeView will rely on CarPlay apps to make up for some deficiencies",
-      "url": "https://appleinsider.com/articles/26/10/14/homeview-will-rely-on-carplay-apps-to-make-up-for-some-deficiencies?utm_source=rss",
-      "pubDate": "2026-10-14T15:23:37.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iPhone Duo: Apple Charging $49 for New Cover Layer, $229 for Battery",
@@ -255,109 +353,11 @@
       "pubDate": "2026-10-14T15:16:43.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Save $800 on Apple's premium M5 Max MacBook Pro",
-      "url": "https://appleinsider.com/articles/26/10/14/save-800-on-apples-premium-m5-max-macbook-pro?utm_source=rss",
-      "pubDate": "2026-10-14T15:16:30.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iPhone Duo: Skipping AppleCare+ Could Be $1,499 Mistake",
       "url": "https://www.macrumors.com/2026/10/14/iphone-duo-repair-fees/",
       "pubDate": "2026-10-14T15:13:45.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Get ready for HomeView by checking CarPlay apps on your iPhone",
-      "url": "https://appleinsider.com/inside/apple-home/tips/get-ready-for-homeview-by-checking-carplay-apps-on-your-iphone?utm_source=rss",
-      "pubDate": "2026-10-14T15:12:28.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Affinity Studio coming to iPad in November",
-      "url": "https://appleinsider.com/articles/26/10/14/affinity-studio-coming-to-ipad-in-november?utm_source=rss",
-      "pubDate": "2026-10-14T15:03:26.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple reportedly gearing up for strong iPhone 18 sales",
-      "url": "https://9to5mac.com/2026/10/14/apple-reportedly-gearing-up-for-strong-iphone-18-sales/",
-      "pubDate": "2026-10-14T14:59:39.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "HomePod mini 2 vs HomePod mini: Here’s everything new",
-      "url": "https://9to5mac.com/2026/10/14/homepod-mini-2-vs-homepod-mini-heres-everything-new/",
-      "pubDate": "2026-10-14T14:28:48.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Ready for HomeView? Don't Miss These Smart Home Accessory Deals",
-      "url": "https://www.macrumors.com/2026/10/14/smart-home-accessory-deals/",
-      "pubDate": "2026-10-14T14:26:05.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Says HomePod 2 Also Works as Default Speaker With Select Macs",
-      "url": "https://www.macrumors.com/2026/10/14/apple-says-homepod-2-works-as-default-mac-speaker/",
-      "pubDate": "2026-10-14T14:25:25.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Why the Apple Home Collection will accelerate smart home adoption",
-      "url": "https://9to5mac.com/2026/10/14/why-the-apple-home-collection-will-accelerate-smart-home-adoption/",
-      "pubDate": "2026-10-14T14:20:32.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "HomePod Mini 2: All the New Features",
-      "url": "https://www.macrumors.com/2026/10/14/homepod-mini-2-all-the-new-features/",
-      "pubDate": "2026-10-14T14:11:09.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "WhatsApp Now Lets Anyone Join Calls, No Account Needed",
-      "url": "https://www.macrumors.com/2026/10/14/whatsapp-guest-calls/",
-      "pubDate": "2026-10-14T14:00:10.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "AppleCare+ Launched 15 Years Ago Today",
-      "url": "https://www.macrumors.com/2026/10/14/applecare-launched-15-years-ago-today/",
-      "pubDate": "2026-10-14T13:48:02.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple says beloved MacBook is now ‘obsolete,’ more products too",
-      "url": "https://9to5mac.com/2026/10/14/apple-says-beloved-macbook-is-now-obsolete-more-products-too/",
-      "pubDate": "2026-10-14T13:42:09.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple website suggested Siri AI may be coming to full size HomePods",
-      "url": "https://9to5mac.com/2026/10/14/apple-website-suggested-siri-ai-may-be-coming-to-full-size-homepods/",
-      "pubDate": "2026-10-14T12:33:51.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple’s frenetic HomeView video showed the one use-case for this device",
-      "url": "https://9to5mac.com/2026/10/14/apples-frenetic-homeview-video-showed-the-one-use-case-for-this-device/",
-      "pubDate": "2026-10-14T11:36:08.000Z"
     },
     {
       "source": "Six Colors",
@@ -369,9 +369,9 @@
     {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
-      "title": "Third-party HomeView apps? Think CarPlay",
-      "url": "https://sixcolors.com/post/2026/10/third-party-homeview-apps-think-carplay/",
-      "pubDate": "2026-10-14T00:14:38.000Z"
+      "title": "(Podcast) The Rebound 620: Giant Honkin’ Things in the Back",
+      "url": "https://sixcolors.com/podcast/2026/10/the-rebound-620-giant-honkin-things-in-the-back/",
+      "pubDate": "2026-10-14T07:00:00.000Z"
     }
   ]
 }
