@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T22:18:37.732Z",
+  "generatedAt": "2026-10-15T01:29:58.664Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,11 +24,81 @@
   ],
   "items": [
     {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Latest HomePods can output Mac system audio in compatible configurations",
+      "url": "https://appleinsider.com/articles/26/10/15/latest-homepods-can-output-mac-system-audio-in-compatible-configurations?utm_source=rss",
+      "pubDate": "2026-10-15T00:45:56.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone Duo's A20 Pro Chip Benchmarked Ahead of Launch",
+      "url": "https://www.macrumors.com/2026/10/14/iphone-duo-benchmark/",
+      "pubDate": "2026-10-15T00:20:32.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "OpenAI agrees not to use alleged Apple trade secrets amid ongoing lawsuit",
+      "url": "https://9to5mac.com/2026/10/14/openai-agrees-not-to-use-alleged-apple-trade-secrets-amid-ongoing-lawsuit/",
+      "pubDate": "2026-10-14T23:12:59.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Maps launches Detailed City Experience in Austin, Texas",
+      "url": "https://9to5mac.com/2026/10/14/apple-maps-launches-detailed-city-experience-in-austin-texas/",
+      "pubDate": "2026-10-14T23:03:45.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple Maps Detailed City Experience comes to Austin, Texas ahead of F1 Grand Prix",
+      "url": "https://appleinsider.com/articles/26/10/14/apple-maps-detailed-city-experience-comes-to-austin-texas-ahead-of-f1-grand-prix?utm_source=rss",
+      "pubDate": "2026-10-14T23:02:53.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "10 HomeView Features You Might Have Missed",
+      "url": "https://www.macrumors.com/2026/10/14/homeview-tidbits/",
+      "pubDate": "2026-10-14T23:02:42.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "McKinsey is making job applicants spar with a fake AI client",
+      "url": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+      "pubDate": "2026-10-14T22:53:31.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "WhatsApp takes on Zoom and Google Meet with guest calling",
+      "url": "https://9to5mac.com/2026/10/14/whatsapp-takes-on-zoom-and-google-meet-with-guest-calling/",
+      "pubDate": "2026-10-14T22:39:29.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Becomes Second Company to Close Above $5 Trillion",
+      "url": "https://www.macrumors.com/2026/10/14/apple-5-trillion-close/",
+      "pubDate": "2026-10-14T22:37:41.000Z"
+    },
+    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "The best feature of Apple’s HomeView might be its simplicity",
       "url": "https://www.theverge.com/tech/1011431/apple-homeview-smart-display-best-feature",
       "pubDate": "2026-10-14T22:00:02.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) Clockwise 678: Sliced by the Bleeding Edge",
+      "url": "https://sixcolors.com/podcast/2026/10/clockwise-678-sliced-by-the-bleeding-edge/",
+      "pubDate": "2026-10-14T21:56:00.000Z"
     },
     {
       "source": "AppleInsider",
@@ -234,25 +304,11 @@
       "pubDate": "2026-10-14T17:52:20.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple confirms Siri AI is not coming to the original HomePod mini",
-      "url": "https://9to5mac.com/2026/10/14/no-siri-ai-is-not-coming-to-the-original-homepod-mini/",
-      "pubDate": "2026-10-14T17:30:55.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Apple&#8217;s new HomeView smart display is $10 cheaper at Amazon",
       "url": "https://www.theverge.com/gadgets/1011227/apple-homeview-smart-display-deal-sale",
       "pubDate": "2026-10-14T17:24:42.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Sprout Pi adds Bluetooth, streaming, and USB-C to your aging iPod",
-      "url": "https://www.theverge.com/gadgets/1011266/sprout-pi-adds-bluetooth-streaming-and-usb-c-to-your-aging-ipod",
-      "pubDate": "2026-10-14T17:19:11.000Z"
     },
     {
       "source": "MacRumors",
@@ -276,32 +332,11 @@
       "pubDate": "2026-10-14T16:48:29.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "OpenAI cries foul, says Apple stole secrets from it in 2026",
-      "url": "https://appleinsider.com/articles/26/10/14/openai-cries-foul-says-apple-stole-secrets-from-it-in-2026?utm_source=rss",
-      "pubDate": "2026-10-14T16:37:05.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "No, HomePod Mini 1 Won't Support Siri AI as CNET Reported",
       "url": "https://www.macrumors.com/2026/10/14/homepod-mini-1-to-support-siri-ai-says-cnet/",
       "pubDate": "2026-10-14T16:36:42.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple's $1,499 iPhone Duo repair cost is a strong argument for AppleCare",
-      "url": "https://appleinsider.com/articles/26/10/14/apples-1499-iphone-duo-repair-cost-is-a-strong-argument-for-applecare?utm_source=rss",
-      "pubDate": "2026-10-14T16:13:29.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "OpenAI alleges ex-employee took ‘highly confidential’ device files to Apple",
-      "url": "https://9to5mac.com/2026/10/14/openai-alleges-ex-employee-took-highly-confidential-device-files-to-apple/",
-      "pubDate": "2026-10-14T16:09:19.000Z"
     },
     {
       "source": "MacRumors",
@@ -311,13 +346,6 @@
       "pubDate": "2026-10-14T16:08:53.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple HomeView Has These 15 Apps, Some CarPlay Apps and Widgets Also Supported",
-      "url": "https://www.macrumors.com/2026/10/14/apple-homeview-apps-carplay/",
-      "pubDate": "2026-10-14T16:03:02.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Share your location in Messages, now for a custom period",
@@ -325,39 +353,11 @@
       "pubDate": "2026-10-14T16:00:00.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Regular iPhone 18 nears production in large quanties, says obvious leak",
-      "url": "https://appleinsider.com/articles/26/10/14/regular-iphone-18-nears-production-in-large-quanties-says-obvious-leak?utm_source=rss",
-      "pubDate": "2026-10-14T15:47:18.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "HomeView can display third-party widgets from your iPhone",
-      "url": "https://9to5mac.com/2026/10/14/homeview-can-display-third-party-widgets-from-your-iphone/",
-      "pubDate": "2026-10-14T15:43:34.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone Duo: Apple Charging $49 for New Cover Layer, $229 for Battery",
-      "url": "https://www.macrumors.com/2026/10/14/iphone-duo-cover-layer-and-battery-fees/",
-      "pubDate": "2026-10-14T15:23:10.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "New Siri Remote’s Find My feature limited to N1-equipped iPhones ↦",
       "url": "https://sixcolors.com/link/2026/10/new-siri-remotes-find-my-feature-limited-to-n1-equipped-iphones/",
       "pubDate": "2026-10-14T15:16:43.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone Duo: Skipping AppleCare+ Could Be $1,499 Mistake",
-      "url": "https://www.macrumors.com/2026/10/14/iphone-duo-repair-fees/",
-      "pubDate": "2026-10-14T15:13:45.000Z"
     },
     {
       "source": "Six Colors",
