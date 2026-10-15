@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T01:29:58.664Z",
+  "generatedAt": "2026-10-15T07:28:18.288Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "HomeView is simple, and that’s a good thing ↦",
+      "url": "https://sixcolors.com/link/2026/10/homeview-is-simple-and-thats-a-good-thing/",
+      "pubDate": "2026-10-15T03:09:26.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "How to stop strangers from getting a clear look at your house in Apple Maps",
+      "url": "https://appleinsider.com/inside/apple-maps/tips/how-to-stop-strangers-from-getting-a-clear-look-at-your-house-in-apple-maps?utm_source=rss",
+      "pubDate": "2026-10-15T02:56:15.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -325,13 +339,6 @@
       "pubDate": "2026-10-14T16:51:11.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Skip the controller, the Apple TV 4K still isn't a good gaming platform",
-      "url": "https://appleinsider.com/articles/26/10/14/skip-the-controller-the-apple-tv-4k-still-isnt-a-good-gaming-platform?utm_source=rss",
-      "pubDate": "2026-10-14T16:48:29.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "No, HomePod Mini 1 Won't Support Siri AI as CNET Reported",
@@ -365,13 +372,6 @@
       "title": "(Podcast) Designed in California 13: The MP3 Revolution (Part 1, Origin of the iPod)",
       "url": "https://sixcolors.com/podcast/2026/10/designed-in-california-13-the-mp3-revolution-part-1-origin-of-the-ipod/",
       "pubDate": "2026-10-14T09:00:00.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) The Rebound 620: Giant Honkin’ Things in the Back",
-      "url": "https://sixcolors.com/podcast/2026/10/the-rebound-620-giant-honkin-things-in-the-back/",
-      "pubDate": "2026-10-14T07:00:00.000Z"
     }
   ]
 }
