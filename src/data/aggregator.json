@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T01:23:09.608Z",
+  "generatedAt": "2026-10-16T07:12:32.841Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -26,7 +26,42 @@
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
-      "title": "‘Tenzing’ premieres on Apple TV, starring Tom Hiddleston and Willem Dafoe",
+      "title": "Apple Store is down ahead of iPhone Duo preorder rush",
+      "url": "https://9to5mac.com/2026/10/16/apple-store-is-down-ahead-of-iphone-duo-preorder-rush/",
+      "pubDate": "2026-10-16T07:02:48.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "How to manage your iPhone notifications on iOS 27",
+      "url": "https://appleinsider.com/articles/26/02/12/how-to-manage-your-iphone-notifications-on-ios-26?utm_source=rss",
+      "pubDate": "2026-10-16T03:00:54.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Trade secret lawsuit on iPhone's anodization process now being appealed",
+      "url": "https://appleinsider.com/articles/26/10/16/trade-secret-lawsuit-on-iphones-anodization-process-now-being-appealed?utm_source=rss",
+      "pubDate": "2026-10-16T02:45:05.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple inadvertently reveals new iPad mini model exists",
+      "url": "https://appleinsider.com/articles/26/10/16/apple-inadvertently-reveals-new-ipad-mini-model-exists?utm_source=rss",
+      "pubDate": "2026-10-16T01:39:11.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The Tesla Roadster flew, drove upside down, and hit 60mph in under a second",
+      "url": "https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk",
+      "pubDate": "2026-10-16T01:28:27.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "‘Tenzing’ premieres on Apple TV, starring Genden Phuntsok, Tom Hiddleston and Willem Dafoe",
       "url": "https://9to5mac.com/2026/10/15/tenzing-premieres-on-apple-tv-starring-tom-hiddleston-and-willem-dafoe/",
       "pubDate": "2026-10-16T01:00:14.000Z"
     },
@@ -42,7 +77,7 @@
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Oops, Apple's Website Just Hinted at iPad Mini 8",
       "url": "https://www.macrumors.com/2026/10/15/apple-ipad-mini-8-website-reference/",
-      "pubDate": "2026-10-16T00:27:14.000Z"
+      "pubDate": "2026-10-16T00:27:05.000Z"
     },
     {
       "source": "The Verge",
@@ -213,13 +248,6 @@
       "pubDate": "2026-10-15T19:05:24.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple execs talk Samsung’s role in creating iPhone Duo display",
-      "url": "https://9to5mac.com/2026/10/15/apple-execs-talk-samsungs-role-in-creating-iphone-duo-display/",
-      "pubDate": "2026-10-15T19:00:14.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple's HomeView is $300 at a minimum, and it's not really clear who it's for",
@@ -269,13 +297,6 @@
       "pubDate": "2026-10-15T17:30:24.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Volvo will use Nvidia’s tech for hands-free, point-to-point driving",
-      "url": "https://www.theverge.com/transportation/1011653/volvo-nvidia-autonomous-driving-level-2-hands-free-urban",
-      "pubDate": "2026-10-15T17:30:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Devil is in the details: Tidbits from our time trying HomeView",
@@ -283,32 +304,11 @@
       "pubDate": "2026-10-15T16:39:23.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple's 'Minions' research turns idle Mac GPUs into a virtual GPU cloud",
-      "url": "https://appleinsider.com/articles/26/10/15/apples-minions-research-turns-idle-mac-gpus-into-a-virtual-gpu-cloud?utm_source=rss",
-      "pubDate": "2026-10-15T16:30:06.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Joswiak: Siri AI is for everyday, not the AI 'lunatic fringe'",
-      "url": "https://appleinsider.com/articles/26/10/15/joswiak-siri-ai-is-for-everyday-not-the-ai-lunatic-fringe?utm_source=rss",
-      "pubDate": "2026-10-15T16:18:24.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple TV 4K 2022 vs. 2026 Buyer's Guide: All Differences Compared",
       "url": "https://www.macrumors.com/guide/apple-tv-4k-2022-vs-2026/",
       "pubDate": "2026-10-15T16:07:52.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple's M5 MacBook Air with 24GB RAM, 1TB SSD drops to $1,599",
-      "url": "https://appleinsider.com/articles/26/10/15/apples-m5-macbook-air-with-24gb-ram-1tb-ssd-drops-to-1599?utm_source=rss",
-      "pubDate": "2026-10-15T15:51:26.000Z"
     },
     {
       "source": "MacRumors",
