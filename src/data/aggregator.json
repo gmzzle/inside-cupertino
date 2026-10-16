@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T17:25:59.687Z",
+  "generatedAt": "2026-10-16T21:12:08.875Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,6 +24,118 @@
   ],
   "items": [
     {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Report: Apple gains ground on rivals, but iPhone 18 Pro and iPhone Duo face challenges",
+      "url": "https://9to5mac.com/2026/10/16/report-apple-gains-ground-on-rivals-but-iphone-18-pro-and-iphone-duo-face-challenges/",
+      "pubDate": "2026-10-16T21:06:13.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "We can finally hear some of Wu-Tang Clan&#8217;s Once Upon A Time in Shaolin album",
+      "url": "https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli",
+      "pubDate": "2026-10-16T20:50:27.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
+      "url": "https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash",
+      "pubDate": "2026-10-16T20:49:04.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Overtime 086: Apple’s smart home reboot",
+      "url": "https://9to5mac.com/2026/10/16/9to5mac-overtime-086-apples-smart-home-reboot/",
+      "pubDate": "2026-10-16T20:32:53.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Didn't Pre-Order Apple's HomeView? Here's How Long the Wait is Now",
+      "url": "https://www.macrumors.com/2026/10/16/apple-homeview-preorder-wait-times/",
+      "pubDate": "2026-10-16T20:05:15.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Report: Apple’s antitrust negotiations with the DOJ spark concerns of a weak settlement",
+      "url": "https://9to5mac.com/2026/10/16/report-apples-antitrust-negotiations-with-the-doj-spark-concerns-of-a-weak-settlement/",
+      "pubDate": "2026-10-16T20:04:21.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone Duo vs iPhone 18 Pro: Here’s every key difference",
+      "url": "https://9to5mac.com/2026/10/16/iphone-18-pro-vs-iphone-duo-heres-every-key-difference/",
+      "pubDate": "2026-10-16T19:55:17.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's $79 iPhone Duo Case Sticks On With Adhesive",
+      "url": "https://www.macrumors.com/2026/10/16/iphone-duo-case-adhesive/",
+      "pubDate": "2026-10-16T19:51:58.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "HomeView will include these Apple apps at launch",
+      "url": "https://9to5mac.com/2026/10/16/homeview-will-include-these-apple-apps-at-launch/",
+      "pubDate": "2026-10-16T19:50:31.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iPhone Duo delivery dates stabilize on late January deliveries for all models",
+      "url": "https://appleinsider.com/articles/26/10/16/iphone-duo-delivery-dates-stabilize-on-late-january-deliveries-for-all-models?utm_source=rss",
+      "pubDate": "2026-10-16T19:08:28.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "HomeKit Weekly: Get your Halloween and Christmas automations set up now",
+      "url": "https://9to5mac.com/2026/10/16/homekit-weekly-get-your-halloween-and-christmas-automations-set-up-now/",
+      "pubDate": "2026-10-16T19:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Why Apple is finally making its own smart home devices",
+      "url": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
+      "pubDate": "2026-10-16T18:30:27.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Finding a place for Apple HomeView on the AppleInsider Podcast",
+      "url": "https://appleinsider.com/articles/26/10/16/finding-a-place-for-apple-homeview-on-the-appleinsider-podcast?utm_source=rss",
+      "pubDate": "2026-10-16T17:53:03.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27.2 has three new changes just added this week",
+      "url": "https://9to5mac.com/2026/10/16/ios-27-2-has-three-new-changes-just-added-this-week/",
+      "pubDate": "2026-10-16T17:45:58.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "A $299 Apple TV: Is that all there is?",
+      "url": "https://sixcolors.com/post/2026/10/a-299-apple-tv-is-that-all-there-is/",
+      "pubDate": "2026-10-16T17:34:06.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple TV 4K and HomePod Mini Price Increases 'Much More Striking' Than New Features",
+      "url": "https://www.macrumors.com/2026/10/16/apple-tv-4k-homepod-mini-price-increases/",
+      "pubDate": "2026-10-16T17:30:14.000Z"
+    },
+    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Beats Pill x Pokemon review: peak portable audio with a splash of Pikachu's charm",
@@ -43,13 +155,6 @@
       "title": "The new Apple TV 4K just got its first (very small) discount",
       "url": "https://www.theverge.com/gadgets/1012962/apple-tv-4k-fourth-generation-fanttik-s1-pro-deal-sale",
       "pubDate": "2026-10-16T16:02:22.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Finding a place for Apple HomeView on the AppleInsider Podcast",
-      "url": "https://appleinsider.com/articles/26/10/16/finding-a-place-for-apple-homeview-on-the-appleinsider-podcast?utm_source=rss",
-      "pubDate": "2026-10-16T16:01:19.000Z"
     },
     {
       "source": "9to5Mac",
@@ -136,13 +241,6 @@
       "pubDate": "2026-10-16T14:45:50.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone 18 Pro one month later: These features keep impressing me",
-      "url": "https://9to5mac.com/2026/10/16/iphone-18-pro-one-month-later-these-features-keep-impressing-me/",
-      "pubDate": "2026-10-16T14:23:42.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "The incredible flying Tesla Roadster is just for show",
@@ -171,13 +269,6 @@
       "pubDate": "2026-10-16T14:02:40.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Security Bite: Americans are contradicting themselves around privacy",
-      "url": "https://9to5mac.com/2026/10/16/security-bite-americans-are-contradicting-themselves-around-privacy/",
-      "pubDate": "2026-10-16T13:52:09.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Developers Question Scope of Potential Apple Antitrust Settlement",
@@ -190,13 +281,6 @@
       "title": "iPhone Duo Resold for $5,000 on eBay After Selling Out",
       "url": "https://www.macrumors.com/2026/10/16/iphone-duo-resold-for-5000-dollars-on-ebay/",
       "pubDate": "2026-10-16T13:39:15.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "This stretchy MagSafe storage pouch gives your phone a sizable trunk",
-      "url": "https://www.theverge.com/tech/1012828/ninja-labs-magsafe-flex-pouch-silicone-smartphone-storage",
-      "pubDate": "2026-10-16T13:33:21.000Z"
     },
     {
       "source": "MacRumors",
@@ -213,39 +297,11 @@
       "pubDate": "2026-10-16T13:24:30.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone Duo accessories: Here are five top picks for Apple’s foldable",
-      "url": "https://9to5mac.com/2026/10/16/iphone-duo-accessories-here-are-five-top-picks-for-apples-foldable/",
-      "pubDate": "2026-10-16T13:17:34.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iPhone Duo is Sold Out for Christmas as Shipping Estimates Slip to 2027",
       "url": "https://www.macrumors.com/2026/10/16/iphone-duo-sold-out-for-christmas/",
       "pubDate": "2026-10-16T13:11:43.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "iPhone Duo orders are already delayed into 2027",
-      "url": "https://www.theverge.com/tech/1012805/apple-iphone-duo-preorder-delay",
-      "pubDate": "2026-10-16T13:10:11.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Sony Xperia 10 VI won’t be getting a promised update to Android 17",
-      "url": "https://www.theverge.com/tech/1012789/sony-xperia-10-vi-smartphone-android-17-update-security",
-      "pubDate": "2026-10-16T12:36:11.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone Duo sells out immediately, now backordered until next year",
-      "url": "https://9to5mac.com/2026/10/16/iphone-duo-pre-orders-now-backordered-to-next-year/",
-      "pubDate": "2026-10-16T12:32:57.000Z"
     },
     {
       "source": "MacRumors",
@@ -276,20 +332,6 @@
       "pubDate": "2026-10-16T12:07:29.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone Duo Pre-Order Deals: The Best Carrier Offers From AT&T and T-Mobile",
-      "url": "https://www.macrumors.com/2026/10/16/iphone-duo-pre-order-deals/",
-      "pubDate": "2026-10-16T12:03:14.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone Duo now available to pre-order, prices start at $1,999",
-      "url": "https://9to5mac.com/2026/10/16/iphone-duo-now-available-to-pre-order-prices-start-at-1999/",
-      "pubDate": "2026-10-16T12:01:14.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Preorders for the iPhone Duo are now live",
@@ -297,46 +339,11 @@
       "pubDate": "2026-10-16T12:00:48.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone Duo Now Available to Pre-Order From Apple",
-      "url": "https://www.macrumors.com/2026/10/16/iphone-duo-now-available-to-pre-order/",
-      "pubDate": "2026-10-16T12:00:37.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Where to find the best free fonts for Mac without licensing headaches",
       "url": "https://appleinsider.com/inside/macos/tips/where-to-find-the-best-free-fonts-for-mac-without-licensing-headaches?utm_source=rss",
       "pubDate": "2026-10-16T11:29:52.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone 18 Pro vs. iPhone Duo Buyer's Guide: Which Should You Choose?",
-      "url": "https://www.macrumors.com/guide/iphone-18-pro-vs-iphone-duo/",
-      "pubDate": "2026-10-16T09:48:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Online Apple Store goes down ahead of iPhone Duo pre-orders",
-      "url": "https://appleinsider.com/articles/26/10/16/online-apple-store-goes-down-ahead-of-iphone-duo-pre-orders?utm_source=rss",
-      "pubDate": "2026-10-16T08:03:05.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Store is down ahead of iPhone Duo preorder rush",
-      "url": "https://9to5mac.com/2026/10/16/apple-store-is-down-ahead-of-iphone-duo-preorder-rush/",
-      "pubDate": "2026-10-16T07:02:48.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "‘Tenzing’ premieres on Apple TV, starring Genden Phuntsok, Tom Hiddleston and Willem Dafoe",
-      "url": "https://9to5mac.com/2026/10/15/tenzing-premieres-on-apple-tv-starring-tom-hiddleston-and-willem-dafoe/",
-      "pubDate": "2026-10-16T01:00:14.000Z"
     },
     {
       "source": "AppleInsider",
@@ -365,13 +372,6 @@
       "title": "Share your location in Messages, now for a custom period",
       "url": "https://sixcolors.com/post/2026/10/share-your-location-in-messages-now-for-a-custom-period/",
       "pubDate": "2026-10-14T16:00:00.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "New Siri Remote’s Find My feature limited to N1-equipped iPhones ↦",
-      "url": "https://sixcolors.com/link/2026/10/new-siri-remotes-find-my-feature-limited-to-n1-equipped-iphones/",
-      "pubDate": "2026-10-14T15:16:43.000Z"
     }
   ]
 }
