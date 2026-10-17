@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T09:24:02.925Z",
+  "generatedAt": "2026-10-17T13:44:33.525Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,55 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Top Stories: Apple HomeView, New Apple TV and HomePod mini, and Sold-Out iPhone Duo",
+      "url": "https://www.macrumors.com/2026/10/17/top-stories-apple-homeview-intro/",
+      "pubDate": "2026-10-17T13:00:11.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple @ Work: How I’m preparing my fleet for Rosetta’s removal in macOS 27",
+      "url": "https://9to5mac.com/2026/10/17/how-im-preparing-my-fleet-for-rosettas-removal-in-macos-27/",
+      "pubDate": "2026-10-17T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Websites are closing their doors to AI agents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "pubDate": "2026-10-17T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Bose’s new wired earbuds are simple in the best way",
+      "url": "https://www.theverge.com/tech/1013320/bose-noise-cancelling-wired-earbuds-review",
+      "pubDate": "2026-10-17T13:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple weekend deals: HomeView,  new Apple TV 4K, AirPods, MacBook, mini, more",
+      "url": "https://9to5mac.com/2026/10/17/apple-weekend-deals-homeview-new-apple-tv-airpods/",
+      "pubDate": "2026-10-17T12:18:24.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Apple’s HomeView is just the latest threat to online recipe writers",
+      "url": "https://www.theverge.com/tech/1012820/apple-homeview-recipe-formatting",
+      "pubDate": "2026-10-17T12:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "It’s a dream week for tech docs",
+      "url": "https://www.theverge.com/tech/1013367/best-tech-documentaries-musk-holmes-installer",
+      "pubDate": "2026-10-17T12:00:00.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -171,13 +220,6 @@
       "pubDate": "2026-10-16T19:08:28.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "HomeKit Weekly: Get your Halloween and Christmas automations set up now",
-      "url": "https://9to5mac.com/2026/10/16/homekit-weekly-get-your-halloween-and-christmas-automations-set-up-now/",
-      "pubDate": "2026-10-16T19:00:00.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Why Apple is finally making its own smart home devices",
@@ -190,13 +232,6 @@
       "title": "Finding a place for Apple HomeView on the AppleInsider Podcast",
       "url": "https://appleinsider.com/articles/26/10/16/finding-a-place-for-apple-homeview-on-the-appleinsider-podcast?utm_source=rss",
       "pubDate": "2026-10-16T17:53:03.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27.2 has three new changes just added this week",
-      "url": "https://9to5mac.com/2026/10/16/ios-27-2-has-three-new-changes-just-added-this-week/",
-      "pubDate": "2026-10-16T17:45:58.000Z"
     },
     {
       "source": "Six Colors",
@@ -248,34 +283,6 @@
       "pubDate": "2026-10-16T15:47:38.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple&#8217;s HomeView has an app problem",
-      "url": "https://www.theverge.com/podcast/1012911/apple-homeview-apps-carplay-vergecast",
-      "pubDate": "2026-10-16T15:38:17.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Analogue is re-releasing its SNES and Genesis consoles with some nice upgrades",
-      "url": "https://www.theverge.com/tech/1012901/analogue-retro-console-supern-nt-plus-nintendo-sega-genesis-mega-plus",
-      "pubDate": "2026-10-16T15:08:38.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "A fake WhatsApp clone is showing up before the real version on the Play Store",
-      "url": "https://www.theverge.com/tech/1012918/google-play-store-fake-whatsapp-android",
-      "pubDate": "2026-10-16T15:02:23.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
-      "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
-      "pubDate": "2026-10-16T15:00:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Vocal developers dismayed at DOJ considering antitrust settlement with Apple",
@@ -309,13 +316,6 @@
       "title": "iPhone Duo Resold for $5,000 on eBay After Selling Out",
       "url": "https://www.macrumors.com/2026/10/16/iphone-duo-resold-for-5000-dollars-on-ebay/",
       "pubDate": "2026-10-16T13:39:15.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Massive Discounts Hit 2026 MacBook Pro With Up to $800 Off",
-      "url": "https://www.macrumors.com/2026/10/16/discounts-macbook-pro/",
-      "pubDate": "2026-10-16T13:29:51.000Z"
     },
     {
       "source": "AppleInsider",
