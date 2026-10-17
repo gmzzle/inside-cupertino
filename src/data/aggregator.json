@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T23:38:42.652Z",
+  "generatedAt": "2026-10-17T04:30:12.888Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Verizon confirms $10 monthly fee for new iPhone Handoff feature",
+      "url": "https://9to5mac.com/2026/10/16/verizon-confirms-10-monthly-fee-for-new-iphone-handoff-feature/",
+      "pubDate": "2026-10-17T00:01:38.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -225,13 +232,6 @@
       "title": "The new Apple TV 4K just got its first (very small) discount",
       "url": "https://www.theverge.com/gadgets/1012962/apple-tv-4k-fourth-generation-fanttik-s1-pro-deal-sale",
       "pubDate": "2026-10-16T16:02:22.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Here’s the difference the variable aperture of the iPhone 18 Pro makes at night",
-      "url": "https://9to5mac.com/2026/10/16/heres-the-difference-the-variable-aperture-of-the-iphone-18-pro-makes-at-night/",
-      "pubDate": "2026-10-16T16:00:00.000Z"
     },
     {
       "source": "AppleInsider",
