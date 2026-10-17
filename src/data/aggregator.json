@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T17:12:50.265Z",
+  "generatedAt": "2026-10-17T19:27:42.415Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,11 +24,11 @@
   ],
   "items": [
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast",
-      "url": "https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance",
-      "pubDate": "2026-10-17T17:00:00.000Z"
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Hands-on: UGREEN’s new 25W MagSafe battery for iPhone features liquid cooling",
+      "url": "https://9to5mac.com/2026/10/17/ugreen-25w-magsafe-liquid-cooling-battery-bank/",
+      "pubDate": "2026-10-17T17:52:00.000Z"
     },
     {
       "source": "The Verge",
@@ -75,7 +75,7 @@
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
-      "title": "Generative AI porn apps targeted in App Review Guidelines update",
+      "title": "AI nudify apps targeted in App Review Guidelines update",
       "url": "https://appleinsider.com/articles/26/10/17/generative-ai-porn-apps-targeted-in-app-review-guidelines-update?utm_source=rss",
       "pubDate": "2026-10-17T14:40:29.000Z"
     },
@@ -164,6 +164,13 @@
       "pubDate": "2026-10-16T23:37:48.000Z"
     },
     {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "All the news about the iPhone Duo",
+      "url": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
+      "pubDate": "2026-10-16T23:36:26.000Z"
+    },
+    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Calls iPhone Duo Demand 'Extraordinary' After Orders Slip to 2027",
@@ -232,13 +239,6 @@
       "title": "Didn't Pre-Order Apple's HomeView? Here's How Long the Wait is Now",
       "url": "https://www.macrumors.com/2026/10/16/apple-homeview-preorder-wait-times/",
       "pubDate": "2026-10-16T20:05:15.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Report: Apple’s antitrust negotiations with the DOJ spark concerns of a weak settlement",
-      "url": "https://9to5mac.com/2026/10/16/report-apples-antitrust-negotiations-with-the-doj-spark-concerns-of-a-weak-settlement/",
-      "pubDate": "2026-10-16T20:04:21.000Z"
     },
     {
       "source": "MacRumors",
