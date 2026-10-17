@@ -1,7 +1,7 @@
 ---
 title: "Don't Line Up for an iPhone Duo Friday Without a Preorder. Apple's Own Staff Are Saying So."
 description: "Apple Store employees have reportedly been told to warn walk-in shoppers that there will likely be no iPhone Duo stock on Oct. 23. Here's what to do instead."
-pubDate: 2026-10-17T22:20:00.000Z
+pubDate: 2026-10-17T22:10:00.000Z
 draft: false
 author: "Inside Cupertino"
 tags:
