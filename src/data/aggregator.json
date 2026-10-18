@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T18:07:56.096Z",
+  "generatedAt": "2026-10-18T20:46:39.322Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Amazon Discounts New Mac Mini by Up to $149, Mac Studio by $200",
+      "url": "https://www.macrumors.com/2026/10/18/new-mac-mini-149/",
+      "pubDate": "2026-10-18T20:15:14.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Sunday Reboot: HomeView is an interesting smart home experiment",
+      "url": "https://appleinsider.com/articles/26/10/18/sunday-reboot-homeview-is-an-interesting-smart-home-experiment?utm_source=rss",
+      "pubDate": "2026-10-18T20:04:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Mister Organ is one of the most unsettling documentaries I’ve ever seen",
+      "url": "https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review",
+      "pubDate": "2026-10-18T19:30:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "A woman was arrested in Philly for blocking a delivery robot",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+      "pubDate": "2026-10-18T18:28:10.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -199,20 +227,6 @@
       "pubDate": "2026-10-17T17:52:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast",
-      "url": "https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance",
-      "pubDate": "2026-10-17T17:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Elon Musk settles lawsuits over $1 million voter giveaway",
-      "url": "https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway",
-      "pubDate": "2026-10-17T16:39:44.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Charting Apple TV pricing ↦",
@@ -318,13 +332,6 @@
       "pubDate": "2026-10-16T20:05:15.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple's $79 iPhone Duo Case Sticks On With Adhesive",
-      "url": "https://www.macrumors.com/2026/10/16/iphone-duo-case-adhesive/",
-      "pubDate": "2026-10-16T19:51:58.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "iPhone Duo delivery dates stabilize on late January deliveries for all models",
@@ -351,13 +358,6 @@
       "title": "Beats Pill x Pokemon review: peak portable audio with a splash of Pikachu's charm",
       "url": "https://appleinsider.com/articles/26/10/16/beats-pill-x-pokemon-review-peak-portable-audio-with-a-splash-of-pikachus-charm?utm_source=rss",
       "pubDate": "2026-10-16T17:08:38.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Elevation Lab pulls its AirTag Silencer over stalking concerns, issues apology",
-      "url": "https://appleinsider.com/articles/26/10/16/elevation-lab-pulls-its-airtag-silencer-over-stalking-concerns-issues-apology?utm_source=rss",
-      "pubDate": "2026-10-16T15:53:34.000Z"
     },
     {
       "source": "Six Colors",
