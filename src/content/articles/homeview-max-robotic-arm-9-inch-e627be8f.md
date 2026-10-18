@@ -1,7 +1,7 @@
 ---
 title: "HomeView Isn't Even Out Yet. Its Bigger Sibling Will Turn to Face You."
 description: "Gurman says Apple is building a higher-end HomeView with a 9-inch screen on a robotic arm that swivels toward whoever is speaking, due in 2027 or 2028."
-pubDate: 2026-10-18T15:20:00.000Z
+pubDate: 2026-10-18T15:10:00.000Z
 draft: false
 author: "Inside Cupertino"
 tags:
