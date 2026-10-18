@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T11:09:31.212Z",
+  "generatedAt": "2026-10-18T14:36:14.689Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,62 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "HomeView follow-up with robot arm rumored to ship in 2027",
+      "url": "https://appleinsider.com/articles/26/10/18/homeview-follow-up-with-robot-arm-rumored-to-ship-in-2027?utm_source=rss",
+      "pubDate": "2026-10-18T14:30:39.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple’s next HomeView could debut as soon as next year with a robotic arm: report",
+      "url": "https://9to5mac.com/2026/10/18/apples-next-homeview-could-debut-as-soon-as-next-year-with-a-robotic-arm-report/",
+      "pubDate": "2026-10-18T14:17:21.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "J Mascis has nothing better to do",
+      "url": "https://www.theverge.com/entertainment/1012442/j-mascis-dinosaur-jr-fender-interview",
+      "pubDate": "2026-10-18T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Trump says Google kisses his ass",
+      "url": "https://www.theverge.com/policy/1013485/trump-google-kiss-my-ass",
+      "pubDate": "2026-10-18T13:25:01.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The best gadget I bought this year is a milk frother",
+      "url": "https://www.theverge.com/gadgets/1013257/milk-frother-cold-foam-gadget",
+      "pubDate": "2026-10-18T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "How overhead projectors took over your classroom",
+      "url": "https://www.theverge.com/podcast/1013473/overhead-projector-version-history",
+      "pubDate": "2026-10-18T12:55:01.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Cities want to put the boot on robotaxis",
+      "url": "https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws",
+      "pubDate": "2026-10-18T12:00:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Crime blotter: Man arrested for damage to Macau Apple Store",
+      "url": "https://appleinsider.com/articles/26/10/18/crime-blotter-man-arrested-for-damage-to-macau-apple-store?utm_source=rss",
+      "pubDate": "2026-10-18T11:21:00.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -129,20 +185,6 @@
       "pubDate": "2026-10-17T14:40:29.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Jad Abumrad loves a butterfly knife and a good springy pillow",
-      "url": "https://www.theverge.com/entertainment/1013381/jad-abumrad-radiolab-dolly-parton-fela-kuti-podcast-interview",
-      "pubDate": "2026-10-17T14:30:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "SpaceX’s ambitious, expensive gamble to replace AT&#038;T, T-Mobile, and Verizon",
-      "url": "https://www.theverge.com/podcast/1012416/spacex-starlink-elon-musk-cell-carrier-wireless-mobile-att-verizon-t-mobile",
-      "pubDate": "2026-10-17T14:00:00.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "PSA: Apple’s official silicone iPhone Duo case will require adhesive to stick",
@@ -164,32 +206,11 @@
       "pubDate": "2026-10-17T13:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Websites are closing their doors to AI agents",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-      "pubDate": "2026-10-17T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Bose’s new wired earbuds are simple in the best way",
-      "url": "https://www.theverge.com/tech/1013320/bose-noise-cancelling-wired-earbuds-review",
-      "pubDate": "2026-10-17T13:00:00.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Apple weekend deals: HomeView,  new Apple TV 4K, AirPods, MacBook, mini, more",
       "url": "https://9to5mac.com/2026/10/17/apple-weekend-deals-homeview-new-apple-tv-airpods/",
       "pubDate": "2026-10-17T12:18:24.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple’s HomeView is just the latest threat to online recipe writers",
-      "url": "https://www.theverge.com/tech/1012820/apple-homeview-recipe-formatting",
-      "pubDate": "2026-10-17T12:00:00.000Z"
     },
     {
       "source": "9to5Mac",
@@ -246,13 +267,6 @@
       "title": "‘Take Control of Photos, Fifth Edition’ ↦",
       "url": "https://sixcolors.com/link/2026/10/take-control-of-photos-fifth-edition/",
       "pubDate": "2026-10-16T21:50:41.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple calls iPhone Duo pre-order demand ‘extraordinary’ as shipping dates slip",
-      "url": "https://9to5mac.com/2026/10/16/apple-calls-iphone-duo-pre-order-demand-extraordinary-as-shipping-dates-slip/",
-      "pubDate": "2026-10-16T21:33:28.000Z"
     },
     {
       "source": "MacRumors",
@@ -351,20 +365,6 @@
       "title": "Amazon cuts 2026 Apple TV 4K, HomeView prices with preorder deals",
       "url": "https://appleinsider.com/articles/26/10/16/amazon-cuts-2026-apple-tv-4k-homeview-prices-with-preorder-deals?utm_source=rss",
       "pubDate": "2026-10-16T13:24:30.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Save up to $1,200 on Apple's iPhone Duo",
-      "url": "https://appleinsider.com/articles/26/10/16/save-up-to-1200-on-apples-iphone-duo?utm_source=rss",
-      "pubDate": "2026-10-16T12:13:21.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPhone Duo sells out moments after pre-orders begin",
-      "url": "https://appleinsider.com/articles/26/10/16/iphone-duo-sells-out-moments-after-pre-orders-begin?utm_source=rss",
-      "pubDate": "2026-10-16T12:07:29.000Z"
     },
     {
       "source": "Six Colors",
