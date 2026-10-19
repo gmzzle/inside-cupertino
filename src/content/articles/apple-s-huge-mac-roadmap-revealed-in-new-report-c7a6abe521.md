@@ -13,7 +13,7 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/07/22/apples-huge-mac-roadmap-revealed-in-new-report/"
-heroImage: "https://images.unsplash.com/photo-1496181133976-866b43b4b83a?w=1600&q=80&auto=format&fit=crop"
+heroImage: "https://images.unsplash.com/photo-1484788984921-03950022c9ef?w=1600&q=80&auto=format&fit=crop"
 heroAlt: "Open laptop on a wooden desk"
 ---
 

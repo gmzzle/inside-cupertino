@@ -13,8 +13,8 @@ tags:
 source:
   name: "MacRumors"
   url: "https://www.macrumors.com/2026/08/20/ceramic-apple-watch-to-return-with-series-12/"
-heroImage: "https://images.unsplash.com/photo-1434494876617-05f1dda2b0fc?w=1600&q=80&auto=format&fit=crop"
-heroAlt: "Smartwatch worn on a wrist outdoors"
+heroImage: "https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Smartwatch worn on a wrist"
 ---
 
 [MacRumors](https://www.macrumors.com/2026/08/20/ceramic-apple-watch-to-return-with-series-12/) is reporting that Apple plans to resurrect the ceramic Apple Watch with the Series 12 this fall, citing leaker Kosutami. If true, it would mark the return of a finish Apple has now killed off twice—once after the Series 3 in 2018, and again after the Series 5 in 2020.

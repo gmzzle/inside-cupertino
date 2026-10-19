@@ -12,8 +12,8 @@ tags:
 source:
   name: "MacRumors"
   url: "https://www.macrumors.com/2026/07/20/four-apple-stores-moving-this-month/"
-heroImage: "https://images.unsplash.com/photo-1491933382430-971391ca20c0?w=1600&q=80&auto=format&fit=crop"
-heroAlt: "Apple devices arranged on a desk"
+heroImage: "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "iMac on a white desk"
 ---
 
 [MacRumors](https://www.macrumors.com/2026/07/20/four-apple-stores-moving-this-month/) reported that four U.S. Apple Stores are relocating this month, though calling them "moves" is generous. These are shuffles. Queens Center in Elmhurst is hopping to a temporary spot while the real store gets remodeled. Renaissance at Colony Park in Mississippi is relocating "right in front of the Show Fountain." Briarwood in Ann Arbor is shifting to a bigger space near something called The Lawn. And the Colorado Springs location? It's moving "six doors down to the left."

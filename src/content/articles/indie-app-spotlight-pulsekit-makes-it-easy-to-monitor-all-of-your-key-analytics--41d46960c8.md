@@ -13,8 +13,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/07/04/indie-app-spotlight-pulsekit-makes-it-easy-to-monitor-all-of-your-key-analytics-on-iphone/"
-heroImage: "https://images.unsplash.com/photo-1491933382430-971391ca20c0?w=1600&q=80&auto=format&fit=crop"
-heroAlt: "Apple devices arranged on a desk"
+heroImage: "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "iMac on a white desk"
 ---
 
 [9to5Mac](https://9to5mac.com/2026/07/04/indie-app-spotlight-pulsekit-makes-it-easy-to-monitor-all-of-your-key-analytics-on-iphone/) spotlighted PulseKit this week, a new iPhone app that consolidates analytics from various services into widgets on your home screen and lock screen. The idea is simple: instead of opening five different apps to check your YouTube subscriber count, Stripe revenue, GitHub stars, or whatever else you obsess over, you glance at a widget.

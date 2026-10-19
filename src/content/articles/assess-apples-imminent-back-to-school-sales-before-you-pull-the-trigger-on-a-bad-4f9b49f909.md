@@ -13,8 +13,8 @@ tags:
 source:
   name: "AppleInsider"
   url: "https://appleinsider.com/articles/26/07/12/assess-apples-imminent-back-to-school-sales-before-you-pull-the-trigger-on-a-bad-deal?utm_source=rss"
-heroImage: "https://images.unsplash.com/photo-1491933382430-971391ca20c0?w=1600&q=80&auto=format&fit=crop"
-heroAlt: "Apple devices arranged on a desk"
+heroImage: "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "iMac on a white desk"
 ---
 
 [AppleInsider](https://appleinsider.com/articles/26/07/12/assess-apples-imminent-back-to-school-sales-before-you-pull-the-trigger-on-a-bad-deal?utm_source=rss) is telling students to pump the brakes on Apple's upcoming Back to School promotion, and they're right. Apple's education sales have become predictable summer theater: modest discounts on Macs and iPads, maybe a gift card or free AirPods, all wrapped in marketing that makes it feel more generous than it is.

@@ -13,8 +13,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5toys.com/2026/08/29/sharge-impressive-metal-power-bank-display-review/"
-heroImage: "https://images.unsplash.com/photo-1491933382430-971391ca20c0?w=1600&q=80&auto=format&fit=crop"
-heroAlt: "Apple devices arranged on a desk"
+heroImage: "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "iMac on a white desk"
 ---
 
 [9to5Mac](https://9to5toys.com/2026/08/29/sharge-impressive-metal-power-bank-display-review/) is excited about Sharge's new Shargeek 300, a metal power bank with enough ports to charge two MacBooks simultaneously, plus an onboard display and RGB lighting. It also has literal window cutouts in the case so you can admire the circuitry inside, which is either cool or the kind of thing that sounds cool until you're actually carrying it.

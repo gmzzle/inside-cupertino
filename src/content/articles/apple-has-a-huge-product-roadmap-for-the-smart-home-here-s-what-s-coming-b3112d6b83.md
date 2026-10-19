@@ -13,8 +13,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/08/15/apple-home-product-roadmap-tv-homepod-smart-display/"
-heroImage: "https://images.unsplash.com/photo-1556911220-bff31c812d90?w=1600&q=80&auto=format&fit=crop"
-heroAlt: "Modern kitchen and living space"
+heroImage: "https://images.unsplash.com/photo-1556912173-3bb406ef7e77?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Modern white kitchen interior"
 ---
 
 The HomePod mini launched in November 2020. The current Apple TV 4K shipped in October 2022, but its predecessor hung around for five years before that. If you've been waiting for Apple to care about the smart home again, [9to5Mac](https://9to5mac.com/2026/08/15/apple-home-product-roadmap-tv-homepod-smart-display/) says that wait is almost over.

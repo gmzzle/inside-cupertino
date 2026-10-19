@@ -13,8 +13,8 @@ tags:
 source:
   name: "AppleInsider"
   url: "https://appleinsider.com/articles/26/08/19/apples-home-automation-hardware-will-work-more-like-an-apple-watch-than-a-homepod?utm_source=rss"
-heroImage: "https://images.unsplash.com/photo-1556911220-bff31c812d90?w=1600&q=80&auto=format&fit=crop"
-heroAlt: "Modern kitchen and living space"
+heroImage: "https://images.unsplash.com/photo-1556912173-3bb406ef7e77?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Modern white kitchen interior"
 ---
 
 [AppleInsider](https://appleinsider.com/articles/26/08/19/apples-home-automation-hardware-will-work-more-like-an-apple-watch-than-a-homepod?utm_source=rss) dug into macOS Tahoe code and found references to a "Face Gallery" and complications for the long-rumored HomeHub device. Basically, Apple's taking the Watch's customizable face approach and dropping it onto whatever this home automation screen turns out to be.

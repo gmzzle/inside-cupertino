@@ -12,8 +12,8 @@ tags:
 source:
   name: "AppleInsider"
   url: "https://appleinsider.com/articles/26/06/19/siri-ai-leaves-older-apple-watches-behind-without-a-clear-reason?utm_source=rss"
-heroImage: "https://images.unsplash.com/photo-1434494876617-05f1dda2b0fc?w=1600&q=80&auto=format&fit=crop"
-heroAlt: "Smartwatch worn on a wrist outdoors"
+heroImage: "https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Smartwatch worn on a wrist"
 ---
 
 Apple finally addressed why Siri AI in watchOS 27 only works on Apple Watch Series 9 and newer, and the answer is basically no answer at all. In an interview with [AppleInsider](https://appleinsider.com/articles/26/06/19/siri-ai-leaves-older-apple-watches-behind-without-a-clear-reason?utm_source=rss), Apple's Cait Dooley said the features "work best on newer hardware." That's it. That's the explanation.

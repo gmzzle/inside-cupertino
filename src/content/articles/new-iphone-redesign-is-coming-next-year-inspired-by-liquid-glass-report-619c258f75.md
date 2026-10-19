@@ -13,8 +13,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/05/04/new-iphone-redesign-is-coming-next-year-inspired-by-liquid-glass-report/"
-heroImage: "https://images.unsplash.com/photo-1544243715-0fbced5d8c7f?w=1600&q=80&auto=format&fit=crop"
-heroAlt: "Tablet device on a clean surface"
+heroImage: "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Tablet and stylus on a dark surface"
 ---
 
 Apple is planning a hardware redesign for the iPhone's 20th anniversary in 2027, and according to [9to5Mac](https://9to5mac.com/2026/05/04/new-iphone-redesign-is-coming-next-year-inspired-by-liquid-glass-report/), it's being built to visually sync with iOS 26's Liquid Glass design language. The idea is that the physical device and the software interface will feel like parts of the same aesthetic whole, not just a screen bolted to a metal frame.
