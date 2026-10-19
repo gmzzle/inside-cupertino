@@ -13,8 +13,8 @@ tags:
 source:
   name: "AppleInsider"
   url: "https://appleinsider.com/inside/watchos-11/tips/how-to-pause-activity-rings-in-watchos-11-when-you-need-a-break?utm_source=rss"
-heroImage: "https://images.unsplash.com/photo-1434494876617-05f1dda2b0fc?w=1600&q=80&auto=format&fit=crop"
-heroAlt: "Smartwatch worn on a wrist outdoors"
+heroImage: "https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Smartwatch worn on a wrist"
 ---
 
 [AppleInsider](https://appleinsider.com/inside/watchos-11/tips/how-to-pause-activity-rings-in-watchos-11-when-you-need-a-break?utm_source=rss) covered the new pause feature for Activity Rings in watchOS 11, which is honestly one of those "finally" features that should have existed years ago.
