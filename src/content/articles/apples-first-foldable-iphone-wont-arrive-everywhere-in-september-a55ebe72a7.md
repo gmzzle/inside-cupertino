@@ -13,7 +13,7 @@ tags:
 source:
   name: "AppleInsider"
   url: "https://appleinsider.com/articles/26/08/13/apples-first-foldable-iphone-wont-arrive-everywhere-in-september?utm_source=rss"
-heroImage: "https://images.unsplash.com/photo-1496181133976-866b43b4b83a?w=1600&q=80&auto=format&fit=crop"
+heroImage: "https://images.unsplash.com/photo-1484788984921-03950022c9ef?w=1600&q=80&auto=format&fit=crop"
 heroAlt: "Open laptop on a wooden desk"
 ---
 

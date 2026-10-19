@@ -13,8 +13,8 @@ tags:
 source:
   name: "MacRumors"
   url: "https://www.macrumors.com/2026/06/24/best-prime-day-tv-deals/"
-heroImage: "https://images.unsplash.com/photo-1434494876617-05f1dda2b0fc?w=1600&q=80&auto=format&fit=crop"
-heroAlt: "Smartwatch worn on a wrist outdoors"
+heroImage: "https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Smartwatch worn on a wrist"
 ---
 
 [MacRumors](https://www.macrumors.com/2026/06/24/best-prime-day-tv-deals/) rounded up the TV deals hitting Prime Day, and yeah, the discounts are legitimate. Samsung, LG, Hisense—all the usual suspects are marked down 30-50% in some cases. If you're already paying for Prime and you've been waiting on a new TV, this is probably your moment.
