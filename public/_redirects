@@ -1,0 +1,3 @@
+# Cloudflare Pages redirects. Crawlers and tools often guess /sitemap.xml;
+# the real sitemap from @astrojs/sitemap is /sitemap-index.xml.
+/sitemap.xml /sitemap-index.xml 301

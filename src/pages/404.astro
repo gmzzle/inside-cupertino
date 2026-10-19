@@ -1,0 +1,18 @@
+---
+// Having a 404 page in the build output stops Cloudflare Pages from
+// treating the site as a single-page app and answering every unknown URL
+// with the homepage and a 200 status (a "soft 404").
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Page not found" description="That page doesn't exist on Inside Cupertino.">
+  <section class="max-w-3xl mx-auto px-6 md:px-8 pt-24 pb-32">
+    <span class="font-label text-xs uppercase tracking-[0.2em] text-primary">404</span>
+    <h1 class="font-serif text-5xl md:text-6xl leading-[0.95] tracking-tight text-on-background mt-6 mb-8">
+      That page isn't here.
+    </h1>
+    <p class="text-lg text-on-surface-variant leading-relaxed">
+      It may have moved, or the link may be wrong. Head back to <a href="/" class="text-primary underline decoration-primary/40 underline-offset-4 hover:decoration-primary">the front page</a> or check <a href="/aggregator" class="text-primary underline decoration-primary/40 underline-offset-4 hover:decoration-primary">the Live Wire</a>.
+    </p>
+  </section>
+</BaseLayout>
