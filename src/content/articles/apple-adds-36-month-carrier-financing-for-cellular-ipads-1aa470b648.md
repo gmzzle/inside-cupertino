@@ -13,8 +13,8 @@ tags:
 source:
   name: "MacRumors"
   url: "https://www.macrumors.com/2026/07/15/apple-adds-36-month-carrier-financing-for-ipads/"
-heroImage: "https://images.unsplash.com/photo-1544243715-0fbced5d8c7f?w=1600&q=80&auto=format&fit=crop"
-heroAlt: "Tablet device on a clean surface"
+heroImage: "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "Tablet and stylus on a dark surface"
 ---
 
 Apple just made it easier to pretend iPads don't cost as much as they actually do. [MacRumors](https://www.macrumors.com/2026/07/15/apple-adds-36-month-carrier-financing-for-ipads/) reported that AT&T and Verizon are now offering 36-month financing for cellular iPads, tripling the 12-month Apple Card option that's been the standard forever.

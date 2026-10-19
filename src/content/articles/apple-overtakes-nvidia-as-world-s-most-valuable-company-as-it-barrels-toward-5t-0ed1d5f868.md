@@ -12,8 +12,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/07/17/apple-reclaims-most-valuable-company-title-from-nvidia-as-it-barrels-toward-5t/"
-heroImage: "https://images.unsplash.com/photo-1491933382430-971391ca20c0?w=1600&q=80&auto=format&fit=crop"
-heroAlt: "Apple devices arranged on a desk"
+heroImage: "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "iMac on a white desk"
 ---
 
 [9to5Mac](https://9to5mac.com/2026/07/17/apple-reclaims-most-valuable-company-title-from-nvidia-as-it-barrels-toward-5t/) reported Friday that Apple overtook Nvidia in market cap during intraday trading, climbing back to the most valuable company slot it's held on and off for years. The stock's up 17 points this week, putting Apple within striking distance of a $5 trillion valuation.
