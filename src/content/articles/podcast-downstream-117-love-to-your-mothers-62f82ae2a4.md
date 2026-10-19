@@ -12,8 +12,8 @@ tags:
 source:
   name: "Six Colors"
   url: "https://sixcolors.com/podcast/2026/05/downstream-117-love-to-your-mothers/"
-heroImage: "https://images.unsplash.com/photo-1491933382430-971391ca20c0?w=1600&q=80&auto=format&fit=crop"
-heroAlt: "Apple devices arranged on a desk"
+heroImage: "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "iMac on a white desk"
 ---
 
 Jason Snell and Julia Alexander are ending Downstream, their streaming-industry podcast that's been running since 2021. [Six Colors](https://sixcolors.com/podcast/2026/05/downstream-117-love-to-your-mothers/) posted the final episode this week, and yeah, there's something appropriately meta about a podcast dissecting the streaming wars outlasting most of the shows it covered.
