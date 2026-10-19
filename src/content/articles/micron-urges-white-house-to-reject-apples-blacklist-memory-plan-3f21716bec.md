@@ -13,8 +13,8 @@ tags:
 source:
   name: "AppleInsider"
   url: "https://appleinsider.com/articles/26/07/25/micron-urges-white-house-to-reject-apples-blacklist-memory-plan?utm_source=rss"
-heroImage: "https://images.unsplash.com/photo-1491933382430-971391ca20c0?w=1600&q=80&auto=format&fit=crop"
-heroAlt: "Apple devices arranged on a desk"
+heroImage: "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "iMac on a white desk"
 ---
 
 [AppleInsider](https://appleinsider.com/articles/26/07/25/micron-urges-white-house-to-reject-apples-blacklist-memory-plan?utm_source=rss) reports that Micron CEO Sanjay Mehrotra personally lobbied Commerce Secretary Howard Lutnick against Apple's June petition to buy Mac RAM from a blacklisted Chinese supplier. Micron's argument: letting Apple carve out exceptions for blacklisted firms will destabilize the U.S. tech industry.
