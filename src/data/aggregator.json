@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T01:22:40.267Z",
+  "generatedAt": "2026-10-19T07:49:03.482Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Not upgrading to iPhone 18 Pro or Duo? Here’s what’s coming next year",
+      "url": "https://9to5mac.com/2026/10/18/new-revamped-iphone-lineup-coming-in-2027/",
+      "pubDate": "2026-10-19T02:16:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Here’s how iPhone Duo’s battery capacity compares to other iPhones",
+      "url": "https://9to5mac.com/2026/10/18/iphone-duo-battery-capacity-comparison/",
+      "pubDate": "2026-10-19T01:32:09.000Z"
+    },
     {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
@@ -288,20 +302,6 @@
       "title": "Apple @ Work: How I’m preparing my fleet for Rosetta’s removal in macOS 27",
       "url": "https://9to5mac.com/2026/10/17/how-im-preparing-my-fleet-for-rosettas-removal-in-macos-27/",
       "pubDate": "2026-10-17T13:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple weekend deals: HomeView,  new Apple TV 4K, AirPods, MacBook, mini, more",
-      "url": "https://9to5mac.com/2026/10/17/apple-weekend-deals-homeview-new-apple-tv-airpods/",
-      "pubDate": "2026-10-17T12:18:24.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Verizon confirms $10 monthly fee for new iPhone Handoff feature",
-      "url": "https://9to5mac.com/2026/10/16/verizon-confirms-10-monthly-fee-for-new-iphone-handoff-feature/",
-      "pubDate": "2026-10-17T00:01:38.000Z"
     },
     {
       "source": "MacRumors",
