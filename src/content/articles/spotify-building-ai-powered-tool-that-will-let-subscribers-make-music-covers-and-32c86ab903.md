@@ -12,8 +12,8 @@ tags:
 source:
   name: "9to5Mac"
   url: "https://9to5mac.com/2026/05/21/spotify-building-ai-powered-tool-that-will-let-subscribers-make-music-covers-and-remixes/"
-heroImage: "https://images.unsplash.com/photo-1491933382430-971391ca20c0?w=1600&q=80&auto=format&fit=crop"
-heroAlt: "Apple devices arranged on a desk"
+heroImage: "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "iMac on a white desk"
 ---
 
 [9to5Mac](https://9to5mac.com/2026/05/21/spotify-building-ai-powered-tool-that-will-let-subscribers-make-music-covers-and-remixes/) reports Spotify is working on AI-powered remix tools that will let subscribers make their own covers and variations of existing songs. The company is also apparently still dealing with whatever icon disaster prompted users to wait for "their good old fashioned app icon" to return, but sure, let's focus on the AI remixing thing.
