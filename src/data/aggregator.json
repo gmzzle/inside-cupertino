@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T20:38:04.466Z",
+  "generatedAt": "2026-10-20T23:54:25.161Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,69 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+      "pubDate": "2026-10-20T23:04:19.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Perplexity Computer Can Now Run Fully Locally on Mac",
+      "url": "https://www.macrumors.com/2026/10/20/perplexity-computer-local-mac/",
+      "pubDate": "2026-10-20T22:20:12.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Trump is giving Nick Shirley $10,000 and launching a $25 million fraud bounty program",
+      "url": "https://www.theverge.com/news/1014989/trump-fraud-tips-program-nick-shirley-influencers",
+      "pubDate": "2026-10-20T22:20:11.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Google’s more personalized Gemini AI is heading to your car",
+      "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+      "pubDate": "2026-10-20T22:11:34.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Tesla and SpaceX are discussing a possible merger, Musk says",
+      "url": "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees",
+      "pubDate": "2026-10-20T21:30:24.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple CEO John Ternus says design still means everything & includes whimsey",
+      "url": "https://appleinsider.com/articles/26/10/20/apple-ceo-john-ternus-says-design-still-means-everything-includes-whimsey?utm_source=rss",
+      "pubDate": "2026-10-20T21:23:24.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "SpaceX will try catching Starship and its booster for first time, Musk says",
+      "url": "https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says",
+      "pubDate": "2026-10-20T21:02:53.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Netflix is telling investors not to worry, even though you&#8217;re watching less and less",
+      "url": "https://www.theverge.com/streaming/1014826/netflix-earnings-q3-2026-viewing-time",
+      "pubDate": "2026-10-20T20:52:07.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Sensor Tower: Meta’s Muse app tops 10 million US downloads in 40 days",
+      "url": "https://9to5mac.com/2026/10/20/sensor-tower-metas-muse-app-tops-10-million-us-downloads-in-40-days/",
+      "pubDate": "2026-10-20T20:45:05.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -59,13 +122,6 @@
       "pubDate": "2026-10-20T20:07:26.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Logitech’s refurbished G Pro X2 Superstrike is 35 percent off",
-      "url": "https://www.theverge.com/gadgets/1014764/logitech-x2-superstrike-haptics-wireless-gaming-mouse-deal-sale",
-      "pubDate": "2026-10-20T20:00:00.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "John Ternus talks his involvement with design teams at Apple",
@@ -87,46 +143,11 @@
       "pubDate": "2026-10-20T19:35:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "DJI’s Osmo Pocket 3 vlogging camera is a good deal at under $400",
-      "url": "https://www.theverge.com/gadgets/1014456/dji-osmo-pocket-3-switch-sports-resort-deal-sale",
-      "pubDate": "2026-10-20T19:09:35.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Xbox CEO is reportedly planning three more rounds of layoffs",
-      "url": "https://www.theverge.com/games/1014700/xbox-ceo-asha-sharma-layoffs",
-      "pubDate": "2026-10-20T19:06:40.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Amazon is phasing out Fire HD tablets, but not without some big discounts first",
-      "url": "https://www.theverge.com/gadgets/1014565/amazon-fire-hd-10-tablet-deal-sale",
-      "pubDate": "2026-10-20T19:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "JustWatch now streams TV shows and movies, too",
-      "url": "https://www.theverge.com/entertainment/1014640/justwatch-tv-plus-free-store-streaming-service-movie-rental",
-      "pubDate": "2026-10-20T18:56:50.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "iOS 27 adds scam-prevention feature to iPhone, here’s how to enable it",
       "url": "https://9to5mac.com/2026/10/20/ios-27-adds-scam-prevention-feature-to-iphone-heres-how-to-enable-it/",
       "pubDate": "2026-10-20T18:56:15.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Microsoft reportedly plans Xbox handheld in 2027, next-gen console in 2028",
-      "url": "https://www.theverge.com/news/1014666/xbox-project-helix-launch-2028-rumor",
-      "pubDate": "2026-10-20T18:45:39.000Z"
     },
     {
       "source": "AppleInsider",
@@ -311,32 +332,11 @@
       "pubDate": "2026-10-20T13:00:08.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPhone camera and titanium chassis manufacturing expands in US",
-      "url": "https://appleinsider.com/articles/26/10/20/iphone-camera-and-titanium-chassis-manufacturing-expands-in-us?utm_source=rss",
-      "pubDate": "2026-10-20T12:47:27.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple says American suppliers make almost 100 parts for iPhone 18 Pro and iPhone Duo",
-      "url": "https://9to5mac.com/2026/10/20/apple-says-american-suppliers-make-almost-100-parts-for-iphone-18-pro-and-iphone-duo/",
-      "pubDate": "2026-10-20T12:24:26.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple's October 28 'Pro and Tell' Launch: What's Coming",
       "url": "https://www.macrumors.com/2026/10/19/apple-october-28-product-launch/",
       "pubDate": "2026-10-19T23:51:05.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Limiting U.S. iPhone Duo Orders to Two Per Customer",
-      "url": "https://www.macrumors.com/2026/10/19/iphone-duo-order-limit-us/",
-      "pubDate": "2026-10-19T23:42:24.000Z"
     },
     {
       "source": "Six Colors",
