@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T21:05:09.286Z",
+  "generatedAt": "2026-10-20T00:22:33.810Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,104 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "WhatsApp may soon let iPhone users open any link in an in-app browser",
+      "url": "https://9to5mac.com/2026/10/19/whatsapp-may-soon-let-iphone-users-open-any-link-in-an-in-app-browser/",
+      "pubDate": "2026-10-20T00:01:33.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's October 28 'Pro and Tell' Launch: What's Coming",
+      "url": "https://www.macrumors.com/2026/10/19/apple-october-28-product-launch/",
+      "pubDate": "2026-10-19T23:51:05.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Limiting U.S. iPhone Duo Orders to Two Per Customer",
+      "url": "https://www.macrumors.com/2026/10/19/iphone-duo-order-limit-us/",
+      "pubDate": "2026-10-19T23:42:24.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "App Report: Help is on the way",
+      "url": "https://sixcolors.com/post/2026/10/app-report-help-is-on-the-way/",
+      "pubDate": "2026-10-19T23:15:13.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Buys AI Audio Editing App Samplab",
+      "url": "https://www.macrumors.com/2026/10/19/apple-samplab-acquisition/",
+      "pubDate": "2026-10-19T22:35:24.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Elon Musk’s proposed SpaceX stock giveaway would go into &#8216;Trump Accounts&#8217;",
+      "url": "https://www.theverge.com/tech/1014115/elon-musk-spacex-trump-account",
+      "pubDate": "2026-10-19T22:30:42.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "New App Store chief discusses Apple’s gaming strategy, future of Apple Arcade, more",
+      "url": "https://9to5mac.com/2026/10/19/new-app-store-chief-discusses-apples-gaming-strategy-future-of-apple-arcade-more/",
+      "pubDate": "2026-10-19T22:14:32.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) Upgrade 642: iOS is Weird Now",
+      "url": "https://sixcolors.com/podcast/2026/10/upgrade-642-ios-is-weird-now/",
+      "pubDate": "2026-10-19T21:50:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The fossil fuel comeback is here",
+      "url": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
+      "pubDate": "2026-10-19T21:48:01.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "HomePod mini 2's Sound Glow feature is coming to other HomePod models",
+      "url": "https://appleinsider.com/articles/26/10/19/homepod-mini-2s-sound-glow-feature-is-coming-to-other-homepod-models?utm_source=rss",
+      "pubDate": "2026-10-19T21:37:09.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+      "pubDate": "2026-10-19T21:28:20.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Following $5.7B verdict, Taction wants a cut of iPhone and Apple Watch sales through 2035",
+      "url": "https://9to5mac.com/2026/10/19/following-5-7b-verdict-taction-wants-a-cut-of-iphone-and-apple-watch-sales-through-2035/",
+      "pubDate": "2026-10-19T21:14:04.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "EFF's Privacy Badger Anti-Tracking Extension Expands to Safari",
+      "url": "https://www.macrumors.com/2026/10/19/eff-privacy-badger-safari/",
+      "pubDate": "2026-10-19T21:10:19.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "I tried a $99 plug that promises to track your car and send help when needed — without selling your data",
+      "url": "https://www.theverge.com/tech/1013918/miles-plug-vehicle-tracking-data-privacy-specs-price-launch-date",
+      "pubDate": "2026-10-19T21:00:17.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -143,13 +241,6 @@
       "pubDate": "2026-10-19T17:29:38.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "First Release Candidate for macOS 27.2 Golden Gate now available",
-      "url": "https://9to5mac.com/2026/10/19/first-release-candidate-for-macos-27-2-golden-gate-now-available/",
-      "pubDate": "2026-10-19T17:29:02.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Seeds macOS Golden Gate 27.2 Release Candidate to Developers",
@@ -162,13 +253,6 @@
       "title": "Apple Releases iOS 27.2 Release Candidate",
       "url": "https://www.macrumors.com/2026/10/19/apple-releases-ios-27-2-rc/",
       "pubDate": "2026-10-19T17:26:37.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple releases iOS 27.2 RC for iPhone",
-      "url": "https://9to5mac.com/2026/10/19/apple-releases-ios-27-2-rc-for-iphone/",
-      "pubDate": "2026-10-19T17:25:37.000Z"
     },
     {
       "source": "MacRumors",
@@ -185,32 +269,11 @@
       "pubDate": "2026-10-19T17:21:35.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Watch warned a veteran about a health problem he didn’t know he had",
-      "url": "https://9to5mac.com/2026/10/19/apple-watch-warned-a-veteran-about-a-health-problem-he-didnt-know-he-had/",
-      "pubDate": "2026-10-19T17:16:52.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "RIP, MacBook Ultra",
-      "url": "https://www.macrumors.com/2026/10/19/rip-macbook-ultra/",
-      "pubDate": "2026-10-19T16:37:40.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "OLED iPad mini and touchscreen MacBook Pro: What to expect from 'Pro and Tell'",
       "url": "https://appleinsider.com/articles/26/10/19/oled-ipad-mini-and-touchscreen-macbook-pro-what-to-expect-from-pro-and-tell?utm_source=rss",
       "pubDate": "2026-10-19T16:27:04.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Announcing New Products Next Week: 'Pro and Tell'",
-      "url": "https://www.macrumors.com/2026/10/19/apple-pro-and-tell/",
-      "pubDate": "2026-10-19T16:05:07.000Z"
     },
     {
       "source": "The Verge",
@@ -283,39 +346,11 @@
       "pubDate": "2026-10-19T14:24:42.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Elon Musk promises to give one SpaceX share to every child in the US",
-      "url": "https://www.theverge.com/tech/1013667/elon-musk-space-x-shares-us-children",
-      "pubDate": "2026-10-19T14:20:11.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "It’s hard to imagine wireless headphones ever getting lighter than these",
-      "url": "https://www.theverge.com/tech/1013635/its-hard-to-imagine-wireless-headphones-ever-getting-lighter-than-these",
-      "pubDate": "2026-10-19T14:03:28.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
-      "pubDate": "2026-10-19T13:58:41.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "iPhone Duo battery capacity lands in between iPhone 18 Pro & Pro Max",
       "url": "https://appleinsider.com/articles/26/10/19/iphone-duo-battery-capacity-lands-in-between-iphone-18-pro-pro-max?utm_source=rss",
       "pubDate": "2026-10-19T13:54:30.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "GM Says Apple Wallet Car Keys Coming to These Vehicles",
-      "url": "https://www.macrumors.com/2026/10/19/gm-vehicles-iphone-apple-wallet-car-keys/",
-      "pubDate": "2026-10-19T13:51:47.000Z"
     },
     {
       "source": "AppleInsider",
@@ -325,20 +360,6 @@
       "pubDate": "2026-10-19T13:45:37.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Amazon Offers $900 Off 2026 16-Inch MacBook Pro With M5 Max Chip",
-      "url": "https://www.macrumors.com/2026/10/19/900-off-2026-macbook-pro/",
-      "pubDate": "2026-10-19T13:09:59.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Wyze moved the screen on its new smart scale to the handle so it’s easier to read at eye level",
-      "url": "https://www.theverge.com/tech/1013081/wyze-smart-scale-ultra-bodyscan-plus-handle-display",
-      "pubDate": "2026-10-19T13:00:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Don't expect to buy iPhone Duo at Apple Stores on Friday",
@@ -346,32 +367,11 @@
       "pubDate": "2026-10-19T12:43:30.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple Photos faceprint privacy lawsuit pared down a bit, will continue",
-      "url": "https://appleinsider.com/articles/26/10/19/apple-photos-faceprint-privacy-lawsuit-pared-down-a-bit-will-continue?utm_source=rss",
-      "pubDate": "2026-10-19T12:28:42.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "AI audio firm Samplab acquired by Apple to boost Logic Pro",
-      "url": "https://appleinsider.com/articles/26/10/19/ai-audio-firm-samplab-acquired-by-apple-to-boost-logic-pro?utm_source=rss",
-      "pubDate": "2026-10-19T11:27:04.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "HomeView versus Recipe Blog SEO ↦",
       "url": "https://sixcolors.com/link/2026/10/homeview-versus-recipe-blog-seo/",
       "pubDate": "2026-10-18T22:48:12.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Charting Apple TV pricing ↦",
-      "url": "https://sixcolors.com/link/2026/10/charting-apple-tv-pricing/",
-      "pubDate": "2026-10-17T15:55:27.000Z"
     }
   ]
 }
