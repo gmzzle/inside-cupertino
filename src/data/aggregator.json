@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T06:02:57.001Z",
+  "generatedAt": "2026-10-20T11:41:21.290Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,41 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple still makes it too hard for Apple Pay competitors to emerge, says UK",
+      "url": "https://9to5mac.com/2026/10/20/apple-still-makes-it-too-hard-for-apple-pay-competitors-to-emerge-says-uk/",
+      "pubDate": "2026-10-20T11:37:10.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Google outage hitting EU, UK hard",
+      "url": "https://appleinsider.com/articles/26/10/20/google-outage-hitting-eu-uk-hard?utm_source=rss",
+      "pubDate": "2026-10-20T11:07:39.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone Duo orders limited to two per customer as Apple tackles scalping",
+      "url": "https://9to5mac.com/2026/10/20/iphone-duo-orders-limited-to-two-per-customer-as-apple-tackles-scalping/",
+      "pubDate": "2026-10-20T11:05:13.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Some Google Home Speakers caught downloading hundreds of gigs of data",
+      "url": "https://www.theverge.com/tech/1014209/google-home-speaker-bug-continuous-download",
+      "pubDate": "2026-10-20T10:16:47.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple @ Work Podcast: A look at recent Apple security updates",
+      "url": "https://9to5mac.com/2026/10/20/a-look-at-recent-apple-security-updates/",
+      "pubDate": "2026-10-20T10:00:00.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -227,13 +262,6 @@
       "pubDate": "2026-10-19T18:45:43.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple is launching major new products next week, here’s what’s coming",
-      "url": "https://9to5mac.com/2026/10/19/apple-is-launching-major-new-products-next-week-heres-whats-coming/",
-      "pubDate": "2026-10-19T18:16:11.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Says iPhone Duo Not Available on Walk-In Basis in Two Countries",
@@ -253,20 +281,6 @@
       "title": "Release candidates of iOS 27.2, macOS 27.2 land as public version nears",
       "url": "https://appleinsider.com/articles/26/10/19/release-candidates-of-ios-272-macos-272-land-as-release-nears?utm_source=rss",
       "pubDate": "2026-10-19T17:47:11.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Third RCs for macOS Sequoia 15.8.2 and macOS Tahoe 26.7.2 rolling out",
-      "url": "https://9to5mac.com/2026/10/19/third-rcs-for-macos-sequoia-15-8-2-and-macos-tahoe-26-7-2-rolling-out/",
-      "pubDate": "2026-10-19T17:30:24.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple rolling out RC for iPadOS 27.2, watchOS 27.2, and more",
-      "url": "https://9to5mac.com/2026/10/19/apple-rolling-out-rc-for-ipados-27-2-watchos-27-2-and-more/",
-      "pubDate": "2026-10-19T17:29:38.000Z"
     },
     {
       "source": "MacRumors",
@@ -318,13 +332,6 @@
       "pubDate": "2026-10-19T16:00:35.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Finally, 'Skyrim: The Elder Scrolls V' can run on Mac",
-      "url": "https://appleinsider.com/articles/26/10/19/finally-skyrim-v-the-elder-scrolls-can-run-on-mac?utm_source=rss",
-      "pubDate": "2026-10-19T15:50:22.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Amazon is funding a new nuclear plant in Indiana",
@@ -351,13 +358,6 @@
       "title": "Jason Sudeikis holds out hope for more 'Ted Lasso'",
       "url": "https://appleinsider.com/articles/26/10/19/jason-sudeikis-holds-out-hope-for-more-ted-lasso?utm_source=rss",
       "pubDate": "2026-10-19T14:40:40.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
-      "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
-      "pubDate": "2026-10-19T14:30:00.000Z"
     },
     {
       "source": "AppleInsider",
