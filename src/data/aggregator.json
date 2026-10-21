@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T20:10:49.834Z",
+  "generatedAt": "2026-10-21T23:23:13.995Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,6 +24,104 @@
   ],
   "items": [
     {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Giant iPhone Duo installations spotted at Apple Fifth Avenue ahead of Friday launch",
+      "url": "https://9to5mac.com/2026/10/21/giant-iphone-duo-installations-spotted-at-apple-fifth-avenue-ahead-of-friday-launch/",
+      "pubDate": "2026-10-21T23:16:18.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple & DOJ antitrust suit reaches impasse over document collection",
+      "url": "https://appleinsider.com/articles/26/10/21/apple-doj-antitrust-suit-reaches-impasse-over-document-collection?utm_source=rss",
+      "pubDate": "2026-10-21T22:49:12.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: October 21, 2026 – New iPhone Duo features, more",
+      "url": "https://9to5mac.com/2026/10/21/daily-october-21-2026/",
+      "pubDate": "2026-10-21T22:44:33.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Does the iPhone Duo Run Hot? Here's What Reviews Found",
+      "url": "https://www.macrumors.com/2026/10/21/iphone-duo-heat-reviews/",
+      "pubDate": "2026-10-21T22:05:15.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "iPhone Duo reviews in a nutshell ↦",
+      "url": "https://sixcolors.com/link/2026/10/iphone-duo-reviews-in-a-nutshell/",
+      "pubDate": "2026-10-21T22:04:57.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple and DOJ notify court of impasse over document cutoff in antitrust lawsuit",
+      "url": "https://9to5mac.com/2026/10/21/apple-and-doj-notify-court-of-impasse-over-document-cutoff-in-antitrust-lawsuit/",
+      "pubDate": "2026-10-21T21:44:49.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Meta to create a new class of shares to fund AI push",
+      "url": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
+      "pubDate": "2026-10-21T21:30:02.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Music's New Look is Now Live on Apple's Website",
+      "url": "https://www.macrumors.com/2026/10/21/apple-music-website-rebranded/",
+      "pubDate": "2026-10-21T21:24:24.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Anthropic Launches Claude Duet, a Proactive AI Agent",
+      "url": "https://www.macrumors.com/2026/10/21/anthropic-claude-duet/",
+      "pubDate": "2026-10-21T20:53:08.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "New York’s first microdrama film festival searches for its audience",
+      "url": "https://www.theverge.com/entertainment/1014494/alza-vertical-film-festival-bill-block-salvador-paskowitz-microdramas-verticals",
+      "pubDate": "2026-10-21T20:49:07.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Meta says it would’ve made over $22 billion if it didn’t have to pay a child safety settlement",
+      "url": "https://www.theverge.com/tech/1015877/meta-q3-2026-earnings-child-safety-settlement",
+      "pubDate": "2026-10-21T20:46:56.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "PHP: The three letters that shut down sites all over the internet today",
+      "url": "https://www.theverge.com/tech/1015906/php2shell-vulnerability-october-2026",
+      "pubDate": "2026-10-21T20:36:56.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Flying Roadsters can’t lift Tesla’s flat Q3 revenues",
+      "url": "https://www.theverge.com/transportation/1015790/tesla-q3-2026-earnings-revenue-profit-roadster-spacex-merger",
+      "pubDate": "2026-10-21T20:22:31.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Bose acquires Skullcandy to help it reach a wider audience",
+      "url": "https://www.theverge.com/tech/1015276/bose-acquisition-skullcandy-headphones-earbuds-speakers",
+      "pubDate": "2026-10-21T20:15:00.000Z"
+    },
+    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "What 32,000 Folds Did to the iPhone Duo's Hinge",
@@ -36,6 +134,20 @@
       "title": "iOS 27.2 reveals Apple’s Messages app could soon get highly requested change",
       "url": "https://9to5mac.com/2026/10/21/ios-27-2-reveals-apples-messages-app-could-soon-get-highly-requested-change/",
       "pubDate": "2026-10-21T20:05:13.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Airbnb bans making guests do dishes and take out the trash",
+      "url": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
+      "pubDate": "2026-10-21T19:54:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+      "pubDate": "2026-10-21T19:53:20.000Z"
     },
     {
       "source": "AppleInsider",
@@ -73,32 +185,11 @@
       "pubDate": "2026-10-21T19:02:49.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Cyberpunk 2077&#8217;s update for Edgerunners 2 brings mods to PS5, Switch 2, and Xbox",
-      "url": "https://www.theverge.com/games/1015755/cyberpunk-2077-2-5-edgerunners-mods-dual-wield",
-      "pubDate": "2026-10-21T18:39:52.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iPhone Duo's Hidden FaceTime Camera Takes 'Trash' Photos",
       "url": "https://www.macrumors.com/2026/10/21/iphone-duo-facetime-camera/",
       "pubDate": "2026-10-21T18:36:52.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Xbox mandates a four-day return to office",
-      "url": "https://www.theverge.com/report/1015733/xbox-return-to-office-policy-four-days",
-      "pubDate": "2026-10-21T18:31:15.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Star Wars Zero Company is a must-play strategy game at 20 percent off",
-      "url": "https://www.theverge.com/gadgets/1015624/star-wars-zero-company-deal-sale",
-      "pubDate": "2026-10-21T18:30:00.000Z"
     },
     {
       "source": "9to5Mac",
@@ -115,27 +206,6 @@
       "pubDate": "2026-10-21T18:14:02.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Will TP-Link really make routers in the US? Here’s what it told us",
-      "url": "https://www.theverge.com/policy/1013807/tp-link-router-us-onshoring-manufacturing-assembly-interview",
-      "pubDate": "2026-10-21T18:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "GM promises smarter cars, faster updates, and autonomous dry-cleaning runs",
-      "url": "https://www.theverge.com/transportation/1014322/gm-onward-ai-ev-battery-compute-av",
-      "pubDate": "2026-10-21T18:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Xbox Cloud Gaming’s pay-as-you-go option starts at $3.99 for 10 hours",
-      "url": "https://www.theverge.com/news/1015321/xbox-cloud-gaming-pay-as-you-go-cloud-hours-pricing",
-      "pubDate": "2026-10-21T18:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iPhone Duo Has 'Edge Light' Feature That Debuted on Macs Last Year",
@@ -148,13 +218,6 @@
       "title": "Apple Support App Updated for iPhone Duo's Larger Display",
       "url": "https://www.macrumors.com/2026/10/21/apple-support-app-iphone-duo/",
       "pubDate": "2026-10-21T17:55:28.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Samsung’s latest 55-inch Frame TV is down to its lowest price yet",
-      "url": "https://www.theverge.com/gadgets/1015568/samsung-the-frame-tv-2026-deal-sale",
-      "pubDate": "2026-10-21T17:35:40.000Z"
     },
     {
       "source": "MacRumors",
@@ -171,13 +234,6 @@
       "pubDate": "2026-10-21T17:24:45.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "EA is shutting down BioWare",
-      "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
-      "pubDate": "2026-10-21T17:19:07.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Slow Horses showrunner explains finale shock ending, season 7 trailer debuts",
@@ -190,6 +246,13 @@
       "title": "iOS Decoded: iOS 27.2 RC – hands-on w/ HomePod Sound Glow, TV profiles, Apple TV Home Theater assets, more [Video]",
       "url": "https://9to5mac.com/2026/10/21/ios-decoded-ios-27-2-rc-hands-on-w-homepod-sound-glow-tv-profiles-apple-tv-home-theater-assets-more-video/",
       "pubDate": "2026-10-21T17:00:32.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) Clockwise 679: Emotional Support Tabs",
+      "url": "https://sixcolors.com/podcast/2026/10/clockwise-679-emotional-support-tabs/",
+      "pubDate": "2026-10-21T16:49:00.000Z"
     },
     {
       "source": "AppleInsider",
@@ -269,13 +332,6 @@
       "pubDate": "2026-10-21T15:06:10.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Google Maps on CarPlay rolling out Gemini when navigating",
-      "url": "https://9to5google.com/2026/10/21/google-maps-carplay-gemini/",
-      "pubDate": "2026-10-21T15:01:12.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "There will be extremely limited iPhone Duo stock in store on Friday",
@@ -290,34 +346,6 @@
       "pubDate": "2026-10-21T14:25:48.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone Duo will add Reachability feature ‘later this year’",
-      "url": "https://9to5mac.com/2026/10/21/iphone-duo-will-add-reachability-feature-later-this-year/",
-      "pubDate": "2026-10-21T14:10:20.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Stores Will Have 'Limited' Availability of iPhone Duo for Walk-In Customers",
-      "url": "https://www.macrumors.com/2026/10/21/apple-stores-limited-iphone-duo-for-walk-in/",
-      "pubDate": "2026-10-21T14:10:12.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPhone Duo review roundup: Mostly positive opinions unfold",
-      "url": "https://appleinsider.com/articles/26/10/21/iphone-duo-review-roundup-mostly-positive-opinions-unfold?utm_source=rss",
-      "pubDate": "2026-10-21T14:04:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone Duo Reviews Explain Why Device is Both 'Fun' and 'Frustrating'",
-      "url": "https://www.macrumors.com/review/iphone-duo/",
-      "pubDate": "2026-10-21T13:45:20.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple blocks bafflingly weak security certificates on iPhone",
@@ -325,25 +353,11 @@
       "pubDate": "2026-10-21T13:44:38.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone Duo adding Apple Pencil support next week with iOS 27.2",
-      "url": "https://9to5mac.com/2026/10/21/iphone-duo-adding-apple-pencil-support-next-week-with-ios-27-2/",
-      "pubDate": "2026-10-21T13:42:09.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Don't return an unexpected Apple Cash payment, it's a scam",
       "url": "https://appleinsider.com/inside/apple-pay/tips/dont-return-an-unexpected-apple-cash-payment-its-a-scam?utm_source=rss",
       "pubDate": "2026-10-21T12:45:15.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Says 'Reachability' Feature Coming to iPhone Duo Later This Year",
-      "url": "https://www.macrumors.com/2026/10/21/iphone-duo-reachability-later-this-year/",
-      "pubDate": "2026-10-21T12:43:33.000Z"
     },
     {
       "source": "Six Colors",
@@ -355,23 +369,9 @@
     {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
-      "title": "App Report: Help is on the way",
-      "url": "https://sixcolors.com/post/2026/10/app-report-help-is-on-the-way/",
-      "pubDate": "2026-10-19T23:15:13.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) Upgrade 642: iOS is Weird Now",
-      "url": "https://sixcolors.com/podcast/2026/10/upgrade-642-ios-is-weird-now/",
-      "pubDate": "2026-10-19T21:50:00.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Get a handle on Finder file and folder names",
-      "url": "https://sixcolors.com/post/2026/10/get-a-handle-on-finder-file-and-folder-names/",
-      "pubDate": "2026-10-19T18:00:00.000Z"
+      "title": "(Podcast) The Rebound 621: Hey, Can I Check Out Your Thing?",
+      "url": "https://sixcolors.com/podcast/2026/10/the-rebound-621-hey-can-i-check-out-your-thing/",
+      "pubDate": "2026-10-21T07:00:00.000Z"
     }
   ]
 }
