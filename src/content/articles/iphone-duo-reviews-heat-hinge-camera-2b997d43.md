@@ -1,6 +1,6 @@
 ---
 title: "The iPhone Duo Reviews Are In: It Runs Warm, the Hinge Holds Up, and the Inside Camera Is Rough"
-description: "Two days before launch, reviewers found Apple's first foldable fun but frustrating. It runs warmer than an iPhone 18 Pro, its hinge survived 32,000 folds, and its under-display camera struggles. Here's what matters before Friday."
+description: "Reviewers found Apple's first foldable fun but frustrating: it runs warmer than an iPhone 18 Pro, its hinge survived 32,000 folds, and its inner camera struggles."
 pubDate: 2026-10-21T22:15:00.000Z
 draft: false
 author: "Inside Cupertino"
