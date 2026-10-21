@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T23:54:25.161Z",
+  "generatedAt": "2026-10-21T04:52:12.827Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,76 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "WhatsApp Developing In-App Browser for All Chat Links on iPhone",
+      "url": "https://www.macrumors.com/2026/10/21/whatsapp-developing-browser-for-chat-links/",
+      "pubDate": "2026-10-21T04:15:09.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's App Store Chief Explains Its Push for Premium Games",
+      "url": "https://www.macrumors.com/2026/10/20/app-store-chief-explains-premium-games-push/",
+      "pubDate": "2026-10-21T03:58:10.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Could Owe Even More After $5.7 Billion Patent Verdict",
+      "url": "https://www.macrumors.com/2026/10/20/apple-could-owe-more-after-patent-verdict/",
+      "pubDate": "2026-10-21T03:24:11.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Skyrim Comes to Apple Silicon Macs With New Unofficial Installer",
+      "url": "https://www.macrumors.com/2026/10/20/skyrim-comes-to-apple-silicon-macs/",
+      "pubDate": "2026-10-21T02:56:30.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Highlights Mac and iPad Use in Paris Design Exhibition",
+      "url": "https://www.macrumors.com/2026/10/20/apple-highlights-paris-design-exhibition/",
+      "pubDate": "2026-10-21T02:29:08.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple is looking for a cellular modem engineer to help shape its transition to 6G",
+      "url": "https://9to5mac.com/2026/10/20/apple-is-looking-for-a-cellular-modem-engineer-to-help-shape-its-transition-to-6g/",
+      "pubDate": "2026-10-21T01:18:32.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Dark comedy ‘Where’s Wanda?’ season 2 premieres on Apple TV",
+      "url": "https://9to5mac.com/2026/10/20/dark-comedy-wheres-wanda-season-2-premieres-on-apple-tv/",
+      "pubDate": "2026-10-21T01:01:09.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "YouTube might be testing hiding the dislike button",
+      "url": "https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu",
+      "pubDate": "2026-10-21T00:00:56.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Seeks 6G Modem Engineers as It Plans for Post-5G iPhones",
+      "url": "https://www.macrumors.com/2026/10/20/apple-6g-research-continues/",
+      "pubDate": "2026-10-20T23:46:21.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "First iPhone Duo Unboxing Video Appears Ahead of Friday Launch",
+      "url": "https://www.macrumors.com/2026/10/20/iphone-duo-unboxing-video/",
+      "pubDate": "2026-10-20T23:31:23.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -61,7 +131,7 @@
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple CEO John Ternus says design still means everything & includes whimsey",
+      "title": "Apple CEO John Ternus says design still means everything & includes whimsy",
       "url": "https://appleinsider.com/articles/26/10/20/apple-ceo-john-ternus-says-design-still-means-everything-includes-whimsey?utm_source=rss",
       "pubDate": "2026-10-20T21:23:24.000Z"
     },
@@ -106,13 +176,6 @@
       "title": "Oura adds two new cardiovascular health tracking features to its smart rings",
       "url": "https://www.theverge.com/tech/1014712/oura-smart-rings-track-cardio-effort-vo2-max-cardiovascular",
       "pubDate": "2026-10-20T20:26:04.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "TikTok has started censoring searches for popular peptides",
-      "url": "https://www.theverge.com/science/1014825/peptide-tiktok-search-ban",
-      "pubDate": "2026-10-20T20:16:04.000Z"
     },
     {
       "source": "9to5Mac",
@@ -262,83 +325,6 @@
       "pubDate": "2026-10-20T14:36:15.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Loop Capital cuts AAPL target to $330 over complicated 2026-2027 iPhone cycle",
-      "url": "https://appleinsider.com/articles/26/10/20/loop-capital-cuts-aapl-target-to-330-over-complicated-2026-2027-iphone-cycle?utm_source=rss",
-      "pubDate": "2026-10-20T14:18:06.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "New Apple TV 4K Features 'Whole Room Audio' With Four HomePods",
-      "url": "https://www.macrumors.com/2026/10/20/new-apple-tv-4k-whole-room-audio/",
-      "pubDate": "2026-10-20T14:02:04.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Now Sells DIY Repair Parts for iPhone 18 Pro and Two New Macs",
-      "url": "https://www.macrumors.com/2026/10/20/apple-iphone-18-pro-m6-mac-mini-repair-parts/",
-      "pubDate": "2026-10-20T14:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "tvOS 27.2 adds three new features to your Apple TV 4K",
-      "url": "https://9to5mac.com/2026/10/20/tvos-27-2-adds-three-new-features-to-your-apple-tv-4k/",
-      "pubDate": "2026-10-20T13:57:50.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple now selling repair parts for iPhone 18 Pro, latest Mac Studio and Mac mini models",
-      "url": "https://9to5mac.com/2026/10/20/apple-now-selling-repair-parts-for-iphone-18-pro-latest-mac-studio-and-mac-mini-models/",
-      "pubDate": "2026-10-20T13:48:26.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Amazon's HomeView Pre-Order Discount Returns, Plus Save on Apple TV 4K",
-      "url": "https://www.macrumors.com/2026/10/20/amazons-homeview-pre-order-returns/",
-      "pubDate": "2026-10-20T13:19:52.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Says Mac Mini Assembly in U.S. to Begin Later This Year",
-      "url": "https://www.macrumors.com/2026/10/20/mac-mini-assembly-in-us-later-this-year/",
-      "pubDate": "2026-10-20T13:15:10.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Says Nearly 100 iPhone Duo and iPhone 18 Pro Parts Made in USA",
-      "url": "https://www.macrumors.com/2026/10/20/apple-touts-iphone-duo-18-pro-parts-made-in-usa/",
-      "pubDate": "2026-10-20T13:15:06.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "There's 4K 144Hz HDMI support in these new USB-C hubs for as little as $39.99",
-      "url": "https://appleinsider.com/articles/26/10/20/theres-4k-144hz-hdmi-support-in-these-new-usb-c-hubs-for-as-little-as-3999?utm_source=rss",
-      "pubDate": "2026-10-20T13:11:18.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Watch Ultra 3 Hits New Low Price With Amazon's $299 Discount [Updated]",
-      "url": "https://www.macrumors.com/2026/10/20/apple-watch-ultra-3-new-low-2/",
-      "pubDate": "2026-10-20T13:00:08.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple's October 28 'Pro and Tell' Launch: What's Coming",
-      "url": "https://www.macrumors.com/2026/10/19/apple-october-28-product-launch/",
-      "pubDate": "2026-10-19T23:51:05.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "App Report: Help is on the way",
@@ -372,6 +358,20 @@
       "title": "HomeView versus Recipe Blog SEO ↦",
       "url": "https://sixcolors.com/link/2026/10/homeview-versus-recipe-blog-seo/",
       "pubDate": "2026-10-18T22:48:12.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Charting Apple TV pricing ↦",
+      "url": "https://sixcolors.com/link/2026/10/charting-apple-tv-pricing/",
+      "pubDate": "2026-10-17T15:55:27.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "‘Take Control of Photos, Fifth Edition’ ↦",
+      "url": "https://sixcolors.com/link/2026/10/take-control-of-photos-fifth-edition/",
+      "pubDate": "2026-10-16T21:50:41.000Z"
     }
   ]
 }
