@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T04:52:12.827Z",
+  "generatedAt": "2026-10-21T10:11:49.437Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,48 @@
     }
   ],
   "items": [
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) Designed in California 14: Digital Hub (Part 2, Origin of the iPod)",
+      "url": "https://sixcolors.com/podcast/2026/10/designed-in-california-14-digital-hub-part-2-origin-of-the-ipod/",
+      "pubDate": "2026-10-21T09:17:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Stores in Bordeaux and Lille Looted During French Protests",
+      "url": "https://www.macrumors.com/2026/10/21/apple-stores-looted-during-french-protests/",
+      "pubDate": "2026-10-21T08:59:06.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Loop Capital Cuts Apple Rating Over iPhone Sales Outlook",
+      "url": "https://www.macrumors.com/2026/10/21/loop-capital-cuts-apple-rating-over-iphone-sales-outlook/",
+      "pubDate": "2026-10-21T08:38:06.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Bluesound Adds Native Apple Music Support",
+      "url": "https://www.macrumors.com/2026/10/21/bluesound-adds-native-apple-music-support/",
+      "pubDate": "2026-10-21T08:06:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple CEO John Ternus Explains What Makes Good Product Design",
+      "url": "https://www.macrumors.com/2026/10/21/john-ternus-explains-good-design/",
+      "pubDate": "2026-10-21T07:03:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "UK Proposes New Ways to Help Apple Pay Rivals",
+      "url": "https://www.macrumors.com/2026/10/21/uk-proposes-to-help-apple-pay-rivals/",
+      "pubDate": "2026-10-21T04:57:09.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -99,13 +141,6 @@
       "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
       "pubDate": "2026-10-20T23:04:19.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Perplexity Computer Can Now Run Fully Locally on Mac",
-      "url": "https://www.macrumors.com/2026/10/20/perplexity-computer-local-mac/",
-      "pubDate": "2026-10-20T22:20:12.000Z"
     },
     {
       "source": "The Verge",
@@ -192,20 +227,6 @@
       "pubDate": "2026-10-20T19:51:56.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple's Touchscreen OLED MacBook Pro: Everything We Know",
-      "url": "https://www.macrumors.com/guide/touchscreen-macbook-pro/",
-      "pubDate": "2026-10-20T19:40:41.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPad Mini 8 Expected Next Week With These 10 New Features",
-      "url": "https://www.macrumors.com/2026/10/20/ipad-mini-8-10-rumored-features/",
-      "pubDate": "2026-10-20T19:35:00.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "iOS 27 adds scam-prevention feature to iPhone, here’s how to enable it",
@@ -234,13 +255,6 @@
       "pubDate": "2026-10-20T18:14:03.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Here's What Apple's Apps Look Like on the iPhone Duo",
-      "url": "https://www.macrumors.com/2026/10/20/apple-apps-iphone-duo/",
-      "pubDate": "2026-10-20T18:12:50.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "OWC has 1TB M5 iPad Pros on sale for $1,499 ($300 off)",
@@ -260,13 +274,6 @@
       "title": "Perplexity Computer can run completely local on Mac, with a big caveat",
       "url": "https://appleinsider.com/articles/26/10/20/perplexity-computer-can-run-completely-local-on-mac-with-a-big-caveat?utm_source=rss",
       "pubDate": "2026-10-20T16:11:39.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27.3 May Expand RCS Support to Australia's Telstra in December",
-      "url": "https://www.macrumors.com/2026/10/20/telstra-may-support-rcs-on-ios-27-3/",
-      "pubDate": "2026-10-20T16:04:04.000Z"
     },
     {
       "source": "AppleInsider",
@@ -365,13 +372,6 @@
       "title": "Charting Apple TV pricing ↦",
       "url": "https://sixcolors.com/link/2026/10/charting-apple-tv-pricing/",
       "pubDate": "2026-10-17T15:55:27.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "‘Take Control of Photos, Fifth Edition’ ↦",
-      "url": "https://sixcolors.com/link/2026/10/take-control-of-photos-fifth-edition/",
-      "pubDate": "2026-10-16T21:50:41.000Z"
     }
   ]
 }
