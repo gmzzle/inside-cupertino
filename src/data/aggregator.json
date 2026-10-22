@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T15:21:14.835Z",
+  "generatedAt": "2026-10-22T20:09:35.310Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,11 +24,193 @@
   ],
   "items": [
     {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's iWork Apps Get 'Intelligent Assistant' and iPhone Duo Support",
+      "url": "https://www.macrumors.com/2026/10/22/iwork-apps-intelligent-assistant/",
+      "pubDate": "2026-10-22T20:02:35.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple is Apparently Considering a Slightly Larger iPhone Duo",
+      "url": "https://www.macrumors.com/2026/10/22/slightly-larger-iphone-duo-rumor/",
+      "pubDate": "2026-10-22T19:58:04.000Z"
+    },
+    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
-      "title": "You could just get a refurbished Samsung phone on Amazon",
-      "url": "https://www.theverge.com/gadgets/1016626/samsung-galaxy-used-amazon",
-      "pubDate": "2026-10-22T14:55:29.000Z"
+      "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+      "pubDate": "2026-10-22T19:45:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Teenage Engineering launched an instrument amp with a ton of built-in effects",
+      "url": "https://www.theverge.com/gadgets/1017022/teenage-engineering-ep-35-instrument-amp",
+      "pubDate": "2026-10-22T19:44:51.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Republican politicians have embraced anti-Indian racism — and it’s costing them votes",
+      "url": "https://www.theverge.com/report/1017003/indian-americans-republican-racism-vivek-ramaswamy-texas",
+      "pubDate": "2026-10-22T19:15:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Google tells Android users to update as parts of Canada adopt permanent daylight saving time",
+      "url": "https://www.theverge.com/tech/1016977/google-android-incorrect-time-daylight-saving-permanent-canada",
+      "pubDate": "2026-10-22T19:13:42.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Discord now formats Markdown previews right",
+      "url": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
+      "pubDate": "2026-10-22T18:58:19.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Giant iPhone Duo Displays Coming to Four Apple Stores",
+      "url": "https://www.macrumors.com/2026/10/22/giant-iphone-duos-at-four-apple-stores/",
+      "pubDate": "2026-10-22T18:50:41.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Amazon unveils Kindle+ subscription, a rebrand with more audiobooks",
+      "url": "https://9to5mac.com/2026/10/22/amazon-unveils-kindle-subscription-a-rebrand-with-more-audiobooks/",
+      "pubDate": "2026-10-22T18:46:45.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The new Fire TV Stick 4K is already half off",
+      "url": "https://www.theverge.com/gadgets/1016792/amazon-fire-tv-stick-4k-2026-deal-sale",
+      "pubDate": "2026-10-22T18:43:57.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Refurbished PS5 consoles include second controller for an extra $18",
+      "url": "https://www.theverge.com/gadgets/1016959/refurbished-playstation-5-ps5-console-dualsense-deal-sale-bundle",
+      "pubDate": "2026-10-22T18:38:50.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Delta can turn the iPhone Duo into your favorite folding handheld",
+      "url": "https://www.theverge.com/games/1016524/delta-2-version-ios-duo-gaming-emulator-update",
+      "pubDate": "2026-10-22T18:30:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Intelligent Assistant added to iWork apps for Creative Studio subscribers",
+      "url": "https://appleinsider.com/articles/26/10/22/intelligent-assistant-added-to-iwork-apps-for-creative-studio-subscribers?utm_source=rss",
+      "pubDate": "2026-10-22T18:27:40.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple TV is adding two new features with iOS 27.2",
+      "url": "https://9to5mac.com/2026/10/22/apple-tv-is-adding-two-new-features-with-ios-27-2/",
+      "pubDate": "2026-10-22T18:16:52.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
+      "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+      "pubDate": "2026-10-22T18:15:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Mass Effect 5 trailer leaks following BioWare shutdown",
+      "url": "https://www.theverge.com/games/1016932/mass-effect-5-universe-trailer-leak-bioware-ea",
+      "pubDate": "2026-10-22T18:14:24.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Pulls Keynote, Pages and Numbers From App Store [Update: Back]",
+      "url": "https://www.macrumors.com/2026/10/22/apple-removes-iwork-apps-app-store/",
+      "pubDate": "2026-10-22T18:01:29.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Orangetheory adds Apple Watch in-studio workout tracking for a one-time fee",
+      "url": "https://9to5mac.com/2026/10/22/orangetheory-adds-apple-watch-in-studio-workout-tracking-for-a-one-time-fee/",
+      "pubDate": "2026-10-22T17:48:26.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Pages, Keynote, Numbers just added powerful new AI features",
+      "url": "https://9to5mac.com/2026/10/22/pages-keynote-numbers-just-added-powerful-new-ai-features/",
+      "pubDate": "2026-10-22T17:44:43.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Updates More Apps With iPhone Duo Support",
+      "url": "https://www.macrumors.com/2026/10/22/apple-iphone-duo-apps-garageband/",
+      "pubDate": "2026-10-22T17:31:41.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Arc browser gets a sunset date, and users have two months to move on",
+      "url": "https://9to5mac.com/2026/10/22/arc-browser-gets-a-sunset-date-and-users-have-two-months-to-move-on/",
+      "pubDate": "2026-10-22T17:28:58.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "1Password launches solution for safely using logins with AI agents",
+      "url": "https://9to5mac.com/2026/10/22/1password-launches-solution-for-safely-using-logins-with-ai-agents/",
+      "pubDate": "2026-10-22T17:15:01.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Save up to 60% on iPad Magic Keyboards",
+      "url": "https://appleinsider.com/articles/26/10/22/save-up-to-60-on-ipad-magic-keyboards?utm_source=rss",
+      "pubDate": "2026-10-22T16:20:53.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Critical PHP vulnerabilities threaten your NAS, not every vendor has a fix",
+      "url": "https://appleinsider.com/articles/26/10/22/critical-php-vulnerabilities-threaten-your-nas-not-every-vendor-has-a-fix?utm_source=rss",
+      "pubDate": "2026-10-22T15:52:38.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Inside the iPhone Duo's groundbreaking hinge's innovations",
+      "url": "https://appleinsider.com/articles/26/10/22/inside-the-iphone-duos-groundbreaking-hinges-innovations?utm_source=rss",
+      "pubDate": "2026-10-22T15:49:44.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Four advantages MacBook Pro redesign will have over current model",
+      "url": "https://9to5mac.com/2026/10/22/four-advantages-macbook-pro-redesign-will-have-over-current-model/",
+      "pubDate": "2026-10-22T15:36:11.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Deals: MacBook Pro $900 off, Apple Pencil (USB-C) from $61, Apple TV 4K, MacBook Neo, more",
+      "url": "https://9to5mac.com/2026/10/22/deals-macbook-apple-pencil-usb-c-apple-tv-4k-neo/",
+      "pubDate": "2026-10-22T15:32:25.000Z"
     },
     {
       "source": "9to5Mac",
@@ -45,25 +227,11 @@
       "pubDate": "2026-10-22T14:43:19.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Coolfly’s solar-powered Aura Smart Bird Feeder is nearly 50 percent off",
-      "url": "https://www.theverge.com/gadgets/1015984/aura-smart-bird-feeder-jbl-charge-6-speaker-deal-sale",
-      "pubDate": "2026-10-22T14:41:02.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Will Label Apps 'Made for iPhone Duo' in App Store",
       "url": "https://www.macrumors.com/2026/10/22/made-for-iphone-duo-app-store-label/",
       "pubDate": "2026-10-22T14:40:36.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Coolpad’s new $150 Android phone has a wider screen like the iPhone Duo, but doesn’t fold",
-      "url": "https://www.theverge.com/tech/1016544/coolpad-cool-x-wide-widescreen-android-16-smartphone-china",
-      "pubDate": "2026-10-22T14:24:49.000Z"
     },
     {
       "source": "9to5Mac",
@@ -85,13 +253,6 @@
       "title": "Amazon Takes $49 Off iPad With Prices Starting at $399.99",
       "url": "https://www.macrumors.com/2026/10/22/amazon-49-off-ipad/",
       "pubDate": "2026-10-22T14:05:33.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
-      "url": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
-      "pubDate": "2026-10-22T14:00:00.000Z"
     },
     {
       "source": "AppleInsider",
@@ -136,67 +297,11 @@
       "pubDate": "2026-10-22T13:29:29.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple will label apps that are ‘Made for iPhone Duo’",
-      "url": "https://www.theverge.com/tech/1016526/apple-made-for-iphone-duo-badge-app-store",
-      "pubDate": "2026-10-22T13:20:37.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Atari VCS saga will come to an end next year when its software store closes",
-      "url": "https://www.theverge.com/tech/1016481/atari-vcs-console-shutting-down-software-store-2027",
-      "pubDate": "2026-10-22T13:17:59.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Reveals More Than 50 Apps That Will Be Updated for iPhone Duo",
       "url": "https://www.macrumors.com/2026/10/22/apple-highlights-iphone-duo-apps/",
       "pubDate": "2026-10-22T13:04:26.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Insta360 launches a cheaper version of its wireless mics with color screens",
-      "url": "https://www.theverge.com/tech/1015371/insta360-mic-wireless-microphone-color-e-ink-screen",
-      "pubDate": "2026-10-22T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Birdbuddy’s Nook is a compact smart bird feeder for small spaces and budgets",
-      "url": "https://www.theverge.com/tech/1015659/birdbuddy-smart-bird-feeder-2k-camera-home-nook-ai-identification",
-      "pubDate": "2026-10-22T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Googlebooks just aren’t ready",
-      "url": "https://www.theverge.com/tech/1015749/googlebook-hp-acer-lenovo-dell-asus-collective-laptop-review",
-      "pubDate": "2026-10-22T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Birdbuddy’s budget feeder foiled my squirrels",
-      "url": "https://www.theverge.com/tech/1015791/birdbuddy-home-nook-smart-bird-feeder-hands-on",
-      "pubDate": "2026-10-22T13:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple says developers are showing ‘incredible’ support for the iPhone Duo",
-      "url": "https://9to5mac.com/2026/10/22/apple-says-developers-are-showing-incredible-support-for-the-iphone-duo/",
-      "pubDate": "2026-10-22T12:28:16.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "What’s going on with the web? The PHP issue and sites going offline",
-      "url": "https://9to5mac.com/2026/10/22/whats-going-on-with-the-web-the-php-issue-and-sites-going-offline/",
-      "pubDate": "2026-10-22T12:10:22.000Z"
     },
     {
       "source": "AppleInsider",
@@ -211,13 +316,6 @@
       "title": "More iPhone Duo parts ordered does not mean an increase in shipments",
       "url": "https://appleinsider.com/articles/26/10/22/more-iphone-duo-parts-ordered-does-not-mean-an-increase-in-shipments?utm_source=rss",
       "pubDate": "2026-10-22T11:45:40.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone Duo reviews: The absolute best foldable phone, but not without compromise",
-      "url": "https://9to5mac.com/2026/10/22/iphone-duo-reviews-the-absolute-best-foldable-phone-but-not-without-compromise/",
-      "pubDate": "2026-10-22T11:44:27.000Z"
     },
     {
       "source": "MacRumors",
@@ -241,95 +339,11 @@
       "pubDate": "2026-10-22T11:02:36.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPhone Duo 2 will have under-display Face ID",
-      "url": "https://appleinsider.com/articles/26/10/22/iphone-duo-2-will-have-under-display-face-id?utm_source=rss",
-      "pubDate": "2026-10-22T10:58:04.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iPhone Duo 2 Prototypes Include Under-Display Face ID",
       "url": "https://www.macrumors.com/2026/10/22/iphone-duo-2-prototypes-under-display-face-id/",
       "pubDate": "2026-10-22T10:46:07.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Gurman: iPhone Duo 2 prototypes with Face ID are already being tested inside Apple",
-      "url": "https://9to5mac.com/2026/10/22/gurman-iphone-duo-2-face-id/",
-      "pubDate": "2026-10-22T09:56:28.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Security Bite Podcast: Who is your AI agent really working for?",
-      "url": "https://9to5mac.com/2026/10/22/security-bite-podcast-who-is-your-ai-agent-really-working-for/",
-      "pubDate": "2026-10-22T09:00:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Tesla App Gains iPad and iPhone Duo Support",
-      "url": "https://www.macrumors.com/2026/10/22/tesla-app-gains-ipad-and-iphone-duo-support/",
-      "pubDate": "2026-10-22T06:48:11.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Reportedly Boosts iPhone Duo Orders by 44%",
-      "url": "https://www.macrumors.com/2026/10/22/apple-boosts-iphone-duo-orders/",
-      "pubDate": "2026-10-22T06:23:10.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Fortnite Returning to Australian App Store After Court Ruling",
-      "url": "https://www.macrumors.com/2026/10/22/fortnite-returning-to-australian-app-store/",
-      "pubDate": "2026-10-22T05:55:06.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Ordered to Open iPhone to Rival App Stores in Australia",
-      "url": "https://www.macrumors.com/2026/10/22/rival-app-stores-in-australia-ordered/",
-      "pubDate": "2026-10-22T05:41:09.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Suppliers Face Hurdles Cutting Circuit Board Emissions",
-      "url": "https://www.macrumors.com/2026/10/22/apple-hurdles-cutting-circuit-board-emissions/",
-      "pubDate": "2026-10-22T05:15:09.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple must open iPhone to alternative app stores in Australia after Epic Games ruling",
-      "url": "https://9to5mac.com/2026/10/21/apple-must-open-iphone-to-alternative-app-stores-in-australia-after-epic-games-ruling/",
-      "pubDate": "2026-10-22T03:57:58.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Australia demands Apple make DMA-like changes to App Store by March 2027",
-      "url": "https://appleinsider.com/articles/26/10/22/australia-demands-apple-make-similar-app-store-changes-to-those-in-the-eu-by-march-2027?utm_source=rss",
-      "pubDate": "2026-10-22T03:00:36.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Giant iPhone Duo installations spotted at Apple Fifth Avenue ahead of Friday launch",
-      "url": "https://9to5mac.com/2026/10/21/giant-iphone-duo-installations-spotted-at-apple-fifth-avenue-ahead-of-friday-launch/",
-      "pubDate": "2026-10-21T23:16:18.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: October 21, 2026 – New iPhone Duo features, more",
-      "url": "https://9to5mac.com/2026/10/21/daily-october-21-2026/",
-      "pubDate": "2026-10-21T22:44:33.000Z"
     },
     {
       "source": "Six Colors",
@@ -358,20 +372,6 @@
       "title": "(Podcast) The Rebound 621: Hey, Can I Check Out Your Thing?",
       "url": "https://sixcolors.com/podcast/2026/10/the-rebound-621-hey-can-i-check-out-your-thing/",
       "pubDate": "2026-10-21T07:00:00.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "App Report: Help is on the way",
-      "url": "https://sixcolors.com/post/2026/10/app-report-help-is-on-the-way/",
-      "pubDate": "2026-10-19T23:15:13.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) Upgrade 642: iOS is Weird Now",
-      "url": "https://sixcolors.com/podcast/2026/10/upgrade-642-ios-is-weird-now/",
-      "pubDate": "2026-10-19T21:50:00.000Z"
     }
   ]
 }
