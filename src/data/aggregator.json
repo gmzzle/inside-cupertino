@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T04:51:45.514Z",
+  "generatedAt": "2026-10-22T10:13:45.868Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,62 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Gurman: iPhone Duo 2 prototypes with Face ID are already being tested inside Apple",
+      "url": "https://9to5mac.com/2026/10/22/gurman-iphone-duo-2-face-id/",
+      "pubDate": "2026-10-22T09:56:28.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Security Bite Podcast: Who is your AI agent really working for?",
+      "url": "https://9to5mac.com/2026/10/22/security-bite-podcast-who-is-your-ai-agent-really-working-for/",
+      "pubDate": "2026-10-22T09:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Tesla App Gains iPad and iPhone Duo Support",
+      "url": "https://www.macrumors.com/2026/10/22/tesla-app-gains-ipad-and-iphone-duo-support/",
+      "pubDate": "2026-10-22T06:48:11.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Reportedly Boosts iPhone Duo Orders by 44%",
+      "url": "https://www.macrumors.com/2026/10/22/apple-boosts-iphone-duo-orders/",
+      "pubDate": "2026-10-22T06:23:10.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Fortnite Returning to Australian App Store After Court Ruling",
+      "url": "https://www.macrumors.com/2026/10/22/fortnite-returning-to-australian-app-store/",
+      "pubDate": "2026-10-22T05:55:06.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Ordered to Open iPhone to Rival App Stores in Australia",
+      "url": "https://www.macrumors.com/2026/10/22/rival-app-stores-in-australia-ordered/",
+      "pubDate": "2026-10-22T05:41:09.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Suppliers Face Hurdles Cutting Circuit Board Emissions",
+      "url": "https://www.macrumors.com/2026/10/22/apple-hurdles-cutting-circuit-board-emissions/",
+      "pubDate": "2026-10-22T05:15:09.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Things Updated for iPhone Duo With Adaptive Layout",
+      "url": "https://www.macrumors.com/2026/10/22/things-updated-for-iphone-duo/",
+      "pubDate": "2026-10-22T04:52:10.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -213,13 +269,6 @@
       "pubDate": "2026-10-21T19:13:08.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone Duo's Hidden FaceTime Camera Takes 'Trash' Photos",
-      "url": "https://www.macrumors.com/2026/10/21/iphone-duo-facetime-camera/",
-      "pubDate": "2026-10-21T18:36:52.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Photographer Tyler Stalman reviews iPhone Duo’s new cameras",
@@ -232,34 +281,6 @@
       "title": "Meta hit with $25 billion penalty for lying to users about privacy",
       "url": "https://appleinsider.com/articles/26/10/21/meta-hit-with-25-billion-penalty-for-lying-to-users-about-privacy?utm_source=rss",
       "pubDate": "2026-10-21T18:14:02.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone Duo Has 'Edge Light' Feature That Debuted on Macs Last Year",
-      "url": "https://www.macrumors.com/2026/10/21/iphone-duo-edge-light-feature/",
-      "pubDate": "2026-10-21T17:57:33.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Support App Updated for iPhone Duo's Larger Display",
-      "url": "https://www.macrumors.com/2026/10/21/apple-support-app-iphone-duo/",
-      "pubDate": "2026-10-21T17:55:28.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Amazon Sweetens the Deal on Entry-Level 16-Inch MacBook Pro With $570 Off",
-      "url": "https://www.macrumors.com/2026/10/21/amazon-16-inch-macbook-pro-570/",
-      "pubDate": "2026-10-21T17:34:45.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone Duo Tips Over on MagSafe Stands When Unfolded",
-      "url": "https://www.macrumors.com/2026/10/21/iphone-duo-magsafe-charging/",
-      "pubDate": "2026-10-21T17:24:45.000Z"
     },
     {
       "source": "9to5Mac",
@@ -290,20 +311,6 @@
       "pubDate": "2026-10-21T16:45:26.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Music's New Look Officially Announced",
-      "url": "https://www.macrumors.com/2026/10/21/apple-music-new-look-announced/",
-      "pubDate": "2026-10-21T16:06:36.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Here’s where Apple says iPhone Duo will (and won’t) be available for walk-ins",
-      "url": "https://9to5mac.com/2026/10/21/heres-where-apple-says-iphone-duo-will-and-wont-be-available-for-walk-ins/",
-      "pubDate": "2026-10-21T15:58:59.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Google Maps now lets you ask Gemini for help on the road with CarPlay",
@@ -323,13 +330,6 @@
       "title": "Apple Pencil support arrives on iPhone Duo with iOS 27.2",
       "url": "https://appleinsider.com/articles/26/10/21/apple-pencil-support-arrives-on-iphone-duo-with-ios-272?utm_source=rss",
       "pubDate": "2026-10-21T15:39:04.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Music unveils new design rebrand, with logo ‘made by sound’",
-      "url": "https://9to5mac.com/2026/10/21/apple-music-unveils-new-design-rebrand-with-logo-made-by-sound/",
-      "pubDate": "2026-10-21T15:35:18.000Z"
     },
     {
       "source": "AppleInsider",
