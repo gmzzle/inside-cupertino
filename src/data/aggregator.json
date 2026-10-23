@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T19:15:56.050Z",
+  "generatedAt": "2026-10-23T23:09:54.552Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,104 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Xbox’s first chief operating officer is out after just a few months",
+      "url": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
+      "pubDate": "2026-10-23T21:39:26.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "OpenAI now trains its frontier AI models with no internet access",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+      "pubDate": "2026-10-23T21:11:07.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Using an Apple Pencil With the iPhone Duo: What to Know",
+      "url": "https://www.macrumors.com/2026/10/23/iphone-duo-apple-pencil/",
+      "pubDate": "2026-10-23T20:49:57.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Formula 1 gets Dolby Atmos support on Apple TV in the U.S. starting today",
+      "url": "https://9to5mac.com/2026/10/23/formula-1-gets-dolby-atmos-support-on-apple-tv-in-the-u-s-starting-today/",
+      "pubDate": "2026-10-23T20:23:43.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Store Pickup for iPhone Duo Starting to Resume But Very Limited",
+      "url": "https://www.macrumors.com/2026/10/23/iphone-duo-apple-store-pickup-resuming/",
+      "pubDate": "2026-10-23T20:16:18.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: October 23, 2026 – MacBook Pro rumors, iPhone Duo apps",
+      "url": "https://9to5mac.com/2026/10/23/daily-october-23-2026/",
+      "pubDate": "2026-10-23T20:14:02.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "All three Paris Apple Stores close ahead of protests",
+      "url": "https://appleinsider.com/articles/26/10/23/all-three-paris-apple-stores-close-ahead-of-protests?utm_source=rss",
+      "pubDate": "2026-10-23T19:59:56.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Report: Apple gains ground in China as smartphone shipments hit 14-year low in Q3",
+      "url": "https://9to5mac.com/2026/10/23/report-apple-gains-ground-in-china-as-smartphone-shipments-hit-14-year-low-in-q3/",
+      "pubDate": "2026-10-23T19:50:23.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone Duo has hidden trick that solves a common complaint",
+      "url": "https://9to5mac.com/2026/10/23/iphone-duo-has-hidden-trick-that-solves-a-common-complaint/",
+      "pubDate": "2026-10-23T19:43:08.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone Duo Jailbroken on Launch Day",
+      "url": "https://www.macrumors.com/2026/10/23/iphone-duo-jailbreak/",
+      "pubDate": "2026-10-23T19:41:05.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Abandoned Popcorn Time apps had to be disabled to prevent a zombie army",
+      "url": "https://www.theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided",
+      "pubDate": "2026-10-23T19:35:15.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+      "pubDate": "2026-10-23T19:32:39.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Seeds Updated watchOS 27.2 Release Candidate",
+      "url": "https://www.macrumors.com/2026/10/23/apple-seeds-watchos-27-2-rc-2/",
+      "pubDate": "2026-10-23T19:28:10.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "watchOS 27.2 gets new RC ahead of next week’s launch",
+      "url": "https://9to5mac.com/2026/10/23/watchos-27-2-gets-new-rc-ahead-of-next-weeks-launch/",
+      "pubDate": "2026-10-23T19:19:09.000Z"
+    },
     {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
@@ -50,6 +148,13 @@
       "title": "Download the iPhone Duo’s official light and dark wallpapers here",
       "url": "https://9to5mac.com/2026/10/23/download-the-iphone-duos-official-light-and-dark-wallpapers-here/",
       "pubDate": "2026-10-23T19:06:48.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Soundcore’s latest noise-crushing headphones are on sale for a new low price",
+      "url": "https://www.theverge.com/gadgets/1017667/anker-soundcore-space-2-noise-canceling-headphones-deal-sale",
+      "pubDate": "2026-10-23T18:43:30.000Z"
     },
     {
       "source": "9to5Mac",
@@ -185,39 +290,11 @@
       "pubDate": "2026-10-23T15:35:00.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: iPhone Duo cases, Apple Pencil, AirPods Pro 3, Apple TV 4K, power banks, more",
-      "url": "https://9to5mac.com/2026/10/23/deals-duo-cases-apple-pencil-airpods-apple-tv-4k/",
-      "pubDate": "2026-10-23T15:33:26.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Feds want robotaxis to signal ‘I’m driving’ with cyan-colored lights",
-      "url": "https://www.theverge.com/transportation/1017435/nhtsa-autonomous-vehicle-cyan-lighting-fmvss",
-      "pubDate": "2026-10-23T15:24:45.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iPhone Duo: Open Two Apps Side by Side and Lock Them As an App Pair",
       "url": "https://www.macrumors.com/how-to/iphone-duo-open-two-apps-side-by-side/",
       "pubDate": "2026-10-23T15:24:38.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "SpaceX’s mobile carrier push reportedly involves tapping into 80,000 cell sites",
-      "url": "https://www.theverge.com/science/1017477/spacex-cell-sites-major-us-carrier",
-      "pubDate": "2026-10-23T15:16:24.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple’s website has fun new easter egg: a fully interactive iPod",
-      "url": "https://9to5mac.com/2026/10/23/apples-website-has-fun-new-easter-egg-a-fully-interactive-ipod/",
-      "pubDate": "2026-10-23T14:50:53.000Z"
     },
     {
       "source": "AppleInsider",
@@ -227,25 +304,11 @@
       "pubDate": "2026-10-23T14:49:05.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Meta delays new business terms after publisher pushback on AI scraping",
-      "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
-      "pubDate": "2026-10-23T14:47:41.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iPhone Duo Launches With Carrier and Accessory Discounts Available",
       "url": "https://www.macrumors.com/2026/10/23/best-apple-deals-of-the-week-10-23-26/",
       "pubDate": "2026-10-23T14:43:32.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Sigma FP2 brings significant upgrades to the ‘world’s smallest’ full-frame camera",
-      "url": "https://www.theverge.com/tech/1017410/sigma-fp2-mirrorless-full-frame-modular-camera-upgrade",
-      "pubDate": "2026-10-23T14:42:46.000Z"
     },
     {
       "source": "Six Colors",
@@ -269,13 +332,6 @@
       "pubDate": "2026-10-23T14:31:54.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27.1 is exclusive to iPhone Duo, here’s why",
-      "url": "https://9to5mac.com/2026/10/23/ios-27-1-is-exclusive-to-iphone-duo-heres-why/",
-      "pubDate": "2026-10-23T14:28:56.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple Music has hidden a classic & interactive iPod online",
@@ -288,41 +344,6 @@
       "title": "Apple Music Has a Hidden iPod You Can Play With",
       "url": "https://www.macrumors.com/2026/10/23/apple-music-has-a-hidden-ipod-you-can-play-with/",
       "pubDate": "2026-10-23T14:11:16.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Our best tips for using the iPhone Duo",
-      "url": "https://www.theverge.com/tech/1017157/iphone-duo-tips-touch-id-magsafe",
-      "pubDate": "2026-10-23T14:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Here’s how to get fastest iPhone Duo charging",
-      "url": "https://9to5mac.com/2026/10/23/heres-how-to-get-fastest-iphone-duo-charging/",
-      "pubDate": "2026-10-23T13:56:33.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple overtakes Nvidia as most valuable company in the world on iPhone Duo launch day",
-      "url": "https://9to5mac.com/2026/10/23/apple-overtakes-nvidia-as-most-valuable-company-in-the-world-on-iphone-duo-launch-day/",
-      "pubDate": "2026-10-23T13:41:59.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone Duo Says 'Hello' to You Personally",
-      "url": "https://www.macrumors.com/2026/10/23/iphone-duo-says-hello-to-you-personally/",
-      "pubDate": "2026-10-23T13:15:06.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone Duo: How to Skip the Swipe Up After Touch ID",
-      "url": "https://www.macrumors.com/how-to/iphone-duo-touch-id-rest-to-open/",
-      "pubDate": "2026-10-23T13:00:36.000Z"
     },
     {
       "source": "AppleInsider",
@@ -351,27 +372,6 @@
       "title": "iPod changed the world a quarter of a century ago",
       "url": "https://appleinsider.com/articles/26/10/23/ipod-changed-the-world-a-quarter-of-a-century-ago?utm_source=rss",
       "pubDate": "2026-10-23T11:12:10.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Where to Buy iPhone Duo Today: Stores, Pickup, and Wait Times",
-      "url": "https://www.macrumors.com/2026/10/23/iphone-duo-apple-store-pickup-available-today/",
-      "pubDate": "2026-10-23T11:10:06.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "The iPhone Duo finally makes its way into customers' hands",
-      "url": "https://appleinsider.com/articles/26/10/23/the-iphone-duo-finally-makes-its-way-into-customers-hands?utm_source=rss",
-      "pubDate": "2026-10-23T10:54:01.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "MacBook Neo Helps Apple Outpace Rivals as Market Declines",
-      "url": "https://www.macrumors.com/2026/10/23/macbook-neo-helps-apple-outpace-rivals-as-market-declines/",
-      "pubDate": "2026-10-23T07:30:09.000Z"
     }
   ]
 }
