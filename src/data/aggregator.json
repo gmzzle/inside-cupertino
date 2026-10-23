@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T04:53:42.991Z",
+  "generatedAt": "2026-10-23T10:06:31.392Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "No, the iPhone Duo isn’t a small phone",
+      "url": "https://www.theverge.com/tech/1017090/iphone-duo-screen-size-mini",
+      "pubDate": "2026-10-23T10:00:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "The iPhone Duo finally makes its way into customers' hands",
+      "url": "https://appleinsider.com/articles/26/10/23/the-iphone-duo-finally-makes-its-way-into-customers-hands?utm_source=rss",
+      "pubDate": "2026-10-23T09:39:23.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "MacBook Neo Helps Apple Outpace Rivals as Market Declines",
+      "url": "https://www.macrumors.com/2026/10/23/macbook-neo-helps-apple-outpace-rivals-as-market-declines/",
+      "pubDate": "2026-10-23T07:30:09.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Happy 25th Anniversary, iPod",
+      "url": "https://www.macrumors.com/2026/10/23/ipod-25th-anniversary/",
+      "pubDate": "2026-10-23T07:00:11.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -227,13 +255,6 @@
       "pubDate": "2026-10-22T19:57:58.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
-      "pubDate": "2026-10-22T19:45:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Giant iPhone Duo Displays Coming to Four Apple Stores",
@@ -304,13 +325,6 @@
       "pubDate": "2026-10-22T14:07:45.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Amazon Takes $49 Off iPad With Prices Starting at $399.99",
-      "url": "https://www.macrumors.com/2026/10/22/amazon-49-off-ipad/",
-      "pubDate": "2026-10-22T14:05:33.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apps will be iPhone Duo's Achilles heel for now, no matter what Apple claims",
@@ -323,20 +337,6 @@
       "title": "Formula 1 Apple TV streaming returns to US with Dolby Atmos on Friday",
       "url": "https://appleinsider.com/articles/26/10/22/formula-1-apple-tv-streaming-returns-to-us-with-dolby-atmos-on-friday?utm_source=rss",
       "pubDate": "2026-10-22T13:56:03.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Premium audio hardware vendor Bluesound adds native Apple Music streaming",
-      "url": "https://appleinsider.com/articles/26/10/20/premium-audio-hardware-vendor-bluesound-adds-native-apple-music-streaming?utm_source=rss",
-      "pubDate": "2026-10-22T13:42:51.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "F1 on Apple TV Now Available in Dolby Atmos",
-      "url": "https://www.macrumors.com/2026/10/22/f1-apple-tv-dolby-atmos/",
-      "pubDate": "2026-10-22T13:35:21.000Z"
     },
     {
       "source": "Six Colors",
