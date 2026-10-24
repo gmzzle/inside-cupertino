@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T07:19:24.596Z",
+  "generatedAt": "2026-10-24T12:41:41.364Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,41 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Lee Chang Dong ponders the ethics of the camera",
+      "url": "https://www.theverge.com/entertainment/1017888/possible-love-lee-chang-dong-director-interview",
+      "pubDate": "2026-10-24T12:30:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple weekend deals: Apple TV 4K, MacBook Pro $900 off, Pencil (USB-C), AirPods Pro 3, more",
+      "url": "https://9to5mac.com/2026/10/24/apple-weekend-deals-apple-tv-4k-macbook-pencil-airpods/",
+      "pubDate": "2026-10-24T12:15:32.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Store Pickup System for iPhone Duo Just Went Live Again in U.S. and Canada",
+      "url": "https://www.macrumors.com/2026/10/24/apple-store-pickup-iphone-duo-us/",
+      "pubDate": "2026-10-24T12:12:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Laika has spent 20 years building up to Wildwood",
+      "url": "https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika",
+      "pubDate": "2026-10-24T12:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "It’s time to find a new browser",
+      "url": "https://www.theverge.com/tech/1018121/cod-4-claude-duet-wildwood-installer",
+      "pubDate": "2026-10-24T12:00:00.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -248,39 +283,11 @@
       "pubDate": "2026-10-23T17:34:43.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone Duo accessories: Here are five top picks for Apple’s foldable",
-      "url": "https://9to5mac.com/2026/10/23/iphone-duo-accessories-here-are-five-top-picks-for-apples-foldable/",
-      "pubDate": "2026-10-23T17:16:26.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Amazon shaves up to $150 off M6, M5 Pro Mac mini desktops this weekend",
       "url": "https://appleinsider.com/articles/26/10/23/amazon-shaves-up-to-150-off-m6-m5-pro-mac-mini-desktops-this-weekend?utm_source=rss",
       "pubDate": "2026-10-23T17:02:07.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The iPhone Duo should have been an iPad",
-      "url": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
-      "pubDate": "2026-10-23T17:00:18.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-      "pubDate": "2026-10-23T16:52:55.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The first broken iPhone Duos are here",
-      "url": "https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen",
-      "pubDate": "2026-10-23T16:37:03.000Z"
     },
     {
       "source": "Six Colors",
@@ -309,13 +316,6 @@
       "title": "The MacRumors Show: iPhone Duo Arrives, Touchscreen MacBooks Next",
       "url": "https://www.macrumors.com/2026/10/23/the-macrumors-show-iphone-duo-arrives/",
       "pubDate": "2026-10-23T15:48:22.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Released iOS 27.1 for iPhone Duo Only",
-      "url": "https://www.macrumors.com/2026/10/23/apple-releases-ios-27-1/",
-      "pubDate": "2026-10-23T15:35:00.000Z"
     },
     {
       "source": "AppleInsider",
