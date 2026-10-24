@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T12:41:41.364Z",
+  "generatedAt": "2026-10-24T16:36:22.647Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,83 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Amazon drops 1TB M5 MacBook Air to $1,399, save $200",
+      "url": "https://appleinsider.com/articles/26/10/24/amazon-drops-1tb-m5-macbook-air-to-1399-save-200?utm_source=rss",
+      "pubDate": "2026-10-24T16:16:22.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Make iPhone Duo Volume Buttons Follow Screen Rotation",
+      "url": "https://www.macrumors.com/how-to/iphone-duo-volume-buttons-rotate-screen/",
+      "pubDate": "2026-10-24T16:07:36.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone Duo Teardowns Reveal Two Batteries and More",
+      "url": "https://www.macrumors.com/2026/10/24/iphone-duo-teardown-videos/",
+      "pubDate": "2026-10-24T15:02:56.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
+      "url": "https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview",
+      "pubDate": "2026-10-24T15:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday",
+      "url": "https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale",
+      "pubDate": "2026-10-24T15:00:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "YouTubers break the iPhone Duo, but stores aren't seeing broken displays",
+      "url": "https://appleinsider.com/articles/26/10/24/youtubers-break-the-iphone-duo-but-stores-arent-seeing-broken-displays?utm_source=rss",
+      "pubDate": "2026-10-24T14:34:56.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "M5 MacBook Air Returns to Prime Day Low With $200 Amazon Discount",
+      "url": "https://www.macrumors.com/2026/10/24/m5-macbook-air-returns-prime-day/",
+      "pubDate": "2026-10-24T14:27:30.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "What to expect from Apple’s ‘Pro and tell’ event",
+      "url": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
+      "pubDate": "2026-10-24T14:15:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop",
+      "url": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis",
+      "pubDate": "2026-10-24T14:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Top Stories: Apple 'Pro and Tell' Debut, iPhone Duo Launch, and More",
+      "url": "https://www.macrumors.com/2026/10/24/top-stories-apple-pro-and-tell-teaser/",
+      "pubDate": "2026-10-24T13:00:14.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple @ Work: The browser is the biggest gap in your AI governance strategy",
+      "url": "https://9to5mac.com/2026/10/24/apple-work-the-browser-is-the-biggest-gap-in-your-ai-governance-strategy/",
+      "pubDate": "2026-10-24T13:00:00.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -178,13 +255,6 @@
       "pubDate": "2026-10-23T19:35:15.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
-      "pubDate": "2026-10-23T19:32:39.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Seeds Updated watchOS 27.2 Release Candidate",
@@ -206,13 +276,6 @@
       "pubDate": "2026-10-23T19:12:35.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Store in UK Reopens With New Design on iPhone Duo Launch Day",
-      "url": "https://www.macrumors.com/2026/10/23/apple-southgate-reopens/",
-      "pubDate": "2026-10-23T19:10:52.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Next week’s MacBook Pro could be huge upgrade, but with one problem",
@@ -227,13 +290,6 @@
       "pubDate": "2026-10-23T19:06:48.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Soundcore’s latest noise-crushing headphones are on sale for a new low price",
-      "url": "https://www.theverge.com/gadgets/1017667/anker-soundcore-space-2-noise-canceling-headphones-deal-sale",
-      "pubDate": "2026-10-23T18:43:30.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "HomeKit Weekly: SwitchBot’s new light bars bring 12-zone color to Apple Home",
@@ -241,46 +297,11 @@
       "pubDate": "2026-10-23T18:07:00.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Crackgate? iPhone Duo Owners Report Screens Breaking Along the Hinge",
-      "url": "https://www.macrumors.com/2026/10/23/iphone-duo-screen-cracks/",
-      "pubDate": "2026-10-23T18:05:41.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone Duo Brings Back Long Lines at Apple Stores",
-      "url": "https://www.macrumors.com/2026/10/23/iphone-duo-long-lines-at-apple-stores/",
-      "pubDate": "2026-10-23T17:55:55.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Fi’s GPS-equipped dog trackers are on sale for 30 percent off",
-      "url": "https://www.theverge.com/gadgets/1017196/fi-ultra-gps-dog-tracker-kirby-air-riders-deal-sale",
-      "pubDate": "2026-10-23T17:55:03.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "How to make an old iPad as close to a HomeView as possible",
       "url": "https://appleinsider.com/inside/homeview/tips/how-to-make-an-old-ipad-as-close-to-a-homeview-as-possible?utm_source=rss",
       "pubDate": "2026-10-23T17:53:14.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Elon Musk’s dangerous grip on outer space",
-      "url": "https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly",
-      "pubDate": "2026-10-23T17:35:15.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple publishes iPhone Duo support documents covering hinge, Touch ID, cases, more",
-      "url": "https://9to5mac.com/2026/10/23/apple-publishes-iphone-duo-support-documents-covering-hinge-touch-id-cases-more/",
-      "pubDate": "2026-10-23T17:34:43.000Z"
     },
     {
       "source": "AppleInsider",
@@ -309,13 +330,6 @@
       "title": "Apple Music honors the iPod with… an iPod ↦",
       "url": "https://sixcolors.com/link/2026/10/apple-music-honors-the-ipod-with-an-ipod/",
       "pubDate": "2026-10-23T15:48:26.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "The MacRumors Show: iPhone Duo Arrives, Touchscreen MacBooks Next",
-      "url": "https://www.macrumors.com/2026/10/23/the-macrumors-show-iphone-duo-arrives/",
-      "pubDate": "2026-10-23T15:48:22.000Z"
     },
     {
       "source": "AppleInsider",
@@ -358,20 +372,6 @@
       "title": "iPhone Duo, HomeView, and the AI 'lunatic fringe' on the AppleInsider Podcast",
       "url": "https://appleinsider.com/articles/26/10/23/iphone-duo-homeview-and-the-ai-lunatic-fringe-on-the-appleinsider-podcast?utm_source=rss",
       "pubDate": "2026-10-23T12:32:24.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Testing iPhone Duo: Apple nearly solved my biggest concerns",
-      "url": "https://appleinsider.com/articles/26/10/23/testing-iphone-duo-apple-nearly-solved-my-biggest-concerns?utm_source=rss",
-      "pubDate": "2026-10-23T12:09:50.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "What to do about a lost or stolen iPhone before it becomes a bigger mess",
-      "url": "https://appleinsider.com/inside/icloud/tips/what-to-do-about-a-lost-or-stolen-iphone-before-it-becomes-a-bigger-mess?utm_source=rss",
-      "pubDate": "2026-10-23T11:22:23.000Z"
     }
   ]
 }
