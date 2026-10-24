@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T16:36:22.647Z",
+  "generatedAt": "2026-10-24T19:30:03.603Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,6 +24,48 @@
   ],
   "items": [
     {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Indie App Spotlight: ‘Flipcorder’ lets you shoot retro footage on your iPhone Duo",
+      "url": "https://9to5mac.com/2026/10/24/indie-app-spotlight-flipcorder-lets-you-shoot-retro-footage-on-your-iphone-duo/",
+      "pubDate": "2026-10-24T19:30:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Pennsylvania will require labels on AI-generated ads",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "pubDate": "2026-10-24T18:32:21.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Verizon Apologizes for iPhone Duo Pre-Order Delays, Giving Customers $100 Gift Card",
+      "url": "https://www.macrumors.com/2026/10/24/verizon-apologizes-for-iphone-duo-preorder-delays/",
+      "pubDate": "2026-10-24T18:29:16.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Skip the Touch ID Scan: Unlock iPhone Duo With Apple Watch",
+      "url": "https://www.macrumors.com/how-to/unlock-iphone-duo-apple-watch/",
+      "pubDate": "2026-10-24T18:28:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone Duo Fails JerryRigEverything's Dusty Durability Test",
+      "url": "https://www.macrumors.com/2026/10/24/iphone-duo-fails-jerryrigeverything-test/",
+      "pubDate": "2026-10-24T18:27:42.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone Duo one day later: Here’s why its quirks don’t make it any less incredible",
+      "url": "https://9to5mac.com/2026/10/24/thoughts-on-iphone-duo-24-hours-later/",
+      "pubDate": "2026-10-24T17:47:49.000Z"
+    },
+    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Amazon drops 1TB M5 MacBook Air to $1,399, save $200",
@@ -36,6 +78,13 @@
       "title": "Make iPhone Duo Volume Buttons Follow Screen Rotation",
       "url": "https://www.macrumors.com/how-to/iphone-duo-volume-buttons-rotate-screen/",
       "pubDate": "2026-10-24T16:07:36.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Cybersecurity Awareness Week: How to remove your personal data from the internet, and why Apple’s tools alone aren’t enough",
+      "url": "https://9to5mac.com/2026/10/24/cybersecurity-awareness-week-remove-personal-data-internet-apples-tools-alone-arent-enough/",
+      "pubDate": "2026-10-24T16:00:00.000Z"
     },
     {
       "source": "MacRumors",
@@ -206,13 +255,6 @@
       "pubDate": "2026-10-23T20:23:43.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Store Pickup for iPhone Duo Starting to Resume But Very Limited",
-      "url": "https://www.macrumors.com/2026/10/23/iphone-duo-apple-store-pickup-resuming/",
-      "pubDate": "2026-10-23T20:16:12.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "9to5Mac Daily: October 23, 2026 – MacBook Pro rumors, iPhone Duo apps",
@@ -241,27 +283,6 @@
       "pubDate": "2026-10-23T19:43:08.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone Duo Jailbroken on Launch Day",
-      "url": "https://www.macrumors.com/2026/10/23/iphone-duo-jailbreak/",
-      "pubDate": "2026-10-23T19:41:05.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Abandoned Popcorn Time apps had to be disabled to prevent a zombie army",
-      "url": "https://www.theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided",
-      "pubDate": "2026-10-23T19:35:15.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Seeds Updated watchOS 27.2 Release Candidate",
-      "url": "https://www.macrumors.com/2026/10/23/apple-seeds-watchos-27-2-rc-2/",
-      "pubDate": "2026-10-23T19:28:10.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "watchOS 27.2 gets new RC ahead of next week’s launch",
@@ -274,27 +295,6 @@
       "title": "iPhone Duo: 24 hours in the Splash Zone",
       "url": "https://sixcolors.com/post/2026/10/iphone-duo-24-hours-in-the-splash-zone/",
       "pubDate": "2026-10-23T19:12:35.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Next week’s MacBook Pro could be huge upgrade, but with one problem",
-      "url": "https://9to5mac.com/2026/10/23/next-weeks-macbook-pro-could-be-huge-upgrade-but-with-one-problem/",
-      "pubDate": "2026-10-23T19:10:15.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Download the iPhone Duo’s official light and dark wallpapers here",
-      "url": "https://9to5mac.com/2026/10/23/download-the-iphone-duos-official-light-and-dark-wallpapers-here/",
-      "pubDate": "2026-10-23T19:06:48.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "HomeKit Weekly: SwitchBot’s new light bars bring 12-zone color to Apple Home",
-      "url": "https://9to5mac.com/2026/10/23/switchbots-new-light-bars-bring-12-zone-color-to-apple-home/",
-      "pubDate": "2026-10-23T18:07:00.000Z"
     },
     {
       "source": "AppleInsider",
