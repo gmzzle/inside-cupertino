@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T11:41:35.930Z",
+  "generatedAt": "2026-10-25T16:24:53.261Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,90 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "OLED iPad mini 8 debuting this week: Here’s what’s coming, and how much it’ll cost",
+      "url": "https://9to5mac.com/2026/10/25/ipad-mini-8-redesign-with-oled-coming-this-week/",
+      "pubDate": "2026-10-25T16:06:33.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Touch-friendly dynamic interface coming soon to macOS Golden Gate",
+      "url": "https://appleinsider.com/articles/26/10/25/touch-friendly-dynamic-interface-coming-soon-to-macos-golden-gate?utm_source=rss",
+      "pubDate": "2026-10-25T15:35:54.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "TSMC factories rise in the Arizona desert ↦",
+      "url": "https://sixcolors.com/link/2026/10/tsmc-factories-rise-in-the-arizona-desert/",
+      "pubDate": "2026-10-25T15:34:16.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Stores Reportedly Rolling Out New Anti-Theft System for iPhones",
+      "url": "https://www.macrumors.com/2026/10/25/apple-stores-anti-theft-iphone-box-checker/",
+      "pubDate": "2026-10-25T15:18:08.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Ternus shuffles more Apple roles as long-time executives look to retire",
+      "url": "https://appleinsider.com/articles/26/10/25/ternus-shuffles-more-apple-roles-as-long-time-executives-look-to-retire?utm_source=rss",
+      "pubDate": "2026-10-25T14:56:47.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "OLED upgrades for iMac, MacBook Air are planned but still far from launch",
+      "url": "https://appleinsider.com/articles/26/10/25/oled-upgrades-for-imac-macbook-air-are-planned-but-still-far-from-launch?utm_source=rss",
+      "pubDate": "2026-10-25T14:49:52.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Touchscreen OLED MacBook Pro launches this week, here’s how the lineup will look",
+      "url": "https://9to5mac.com/2026/10/25/macbook-pro-redesign-oled-touch-launching-this-week/",
+      "pubDate": "2026-10-25T14:48:28.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "AirTag 2 Drops to New Low Price of $23 on Amazon",
+      "url": "https://www.macrumors.com/2026/10/25/airtag-2-new-low-price-of-23/",
+      "pubDate": "2026-10-25T14:31:28.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "New iMac and 14-Inch MacBook Pro With M6 Chip Expected This Week",
+      "url": "https://www.macrumors.com/2026/10/25/new-imac-and-14-inch-macbook-pro-m6-chip-rumors/",
+      "pubDate": "2026-10-25T14:30:49.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Reportedly Announcing New MacBook Pro With OLED Touchscreen on Wednesday",
+      "url": "https://www.macrumors.com/2026/10/25/macbook-pro-with-touchscreen-on-wednesday/",
+      "pubDate": "2026-10-25T14:30:34.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "r/opensource just banned AI, non-English speakers, and more",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "pubDate": "2026-10-25T13:25:32.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Google’s AI search changes upended online publishing",
+      "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+      "pubDate": "2026-10-25T12:00:00.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -136,13 +220,6 @@
       "pubDate": "2026-10-24T16:00:00.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone Duo Teardowns Reveal Two Batteries and More",
-      "url": "https://www.macrumors.com/2026/10/24/iphone-duo-teardown-videos/",
-      "pubDate": "2026-10-24T15:02:56.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
@@ -164,13 +241,6 @@
       "pubDate": "2026-10-24T14:34:56.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "M5 MacBook Air Returns to Prime Day Low With $200 Amazon Discount",
-      "url": "https://www.macrumors.com/2026/10/24/m5-macbook-air-returns-prime-day/",
-      "pubDate": "2026-10-24T14:27:30.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "What to expect from Apple’s ‘Pro and tell’ event",
@@ -183,13 +253,6 @@
       "title": "I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop",
       "url": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis",
       "pubDate": "2026-10-24T14:00:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Top Stories: Apple 'Pro and Tell' Debut, iPhone Duo Launch, and More",
-      "url": "https://www.macrumors.com/2026/10/24/top-stories-apple-pro-and-tell-teaser/",
-      "pubDate": "2026-10-24T13:00:14.000Z"
     },
     {
       "source": "9to5Mac",
@@ -213,24 +276,10 @@
       "pubDate": "2026-10-24T12:15:32.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Store Pickup System for iPhone Duo Just Went Live Again in U.S. and Canada",
-      "url": "https://www.macrumors.com/2026/10/24/apple-store-pickup-iphone-duo-us/",
-      "pubDate": "2026-10-24T12:12:00.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Laika has spent 20 years building up to Wildwood",
       "url": "https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika",
-      "pubDate": "2026-10-24T12:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "It’s time to find a new browser",
-      "url": "https://www.theverge.com/tech/1018121/cod-4-claude-duet-wildwood-installer",
       "pubDate": "2026-10-24T12:00:00.000Z"
     },
     {
@@ -255,13 +304,6 @@
       "pubDate": "2026-10-23T23:12:21.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Xbox’s first chief operating officer is out after just a few months",
-      "url": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
-      "pubDate": "2026-10-23T21:39:26.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Formula 1 gets Dolby Atmos support on Apple TV in the U.S. starting today",
@@ -269,25 +311,11 @@
       "pubDate": "2026-10-23T20:23:43.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: October 23, 2026 – MacBook Pro rumors, iPhone Duo apps",
-      "url": "https://9to5mac.com/2026/10/23/daily-october-23-2026/",
-      "pubDate": "2026-10-23T20:14:02.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "All three Paris Apple Stores close ahead of protests",
       "url": "https://appleinsider.com/articles/26/10/23/all-three-paris-apple-stores-close-ahead-of-protests?utm_source=rss",
       "pubDate": "2026-10-23T19:59:56.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Report: Apple gains ground in China as smartphone shipments hit 14-year low in Q3",
-      "url": "https://9to5mac.com/2026/10/23/report-apple-gains-ground-in-china-as-smartphone-shipments-hit-14-year-low-in-q3/",
-      "pubDate": "2026-10-23T19:50:23.000Z"
     },
     {
       "source": "Six Colors",
@@ -344,34 +372,6 @@
       "title": "The iPod, which set Apple on its course, turns 25",
       "url": "https://sixcolors.com/post/2026/10/the-ipod-which-set-apple-on-its-course-turns-25/",
       "pubDate": "2026-10-23T14:42:00.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "The one guy who manages most of PHP distribution is a volunteer, of course ↦",
-      "url": "https://sixcolors.com/link/2026/10/the-one-guy-who-manages-most-of-php-distribution-is-a-volunteer-of-course/",
-      "pubDate": "2026-10-23T14:32:26.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "John Ternus welcomes iPhone Duo line at Austin Apple Store",
-      "url": "https://appleinsider.com/articles/26/10/23/john-ternus-welcomes-iphone-duo-line-at-austin-apple-store?utm_source=rss",
-      "pubDate": "2026-10-23T14:31:54.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple Music has hidden a classic & interactive iPod online",
-      "url": "https://appleinsider.com/articles/26/10/23/apple-music-has-hidden-a-classic-interactive-ipod-online?utm_source=rss",
-      "pubDate": "2026-10-23T14:11:37.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPhone Duo, HomeView, and the AI 'lunatic fringe' on the AppleInsider Podcast",
-      "url": "https://appleinsider.com/articles/26/10/23/iphone-duo-homeview-and-the-ai-lunatic-fringe-on-the-appleinsider-podcast?utm_source=rss",
-      "pubDate": "2026-10-23T12:32:24.000Z"
     }
   ]
 }
