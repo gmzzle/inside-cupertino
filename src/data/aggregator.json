@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T01:12:11.982Z",
+  "generatedAt": "2026-10-25T06:12:43.336Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Wants to Fix Safari's Cramped Layout on iPhone Duo",
+      "url": "https://www.macrumors.com/2026/10/25/apple-wants-to-fix-safari-on-iphone-duo/",
+      "pubDate": "2026-10-25T04:58:09.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Instagram Launches Apple TV App With Reels and More",
+      "url": "https://www.macrumors.com/2026/10/25/instagram-launches-apple-tv-app/",
+      "pubDate": "2026-10-25T04:27:08.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's 'Servant' Copyright Lawsuit Win Upheld on Appeal",
+      "url": "https://www.macrumors.com/2026/10/25/servant-lawsuit-win-upheld/",
+      "pubDate": "2026-10-25T04:05:09.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -206,20 +227,6 @@
       "pubDate": "2026-10-24T12:00:00.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Closes French Stores Ahead of Further Protests",
-      "url": "https://www.macrumors.com/2026/10/24/apple-closes-french-stores/",
-      "pubDate": "2026-10-24T04:51:16.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Pushes Back on DOJ Request for More Evidence",
-      "url": "https://www.macrumors.com/2026/10/24/apple-pushes-back-on-doj-request/",
-      "pubDate": "2026-10-24T04:02:07.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Apple exploring fix for Safari’s cramped layout on the iPhone Duo’s outer display",
@@ -232,13 +239,6 @@
       "title": "Critiquing is the way to learn to write ↦",
       "url": "https://sixcolors.com/link/2026/10/critiquing-is-the-way-to-learn-to-write/",
       "pubDate": "2026-10-23T23:31:52.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "The iPhone Duo Can Be a Tiny Mac, a Toaster, and a Nintendo DS",
-      "url": "https://www.macrumors.com/2026/10/23/iphone-duo-fun-apps/",
-      "pubDate": "2026-10-23T23:22:55.000Z"
     },
     {
       "source": "9to5Mac",
