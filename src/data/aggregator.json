@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T22:30:02.958Z",
+  "generatedAt": "2026-10-25T01:12:11.982Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "'Arguably Better Than Face ID': the iPhone Duo Touch ID Tip to Try",
+      "url": "https://www.macrumors.com/2026/10/24/better-than-face-id-iphone-duo-touch-id-tip/",
+      "pubDate": "2026-10-24T23:48:55.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -246,13 +253,6 @@
       "title": "Xbox’s first chief operating officer is out after just a few months",
       "url": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
       "pubDate": "2026-10-23T21:39:26.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Using an Apple Pencil With the iPhone Duo: What to Know",
-      "url": "https://www.macrumors.com/2026/10/23/iphone-duo-apple-pencil/",
-      "pubDate": "2026-10-23T20:49:47.000Z"
     },
     {
       "source": "9to5Mac",
