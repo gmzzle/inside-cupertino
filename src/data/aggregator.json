@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T01:12:55.872Z",
+  "generatedAt": "2026-10-26T06:21:54.744Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Will Apple’s overhauled MacBook Pro finally offer 5G cellular support?",
+      "url": "https://9to5mac.com/2026/10/25/macbook-pro-overhaul-cellular-support-touchscreen/",
+      "pubDate": "2026-10-26T05:16:58.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Display Veterans Step Back as New Leaders Take Over",
+      "url": "https://www.macrumors.com/2026/10/26/apple-display-veterans-step-back/",
+      "pubDate": "2026-10-26T04:14:12.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "OLED MacBook Air and iMac Remain in Testing",
+      "url": "https://www.macrumors.com/2026/10/25/oled-macbook-air-and-imac-in-testing/",
+      "pubDate": "2026-10-26T03:41:01.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -220,20 +241,6 @@
       "pubDate": "2026-10-25T04:27:08.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple's 'Servant' Copyright Lawsuit Win Upheld on Appeal",
-      "url": "https://www.macrumors.com/2026/10/25/servant-lawsuit-win-upheld/",
-      "pubDate": "2026-10-25T04:05:09.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "'Arguably Better Than Face ID': the iPhone Duo Touch ID Tip to Try",
-      "url": "https://www.macrumors.com/2026/10/24/better-than-face-id-iphone-duo-touch-id-tip/",
-      "pubDate": "2026-10-24T23:48:55.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Hands-on: Belkin’s new semi solid state batteries make for a much lighter carry",
@@ -316,13 +323,6 @@
       "title": "Critiquing is the way to learn to write ↦",
       "url": "https://sixcolors.com/link/2026/10/critiquing-is-the-way-to-learn-to-write/",
       "pubDate": "2026-10-23T23:31:52.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple’s official DIY repair guides for the iPhone Duo now available",
-      "url": "https://9to5mac.com/2026/10/23/apples-official-diy-repair-guides-for-the-iphone-duo-now-available/",
-      "pubDate": "2026-10-23T23:12:21.000Z"
     },
     {
       "source": "AppleInsider",
