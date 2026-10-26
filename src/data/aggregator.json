@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T06:21:54.744Z",
+  "generatedAt": "2026-10-26T14:17:44.134Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,6 +24,209 @@
   ],
   "items": [
     {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "OLED iPad Mini Fast Charge Needs a 35W Adapter, Sold Separately",
+      "url": "https://www.macrumors.com/2026/10/26/oled-ipad-mini-fast-charge-35w-adapter/",
+      "pubDate": "2026-10-26T14:14:41.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Brings TechWoven to iPad With All-New $79 iPad Mini Smart Folio",
+      "url": "https://www.macrumors.com/2026/10/26/techwoven-ipad-mini-smart-folio/",
+      "pubDate": "2026-10-26T14:07:43.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "New iPad mini shrinks just enough to complicate case compatibility",
+      "url": "https://appleinsider.com/articles/26/10/26/new-ipad-mini-shrinks-just-enough-to-complicate-case-compatibility?utm_source=rss",
+      "pubDate": "2026-10-26T14:04:23.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "All Current iPads Now Feature a Landscape Front Camera",
+      "url": "https://www.macrumors.com/2026/10/26/all-ipads-now-feature-landscape-front-camera/",
+      "pubDate": "2026-10-26T14:02:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Kevin Roose is AGI-pilled. Why aren’t you?",
+      "url": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic",
+      "pubDate": "2026-10-26T14:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "OLED iPad Mini Starts at $699 After Second Price Hike This Year",
+      "url": "https://www.macrumors.com/2026/10/26/oled-ipad-mini-second-price-hike-2026/",
+      "pubDate": "2026-10-26T13:58:53.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "New iPad Mini Available in Just Two Colors",
+      "url": "https://www.macrumors.com/2026/10/26/new-ipad-mini-two-colors/",
+      "pubDate": "2026-10-26T13:52:17.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple teases an ‘exciting week’ of new products ahead",
+      "url": "https://9to5mac.com/2026/10/26/apple-teases-an-exciting-week-of-new-products-ahead/",
+      "pubDate": "2026-10-26T13:36:02.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Anthropic’s IPO filing lays out a plan to &#8216;revolutionize every area of human endeavor&#8217; with AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
+      "pubDate": "2026-10-26T13:32:49.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "OLED iPad mini arrives with A20 Pro processor, better dust protection",
+      "url": "https://appleinsider.com/articles/26/10/26/oled-ipad-mini-8-arrives-to-challenge-iphone-duo-as-best-pocketable-tablet?utm_source=rss",
+      "pubDate": "2026-10-26T13:30:26.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "512GB OLED iPad Mini Gets Extra CPU Core and Dual Neural Engine",
+      "url": "https://www.macrumors.com/2026/10/26/512gb-oled-ipad-mini-extra-cpu-core/",
+      "pubDate": "2026-10-26T13:30:02.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "New iPad Mini Offers Nano-Texture Display on Select Models",
+      "url": "https://www.macrumors.com/2026/10/26/new-ipad-mini-offers-nano-texture-display/",
+      "pubDate": "2026-10-26T13:24:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Teases 'Exciting Week' Ahead After Announcing New iPad Mini",
+      "url": "https://www.macrumors.com/2026/10/26/apple-teases-exciting-week-ahead/",
+      "pubDate": "2026-10-26T13:23:33.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "New iPad Mini Is Apple's First Water-Resistant iPad",
+      "url": "https://www.macrumors.com/2026/10/26/new-ipad-mini-is-first-water-resistant-ipad/",
+      "pubDate": "2026-10-26T13:21:13.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "New iPad mini has big limitation on all but one model",
+      "url": "https://9to5mac.com/2026/10/26/new-ipad-mini-has-big-limitation-on-all-but-one-model/",
+      "pubDate": "2026-10-26T13:19:05.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "OLED iPad Mini Pre-Orders and Release Date Announced",
+      "url": "https://www.macrumors.com/2026/10/26/oled-ipad-mini-pre-orders-launch-date/",
+      "pubDate": "2026-10-26T13:17:03.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Can AI help solve the COBOL code crisis?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
+      "pubDate": "2026-10-26T13:15:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "New iPad Mini Uses 'Acoustic Display' for Redesigned Speaker System",
+      "url": "https://www.macrumors.com/2026/10/26/new-ipad-mini-acoustic-display/",
+      "pubDate": "2026-10-26T13:12:42.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "New iPad Mini Still Lacks ProMotion Despite Upgrade to OLED",
+      "url": "https://www.macrumors.com/2026/10/26/new-ipad-mini-still-no-promotion/",
+      "pubDate": "2026-10-26T13:11:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Apple updates the iPad Mini with a larger OLED display",
+      "url": "https://www.theverge.com/tech/1017801/ipad-mini-oled-display-apple-announce",
+      "pubDate": "2026-10-26T13:05:03.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple unveils all-new iPad mini: OLED, thinner design, more",
+      "url": "https://9to5mac.com/2026/10/26/new-ipad-mini-features-release-date-price/",
+      "pubDate": "2026-10-26T13:04:24.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Some seven years later, the iTunes Store is making an unlikely come-back",
+      "url": "https://9to5mac.com/2026/10/26/some-27-years-later-the-itunes-store-is-making-an-unlikely-come-back/",
+      "pubDate": "2026-10-26T12:43:55.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Watch the iPhone Duo run a Shortcuts automation when it is opened or closed [Video]",
+      "url": "https://9to5mac.com/2026/10/26/watch-the-iphone-duo-run-a-shortcuts-automation-when-it-is-opened-or-closed-video/",
+      "pubDate": "2026-10-26T12:01:32.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Hinge damage suspected to be behind iPhone Duo screen cracks",
+      "url": "https://appleinsider.com/articles/26/10/25/hinge-damage-suspected-to-be-behind-iphone-duo-screen-cracks?utm_source=rss",
+      "pubDate": "2026-10-26T11:41:27.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Claude Code AI finds a cryptominer on a Mac; says it didn’t put it there",
+      "url": "https://9to5mac.com/2026/10/26/claude-code-ai-finds-a-cryptominer-on-a-mac-says-it-didnt-put-it-there/",
+      "pubDate": "2026-10-26T11:34:41.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iPhone Duo is the most repairable foldable yet, but that's a very low bar",
+      "url": "https://appleinsider.com/articles/26/10/26/iphone-duo-is-the-most-repairable-foldable-yet-but-thats-a-very-low-bar?utm_source=rss",
+      "pubDate": "2026-10-26T11:24:02.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone Duo tested to destruction, including removing nanotexture layer",
+      "url": "https://9to5mac.com/2026/10/26/iphone-duo-tested-to-destruction-including-removing-nanotexture-layer/",
+      "pubDate": "2026-10-26T11:12:44.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Remap just about any button on your controller or MIDI keyboard with this",
+      "url": "https://appleinsider.com/articles/26/10/26/remap-just-about-any-button-on-your-controller-or-midi-keyboard-with-this?utm_source=rss",
+      "pubDate": "2026-10-26T11:06:49.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The city that fought Flock",
+      "url": "https://www.theverge.com/features/1017836/flock-huntington-west-virginia-surveillance-ballot-measure",
+      "pubDate": "2026-10-26T10:00:00.000Z"
+    },
+    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Will Apple’s overhauled MacBook Pro finally offer 5G cellular support?",
@@ -31,53 +234,11 @@
       "pubDate": "2026-10-26T05:16:58.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Display Veterans Step Back as New Leaders Take Over",
-      "url": "https://www.macrumors.com/2026/10/26/apple-display-veterans-step-back/",
-      "pubDate": "2026-10-26T04:14:12.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "OLED MacBook Air and iMac Remain in Testing",
-      "url": "https://www.macrumors.com/2026/10/25/oled-macbook-air-and-imac-in-testing/",
-      "pubDate": "2026-10-26T03:41:01.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Addresses Web Security Threat, Working on macOS Update With Additional Fix",
-      "url": "https://www.macrumors.com/2026/10/25/apple-blocks-compromised-emudhra-certificates/",
-      "pubDate": "2026-10-25T23:07:28.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "OLED iMac & MacBook Air in the works, far from launch",
       "url": "https://appleinsider.com/articles/26/10/25/oled-upgrades-for-imac-macbook-air-are-planned-but-still-far-from-launch?utm_source=rss",
       "pubDate": "2026-10-25T22:32:37.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone Duo Can Run Automations When You Open or Close It",
-      "url": "https://www.macrumors.com/2026/10/25/iphone-duo-automation-opened-or-closed/",
-      "pubDate": "2026-10-25T22:26:58.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Adjust iPhone Duo's Outer Display to Accommodate Your Case",
-      "url": "https://www.macrumors.com/how-to/iphone-duo-setting-makes-room-for-case/",
-      "pubDate": "2026-10-25T22:00:02.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iFixit iPhone Duo Teardown Points to Possible Cause of Screen Cracks",
-      "url": "https://www.macrumors.com/2026/10/25/ifixit-iphone-duo-teardown/",
-      "pubDate": "2026-10-25T21:44:03.000Z"
     },
     {
       "source": "The Verge",
@@ -92,13 +253,6 @@
       "title": "iFixit tears down iPhone Duo, finds possible causes of early screen failures",
       "url": "https://9to5mac.com/2026/10/25/ifixit-tears-down-iphone-duo-finds-possible-causes-of-early-screen-failures/",
       "pubDate": "2026-10-25T21:36:58.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Hinge damage suspected to be behind iPhone Duo screen cracks",
-      "url": "https://appleinsider.com/articles/26/10/25/hinge-damage-suspected-to-be-behind-iphone-duo-screen-cracks?utm_source=rss",
-      "pubDate": "2026-10-25T21:28:39.000Z"
     },
     {
       "source": "The Verge",
@@ -136,13 +290,6 @@
       "pubDate": "2026-10-25T17:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Now you can watch Instagram Reels on your Apple TV",
-      "url": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
-      "pubDate": "2026-10-25T16:20:17.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "OLED iPad mini 8 debuting this week: Here’s what’s coming, and how much it’ll cost",
@@ -164,13 +311,6 @@
       "pubDate": "2026-10-25T15:34:16.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Stores Reportedly Rolling Out New Anti-Theft System for iPhones",
-      "url": "https://www.macrumors.com/2026/10/25/apple-stores-anti-theft-iphone-box-checker/",
-      "pubDate": "2026-10-25T15:18:04.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Ternus shuffles more Apple roles as long-time executives look to retire",
@@ -185,95 +325,11 @@
       "pubDate": "2026-10-25T14:48:28.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "AirTag 2 Drops to New Low Price of $23 on Amazon",
-      "url": "https://www.macrumors.com/2026/10/25/airtag-2-new-low-price-of-23/",
-      "pubDate": "2026-10-25T14:31:28.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "New iMac and 14-Inch MacBook Pro With M6 Chip Expected This Week",
-      "url": "https://www.macrumors.com/2026/10/25/new-imac-and-14-inch-macbook-pro-m6-chip-rumors/",
-      "pubDate": "2026-10-25T14:30:49.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Reportedly Announcing New MacBook Pro With OLED Touchscreen on Wednesday",
-      "url": "https://www.macrumors.com/2026/10/25/macbook-pro-with-touchscreen-on-wednesday/",
-      "pubDate": "2026-10-25T14:30:34.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "r/opensource just banned AI, non-English speakers, and more",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-      "pubDate": "2026-10-25T13:25:32.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Google’s AI search changes upended online publishing",
-      "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
-      "pubDate": "2026-10-25T12:00:00.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Some iPhone Duo displays are cracking, seemingly all in the same way",
       "url": "https://9to5mac.com/2026/10/25/iphone-duo-displays-cracking/",
       "pubDate": "2026-10-25T10:45:33.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Wants to Fix Safari's Cramped Layout on iPhone Duo",
-      "url": "https://www.macrumors.com/2026/10/25/apple-wants-to-fix-safari-on-iphone-duo/",
-      "pubDate": "2026-10-25T04:58:09.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Instagram Launches Apple TV App With Reels and More",
-      "url": "https://www.macrumors.com/2026/10/25/instagram-launches-apple-tv-app/",
-      "pubDate": "2026-10-25T04:27:08.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Hands-on: Belkin’s new semi solid state batteries make for a much lighter carry",
-      "url": "https://9to5mac.com/2026/10/24/belkin-new-semi-solid-state-battery-options-for-iphone/",
-      "pubDate": "2026-10-24T21:46:33.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Blue Planet III is keeping the rough edges in the age of AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-      "pubDate": "2026-10-24T21:29:12.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Indie App Spotlight: ‘Flipcorder’ lets you shoot retro footage on your iPhone Duo",
-      "url": "https://9to5mac.com/2026/10/24/indie-app-spotlight-flipcorder-lets-you-shoot-retro-footage-on-your-iphone-duo/",
-      "pubDate": "2026-10-24T19:30:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Pennsylvania will require labels on AI-generated ads",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-      "pubDate": "2026-10-24T18:32:21.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone Duo one day later: Here’s why its quirks don’t make it any less incredible",
-      "url": "https://9to5mac.com/2026/10/24/thoughts-on-iphone-duo-24-hours-later/",
-      "pubDate": "2026-10-24T17:47:49.000Z"
     },
     {
       "source": "AppleInsider",
@@ -283,39 +339,11 @@
       "pubDate": "2026-10-24T16:16:22.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Cybersecurity Awareness Week: How to remove your personal data from the internet, and why Apple’s tools alone aren’t enough",
-      "url": "https://9to5mac.com/2026/10/24/cybersecurity-awareness-week-remove-personal-data-internet-apples-tools-alone-arent-enough/",
-      "pubDate": "2026-10-24T16:00:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "YouTubers break the iPhone Duo, but stores aren't seeing broken displays",
       "url": "https://appleinsider.com/articles/26/10/24/youtubers-break-the-iphone-duo-but-stores-arent-seeing-broken-displays?utm_source=rss",
       "pubDate": "2026-10-24T14:34:56.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple @ Work: The browser is the biggest gap in your AI governance strategy",
-      "url": "https://9to5mac.com/2026/10/24/apple-work-the-browser-is-the-biggest-gap-in-your-ai-governance-strategy/",
-      "pubDate": "2026-10-24T13:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple weekend deals: Apple TV 4K, MacBook Pro $900 off, Pencil (USB-C), AirPods Pro 3, more",
-      "url": "https://9to5mac.com/2026/10/24/apple-weekend-deals-apple-tv-4k-macbook-pencil-airpods/",
-      "pubDate": "2026-10-24T12:15:32.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple exploring fix for Safari’s cramped layout on the iPhone Duo’s outer display",
-      "url": "https://9to5mac.com/2026/10/23/apple-exploring-fix-for-safaris-cramped-layout-on-the-iphone-duos-outer-display/",
-      "pubDate": "2026-10-23T23:50:49.000Z"
     },
     {
       "source": "Six Colors",
@@ -339,39 +367,11 @@
       "pubDate": "2026-10-23T19:12:35.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "How to make an old iPad as close to a HomeView as possible",
-      "url": "https://appleinsider.com/inside/homeview/tips/how-to-make-an-old-ipad-as-close-to-a-homeview-as-possible?utm_source=rss",
-      "pubDate": "2026-10-23T17:53:14.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Amazon shaves up to $150 off M6, M5 Pro Mac mini desktops this weekend",
-      "url": "https://appleinsider.com/articles/26/10/23/amazon-shaves-up-to-150-off-m6-m5-pro-mac-mini-desktops-this-weekend?utm_source=rss",
-      "pubDate": "2026-10-23T17:02:07.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Sponsor) Magic Lasso Adblock: Effortlessly block ads on your iPhone, iPad, Mac and Apple TV",
       "url": "https://sixcolors.com/sponsor/2026/10/magic-lasso-adblock-effortlessly-block-ads-on-your-iphone-ipad-mac-and-apple-tv-11/",
       "pubDate": "2026-10-23T16:00:24.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "25 things you need to know about the product that changed Apple (and the world) (Tom&#039;s Guide/Jason Snell)",
-      "url": "https://www.tomsguide.com/audio/ipod-25th-anniversary-25-things-you-need-to-know-about-the-product-that-changed-apple-and-the-world",
-      "pubDate": "2026-10-23T15:51:33.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Apple Music honors the iPod with… an iPod ↦",
-      "url": "https://sixcolors.com/link/2026/10/apple-music-honors-the-ipod-with-an-ipod/",
-      "pubDate": "2026-10-23T15:48:26.000Z"
     }
   ]
 }
