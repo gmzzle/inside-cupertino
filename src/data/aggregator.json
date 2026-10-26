@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T22:34:47.392Z",
+  "generatedAt": "2026-10-26T01:12:55.872Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Addresses Web Security Threat, Working on macOS Update With Additional Fix",
+      "url": "https://www.macrumors.com/2026/10/25/apple-blocks-compromised-emudhra-certificates/",
+      "pubDate": "2026-10-25T23:07:28.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -253,13 +260,6 @@
       "title": "Pennsylvania will require labels on AI-generated ads",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
       "pubDate": "2026-10-24T18:32:21.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Verizon Apologizes for iPhone Duo Pre-Order Delays, Giving Customers $100 Gift Card",
-      "url": "https://www.macrumors.com/2026/10/24/verizon-apologizes-for-iphone-duo-preorder-delays/",
-      "pubDate": "2026-10-24T18:29:16.000Z"
     },
     {
       "source": "9to5Mac",
