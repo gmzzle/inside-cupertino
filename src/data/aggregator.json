@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T13:13:52.371Z",
+  "generatedAt": "2026-10-27T18:45:04.928Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,46 +24,347 @@
   ],
   "items": [
     {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Astropad Workbench 1.4 adds terminal access, iPhone Duo support, and more",
+      "url": "https://9to5mac.com/2026/10/27/astropad-workbench-1-4-adds-terminal-access-iphone-duo-support-and-more/",
+      "pubDate": "2026-10-27T18:29:50.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Trump is making it easier for fossil fuel companies to leak methane",
+      "url": "https://www.theverge.com/policy/1019691/gas-leak-methane-rule-rollback-trump",
+      "pubDate": "2026-10-27T18:25:13.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27.2 has two CarPlay improvements, here’s what’s new",
+      "url": "https://9to5mac.com/2026/10/27/ios-27-2-has-two-carplay-improvements-heres-whats-new/",
+      "pubDate": "2026-10-27T18:20:40.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iCloud Mail and Calendar plugins now work with ChatGPT",
+      "url": "https://9to5mac.com/2026/10/27/icloud-mail-and-calendar-plugins-now-work-with-chatgpt/",
+      "pubDate": "2026-10-27T18:20:35.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "With the new iMac and MacBook Pro, Apple is targeting stubborn Intel holdouts",
+      "url": "https://appleinsider.com/articles/26/10/27/with-the-new-imac-and-macbook-pro-apple-is-targeting-stubborn-intel-holdouts?utm_source=rss",
+      "pubDate": "2026-10-27T18:14:11.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "On OLED MacBook Pro-eve, I have just one question",
+      "url": "https://appleinsider.com/articles/26/10/27/on-oled-macbook-pro-eve-i-have-just-one-question?utm_source=rss",
+      "pubDate": "2026-10-27T17:52:24.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Blowout deal: Apple's M5 MacBook Pro with 32GB RAM plunges to $1,999",
+      "url": "https://appleinsider.com/articles/26/10/27/blowout-deal-apples-m5-macbook-pro-with-32gb-ram-plunges-to-1999?utm_source=rss",
+      "pubDate": "2026-10-27T17:43:40.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "VisionQuest is what happens when AI really goes rogue",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+      "pubDate": "2026-10-27T17:30:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "M6 14-inch MacBook Pro vs M5 14-inch MacBook Pro: Baselines compared",
+      "url": "https://appleinsider.com/inside/14-inch-macbook-pro/vs/m6-14-inch-macbook-pro-vs-m5-14-inch-macbook-pro-baselines-compared?utm_source=rss",
+      "pubDate": "2026-10-27T17:29:13.000Z"
+    },
+    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Announces New iMac With M6 Chip and More",
-      "url": "https://www.macrumors.com/2026/10/27/apple-announces-new-imac-with-m6-chip-and-more/",
-      "pubDate": "2026-10-27T13:11:17.000Z"
+      "title": "Best Buy Details Black Friday Plans With Early Deals Available on Halloween",
+      "url": "https://www.macrumors.com/2026/10/27/best-buy-black-friday-plans-26/",
+      "pubDate": "2026-10-27T17:28:11.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "MacBook Neo 2 now predicted to arrive before summer 2027",
+      "url": "https://appleinsider.com/articles/26/10/27/macbook-neo-2-now-predicted-to-arrive-before-summer-2027?utm_source=rss",
+      "pubDate": "2026-10-27T17:11:22.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The Super Mouse puts a touchscreen macro pad under your hand",
+      "url": "https://www.theverge.com/tech/1019484/super-mouse-touchscreen-shortcuts-macros-kickstarter",
+      "pubDate": "2026-10-27T17:00:00.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Sorry, new developers, it’s vibecodetown",
+      "url": "https://sixcolors.com/post/2026/10/sorry-new-developers-its-vibecodetown/",
+      "pubDate": "2026-10-27T17:00:00.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Apple clears the decks ahead of its biggest announcement",
+      "url": "https://sixcolors.com/post/2026/10/apple-clears-the-decks-ahead-of-its-biggest-announcement/",
+      "pubDate": "2026-10-27T16:52:04.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+      "pubDate": "2026-10-27T16:51:22.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Meta’s $25 billion legal loss just put blood in the water",
+      "url": "https://www.theverge.com/policy/1019604/new-mexico-meta-cambridge-analytica-kids-safety-settlement",
+      "pubDate": "2026-10-27T16:44:40.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Twelve South launches new Airfly View dongle with built-in screen",
+      "url": "https://9to5mac.com/2026/10/27/twelve-south-launches-new-airfly-view-dongle-with-built-in-screen/",
+      "pubDate": "2026-10-27T16:34:43.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Reportedly Plans to Release MacBook Neo 2 in First Half of 2027",
+      "url": "https://www.macrumors.com/2026/10/27/macbook-neo-2-first-half-2027-report/",
+      "pubDate": "2026-10-27T16:34:27.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Formula 1's CEO sees a very long-term future with Apple TV",
+      "url": "https://appleinsider.com/articles/26/10/27/formula-1s-ceo-sees-a-very-long-term-future-with-apple-tv?utm_source=rss",
+      "pubDate": "2026-10-27T16:27:42.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Google Photos rolls out customizable redesign of your ‘Collections’ tab",
+      "url": "https://9to5google.com/2026/10/26/google-photos-collections-redesign/",
+      "pubDate": "2026-10-27T16:23:35.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
+      "pubDate": "2026-10-27T16:14:18.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Major League Baseball is looking for a new kind of fan",
+      "url": "https://www.theverge.com/report/1019478/major-league-baseball-fandom-social-media-world-series-influencers",
+      "pubDate": "2026-10-27T16:02:43.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Google’s next Genie AI model generates more realistic experiences",
+      "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+      "pubDate": "2026-10-27T16:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "My favorite robot vacuum just got quieter, and more expensive",
+      "url": "https://www.theverge.com/tech/1019298/matic-serene-robot-vacuum-price-specs-release-date",
+      "pubDate": "2026-10-27T16:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "M5 vs. M6 MacBook Pro Buyer's Guide: All Differences Compared",
+      "url": "https://www.macrumors.com/guide/m5-vs-m6-macbook-pro/",
+      "pubDate": "2026-10-27T15:42:54.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "New iMac Available With 2.5 Gigabit Ethernet Port on Power Adapter",
+      "url": "https://www.macrumors.com/2026/10/27/new-imac-2-5-gigabit-ethernet/",
+      "pubDate": "2026-10-27T15:34:52.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Apple&#8217;s latest AirTag is the cheapest it’s ever been",
+      "url": "https://www.theverge.com/gadgets/1019138/apple-airtag-second-gen-cricut-joy-2-printer-deal-sale",
+      "pubDate": "2026-10-27T15:34:16.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "‘The Real Kevin Bacon’ ↦",
+      "url": "https://sixcolors.com/link/2026/10/the-real-kevin-bacon/",
+      "pubDate": "2026-10-27T15:31:19.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Deals: AirPods Pro 3 20% off, Apple Pencil (USB-C), most affordable M5 MacBook Air $200 off, AirTag 2, more",
+      "url": "https://9to5mac.com/2026/10/27/deals-airpods-apple-pencil-usb-c-macbook-air-airtag-2/",
+      "pubDate": "2026-10-27T15:30:46.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "M4 vs. M6 iMac Buyer's Guide: Should You Upgrade?",
+      "url": "https://www.macrumors.com/guide/m4-vs-m6-imac/",
+      "pubDate": "2026-10-27T15:30:15.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "M6 24-inch iMac vs M4 24-inch iMac: Apple's all-in-ones compared",
+      "url": "https://appleinsider.com/inside/24-inch-imac/vs/m6-24-inch-imac-vs-m4-24-inch-imac-apples-all-in-ones-compared?utm_source=rss",
+      "pubDate": "2026-10-27T15:29:39.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's 11-inch iPad drops to $399 during Amazon's month-end sale",
+      "url": "https://appleinsider.com/articles/26/10/27/apples-11-inch-ipad-drops-to-399-during-amazons-month-end-sale?utm_source=rss",
+      "pubDate": "2026-10-27T15:22:17.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27.2 introduces new age verification feature using selfie",
+      "url": "https://9to5mac.com/2026/10/27/ios-27-2-introduces-new-age-verification-feature-using-selfie/",
+      "pubDate": "2026-10-27T15:21:41.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Sponsor) Filmlog: For the love of movies, now on the Mac",
+      "url": "https://sixcolors.com/feed-only/2026/10/filmlog-for-the-love-of-movies-now-on-the-mac/",
+      "pubDate": "2026-10-27T15:04:30.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Expected to Announce MacBook Pro With Touchscreen Tomorrow",
+      "url": "https://www.macrumors.com/2026/10/27/macbook-pro-with-touchscreen-tomorrow/",
+      "pubDate": "2026-10-27T14:55:36.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27.2 adds new Messages feature that’s already a favorite",
+      "url": "https://9to5mac.com/2026/10/27/ios-27-2-adds-new-messages-feature-thats-already-a-favorite/",
+      "pubDate": "2026-10-27T14:55:29.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "HomePod 27.2 hands-on: default wireless speaker for Mac, Sound Glow and more [Video]",
+      "url": "https://9to5mac.com/2026/10/27/homepod-27-2-hands-on-default-wireless-speaker-for-mac-sound-glow-and-more-video/",
+      "pubDate": "2026-10-27T14:50:40.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "New MacBook Pro redesign details revealed ahead of launch",
+      "url": "https://9to5mac.com/2026/10/27/new-macbook-pro-redesign-details-revealed-ahead-of-launch/",
+      "pubDate": "2026-10-27T14:31:03.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Banktivity Offers 30% Off First Year Subscriptions for MacRumors Readers",
+      "url": "https://www.macrumors.com/2026/10/27/banktivity-30-off-first-year/",
+      "pubDate": "2026-10-27T14:25:46.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "New iMac keeps old design but adds M6 processor",
+      "url": "https://appleinsider.com/articles/26/10/27/new-imac-keeps-old-design-but-adds-m6-processor-and-new-colors?utm_source=rss",
+      "pubDate": "2026-10-27T14:17:09.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "M6 MacBook Pro's 170GB/s Memory Bandwidth Skips Base 16GB Model",
+      "url": "https://www.macrumors.com/2026/10/27/m6-14-inch-macbook-pro-memory-bandwidth-split/",
+      "pubDate": "2026-10-27T13:55:55.000Z"
     },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Slight 14-inch MacBook Pro refresh adds M6 AI power, Wi-Fi 7",
       "url": "https://appleinsider.com/articles/26/10/27/slight-14-inch-macbook-pro-refresh-adds-m6-ai-power-wi-fi-7?utm_source=rss",
-      "pubDate": "2026-10-27T13:11:01.000Z"
+      "pubDate": "2026-10-27T13:45:27.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "M6 iMac Pre-Orders and Release Date Announced",
+      "url": "https://www.macrumors.com/2026/10/27/m6-imac-pre-orders-release-date/",
+      "pubDate": "2026-10-27T13:44:03.000Z"
     },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple unveils new 14-inch MacBook Pro powered by M6",
-      "url": "https://9to5mac.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-powered-by-m6/",
-      "pubDate": "2026-10-27T13:07:41.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple refreshes the iMac with M6 chips",
-      "url": "https://www.theverge.com/tech/1018467/apple-imac-m6-chip-announced-price-release",
-      "pubDate": "2026-10-27T13:05:26.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple updates the MacBook Pro with M6 chips",
-      "url": "https://www.theverge.com/tech/1017664/apple-macbook-pro-m6-processor-upgrade",
-      "pubDate": "2026-10-27T13:04:28.000Z"
+      "title": "M6 MacBook Pro vs M5 MacBook Pro: What’s actually changed?",
+      "url": "https://9to5mac.com/2026/10/27/m6-macbook-pro-vs-m5-macbook-pro-whats-actually-changed/",
+      "pubDate": "2026-10-27T13:43:02.000Z"
     },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple launches new iMac with powerful M6 chip",
-      "url": "https://9to5mac.com/2026/10/27/apple-launches-new-imac-with-powerful-m6-chip/",
-      "pubDate": "2026-10-27T13:01:58.000Z"
+      "title": "Watch the ad for Apple’s new 14-inch MacBook Pro powered by M6",
+      "url": "https://9to5mac.com/2026/10/27/watch-the-ad-for-apples-new-14-inch-macbook-pro-powered-by-m6/",
+      "pubDate": "2026-10-27T13:37:44.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Updates Creator Studio With New Tools and AI Features",
+      "url": "https://www.macrumors.com/2026/10/27/apple-updates-creator-studio-ai-features/",
+      "pubDate": "2026-10-27T13:36:26.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "MotionVFX, AI tools feature in Apple Creator Studio's latest update",
+      "url": "https://appleinsider.com/articles/26/10/27/motionvfx-ai-tools-feature-in-apple-creator-studios-latest-update?utm_source=rss",
+      "pubDate": "2026-10-27T13:34:54.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "M6 vs M4: How two years and two chip generations change Apple Silicon",
+      "url": "https://appleinsider.com/inside/apple-silicon/vs/m6-vs-m4-how-two-years-and-two-chip-generations-change-apple-silicon?utm_source=rss",
+      "pubDate": "2026-10-27T13:31:34.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "M6 14-Inch MacBook Pro: Pre-Orders and Release Date Announced",
+      "url": "https://www.macrumors.com/2026/10/27/m6-14-inch-macbook-pro-pre-orders-release-date/",
+      "pubDate": "2026-10-27T13:21:07.000Z"
     },
     {
       "source": "MacRumors",
@@ -71,307 +372,6 @@
       "title": "Apple Announces New 14-Inch MacBook Pro With M6 Chip",
       "url": "https://www.macrumors.com/2026/10/27/14-inch-macbook-pro-with-m6-chip/",
       "pubDate": "2026-10-27T13:01:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Opera One now lets Mac users run Apple’s foundation model directly in the browser",
-      "url": "https://9to5mac.com/2026/10/27/opera-one-now-lets-mac-users-run-apples-foundation-model-directly-in-the-browser/",
-      "pubDate": "2026-10-27T13:00:18.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "AirFly’s wireless headphone dongle adds a screen to guide you through the pairing process",
-      "url": "https://www.theverge.com/tech/1018679/twelve-south-airfly-view-screen-display-wireless-headphone-earbuds-airplane-adapter",
-      "pubDate": "2026-10-27T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Ford’s sub-$30K electric truck puts the home backup inverter right inside the vehicle",
-      "url": "https://www.theverge.com/transportation/1018784/ford-fathom-bidirectional-charging-inverter-power-station-cost",
-      "pubDate": "2026-10-27T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Palmer Luckey’s Anduril is getting into laptops — and claims they&#8217;ll be American-made",
-      "url": "https://www.theverge.com/gadgets/1019274/anduril-qualcomm-bluechip-laptops-american-made-military",
-      "pubDate": "2026-10-27T13:00:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "There's an open source replacement for the terrible Logitech mouse software",
-      "url": "https://appleinsider.com/articles/26/10/27/theres-an-open-source-replacement-for-the-terrible-logitech-mouse-software?utm_source=rss",
-      "pubDate": "2026-10-27T12:54:41.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPhone 18e rumored to get A20 processor but not stray much from iPhone 17e",
-      "url": "https://appleinsider.com/articles/26/10/27/iphone-18e-rumored-to-get-a20-processor-but-not-stray-much-from-iphone-17e?utm_source=rss",
-      "pubDate": "2026-10-27T12:39:14.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Fujifilm’s Instax Mini Evo 2 adds a touchscreen and video recording",
-      "url": "https://www.theverge.com/gadgets/1019300/fujifilm-instax-mini-evo-2-instant-camera-price-availability",
-      "pubDate": "2026-10-27T12:31:33.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "US government acting illegally over electronic surveillance of its own citizens, say senators",
-      "url": "https://9to5mac.com/2026/10/27/us-government-acting-illegally-over-electronic-surveillance-of-its-own-citizens-say-senators/",
-      "pubDate": "2026-10-27T12:29:01.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Fixes Possibly Exploited CoreGraphics Flaw on Older iPhones",
-      "url": "https://www.macrumors.com/2026/10/27/apple-fixes-coregraphics-flaw-older-iphones/",
-      "pubDate": "2026-10-27T12:16:22.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPhone Duo hinge maker denies blame for screen failures",
-      "url": "https://appleinsider.com/articles/26/10/27/iphone-duo-hinge-maker-denies-blame-for-screen-failures?utm_source=rss",
-      "pubDate": "2026-10-27T11:43:15.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPhone 18 Pro sales beat iPhone 17 Pro figures, but only because of China",
-      "url": "https://appleinsider.com/articles/26/10/27/iphone-18-pro-sales-beat-iphone-17-pro-figures-but-only-because-of-china?utm_source=rss",
-      "pubDate": "2026-10-27T11:41:15.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "This super cute app turns your iPhone Duo into tiny vintage Macs",
-      "url": "https://9to5mac.com/2026/10/27/this-super-cute-app-turns-your-iphone-duo-into-tiny-vintage-macs/",
-      "pubDate": "2026-10-27T11:37:56.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple knows the iPad mini market, but internet unimpressed by 60Hz",
-      "url": "https://9to5mac.com/2026/10/27/apple-knows-the-ipad-mini-market-but-internet-unimpressed-by-60hz/",
-      "pubDate": "2026-10-27T11:15:55.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Sterling Anderson doesn’t think humanoid robots should be building cars",
-      "url": "https://www.theverge.com/transportation/1018625/gm-sterling-anderson-interview-robots-ai-autonomous-data-privacy",
-      "pubDate": "2026-10-27T11:00:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple's MacBook Pro Touch Bar Was Announced 10 Years Ago Today",
-      "url": "https://www.macrumors.com/2026/10/27/macbook-pro-touch-bar-announced-10-years-ago/",
-      "pubDate": "2026-10-27T10:45:37.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone 18e Could Get Two Key Upgrades While Keeping 60Hz Display",
-      "url": "https://www.macrumors.com/2026/10/27/iphone-18e-could-get-two-key-upgrades/",
-      "pubDate": "2026-10-27T10:41:44.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple @ Work Podcast: JNUC recap, Golden Gate, Rosetta, and more",
-      "url": "https://9to5mac.com/2026/10/27/jnuc-recap-golden-gate-rosetta-and-more/",
-      "pubDate": "2026-10-27T10:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Data center backlash is uniting America",
-      "url": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
-      "pubDate": "2026-10-27T10:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Acer is bringing a Predator gaming handheld to the US for the first time",
-      "url": "https://www.theverge.com/games/1019245/acer-predator-atlas-8-launch-price",
-      "pubDate": "2026-10-27T09:54:22.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "JAŸ-Z confirmed as headliner for Apple Music’s 2027 Super Bowl Halftime Show",
-      "url": "https://9to5mac.com/2026/10/26/jay-z-confirmed-as-headliner-for-apple-musics-2027-super-bowl-halftime-show/",
-      "pubDate": "2026-10-27T03:30:59.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "JAY-Z steps onto the Super Bowl stage after years behind the show",
-      "url": "https://appleinsider.com/articles/26/10/27/jay-z-steps-onto-the-super-bowl-stage-after-years-behind-the-show?utm_source=rss",
-      "pubDate": "2026-10-27T02:45:07.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "New iMac and 14-Inch MacBook Pro With M6 Chip Expected Tomorrow",
-      "url": "https://www.macrumors.com/2026/10/26/new-imac-and-14-inch-macbook-pro-m6-chip-rumors/",
-      "pubDate": "2026-10-27T02:30:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "JAŸ-Z to Headline 2027 Apple Music Super Bowl LXI Halftime Show",
-      "url": "https://www.macrumors.com/2026/10/26/jay-z-2027-apple-music-halftime-show/",
-      "pubDate": "2026-10-27T01:58:05.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "macOS 27.2 Stops Upgrades From Removing Rosetta",
-      "url": "https://www.macrumors.com/2026/10/26/macos-27-2-stops-removing-rosetta/",
-      "pubDate": "2026-10-27T01:55:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: October 26, 2026 – Apple unveils new iPad mini",
-      "url": "https://9to5mac.com/2026/10/26/daily-october-26-2026/",
-      "pubDate": "2026-10-27T00:16:31.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Older Siri Remotes Now Show Up in Find My With iOS 27.2",
-      "url": "https://www.macrumors.com/2026/10/26/siri-remote-find-my-ios-27-2/",
-      "pubDate": "2026-10-27T00:13:30.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone Duo Features Independent Rotation Lock Controls",
-      "url": "https://www.macrumors.com/2026/10/26/iphone-duo-independent-rotation-lock-controls/",
-      "pubDate": "2026-10-27T00:00:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "'F1' star Damson Idris returns to Apple TV for Utah-set thriller",
-      "url": "https://appleinsider.com/articles/26/10/26/f1-star-damson-idris-returns-to-apple-tv-for-utah-set-thriller?utm_source=rss",
-      "pubDate": "2026-10-26T23:58:17.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "T-Mobile’s new plans let users swap between Apple TV and other subscriptions",
-      "url": "https://9to5mac.com/2026/10/26/t-mobiles-new-plans-let-users-swap-between-apple-tv-and-other-subscriptions/",
-      "pubDate": "2026-10-26T23:51:19.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "OpenAI announces three big science discoveries and a new way to work with academics",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
-      "pubDate": "2026-10-26T23:34:58.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "How to keep politicians from flooding your iPhone with campaign texts",
-      "url": "https://appleinsider.com/inside/imessage/tips/how-to-keep-politicians-from-flooding-your-iphone-with-campaign-texts?utm_source=rss",
-      "pubDate": "2026-10-26T23:02:59.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27.2 Features: Everything New in iOS 27.2",
-      "url": "https://www.macrumors.com/2026/10/26/ios-27-2-features/",
-      "pubDate": "2026-10-26T22:56:08.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Ollama for Mac gains support for local text-to-speech models",
-      "url": "https://9to5mac.com/2026/10/26/ollama-for-mac-gains-support-for-local-text-to-speech-models/",
-      "pubDate": "2026-10-26T22:49:25.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Why Can't iPhone Duo Users Make Eye Contact on FaceTime?",
-      "url": "https://www.macrumors.com/2026/10/26/iphone-duo-users-not-make-eye-contact-facetime/",
-      "pubDate": "2026-10-26T22:49:02.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) Upgrade 643: The iPhone Duo Review",
-      "url": "https://sixcolors.com/podcast/2026/10/upgrade-643-the-iphone-duo-review/",
-      "pubDate": "2026-10-26T22:15:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Instagram takes on YouTube with new 90-minute horizontal video format",
-      "url": "https://9to5mac.com/2026/10/26/instagram-takes-on-youtube-with-new-90-minute-horizontal-video-format/",
-      "pubDate": "2026-10-26T22:06:38.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Don't wait to update: iOS 27.2 brings security fixes over 130 vulnerabilities",
-      "url": "https://appleinsider.com/articles/26/10/26/dont-wait-to-update-ios-272-brings-security-fixes-over-130-vulnerabilities?utm_source=rss",
-      "pubDate": "2026-10-26T21:41:55.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Nanoleaf CEO Gimmy Chu on recent merger, AI control, & more on Smart Home Insider",
-      "url": "https://appleinsider.com/articles/26/10/26/nanoleaf-ceo-gimmy-chu-on-recent-merger-ai-control-more-on-smart-home-insider?utm_source=rss",
-      "pubDate": "2026-10-26T20:01:37.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Siri AI expands to five more languages as EU users remain left out",
-      "url": "https://appleinsider.com/articles/26/10/26/siri-ai-expands-to-five-more-languages-as-eu-users-remain-left-out?utm_source=rss",
-      "pubDate": "2026-10-26T19:30:07.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iOS 27.2 is out without the Apple Health revamp",
-      "url": "https://appleinsider.com/articles/26/10/26/ios-272-is-out-without-the-apple-health-revamp?utm_source=rss",
-      "pubDate": "2026-10-26T18:42:56.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Why Notes will never let us edit Markdown",
-      "url": "https://sixcolors.com/post/2026/10/why-notes-will-never-let-us-edit-markdown/",
-      "pubDate": "2026-10-26T17:00:00.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Apple announces new iPad mini ↦",
-      "url": "https://sixcolors.com/link/2026/10/apple-announces-new-ipad-mini/",
-      "pubDate": "2026-10-26T14:53:42.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "TSMC factories rise in the Arizona desert ↦",
-      "url": "https://sixcolors.com/link/2026/10/tsmc-factories-rise-in-the-arizona-desert/",
-      "pubDate": "2026-10-25T15:34:16.000Z"
     }
   ]
 }
