@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T00:27:31.620Z",
+  "generatedAt": "2026-10-27T06:18:20.888Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -26,6 +26,34 @@
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
+      "title": "JAŸ-Z confirmed as headliner for Apple Music’s 2027 Super Bowl Halftime Show",
+      "url": "https://9to5mac.com/2026/10/26/jay-z-confirmed-as-headliner-for-apple-musics-2027-super-bowl-halftime-show/",
+      "pubDate": "2026-10-27T03:30:59.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "JAY-Z steps onto the Super Bowl stage after years behind the show",
+      "url": "https://appleinsider.com/articles/26/10/27/jay-z-steps-onto-the-super-bowl-stage-after-years-behind-the-show?utm_source=rss",
+      "pubDate": "2026-10-27T02:45:07.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "New iMac and 14-Inch MacBook Pro With M6 Chip Expected Tomorrow",
+      "url": "https://www.macrumors.com/2026/10/26/new-imac-and-14-inch-macbook-pro-m6-chip-rumors/",
+      "pubDate": "2026-10-27T02:30:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "JAŸ-Z to Headline 2027 Apple Music Super Bowl LXI Halftime Show",
+      "url": "https://www.macrumors.com/2026/10/26/jay-z-2027-apple-music-halftime-show/",
+      "pubDate": "2026-10-27T01:58:05.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
       "title": "9to5Mac Daily: October 26, 2026 – Apple unveils new iPad mini",
       "url": "https://9to5mac.com/2026/10/26/daily-october-26-2026/",
       "pubDate": "2026-10-27T00:16:31.000Z"
@@ -35,7 +63,7 @@
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Older Siri Remotes Now Show Up in Find My With iOS 27.2",
       "url": "https://www.macrumors.com/2026/10/26/siri-remote-find-my-ios-27-2/",
-      "pubDate": "2026-10-27T00:13:44.000Z"
+      "pubDate": "2026-10-27T00:13:30.000Z"
     },
     {
       "source": "AppleInsider",
@@ -255,13 +283,6 @@
       "pubDate": "2026-10-26T18:36:02.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple releases iOS 27.2, here’s what’s new",
-      "url": "https://9to5mac.com/2026/10/26/apple-releases-ios-27-2-heres-whats-new/",
-      "pubDate": "2026-10-26T18:33:04.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Releases iOS 27.2 With New Siri AI Languages",
@@ -274,13 +295,6 @@
       "title": "The NBA’s response to gambling scandals is to add more gambling partnerships",
       "url": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
       "pubDate": "2026-10-26T18:22:06.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Most of Canada about to get AirPods Pro hearing aid features",
-      "url": "https://appleinsider.com/articles/26/10/26/most-of-canada-about-to-get-airpods-pro-hearing-aid-features?utm_source=rss",
-      "pubDate": "2026-10-26T18:11:18.000Z"
     },
     {
       "source": "AppleInsider",
@@ -302,20 +316,6 @@
       "title": "Get ready to update your Apple Watch to watchOS 27.2",
       "url": "https://appleinsider.com/articles/26/10/26/get-ready-to-update-your-apple-watch-to-watchos-272?utm_source=rss",
       "pubDate": "2026-10-26T17:57:48.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Releases macOS Golden Gate 27.2",
-      "url": "https://www.macrumors.com/2026/10/26/apple-releases-macos-golden-gate-27-2/",
-      "pubDate": "2026-10-26T17:48:44.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Releases watchOS 27.2 With Siri AI Enhancements",
-      "url": "https://www.macrumors.com/2026/10/26/apple-releases-watchos-27-2-2/",
-      "pubDate": "2026-10-26T17:48:05.000Z"
     },
     {
       "source": "The Verge",
