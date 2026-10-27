@@ -1,5 +1,5 @@
 ---
-title: "Apple Creator Studio's November Update Puts AI Assistants in Logic, Keynote, Pages and Numbers. It's Free for Subscribers."
+title: "Apple Creator Studio Adds AI Assistants to Logic, Keynote, Pages and Numbers. Subscribers Get It Free in November."
 description: "Apple's Creator Studio update adds MotionVFX to Final Cut Pro, Generate Fill to Pixelmator Pro, and AI assistants to Logic, Keynote, Pages and Numbers. Free in November."
 pubDate: 2026-10-27T22:20:00.000Z
 draft: false
