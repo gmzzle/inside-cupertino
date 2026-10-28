@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T22:58:06.620Z",
+  "generatedAt": "2026-10-28T02:17:29.687Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,62 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "New M6 Macs buck Apple’s second wave of price hikes",
+      "url": "https://9to5mac.com/2026/10/27/new-m6-macs-buck-apples-second-wave-of-price-hikes/",
+      "pubDate": "2026-10-28T02:09:46.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple wins expanded access to evidence in OpenAI trade secrets lawsuit",
+      "url": "https://9to5mac.com/2026/10/27/apple-wins-expanded-access-to-evidence-in-openai-trade-secrets-lawsuit/",
+      "pubDate": "2026-10-28T00:54:43.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple releases two new real-life Apple Watch stories, including a life-saving alert",
+      "url": "https://9to5mac.com/2026/10/27/apple-releases-two-new-real-life-apple-watch-stories-including-a-life-saving-alert/",
+      "pubDate": "2026-10-28T00:10:09.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: October 27, 2026 – Apple announces new iMac, MacBook Pro with M6",
+      "url": "https://9to5mac.com/2026/10/27/daily-october-27-2026/",
+      "pubDate": "2026-10-28T00:01:52.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "As expected, you're going to pay a lot if you want a touchscreen MacBook Pro",
+      "url": "https://appleinsider.com/articles/26/10/27/as-expected-youre-going-to-pay-a-lot-if-you-want-a-touchscreen-macbook-pro?utm_source=rss",
+      "pubDate": "2026-10-27T23:54:31.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Shares New Apple Watch Survival Stories",
+      "url": "https://www.macrumors.com/2026/10/27/apple-watch-survival-stories/",
+      "pubDate": "2026-10-27T23:20:22.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Shares tvOS 27.2 Release Notes With List of New Features",
+      "url": "https://www.macrumors.com/2026/10/27/apple-tv-tvos-27-2-release-notes/",
+      "pubDate": "2026-10-27T23:16:30.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Here’s why the iPhone Duo’s hinge could be cracking the screen",
+      "url": "https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge",
+      "pubDate": "2026-10-27T22:55:05.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -136,39 +192,11 @@
       "pubDate": "2026-10-27T19:03:04.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Copilot Money gets even better with new AI-powered Money Assistant",
-      "url": "https://9to5mac.com/2026/10/27/copilot-money-gets-even-better-with-new-ai-powered-money-assistant/",
-      "pubDate": "2026-10-27T19:00:35.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Astropad Workbench 1.4 adds terminal access, iPhone Duo support, and more",
-      "url": "https://9to5mac.com/2026/10/27/astropad-workbench-1-4-adds-terminal-access-iphone-duo-support-and-more/",
-      "pubDate": "2026-10-27T18:29:50.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Trump is making it easier for fossil fuel companies to leak methane",
       "url": "https://www.theverge.com/policy/1019691/gas-leak-methane-rule-rollback-trump",
       "pubDate": "2026-10-27T18:25:13.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27.2 has two CarPlay improvements, here’s what’s new",
-      "url": "https://9to5mac.com/2026/10/27/ios-27-2-has-two-carplay-improvements-heres-whats-new/",
-      "pubDate": "2026-10-27T18:20:40.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iCloud Mail and Calendar plugins now work with ChatGPT",
-      "url": "https://9to5mac.com/2026/10/27/icloud-mail-and-calendar-plugins-now-work-with-chatgpt/",
-      "pubDate": "2026-10-27T18:20:35.000Z"
     },
     {
       "source": "AppleInsider",
@@ -276,13 +304,6 @@
       "pubDate": "2026-10-27T16:02:43.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Google’s next Genie AI model generates more realistic experiences",
-      "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
-      "pubDate": "2026-10-27T16:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "M5 vs. M6 MacBook Pro Buyer's Guide: All Differences Compared",
@@ -344,27 +365,6 @@
       "title": "Banktivity Offers 30% Off First Year Subscriptions for MacRumors Readers",
       "url": "https://www.macrumors.com/2026/10/27/banktivity-30-off-first-year/",
       "pubDate": "2026-10-27T14:25:46.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "New iMac keeps old design but adds M6 processor",
-      "url": "https://appleinsider.com/articles/26/10/27/new-imac-keeps-old-design-but-adds-m6-processor-and-new-colors?utm_source=rss",
-      "pubDate": "2026-10-27T14:17:09.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "M6 MacBook Pro's 170GB/s Memory Bandwidth Skips Base 16GB Model",
-      "url": "https://www.macrumors.com/2026/10/27/m6-14-inch-macbook-pro-memory-bandwidth-split/",
-      "pubDate": "2026-10-27T13:55:55.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "M6 iMac Pre-Orders and Release Date Announced",
-      "url": "https://www.macrumors.com/2026/10/27/m6-imac-pre-orders-release-date/",
-      "pubDate": "2026-10-27T13:44:03.000Z"
     },
     {
       "source": "AppleInsider",
