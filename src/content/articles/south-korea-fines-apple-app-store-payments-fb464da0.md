@@ -1,7 +1,7 @@
 ---
 title: "South Korea Fines Apple About $15 Million Over App Store Payments and Review Delays. Apple Says It Disagrees."
 description: "Korea's media regulator fined Apple 20.81 billion won and Google 42.9 billion won over in-app payment rules and slow app reviews, and ordered fixes. Here's what it means."
-pubDate: 2026-10-28T15:30:00.000Z
+pubDate: 2026-10-28T15:15:00.000Z
 draft: false
 author: "Inside Cupertino"
 tags:
