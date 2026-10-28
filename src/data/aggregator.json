@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T02:17:29.687Z",
+  "generatedAt": "2026-10-28T09:42:36.197Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) Designed in California 15: Building the Band (Part 3, Origin of the iPod)",
+      "url": "https://sixcolors.com/podcast/2026/10/designed-in-california-15-building-the-band-part-3-origin-of-the-ipod/",
+      "pubDate": "2026-10-28T09:00:00.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -365,13 +372,6 @@
       "title": "Banktivity Offers 30% Off First Year Subscriptions for MacRumors Readers",
       "url": "https://www.macrumors.com/2026/10/27/banktivity-30-off-first-year/",
       "pubDate": "2026-10-27T14:25:46.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "M6 vs M4: How two years and two chip generations change Apple Silicon",
-      "url": "https://appleinsider.com/inside/apple-silicon/vs/m6-vs-m4-how-two-years-and-two-chip-generations-change-apple-silicon?utm_source=rss",
-      "pubDate": "2026-10-27T13:31:34.000Z"
     }
   ]
 }
