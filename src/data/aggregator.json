@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T16:08:52.404Z",
+  "generatedAt": "2026-10-29T21:08:43.244Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,18 +24,179 @@
   ],
   "items": [
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Joshua Kushner’s Thrive Holdings is acquiring ADT for $7.6 billion",
-      "url": "https://www.theverge.com/tech/1022295/joshua-kushner-thrive-holdings-adt-acquisition",
-      "pubDate": "2026-10-29T16:03:28.000Z"
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Strava adds Google Gemini integration with personalized workout insights",
+      "url": "https://9to5mac.com/2026/10/29/strava-adds-google-gemini-integration-with-personalized-workout-insights/",
+      "pubDate": "2026-10-29T21:06:35.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Reddit will soon require an account for most content",
+      "url": "https://9to5mac.com/2026/10/29/reddit-will-soon-require-an-account-for-most-content/",
+      "pubDate": "2026-10-29T20:49:53.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Executive Comments on New iPad Mini Lacking 120Hz Display",
+      "url": "https://www.macrumors.com/2026/10/29/apple-executive-on-ipad-mini-lacking-120hz/",
+      "pubDate": "2026-10-29T20:47:14.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple cuts App Store commission in Taiwan following regulatory discussions [U]",
+      "url": "https://9to5mac.com/2026/10/29/apple-cuts-app-store-commission-in-taiwan-following-regulatory-discussions/",
+      "pubDate": "2026-10-29T20:24:17.000Z"
     },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
-      "title": "Microsoft’s AI future has fewer jobs",
-      "url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
-      "pubDate": "2026-10-29T16:00:00.000Z"
+      "title": "Patrick Stewart has died at age 86",
+      "url": "https://www.theverge.com/news/1022626/patrick-stewart-star-trek-death",
+      "pubDate": "2026-10-29T20:10:02.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Reddit will force everyone to log in",
+      "url": "https://www.theverge.com/tech/1022571/reddit-login-requirement-q3-2026-earnings",
+      "pubDate": "2026-10-29T20:07:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Here's a Hands-On Look at HomePod Mini 2's New Two-Tone Colors",
+      "url": "https://www.macrumors.com/2026/10/29/homepod-mini-2-two-tone-colors/",
+      "pubDate": "2026-10-29T20:04:54.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Rivian’s R2 is officially its best-selling vehicle",
+      "url": "https://www.theverge.com/transportation/1022420/rivian-q3-earnings-r2-sales-volkswagen-software",
+      "pubDate": "2026-10-29T20:02:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple VP talks new iPad mini: OLED without ProMotion, Acoustic Display, more",
+      "url": "https://9to5mac.com/2026/10/29/apple-vp-talks-new-ipad-mini-oled-without-promotion-acoustic-display-more/",
+      "pubDate": "2026-10-29T19:49:38.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "GM to pay $220 million to resolve claims it sold driving habits data",
+      "url": "https://www.theverge.com/transportation/1022555/gm-data-privacy-attorneys-general-lawsuit",
+      "pubDate": "2026-10-29T19:19:28.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Lowers App Store Fees in Taiwan Starting October 31",
+      "url": "https://www.macrumors.com/2026/10/29/app-store-fees-taiwan/",
+      "pubDate": "2026-10-29T19:06:08.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "HomeView Pre-Order Returns to $289.99 on Amazon",
+      "url": "https://www.macrumors.com/2026/10/29/homeview-pre-order-289/",
+      "pubDate": "2026-10-29T18:55:04.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Avoids Showing Pinched Fingers on iPad Mini Page in South Korea",
+      "url": "https://www.macrumors.com/2026/10/29/apple-avoids-pinched-finges-for-ipad-mini-korea/",
+      "pubDate": "2026-10-29T18:52:30.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "You can generate and edit Google Docs files directly in Gemini chats now",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+      "pubDate": "2026-10-29T18:45:31.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Ikea&#8217;s colorful donut-shaped smart lamp is $20 off",
+      "url": "https://www.theverge.com/gadgets/1022440/ikea-varmblixt-smart-lamp-deal-sale",
+      "pubDate": "2026-10-29T18:18:36.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27.2 adds new video feature that’s perfect for iPhone Duo",
+      "url": "https://9to5mac.com/2026/10/29/ios-27-2-adds-new-video-feature-thats-perfect-for-iphone-duo/",
+      "pubDate": "2026-10-29T18:00:43.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Apple’s new laptop supports one of the coolest features for color pros",
+      "url": "https://www.theverge.com/1022347/apple-macbook-supports-new-cmf",
+      "pubDate": "2026-10-29T17:48:09.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Utah charges Kalshi and its CEO with illegally promoting online gambling",
+      "url": "https://www.theverge.com/policy/1022400/utah-kalshi-criminal-charges",
+      "pubDate": "2026-10-29T17:40:23.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Old 'Popcorn Time' App Left Hundreds of Thousands of Macs at Risk",
+      "url": "https://www.macrumors.com/2026/10/29/old-popcorn-time-app-macs-at-risk/",
+      "pubDate": "2026-10-29T17:12:59.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Data centers could send US climate pollution skyrocketing",
+      "url": "https://www.theverge.com/science/1022258/data-centers-climate-change-carbon-dioxide-pollution-gas",
+      "pubDate": "2026-10-29T17:10:46.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple says it’s ‘only getting started’ updating macOS for touchscreens",
+      "url": "https://9to5mac.com/2026/10/29/apple-says-its-only-getting-started-updating-macos-for-touchscreens/",
+      "pubDate": "2026-10-29T17:01:44.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "You Can Turn Off the New MacBook Pro's Touchscreen Functionality",
+      "url": "https://www.macrumors.com/2026/10/29/macbook-pro-touch-input-can-be-turned-off/",
+      "pubDate": "2026-10-29T16:58:40.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "DoorDash to buy Instacart for $17 billion, slashing user options",
+      "url": "https://appleinsider.com/articles/26/10/29/doordash-to-buy-instacart-for-17-billion-slashing-user-options?utm_source=rss",
+      "pubDate": "2026-10-29T16:51:46.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "10 Apps to show off your new iPhone Duo's foldable features",
+      "url": "https://appleinsider.com/articles/26/10/29/10-apps-to-show-off-your-new-iphone-duos-foldable-features?utm_source=rss",
+      "pubDate": "2026-10-29T16:25:42.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "This open-source project lets you sync Withings data to other apps without a subscription",
+      "url": "https://www.theverge.com/tech/1022214/yourownweigh-sync-withings-smart-scale-data-wireless-web-app-free",
+      "pubDate": "2026-10-29T16:14:06.000Z"
     },
     {
       "source": "MacRumors",
@@ -73,13 +234,6 @@
       "pubDate": "2026-10-29T15:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The NYT Cooking app is testing AI recipe modifications",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
-      "pubDate": "2026-10-29T14:39:37.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "When to expect your pre-ordered Apple devices to ship",
@@ -94,32 +248,11 @@
       "pubDate": "2026-10-29T14:35:15.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "There’s one week left to preorder the Ocarina of Time remake for $10 off",
-      "url": "https://www.theverge.com/gadgets/1022103/ocarina-of-time-remake-apple-mac-mini-ssd-hdmi-dock-deal-sale",
-      "pubDate": "2026-10-29T14:24:45.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "iOS 27.2 gives Shortcuts app these new and improved features",
       "url": "https://9to5mac.com/2026/10/29/ios-27-2-gives-shortcuts-app-these-new-and-improved-features/",
       "pubDate": "2026-10-29T14:16:33.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Anthropic is asking Wall Street to believe in AGI",
-      "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
-      "pubDate": "2026-10-29T14:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Amazon’s AI shopping assistant can now edit your grocery lists and gift registries",
-      "url": "https://www.theverge.com/tech/1022140/amazon-alexa-for-shopping-grocery-lists-gift-registries",
-      "pubDate": "2026-10-29T13:52:48.000Z"
     },
     {
       "source": "AppleInsider",
@@ -141,27 +274,6 @@
       "title": "Typo found on 42-year-old spaceship ↦",
       "url": "https://sixcolors.com/link/2026/10/typo-found-on-42-year-old-spaceship/",
       "pubDate": "2026-10-29T13:40:40.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "This $149 digital candle uses AI to accurately simulate a flickering flame",
-      "url": "https://www.theverge.com/tech/1022113/kevin-bates-arduboy-digital-candle-ai-simulate-flame",
-      "pubDate": "2026-10-29T13:37:56.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Anthropic’s business plan: Build God or die trying",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
-      "pubDate": "2026-10-29T13:30:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple finally combined a toaster and a refrigerator",
-      "url": "https://www.theverge.com/report/1022013/apple-touchscreen-macbook-pro-toaster-refrigerator",
-      "pubDate": "2026-10-29T13:21:02.000Z"
     },
     {
       "source": "MacRumors",
@@ -199,20 +311,6 @@
       "pubDate": "2026-10-29T12:14:11.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "DoorDash is acquiring Instacart for $17 billion",
-      "url": "https://www.theverge.com/business/1021981/doordash-instacart-acquisition-announcement",
-      "pubDate": "2026-10-29T11:56:35.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple seems to have the right approach to the first touchscreen Mac",
-      "url": "https://9to5mac.com/2026/10/29/apple-seems-to-have-the-right-approach-to-the-first-touchscreen-mac/",
-      "pubDate": "2026-10-29T11:48:10.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Russia orders Apple to surrender users' messages on demand",
@@ -227,25 +325,11 @@
       "pubDate": "2026-10-29T11:22:48.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "You can now spend between $1,999 and $14,549 on a MacBook Pro",
-      "url": "https://9to5mac.com/2026/10/29/you-can-now-spend-between-1999-and-14549-on-a-macbook-pro/",
-      "pubDate": "2026-10-29T10:55:25.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Just Got an iPhone Duo? Try These Features First",
       "url": "https://www.macrumors.com/guide/iphone-duo-new-features-to-try-first/",
       "pubDate": "2026-10-29T10:53:27.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Announced Scott Forstall's Departure 14 Years Ago Today",
-      "url": "https://www.macrumors.com/2026/10/29/apple-scott-forstalls-departure-14-years-ago-today/",
-      "pubDate": "2026-10-29T10:23:39.000Z"
     },
     {
       "source": "AppleInsider",
@@ -255,41 +339,6 @@
       "pubDate": "2026-10-29T01:42:33.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Russia now requires Apple to store user communications and hand them over if requested",
-      "url": "https://9to5mac.com/2026/10/28/russia-now-requires-apple-to-store-user-communications-and-hand-them-over-if-requested/",
-      "pubDate": "2026-10-29T01:24:17.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple and OpenAI trade secrets lawsuit now has an official trial date",
-      "url": "https://9to5mac.com/2026/10/28/apple-and-openai-trade-secrets-lawsuit-now-has-an-official-trial-date/",
-      "pubDate": "2026-10-29T00:17:48.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Best Buy Opens Pre-Orders for PROLED XDR MacBook Pro With $100 Bonus Gift Cards",
-      "url": "https://www.macrumors.com/2026/10/28/best-buy-proled-xdr-macbook-pro-gift-cards/",
-      "pubDate": "2026-10-28T23:04:16.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Here's Everything Apple Announced This Week",
-      "url": "https://www.macrumors.com/2026/10/28/apple-announcements-october-2026/",
-      "pubDate": "2026-10-28T22:45:11.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone Duo could capture nearly 30% of foldable market in 2027, per report",
-      "url": "https://9to5mac.com/2026/10/28/iphone-duo-could-capture-nearly-30-of-foldable-market-in-2027-per-report/",
-      "pubDate": "2026-10-28T22:40:45.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "‘A Mac for the iPad Generation’ ↦",
@@ -297,46 +346,11 @@
       "pubDate": "2026-10-28T22:37:18.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Here's a Real-World Look at the New MacBook Pro's Glowing Apple Logo",
-      "url": "https://www.macrumors.com/2026/10/28/macbook-pro-glowing-apple-logo/",
-      "pubDate": "2026-10-28T22:24:25.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "New MacBook Pro, iPad mini, and more now available for pre-order on Amazon",
-      "url": "https://9to5mac.com/2026/10/28/new-macbook-pro-ipad-mini-and-more-now-available-for-pre-order-on-amazon/",
-      "pubDate": "2026-10-28T22:12:39.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Rian Johnson's Chromagraph Camera app brings his cinematic style to your iPhone photos",
       "url": "https://appleinsider.com/articles/26/10/28/rian-johnsons-chromagraph-camera-app-brings-his-cinematic-style-to-your-iphone-photos?utm_source=rss",
       "pubDate": "2026-10-28T22:05:40.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "How Accurate Were Rumors About Apple's OLED Touchscreen MacBook Pro?",
-      "url": "https://www.macrumors.com/2026/10/28/macbook-pro-touchscreen-rumors/",
-      "pubDate": "2026-10-28T22:04:52.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Has 8 New Products Available for Pre-Order",
-      "url": "https://www.macrumors.com/2026/10/28/apple-8-new-products-available-for-pre-order/",
-      "pubDate": "2026-10-28T20:45:26.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iPhone Duo: Turn the Hinge Into an App Launcher",
-      "url": "https://www.macrumors.com/how-to/iphone-duo-app-launch-on-open/",
-      "pubDate": "2026-10-28T20:27:24.000Z"
     },
     {
       "source": "AppleInsider",
@@ -358,20 +372,6 @@
       "title": "AirTag lawsuit challenges how easily tracking alerts can be disabled",
       "url": "https://appleinsider.com/articles/26/10/28/airtag-lawsuit-challenges-how-easily-tracking-alerts-can-be-disabled?utm_source=rss",
       "pubDate": "2026-10-28T19:47:01.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "It was the right time to add touch to the MacBook Pro, says John Ternus",
-      "url": "https://appleinsider.com/articles/26/10/28/it-was-the-right-time-to-add-touch-to-the-macbook-pro-says-john-ternus?utm_source=rss",
-      "pubDate": "2026-10-28T19:45:35.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "How macOS is changing on touchscreens beyond Sidecar, but only a bit",
-      "url": "https://appleinsider.com/articles/26/10/28/how-macos-is-changing-on-touchscreens-beyond-sidecar-but-only-a-bit?utm_source=rss",
-      "pubDate": "2026-10-28T19:13:18.000Z"
     }
   ]
 }
