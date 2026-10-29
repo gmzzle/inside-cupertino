@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T21:40:11.735Z",
+  "generatedAt": "2026-10-29T01:48:29.151Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,6 +24,104 @@
   ],
   "items": [
     {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple and OpenAI won't face off over trade secrets until July 2027",
+      "url": "https://appleinsider.com/articles/26/10/29/apple-and-openai-wont-face-off-over-trade-secrets-until-july-2027?utm_source=rss",
+      "pubDate": "2026-10-29T01:42:33.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Russia now requires Apple to store user communications and hand them over if requested",
+      "url": "https://9to5mac.com/2026/10/28/russia-now-requires-apple-to-store-user-communications-and-hand-them-over-if-requested/",
+      "pubDate": "2026-10-29T01:24:17.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple and OpenAI trade secrets lawsuit now has an official trial date",
+      "url": "https://9to5mac.com/2026/10/28/apple-and-openai-trade-secrets-lawsuit-now-has-an-official-trial-date/",
+      "pubDate": "2026-10-29T00:17:48.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+      "pubDate": "2026-10-28T23:05:39.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Best Buy Opens Pre-Orders for PROLED XDR MacBook Pro With $100 Bonus Gift Cards",
+      "url": "https://www.macrumors.com/2026/10/28/best-buy-proled-xdr-macbook-pro-gift-cards/",
+      "pubDate": "2026-10-28T23:04:16.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Here's Everything Apple Announced This Week",
+      "url": "https://www.macrumors.com/2026/10/28/apple-announcements-october-2026/",
+      "pubDate": "2026-10-28T22:45:11.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone Duo could capture nearly 30% of foldable market in 2027, per report",
+      "url": "https://9to5mac.com/2026/10/28/iphone-duo-could-capture-nearly-30-of-foldable-market-in-2027-per-report/",
+      "pubDate": "2026-10-28T22:40:45.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "‘A Mac for the iPad Generation’ ↦",
+      "url": "https://sixcolors.com/link/2026/10/an-ipad-for-the-mac-generation/",
+      "pubDate": "2026-10-28T22:37:18.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Here's a Real-World Look at the New MacBook Pro's Glowing Apple Logo",
+      "url": "https://www.macrumors.com/2026/10/28/macbook-pro-glowing-apple-logo/",
+      "pubDate": "2026-10-28T22:24:25.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "New MacBook Pro, iPad mini, and more now available for pre-order on Amazon",
+      "url": "https://9to5mac.com/2026/10/28/new-macbook-pro-ipad-mini-and-more-now-available-for-pre-order-on-amazon/",
+      "pubDate": "2026-10-28T22:12:39.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Rian Johnson's Chromagraph Camera app brings his cinematic style to your iPhone photos",
+      "url": "https://appleinsider.com/articles/26/10/28/rian-johnsons-chromagraph-camera-app-brings-his-cinematic-style-to-your-iphone-photos?utm_source=rss",
+      "pubDate": "2026-10-28T22:05:40.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "How Accurate Were Rumors About Apple's OLED Touchscreen MacBook Pro?",
+      "url": "https://www.macrumors.com/2026/10/28/macbook-pro-touchscreen-rumors/",
+      "pubDate": "2026-10-28T22:04:52.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "A hacker stole more than 40,000 DHS employee records",
+      "url": "https://www.theverge.com/tech/1021528/ice-cbp-data-leak",
+      "pubDate": "2026-10-28T21:57:45.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple fined $15.5 million as South Korea orders changes to App Store rules",
+      "url": "https://9to5mac.com/2026/10/28/apple-fined-15-5-million-as-south-korea-orders-changes-to-app-store-rules/",
+      "pubDate": "2026-10-28T21:44:56.000Z"
+    },
+    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Akai is embracing vibe-coded mods with an open-source MPC",
@@ -47,7 +145,7 @@
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
-      "title": "Reminder: Apple Has 8 New Products Available for Pre-Order",
+      "title": "Apple Has 8 New Products Available for Pre-Order",
       "url": "https://www.macrumors.com/2026/10/28/apple-8-new-products-available-for-pre-order/",
       "pubDate": "2026-10-28T20:45:26.000Z"
     },
@@ -178,13 +276,6 @@
       "pubDate": "2026-10-28T19:06:55.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Brendan Carr plans to let prisons jam cellphone signals",
-      "url": "https://www.theverge.com/policy/1021165/fcc-brendan-carr-prison-phone-jamming",
-      "pubDate": "2026-10-28T18:57:02.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Download the new MacBook Pro with PROLED XDR Display wallpaper",
@@ -204,13 +295,6 @@
       "title": "PROLED 16-inch MacBook Pro vs 16-inch MacBook Pro: Compared",
       "url": "https://appleinsider.com/inside/16-inch-macbook-pro/vs/proled-16-inch-macbook-pro-vs-16-inch-macbook-pro-compared?utm_source=rss",
       "pubDate": "2026-10-28T18:48:30.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Microsoft is ending Copilot support on smart TVs",
-      "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
-      "pubDate": "2026-10-28T18:36:26.000Z"
     },
     {
       "source": "AppleInsider",
@@ -248,20 +332,6 @@
       "pubDate": "2026-10-28T18:15:27.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple updates Design Resources portal with assets for the new touchscreen MacBook Pro",
-      "url": "https://9to5mac.com/2026/10/28/apple-updates-design-resources-portal-with-assets-for-the-new-touchscreen-macbook-pro/",
-      "pubDate": "2026-10-28T18:14:45.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "MacBook Pro with PROLED XDR vs MacBook Pro: Here’s every difference",
-      "url": "https://9to5mac.com/2026/10/28/macbook-pro-with-proled-xdr-vs-macbook-pro-heres-every-difference/",
-      "pubDate": "2026-10-28T18:06:03.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "New MacBook Pro Features Deeper Bass and Improved Closed-Lid Audio",
@@ -274,27 +344,6 @@
       "title": "Quick thoughts about the new MacBook Pro",
       "url": "https://sixcolors.com/post/2026/10/quick-thoughts-about-the-new-macbook-pro/",
       "pubDate": "2026-10-28T17:58:39.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "New MacBook Pro Offers Up to 16TB of Storage, Double Previous Limit",
-      "url": "https://www.macrumors.com/2026/10/28/new-macbook-pro-offers-up-to-16tb/",
-      "pubDate": "2026-10-28T17:52:44.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple's New Touchscreen MacBook Pro Costs Up to $14,549",
-      "url": "https://www.macrumors.com/2026/10/28/new-macbook-pro-maxed-out-cost/",
-      "pubDate": "2026-10-28T17:46:38.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple reveals pricing for Mac Studio with 512GB of RAM",
-      "url": "https://9to5mac.com/2026/10/28/apple-reveals-pricing-for-mac-studio-with-512gb-of-ram/",
-      "pubDate": "2026-10-28T17:40:07.000Z"
     },
     {
       "source": "AppleInsider",
@@ -311,34 +360,6 @@
       "pubDate": "2026-10-28T17:38:42.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Brings Dynamic Island to Mac for the First Time",
-      "url": "https://www.macrumors.com/2026/10/28/apple-brings-dynamic-island-to-mac/",
-      "pubDate": "2026-10-28T17:28:03.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Watch Apple’s promo video for the new MacBook Pro with PROLED XDR Display",
-      "url": "https://9to5mac.com/2026/10/28/watch-apples-promo-video-for-the-new-macbook-pro-with-proled-xdr-display/",
-      "pubDate": "2026-10-28T17:27:46.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Mac Studio With M5 Ultra Now Available With 512GB RAM for $22,299",
-      "url": "https://www.macrumors.com/2026/10/28/mac-studio-m5-ultra-512gb-ram/",
-      "pubDate": "2026-10-28T17:26:32.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple announces all-new MacBook Pro with PROLED XDR display, its first touchscreen Mac",
-      "url": "https://9to5mac.com/2026/10/28/apple-announces-redesigned-macbook-pro-its-first-touchscreen-mac/",
-      "pubDate": "2026-10-28T17:06:48.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "(Podcast) Clockwise 680: A Sick, Twisted Kind of Joy",
@@ -351,27 +372,6 @@
       "title": "Sonnet's new Echo SE III T5 PCI-E enclosure cuts both card size, and cost",
       "url": "https://appleinsider.com/articles/26/10/28/sonnets-new-echo-se-iii-t5-pci-e-enclosure-cuts-both-card-size-and-cost?utm_source=rss",
       "pubDate": "2026-10-28T16:07:14.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "MacBook Neo gets a price hike for education customers",
-      "url": "https://appleinsider.com/articles/26/10/28/macbook-neo-gets-a-price-hike-for-education-customers?utm_source=rss",
-      "pubDate": "2026-10-28T15:48:44.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "M6 Mac mini with 24GB RAM drops to $1,179, but supply is limited",
-      "url": "https://appleinsider.com/articles/26/10/28/m6-mac-mini-with-24gb-ram-drops-to-1179-but-supply-is-limited?utm_source=rss",
-      "pubDate": "2026-10-28T15:08:41.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) Designed in California 15: Building the Band (Part 3, Origin of the iPod)",
-      "url": "https://sixcolors.com/podcast/2026/10/designed-in-california-15-building-the-band-part-3-origin-of-the-ipod/",
-      "pubDate": "2026-10-28T09:00:00.000Z"
     }
   ]
 }
