@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T01:48:29.151Z",
+  "generatedAt": "2026-10-29T08:31:15.088Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
+      "url": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
+      "pubDate": "2026-10-29T02:22:46.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -253,13 +260,6 @@
       "title": "Best Buy Offering Up to $100 Gift Cards With iPad Mini 8 and M6 MacBook Pro Pre-Orders",
       "url": "https://www.macrumors.com/2026/10/28/best-buy-gift-cards-ipad-macbook/",
       "pubDate": "2026-10-28T19:19:45.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Hands-on with the new OLED iPad Mini",
-      "url": "https://www.theverge.com/tech/1017932/hands-on-ipad-mini-8th-generation-pro-and-tell",
-      "pubDate": "2026-10-28T19:18:58.000Z"
     },
     {
       "source": "AppleInsider",
