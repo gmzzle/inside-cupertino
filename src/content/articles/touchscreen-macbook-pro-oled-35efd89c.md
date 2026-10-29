@@ -1,52 +1,56 @@
 ---
-title: "Apple Says There Will Be iPhone Duos to Walk In and Buy Friday. Just Not Many."
-description: "Apple confirms limited walk-in iPhone Duo stock on Oct. 23 in the U.S., Canada, the U.K. and 11 other countries, and none in 10 others. Here's how to play it."
+title: "Apple's First Touchscreen Mac Is a $2,899 MacBook Pro With OLED. It Ships November 6."
+description: "Apple's new MacBook Pro brings touch, a tandem OLED screen and a Dynamic Island to the Mac, with M5 Pro or M5 Max. It costs $900 more than the M6 model. Here's who it's for."
 pubDate: 2026-10-29T15:10:00.000Z
 draft: false
 author: "Inside Cupertino"
 tags:
-  - iphone
-  - iphone-duo
-  - apple-retail
-  - foldable
-  - supply-chain
+  - macbook-pro
+  - mac
+  - oled
+  - touchscreen
+  - macos-27
 source:
-  name: "MacRumors"
-  url: "https://www.macrumors.com/2026/10/21/apple-stores-limited-iphone-duo-for-walk-in/"
-heroImage: "https://images.unsplash.com/photo-1512054502232-10a0a035d672?w=1600&q=80&auto=format&fit=crop"
-heroAlt: "A black iPhone lies face-up on a white desk next to a succulent, a camera lens, a laptop with AirPods and a mug"
+  name: "Apple Newsroom"
+  url: "https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/"
+heroImage: "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=1600&q=80&auto=format&fit=crop"
+heroAlt: "An open silver MacBook showing a blue desert-dune wallpaper, sitting on a wooden desk against a plain white wall"
 ---
 
-Last week we told you not to line up for an iPhone Duo on Friday without a preorder, because Apple's own store staff were reportedly saying there would be nothing to sell. Apple has now spoken for itself, and the answer is a bit better than that. There will be Duos for walk-in buyers on launch day. There just won't be many.
+It finally happened. At its "Pro and tell" event in Los Angeles on Wednesday, Apple announced the **MacBook Pro with PROLED XDR Display**, the first Mac you can touch. "Yes, for the very first time, we are bringing touch to the Mac," CEO John Ternus told media and analysts at the event, [per CNBC](https://www.cnbc.com/2026/10/28/apple-mac-touchscreen-launch.html).
 
-In a statement to [MacRumors](https://www.macrumors.com/2026/10/21/apple-stores-limited-iphone-duo-for-walk-in/) on **Wednesday, October 21**, an Apple spokesperson said Apple Stores "will have limited iPhone Duo available for walk-in customers" when the foldable launches on **Friday, October 23**. Apple added that because preorder demand has been "extraordinary," it expects that stock to sell out quickly. [Reuters](https://www.theverge.com/tech/1015372/apple-says-it-only-has-limited-iphone-duo-units-for-in-store-sales) reported the same "limited" message, as The Verge noted.
+Pre-orders opened yesterday, and the machines arrive in customers' hands and stores on **Friday, November 6**. The catch is the price.
 
-That's the first time Apple has said publicly that any of its stores will sell a Duo off the shelf on day one. It also quietly corrects the [staff warnings](/articles/iphone-duo-no-walk-in-stock-launch-day-b34f6ae2/) MacRumors reported on October 17, which told shoppers to expect no walk-in stock at all.
+## What it costs
 
-## Where you can walk in, and where you can't
+According to [Apple's press release](https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/):
 
-Apple split the launch into three groups, per MacRumors:
+- **14-inch, M5 Pro:** from $2,899
+- **16-inch, M5 Pro:** from $3,399
+- **14-inch, M5 Max:** from $4,499
+- **16-inch, M5 Max:** from $4,799
 
-- **Limited walk-in stock:** the U.S., Canada, the U.K., Australia, Austria, Belgium, Germany, Mexico, the Netherlands, Singapore, Spain, Sweden, Switzerland and Türkiye. Some stores in **Italy** will have walk-in units too, though Apple didn't say which.
-- **Walk-in only, and only on launch day:** **Macao**, with limited inventory.
-- **No walk-in sales on launch day:** France, mainland China, Hong Kong, India, Japan, Malaysia, South Korea, Taiwan, Thailand and the United Arab Emirates. In those places you'll need a pickup reservation for a set time slot through Apple's online store.
+That's before any memory or storage upgrades. For comparison, the M6 14-inch MacBook Pro [Apple announced on Tuesday](/articles/m6-macbook-pro-imac-preorders-45bca586/) holds at $1,999, so touch and OLED add about $900 to the entry price. Note too that the touch models use **M5 Pro and M5 Max**, not the newer M6, as [The Verge points out](https://www.theverge.com/gadgets/1019554/apple-touchscreen-macbook-pro-and-tell).
 
-The no-walk-in list is longer than it was on Monday, when Apple's local sites in [Japan, South Korea and the UAE](https://www.macrumors.com/2026/10/19/apple-says-no-iphone-duo-walk-ins-japan-korea/) first posted reservation-only notices. Apple often limits walk-ins at big launches to control crowds and slow down scalpers, and France and China joining the list fits that pattern.
+## How touch works
 
-## Why "limited" is doing a lot of work
+Apple built the touch sensor into the display panel itself rather than layering it on top, which it says cuts latency. You can swipe to scroll, pinch to zoom, drag slides between presentations, double-tap a window to fill the screen, or flick it to tile. A redesigned hinge is meant to keep the screen steady when you poke it.
 
-Apple hasn't said how many units any store will get, and it's not hard to guess why. Within 30 minutes of preorders opening on October 16, every U.S. configuration on Apple's online store [slipped to a January 25 ship date](/articles/iphone-duo-backordered-january-25-3e9d1b60/). The online store still tells people to check back on **Saturday, October 24** for in-store pickup reservations, so it's unclear whether you'll be able to reserve a pickup on Friday at all.
+It's still a regular laptop running macOS 27, not a 2-in-1. [Ars Technica](https://arstechnica.com/apple/2026/10/apple-announces-touchscreen-macbook-pro-with-oled-display/) notes that all of Apple's demo footage showed people reaching up to the screen in a normal laptop position. Many existing apps work with touch right away because macOS translates taps into clicks, and Apple says Microsoft Office, Zoom, Notion, Canva, Lightroom, DaVinci Resolve and Blender are among the third-party apps adding proper touch support later this year.
 
-Put another way: stores will be full of Duos on Friday, but most of them will be the [demo units](/articles/iphone-duo-demo-units-limited-supply-ea942f2e/) bolted to the tables. The boxes in the back are the scarce part.
+## The rest of the spec sheet
 
-## One more launch-week detail: Reachability is coming
+- **PROLED XDR display:** a tandem OLED panel with up to 2,000 nits peak brightness for both HDR and SDR, a 10,000,000:1 contrast ratio, 120Hz ProMotion, and P3 plus Adobe RGB color. The 16-inch screen grows to 16.3 inches, and the 14-inch is 14.2 inches.
+- **Dynamic Island on the Mac:** it holds Spotlight, Live Activities and Siri AI. Spotlight only moves there if Siri AI is enabled.
+- **Lighter and thinner:** the 14-inch weighs 3 pounds (half a pound less) and the 16-inch weighs 4 pounds (0.7 pounds less).
+- **Battery and storage:** Apple claims up to 24 hours of battery life, up to 128GB of unified memory and up to 16TB of storage.
+- **Ports:** three Thunderbolt 5, HDMI, SDXC, MagSafe and a headphone jack.
+- The glowing Apple logo on the lid is back, [The Verge reports](https://www.theverge.com/gadgets/1019554/apple-touchscreen-macbook-pro-and-tell).
 
-Separately, Apple plans to add **Reachability** to the iPhone Duo in a software update later this year, according to WIRED's Julian Chokkattu, as [MacRumors](https://www.macrumors.com/2026/10/21/iphone-duo-reachability-later-this-year/) reported. That's the gesture where you swipe down at the bottom of the screen to pull the top half of the interface within reach of your thumb. The report didn't say whether it will work on the outer screen, the inner screen or both. Still, it's a sign Apple knows one-handed use on a phone this size needs work, and that the Duo you buy Friday will keep changing after you get it home.
+## Who should buy it
 
-## What this means
+This is a pro machine priced like one. If you're a photographer, colorist or video editor, the OLED panel and Adobe RGB support are the real reason to buy, and touch is a bonus. If you just want a fast MacBook Pro, the $1,999 M6 model is the better value and has a newer chip.
 
-- **If you're in the U.S., Canada or the U.K., showing up early could pay off.** It's now a real option, not a wasted trip. Just expect stock to be gone fast, and probably to be thinnest at smaller stores.
-- **If you're in France, China, Japan, Korea or the other reservation-only markets, don't line up.** Watch Apple's online store for pickup time slots instead.
-- **Be flexible on configuration.** Two colors across several storage tiers means stock is split into small pools. Taking what's there beats waiting for the exact model you wanted.
-- **Keep checking Saturday.** October 24 pickup availability will be the first real read on how much inventory Apple's stores are getting after launch day.
-- **Skip the resellers.** Apple is still taking online orders, and a January date at retail price beats a scalper markup.
+The bigger question is whether touch will matter. [CNBC](https://www.cnbc.com/2026/10/28/apple-mac-touchscreen-launch.html) points out that touchscreens haven't historically sold laptops, so the outcome depends on how quickly developers build for it. Apple reversing a position it held for decades is a big deal either way. The early reviews should show whether the reversal was worth the wait.
+
+*Sources: [Apple Newsroom](https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/) (Oct. 28), [CNBC](https://www.cnbc.com/2026/10/28/apple-mac-touchscreen-launch.html) (Oct. 28), [The Verge](https://www.theverge.com/gadgets/1019554/apple-touchscreen-macbook-pro-and-tell) (Oct. 28), [Ars Technica](https://arstechnica.com/apple/2026/10/apple-announces-touchscreen-macbook-pro-with-oled-display/) (Oct. 28), [9to5Mac](https://9to5mac.com/2026/10/28/apple-announces-redesigned-macbook-pro-its-first-touchscreen-mac/) (Oct. 28).*
