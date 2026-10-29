@@ -1,7 +1,7 @@
 ---
 title: "Apple Says There Will Be iPhone Duos to Walk In and Buy Friday. Just Not Many."
 description: "Apple confirms limited walk-in iPhone Duo stock on Oct. 23 in the U.S., Canada, the U.K. and 11 other countries, and none in 10 others. Here's how to play it."
-pubDate: 2026-10-21T15:10:00.000Z
+pubDate: 2026-10-29T15:10:00.000Z
 draft: false
 author: "Inside Cupertino"
 tags:
