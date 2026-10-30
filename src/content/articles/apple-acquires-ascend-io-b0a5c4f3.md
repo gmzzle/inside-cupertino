@@ -1,7 +1,7 @@
 ---
 title: "Apple Quietly Bought Ascend.io, an AI Data Engineering Startup. The EU Made It Public."
 description: "An EU filing shows Apple struck an acquihire deal for Ascend.io in June: job offers, an IP license and some patents. Ascend builds AI agents that run data pipelines."
-pubDate: 2026-10-30T22:20:00.000Z
+pubDate: 2026-10-30T22:05:00.000Z
 draft: false
 author: "Inside Cupertino"
 tags:
