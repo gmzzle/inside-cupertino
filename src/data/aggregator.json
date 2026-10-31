@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T05:45:54.141Z",
+  "generatedAt": "2026-10-31T12:36:04.512Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,41 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Two years later, Apple Intelligence makes its way to China",
+      "url": "https://appleinsider.com/articles/26/10/31/two-years-later-apple-intelligence-makes-its-way-to-china?utm_source=rss",
+      "pubDate": "2026-10-31T12:15:10.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Touchscreens everywhere!",
+      "url": "https://www.theverge.com/tech/1023569/ipad-mini-alexa-photo-frame-readwise-installer",
+      "pubDate": "2026-10-31T12:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Here’s why you can&#8217;t shake those unhinged political texts",
+      "url": "https://www.theverge.com/policy/1023899/political-texts-midterm-elections",
+      "pubDate": "2026-10-31T12:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "'Pluribus' Season 2 Reportedly Starts Production Today",
+      "url": "https://www.macrumors.com/2026/10/31/pluribus-season-2-starts-production-today/",
+      "pubDate": "2026-10-31T06:41:45.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone 18 Pro Sales Surge in China, Offsetting Decline in U.S. and Japan",
+      "url": "https://www.macrumors.com/2026/10/31/iphone-18-pro-sales-surge-in-china/",
+      "pubDate": "2026-10-31T05:55:35.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -248,13 +283,6 @@
       "pubDate": "2026-10-30T17:04:16.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Vizio’s discounted Mini LED TV lets you skip the sign-ups and smarts",
-      "url": "https://www.theverge.com/gadgets/1022794/vizio-mini-led-quantum-tv-65-inch-walmart-deal-sale",
-      "pubDate": "2026-10-30T17:01:07.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "The MacRumors Show: OLED MacBook Pro, iPad Mini 8, and More",
@@ -304,13 +332,6 @@
       "pubDate": "2026-10-30T15:31:56.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Google’s latest Nest Learning Thermostat is $60 off just in time for sweater weather",
-      "url": "https://www.theverge.com/gadgets/1022819/google-nest-learning-thermostat-4th-gen-casio-ws-b1000-watch-deal-sale",
-      "pubDate": "2026-10-30T15:29:02.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "At launch, there were more iPhone Duo in stores than online",
@@ -318,25 +339,11 @@
       "pubDate": "2026-10-30T15:01:11.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Russia Places Apple on State Surveillance Registry",
-      "url": "https://www.macrumors.com/2026/10/30/apple-russian-state-surveillance-registry/",
-      "pubDate": "2026-10-30T14:58:16.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Amazon's AirTag 2 deal drops the 4-pack to record-low $69.99",
       "url": "https://appleinsider.com/articles/26/10/30/amazons-airtag-2-deal-drops-the-4-pack-to-record-low-6999?utm_source=rss",
       "pubDate": "2026-10-30T14:39:02.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Halloween Weekend Brings Discounts on Apple Accessories and Pre-Orders",
-      "url": "https://www.macrumors.com/2026/10/30/halloween-weekend-discounts/",
-      "pubDate": "2026-10-30T14:24:56.000Z"
     },
     {
       "source": "AppleInsider",
@@ -351,13 +358,6 @@
       "title": "iPhone Duo, iPad mini, and MacBook Pro on the AppleInsider Podcast",
       "url": "https://appleinsider.com/articles/26/10/30/iphone-duo-ipad-mini-and-macbook-pro-on-the-appleinsider-podcast?utm_source=rss",
       "pubDate": "2026-10-30T12:45:29.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Remember 'Glider?' You can play a pixel-perfect version in Safari now",
-      "url": "https://appleinsider.com/articles/26/10/30/remember-glider-you-can-play-a-pixel-perfect-version-in-safari-now?utm_source=rss",
-      "pubDate": "2026-10-30T12:00:37.000Z"
     },
     {
       "source": "Six Colors",
