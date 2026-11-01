@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T19:44:31.151Z",
+  "generatedAt": "2026-11-01T23:37:34.404Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,11 +24,25 @@
   ],
   "items": [
     {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "NASA hopes the commercial space industry can help save Hubble",
+      "url": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
+      "pubDate": "2026-11-01T21:09:21.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Flock keeps ignoring requests to cancel its contracts",
+      "url": "https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts",
+      "pubDate": "2026-11-01T19:58:02.000Z"
+    },
+    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "HomeView can behave like a HomeKit security camera",
       "url": "https://appleinsider.com/articles/26/11/01/homeview-can-behave-like-a-homekit-security-camera?utm_source=rss",
-      "pubDate": "2026-11-01T19:24:28.000Z"
+      "pubDate": "2026-11-01T19:53:41.000Z"
     },
     {
       "source": "MacRumors",
@@ -185,25 +199,11 @@
       "pubDate": "2026-10-31T19:30:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
-      "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
-      "pubDate": "2026-10-31T18:40:32.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "PSA: Today’s the last day to purchase discounted cushion kits for Beats 360",
       "url": "https://9to5mac.com/2026/10/31/last-day-to-purchase-discounted-beats-360-cushion-kits/",
       "pubDate": "2026-10-31T17:53:56.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Happy Pikmin Day Eve",
-      "url": "https://www.theverge.com/games/1024085/happy-pikmin-day-eve",
-      "pubDate": "2026-10-31T17:50:12.000Z"
     },
     {
       "source": "AppleInsider",
