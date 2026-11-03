@@ -1,7 +1,7 @@
 ---
 title: "Siri AI Won't Stay Unlimited. Apple Says Heavy Users Will Pay for More."
 description: "On Ternus' first earnings call, Apple confirmed usage limits for cloud-based Siri AI and photo tools, with paid expanded access coming. No price yet, but iCloud+ is the obvious home."
-pubDate: 2026-11-03T16:30:00.000Z
+pubDate: 2026-11-03T16:10:00.000Z
 draft: false
 author: "Inside Cupertino"
 tags:
