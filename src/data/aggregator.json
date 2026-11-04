@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T01:24:03.897Z",
+  "generatedAt": "2026-11-04T09:16:28.801Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,41 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "How to handle a water spill on your Mac before the damage gets worse",
+      "url": "https://appleinsider.com/inside/mac/tips/how-to-handle-a-water-spill-on-your-mac-before-the-damage-gets-worse?utm_source=rss",
+      "pubDate": "2026-11-04T03:57:44.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Golf comedy 'Stick' returns for season 2 on Apple TV",
+      "url": "https://appleinsider.com/articles/26/11/04/golf-comedy-stick-returns-for-season-2-on-apple-tv?utm_source=rss",
+      "pubDate": "2026-11-04T02:45:18.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "macOS 27.3 includes cool-looking ‘Pro’ screensaver from new touchscreen MacBook Pro",
+      "url": "https://9to5mac.com/2026/11/03/macos-27-3-includes-cool-looking-pro-screensaver-from-new-touchscreen-macbook-pro/",
+      "pubDate": "2026-11-04T02:43:07.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "‘Stick’ season 2 premieres on Apple TV",
+      "url": "https://9to5mac.com/2026/11/03/stick-season-2-premieres-on-apple-tv/",
+      "pubDate": "2026-11-04T02:01:01.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "AMD rides data center riches to &#8216;largest and most profitable&#8217; quarter in history",
+      "url": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
+      "pubDate": "2026-11-04T01:15:34.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -119,7 +154,7 @@
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iPhone Jailbreak Gets Past Lockdown Mode and Survives an Update",
       "url": "https://www.macrumors.com/2026/11/03/iphone-jailbreak-lockdown-mode/",
-      "pubDate": "2026-11-03T22:20:33.000Z"
+      "pubDate": "2026-11-03T22:20:26.000Z"
     },
     {
       "source": "AppleInsider",
@@ -206,13 +241,6 @@
       "pubDate": "2026-11-03T20:56:28.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Pixel Buds Pro 2 have returned to their lowest price to date",
-      "url": "https://www.theverge.com/gadgets/1025466/google-pixel-buds-pro-2-borderlands-goty-nintendo-switch-deal-sale",
-      "pubDate": "2026-11-03T20:29:26.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Veterans Day Apple Watch Activity Challenge Launches November 11",
@@ -269,13 +297,6 @@
       "pubDate": "2026-11-03T19:51:07.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "How to use iPhone Duo Reachability in iOS 27.3 beta",
-      "url": "https://appleinsider.com/articles/26/11/03/how-to-use-iphone-duo-reachability-in-ios-273-beta?utm_source=rss",
-      "pubDate": "2026-11-03T19:42:19.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Best Early Black Friday Mac Deals: Save Hundreds on MacBook Air, Mac Mini, and More",
@@ -290,13 +311,6 @@
       "pubDate": "2026-11-03T19:35:33.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27.3 brings Apple Intelligence features to China",
-      "url": "https://9to5mac.com/2026/11/03/ios-27-3-brings-apple-intelligence-features-to-china/",
-      "pubDate": "2026-11-03T19:31:26.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iOS 27.3 Adding New StandBy Mode Features to iPhone 11 and Newer",
@@ -309,13 +323,6 @@
       "title": "Apple Releases New AirPods Beta Firmware",
       "url": "https://www.macrumors.com/2026/11/03/airpods-beta-firmware-9b5045a/",
       "pubDate": "2026-11-03T19:29:37.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Developers can now create advanced ‘app skills’ for Siri AI",
-      "url": "https://9to5mac.com/2026/11/03/developers-can-now-create-advanced-app-skills-for-siri-ai/",
-      "pubDate": "2026-11-03T19:25:48.000Z"
     },
     {
       "source": "MacRumors",
@@ -337,13 +344,6 @@
       "title": "Siri AI Gets More Capable in iOS 27.3",
       "url": "https://www.macrumors.com/2026/11/03/ios-27-3-siri-ai/",
       "pubDate": "2026-11-03T19:06:26.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Bulk up with Apple Fitness+ new Gym Strength workout planner",
-      "url": "https://appleinsider.com/articles/26/11/03/bulk-up-with-apple-fitness-new-gym-strength-workout-planner?utm_source=rss",
-      "pubDate": "2026-11-03T18:58:54.000Z"
     },
     {
       "source": "Six Colors",
