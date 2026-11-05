@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T23:41:44.387Z",
+  "generatedAt": "2026-11-05T06:51:00.921Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,83 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Nintendo’s designers strove for ‘elegance’ when remaking Ocarina of Time",
+      "url": "https://www.theverge.com/games/1026380/zelda-ocarina-of-time-interview-eiji-aonuma-hidemaro-fujibayashi",
+      "pubDate": "2026-11-05T05:00:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "How to install macOS Tahoe on unsupported Macs",
+      "url": "https://appleinsider.com/articles/26/11/05/how-to-install-macos-tahoe-on-unsupported-macs?utm_source=rss",
+      "pubDate": "2026-11-05T04:02:52.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Labrinth promotes PROLED MacBook Pro with an all-night music-making stream",
+      "url": "https://appleinsider.com/articles/26/11/05/labrinth-promotes-proled-macbook-pro-with-an-all-night-music-making-stream?utm_source=rss",
+      "pubDate": "2026-11-05T02:24:42.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Livestream: Watch Labrinth create a song from scratch tonight using Apple’s new MacBook Pro",
+      "url": "https://9to5mac.com/2026/11/04/livestream-watch-labrinth-create-a-song-from-scratch-tonight-using-apples-new-macbook-pro/",
+      "pubDate": "2026-11-05T02:00:00.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Siri AI keeps on improving ↦",
+      "url": "https://sixcolors.com/link/2026/11/siri-ai-keeps-on-improving/",
+      "pubDate": "2026-11-05T01:12:18.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "X says its updated web app is way faster",
+      "url": "https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster",
+      "pubDate": "2026-11-05T00:25:12.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Hands on: Siri Recaps & Live Rewind are controversial & unnecessary technologies",
+      "url": "https://appleinsider.com/articles/26/11/05/hands-on-siri-recaps-live-rewind-are-controversial-unnecessary-technologies?utm_source=rss",
+      "pubDate": "2026-11-05T00:23:01.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Releases Safari Technology Preview 256 With Bug Fixes and Performance Improvements",
+      "url": "https://www.macrumors.com/2026/11/04/apple-releases-safari-technology-preview-256/",
+      "pubDate": "2026-11-05T00:21:48.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple now lets developers offer discounts when users move to cancel subscriptions",
+      "url": "https://9to5mac.com/2026/11/04/apple-now-lets-developers-offer-discounts-when-users-move-to-cancel-subscriptions/",
+      "pubDate": "2026-11-05T00:17:49.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Report: Apple and Samsung outperform rivals as smartphone chip shipments tumble 21%",
+      "url": "https://9to5mac.com/2026/11/04/report-apple-and-samsung-outperform-rivals-as-smartphone-chip-shipments-tumble-21/",
+      "pubDate": "2026-11-04T23:59:10.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apps Can Now Try to Stop You From Canceling Subscriptions",
+      "url": "https://www.macrumors.com/2026/11/04/app-store-subscription-retention/",
+      "pubDate": "2026-11-04T23:58:24.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -63,7 +140,7 @@
       "sourceHomepage": "https://www.macrumors.com",
       "title": "HomePod Mini 2's Amount of RAM Confirmed",
       "url": "https://www.macrumors.com/2026/11/04/homepod-mini-2-ram/",
-      "pubDate": "2026-11-04T21:50:54.000Z"
+      "pubDate": "2026-11-04T21:50:46.000Z"
     },
     {
       "source": "The Verge",
@@ -241,32 +318,11 @@
       "pubDate": "2026-11-04T18:26:07.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple will check shared iCloud links for ‘harmful content’",
-      "url": "https://www.theverge.com/tech/1026604/apple-icloud-links-harmful-content-27-3",
-      "pubDate": "2026-11-04T18:23:37.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Four no more: macOS 27.3 kills off those stupidly insecure certificates",
       "url": "https://appleinsider.com/articles/26/11/04/four-no-more-macos-273-kills-off-those-stupidly-insecure-certificates?utm_source=rss",
       "pubDate": "2026-11-04T18:20:25.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
-      "url": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
-      "pubDate": "2026-11-04T18:00:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Sonnet has a $999 dual 25 gig Thunderbolt networking adapter",
-      "url": "https://appleinsider.com/articles/26/11/04/sonnet-has-a-999-dual-25-gig-ethernet-thunderbolt-adapter?utm_source=rss",
-      "pubDate": "2026-11-04T17:44:55.000Z"
     },
     {
       "source": "MacRumors",
@@ -276,25 +332,11 @@
       "pubDate": "2026-11-04T17:40:27.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple is reportedly doubling orders for a new MacBook Neo",
-      "url": "https://appleinsider.com/articles/26/11/04/apple-is-reportedly-doubling-orders-for-a-new-macbook-neo?utm_source=rss",
-      "pubDate": "2026-11-04T17:30:18.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Security Bite: The record $6.3B Binance heist started with a fake Homebrew install on Mac",
       "url": "https://9to5mac.com/2026/11/04/security-bite-the-record-6-3b-binance-heist-started-with-a-fake-homebrew-install-on-mac/",
       "pubDate": "2026-11-04T17:18:56.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Best early Black Friday MacBook deals start at $1,099",
-      "url": "https://appleinsider.com/articles/26/11/04/best-early-black-friday-macbook-deals-start-at-1099?utm_source=rss",
-      "pubDate": "2026-11-04T16:59:32.000Z"
     },
     {
       "source": "MacRumors",
@@ -311,53 +353,11 @@
       "pubDate": "2026-11-04T16:42:33.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iCloud's 'Anyone with the Link' option will trigger Apple content checks",
-      "url": "https://appleinsider.com/articles/26/11/04/iclouds-anyone-with-the-link-option-will-trigger-apple-content-checks?utm_source=rss",
-      "pubDate": "2026-11-04T16:33:49.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "MacBook Neo 2 is coming, and Apple reportedly expects a massive hit",
-      "url": "https://9to5mac.com/2026/11/04/macbook-neo-2-is-coming-and-apple-reportedly-expects-a-massive-hit/",
-      "pubDate": "2026-11-04T16:33:02.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Is It Worth Buying a Titanium Apple Watch?",
       "url": "https://www.macrumors.com/guide/is-it-worth-buying-a-titanium-apple-watch/",
       "pubDate": "2026-11-04T16:32:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: HomeView discount, Apple Watch Ultra 4 $100 off, Ultra 3 $250 off, MacBook Neo, more",
-      "url": "https://9to5mac.com/2026/11/04/deals-homeview-apple-watch-ultra-macbook-neo/",
-      "pubDate": "2026-11-04T16:29:56.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "macOS 27.3 Includes an Important Security Fix",
-      "url": "https://www.macrumors.com/2026/11/04/macos-27-3-important-security-fix/",
-      "pubDate": "2026-11-04T16:24:10.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "With iOS 27.3, Apple will start checking iCloud public links for ‘harmful content’",
-      "url": "https://9to5mac.com/2026/11/04/with-ios-27-3-apple-will-start-checking-icloud-public-links-for-harmful-content/",
-      "pubDate": "2026-11-04T15:55:23.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Massive Sale Hits Apple Watch Ultra 3 With Record Low $250 Discounts",
-      "url": "https://www.macrumors.com/2026/11/04/apple-watch-ultra-3-250-discounts/",
-      "pubDate": "2026-11-04T15:07:24.000Z"
     },
     {
       "source": "Six Colors",
