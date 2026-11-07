@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T23:11:17.481Z",
+  "generatedAt": "2026-11-07T02:51:11.069Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,41 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Music Classical gets new black-and-white icon in latest update",
+      "url": "https://9to5mac.com/2026/11/06/apple-music-classical-gets-new-black-and-white-icon-in-latest-update/",
+      "pubDate": "2026-11-07T02:11:48.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: November 6, 2026 – App Store changes, new MacBook Pro launch",
+      "url": "https://9to5mac.com/2026/11/06/daily-november-6-2026/",
+      "pubDate": "2026-11-06T23:47:18.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+      "pubDate": "2026-11-06T23:46:18.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "More Fun iPhone Duo Apps: 30 New Picks to Try",
+      "url": "https://www.macrumors.com/2026/11/06/iphone-duo-app-suggestions/",
+      "pubDate": "2026-11-06T23:27:55.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple TV renews ‘Knife Edge: Chasing Michelin Stars’ for season three",
+      "url": "https://9to5mac.com/2026/11/06/apple-tv-renews-knife-edge-chasing-michelin-stars-for-season-three/",
+      "pubDate": "2026-11-06T23:15:19.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -192,13 +227,6 @@
       "pubDate": "2026-11-06T17:40:06.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Kobo will soon let you upload and sync your own ebooks across devices, for a price",
-      "url": "https://www.theverge.com/tech/1028715/kobo-stack-cloud-sync-ebooks-epub-pdf-email-files",
-      "pubDate": "2026-11-06T17:32:16.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Shares New 'Apple Card: Apply and Use in Minutes' Ad",
@@ -248,13 +276,6 @@
       "pubDate": "2026-11-06T16:17:59.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Next year’s iPhone Pro redesign will drop an important button, per leak",
-      "url": "https://9to5mac.com/2026/11/06/next-years-iphone-pro-redesign-will-drop-an-important-button-per-leak/",
-      "pubDate": "2026-11-06T16:02:43.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Best Buy's Black Friday Event Begins With Sitewide Savings on Apple, TVs, More",
@@ -262,25 +283,11 @@
       "pubDate": "2026-11-06T15:44:15.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27.2 adds Apple Photos invisible watermark feature, here’s how it works",
-      "url": "https://9to5mac.com/2026/11/06/ios-27-2-adds-apple-photos-invisible-watermark-feature-heres-how-it-works/",
-      "pubDate": "2026-11-06T15:39:08.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Releasing Yet Another Two New Products Next Week",
       "url": "https://www.macrumors.com/2026/11/06/two-more-apple-products-next-week/",
       "pubDate": "2026-11-06T15:36:55.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple says there are already over 100,000 apps built for iPhone Duo",
-      "url": "https://9to5mac.com/2026/11/06/apple-says-there-are-already-over-100000-apps-built-for-iphone-duo/",
-      "pubDate": "2026-11-06T15:23:49.000Z"
     },
     {
       "source": "AppleInsider",
@@ -316,13 +323,6 @@
       "title": "Apple Rumored to Drop the iPhone's Action Button Next Year",
       "url": "https://www.macrumors.com/2026/11/06/apple-rumored-to-drop-the-action-button/",
       "pubDate": "2026-11-06T14:07:52.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple's Extended Return Policy Now in Effect for 2026 Holiday Season",
-      "url": "https://www.macrumors.com/2026/11/06/apple-holiday-return-policy-2026/",
-      "pubDate": "2026-11-06T14:03:25.000Z"
     },
     {
       "source": "AppleInsider",
