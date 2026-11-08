@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T20:54:44.449Z",
+  "generatedAt": "2026-11-08T00:38:56.039Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Early Apple Black Friday Deals on Apple Watch, MacBook Air, and More",
+      "url": "https://www.macrumors.com/2026/11/07/early-apple-black-friday-deals/",
+      "pubDate": "2026-11-07T20:50:00.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -113,13 +120,6 @@
       "title": "Good riddance, Cybertruck!",
       "url": "https://www.theverge.com/transportation/1029460/elon-musk-cybertruck-death-election-backlash",
       "pubDate": "2026-11-07T14:40:06.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Early Apple Black Friday Deals on Apple Watch, MacBook Air, and More",
-      "url": "https://www.macrumors.com/2026/11/07/early-apple-black-friday-deals/",
-      "pubDate": "2026-11-07T14:28:23.000Z"
     },
     {
       "source": "9to5Mac",
