@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T19:45:44.716Z",
+  "generatedAt": "2026-11-08T23:44:53.837Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,55 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+      "pubDate": "2026-11-08T22:54:50.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Soul Glo’s Diaspora Problems is a hardcore record like no other",
+      "url": "https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review",
+      "pubDate": "2026-11-08T22:37:22.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Sunday Reboot: Curses and a spotty reminder of times past",
+      "url": "https://appleinsider.com/articles/26/11/08/sunday-reboot-curses-and-a-spotty-reminder-of-times-past?utm_source=rss",
+      "pubDate": "2026-11-08T21:08:05.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Epic Games Launcher is coming to SteamOS",
+      "url": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
+      "pubDate": "2026-11-08T20:52:05.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+      "pubDate": "2026-11-08T20:22:39.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple saves $2.7B in taxes by funnelling finances through Singapore",
+      "url": "https://appleinsider.com/articles/26/11/08/apple-saves-27b-in-taxes-by-funnelling-finances-through-singapore?utm_source=rss",
+      "pubDate": "2026-11-08T19:59:26.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "macOS 27.3 could change how you grant AI agents Full Disk Access, here’s how",
+      "url": "https://9to5mac.com/2026/11/08/macos-changes-for-full-disk-access-ai-agents-imessage/",
+      "pubDate": "2026-11-08T19:52:41.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -192,34 +241,6 @@
       "pubDate": "2026-11-07T17:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Costco members can get $5 off the reimagined Ocarina of Time",
-      "url": "https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale",
-      "pubDate": "2026-11-07T16:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Discogs’ Kevin Lewandowski can’t live without his AeroPress",
-      "url": "https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview",
-      "pubDate": "2026-11-07T16:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
-      "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
-      "pubDate": "2026-11-07T15:50:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The US let Nvidia sell chips to an empty office in China",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-      "pubDate": "2026-11-07T15:43:45.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Apple @ Work: Mac admins are shipping AI-written code with mistakes, but fixing the problems is taking days",
@@ -253,13 +274,6 @@
       "title": "Apple Music Classical gets new black-and-white icon in latest update",
       "url": "https://9to5mac.com/2026/11/06/apple-music-classical-gets-new-black-and-white-icon-in-latest-update/",
       "pubDate": "2026-11-07T02:11:48.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: November 6, 2026 – App Store changes, new MacBook Pro launch",
-      "url": "https://9to5mac.com/2026/11/06/daily-november-6-2026/",
-      "pubDate": "2026-11-06T23:47:18.000Z"
     },
     {
       "source": "MacRumors",
@@ -332,25 +346,11 @@
       "pubDate": "2026-11-06T17:18:31.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Get a free $150 gift card with Apple's new PROLED MacBook Pro at B&H",
-      "url": "https://appleinsider.com/articles/26/11/06/get-a-free-150-gift-card-with-apples-new-proled-macbook-pro-at-bh?utm_source=rss",
-      "pubDate": "2026-11-06T16:53:04.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Early Black Friday Deals Kickoff With Steep Discounts on Apple Watch Ultras and More",
       "url": "https://www.macrumors.com/2026/11/06/best-apple-deals-of-the-week-11-6-26/",
       "pubDate": "2026-11-06T16:46:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Developers have optimized over 100,000 apps for the iPhone Duo",
-      "url": "https://appleinsider.com/articles/26/11/06/developers-have-optimized-over-100000-apps-for-the-iphone-duo?utm_source=rss",
-      "pubDate": "2026-11-06T16:17:59.000Z"
     },
     {
       "source": "Six Colors",
