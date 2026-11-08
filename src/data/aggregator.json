@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T00:38:56.039Z",
+  "generatedAt": "2026-11-08T07:24:06.611Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -199,13 +199,6 @@
       "pubDate": "2026-11-06T23:15:19.000Z"
     },
     {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "iPhone Duo: The apps are coming",
-      "url": "https://sixcolors.com/post/2026/11/iphone-duo-the-apps-are-coming/",
-      "pubDate": "2026-11-06T22:59:50.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Raycast combines voice dictation and screen awareness in new AI feature",
@@ -351,27 +344,6 @@
       "title": "New Apple Music Classical update matches wider Music rebrand",
       "url": "https://appleinsider.com/articles/26/11/06/new-apple-music-classical-update-matches-wider-music-rebrand?utm_source=rss",
       "pubDate": "2026-11-06T13:35:54.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "App Report: Command centers",
-      "url": "https://sixcolors.com/post/2026/11/app-report-command-centers/",
-      "pubDate": "2026-11-05T23:23:18.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "MacBook Pro with PROLED review: You could even say it glows",
-      "url": "https://sixcolors.com/post/2026/11/macbook-pro-with-proled-review-you-could-even-say-it-glows/",
-      "pubDate": "2026-11-05T14:00:00.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Siri AI keeps on improving ↦",
-      "url": "https://sixcolors.com/link/2026/11/siri-ai-keeps-on-improving/",
-      "pubDate": "2026-11-05T01:12:18.000Z"
     }
   ]
 }
