@@ -1,7 +1,7 @@
 ---
 title: "Siri Is Learning to Remember Your Life. Apple Is Also Locking the Door on AI Agents."
 description: "iOS 27.3 beta code shows Apple building a Siri memory graph about your routines and relationships, while macOS 27.3 tightens Full Disk Access as AI agents spread."
-pubDate: 2026-11-09T15:30:00.000Z
+pubDate: 2026-11-09T15:10:00.000Z
 draft: false
 author: "Inside Cupertino"
 tags:
