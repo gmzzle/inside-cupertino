@@ -1,7 +1,7 @@
 ---
 title: "HomeView Ships Friday. Its Code Says a Security Camera Mode and AI Chatbot Apps Are Coming."
 description: "Code in HomeView Software 27.2 and the iOS 27.3 beta points to a HomeKit Secure Video camera mode and ChatGPT-style apps. Apple hasn't announced either one."
-pubDate: 2026-11-10T15:20:00.000Z
+pubDate: 2026-11-10T15:15:00.000Z
 draft: false
 author: "Inside Cupertino"
 tags:
