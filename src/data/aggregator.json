@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T17:52:22.335Z",
+  "generatedAt": "2026-11-10T23:24:47.613Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -26,6 +26,202 @@
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
+      "title": "iFixit tears down touchscreen MacBook Pro, reveals light-up Apple logo details",
+      "url": "https://9to5mac.com/2026/11/10/ifixit-tears-down-touchscreen-macbook-pro-reveals-light-up-apple-logo-details/",
+      "pubDate": "2026-11-10T23:14:49.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "CleanupBuddy 2.0 expands beyond the keyboard with new display cleaning features",
+      "url": "https://9to5mac.com/2026/11/10/cleanupbuddy-2-0-expands-beyond-the-keyboard-with-new-display-cleaning-features/",
+      "pubDate": "2026-11-10T22:56:55.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iFixit's PROLED MacBook Pro Teardown Reveals Logo LEDs",
+      "url": "https://www.macrumors.com/2026/11/10/ifixit-proled-macbook-pro-teardown/",
+      "pubDate": "2026-11-10T22:02:34.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The VR Disney Plus app on Meta Quest now has 3D movies",
+      "url": "https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies",
+      "pubDate": "2026-11-10T22:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
+      "url": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition",
+      "pubDate": "2026-11-10T21:40:31.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple to investigate accident that killed three workers at iPhone parts factory in India",
+      "url": "https://9to5mac.com/2026/11/10/apple-to-investigate-accident-that-killed-three-workers-at-iphone-parts-factory-in-india/",
+      "pubDate": "2026-11-10T21:34:43.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Sony cancels live-service shooter Fairgames",
+      "url": "https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled",
+      "pubDate": "2026-11-10T21:06:12.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Spotify’s AI DJ adds nine voices and a setting to reduce interruptions",
+      "url": "https://9to5mac.com/2026/11/10/spotifys-ai-dj-adds-nine-voices-and-a-setting-to-reduce-interruptions/",
+      "pubDate": "2026-11-10T20:48:41.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "New AirPods firmware has been released by Apple",
+      "url": "https://appleinsider.com/articles/26/11/10/new-airpods-firmware-has-been-released-by-apple?utm_source=rss",
+      "pubDate": "2026-11-10T20:40:54.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's 'Harbor' app will make running local AI across multiple Macs trivial",
+      "url": "https://appleinsider.com/articles/26/11/10/apples-harbor-app-will-make-running-local-ai-across-multiple-macs-trivial?utm_source=rss",
+      "pubDate": "2026-11-10T20:27:25.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "10 Free iPhone Duo Apps Worth Downloading",
+      "url": "https://www.macrumors.com/2026/11/10/free-iphone-duo-apps/",
+      "pubDate": "2026-11-10T20:27:07.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Releases New AirPods Firmware",
+      "url": "https://www.macrumors.com/2026/11/10/apple-releases-airpods-firmware-9b47/",
+      "pubDate": "2026-11-10T20:11:26.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "New Labrinth song from MacBook Pro livestream coming to Apple Music",
+      "url": "https://appleinsider.com/articles/26/11/10/new-labrinth-song-from-macbook-pro-livestream-coming-to-apple-music?utm_source=rss",
+      "pubDate": "2026-11-10T20:07:28.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple just released new AirPods Pro 3 firmware and more",
+      "url": "https://9to5mac.com/2026/11/10/apple-just-released-new-airpods-pro-3-firmware-airpods-5-more/",
+      "pubDate": "2026-11-10T20:06:19.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple TV shares trailers for upcoming Snoopy and Fraggle Rock holiday specials",
+      "url": "https://9to5mac.com/2026/11/10/apple-tv-shares-trailers-for-upcoming-snoopy-and-fraggle-rock-holiday-specials/",
+      "pubDate": "2026-11-10T19:57:28.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27.2 adds new features in six iPhone apps, details here",
+      "url": "https://9to5mac.com/2026/11/10/ios-27-2-adds-new-features-in-six-iphone-apps-details-here/",
+      "pubDate": "2026-11-10T19:50:14.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The PlayStation Plus PC app is shutting down next month",
+      "url": "https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down",
+      "pubDate": "2026-11-10T19:40:52.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Starlink Mini 2 adds a swappable battery",
+      "url": "https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery",
+      "pubDate": "2026-11-10T19:19:12.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple has new Mac app coming to make running local AI models easy",
+      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+      "pubDate": "2026-11-10T19:15:32.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The US is winning the AI race. Jensen Huang could have blown it",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+      "pubDate": "2026-11-10T19:04:05.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Google’s Pixel Tag tracker is now available",
+      "url": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding",
+      "pubDate": "2026-11-10T19:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Google is making Pixel HiLight slightly more useful",
+      "url": "https://www.theverge.com/tech/1031089/google-pixel-drop-november-2026-hilight",
+      "pubDate": "2026-11-10T19:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "One of our favorite multi-filament 3D printers is $100 off",
+      "url": "https://www.theverge.com/gadgets/1030970/bambu-p2s-combo-3d-printer-deal-sale",
+      "pubDate": "2026-11-10T18:42:03.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple announces Swift Student Challenge 2027 with new twist",
+      "url": "https://9to5mac.com/2026/11/10/apple-announces-swift-student-challenge-2027-with-new-twist/",
+      "pubDate": "2026-11-10T18:11:28.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "ChatGPT is getting verified AI ‘Business Agents’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+      "pubDate": "2026-11-10T18:00:00.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "HomeView doesn’t need to be another app dispenser",
+      "url": "https://sixcolors.com/post/2026/11/homeview-doesnt-need-to-be-another-app-dispenser/",
+      "pubDate": "2026-11-10T18:00:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Swift Student Challenge expands contest to all Apple platforms",
+      "url": "https://appleinsider.com/articles/26/11/10/swift-student-challenge-expands-contest-to-all-apple-platforms?utm_source=rss",
+      "pubDate": "2026-11-10T17:57:46.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Amazon Begins Early Black Friday Sale, Featuring Sitewide Discounts on Tech and Decor",
+      "url": "https://www.macrumors.com/2026/11/10/amazon-early-black-friday/",
+      "pubDate": "2026-11-10T17:50:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
       "title": "New Apple TV 4K remote’s best feature requires a newer iPhone model",
       "url": "https://9to5mac.com/2026/11/10/new-apple-tv-4k-remotes-best-feature-requires-a-newer-iphone-model/",
       "pubDate": "2026-11-10T17:47:32.000Z"
@@ -38,39 +234,11 @@
       "pubDate": "2026-11-10T17:47:23.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Ableton Live 13 announced with a step sequencer, new drum synth, and more",
-      "url": "https://www.theverge.com/tech/1030846/ableton-live-13-announced-step-sequencer-looplet-daw",
-      "pubDate": "2026-11-10T17:43:49.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "There's new Fraggle Rock on Apple TV for Christmas",
       "url": "https://appleinsider.com/articles/26/11/10/theres-new-fraggle-rock-on-apple-tv-for-christmas?utm_source=rss",
       "pubDate": "2026-11-10T17:40:35.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The indie game community is in disarray over AI and Big Walk",
-      "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
-      "pubDate": "2026-11-10T17:32:47.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Google Fi is bringing back multiple cell network support for better coverage",
-      "url": "https://www.theverge.com/tech/1030979/google-fi-automatic-network-switching-pixel",
-      "pubDate": "2026-11-10T17:32:39.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Anthropic has its own AI-powered office suite now",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
-      "pubDate": "2026-11-10T17:30:00.000Z"
     },
     {
       "source": "MacRumors",
@@ -84,7 +252,7 @@
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Next iPad Air Likely to Have These 10 New Features",
       "url": "https://www.macrumors.com/2026/11/10/next-ipad-air-10-likely-new-features/",
-      "pubDate": "2026-11-10T17:26:33.000Z"
+      "pubDate": "2026-11-10T17:26:26.000Z"
     },
     {
       "source": "MacRumors",
@@ -150,27 +318,6 @@
       "pubDate": "2026-11-10T16:21:19.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "eBay appears to have shut the door on third-party AI agents",
-      "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
-      "pubDate": "2026-11-10T16:20:30.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPadOS 27.3 adds new iPad setting I instantly turned on",
-      "url": "https://9to5mac.com/2026/11/10/ipados-27-3-adds-new-ipad-setting-i-instantly-turned-on/",
-      "pubDate": "2026-11-10T16:14:54.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple TV launches new sign language accessibility feature",
-      "url": "https://9to5mac.com/2026/11/10/apple-tv-new-sign-language-accessibility/",
-      "pubDate": "2026-11-10T16:06:43.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Disable Touch on MacBook Pro PROLED XDR and When Using Sidecar",
@@ -178,32 +325,11 @@
       "pubDate": "2026-11-10T16:05:48.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Verge’s 2026 holiday gift guide for moms",
-      "url": "https://www.theverge.com/gadgets/1021621/best-gifts-for-mom-2026",
-      "pubDate": "2026-11-10T16:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
-      "pubDate": "2026-11-10T16:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Anker's Early Black Friday Sale Surprises With Mystery Boxes and Big Discounts",
       "url": "https://www.macrumors.com/2026/11/10/ankers-early-black-friday/",
       "pubDate": "2026-11-10T15:54:44.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Ember’s latest self-heating 14-ounce mug is $50 off",
-      "url": "https://www.theverge.com/gadgets/1030735/ember-mug-3-criterion-collection-blu-ray-pixel-watch-deal-sale",
-      "pubDate": "2026-11-10T15:47:18.000Z"
     },
     {
       "source": "AppleInsider",
@@ -220,20 +346,6 @@
       "pubDate": "2026-11-10T15:42:10.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Arcade unveils three new games from hit franchises",
-      "url": "https://9to5mac.com/2026/11/10/apple-arcade-unveils-three-new-games-from-hit-franchises/",
-      "pubDate": "2026-11-10T15:25:21.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Amazon Begins Early Black Friday Sale, Featuring Sitewide Discounts on Tech and Decor",
-      "url": "https://www.macrumors.com/2026/11/10/amazon-early-black-friday/",
-      "pubDate": "2026-11-10T15:14:15.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Criminals are using government-grade spyware to infect iPhones",
@@ -241,109 +353,11 @@
       "pubDate": "2026-11-10T15:01:08.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Reddit wants to guide your next purchase",
-      "url": "https://www.theverge.com/tech/1030211/reddit-reviews-product-recommendations-electronics-beauty-shopping",
-      "pubDate": "2026-11-10T15:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple’s new HomeView to add two major features not yet announced, per leaks",
-      "url": "https://9to5mac.com/2026/11/10/apples-new-homeview-to-add-two-major-features-not-yet-announced-per-leaks/",
-      "pubDate": "2026-11-10T14:52:57.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "The OLED iPad Air is still expected to launch in early 2027",
-      "url": "https://appleinsider.com/articles/26/11/10/the-oled-ipad-air-is-still-expected-to-launch-in-early-2027?utm_source=rss",
-      "pubDate": "2026-11-10T14:39:38.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "GTA VI will be available on Xbox Cloud Gaming for Xbox One consoles",
-      "url": "https://www.theverge.com/news/1030714/gta-vi-xbox-cloud-gaming-support",
-      "pubDate": "2026-11-10T14:37:09.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Screens 5.10 adds two highly-requested remote desktop features",
-      "url": "https://9to5mac.com/2026/11/10/screens-5-10-adds-two-highly-requested-remote-desktop-features/",
-      "pubDate": "2026-11-10T14:33:53.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Another report backs OLED iPad Air early next year",
-      "url": "https://9to5mac.com/2026/11/10/another-report-backs-oled-ipad-air-early-next-year/",
-      "pubDate": "2026-11-10T14:23:14.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Adobe unveils new AI tools for Photoshop, Premiere, and more, with MCP support coming in 2027",
-      "url": "https://9to5mac.com/2026/11/10/adobe-unveils-new-ai-tools-for-photoshop-premiere-and-more-with-mcp-support-coming-in-2027/",
-      "pubDate": "2026-11-10T14:18:40.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Ring’s wheeled and flying robots will patrol your home",
-      "url": "https://9to5mac.com/2026/11/10/rings-wheeled-and-flying-robots-will-patrol-your-home/",
-      "pubDate": "2026-11-10T13:58:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "OLED iPad Air Rumored to Launch in Two Sizes in Early 2027",
       "url": "https://www.macrumors.com/2026/11/10/oled-ipad-air-rumored-to-launch-in-early-2027/",
       "pubDate": "2026-11-10T13:42:52.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Maps could soon factor in how long it takes you to park",
-      "url": "https://9to5mac.com/2026/11/10/apple-maps-could-soon-factor-in-how-long-it-takes-you-to-park/",
-      "pubDate": "2026-11-10T13:32:12.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple Maps will likely integrate walking time after parking to travel estimates",
-      "url": "https://appleinsider.com/articles/26/11/10/apple-maps-will-likely-integrate-walking-time-after-parking-to-travel-estimates?utm_source=rss",
-      "pubDate": "2026-11-10T13:03:13.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "The Original iPod Went on Sale 25 Years Ago Today",
-      "url": "https://www.macrumors.com/2026/11/10/original-ipod-went-on-sale-25-years-ago/",
-      "pubDate": "2026-11-10T12:54:45.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Maps Could Factor Parking Into Your Arrival Time",
-      "url": "https://www.macrumors.com/2026/11/10/apple-maps-factor-parking-into-arrival-time/",
-      "pubDate": "2026-11-10T12:15:18.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Amazon slashes official Apple iPhone cases to as low as $11",
-      "url": "https://appleinsider.com/articles/26/11/10/amazon-slashes-official-apple-iphone-cases-to-as-low-as-11?utm_source=rss",
-      "pubDate": "2026-11-10T12:10:21.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Waze Now Alerts Drivers to Nearby Cyclists Using Garmin LiveTrack",
-      "url": "https://www.macrumors.com/2026/11/10/waze-alerts-drivers-nearby-cyclists-garmin/",
-      "pubDate": "2026-11-10T12:00:10.000Z"
     },
     {
       "source": "Six Colors",
@@ -358,20 +372,6 @@
       "title": "(Podcast) Upgrade 645: Reminded to Be Nice to Mama",
       "url": "https://sixcolors.com/podcast/2026/11/upgrade-645-reminded-to-be-nice-to-mama/",
       "pubDate": "2026-11-09T21:30:00.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "No, Apple isn’t using Live Listen to listen to you",
-      "url": "https://sixcolors.com/post/2026/11/no-apple-isnt-using-live-listen-to-listen-to-youlive/",
-      "pubDate": "2026-11-09T18:00:00.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Sponsor) Magic Lasso Adblock: Block ads in iPhone, iPad, Mac and Apple TV apps",
-      "url": "https://sixcolors.com/feed-only/2026/11/magic-lasso-adblock-block-ads-in-iphone-ipad-mac-and-apple-tv-apps-3/",
-      "pubDate": "2026-11-09T17:00:39.000Z"
     }
   ]
 }
