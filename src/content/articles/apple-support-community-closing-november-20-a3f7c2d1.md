@@ -1,7 +1,7 @@
 ---
 title: "Apple Is Shutting Down Its Support Community Forums on November 20. Save the Threads You Need Now."
 description: "Apple's user-to-user help forums went read-only on Nov. 10 and close for good Nov. 20. Apple hasn't said whether old answers will stay online, so save the fixes you rely on."
-pubDate: 2026-11-11T15:20:00.000Z
+pubDate: 2026-11-11T15:10:00.000Z
 draft: false
 author: "Inside Cupertino"
 tags:
