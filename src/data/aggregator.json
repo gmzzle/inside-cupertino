@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T23:24:47.613Z",
+  "generatedAt": "2026-11-11T06:27:06.558Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,104 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "'Apple Support Community' Permanently Closing on November 20",
+      "url": "https://www.macrumors.com/2026/11/10/apple-support-community-closing-november-20/",
+      "pubDate": "2026-11-11T03:50:59.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "If you're getting dizzy using PROLED MacBook Pro, you are not alone",
+      "url": "https://appleinsider.com/articles/26/11/10/if-youre-getting-dizzy-using-proled-macbook-pro-you-are-not-alone?utm_source=rss",
+      "pubDate": "2026-11-11T03:25:59.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple Support Community Forums are shutting down",
+      "url": "https://appleinsider.com/articles/26/11/11/apple-support-community-forums-are-shutting-down?utm_source=rss",
+      "pubDate": "2026-11-11T03:17:13.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "End of an era: Apple Support Community forums will permanently close on November 20",
+      "url": "https://9to5mac.com/2026/11/10/end-of-an-era-apple-support-community-forums-will-permanently-close-on-november-20/",
+      "pubDate": "2026-11-11T02:49:08.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Music debuts Labrinth’s new single, created live on the touchscreen MacBook Pro",
+      "url": "https://9to5mac.com/2026/11/10/apple-music-debuts-labrinths-new-single-created-live-on-the-touchscreen-macbook-pro/",
+      "pubDate": "2026-11-11T01:31:51.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's Holiday Gift Guide Highlights iPhone Duo and More",
+      "url": "https://www.macrumors.com/2026/11/10/apple-hoilday-gift-guide/",
+      "pubDate": "2026-11-11T00:57:36.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Three Workers Die at Tata iPhone Parts Plant in India",
+      "url": "https://www.macrumors.com/2026/11/10/india-tata-electronics-gas-incident/",
+      "pubDate": "2026-11-11T00:46:21.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
+      "url": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
+      "pubDate": "2026-11-11T00:34:24.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iCloud Mail, Calendar, Contacts, & Photos were experiencing outages",
+      "url": "https://appleinsider.com/articles/26/11/11/icloud-mail-calendar-contacts-photos-are-experiencing-outages?utm_source=rss",
+      "pubDate": "2026-11-11T00:22:54.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: November 10, 2026 – iOS 27.2.1, HomeView rumors",
+      "url": "https://9to5mac.com/2026/11/10/daily-november-10-2026/",
+      "pubDate": "2026-11-11T00:00:34.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iCloud Mail, Calendar, Contacts and More Experiencing Outage [Updated]",
+      "url": "https://www.macrumors.com/2026/11/10/apple-icloud-calendar-outage/",
+      "pubDate": "2026-11-10T23:53:31.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple confirms ongoing outage affecting iCloud and more [U]",
+      "url": "https://9to5mac.com/2026/11/10/apple-confirms-ongoing-outage-affecting-icloud-and-more/",
+      "pubDate": "2026-11-10T23:48:49.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "PROLED MacBook Pro teardown shows how the glowing Apple logo works",
+      "url": "https://appleinsider.com/articles/26/11/10/proled-macbook-pro-teardown-shows-how-the-glowing-apple-logo-works?utm_source=rss",
+      "pubDate": "2026-11-10T23:42:17.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's Claris Testing 'Harbor' App for Local AI on Macs",
+      "url": "https://www.macrumors.com/2026/11/10/apple-claris-harbor-app/",
+      "pubDate": "2026-11-10T23:34:51.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -185,20 +283,6 @@
       "pubDate": "2026-11-10T18:42:03.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple announces Swift Student Challenge 2027 with new twist",
-      "url": "https://9to5mac.com/2026/11/10/apple-announces-swift-student-challenge-2027-with-new-twist/",
-      "pubDate": "2026-11-10T18:11:28.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "ChatGPT is getting verified AI ‘Business Agents’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
-      "pubDate": "2026-11-10T18:00:00.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "HomeView doesn’t need to be another app dispenser",
@@ -218,13 +302,6 @@
       "title": "Amazon Begins Early Black Friday Sale, Featuring Sitewide Discounts on Tech and Decor",
       "url": "https://www.macrumors.com/2026/11/10/amazon-early-black-friday/",
       "pubDate": "2026-11-10T17:50:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "New Apple TV 4K remote’s best feature requires a newer iPhone model",
-      "url": "https://9to5mac.com/2026/11/10/new-apple-tv-4k-remotes-best-feature-requires-a-newer-iphone-model/",
-      "pubDate": "2026-11-10T17:47:32.000Z"
     },
     {
       "source": "Six Colors",
@@ -262,20 +339,6 @@
       "pubDate": "2026-11-10T17:11:48.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Satechi expands lineup of color-matched accessories for MacBook Neo",
-      "url": "https://9to5mac.com/2026/11/10/satechi-new-macbook-neo-accessories/",
-      "pubDate": "2026-11-10T17:00:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "New Apple TV Sign Language Feature Announced",
-      "url": "https://www.macrumors.com/2026/11/10/apple-tv-sign-language-interpretation/",
-      "pubDate": "2026-11-10T16:54:58.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple TV adds sign language interpretation for Deaf viewers",
@@ -283,81 +346,11 @@
       "pubDate": "2026-11-10T16:47:37.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: M5 MacBook Air up to $300 off, M6 Mac mini, AirPods Pro 3, HomeView, Magic Trackpad, more",
-      "url": "https://9to5mac.com/2026/11/10/deals-macbook-air-mac-mini-airpods-homeview-trackpad/",
-      "pubDate": "2026-11-10T16:31:02.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "If you're getting dizzy using PROLED MacBook Pro, you are not alone",
-      "url": "https://appleinsider.com/articles/26/11/10/if-youre-getting-dizzy-using-proled-macbook-pro-you-are-not-alone?utm_source=rss",
-      "pubDate": "2026-11-10T16:28:34.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Nintendo won't let you log in with a linked Apple account soon",
-      "url": "https://appleinsider.com/articles/26/11/10/nintendo-wont-let-you-log-in-with-a-linked-apple-account-soon?utm_source=rss",
-      "pubDate": "2026-11-10T16:28:05.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Football Manager 27 Touch leads Apple Arcade's winter updates",
-      "url": "https://appleinsider.com/articles/26/11/10/football-manager-27-touch-leads-apple-arcades-winter-updates?utm_source=rss",
-      "pubDate": "2026-11-10T16:26:04.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Adobe MAX brings new editing tools and more AI to Creative Cloud",
-      "url": "https://appleinsider.com/articles/26/11/10/adobe-max-brings-new-editing-tools-and-more-ai-to-creative-cloud?utm_source=rss",
-      "pubDate": "2026-11-10T16:21:19.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Disable Touch on MacBook Pro PROLED XDR and When Using Sidecar",
-      "url": "https://www.macrumors.com/how-to/disable-touch-macbook-pro-proled-xdr-sidecar/",
-      "pubDate": "2026-11-10T16:05:48.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Anker's Early Black Friday Sale Surprises With Mystery Boxes and Big Discounts",
-      "url": "https://www.macrumors.com/2026/11/10/ankers-early-black-friday/",
-      "pubDate": "2026-11-10T15:54:44.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Last call to grab this HomeView preorder deal before November 13 release",
-      "url": "https://appleinsider.com/articles/26/11/10/last-call-to-grab-this-homeview-preorder-deal-before-november-13-release?utm_source=rss",
-      "pubDate": "2026-11-10T15:45:47.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Arcade Adding These Four Games in December",
-      "url": "https://www.macrumors.com/2026/11/10/apple-arcade-games-december-2026/",
-      "pubDate": "2026-11-10T15:42:10.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Criminals are using government-grade spyware to infect iPhones",
-      "url": "https://appleinsider.com/articles/26/11/10/criminals-are-using-government-grade-spyware-to-infect-iphones?utm_source=rss",
-      "pubDate": "2026-11-10T15:01:08.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "OLED iPad Air Rumored to Launch in Two Sizes in Early 2027",
-      "url": "https://www.macrumors.com/2026/11/10/oled-ipad-air-rumored-to-launch-in-early-2027/",
-      "pubDate": "2026-11-10T13:42:52.000Z"
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) The Rebound 624: Missouri Loves Company",
+      "url": "https://sixcolors.com/podcast/2026/11/the-rebound-624-missouri-loves-company/",
+      "pubDate": "2026-11-10T08:00:00.000Z"
     },
     {
       "source": "Six Colors",
@@ -372,6 +365,13 @@
       "title": "(Podcast) Upgrade 645: Reminded to Be Nice to Mama",
       "url": "https://sixcolors.com/podcast/2026/11/upgrade-645-reminded-to-be-nice-to-mama/",
       "pubDate": "2026-11-09T21:30:00.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "No, Apple isn’t using Live Listen to listen to you",
+      "url": "https://sixcolors.com/post/2026/11/no-apple-isnt-using-live-listen-to-listen-to-youlive/",
+      "pubDate": "2026-11-09T18:00:00.000Z"
     }
   ]
 }
