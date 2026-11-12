@@ -1,7 +1,7 @@
 ---
 title: "HomeView Watches and Listens All Day. Apple Just Explained Where That Data Goes."
 description: "A day before HomeView ships, Apple detailed Secure Exclaves, the walled-off chip runtime that handles its camera and mic. Plus what Siri still can't do until December."
-pubDate: 2026-11-12T15:20:00.000Z
+pubDate: 2026-11-12T15:15:00.000Z
 draft: false
 author: "Inside Cupertino"
 tags:
