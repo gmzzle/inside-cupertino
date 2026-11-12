@@ -1,7 +1,7 @@
 ---
 title: "Gemini Is Now on CarPlay. Here's How to Set It Up, and What Google Hasn't Said Yet."
 description: "Google's Gemini app now runs on Apple CarPlay for hands-free chats about your calendar, inbox and drive. One setup step is easy to miss. Here's how to get it working."
-pubDate: 2026-11-12T22:15:00.000Z
+pubDate: 2026-11-12T22:05:00.000Z
 draft: false
 author: "Inside Cupertino"
 tags:
