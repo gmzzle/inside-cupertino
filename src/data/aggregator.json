@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T03:49:21.823Z",
+  "generatedAt": "2026-11-12T12:45:17.069Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,69 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's Johny Srouji Eyed to Replace Nvidia CEO Jensen Huang",
+      "url": "https://www.macrumors.com/2026/11/12/johny-srouji-eyed-as-potential-nvidia-ceo/",
+      "pubDate": "2026-11-12T12:29:50.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Hackintosh may be lurching back to life with Stela",
+      "url": "https://appleinsider.com/articles/26/11/12/hackintosh-may-be-lurching-back-to-life-with-stela?utm_source=rss",
+      "pubDate": "2026-11-12T12:27:21.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Nvidia CEO Jensen Huang set to be fired, with Johny Srouji listed among possible replacements",
+      "url": "https://9to5mac.com/2026/11/12/nvidia-ceo-jensen-huang-set-to-be-fired-with-johny-srouji-listed-among-possible-replacements/",
+      "pubDate": "2026-11-12T11:59:29.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Here’s Apple’s new ad for the holiday season, featuring MacBook Neo",
+      "url": "https://9to5mac.com/2026/11/12/heres-apples-new-ad-for-the-holiday-season-featuring-macbook-neo/",
+      "pubDate": "2026-11-12T11:47:20.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Ring confirms its camera drone won’t have manual controls after crashing on CBS News",
+      "url": "https://www.theverge.com/tech/1031817/ring-drone-cam-manual-flight-controls",
+      "pubDate": "2026-11-12T11:12:32.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Gentler Streak 6.0 adds a new wellbeing timeline and customizable dashboard",
+      "url": "https://9to5mac.com/2026/11/12/gentler-streak-6-0-adds-a-new-wellbeing-timeline-and-customizable-dashboard/",
+      "pubDate": "2026-11-12T08:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Support Community Deserved a Proper Goodbye",
+      "url": "https://www.macrumors.com/2026/11/11/apple-support-community-deserved-a-proper-goodbye/",
+      "pubDate": "2026-11-12T04:51:19.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: November 11, 2026 – New Apple TV feature, more",
+      "url": "https://9to5mac.com/2026/11/11/daily-november-11-2026/",
+      "pubDate": "2026-11-12T04:01:11.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Channel flipping: Alternative Plex clients for tvOS, iOS, macOS",
+      "url": "https://appleinsider.com/articles/26/11/12/channel-flipping-alternative-plex-clients-for-tvos-ios-macos?utm_source=rss",
+      "pubDate": "2026-11-12T03:55:57.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -192,32 +255,11 @@
       "pubDate": "2026-11-11T17:05:11.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "watchOS 27.3: Three new features coming soon to Apple Watch",
-      "url": "https://9to5mac.com/2026/11/11/watchos-27-3-three-new-features-coming-soon-to-apple-watch/",
-      "pubDate": "2026-11-11T16:33:39.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: AirTag 2 $17.50 each, Magic Mouse, Trackpad, AirPods, TechWoven, MacBook Air $250 off, more",
-      "url": "https://9to5mac.com/2026/11/11/deals-airtag-2-magic-mouse-trackpad-macbook-air/",
-      "pubDate": "2026-11-11T16:27:43.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
       "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
       "pubDate": "2026-11-11T16:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone is the winner of new battery test, topping all Androids",
-      "url": "https://9to5mac.com/2026/11/11/iphone-is-the-winner-of-new-battery-test-topping-all-androids/",
-      "pubDate": "2026-11-11T15:58:27.000Z"
     },
     {
       "source": "The Verge",
@@ -269,13 +311,6 @@
       "pubDate": "2026-11-11T15:13:39.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27.3 adds new setting to bypass website cookie popups (eventually)",
-      "url": "https://9to5mac.com/2026/11/11/ios-27-3-adds-new-setting-to-bypass-website-cookie-popups-eventually/",
-      "pubDate": "2026-11-11T15:07:20.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple supplier confirms involvement in Apple AI glasses, AirPods with cameras",
@@ -287,13 +322,6 @@
       "sourceHomepage": "https://www.theverge.com",
       "title": "Ocarina of Time is even better if you use a smartphone app",
       "url": "https://www.theverge.com/games/1031321/the-legend-of-zelda-ocarina-of-time-notes-app-gold-skulltula",
-      "pubDate": "2026-11-11T15:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
       "pubDate": "2026-11-11T15:00:00.000Z"
     },
     {
@@ -325,20 +353,6 @@
       "pubDate": "2026-11-11T13:49:53.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Unpatched exploit allows malicious iOS apps to steal data",
-      "url": "https://appleinsider.com/articles/26/11/11/unpatched-exploit-allows-malicious-ios-apps-to-steal-data?utm_source=rss",
-      "pubDate": "2026-11-11T13:25:20.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPhone Duo photography overview: Great cameras that suffer in extreme low light",
-      "url": "https://appleinsider.com/articles/26/11/11/iphone-duo-photography-overview-great-cameras-that-suffer-in-extreme-low-light?utm_source=rss",
-      "pubDate": "2026-11-11T13:05:17.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Make Apple Watch Listen for Sounds Like the Doorbell",
@@ -358,20 +372,6 @@
       "title": "(Podcast) Designed in California 17: The World Changes (Part 5, Origin of the iPod)",
       "url": "https://sixcolors.com/podcast/2026/11/designed-in-california-17-the-world-changes-part-5-origin-of-the-ipod/",
       "pubDate": "2026-11-11T10:00:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "'Apple Support Community' Permanently Closing on November 20",
-      "url": "https://www.macrumors.com/2026/11/10/apple-support-community-closing-november-20/",
-      "pubDate": "2026-11-11T03:50:59.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple's Holiday Gift Guide Highlights iPhone Duo and More",
-      "url": "https://www.macrumors.com/2026/11/10/apple-hoilday-gift-guide/",
-      "pubDate": "2026-11-11T00:57:36.000Z"
     }
   ]
 }
