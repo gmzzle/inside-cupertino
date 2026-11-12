@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T22:42:24.476Z",
+  "generatedAt": "2026-11-12T03:49:21.823Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "A detailed explanation of Apple's Secure Exclaves has been shared",
+      "url": "https://appleinsider.com/articles/26/11/12/a-detailed-explanation-of-apples-secure-exclaves-has-been-shared?utm_source=rss",
+      "pubDate": "2026-11-12T02:58:10.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Nvidia CEO Jensen Huang expected to be ousted",
+      "url": "https://appleinsider.com/articles/26/11/11/nvidia-ceo-jensen-huang-expected-to-be-ousted?utm_source=rss",
+      "pubDate": "2026-11-11T22:52:29.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+      "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+      "pubDate": "2026-11-11T22:44:36.000Z"
+    },
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
@@ -290,13 +311,6 @@
       "pubDate": "2026-11-11T14:05:49.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Sony’s latest Pulse wireless headset packs planar magnetic drivers at a good price",
-      "url": "https://www.theverge.com/games/1031291/sony-playstation-pulse-wireless-gaming-headset-hands-on",
-      "pubDate": "2026-11-11T14:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "AirTag 2 4-Pack Hits Record Low $69.99 Price Ahead of Black Friday",
@@ -323,20 +337,6 @@
       "title": "iPhone Duo photography overview: Great cameras that suffer in extreme low light",
       "url": "https://appleinsider.com/articles/26/11/11/iphone-duo-photography-overview-great-cameras-that-suffer-in-extreme-low-light?utm_source=rss",
       "pubDate": "2026-11-11T13:05:17.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Thai politicians question Apple over iPhone spyware alerts",
-      "url": "https://appleinsider.com/articles/26/11/11/thai-politicians-question-apple-over-iphone-spyware-alerts?utm_source=rss",
-      "pubDate": "2026-11-11T12:24:09.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "From Mac Portable to PROLED MacBook Pro: 35 years of mobile Macs",
-      "url": "https://appleinsider.com/articles/26/11/06/from-mac-portable-to-proled-macbook-pro-35-years-of-mobile-macs?utm_source=rss",
-      "pubDate": "2026-11-11T12:15:56.000Z"
     },
     {
       "source": "MacRumors",
