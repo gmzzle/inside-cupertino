@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T09:34:08.340Z",
+  "generatedAt": "2026-11-13T17:45:32.150Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,74 +24,312 @@
   ],
   "items": [
     {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The smallest version of Camp Snap’s retro digital camcorder fits on your keychain",
+      "url": "https://www.theverge.com/tech/1033026/camp-snap-retro-digital-video-campcorder-cs-8-micro-keychain",
+      "pubDate": "2026-11-13T17:12:56.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Sponsor) Magic Lasso Adblock: Block ads in iPhone, iPad and Mac apps",
+      "url": "https://sixcolors.com/sponsor/2026/11/magic-lasso-adblock-block-ads-in-iphone-ipad-and-mac-apps-12/",
+      "pubDate": "2026-11-13T17:00:51.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "The MacRumors Show: HomeView and Apple TV 4K First Impressions",
+      "url": "https://www.macrumors.com/2026/11/13/the-macrumors-show-homeview-first-impressions/",
+      "pubDate": "2026-11-13T17:00:23.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Maps in iOS 27 has hidden new feature I’ve been loving",
+      "url": "https://9to5mac.com/2026/11/13/apple-maps-in-ios-27-has-hidden-new-feature-ive-been-loving/",
+      "pubDate": "2026-11-13T16:59:38.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "YouTube App Not Working on Your New Apple TV? Here's the Fix",
+      "url": "https://www.macrumors.com/2026/11/13/youtube-app-apple-tv-not-working-fix/",
+      "pubDate": "2026-11-13T16:59:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The new Apple TV has a YouTube problem",
+      "url": "https://www.theverge.com/tech/1033076/apple-tv-4k-youtube-error",
+      "pubDate": "2026-11-13T16:55:57.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Meets Thai Officials Over iPhone Spyware Warnings",
+      "url": "https://www.macrumors.com/2026/11/13/apple-thailand-spyware-warnings/",
+      "pubDate": "2026-11-13T16:32:40.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Deals: Apple TV 4K release day discount, Apple Watch Ultra $250 off, AirPods Pro 3, AirTag 2 all-time low, more",
+      "url": "https://9to5mac.com/2026/11/13/deals-apple-tv-4k-discount-airpods-pro-3-airtag-2/",
+      "pubDate": "2026-11-13T16:27:06.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Designing HomeView was a hard but fun journey, says Apple",
+      "url": "https://appleinsider.com/articles/26/11/13/designing-homeview-was-a-hard-but-fun-journey-says-apple?utm_source=rss",
+      "pubDate": "2026-11-13T16:22:22.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Shares HomeView 27.2 Release Notes With List of Features",
+      "url": "https://www.macrumors.com/2026/11/13/apple-shares-homeview-27-2-release-notes/",
+      "pubDate": "2026-11-13T16:21:42.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Microsoft&#8217;s massive Outlook outage continues",
+      "url": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
+      "pubDate": "2026-11-13T16:17:11.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The Verge’s 2026 gift guide for dads",
+      "url": "https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026",
+      "pubDate": "2026-11-13T16:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "My favorite recipe app just got a big upgrade — and a subscription fee",
+      "url": "https://www.theverge.com/tech/1032141/paprika-4-recipe-grocery-pantry-app-update-subscription-hands-on",
+      "pubDate": "2026-11-13T16:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27.2 has two CarPlay improvements, here’s what’s new",
+      "url": "https://9to5mac.com/2026/11/13/ios-27-2-has-two-carplay-improvements-heres-whats-new/",
+      "pubDate": "2026-11-13T15:59:49.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The best early Black Friday deals you can already shop",
+      "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+      "pubDate": "2026-11-13T15:49:27.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "OpenAI launches ChatGPT Wallet, enabling ‘dot’ agents to make purchases",
+      "url": "https://9to5mac.com/2026/11/13/openai-launches-chatgpt-wallet-enabling-dot-agents-to-make-purchases/",
+      "pubDate": "2026-11-13T15:46:54.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Siri AI is coming to Apple TV 4K, including models from 2021",
+      "url": "https://appleinsider.com/articles/26/11/13/siri-ai-is-coming-to-apple-tv-4k-including-models-from-2021?utm_source=rss",
+      "pubDate": "2026-11-13T15:43:14.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Security Bite: Apple details Secure Exclaves, a glimpse at its ambient computing future",
+      "url": "https://9to5mac.com/2026/11/13/security-bite-apple-details-secure-exclaves-a-glimpse-at-its-ambient-computing-future/",
+      "pubDate": "2026-11-13T15:42:20.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "HomeView in Québec: Apple Says Canadian French Support to Arrive in Software Update",
+      "url": "https://www.macrumors.com/2026/11/13/homeview-quebec-canadian-french/",
+      "pubDate": "2026-11-13T15:26:03.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Apple announces release dates for the first Apple Home Collection smart devices",
+      "url": "https://www.theverge.com/tech/1032920/apple-smart-home-collection-release-ship-dates-available-pricing",
+      "pubDate": "2026-11-13T15:22:14.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Home’s new video doorbell, smart cameras now available to order",
+      "url": "https://9to5mac.com/2026/11/13/apple-homes-new-video-doorbell-smart-cameras-now-available-to-order/",
+      "pubDate": "2026-11-13T15:14:32.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Best early Black Friday Mac mini, Mac Studio deals offer up to $205 off",
+      "url": "https://appleinsider.com/articles/26/11/13/best-early-black-friday-mac-mini-mac-studio-deals-offer-up-to-205-off?utm_source=rss",
+      "pubDate": "2026-11-13T15:11:29.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Watch Ultra 3 Gets Big $250 Discounts Ahead of Black Friday",
+      "url": "https://www.macrumors.com/2026/11/13/apple-watch-ultra-3-250-off/",
+      "pubDate": "2026-11-13T15:10:46.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Says HomeView Sets New Record in Design-Focused Interview",
+      "url": "https://www.macrumors.com/2026/11/13/apple-says-homeview-sets-new-record/",
+      "pubDate": "2026-11-13T15:03:46.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Best Apple Deals of the Week: AirTag 2 Hits Record Low Price, Plus Early Black Friday Sales",
+      "url": "https://www.macrumors.com/2026/11/13/best-apple-deals-of-the-week-11-13-26/",
+      "pubDate": "2026-11-13T14:53:49.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "What&#8217;s really at stake in the Jensen Huang saga",
+      "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+      "pubDate": "2026-11-13T14:47:16.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone 18 and 18e Coming in Spring 2027 With A20 Chip",
+      "url": "https://www.macrumors.com/2026/11/13/iphone-18-and-18e-coming-in-spring-2027/",
+      "pubDate": "2026-11-13T14:37:16.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Meta discussed attacking Jonathan Haidt — now even his haters are annoyed",
+      "url": "https://www.theverge.com/policy/1032645/jonathan-haidt-critics-response-meta",
+      "pubDate": "2026-11-13T14:30:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "King Charles to Join Elton John's Apple Music Radio Show",
+      "url": "https://www.macrumors.com/2026/11/13/king-charles-to-join-apple-music-radio-show/",
+      "pubDate": "2026-11-13T14:28:41.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "PSA: YouTube app not working on your new Apple TV? Here’s the fix",
+      "url": "https://9to5mac.com/2026/11/13/new-apple-tv-youtube-broken-fix/",
+      "pubDate": "2026-11-13T14:21:50.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "tvOS 27.2.1 launching soon with Siri AI for older Apple TV 4K models",
+      "url": "https://9to5mac.com/2026/11/13/tvos-27-2-1-launching-soon-with-siri-ai-for-older-apple-tv-4k-models/",
+      "pubDate": "2026-11-13T14:15:56.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+      "pubDate": "2026-11-13T14:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "New Apple TV 4K and HomeView now available: Here’s everything you need to know",
+      "url": "https://9to5mac.com/2026/11/13/new-apple-tv-4k-and-homeview-now-available-heres-everything-you-need-to-know/",
+      "pubDate": "2026-11-13T13:57:26.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's canceled iOS multitasking UI lives on, with AI-enhanced emulation",
+      "url": "https://appleinsider.com/articles/26/11/13/apples-canceled-ios-multitasking-ui-lives-on-with-ai-enhanced-emulation?utm_source=rss",
+      "pubDate": "2026-11-13T13:56:48.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Select 'Apple Home Collection' Accessories Now Available to Order",
+      "url": "https://www.macrumors.com/2026/11/13/apple-home-collection-orders-begin/",
+      "pubDate": "2026-11-13T13:53:31.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "First Apple Home Collection devices can now be ordered",
+      "url": "https://appleinsider.com/articles/26/11/13/first-apple-home-collection-devices-can-now-be-ordered?utm_source=rss",
+      "pubDate": "2026-11-13T13:10:25.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "PROLED MacBook Pros & Apple's place in the AI race on the AppleInsider Podcast",
+      "url": "https://appleinsider.com/articles/26/11/13/proled-macbook-pros-apples-place-in-the-ai-race-on-the-appleinsider-podcast?utm_source=rss",
+      "pubDate": "2026-11-13T13:02:49.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "How to watch 'A Charlie Brown Thanksgiving' for free this weekend",
+      "url": "https://appleinsider.com/inside/apple-tv-plus/tips/when-to-watch-a-charlie-brown-thanksgiving-for-free-on-apple-tv?utm_source=rss",
+      "pubDate": "2026-11-13T12:24:27.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Give your child more freedom with the right iPhone and iPad guardrails",
+      "url": "https://appleinsider.com/inside/ios-27/tips/give-your-child-more-freedom-with-the-right-iphone-and-ipad-guardrails?utm_source=rss",
+      "pubDate": "2026-11-13T12:22:03.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "First HomeView and Apple TV 4K pre-orders are arriving",
+      "url": "https://appleinsider.com/articles/26/11/13/first-homeview-and-apple-tv-4k-pre-orders-are-arriving?utm_source=rss",
+      "pubDate": "2026-11-13T12:08:26.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Major Microsoft 365 Outage Continues",
+      "url": "https://www.macrumors.com/2026/11/13/major-microsoft-365-outage-continues/",
+      "pubDate": "2026-11-13T11:55:16.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "macXenos lets you run Xbox 360 games on your Mac",
+      "url": "https://appleinsider.com/articles/26/11/13/macxenos-lets-you-run-xbox-360-games-on-your-mac?utm_source=rss",
+      "pubDate": "2026-11-13T11:48:38.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Outlook, Teams, Copilot, and more are inaccessible for millions",
+      "url": "https://appleinsider.com/articles/26/11/13/outlook-teams-copilot-and-more-are-inaccessible-for-millions?utm_source=rss",
+      "pubDate": "2026-11-13T11:19:33.000Z"
+    },
+    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Apple TV just debuted three new originals, including a heist thriller series",
       "url": "https://9to5mac.com/2026/11/12/apple-tv-just-debuted-three-new-originals-including-a-heist-thriller-series/",
       "pubDate": "2026-11-13T02:02:34.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Donald Trump really wants Tim Cook to run Nvidia",
-      "url": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang",
-      "pubDate": "2026-11-13T00:46:07.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Hands-On With the New Apple TV 4K and Siri AI",
-      "url": "https://www.macrumors.com/2026/11/12/apple-tv-4k-siri-hands-on/",
-      "pubDate": "2026-11-13T00:42:07.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Xbox announces Wolfenstein 3",
-      "url": "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3",
-      "pubDate": "2026-11-13T00:11:44.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Siri AI Coming to Older Apple TV 4K Models in tvOS 27.2.1",
-      "url": "https://www.macrumors.com/2026/11/12/siri-ai-tvos-27-2-1/",
-      "pubDate": "2026-11-12T23:57:48.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Whoop launched a social network where every user has a ‘verified heartbeat’",
-      "url": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network",
-      "pubDate": "2026-11-12T23:43:22.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Humble Bundle redesign removes two-factor verification from settings",
-      "url": "https://www.theverge.com/games/1032659/humble-bundle-redesign-two-factor-verification-security-settings",
-      "pubDate": "2026-11-12T23:30:52.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Microsoft Outlook is still down",
-      "url": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
-      "pubDate": "2026-11-12T23:24:13.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Xbox owners are getting more customizations for backgrounds and the Guide menu",
-      "url": "https://www.theverge.com/news/1032396/xbox-dashboard-guide-menu-right-side-background-shuffle-feature",
-      "pubDate": "2026-11-12T23:00:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "HomeView Launch Kicks Off as First Orders Reach Customers",
-      "url": "https://www.macrumors.com/2026/11/12/homeview-first-orders-arriving/",
-      "pubDate": "2026-11-12T22:50:59.000Z"
     },
     {
       "source": "9to5Mac",
@@ -101,235 +339,11 @@
       "pubDate": "2026-11-12T22:45:57.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Google’s new Gemini model is better at understanding complicated questions",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
-      "pubDate": "2026-11-12T21:55:32.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "‘It’s a mistake’: reactions from tech leaders on Jensen Huang’s resignation",
-      "url": "https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions",
-      "pubDate": "2026-11-12T21:45:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Oura Ring 4 is almost as good as the newer model, but $150 cheaper",
-      "url": "https://www.theverge.com/gadgets/1032311/oura-ring-4-smart-ring-deal-sale",
-      "pubDate": "2026-11-12T21:28:53.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Apple HomeView launches tomorrow, but its first security update is already here",
       "url": "https://9to5mac.com/2026/11/12/apple-homeview-launches-tomorrow-but-its-first-security-update-is-already-here/",
       "pubDate": "2026-11-12T21:14:40.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Here are the 25 original Xbox games you can now play on PC",
-      "url": "https://www.theverge.com/games/1032321/microsoft-xbox-original-games-pc-backwards-compatibility",
-      "pubDate": "2026-11-12T21:00:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple TV on board for new Brad Pitt film 'Connector'",
-      "url": "https://appleinsider.com/articles/26/11/12/apple-tv-on-board-for-new-brad-pitt-film-connector?utm_source=rss",
-      "pubDate": "2026-11-12T20:52:35.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Opera One for iOS adds Data Saver feature, cutting browsing data usage by up to 80%",
-      "url": "https://9to5mac.com/2026/11/12/opera-one-for-ios-adds-data-saver-feature-cutting-browsing-data-usage-by-up-to-80/",
-      "pubDate": "2026-11-12T20:52:21.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Continues to Move Up iPhone Duo Delivery Dates",
-      "url": "https://www.macrumors.com/2026/11/12/iphone-duo-delivery-dates-continue-to-move-up/",
-      "pubDate": "2026-11-12T20:28:50.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple TV announces new film ‘Connector’ starring Brad Pitt",
-      "url": "https://9to5mac.com/2026/11/12/apple-tv-announces-new-film-connector-starring-brad-pitt/",
-      "pubDate": "2026-11-12T20:12:44.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Elton John’s Apple Music show to feature King Charles in November 14 special",
-      "url": "https://9to5mac.com/2026/11/12/elton-johns-apple-music-show-to-feature-king-charles-in-november-14-special/",
-      "pubDate": "2026-11-12T20:07:30.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "X now lets you share 5x more photos and videos per post",
-      "url": "https://9to5mac.com/2026/11/12/x-now-lets-you-share-5x-more-photos-and-videos-per-post/",
-      "pubDate": "2026-11-12T20:05:12.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Explains How HomeView Keeps Camera Data Private",
-      "url": "https://www.macrumors.com/2026/11/12/apple-homeview-secure-exclaves/",
-      "pubDate": "2026-11-12T19:48:04.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27’s Find My app adds convenient feature I’ve long wished for",
-      "url": "https://9to5mac.com/2026/11/12/ios-27s-find-my-app-adds-convenient-feature-ive-long-wished-for/",
-      "pubDate": "2026-11-12T19:21:20.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "'The Dreamer' is just the first of Apple's heartstring-pullers for Christmas",
-      "url": "https://appleinsider.com/articles/26/11/12/the-dreamer-is-just-the-first-of-apples-heartstring-pullers-for-christmas?utm_source=rss",
-      "pubDate": "2026-11-12T19:16:12.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Releases Updated HomeView Software 27.2 Before Launch",
-      "url": "https://www.macrumors.com/2026/11/12/apple-homeview-software-27-2-24v526/",
-      "pubDate": "2026-11-12T19:05:12.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Kid Cue is the iPhone Duo's secret weapon",
-      "url": "https://appleinsider.com/articles/26/11/12/kid-cue-is-the-iphone-duos-secret-weapon?utm_source=rss",
-      "pubDate": "2026-11-12T18:55:02.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Microsoft Outlook experiencing widespread outage",
-      "url": "https://9to5mac.com/2026/11/12/microsoft-outlook-experiencing-widespread-outage/",
-      "pubDate": "2026-11-12T18:54:54.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "HomeView review, new Apple TV launches, Apple holiday ad",
-      "url": "https://9to5mac.com/2026/11/12/happy-hour-616/",
-      "pubDate": "2026-11-12T18:51:11.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Grok Bot for Mac adds integration with Apple Mail, Messages, Notes, and more",
-      "url": "https://9to5mac.com/2026/11/12/grok-bot-for-mac-adds-integration-with-apple-mail-messages-notes-and-more/",
-      "pubDate": "2026-11-12T18:40:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Google announces Gemini 4 Hydrogen with ‘significant leaps’ in speed, intelligence",
-      "url": "https://9to5google.com/2026/11/12/gemini-4-hydrogen-launch/",
-      "pubDate": "2026-11-12T18:20:44.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Donald Trump wants Tim Cook to be the next Nvidia CEO",
-      "url": "https://appleinsider.com/articles/26/11/12/donald-trump-wants-tim-cook-to-be-the-next-nvidia-ceo?utm_source=rss",
-      "pubDate": "2026-11-12T18:15:18.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Nvidia only the latest to look towards Apple for salvation",
-      "url": "https://appleinsider.com/articles/26/11/12/nvidia-only-the-latest-to-look-towards-apple-for-salvation?utm_source=rss",
-      "pubDate": "2026-11-12T17:58:54.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "New AAPL $425 target bets big on unproven iPhone Duo supercycle",
-      "url": "https://appleinsider.com/articles/26/11/12/new-aapl-425-target-bets-big-on-unproven-iphone-duo-supercycle?utm_source=rss",
-      "pubDate": "2026-11-12T17:23:39.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "UFC coverage comes to Apple Sports app",
-      "url": "https://appleinsider.com/articles/26/11/12/ufc-coverage-comes-to-apple-sports-app?utm_source=rss",
-      "pubDate": "2026-11-12T16:59:08.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Adds Samsung Foldables to Trade-In Program",
-      "url": "https://www.macrumors.com/2026/11/12/apple-adds-samsung-foldables-to-trade-in-program/",
-      "pubDate": "2026-11-12T16:43:45.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Sports App Now Features UFC",
-      "url": "https://www.macrumors.com/2026/11/12/apple-sports-app-ufc/",
-      "pubDate": "2026-11-12T16:34:22.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Trump Says Tim Cook Should Be Nvidia CEO as Jensen Huang Resigns",
-      "url": "https://www.macrumors.com/2026/11/12/trump-says-tim-cook-should-be-nvidia-ceo/",
-      "pubDate": "2026-11-12T16:21:09.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Elizabeth Banks and Ted Danson team up for Apple TV's 'She's Fine'",
-      "url": "https://appleinsider.com/articles/26/11/12/elizabeth-banks-and-ted-danson-team-up-for-apple-tvs-shes-fine?utm_source=rss",
-      "pubDate": "2026-11-12T16:10:21.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Mac malware doesn't need a security flaw when users do the work",
-      "url": "https://appleinsider.com/articles/26/11/12/mac-malware-doesnt-need-a-security-flaw-when-users-do-the-work?utm_source=rss",
-      "pubDate": "2026-11-12T15:57:49.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Releases Emotional 2026 Holiday Ad Featuring MacBook Neo",
-      "url": "https://www.macrumors.com/2026/11/12/apple-2026-holiday-ad/",
-      "pubDate": "2026-11-12T15:50:01.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple's Official iPhone 18 Pro Cases and Watch Bands Get Big Discounts on Amazon",
-      "url": "https://www.macrumors.com/2026/11/12/apple-accessories-amazon-sale/",
-      "pubDate": "2026-11-12T15:46:08.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Nintendo to End 'Sign in With Apple' Support in January",
-      "url": "https://www.macrumors.com/2026/11/12/nintendo-to-end-sign-in-with-apple-support/",
-      "pubDate": "2026-11-12T15:32:07.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Google's AI smart glasses work with iPhone, preorders are live",
-      "url": "https://appleinsider.com/articles/26/11/12/googles-ai-smart-glasses-work-with-iphone-preorders-are-live?utm_source=rss",
-      "pubDate": "2026-11-12T15:16:17.000Z"
     },
     {
       "source": "Six Colors",
@@ -358,20 +372,6 @@
       "title": "iFixit reveals the magic behind the new glowing MacBook Pro logo ↦",
       "url": "https://sixcolors.com/link/2026/11/ifixit-reveals-the-magic-behind-the-new-glowing-macbook-pro-logo/",
       "pubDate": "2026-11-11T15:23:56.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Ding dong, the Apple Support Community is dead ↦",
-      "url": "https://sixcolors.com/link/2026/11/ding-dong-the-apple-support-community-is-dead/",
-      "pubDate": "2026-11-11T15:13:39.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) Designed in California 17: The World Changes (Part 5, Origin of the iPod)",
-      "url": "https://sixcolors.com/podcast/2026/11/designed-in-california-17-the-world-changes-part-5-origin-of-the-ipod/",
-      "pubDate": "2026-11-11T10:00:00.000Z"
     }
   ]
 }
