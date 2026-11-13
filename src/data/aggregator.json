@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T01:50:45.759Z",
+  "generatedAt": "2026-11-13T09:34:08.340Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple TV just debuted three new originals, including a heist thriller series",
+      "url": "https://9to5mac.com/2026/11/12/apple-tv-just-debuted-three-new-originals-including-a-heist-thriller-series/",
+      "pubDate": "2026-11-13T02:02:34.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -255,13 +262,6 @@
       "pubDate": "2026-11-12T17:23:39.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Sports adds UFC events with real-time stats and results",
-      "url": "https://9to5mac.com/2026/11/12/apple-sports-adds-ufc-events-with-real-time-stats-and-results/",
-      "pubDate": "2026-11-12T17:00:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "UFC coverage comes to Apple Sports app",
@@ -332,13 +332,6 @@
       "pubDate": "2026-11-12T15:16:17.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Roku bails out of Smart Home market after four years",
-      "url": "https://appleinsider.com/articles/26/11/12/roku-bails-out-of-smart-home-market-after-four-years?utm_source=rss",
-      "pubDate": "2026-11-12T15:15:03.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "HomeView review: A late arrival, still showing some seams",
@@ -372,6 +365,13 @@
       "title": "Ding dong, the Apple Support Community is dead ↦",
       "url": "https://sixcolors.com/link/2026/11/ding-dong-the-apple-support-community-is-dead/",
       "pubDate": "2026-11-11T15:13:39.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) Designed in California 17: The World Changes (Part 5, Origin of the iPod)",
+      "url": "https://sixcolors.com/podcast/2026/11/designed-in-california-17-the-world-changes-part-5-origin-of-the-ipod/",
+      "pubDate": "2026-11-11T10:00:00.000Z"
     }
   ]
 }
