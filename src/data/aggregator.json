@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T23:35:49.393Z",
+  "generatedAt": "2026-11-14T06:27:18.019Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,11 +24,18 @@
   ],
   "items": [
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Tired of paying for cloud storage every month? pCloud’s Black Friday Lifetime deal is the cure for subscription fatigue",
-      "url": "https://9to5mac.com/2026/11/13/tired-paying-cloud-storage-every-month-pclouds-black-friday-lifetime-deal-cure-subscription-fatigue/",
-      "pubDate": "2026-11-13T23:00:00.000Z"
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
+      "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
+      "pubDate": "2026-11-14T01:53:04.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Amazon has a plan to index the world’s online shopping data",
+      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "pubDate": "2026-11-13T23:49:11.000Z"
     },
     {
       "source": "MacRumors",
@@ -43,13 +50,6 @@
       "title": "Apple details HomeView facial recognition, repair options, and more in new support guides",
       "url": "https://9to5mac.com/2026/11/13/apple-details-homeview-facial-recognition-repair-options-and-more-in-new-support-guides/",
       "pubDate": "2026-11-13T21:59:21.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "FAA ground stop shuts down flights nationwide",
-      "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
-      "pubDate": "2026-11-13T21:38:25.000Z"
     },
     {
       "source": "9to5Mac",
@@ -276,18 +276,18 @@
       "pubDate": "2026-11-13T16:17:11.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Verge’s 2026 gift guide for dads",
-      "url": "https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026",
-      "pubDate": "2026-11-13T16:00:00.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "iOS 27.2 has two CarPlay improvements, here’s what’s new",
       "url": "https://9to5mac.com/2026/11/13/ios-27-2-has-two-carplay-improvements-heres-whats-new/",
       "pubDate": "2026-11-13T15:59:49.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "OpenAI launches ChatGPT Wallet, enabling ‘dot’ agents to make purchases",
+      "url": "https://9to5mac.com/2026/11/13/openai-launches-chatgpt-wallet-enabling-dot-agents-to-make-purchases/",
+      "pubDate": "2026-11-13T15:46:54.000Z"
     },
     {
       "source": "MacRumors",
