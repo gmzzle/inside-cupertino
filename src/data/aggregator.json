@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T06:27:18.019Z",
+  "generatedAt": "2026-11-14T14:10:19.261Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,6 +24,41 @@
   ],
   "items": [
     {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Top Stories: Apple's New Software Approach, iPhone Duo-Optimized Apps, and More",
+      "url": "https://www.macrumors.com/2026/11/14/top-stories-apple-new-software-approach/",
+      "pubDate": "2026-11-14T14:00:08.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple @ Work: The spiritual successor to the Xserve is here, thanks to Apple silicon and MLX",
+      "url": "https://9to5mac.com/2026/11/14/apple-work-the-spiritual-successor-to-the-xserve-is-here-and-apple-never-had-to-ship-an-llm-to-get-there/",
+      "pubDate": "2026-11-14T14:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Early Black Friday Apple deals: AirPods, AirTag 2, MacBook Air, Apple Pencil, Mac mini, more",
+      "url": "https://9to5mac.com/2026/11/14/early-black-friday-apple-deals-apple-tv-4k-airpods/",
+      "pubDate": "2026-11-14T13:05:05.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "A gadget to make your dumb house smarter",
+      "url": "https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer",
+      "pubDate": "2026-11-14T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+      "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+      "pubDate": "2026-11-14T12:00:00.000Z"
+    },
+    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
@@ -36,6 +71,13 @@
       "title": "Amazon has a plan to index the world’s online shopping data",
       "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
       "pubDate": "2026-11-13T23:49:11.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Tired of paying for cloud storage every month? pCloud’s Black Friday Lifetime deal is the cure for subscription fatigue",
+      "url": "https://9to5mac.com/2026/11/13/tired-paying-cloud-storage-every-month-pclouds-black-friday-lifetime-deal-cure-subscription-fatigue/",
+      "pubDate": "2026-11-13T23:00:00.000Z"
     },
     {
       "source": "MacRumors",
@@ -234,25 +276,11 @@
       "pubDate": "2026-11-13T16:59:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The new Apple TV has a YouTube problem",
-      "url": "https://www.theverge.com/tech/1033076/apple-tv-4k-youtube-error",
-      "pubDate": "2026-11-13T16:55:57.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Meets Thai Officials Over iPhone Spyware Warnings",
       "url": "https://www.macrumors.com/2026/11/13/apple-thailand-spyware-warnings/",
       "pubDate": "2026-11-13T16:32:40.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: Apple TV 4K release day discount, Apple Watch Ultra $250 off, AirPods Pro 3, AirTag 2 all-time low, more",
-      "url": "https://9to5mac.com/2026/11/13/deals-apple-tv-4k-discount-airpods-pro-3-airtag-2/",
-      "pubDate": "2026-11-13T16:27:06.000Z"
     },
     {
       "source": "AppleInsider",
@@ -269,27 +297,6 @@
       "pubDate": "2026-11-13T16:21:42.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Microsoft&#8217;s massive Outlook outage might be over",
-      "url": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
-      "pubDate": "2026-11-13T16:17:11.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27.2 has two CarPlay improvements, here’s what’s new",
-      "url": "https://9to5mac.com/2026/11/13/ios-27-2-has-two-carplay-improvements-heres-whats-new/",
-      "pubDate": "2026-11-13T15:59:49.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "OpenAI launches ChatGPT Wallet, enabling ‘dot’ agents to make purchases",
-      "url": "https://9to5mac.com/2026/11/13/openai-launches-chatgpt-wallet-enabling-dot-agents-to-make-purchases/",
-      "pubDate": "2026-11-13T15:46:54.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "HomeView in Québec: Apple Says Canadian French Support to Arrive in Software Update",
@@ -302,13 +309,6 @@
       "title": "Best early Black Friday Mac mini, Mac Studio deals offer up to $205 off",
       "url": "https://appleinsider.com/articles/26/11/13/best-early-black-friday-mac-mini-mac-studio-deals-offer-up-to-205-off?utm_source=rss",
       "pubDate": "2026-11-13T15:11:29.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Watch Ultra 3 Gets Big $250 Discounts Ahead of Black Friday",
-      "url": "https://www.macrumors.com/2026/11/13/apple-watch-ultra-3-250-off/",
-      "pubDate": "2026-11-13T15:10:46.000Z"
     },
     {
       "source": "AppleInsider",
