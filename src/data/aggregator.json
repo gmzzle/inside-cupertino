@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T14:10:19.261Z",
+  "generatedAt": "2026-11-14T19:11:10.484Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,6 +24,55 @@
   ],
   "items": [
     {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Work to replace old copper wire led to the FAA’s ground stop",
+      "url": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire",
+      "pubDate": "2026-11-14T17:44:28.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Here’s a HomeView feature that should come to every Apple device",
+      "url": "https://9to5mac.com/2026/11/14/homeview-ambient-dark-mode-should-come-to-all-devices/",
+      "pubDate": "2026-11-14T17:43:49.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Black Friday Starts Early: Save on Apple Watch, MacBook Air, and More",
+      "url": "https://www.macrumors.com/2026/11/14/early-apple-black-friday-deals-2/",
+      "pubDate": "2026-11-14T15:25:16.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Here are our favorite deals from REI’s giant Holiday Sale",
+      "url": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026",
+      "pubDate": "2026-11-14T15:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "pubDate": "2026-11-14T15:00:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Save $500 on Apple's M5 Max 14-inch MacBook Pro with 2TB SSD",
+      "url": "https://appleinsider.com/articles/26/11/14/save-500-on-apples-m5-max-14-inch-macbook-pro-with-2tb-ssd?utm_source=rss",
+      "pubDate": "2026-11-14T14:29:52.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
+      "url": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
+      "pubDate": "2026-11-14T14:18:36.000Z"
+    },
+    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Top Stories: Apple's New Software Approach, iPhone Duo-Optimized Apps, and More",
@@ -35,6 +84,13 @@
       "sourceHomepage": "https://9to5mac.com",
       "title": "Apple @ Work: The spiritual successor to the Xserve is here, thanks to Apple silicon and MLX",
       "url": "https://9to5mac.com/2026/11/14/apple-work-the-spiritual-successor-to-the-xserve-is-here-and-apple-never-had-to-ship-an-llm-to-get-there/",
+      "pubDate": "2026-11-14T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers",
+      "url": "https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on",
       "pubDate": "2026-11-14T14:00:00.000Z"
     },
     {
@@ -115,13 +171,6 @@
       "pubDate": "2026-11-13T20:34:19.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price",
-      "url": "https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale",
-      "pubDate": "2026-11-13T20:30:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Siri AI Still Not Enabled on HomePod Mini 2 With Latest Software Update",
@@ -171,13 +220,6 @@
       "pubDate": "2026-11-13T19:26:39.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Here’s how you can save on your GTA VI preorder ahead of launch",
-      "url": "https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale",
-      "pubDate": "2026-11-13T19:14:38.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Microsoft 365 Outage Resolving After Nearly 24 Hours",
@@ -210,14 +252,7 @@
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple TV 4K Launch Day Deal Arrives at Amazon",
       "url": "https://www.macrumors.com/2026/11/13/apple-tv-4k-launch-day-deal/",
-      "pubDate": "2026-11-13T18:16:52.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "You can adjust the position of the trackball on Keychron’s new wireless mouse",
-      "url": "https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable",
-      "pubDate": "2026-11-13T18:10:41.000Z"
+      "pubDate": "2026-11-13T18:16:44.000Z"
     },
     {
       "source": "9to5Mac",
@@ -225,20 +260,6 @@
       "title": "9to5Mac Daily: November 13, 2026 – New Apple TV 4K and HomeView now available",
       "url": "https://9to5mac.com/2026/11/13/daily-november-13-2026/",
       "pubDate": "2026-11-13T18:04:08.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Jensen Huang was reckless with the environment, too",
-      "url": "https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution",
-      "pubDate": "2026-11-13T17:44:22.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The smallest version of Camp Snap’s retro digital camcorder fits on your keychain",
-      "url": "https://www.theverge.com/tech/1033026/camp-snap-retro-digital-video-campcorder-cs-8-micro-keychain",
-      "pubDate": "2026-11-13T17:12:56.000Z"
     },
     {
       "source": "Six Colors",
@@ -260,13 +281,6 @@
       "title": "This tiny iOS 27 camera feature really makes a huge difference",
       "url": "https://9to5mac.com/2026/11/13/this-tiny-ios-27-camera-feature-really-makes-a-huge-difference/",
       "pubDate": "2026-11-13T17:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Maps in iOS 27 has hidden new feature I’ve been loving",
-      "url": "https://9to5mac.com/2026/11/13/apple-maps-in-ios-27-has-hidden-new-feature-ive-been-loving/",
-      "pubDate": "2026-11-13T16:59:38.000Z"
     },
     {
       "source": "MacRumors",
@@ -295,13 +309,6 @@
       "title": "Apple Shares HomeView 27.2 Release Notes With List of Features",
       "url": "https://www.macrumors.com/2026/11/13/apple-shares-homeview-27-2-release-notes/",
       "pubDate": "2026-11-13T16:21:42.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "HomeView in Québec: Apple Says Canadian French Support to Arrive in Software Update",
-      "url": "https://www.macrumors.com/2026/11/13/homeview-quebec-canadian-french/",
-      "pubDate": "2026-11-13T15:26:03.000Z"
     },
     {
       "source": "AppleInsider",
@@ -344,13 +351,6 @@
       "title": "Give your child more freedom with the right iPhone and iPad guardrails",
       "url": "https://appleinsider.com/inside/ios-27/tips/give-your-child-more-freedom-with-the-right-iphone-and-ipad-guardrails?utm_source=rss",
       "pubDate": "2026-11-13T12:22:03.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "First HomeView and Apple TV 4K pre-orders are arriving",
-      "url": "https://appleinsider.com/articles/26/11/13/first-homeview-and-apple-tv-4k-pre-orders-are-arriving?utm_source=rss",
-      "pubDate": "2026-11-13T12:08:26.000Z"
     },
     {
       "source": "Six Colors",
