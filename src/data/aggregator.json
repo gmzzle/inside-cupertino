@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T17:44:03.878Z",
+  "generatedAt": "2026-11-15T22:51:01.219Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,69 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Listen to this: Armand Hammer’s Snakes &#038; Ladders",
+      "url": "https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review",
+      "pubDate": "2026-11-15T21:49:22.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Here’s one small change that could improve iPhone Duo’s unoptimized apps",
+      "url": "https://9to5mac.com/2026/11/15/iphone-duo-default-split-view-option-suggestion/",
+      "pubDate": "2026-11-15T21:44:51.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
+      "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+      "pubDate": "2026-11-15T21:05:02.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Sunday Reboot: Unhinged robots and commentator curses",
+      "url": "https://appleinsider.com/articles/26/11/15/sunday-reboot-unhinged-robots-and-commentator-curses?utm_source=rss",
+      "pubDate": "2026-11-15T20:52:46.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+      "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+      "pubDate": "2026-11-15T20:43:49.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "pubDate": "2026-11-15T19:15:43.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple TV+ 'Slow Horses' faces the glue factory after eight seasons",
+      "url": "https://appleinsider.com/articles/26/11/15/apple-tv-slow-horses-faces-the-glue-factory-after-eight-seasons?utm_source=rss",
+      "pubDate": "2026-11-15T18:38:06.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Early Apple Watch Black Friday Deals Arrive With Series 12 Hitting New Record Lows",
+      "url": "https://www.macrumors.com/2026/11/15/early-apple-watch-black-friday-deals/",
+      "pubDate": "2026-11-15T17:59:53.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple's Smart Glasses Strategy Hinges on Siri and iPhone Apps",
+      "url": "https://www.macrumors.com/2026/11/15/apple-smart-glasses-hinge-on-siri/",
+      "pubDate": "2026-11-15T17:55:32.000Z"
+    },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
@@ -192,32 +255,11 @@
       "pubDate": "2026-11-14T22:02:41.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
-      "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
-      "pubDate": "2026-11-14T21:44:44.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Indie App Spotlight: ‘Milton’ lets you turn your old iPad into a home dashboard",
       "url": "https://9to5mac.com/2026/11/14/indie-app-spotlight-milton-lets-you-turn-your-old-ipad-into-a-home-dashboard/",
       "pubDate": "2026-11-14T20:30:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Magic: The Gathering is getting a Netflix animated series. For real this time.",
-      "url": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series",
-      "pubDate": "2026-11-14T19:47:40.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Work to replace old copper wire led to the FAA’s ground stop",
-      "url": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire",
-      "pubDate": "2026-11-14T17:44:28.000Z"
     },
     {
       "source": "9to5Mac",
@@ -234,13 +276,6 @@
       "pubDate": "2026-11-14T15:25:09.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Here are our favorite deals from REI’s giant Holiday Sale",
-      "url": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026",
-      "pubDate": "2026-11-14T15:00:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Save $500 on Apple's M5 Max 14-inch MacBook Pro with 2TB SSD",
@@ -253,13 +288,6 @@
       "title": "Top Stories: Apple's New Software Approach, iPhone Duo-Optimized Apps, and More",
       "url": "https://www.macrumors.com/2026/11/14/top-stories-apple-new-software-approach/",
       "pubDate": "2026-11-14T14:00:08.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple @ Work: The spiritual successor to the Xserve is here, thanks to Apple silicon and MLX",
-      "url": "https://9to5mac.com/2026/11/14/apple-work-the-spiritual-successor-to-the-xserve-is-here-and-apple-never-had-to-ship-an-llm-to-get-there/",
-      "pubDate": "2026-11-14T14:00:00.000Z"
     },
     {
       "source": "MacRumors",
@@ -290,13 +318,6 @@
       "pubDate": "2026-11-13T19:43:44.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Siri AI has arrived on 2021 and newer Apple TV 4K models",
-      "url": "https://appleinsider.com/articles/26/11/13/siri-ai-is-coming-to-apple-tv-4k-including-models-from-2021?utm_source=rss",
-      "pubDate": "2026-11-13T19:42:49.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Releases tvOS 27.2.1 With Siri AI for Older Apple TVs",
@@ -309,13 +330,6 @@
       "title": "Microsoft 365 Outage Resolving After Nearly 24 Hours",
       "url": "https://www.macrumors.com/2026/11/13/microsoft-365-outage-resolving/",
       "pubDate": "2026-11-13T19:00:35.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "100,000 iPhone Duo apps is a start, but there's a long way to go",
-      "url": "https://appleinsider.com/articles/26/11/13/100000-iphone-duo-apps-is-a-start-but-theres-a-long-way-to-go?utm_source=rss",
-      "pubDate": "2026-11-13T18:55:54.000Z"
     },
     {
       "source": "MacRumors",
@@ -337,20 +351,6 @@
       "title": "(Sponsor) Magic Lasso Adblock: Block ads in iPhone, iPad and Mac apps",
       "url": "https://sixcolors.com/sponsor/2026/11/magic-lasso-adblock-block-ads-in-iphone-ipad-and-mac-apps-12/",
       "pubDate": "2026-11-13T17:00:51.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "The MacRumors Show: HomeView and Apple TV 4K First Impressions",
-      "url": "https://www.macrumors.com/2026/11/13/the-macrumors-show-homeview-first-impressions/",
-      "pubDate": "2026-11-13T17:00:23.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "YouTube App Not Working on Your New Apple TV? Here's the Fix",
-      "url": "https://www.macrumors.com/2026/11/13/youtube-app-apple-tv-not-working-fix/",
-      "pubDate": "2026-11-13T16:59:00.000Z"
     },
     {
       "source": "Six Colors",
