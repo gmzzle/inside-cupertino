@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T23:00:03.300Z",
+  "generatedAt": "2026-11-15T02:41:43.734Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Hands-on: ESR’s MagSafe kickstand charger solves two key iPhone Duo shortcomings",
+      "url": "https://9to5mac.com/2026/11/14/hands-on-esrs-magsafe-kickstand-charger-solves-two-key-iphone-duo-shortcomings/",
+      "pubDate": "2026-11-15T00:42:21.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -239,13 +246,6 @@
       "title": "Microsoft 365 Outage Resolving After Nearly 24 Hours",
       "url": "https://www.macrumors.com/2026/11/13/microsoft-365-outage-resolving/",
       "pubDate": "2026-11-13T19:00:35.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27.3 adds three new features I’ve used almost every day",
-      "url": "https://9to5mac.com/2026/11/13/ios-27-3-adds-three-new-features-ive-used-almost-every-day/",
-      "pubDate": "2026-11-13T18:56:41.000Z"
     },
     {
       "source": "AppleInsider",
