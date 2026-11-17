@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T22:06:41.071Z",
+  "generatedAt": "2026-11-17T04:30:11.818Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,6 +24,97 @@
   ],
   "items": [
     {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPhone Duo gets one of Face ID’s best features with upcoming iOS 27.3 update",
+      "url": "https://9to5mac.com/2026/11/16/iphone-duo-gets-one-of-face-ids-best-features-with-upcoming-ios-27-3-update/",
+      "pubDate": "2026-11-17T03:15:50.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "tvOS 27.3 beta 2 brings Siri AI to Apple TV beta testers",
+      "url": "https://9to5mac.com/2026/11/16/tvos-27-3-beta-2-brings-siri-ai-to-apple-tv-beta-testers/",
+      "pubDate": "2026-11-17T01:36:22.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Keychron K2 Ultra 8K review: More affordable 8KHz polling & custom RGB",
+      "url": "https://appleinsider.com/articles/26/11/17/keychron-k2-ultra-8k-review-more-affordable-8khz-polling-custom-rgb?utm_source=rss",
+      "pubDate": "2026-11-17T00:41:49.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Former Apple chairman Arthur Levinson files to sell $31.8 million in company stock",
+      "url": "https://9to5mac.com/2026/11/16/former-apple-chairman-arthur-levinson-files-to-sell-31-8-million-in-company-stock/",
+      "pubDate": "2026-11-17T00:32:01.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Everything New in iOS 27.3 Beta 2",
+      "url": "https://www.macrumors.com/2026/11/16/ios-27-3-beta-2-everything-new/",
+      "pubDate": "2026-11-17T00:15:18.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: November 16, 2026 – Apple glasses rumors, more",
+      "url": "https://9to5mac.com/2026/11/16/daily-november-16-2026/",
+      "pubDate": "2026-11-17T00:09:13.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Sihoo’s ergonomic office chair gives all-year comfort at lowest price for holidays",
+      "url": "https://9to5mac.com/2026/11/16/sihoos-ergonomic-office-chair-gives-all-year-comfort-at-lowest-price-for-holidays/",
+      "pubDate": "2026-11-17T00:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Hacker behind 2022 GTA VI leaks pleads guilty",
+      "url": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj",
+      "pubDate": "2026-11-16T23:35:58.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+      "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+      "pubDate": "2026-11-16T23:17:34.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "macOS 27.3 beta 2 lets you limit what AI automation apps can see and do",
+      "url": "https://appleinsider.com/articles/26/11/16/macos-273-beta-2-lets-you-limit-what-ai-automation-apps-can-see-and-do?utm_source=rss",
+      "pubDate": "2026-11-16T22:57:17.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "United Airlines system outage disrupts departures just days after the big ground stop",
+      "url": "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures",
+      "pubDate": "2026-11-16T22:54:59.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Plans to Release These 18 New Products Next Year",
+      "url": "https://www.macrumors.com/2026/11/16/apple-18-new-products-next-year/",
+      "pubDate": "2026-11-16T22:40:53.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "‘Schmigadoon!’ and ‘Widow’s Bay’ land Apple TV two Grammy nominations",
+      "url": "https://9to5mac.com/2026/11/16/schmigadoon-and-widows-bay-land-apple-tv-two-grammy-nominations/",
+      "pubDate": "2026-11-16T22:20:37.000Z"
+    },
+    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple's face unlock for iPhone Duo works well, avoids Android's issues",
@@ -42,7 +133,7 @@
       "sourceHomepage": "https://www.macrumors.com",
       "title": "iPhone Duo Orders Will Now Arrive Before the Holidays",
       "url": "https://www.macrumors.com/2026/11/16/iphone-duo-orders-early-arrival/",
-      "pubDate": "2026-11-16T21:50:37.000Z"
+      "pubDate": "2026-11-16T21:50:33.000Z"
     },
     {
       "source": "The Verge",
@@ -171,46 +262,11 @@
       "pubDate": "2026-11-16T19:50:47.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Mercedes-Benz takes on Tesla FSD with new point-to-point city driving assist",
-      "url": "https://www.theverge.com/transportation/1034321/mercedes-benz-mb-drive-assist-pro-hands-free-highway-assist-2027",
-      "pubDate": "2026-11-16T19:49:12.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "New in iOS 27.3 beta 2: Front camera unlock, Siri AI in Safari, more",
       "url": "https://appleinsider.com/articles/26/11/16/new-in-ios-273-beta-2-front-camera-unlock-siri-ai-in-safari-more?utm_source=rss",
       "pubDate": "2026-11-16T19:44:37.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "MagSafe Monday: MOFT’s Trackable Field Wallet holds eight cards, cash, and supports Find My",
-      "url": "https://9to5mac.com/2026/11/16/moft-trackable-field-wallet/",
-      "pubDate": "2026-11-16T19:32:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "First macOS Sequoia 15.8.4 and macOS Tahoe 26.7.4 RCs rolling out",
-      "url": "https://9to5mac.com/2026/11/16/first-macos-sequoia-15-8-4-and-macos-tahoe-26-7-4-rcs-rolling-out/",
-      "pubDate": "2026-11-16T19:27:57.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Everything new in iOS 27.3 beta 2",
-      "url": "https://9to5mac.com/2026/11/16/everything-new-in-ios-27-3-beta-2-so-far/",
-      "pubDate": "2026-11-16T19:24:53.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
-      "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
-      "pubDate": "2026-11-16T19:24:40.000Z"
     },
     {
       "source": "AppleInsider",
@@ -227,13 +283,6 @@
       "pubDate": "2026-11-16T19:24:18.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
-      "url": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
-      "pubDate": "2026-11-16T19:23:45.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple News+ Puzzles Come to UK, Australia, and French Canada",
@@ -241,32 +290,11 @@
       "pubDate": "2026-11-16T19:21:07.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27.3 brings vertical video and video podcasts to Apple TV app",
-      "url": "https://9to5mac.com/2026/11/16/ios-27-3-brings-vertical-video-and-video-podcasts-to-apple-tv-app/",
-      "pubDate": "2026-11-16T19:21:04.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "You can now ask Siri AI questions about your health data, with iOS 27.3 beta 2",
-      "url": "https://9to5mac.com/2026/11/16/siri-ai-health-app-questions-ios-27/",
-      "pubDate": "2026-11-16T19:16:41.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "macOS Golden Gate 27.3 Beta 2 Now Available for Developers",
       "url": "https://www.macrumors.com/2026/11/16/macos-golden-gate-27-3-beta-2/",
       "pubDate": "2026-11-16T19:15:44.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "macOS 27.3 beta 2 now available with vertical tabs in Safari, native Live Activities, more",
-      "url": "https://9to5mac.com/2026/11/16/macos-27-3-beta-2-now-available/",
-      "pubDate": "2026-11-16T19:14:31.000Z"
     },
     {
       "source": "MacRumors",
@@ -297,20 +325,6 @@
       "pubDate": "2026-11-16T18:29:53.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "iOS 27.3 Adds 'Ask About Page' Siri AI Feature to Safari",
-      "url": "https://www.macrumors.com/2026/11/16/siri-ai-ask-about-page-safari/",
-      "pubDate": "2026-11-16T18:24:57.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Says More Than 200,000 Apps Now Optimized for iPhone Duo",
-      "url": "https://www.macrumors.com/2026/11/16/apple-says-200k-apps-optimized-for-iphone-duo/",
-      "pubDate": "2026-11-16T18:23:29.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "US Apple site, but not the store, is now available in Spanish",
@@ -334,13 +348,6 @@
     {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
-      "title": "This classic Frog Design compact Mac prototype is reborn",
-      "url": "https://appleinsider.com/articles/26/11/16/this-frog-design-compact-mac-prototype-project?utm_source=rss",
-      "pubDate": "2026-11-16T17:56:54.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
       "title": "Gotta catch these Pokemon 30th anniversary items from Apple Japan",
       "url": "https://appleinsider.com/articles/26/11/16/gotta-catch-these-pokemon-30th-anniversary-items-from-apple-japan?utm_source=rss",
       "pubDate": "2026-11-16T17:54:48.000Z"
@@ -353,25 +360,18 @@
       "pubDate": "2026-11-16T17:46:42.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple Music's Drake helped steer the unfilmable 'Neuromancer' to Apple TV",
-      "url": "https://appleinsider.com/articles/26/11/16/apple-musics-drake-helped-steer-the-unfilmable-neuromancer-to-apple-tv?utm_source=rss",
-      "pubDate": "2026-11-16T17:18:36.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple TV 4K & HomeView review with Brian Tong on Smart Home Insider",
-      "url": "https://appleinsider.com/articles/26/11/16/apple-tv-4k-homeview-review-with-brian-tong-on-smart-home-insider?utm_source=rss",
-      "pubDate": "2026-11-16T16:22:08.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Siri AI and iPhone apps are the cornerstones of Apple’s hardware strategy",
       "url": "https://sixcolors.com/post/2026/11/siri-ai-and-iphone-apps-are-the-cornerstones-of-apples-hardware-strategy/",
       "pubDate": "2026-11-16T13:23:38.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Sponsor) Magic Lasso Adblock: Block ads in iPhone, iPad and Mac apps",
+      "url": "https://sixcolors.com/sponsor/2026/11/magic-lasso-adblock-block-ads-in-iphone-ipad-and-mac-apps-12/",
+      "pubDate": "2026-11-13T17:00:51.000Z"
     }
   ]
 }
