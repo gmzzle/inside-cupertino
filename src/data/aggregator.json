@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T04:24:58.670Z",
+  "generatedAt": "2026-11-18T14:01:36.311Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,223 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "How The Verge is picking which Black Friday deals to share",
+      "url": "https://www.theverge.com/gadgets/1034715/how-the-verge-finds-deals",
+      "pubDate": "2026-11-18T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Will Wright’s next game uses AI to map your memories",
+      "url": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
+      "pubDate": "2026-11-18T14:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Amazon Takes $850 Off 2026 16-Inch MacBook Pro With M5 Max Chip",
+      "url": "https://www.macrumors.com/2026/11/18/amazon-850-off-macbook-pro/",
+      "pubDate": "2026-11-18T13:54:43.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Curved glass edges of iPhone 20 will be practically invisible from the front",
+      "url": "https://appleinsider.com/articles/26/11/18/curved-glass-edges-of-iphone-20-will-be-practically-invisible-from-the-front?utm_source=rss",
+      "pubDate": "2026-11-18T13:30:55.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Leaker claims Apple developing four models of 20th anniversary iPhone",
+      "url": "https://9to5mac.com/2026/11/18/leaker-claims-apple-developing-four-models-of-20th-anniversary-iphone/",
+      "pubDate": "2026-11-18T13:30:06.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "HomeView is harder to disassemble and repair than it should be",
+      "url": "https://appleinsider.com/articles/26/11/17/differences-between-both-apple-homeview-models-revealed-in-teardown?utm_source=rss",
+      "pubDate": "2026-11-18T13:25:52.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "WhatsApp's iCloud Backup Alternative Rolls Out to Beta Users on iPhone",
+      "url": "https://www.macrumors.com/2026/11/18/whatsapp-backup-alternative-rolls-out-beta-ios/",
+      "pubDate": "2026-11-18T13:14:09.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "The Android camera app that doesn’t overprocess adds new color grading sets, expands to iPhone",
+      "url": "https://9to5google.com/2026/11/18/vwfndr-mbl-camera-app-color-grading-android-iphone-release/",
+      "pubDate": "2026-11-18T13:10:02.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Six new Aqara smart lights with Apple Home support and ‘spatial intelligence’",
+      "url": "https://9to5mac.com/2026/11/18/six-new-aqara-smart-lights-with-apple-home-support-and-spatial-intelligence/",
+      "pubDate": "2026-11-18T13:06:32.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Phishing scams get a new watchdog as Moonlock expands to iPhone",
+      "url": "https://appleinsider.com/articles/26/11/18/phishing-scams-get-a-new-watchdog-as-moonlock-expands-to-iphone?utm_source=rss",
+      "pubDate": "2026-11-18T13:03:05.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Nvidia isn’t selling any more AI chips to China",
+      "url": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
+      "pubDate": "2026-11-18T13:01:05.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Adobe Black Friday deals slash up to 77% off Creative Cloud Pro, Firefly AI tools",
+      "url": "https://appleinsider.com/articles/26/11/18/adobe-black-friday-deals-slash-up-to-77-off-creative-cloud-pro-firefly-ai-tools?utm_source=rss",
+      "pubDate": "2026-11-18T13:00:33.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "MacPaw's Moonlock Cybersecurity App Launches for iPhone",
+      "url": "https://www.macrumors.com/2026/11/18/macpaw-moonlock-cybersecurity-app-iphone/",
+      "pubDate": "2026-11-18T13:00:05.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "MacPaw’s Moonlock comes to iPhone, helping users detect potential scams",
+      "url": "https://9to5mac.com/2026/11/18/macpaws-moonlock-comes-to-iphone-helping-users-detect-potential-scams/",
+      "pubDate": "2026-11-18T13:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Reportedly Developing Two Designs for 20th Anniversary iPhone",
+      "url": "https://www.macrumors.com/2026/11/18/two-designs-for-20th-anniversary-iphone/",
+      "pubDate": "2026-11-18T12:57:25.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iCloud+ subscribers get more Siri AI allowances, but not everywhere",
+      "url": "https://appleinsider.com/articles/26/11/18/icloud-subscribers-get-more-siri-ai-allowances-but-not-everywhere?utm_source=rss",
+      "pubDate": "2026-11-18T12:56:43.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Mass iPhone 18 and iPhone Air 2 display production not starting until January",
+      "url": "https://appleinsider.com/articles/26/11/18/mass-iphone-18-and-iphone-air-2-display-production-not-starting-until-january?utm_source=rss",
+      "pubDate": "2026-11-18T12:55:54.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "India gets all-new Apple Maps experience",
+      "url": "https://appleinsider.com/articles/26/11/18/india-gets-all-new-apple-maps-experience?utm_source=rss",
+      "pubDate": "2026-11-18T12:39:13.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Banks, FAA, Microsoft, Apple – no systemic attack on the US, says White House",
+      "url": "https://9to5mac.com/2026/11/18/banks-faa-microsoft-apple-no-systemic-attack-on-the-us-says-white-house/",
+      "pubDate": "2026-11-18T12:30:24.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Rolls Out All-New Maps Experience Across India",
+      "url": "https://www.macrumors.com/2026/11/18/apple-rolls-out-all-new-maps-across-india/",
+      "pubDate": "2026-11-18T12:23:36.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "More Liquid Glass refinements being tested in iOS 27.3 beta",
+      "url": "https://appleinsider.com/articles/26/11/18/more-liquid-glass-refinements-being-tested-in-ios-273-beta?utm_source=rss",
+      "pubDate": "2026-11-18T12:07:01.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "NASA’s Voyager 1 probe is now one light-day away",
+      "url": "https://www.theverge.com/science/1036431/nasa-voyager-1-light-day-milestone",
+      "pubDate": "2026-11-18T12:03:36.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "The UK and some other countries don’t get more Siri AI usage with iCloud+",
+      "url": "https://9to5mac.com/2026/11/18/the-uk-and-some-other-countries-dont-get-more-siri-ai-usage-with-icloud/",
+      "pubDate": "2026-11-18T12:00:06.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone Air 2 Reportedly Sticks With Same Display",
+      "url": "https://www.macrumors.com/2026/11/18/iphone-air-2-reportedly-sticks-with-same-display/",
+      "pubDate": "2026-11-18T11:50:26.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone 18 and iPhone Air 2 Display Production to Begin Soon Ahead of Expected March Launch",
+      "url": "https://www.macrumors.com/2026/11/18/iphone-18-iphone-air-2-display-production-begins/",
+      "pubDate": "2026-11-18T11:46:22.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Suno now lets you make AI videos for your AI music",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
+      "pubDate": "2026-11-18T11:16:53.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Grand Theft Auto VI has arrived",
+      "url": "https://www.theverge.com/entertainment/1035847/grand-theft-auto-6-launch-review-news",
+      "pubDate": "2026-11-18T11:06:16.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Grand Theft Auto VI does something impossible — it lives up to the hype",
+      "url": "https://www.theverge.com/games/1035801/grand-theft-auto-6-review",
+      "pubDate": "2026-11-18T11:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "‘It’s a risk’: How Rockstar built the most detailed (and romantic) GTA yet",
+      "url": "https://www.theverge.com/entertainment/1035806/grand-theft-auto-6-rob-nelson-interview",
+      "pubDate": "2026-11-18T11:00:00.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "(Podcast) Designed in California 18: Out of Control (Part 1, The Exit of Steve Jobs)",
+      "url": "https://sixcolors.com/podcast/2026/11/designed-in-california-18-out-of-control-part-1-the-exit-of-steve-jobs/",
+      "pubDate": "2026-11-18T10:00:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Amazon slashes iPad mini 7 to $499 with early Black Friday price drop",
+      "url": "https://appleinsider.com/articles/26/11/18/amazon-slashes-ipad-mini-7-to-499-with-early-black-friday-price-drop?utm_source=rss",
+      "pubDate": "2026-11-18T05:21:14.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -73,13 +290,6 @@
       "pubDate": "2026-11-17T22:57:08.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Differences between both Apple HomeView models revealed in teardown",
-      "url": "https://appleinsider.com/articles/26/11/17/differences-between-both-apple-homeview-models-revealed-in-teardown?utm_source=rss",
-      "pubDate": "2026-11-17T22:43:43.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "Jeff Bezos says he was ‘heavily involved’ in picking the new James Bond",
@@ -87,53 +297,11 @@
       "pubDate": "2026-11-17T22:38:41.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Read everything that Nvidia’s board chair had to say about Jensen Huang",
-      "url": "https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang",
-      "pubDate": "2026-11-17T22:32:50.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "iFixit’s Apple HomeView teardown reveals a device that will be difficult to repair",
-      "url": "https://www.theverge.com/tech/1036045/ifixit-teardown-apple-homeview-smart-home-hub",
-      "pubDate": "2026-11-17T22:25:41.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Report: iPhone set to gain market share in 2027 amid industry-wide slump",
       "url": "https://9to5mac.com/2026/11/17/report-iphone-set-to-gain-market-share-in-2027-amid-industry-wide-slump/",
       "pubDate": "2026-11-17T22:07:22.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Nvidia says it does not intend to reinstate Jensen Huang as CEO",
-      "url": "https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo",
-      "pubDate": "2026-11-17T22:05:05.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The MacBook Neo is receiving a rare $50 discount ahead of Black Friday",
-      "url": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
-      "pubDate": "2026-11-17T21:46:20.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
-      "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
-      "pubDate": "2026-11-17T21:40:59.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Nike’s new air sole technology can mix soft and firm cushioning",
-      "url": "https://www.theverge.com/tech/1035911/nike-shoes-tuned-air-sole-printing-variable-cushioning",
-      "pubDate": "2026-11-17T21:38:08.000Z"
     },
     {
       "source": "MacRumors",
@@ -157,13 +325,6 @@
       "pubDate": "2026-11-17T21:02:29.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
-      "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
-      "pubDate": "2026-11-17T21:00:55.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Final Cut Pro Now Includes MotionVFX for Creator Studio Users",
@@ -171,165 +332,11 @@
       "pubDate": "2026-11-17T20:58:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Instagram is helping creators crack down on copycat videos",
-      "url": "https://www.theverge.com/tech/1035943/instagram-creators-crack-down-copycat-videos",
-      "pubDate": "2026-11-17T20:46:31.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27.3’s redesigned Apple Health app requires newer iPhone model",
-      "url": "https://9to5mac.com/2026/11/17/ios-27-3s-redesigned-apple-health-app-requires-newer-iphone-model/",
-      "pubDate": "2026-11-17T20:19:51.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Blames Internal Update for Outage, Says It Wasn't a Cyberattack",
       "url": "https://www.macrumors.com/2026/11/17/apple-outage-internal-update/",
       "pubDate": "2026-11-17T19:31:33.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "AirPods Pro 3 keep getting better, here’s what’s new in iOS 27",
-      "url": "https://9to5mac.com/2026/11/17/airpods-pro-3-keep-getting-better-heres-whats-new-ios-27/",
-      "pubDate": "2026-11-17T19:28:12.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Why iPhone Duo wasn’t for me (but might be for you)",
-      "url": "https://9to5mac.com/2026/11/17/why-iphone-duo-wasnt-for-me-but-might-be-for-you/",
-      "pubDate": "2026-11-17T18:48:36.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Google Wallet arrives on iPhone, but you'll still need Apple Pay at the register",
-      "url": "https://appleinsider.com/articles/26/11/17/google-wallet-arrives-on-iphone-but-youll-still-need-apple-pay-at-the-register?utm_source=rss",
-      "pubDate": "2026-11-17T18:43:24.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Nomad Launches Black Friday Sale With Up to 30% Off Apple Accessories",
-      "url": "https://www.macrumors.com/2026/11/17/nomad-black-friday-sale-2026/",
-      "pubDate": "2026-11-17T18:35:28.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Google Wallet Available on iPhone, But Without Tap to Pay",
-      "url": "https://www.macrumors.com/2026/11/17/google-wallet-iphone/",
-      "pubDate": "2026-11-17T18:19:39.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: November 17, 2026 – iOS 27.3 brings face unlock to iPhone Duo, more",
-      "url": "https://9to5mac.com/2026/11/17/daily-november-17-2026/",
-      "pubDate": "2026-11-17T18:09:11.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple is accused of ordering iPhone Duo supplier to stop denying hinge faults",
-      "url": "https://appleinsider.com/articles/26/11/17/apple-is-accused-of-ordering-iphone-duo-supplier-to-stop-denying-hinge-faults?utm_source=rss",
-      "pubDate": "2026-11-17T17:58:55.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "OpenAI upgrades ChatGPT and Codex with new GPT-6.2 Astra and Sol models",
-      "url": "https://9to5mac.com/2026/11/17/openai-upgrades-chatgpt-and-codex-with-new-gpt-6-2-astra-and-sol-models/",
-      "pubDate": "2026-11-17T17:51:47.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "The Google Wallet app is now available on iOS",
-      "url": "https://9to5google.com/2026/11/17/google-wallet-ios-app/",
-      "pubDate": "2026-11-17T17:49:25.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Accounts, App Store and Apple Music Experiencing Issues",
-      "url": "https://www.macrumors.com/2026/11/17/apple-accounts-experiencing-issues/",
-      "pubDate": "2026-11-17T17:47:55.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Moves Ahead With Better Dual SIM Support for Apps",
-      "url": "https://www.macrumors.com/2026/11/17/apple-moves-ahead-with-better-dual-sim-support/",
-      "pubDate": "2026-11-17T16:59:28.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple board member and former chair about to sell $32 million in AAPL",
-      "url": "https://appleinsider.com/articles/26/11/17/apple-board-member-and-former-chair-about-to-sell-32-million-in-aapl?utm_source=rss",
-      "pubDate": "2026-11-17T16:56:39.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Former Apple Chairman Plans to Sell $32 Million in Apple Stock",
-      "url": "https://www.macrumors.com/2026/11/17/former-apple-chairman-to-sell-32-million-in-stock/",
-      "pubDate": "2026-11-17T16:29:56.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Jensen Huang says he'll return to Nvidia if he gets asked",
-      "url": "https://appleinsider.com/articles/26/11/17/jensen-huang-says-hell-return-to-nvidia-if-he-gets-asked?utm_source=rss",
-      "pubDate": "2026-11-17T16:15:40.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Accused of Silencing iPhone Duo Supplier Over 'Crackgate' Issue",
-      "url": "https://www.macrumors.com/2026/11/17/apple-silencing-iphone-duo-supplier-crackgate/",
-      "pubDate": "2026-11-17T16:10:49.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Store App Now Optimized for iPhone Duo",
-      "url": "https://www.macrumors.com/2026/11/17/apple-store-app-optimized-for-iphone-duo/",
-      "pubDate": "2026-11-17T15:49:46.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPhone relatively safe while the rest of the smartphone market contracts",
-      "url": "https://appleinsider.com/articles/26/11/17/iphone-relatively-safe-while-the-rest-of-the-smartphone-market-contracts?utm_source=rss",
-      "pubDate": "2026-11-17T15:40:07.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Disney+ & Hulu's unified app will arrive before Christmas",
-      "url": "https://appleinsider.com/articles/26/11/17/disney-hulus-unified-app-will-arrive-before-christmas?utm_source=rss",
-      "pubDate": "2026-11-17T15:25:39.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "This is what the iPhone 20 Pro curved glass screen could look like",
-      "url": "https://appleinsider.com/articles/26/11/17/this-is-what-the-iphone-20-pro-curved-glass-screen-could-look-like?utm_source=rss",
-      "pubDate": "2026-11-17T15:19:24.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Trump administration backs down after pushing Apple to pull ICE tracking app",
-      "url": "https://appleinsider.com/articles/26/11/17/trump-administration-backs-down-after-pushing-apple-to-pull-ice-tracking-app?utm_source=rss",
-      "pubDate": "2026-11-17T15:12:32.000Z"
     },
     {
       "source": "Six Colors",
@@ -365,13 +372,6 @@
       "title": "Siri AI and iPhone apps are the cornerstones of Apple’s hardware strategy",
       "url": "https://sixcolors.com/post/2026/11/siri-ai-and-iphone-apps-are-the-cornerstones-of-apples-hardware-strategy/",
       "pubDate": "2026-11-16T13:23:38.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Sponsor) Magic Lasso Adblock: Block ads in iPhone, iPad and Mac apps",
-      "url": "https://sixcolors.com/sponsor/2026/11/magic-lasso-adblock-block-ads-in-iphone-ipad-and-mac-apps-12/",
-      "pubDate": "2026-11-13T17:00:51.000Z"
     }
   ]
 }
