@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T21:58:38.243Z",
+  "generatedAt": "2026-11-19T03:31:01.154Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,83 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Elon Musk tries to explain what&#8217;s going on with Ukraine and Starlink",
+      "url": "https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook",
+      "pubDate": "2026-11-19T01:39:45.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Instagram Now Lets You Save Songs to Apple Music",
+      "url": "https://www.macrumors.com/2026/11/18/apple-music-instagram-playlist/",
+      "pubDate": "2026-11-19T01:19:31.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Owning an Apple Home: Bye bye SwitchBot",
+      "url": "https://appleinsider.com/articles/26/11/19/owning-an-apple-home-bye-bye-switchbot?utm_source=rss",
+      "pubDate": "2026-11-19T01:06:21.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Siri Modular Apple Watch face gains two new styles with watchOS 27.3",
+      "url": "https://9to5mac.com/2026/11/18/siri-modular-apple-watch-face-gains-two-new-styles-with-watchos-27-3/",
+      "pubDate": "2026-11-19T00:49:22.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "SmartWings Black Friday sale: Save up to 15% on custom motorized shades",
+      "url": "https://9to5mac.com/2026/11/18/smartwings-black-friday-sale-save-15-custom-motorized-shades/",
+      "pubDate": "2026-11-19T00:08:37.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "50M unique listeners tune into Apple Music Radio per month, says Zane Lowe",
+      "url": "https://appleinsider.com/articles/26/11/18/50m-unique-listeners-tune-into-apple-music-radio-per-month-says-zane-lowe?utm_source=rss",
+      "pubDate": "2026-11-18T23:18:46.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The nation’s largest school districts consider ditching Google Search",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+      "pubDate": "2026-11-18T23:18:35.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Releases Safari Technology Preview 257 With Bug Fixes and Performance Improvements",
+      "url": "https://www.macrumors.com/2026/11/18/apple-releases-safari-technology-preview-257/",
+      "pubDate": "2026-11-18T23:15:24.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Card doubles Daily Cash rewards for new customers in limited-time offer",
+      "url": "https://9to5mac.com/2026/11/18/apple-card-doubles-daily-cash-rewards-for-new-customers-in-limited-time-offer/",
+      "pubDate": "2026-11-18T23:12:32.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Democrats skip a vote on adding Brendan Carr’s adviser to the FCC",
+      "url": "https://www.theverge.com/policy/1037134/democrats-boycott-fcc-nomination-vote-danielle-thumann-severs",
+      "pubDate": "2026-11-18T22:05:48.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Google launches Gemini 4 Neon with Carbon quality at Flash speeds, live for AI Pro",
+      "url": "https://9to5google.com/2026/11/18/gemini-4-neon-announcement/",
+      "pubDate": "2026-11-18T21:58:36.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -82,7 +159,7 @@
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple among the companies facing pressure from US senators over ‘nudify’ apps",
+      "title": "Apple among the companies facing pressure from US senators over ‘nudify’ apps [U: Apple responds]",
       "url": "https://9to5mac.com/2026/11/18/apple-among-the-companies-facing-pressure-from-us-senators-over-nudify-apps/",
       "pubDate": "2026-11-18T20:05:10.000Z"
     },
@@ -117,7 +194,7 @@
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
-      "title": "What’s next for Nvidia? Whatever doesn’t rock the mind-bogglingly profitable boat",
+      "title": "Nvidia’s rise, visualized",
       "url": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
       "pubDate": "2026-11-18T19:30:00.000Z"
     },
@@ -183,27 +260,6 @@
       "title": "Apple releases HomeView 27.2.1 update, here’s what’s new",
       "url": "https://9to5mac.com/2026/11/18/apple-releases-new-homeview-27-2-1-software-update/",
       "pubDate": "2026-11-18T18:53:35.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The best early Black Friday deals you can already shop",
-      "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
-      "pubDate": "2026-11-18T18:44:27.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The first Nvidia RTX Spark mini PCs launch today from Asus, Dell, and MSI",
-      "url": "https://www.theverge.com/tech/1036880/nvidia-rtx-spark-ai-mini-pc-desktops",
-      "pubDate": "2026-11-18T18:34:55.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "What is Nvidia without AI’s sugar daddy in charge?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition",
-      "pubDate": "2026-11-18T18:34:15.000Z"
     },
     {
       "source": "9to5Mac",
@@ -276,32 +332,11 @@
       "pubDate": "2026-11-18T16:30:31.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals: All MacBook Neo models now on sale from $649, AirTag 2 $17.50 each, Apple Watch $199, Alpine Loop, more",
-      "url": "https://9to5mac.com/2026/11/18/deals-macbook-neo-airtag-2-apple-watch-alpine-loop/",
-      "pubDate": "2026-11-18T16:29:59.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Qobuz has a new Apple TV app",
       "url": "https://appleinsider.com/articles/26/11/18/qobuz-has-a-new-apple-tv-app?utm_source=rss",
       "pubDate": "2026-11-18T15:59:26.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: November 18, 2026 – More on iOS 27.3, iPhone Duo",
-      "url": "https://9to5mac.com/2026/11/18/daily-november-18-2026/",
-      "pubDate": "2026-11-18T15:58:33.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone Duo is getting three new features in iOS 27.3",
-      "url": "https://9to5mac.com/2026/11/18/iphone-duo-is-getting-three-new-features-in-ios-27-3/",
-      "pubDate": "2026-11-18T15:55:33.000Z"
     },
     {
       "source": "MacRumors",
@@ -311,32 +346,11 @@
       "pubDate": "2026-11-18T15:24:51.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Nvidia's board is clear that they don't want Jensen Huang back",
-      "url": "https://appleinsider.com/articles/26/11/18/nvidias-board-is-clear-that-they-dont-want-jensen-huang-back?utm_source=rss",
-      "pubDate": "2026-11-18T15:15:39.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone 18, iPhone Air 2 get new release timing updates",
-      "url": "https://9to5mac.com/2026/11/18/iphone-18-iphone-air-2-get-new-release-timing-updates/",
-      "pubDate": "2026-11-18T15:09:06.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Announces 2026 App Store Award Finalists",
       "url": "https://www.macrumors.com/2026/11/18/2026-app-store-award-finalists/",
       "pubDate": "2026-11-18T14:57:44.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "M5 Pro Mac mini drops to $1,549 with Amazon's early Black Friday markdown",
-      "url": "https://appleinsider.com/articles/26/11/18/m5-pro-mac-mini-drops-to-1549-with-amazons-early-black-friday-markdown?utm_source=rss",
-      "pubDate": "2026-11-18T14:41:35.000Z"
     },
     {
       "source": "MacRumors",
@@ -351,20 +365,6 @@
       "title": "Apple Releases Siri Remote Firmware Update",
       "url": "https://www.macrumors.com/2026/11/18/apple-releases-new-siri-remote-firmware-update/",
       "pubDate": "2026-11-18T14:12:39.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Amazon Takes $850 Off 2026 16-Inch MacBook Pro With M5 Max Chip",
-      "url": "https://www.macrumors.com/2026/11/18/amazon-850-off-macbook-pro/",
-      "pubDate": "2026-11-18T13:54:43.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "WhatsApp's iCloud Backup Alternative Rolls Out to Beta Users on iPhone",
-      "url": "https://www.macrumors.com/2026/11/18/whatsapp-backup-alternative-rolls-out-beta-ios/",
-      "pubDate": "2026-11-18T13:14:09.000Z"
     },
     {
       "source": "Six Colors",
