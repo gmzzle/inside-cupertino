@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T21:39:15.776Z",
+  "generatedAt": "2026-11-20T03:19:10.755Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,9 +24,156 @@
   ],
   "items": [
     {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Game streaming can bring 'Grand Theft Auto VI' to your iPhone, iPad, or Apple Vision Pro",
+      "url": "https://appleinsider.com/articles/26/11/20/game-streaming-can-bring-grand-theft-auto-vi-to-your-iphone-ipad-or-apple-vision-pro?utm_source=rss",
+      "pubDate": "2026-11-20T03:02:49.000Z"
+    },
+    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple releases iOS 27.3 public beta 2, here’s what’s new",
+      "title": "WhatsApp is raising group chat limit to 1,500 participants",
+      "url": "https://9to5mac.com/2026/11/19/whatsapp-is-raising-group-chat-limit-to-1500-participants/",
+      "pubDate": "2026-11-20T01:54:39.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Engwe M20 3.0 review: Cruising in style without any smarts",
+      "url": "https://appleinsider.com/articles/26/11/20/engwe-m20-30-review-cruising-in-style-without-any-smarts?utm_source=rss",
+      "pubDate": "2026-11-20T00:39:26.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "LiberNovo’s Black Friday sale takes up to 42% off ergonomic chairs",
+      "url": "https://9to5mac.com/2026/11/19/libernovos-black-friday-sale-takes-up-to-42-off-ergonomic-chairs/",
+      "pubDate": "2026-11-20T00:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "OpenAI begins testing dots with ChatGPT Plus users, expands Business access",
+      "url": "https://9to5mac.com/2026/11/19/openai-begins-testing-dots-with-chatgpt-plus-users-expands-business-access/",
+      "pubDate": "2026-11-19T23:47:30.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "macOS 27.3 public beta 2 now available, here’s everything new",
+      "url": "https://9to5mac.com/2026/11/19/macos-27-3-public-beta-2-now-available-heres-everything-new/",
+      "pubDate": "2026-11-19T23:01:25.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "MacBook Pro Black Friday Deals Are Here: Get Up to $250 Off M6 and PROLED XDR",
+      "url": "https://www.macrumors.com/2026/11/19/macbook-pro-black-friday-deals-3/",
+      "pubDate": "2026-11-19T22:45:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "ChatGPT Health feature now works with Mac app, Dots, more",
+      "url": "https://9to5mac.com/2026/11/19/chatgpt-health-feature-will-soon-work-with-mac-app-dots-more/",
+      "pubDate": "2026-11-19T22:43:20.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple is Building an AI Agent That Can Use Apps and Code",
+      "url": "https://www.macrumors.com/2026/11/19/apple-ai-agent-development/",
+      "pubDate": "2026-11-19T22:43:08.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Apple is hiring engineers to build its own AI agent",
+      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "pubDate": "2026-11-19T22:31:41.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Report: Apple job listings detail plans for autonomous AI agents",
+      "url": "https://9to5mac.com/2026/11/19/report-apple-job-listings-detail-plans-for-autonomous-ai-agents/",
+      "pubDate": "2026-11-19T22:21:28.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple AI agents are coming to help you code, browse, & perform tasks",
+      "url": "https://appleinsider.com/articles/26/11/19/apple-ai-agents-are-coming-to-help-you-code-browse-perform-tasks?utm_source=rss",
+      "pubDate": "2026-11-19T22:04:39.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iOS 27.3 public beta 2 is out, with a new build for developers too",
+      "url": "https://appleinsider.com/articles/26/11/19/ios-273-public-beta-2-is-out-with-a-new-build-for-developers-too?utm_source=rss",
+      "pubDate": "2026-11-19T22:02:11.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "A brief history of Nvidia’s recent stock fluctuations",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+      "pubDate": "2026-11-19T21:59:35.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple TV is now $6.99/month (50% off) for Black Friday, details here",
+      "url": "https://9to5mac.com/2026/11/19/apple-tv-launches-50-off-black-friday-deal-6-99-month-for-6-months/",
+      "pubDate": "2026-11-19T21:55:07.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Black Friday Deal: Apple TV Streaming Service for $6.99/Month",
+      "url": "https://www.macrumors.com/2026/11/19/apple-tv-black-friday-streaming-deal/",
+      "pubDate": "2026-11-19T21:54:07.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "AirPods Black Friday Deals Hit Pro 3 at $179 and Max 2 at $429",
+      "url": "https://www.macrumors.com/2026/11/19/airpods-black-friday-deals/",
+      "pubDate": "2026-11-19T21:50:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "First macOS Sequoia 15.8.4 and macOS Tahoe 26.7.4 RCs rolling out [U: Public]",
+      "url": "https://9to5mac.com/2026/11/19/first-macos-sequoia-15-8-4-and-macos-tahoe-26-7-4-rcs-rolling-out/",
+      "pubDate": "2026-11-19T21:48:30.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "B&H's $1,799 M6 MacBook Pro deal beats Amazon for Black Friday",
+      "url": "https://appleinsider.com/articles/26/11/19/bhs-1799-m6-macbook-pro-deal-beats-amazon-for-black-friday?utm_source=rss",
+      "pubDate": "2026-11-19T21:44:03.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Second iOS 27.3 and macOS Golden Gate 27.3 Public Betas Now Available",
+      "url": "https://www.macrumors.com/2026/11/19/ios-27-3-public-beta-2/",
+      "pubDate": "2026-11-19T21:43:39.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iPadOS 27.3, watchOS 27.3, more get public beta 2, here’s what’s new",
+      "url": "https://9to5mac.com/2026/11/19/ipados-27-3-watchos-27-3-more-get-public-beta-2-heres-whats-new/",
+      "pubDate": "2026-11-19T21:42:03.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple releases iOS 27.3 public beta 2, new developer beta 2 build",
       "url": "https://9to5mac.com/2026/11/19/apple-releases-ios-27-3-public-beta-2-heres-whats-new/",
       "pubDate": "2026-11-19T21:37:58.000Z"
     },
@@ -50,20 +197,6 @@
       "title": "Roborock’s Black Friday deals make smarter cleaning more affordable than ever",
       "url": "https://9to5mac.com/2026/11/19/roborocks-black-friday-deals-make-smarter-cleaning-more-affordable-than-ever/",
       "pubDate": "2026-11-19T21:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Next year’s iPhone Pro redesign sounds like exactly what I’ve been wanting",
-      "url": "https://9to5mac.com/2026/11/19/next-years-iphone-pro-redesign-sounds-like-exactly-what-ive-been-wanting/",
-      "pubDate": "2026-11-19T20:49:24.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple fires back at Epic over claims it withheld 122,000 documents",
-      "url": "https://9to5mac.com/2026/11/19/apple-fires-back-at-epic-over-claims-it-withheld-122000-documents/",
-      "pubDate": "2026-11-19T20:43:53.000Z"
     },
     {
       "source": "The Verge",
@@ -122,13 +255,6 @@
       "pubDate": "2026-11-19T19:35:52.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "HomeView woes, iPhone Duo face unlock, macOS Full Disk Access changes",
-      "url": "https://9to5mac.com/2026/11/19/happy-hour-617/",
-      "pubDate": "2026-11-19T19:35:11.000Z"
-    },
-    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "You can now buy a Steam Machine without getting on a waitlist",
@@ -150,32 +276,11 @@
       "pubDate": "2026-11-19T19:12:30.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple TV reveals new series with Andrew Garfield, Jude Law as magicians",
-      "url": "https://9to5mac.com/2026/11/19/apple-tv-reveals-new-series-with-andrew-garfield-jude-law-as-magicians/",
-      "pubDate": "2026-11-19T19:09:51.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "'Oxygen Not Included' is now Apple Silicon native",
       "url": "https://appleinsider.com/articles/26/11/19/oxygen-not-included-is-now-apple-silicon-native?utm_source=rss",
       "pubDate": "2026-11-19T19:05:17.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Gemini app for Mac adds computer use to control desktop apps",
-      "url": "https://9to5google.com/2026/11/19/gemini-mac-computer-use/",
-      "pubDate": "2026-11-19T18:55:42.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Deals – Black Friday Week now live: MacBook Neo, M6 Pro $150 off, PROLED XDR, Beats 360 $100 off, more",
-      "url": "https://9to5mac.com/2026/11/19/black-friday-week-deals-macbook-neo-m6-pro-proled/",
-      "pubDate": "2026-11-19T18:42:08.000Z"
     },
     {
       "source": "The Verge",
@@ -194,27 +299,6 @@
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
-      "title": "AirPods Black Friday Deals Hit Pro 3 at $179 and Max 2 at $429",
-      "url": "https://www.macrumors.com/2026/11/19/airpods-black-friday-deals/",
-      "pubDate": "2026-11-19T18:27:31.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Gemini on Mac can now use your computer",
-      "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
-      "pubDate": "2026-11-19T18:21:13.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Leaked images reveal Motorola’s wide foldable",
-      "url": "https://www.theverge.com/tech/1037848/motorola-razr-flex-wide-foldable-folding-smartphone-android-leak",
-      "pubDate": "2026-11-19T18:19:03.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
       "title": "iPhone Duo vs. Samsung Galaxy Z Fold8: Which is Better?",
       "url": "https://www.macrumors.com/2026/11/19/iphone-duo-vs-samsung-galaxy-z-fold8/",
       "pubDate": "2026-11-19T18:04:57.000Z"
@@ -225,13 +309,6 @@
       "title": "iPhone camera chief Jon McCormack has retired",
       "url": "https://appleinsider.com/articles/26/11/19/iphone-camera-chief-jon-mccormack-has-retired?utm_source=rss",
       "pubDate": "2026-11-19T18:03:11.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple’s head of camera and Photos software has retired, per report",
-      "url": "https://9to5mac.com/2026/11/19/apple-head-of-camera-software-retires/",
-      "pubDate": "2026-11-19T17:52:01.000Z"
     },
     {
       "source": "MacRumors",
@@ -248,20 +325,6 @@
       "pubDate": "2026-11-19T17:11:26.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 gave AirPods Pro a convenient new setting, here’s how to use it",
-      "url": "https://9to5mac.com/2026/11/19/ios-27-gave-airpods-pro-convenient-new-setting-heres-how-to-use-it/",
-      "pubDate": "2026-11-19T17:10:46.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Halide camera app just got even better for iPhone Duo",
-      "url": "https://9to5mac.com/2026/11/19/halide-3-4-adds-a-bigger-viewfinder-and-fill-flash-for-iphone-duo/",
-      "pubDate": "2026-11-19T17:00:00.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "YoLink sensors are powering my key household alerts",
@@ -276,13 +339,6 @@
       "pubDate": "2026-11-19T16:46:39.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Every F1 Academy race will stream on Apple TV in 2027",
-      "url": "https://appleinsider.com/articles/26/11/19/every-f1-academy-race-will-stream-on-apple-tv-in-2027?utm_source=rss",
-      "pubDate": "2026-11-19T16:40:28.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple TV to Stream Female 'F1 Academy' Races in U.S. Starting in 2027",
@@ -290,67 +346,11 @@
       "pubDate": "2026-11-19T16:22:03.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "UK can't hide that it tried ordering Apple to allow access to user data",
-      "url": "https://appleinsider.com/articles/26/11/19/uk-cant-hide-that-it-tried-ordering-apple-to-allow-access-to-user-data?utm_source=rss",
-      "pubDate": "2026-11-19T15:23:18.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "MacBook Pro Black Friday Deals Are Here: Get Up to $250 Off M6 and PROLED XDR",
-      "url": "https://www.macrumors.com/2026/11/19/macbook-pro-black-friday-deals-3/",
-      "pubDate": "2026-11-19T15:20:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "uGreen Black Friday deals slash up to $200 off docks, NAS, chargers",
-      "url": "https://appleinsider.com/articles/26/11/19/ugreen-black-friday-deals-slash-up-to-200-off-docks-nas-chargers?utm_source=rss",
-      "pubDate": "2026-11-19T15:18:32.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Tomorrow Marks the End of a 28-Year Era at Apple",
       "url": "https://www.macrumors.com/2026/11/19/tomorrow-marks-end-of-28-year-era-at-apple/",
       "pubDate": "2026-11-19T15:08:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Amazon Takes $200 Off Every Apple Studio Display for Black Friday",
-      "url": "https://www.macrumors.com/2026/11/19/200-off-apple-studio-display/",
-      "pubDate": "2026-11-19T14:40:35.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "UK Loses Secrecy Fight Over Apple 'Backdoor' Order",
-      "url": "https://www.macrumors.com/2026/11/19/uk-loses-secrecy-fight-over-apple-backdoor-order/",
-      "pubDate": "2026-11-19T14:06:17.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Beats 360 Black Friday Deal Arrives With Massive $100 Discount on Amazon",
-      "url": "https://www.macrumors.com/2026/11/19/beats-360-black-friday-deal/",
-      "pubDate": "2026-11-19T13:56:57.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple reveals its Black Friday deals, but you can do much better elsewhere",
-      "url": "https://appleinsider.com/articles/26/11/19/apple-reveals-its-black-friday-deals-but-you-can-do-much-better-elsewhere?utm_source=rss",
-      "pubDate": "2026-11-19T13:19:25.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "iPhone 18 Pro consumer interest sky high, switchers drawn to iPhone Duo",
-      "url": "https://appleinsider.com/articles/26/11/19/iphone-18-pro-consumer-interest-sky-high-switchers-drawn-to-iphone-duo?utm_source=rss",
-      "pubDate": "2026-11-19T13:01:44.000Z"
     },
     {
       "source": "Six Colors",
