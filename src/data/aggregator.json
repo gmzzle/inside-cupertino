@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T02:18:49.745Z",
+  "generatedAt": "2026-11-21T11:07:07.653Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Black Friday OLED TV deals start at $699, with up to $1,400 off LG, Sony & Samsung",
+      "url": "https://appleinsider.com/articles/26/11/21/black-friday-oled-tv-deals-start-at-699-with-up-to-1400-off-lg-sony-samsung?utm_source=rss",
+      "pubDate": "2026-11-21T05:09:03.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -337,13 +344,6 @@
       "title": "Report: Apple staffing up AI agent developers ↦",
       "url": "https://sixcolors.com/link/2026/11/report-apple-staffing-up-ai-agent-developers/",
       "pubDate": "2026-11-20T03:59:39.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple HomeView doesn't need to be portable, but it can be with a battery",
-      "url": "https://appleinsider.com/articles/26/11/20/apple-homeview-doesnt-need-to-be-portable-but-it-can-be-with-a-battery?utm_source=rss",
-      "pubDate": "2026-11-20T03:57:52.000Z"
     },
     {
       "source": "MacRumors",
