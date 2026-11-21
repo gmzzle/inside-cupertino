@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T17:59:03.884Z",
+  "generatedAt": "2026-11-21T23:20:15.754Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,18 +24,46 @@
   ],
   "items": [
     {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "iOS 27: My favorite new iPhone features (other than AI)",
+      "url": "https://9to5mac.com/2026/11/21/ios-27-my-favorite-new-iphone-features-other-than-ai/",
+      "pubDate": "2026-11-21T22:22:26.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Amazon is complaining about NYC Council on shipping labels, too",
+      "url": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
+      "pubDate": "2026-11-21T21:59:31.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Indie App Spotlight: ‘Salon’ is an Apple TV app that turns your TV into a picture frame",
+      "url": "https://9to5mac.com/2026/11/21/indie-app-spotlight-salon-is-an-apple-tv-app-that-turns-your-tv-into-a-picture-frame/",
+      "pubDate": "2026-11-21T20:30:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The UN fails to agree on rules regulating ‘killer robots’",
+      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "pubDate": "2026-11-21T20:03:37.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Not upgrading to iPhone 18 Pro or Duo? Here’s what’s coming in 2027",
+      "url": "https://9to5mac.com/2026/11/21/heres-what-next-years-iphone-lineup-will-look-like/",
+      "pubDate": "2026-11-21T19:35:44.000Z"
+    },
+    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "The FBI and USDA were reportedly hacked",
       "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
       "pubDate": "2026-11-21T17:42:27.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Amazon Takes $120 Off 46mm GPS Apple Watch Series 12 With New Record Low Price",
-      "url": "https://www.macrumors.com/2026/11/21/amazon-120-off-46mm-gps-apple-watch-series-12/",
-      "pubDate": "2026-11-21T17:41:51.000Z"
     },
     {
       "source": "MacRumors",
@@ -56,7 +84,14 @@
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Siri AI Settlement: Here's How Much Apple Will Pay You",
       "url": "https://www.macrumors.com/2026/11/21/apple-siri-ai-settlement-payment-amount/",
-      "pubDate": "2026-11-21T17:08:49.000Z"
+      "pubDate": "2026-11-21T17:08:36.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "How Google Workspace with Gemini powers small businesses – get 20% off your first 6 months",
+      "url": "https://9to5mac.com/2026/11/21/how-google-workspace-with-gemini-powers-small-businesses-get-20-off-your-first-6-months/",
+      "pubDate": "2026-11-21T17:00:00.000Z"
     },
     {
       "source": "MacRumors",
@@ -115,6 +150,13 @@
       "pubDate": "2026-11-21T14:00:00.000Z"
     },
     {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Amazon Takes $120 Off 46mm GPS Apple Watch Series 12 With New Record Low Price [Update: Gone]",
+      "url": "https://www.macrumors.com/2026/11/21/amazon-120-off-46mm-gps-apple-watch-series-12/",
+      "pubDate": "2026-11-21T13:59:00.000Z"
+    },
+    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
       "title": "The Xiaomi 18 Pro proves two screens aren’t better than one",
@@ -134,13 +176,6 @@
       "title": "Weekend Black Friday Apple deals: MacBooks from $649, Series 12, AirPods $130 off, new iPad mini, more",
       "url": "https://9to5mac.com/2026/11/21/official-black-friday-apple-deals-now-live/",
       "pubDate": "2026-11-21T12:59:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Harbinger is building the unsexy EVs that keep the economy moving",
-      "url": "https://www.theverge.com/transportation/1038448/harbinger-ev-startup-240m-series-d-fedex-army-trucks",
-      "pubDate": "2026-11-21T12:00:00.000Z"
     },
     {
       "source": "AppleInsider",
@@ -185,13 +220,6 @@
       "pubDate": "2026-11-20T21:45:43.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
-      "url": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
-      "pubDate": "2026-11-20T20:43:52.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Apple Watch Series 12: Four standout features make me glad I upgraded",
@@ -227,27 +255,6 @@
       "pubDate": "2026-11-20T19:26:37.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "AirPods 5 vs AirPods Pro 3: Which should you buy this holiday season?",
-      "url": "https://9to5mac.com/2026/11/20/airpods-5-vs-airpods-pro-3-which-should-you-buy-this-holiday-season/",
-      "pubDate": "2026-11-20T19:12:19.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "HomeKit Weekly: Lafaer’s 5-in-1 presence sensor fixes an annoying automation in Apple Home",
-      "url": "https://9to5mac.com/2026/11/20/lafaers-5-in-1-presence-sensor-fixes-the-most-annoying-automation-in-apple-home/",
-      "pubDate": "2026-11-20T19:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 has clever new Messages feature I’ve been using a lot",
-      "url": "https://9to5mac.com/2026/11/20/ios-27-has-clever-new-messages-feature-ive-been-using-a-lot/",
-      "pubDate": "2026-11-20T18:50:59.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "MacRumors Giveaway: Win a 512GB OLED iPad Mini and a Year of Astropad Workbench",
@@ -281,13 +288,6 @@
       "title": "Anker's Black Friday Steals: The Lowest Prices Yet on MagSafe Favorites",
       "url": "https://www.macrumors.com/2026/11/20/ankers-black-friday-steals/",
       "pubDate": "2026-11-20T16:43:44.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Black Friday Week deals: AirPods Max 2 $130 off, AirPods Pro 3, M5 MacBook Air $1,049, iPhone Air up to $799 off, more",
-      "url": "https://9to5mac.com/2026/11/20/black-friday-airpods-max-2-airpods-pro-3-macbook-air/",
-      "pubDate": "2026-11-20T16:33:38.000Z"
     },
     {
       "source": "MacRumors",
