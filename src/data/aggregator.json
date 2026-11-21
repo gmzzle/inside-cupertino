@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T11:07:07.653Z",
+  "generatedAt": "2026-11-21T17:59:03.884Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,11 +24,137 @@
   ],
   "items": [
     {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The FBI and USDA were reportedly hacked",
+      "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+      "pubDate": "2026-11-21T17:42:27.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Amazon Takes $120 Off 46mm GPS Apple Watch Series 12 With New Record Low Price",
+      "url": "https://www.macrumors.com/2026/11/21/amazon-120-off-46mm-gps-apple-watch-series-12/",
+      "pubDate": "2026-11-21T17:41:51.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Black Friday Deals Available Now: AirPods, Apple Watches, MacBooks, and More",
+      "url": "https://www.macrumors.com/2026/11/21/apple-black-friday-deals-available-now-2026/",
+      "pubDate": "2026-11-21T17:17:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Store in UK Permanently Closing Today",
+      "url": "https://www.macrumors.com/2026/11/21/apple-store-in-uk-permanently-closing-today/",
+      "pubDate": "2026-11-21T17:16:10.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Siri AI Settlement: Here's How Much Apple Will Pay You",
+      "url": "https://www.macrumors.com/2026/11/21/apple-siri-ai-settlement-payment-amount/",
+      "pubDate": "2026-11-21T17:08:49.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "RIP, Apple Support Community",
+      "url": "https://www.macrumors.com/2026/11/21/rip-apple-support-community/",
+      "pubDate": "2026-11-21T16:48:03.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "John Roberts, the voice of Linda Belcher, is just happy to finish a thing",
+      "url": "https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview",
+      "pubDate": "2026-11-21T16:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Amazon’s first digital photo frame is up to 50 percent off for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale",
+      "pubDate": "2026-11-21T16:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Can Anthropic afford to put safety first?",
+      "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "pubDate": "2026-11-21T15:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
+      "url": "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale",
+      "pubDate": "2026-11-21T14:55:28.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Top Stories: iPhone Duo Face Unlock, HomeView Tidbits, and More",
+      "url": "https://www.macrumors.com/2026/11/21/top-stories-iphone-duo-face-unlock/",
+      "pubDate": "2026-11-21T14:00:10.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple @ Work: Workbrew 2.0 is an inventory for the development software your employees installed without asking",
+      "url": "https://9to5mac.com/2026/11/21/apple-work/",
+      "pubDate": "2026-11-21T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+      "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+      "pubDate": "2026-11-21T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The Xiaomi 18 Pro proves two screens aren’t better than one",
+      "url": "https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review",
+      "pubDate": "2026-11-21T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The game of the year is finally here",
+      "url": "https://www.theverge.com/tech/1039433/gta-vi-alfred-6-clockwisetv-installer",
+      "pubDate": "2026-11-21T13:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Weekend Black Friday Apple deals: MacBooks from $649, Series 12, AirPods $130 off, new iPad mini, more",
+      "url": "https://9to5mac.com/2026/11/21/official-black-friday-apple-deals-now-live/",
+      "pubDate": "2026-11-21T12:59:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Harbinger is building the unsexy EVs that keep the economy moving",
+      "url": "https://www.theverge.com/transportation/1038448/harbinger-ev-startup-240m-series-d-fedex-army-trucks",
+      "pubDate": "2026-11-21T12:00:00.000Z"
+    },
+    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Black Friday OLED TV deals start at $699, with up to $1,400 off LG, Sony & Samsung",
       "url": "https://appleinsider.com/articles/26/11/21/black-friday-oled-tv-deals-start-at-699-with-up-to-1400-off-lg-sony-samsung?utm_source=rss",
       "pubDate": "2026-11-21T05:09:03.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "ESR Black Friday gift guide: Premium accessories for iPhone Duo, iPhone 18 Pro, iPad, AirPods, and Apple Watch",
+      "url": "https://9to5mac.com/2026/11/20/esr-black-friday-apple-accessories-gift-guide/",
+      "pubDate": "2026-11-21T00:00:00.000Z"
     },
     {
       "source": "9to5Mac",
@@ -50,13 +176,6 @@
       "title": "9to5Mac Overtime 091: Kicking the tires and seeing what works",
       "url": "https://9to5mac.com/2026/11/20/9to5mac-overtime-091-kicking-the-tires-and-seeing-what-works/",
       "pubDate": "2026-11-20T21:58:47.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Black Friday Deals Available Now: AirPods, Apple Watches, MacBooks, and More",
-      "url": "https://www.macrumors.com/2026/11/20/apple-black-friday-deals-available-now-2026/",
-      "pubDate": "2026-11-20T21:55:00.000Z"
     },
     {
       "source": "MacRumors",
@@ -101,25 +220,11 @@
       "pubDate": "2026-11-20T19:52:21.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Rockstar says GTA VI made $3.79 billion in its first day",
-      "url": "https://www.theverge.com/games/1036279/gta-vi-sales",
-      "pubDate": "2026-11-20T19:35:06.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Save on Headphones This Black Friday With Major Deals on Beats, Sony, Soundcore, and More",
       "url": "https://www.macrumors.com/2026/11/20/headphones-black-friday/",
-      "pubDate": "2026-11-20T19:26:48.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Eufy’s Omni C28 is 53 percent off ahead of Black Friday",
-      "url": "https://www.theverge.com/gadgets/1037933/eufy-omni-c28-robot-vacuum-deal-sale",
-      "pubDate": "2026-11-20T19:15:00.000Z"
+      "pubDate": "2026-11-20T19:26:37.000Z"
     },
     {
       "source": "9to5Mac",
@@ -143,25 +248,11 @@
       "pubDate": "2026-11-20T18:50:59.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
-      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
-      "pubDate": "2026-11-20T18:50:19.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "MacRumors Giveaway: Win a 512GB OLED iPad Mini and a Year of Astropad Workbench",
       "url": "https://www.macrumors.com/2026/11/20/macrumors-giveaway-astropad-workbench/",
       "pubDate": "2026-11-20T18:26:58.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Multiplying your Switch 2’s storage costs less than usual right now",
-      "url": "https://www.theverge.com/gadgets/1037749/microsd-express-card-nintendo-switch-2-black-friday-2026-deal-sale",
-      "pubDate": "2026-11-20T18:15:00.000Z"
     },
     {
       "source": "AppleInsider",
@@ -171,25 +262,11 @@
       "pubDate": "2026-11-20T18:00:31.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Google says it’s going to shut off Google Assistant on smart speakers next year",
-      "url": "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down",
-      "pubDate": "2026-11-20T18:00:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Apple supplier TSMC cuts off China chip orders amid tighter export controls",
       "url": "https://appleinsider.com/articles/26/11/20/apple-supplier-tsmc-cuts-off-china-chip-orders-amid-tighter-export-controls?utm_source=rss",
       "pubDate": "2026-11-20T17:47:27.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Here are the Apple deals actually worth picking up ahead of Black Friday",
-      "url": "https://www.theverge.com/gadgets/1035460/best-early-black-friday-apple-deals-2026",
-      "pubDate": "2026-11-20T17:33:59.000Z"
     },
     {
       "source": "MacRumors",
@@ -199,25 +276,11 @@
       "pubDate": "2026-11-20T17:21:59.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Teenage Engineering’s first CD player puts the spinning disc on display",
-      "url": "https://www.theverge.com/tech/1038692/teenage-engineering-ep-bc-1-cd-compact-disc-player-broadcast-series-bluetooth",
-      "pubDate": "2026-11-20T17:05:52.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Anker's Black Friday Steals: The Lowest Prices Yet on MagSafe Favorites",
       "url": "https://www.macrumors.com/2026/11/20/ankers-black-friday-steals/",
       "pubDate": "2026-11-20T16:43:44.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
-      "pubDate": "2026-11-20T16:34:13.000Z"
     },
     {
       "source": "9to5Mac",
@@ -232,34 +295,6 @@
       "title": "Microsoft to Retire 'To Do' Apps Next Year",
       "url": "https://www.macrumors.com/2026/11/20/microsoft-to-retire-to-do-apps/",
       "pubDate": "2026-11-20T16:31:43.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Signal now blocks screenshots on iPhone to stop Siri AI from seeing chats",
-      "url": "https://9to5mac.com/2026/11/20/signal-now-blocks-screenshots-on-iphone-to-stop-siri-ai-from-seeing-chats/",
-      "pubDate": "2026-11-20T16:29:42.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Boys Noize turns to the club (and an obscure Italian synth) for inspiration on 7LLVSION",
-      "url": "https://www.theverge.com/entertainment/1038444/boys-noize-7llvsion-interview",
-      "pubDate": "2026-11-20T16:22:15.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Car Keys in Apple Wallet coming soon to these popular vehicle brands",
-      "url": "https://9to5mac.com/2026/11/20/car-keys-in-apple-wallet-coming-soon-to-three-popular-vehicle-brands/",
-      "pubDate": "2026-11-20T16:11:34.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Calendar got two feature upgrades it really needed in iOS 27",
-      "url": "https://9to5mac.com/2026/11/20/apple-calendar-got-two-feature-upgrades-it-really-needed-in-ios-27/",
-      "pubDate": "2026-11-20T15:52:47.000Z"
     },
     {
       "source": "AppleInsider",
@@ -283,13 +318,6 @@
       "pubDate": "2026-11-20T15:00:12.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "First Look at iPhone Air 2 and iPhone 18 Revealed By Dummy Models",
-      "url": "https://www.macrumors.com/2026/11/20/iphone-air-2-and-iphone-18-dummy-models/",
-      "pubDate": "2026-11-20T13:31:19.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "First iPhone Air 2 & iPhone 18 dummy units don't have any surprises",
@@ -302,13 +330,6 @@
       "title": "Apple Support Communities were sound and fury, but sometimes so useful",
       "url": "https://appleinsider.com/articles/26/11/11/apple-support-communities-were-sound-and-fury-but-sometimes-so-useful?utm_source=rss",
       "pubDate": "2026-11-20T12:52:48.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "WhatsApp Raises Group Chat Limit to 1,500 Members",
-      "url": "https://www.macrumors.com/2026/11/20/whatsapp-raises-group-chat-limit-to-1500-members/",
-      "pubDate": "2026-11-20T12:44:01.000Z"
     },
     {
       "source": "AppleInsider",
@@ -344,27 +365,6 @@
       "title": "Report: Apple staffing up AI agent developers ↦",
       "url": "https://sixcolors.com/link/2026/11/report-apple-staffing-up-ai-agent-developers/",
       "pubDate": "2026-11-20T03:59:39.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "MacBook Pro Black Friday Deals Are Here: Get Up to $250 Off M6 and PROLED XDR",
-      "url": "https://www.macrumors.com/2026/11/19/macbook-pro-black-friday-deals-3/",
-      "pubDate": "2026-11-19T22:45:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple is Building an AI Agent That Can Use Apps and Code",
-      "url": "https://www.macrumors.com/2026/11/19/apple-ai-agent-development/",
-      "pubDate": "2026-11-19T22:43:08.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Black Friday Deal: Apple TV Streaming Service for $6.99/Month",
-      "url": "https://www.macrumors.com/2026/11/19/apple-tv-black-friday-streaming-deal/",
-      "pubDate": "2026-11-19T21:54:07.000Z"
     },
     {
       "source": "Six Colors",
