@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T15:20:15.101Z",
+  "generatedAt": "2026-11-22T21:48:06.916Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,18 +24,130 @@
   ],
   "items": [
     {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Sunday Reboot: Siri AI limits and the possibility of pettiness",
+      "url": "https://appleinsider.com/articles/26/11/22/sunday-reboot-siri-ai-limits-and-the-possibility-of-pettiness?utm_source=rss",
+      "pubDate": "2026-11-22T21:06:40.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone Duo Could Get More Lock Screen Widgets, Leak Suggests",
+      "url": "https://www.macrumors.com/2026/11/22/iphone-duo-could-get-more-lock-screen-widgets/",
+      "pubDate": "2026-11-22T20:38:16.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Gurman: Siri Layoffs Spared Newer AI Systems, But Problems Persist",
+      "url": "https://www.macrumors.com/2026/11/22/siri-layoffs-spared-newer-ai-systems/",
+      "pubDate": "2026-11-22T20:29:51.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "B&H's Apple deals knock up to $800 off Macs for Black Friday",
+      "url": "https://appleinsider.com/articles/26/11/22/bhs-apple-deals-knock-up-to-800-off-macs-for-black-friday?utm_source=rss",
+      "pubDate": "2026-11-22T18:06:49.000Z"
+    },
+    {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
-      "title": "Protesters storm Meta offices in India",
-      "url": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india",
-      "pubDate": "2026-11-22T15:15:07.000Z"
+      "title": "Delta flights in and out of Atlanta delayed due to system outage",
+      "url": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage",
+      "pubDate": "2026-11-22T17:46:44.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "pubDate": "2026-11-22T17:25:20.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Google's AI search monetization failure is costing Apple revenue",
+      "url": "https://appleinsider.com/articles/26/11/22/googles-ai-search-monetization-failure-is-costing-apple-revenue?utm_source=rss",
+      "pubDate": "2026-11-22T17:23:41.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple tested a ‘complication column’ for the iPhone Duo Lock Screen, per leak",
+      "url": "https://9to5mac.com/2026/11/22/apple-tested-a-complication-column-for-the-iphone-duo-lock-screen-per-leak/",
+      "pubDate": "2026-11-22T17:13:56.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Some of our favorite Switch 2 games are cheaper through Black Friday",
+      "url": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale",
+      "pubDate": "2026-11-22T17:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk",
+      "url": "https://www.theverge.com/entertainment/1039762/sheherazaad-khudgarzi-review",
+      "pubDate": "2026-11-22T16:33:29.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Bumper crop of spring launches go way beyond just iPhone 18",
+      "url": "https://appleinsider.com/articles/26/11/22/bumper-crop-of-spring-launches-go-way-beyond-just-iphone-18?utm_source=rss",
+      "pubDate": "2026-11-22T16:07:15.000Z"
     },
     {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "AirPods Pro 3 Drop to $169.99 in Amazon Black Friday Sale",
       "url": "https://www.macrumors.com/2026/11/22/airpods-pro-3-169/",
-      "pubDate": "2026-11-22T15:05:22.000Z"
+      "pubDate": "2026-11-22T15:40:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "M6 MacBook Pro Drops to $1,799 in New Black Friday Sale ($200 Off)",
+      "url": "https://www.macrumors.com/2026/11/22/m6-macbook-pro-200-discount/",
+      "pubDate": "2026-11-22T15:39:40.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "MacBook Neo 2 likely to launch around March, could feature new colors: report",
+      "url": "https://9to5mac.com/2026/11/22/macbook-neo-2-likely-to-launch-around-march-could-feature-new-colors-report/",
+      "pubDate": "2026-11-22T15:38:23.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Reportedly Plans to Release These Products in February or March",
+      "url": "https://www.macrumors.com/2026/11/22/new-apple-products-february-or-march/",
+      "pubDate": "2026-11-22T15:32:53.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "New MacBook Neo now expected in spring 2027",
+      "url": "https://appleinsider.com/articles/26/11/22/new-macbook-neo-now-expected-in-spring-2027?utm_source=rss",
+      "pubDate": "2026-11-22T15:29:18.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Watch SE 3 Lineup Sees Record Low Prices Starting at Just $179",
+      "url": "https://www.macrumors.com/2026/11/22/apple-watch-se-3-179/",
+      "pubDate": "2026-11-22T15:24:42.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Protesters storm Meta offices in India",
+      "url": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india",
+      "pubDate": "2026-11-22T15:15:07.000Z"
     },
     {
       "source": "9to5Mac",
@@ -122,13 +234,6 @@
       "pubDate": "2026-11-21T22:22:26.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Amazon is complaining about NYC Council on shipping labels, too",
-      "url": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
-      "pubDate": "2026-11-21T21:59:31.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Indie App Spotlight: ‘Salon’ is an Apple TV app that turns your TV into a picture frame",
@@ -136,25 +241,11 @@
       "pubDate": "2026-11-21T20:30:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The UN fails to agree on rules regulating ‘killer robots’",
-      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
-      "pubDate": "2026-11-21T20:03:37.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Not upgrading to iPhone 18 Pro or Duo? Here’s what’s coming in 2027",
       "url": "https://9to5mac.com/2026/11/21/heres-what-next-years-iphone-lineup-will-look-like/",
       "pubDate": "2026-11-21T19:35:44.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The FBI and USDA were reportedly hacked",
-      "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
-      "pubDate": "2026-11-21T17:42:27.000Z"
     },
     {
       "source": "MacRumors",
@@ -190,13 +281,6 @@
       "title": "RIP, Apple Support Community",
       "url": "https://www.macrumors.com/2026/11/21/rip-apple-support-community/",
       "pubDate": "2026-11-21T16:48:03.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "John Roberts, the voice of Linda Belcher, is just happy to finish a thing",
-      "url": "https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview",
-      "pubDate": "2026-11-21T16:00:00.000Z"
     },
     {
       "source": "MacRumors",
@@ -248,27 +332,6 @@
       "pubDate": "2026-11-20T23:43:15.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27 lets you use two iPhones with the same phone number",
-      "url": "https://9to5mac.com/2026/11/20/ios-27-lets-you-use-two-iphones-with-the-same-phone-number/",
-      "pubDate": "2026-11-20T23:06:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Overtime 091: Kicking the tires and seeing what works",
-      "url": "https://9to5mac.com/2026/11/20/9to5mac-overtime-091-kicking-the-tires-and-seeing-what-works/",
-      "pubDate": "2026-11-20T21:58:47.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Siri Recap Hands-On: Private, But Not Very Useful",
-      "url": "https://www.macrumors.com/2026/11/20/siri-recap-hands-on/",
-      "pubDate": "2026-11-20T21:45:43.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Finally, Apple can reveal the UK backdoor demand ↦",
@@ -283,20 +346,6 @@
       "pubDate": "2026-11-20T19:58:08.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Save on Headphones This Black Friday With Major Deals on Beats, Sony, Soundcore, and More",
-      "url": "https://www.macrumors.com/2026/11/20/headphones-black-friday/",
-      "pubDate": "2026-11-20T19:26:37.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "MacRumors Giveaway: Win a 512GB OLED iPad Mini and a Year of Astropad Workbench",
-      "url": "https://www.macrumors.com/2026/11/20/macrumors-giveaway-astropad-workbench/",
-      "pubDate": "2026-11-20T18:26:58.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Microsoft abandoning To Do, only Mac alternative is the terrible Teams",
@@ -304,60 +353,11 @@
       "pubDate": "2026-11-20T18:00:31.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple supplier TSMC cuts off China chip orders amid tighter export controls",
-      "url": "https://appleinsider.com/articles/26/11/20/apple-supplier-tsmc-cuts-off-china-chip-orders-amid-tighter-export-controls?utm_source=rss",
-      "pubDate": "2026-11-20T17:47:27.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "The MacRumors Show: What's Next for iPhone Duo?",
-      "url": "https://www.macrumors.com/2026/11/20/the-macrumors-show-next-for-iphone-duo/",
-      "pubDate": "2026-11-20T17:21:59.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Anker's Black Friday Steals: The Lowest Prices Yet on MagSafe Favorites",
-      "url": "https://www.macrumors.com/2026/11/20/ankers-black-friday-steals/",
-      "pubDate": "2026-11-20T16:43:44.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Grab an M4 iPad Air at $100 off before Black Friday",
-      "url": "https://appleinsider.com/articles/26/11/20/grab-an-m4-ipad-air-at-100-off-before-black-friday?utm_source=rss",
-      "pubDate": "2026-11-20T15:49:55.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Get rid of Siri AI’s aggressive writing controls in Mail",
       "url": "https://sixcolors.com/post/2026/11/get-rid-of-siri-ais-aggressive-writing-controls-in-mail/",
       "pubDate": "2026-11-20T15:08:09.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple TV 'Presumed Innocent' returns for season 2 soon",
-      "url": "https://appleinsider.com/articles/26/11/20/apple-tv-presumed-innocent-returns-for-season-2-soon?utm_source=rss",
-      "pubDate": "2026-11-20T15:00:12.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "First iPhone Air 2 & iPhone 18 dummy units don't have any surprises",
-      "url": "https://appleinsider.com/articles/26/11/20/first-iphone-air-2-iphone-18-dummy-units-dont-have-any-surprises?utm_source=rss",
-      "pubDate": "2026-11-20T13:24:56.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple Support Communities were sound and fury, but sometimes so useful",
-      "url": "https://appleinsider.com/articles/26/11/11/apple-support-communities-were-sound-and-fury-but-sometimes-so-useful?utm_source=rss",
-      "pubDate": "2026-11-20T12:52:48.000Z"
     },
     {
       "source": "Six Colors",
