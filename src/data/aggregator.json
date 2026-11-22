@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T06:53:03.364Z",
+  "generatedAt": "2026-11-22T15:20:15.101Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,97 @@
     }
   ],
   "items": [
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Protesters storm Meta offices in India",
+      "url": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india",
+      "pubDate": "2026-11-22T15:15:07.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "AirPods Pro 3 Drop to $169.99 in Amazon Black Friday Sale",
+      "url": "https://www.macrumors.com/2026/11/22/airpods-pro-3-169/",
+      "pubDate": "2026-11-22T15:05:22.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "UGREEN’s excellent liquid cooled 25W MagSafe battery for iPhone is now 40% off",
+      "url": "https://9to5mac.com/2026/11/22/ugreen-25w-magsafe-liquid-cooling-battery-black-friday/",
+      "pubDate": "2026-11-22T14:43:24.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "MK1 Mac Studio Rack Mount review: Massive power, stored sanely",
+      "url": "https://appleinsider.com/articles/26/11/22/mk1-mac-studio-rack-mount-review-massive-power-stored-sanely?utm_source=rss",
+      "pubDate": "2026-11-22T14:43:20.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Nintendo’s Switch 2 console is $50 off for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1038181/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle-2026-sale",
+      "pubDate": "2026-11-22T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "‘The show is starting soon. Please turn on your headphones.’",
+      "url": "https://www.theverge.com/tech/1038879/off-broadway-love-me-auracast",
+      "pubDate": "2026-11-22T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "How Tamagotchis got us hooked on digital pets",
+      "url": "https://www.theverge.com/podcast/1039716/tamagotchi-history-digital-pets-anniversary",
+      "pubDate": "2026-11-22T13:15:27.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Your questions about Apple HomeView’s audio, answered",
+      "url": "https://www.theverge.com/tech/1038713/apple-homeview-audio-smart-speaker-spotify-airplay",
+      "pubDate": "2026-11-22T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The vibe-coding revolution is coming to all the gadgets",
+      "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+      "pubDate": "2026-11-22T13:00:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Amazon launches $449 iPad mini 7 deal for Black Friday",
+      "url": "https://appleinsider.com/articles/26/11/22/amazon-launches-449-ipad-mini-7-deal-for-black-friday?utm_source=rss",
+      "pubDate": "2026-11-22T11:29:15.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Amazon's Black Friday $179 Apple Watch SE 3 deal has arrived",
+      "url": "https://appleinsider.com/articles/26/11/22/amazons-black-friday-179-apple-watch-se-3-deal-has-arrived?utm_source=rss",
+      "pubDate": "2026-11-22T10:38:15.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "AirPods Pro 3 plunge to $169, AirPods Max 2 drop to $419 for Black Friday week",
+      "url": "https://appleinsider.com/articles/26/11/22/airpods-pro-3-plunge-to-169-airpods-max-2-drop-to-419-for-black-friday-week?utm_source=rss",
+      "pubDate": "2026-11-22T10:18:58.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "AirPods Pro 3 just got even cheaper, now $169 ($80 off)",
+      "url": "https://9to5mac.com/2026/11/22/airpods-pro-3-just-got-even-cheaper-now-169-80-off/",
+      "pubDate": "2026-11-22T10:15:48.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -108,27 +199,6 @@
       "pubDate": "2026-11-21T16:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Amazon’s first digital photo frame is up to 50 percent off for Black Friday",
-      "url": "https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale",
-      "pubDate": "2026-11-21T16:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Can Anthropic afford to put safety first?",
-      "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
-      "pubDate": "2026-11-21T15:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
-      "url": "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale",
-      "pubDate": "2026-11-21T14:55:28.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Top Stories: iPhone Duo Face Unlock, HomeView Tidbits, and More",
@@ -143,13 +213,6 @@
       "pubDate": "2026-11-21T14:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
-      "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
-      "pubDate": "2026-11-21T14:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Amazon Takes $120 Off 46mm GPS Apple Watch Series 12 With New Record Low Price [Update: Gone]",
@@ -157,23 +220,9 @@
       "pubDate": "2026-11-21T13:59:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Xiaomi 18 Pro proves two screens aren’t better than one",
-      "url": "https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review",
-      "pubDate": "2026-11-21T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The game of the year is finally here",
-      "url": "https://www.theverge.com/tech/1039433/gta-vi-alfred-6-clockwisetv-installer",
-      "pubDate": "2026-11-21T13:00:00.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
-      "title": "Weekend Black Friday Apple deals: MacBooks from $649, Series 12, AirPods $130 off, new iPad mini, more",
+      "title": "Weekend Black Friday Apple deals: MacBooks from $649, Series 12, AirPods, new iPad mini, more [Updated]",
       "url": "https://9to5mac.com/2026/11/21/official-black-friday-apple-deals-now-live/",
       "pubDate": "2026-11-21T12:59:00.000Z"
     },
@@ -220,13 +269,6 @@
       "pubDate": "2026-11-20T21:45:43.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Watch Series 12: Four standout features make me glad I upgraded",
-      "url": "https://9to5mac.com/2026/11/20/apple-watch-series-12-four-standout-features-glad-i-upgraded/",
-      "pubDate": "2026-11-20T20:25:35.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Finally, Apple can reveal the UK backdoor demand ↦",
@@ -239,13 +281,6 @@
       "title": "Black Friday streaming deals cut Apple TV to $6.99/mo, Paramount Plus to $2.99/mo",
       "url": "https://appleinsider.com/articles/26/11/20/black-friday-streaming-deals-cut-apple-tv-to-699mo-paramount-plus-to-299mo?utm_source=rss",
       "pubDate": "2026-11-20T19:58:08.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple TV keeps adding fan-favorite movies, here’s what’s new and coming next",
-      "url": "https://9to5mac.com/2026/11/20/apple-tv-keeps-adding-fan-favorite-movies-heres-whats-new-and-coming-next/",
-      "pubDate": "2026-11-20T19:52:21.000Z"
     },
     {
       "source": "MacRumors",
@@ -290,13 +325,6 @@
       "pubDate": "2026-11-20T16:43:44.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Microsoft to Retire 'To Do' Apps Next Year",
-      "url": "https://www.macrumors.com/2026/11/20/microsoft-to-retire-to-do-apps/",
-      "pubDate": "2026-11-20T16:31:43.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Grab an M4 iPad Air at $100 off before Black Friday",
@@ -330,34 +358,6 @@
       "title": "Apple Support Communities were sound and fury, but sometimes so useful",
       "url": "https://appleinsider.com/articles/26/11/11/apple-support-communities-were-sound-and-fury-but-sometimes-so-useful?utm_source=rss",
       "pubDate": "2026-11-20T12:52:48.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "24-inch M6 iMac review: Aggressively fine",
-      "url": "https://appleinsider.com/articles/26/11/20/24-inch-m6-imac-review-aggressively-fine?utm_source=rss",
-      "pubDate": "2026-11-20T12:35:13.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple HomeView and the Internet's very bad week on the AppleInsider Podcast",
-      "url": "https://appleinsider.com/articles/26/11/20/apple-homeview-and-the-internets-very-bad-week-on-the-appleinsider-podcast?utm_source=rss",
-      "pubDate": "2026-11-20T12:22:39.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "How to keep watching DVDs with VLC as Apple phases out Mac DVD support",
-      "url": "https://appleinsider.com/inside/macos-27/tips/how-to-keep-watching-dvds-with-vlc-as-apple-phases-out-mac-dvd-support?utm_source=rss",
-      "pubDate": "2026-11-20T12:13:34.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "No World Cup for Apple as bidding exceeds $1.5 billion",
-      "url": "https://appleinsider.com/articles/26/11/20/no-world-cup-for-apple-as-bidding-exceeds-15-billion?utm_source=rss",
-      "pubDate": "2026-11-20T12:01:02.000Z"
     },
     {
       "source": "Six Colors",
