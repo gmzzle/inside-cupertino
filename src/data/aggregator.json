@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T02:48:00.562Z",
+  "generatedAt": "2026-11-23T12:50:15.694Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,62 @@
     }
   ],
   "items": [
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple Explores Using Light to Move Data Between Server Chips",
+      "url": "https://www.macrumors.com/2026/11/23/apple-light-move-data-server-chips/",
+      "pubDate": "2026-11-23T12:29:27.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "iPhone Duo's small outer screen may yet get more widgets",
+      "url": "https://appleinsider.com/articles/26/11/23/iphone-duos-small-outer-screen-may-yet-get-more-widgets?utm_source=rss",
+      "pubDate": "2026-11-23T12:27:05.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Five recent tech outages were not due to AI; the next round will be",
+      "url": "https://9to5mac.com/2026/11/23/five-recent-tech-outages-were-not-due-to-ai-the-next-round-will-be/",
+      "pubDate": "2026-11-23T12:06:58.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "AirPods Pro 3 hit new all-time low price, now $149 ($100 off)",
+      "url": "https://9to5mac.com/2026/11/23/airpods-pro-3-just-got-even-cheaper-now-169-80-off/",
+      "pubDate": "2026-11-23T12:02:05.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "iPhone Sales Ban in India Sought by Startup Over NameDrop Feature",
+      "url": "https://www.macrumors.com/2026/11/23/iphone-sales-ban-namedrop-feature/",
+      "pubDate": "2026-11-23T11:33:48.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Meta Muse can do your Black Friday shopping at Walmart",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+      "pubDate": "2026-11-23T11:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "MacBook Neo Could Get New Colors and Upgrades Every Year",
+      "url": "https://www.macrumors.com/2026/11/23/macbook-neo-new-colors-every-year/",
+      "pubDate": "2026-11-23T10:50:49.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
+      "url": "https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink",
+      "pubDate": "2026-11-23T03:00:00.000Z"
+    },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
@@ -126,7 +182,7 @@
       "sourceHomepage": "https://www.macrumors.com",
       "title": "M6 MacBook Pro Drops to $1,799 in New Black Friday Sale ($200 Off)",
       "url": "https://www.macrumors.com/2026/11/22/m6-macbook-pro-200-discount/",
-      "pubDate": "2026-11-22T15:39:40.000Z"
+      "pubDate": "2026-11-22T15:39:37.000Z"
     },
     {
       "source": "9to5Mac",
@@ -192,20 +248,6 @@
       "pubDate": "2026-11-22T14:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "How Tamagotchis got us hooked on digital pets",
-      "url": "https://www.theverge.com/podcast/1039716/tamagotchi-history-digital-pets-anniversary",
-      "pubDate": "2026-11-22T13:15:27.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Your questions about Apple HomeView’s audio, answered",
-      "url": "https://www.theverge.com/tech/1038713/apple-homeview-audio-smart-speaker-spotify-airplay",
-      "pubDate": "2026-11-22T13:00:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Amazon launches $449 iPad mini 7 deal for Black Friday",
@@ -225,13 +267,6 @@
       "title": "AirPods Pro 3 plunge to $169, AirPods Max 2 drop to $419 for Black Friday week",
       "url": "https://appleinsider.com/articles/26/11/22/airpods-pro-3-plunge-to-169-airpods-max-2-drop-to-419-for-black-friday-week?utm_source=rss",
       "pubDate": "2026-11-22T10:18:58.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "AirPods Pro 3 just got even cheaper, now $169 ($80 off)",
-      "url": "https://9to5mac.com/2026/11/22/airpods-pro-3-just-got-even-cheaper-now-169-80-off/",
-      "pubDate": "2026-11-22T10:15:48.000Z"
     },
     {
       "source": "9to5Mac",
@@ -283,32 +318,11 @@
       "pubDate": "2026-11-21T17:00:00.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "RIP, Apple Support Community",
-      "url": "https://www.macrumors.com/2026/11/21/rip-apple-support-community/",
-      "pubDate": "2026-11-21T16:48:03.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Top Stories: iPhone Duo Face Unlock, HomeView Tidbits, and More",
-      "url": "https://www.macrumors.com/2026/11/21/top-stories-iphone-duo-face-unlock/",
-      "pubDate": "2026-11-21T14:00:10.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "Apple @ Work: Workbrew 2.0 is an inventory for the development software your employees installed without asking",
       "url": "https://9to5mac.com/2026/11/21/apple-work/",
       "pubDate": "2026-11-21T14:00:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Amazon Takes $120 Off 46mm GPS Apple Watch Series 12 With New Record Low Price [Update: Gone]",
-      "url": "https://www.macrumors.com/2026/11/21/amazon-120-off-46mm-gps-apple-watch-series-12/",
-      "pubDate": "2026-11-21T13:59:00.000Z"
     },
     {
       "source": "9to5Mac",
@@ -325,13 +339,6 @@
       "pubDate": "2026-11-21T05:09:03.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "ESR Black Friday gift guide: Premium accessories for iPhone Duo, iPhone 18 Pro, iPad, AirPods, and Apple Watch",
-      "url": "https://9to5mac.com/2026/11/20/esr-black-friday-apple-accessories-gift-guide/",
-      "pubDate": "2026-11-21T00:00:00.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Finally, Apple can reveal the UK backdoor demand ↦",
@@ -344,13 +351,6 @@
       "title": "Black Friday streaming deals cut Apple TV to $6.99/mo, Paramount Plus to $2.99/mo",
       "url": "https://appleinsider.com/articles/26/11/20/black-friday-streaming-deals-cut-apple-tv-to-699mo-paramount-plus-to-299mo?utm_source=rss",
       "pubDate": "2026-11-20T19:58:08.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Microsoft abandoning To Do, only Mac alternative is the terrible Teams",
-      "url": "https://appleinsider.com/articles/26/11/20/microsoft-abandoning-to-do-only-mac-alternative-is-the-terrible-teams?utm_source=rss",
-      "pubDate": "2026-11-20T18:00:31.000Z"
     },
     {
       "source": "Six Colors",
