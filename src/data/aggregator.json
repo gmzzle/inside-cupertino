@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T10:57:52.546Z",
+  "generatedAt": "2026-11-24T21:13:51.186Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,53 +24,340 @@
   ],
   "items": [
     {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "New Gemini setting lets you keep chat history, but turn off AI training [U]",
+      "url": "https://9to5google.com/2026/11/24/gemini-history-ai-training/",
+      "pubDate": "2026-11-24T21:11:31.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Walmart drops Apple Pay support from its app and website",
+      "url": "https://9to5mac.com/2026/11/24/walmart-drops-apple-pay-support-from-its-app-and-website/",
+      "pubDate": "2026-11-24T21:01:08.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Google Says Apple's iOS Browser Rules Offer 'Choice on Paper, Not in Practice'",
+      "url": "https://www.macrumors.com/2026/11/24/google-ios-eu-browser-rules/",
+      "pubDate": "2026-11-24T21:00:43.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "TikTok is currently down for some users",
+      "url": "https://9to5mac.com/2026/11/24/tiktok-is-currently-down-for-some-users/",
+      "pubDate": "2026-11-24T20:44:37.000Z"
+    },
+    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
-      "title": "Black Friday deals bring Thunderbolt 5 docks for Mac down to $232.74",
-      "url": "https://appleinsider.com/articles/26/11/24/black-friday-deals-bring-thunderbolt-5-docks-for-mac-down-to-23274?utm_source=rss",
-      "pubDate": "2026-11-24T05:26:26.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Wacom MovinkPad Pro 14 review: It's good, but it's Android",
-      "url": "https://appleinsider.com/articles/26/11/24/wacom-movinkpad-pro-14-review-its-good-but-its-android?utm_source=rss",
-      "pubDate": "2026-11-24T01:42:23.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "These are my two must-have iPhone Duo accessories",
-      "url": "https://9to5mac.com/2026/11/23/these-are-my-two-must-have-iphone-duo-accessories/",
-      "pubDate": "2026-11-24T01:30:09.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "9to5Mac Daily: November 23, 2026 – Apple agentic AI, spring product rumors",
-      "url": "https://9to5mac.com/2026/11/23/daily-november-23-2026/",
-      "pubDate": "2026-11-24T01:04:38.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Pay just got even better with four new features and more",
-      "url": "https://9to5mac.com/2026/11/23/apple-pay-is-getting-even-better-with-four-new-features/",
-      "pubDate": "2026-11-24T00:31:59.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iOS 27.2 upgraded Apple Photos in two ways, here’s what’s new",
-      "url": "https://9to5mac.com/2026/11/23/ios-27-2-just-upgraded-apple-photos-in-two-ways-heres-whats-new/",
-      "pubDate": "2026-11-24T00:19:18.000Z"
+      "title": "Apple's brand-new M6 iMac is already up to $111 off for Black Friday",
+      "url": "https://appleinsider.com/articles/26/11/24/apples-brand-new-m6-imac-is-already-up-to-111-off-for-black-friday?utm_source=rss",
+      "pubDate": "2026-11-24T20:35:45.000Z"
     },
     {
       "source": "The Verge",
       "sourceHomepage": "https://www.theverge.com",
-      "title": "Google alternative Kagi launches an email service",
-      "url": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
-      "pubDate": "2026-11-24T00:02:52.000Z"
+      "title": "TikTok was down",
+      "url": "https://www.theverge.com/tech/1041618/tiktok-down-outage",
+      "pubDate": "2026-11-24T20:27:27.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Walmart App Rolls Back Apple Pay Support After Just Weeks",
+      "url": "https://www.macrumors.com/2026/11/24/walmart-app-drops-apple-pay/",
+      "pubDate": "2026-11-24T20:14:57.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
+      "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+      "pubDate": "2026-11-24T20:02:03.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The clock is running out for America’s most contentious spying law",
+      "url": "https://www.theverge.com/policy/1041568/fisa-ndaa-blue-wave",
+      "pubDate": "2026-11-24T20:00:00.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "Skipper, Tripod, and finding apps that fit",
+      "url": "https://sixcolors.com/post/2026/11/skipper-tripod-and-finding-apps-that-fit/",
+      "pubDate": "2026-11-24T20:00:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Anthropic just gave Claude users a new way to make Mac apps",
+      "url": "https://9to5mac.com/2026/11/24/anthropic-just-gave-claude-users-a-new-way-to-make-mac-apps/",
+      "pubDate": "2026-11-24T19:56:34.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "AirTag 2 has two big improvements that make it worth the upgrade",
+      "url": "https://9to5mac.com/2026/11/24/airtag-2-has-two-big-improvements-that-make-it-worth-the-upgrade/",
+      "pubDate": "2026-11-24T19:53:22.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Amazon is knocking almost $50 off six months of Apple TV",
+      "url": "https://www.theverge.com/gadgets/1040046/apple-tv-subscription-streaming-sale-deal-black-friday",
+      "pubDate": "2026-11-24T19:00:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "National security, more affairs, and possible treason - Nvidia's problems are far from over",
+      "url": "https://appleinsider.com/articles/26/11/24/national-security-more-affairs-and-possible-treason---nvidias-problems-are-far-from-over?utm_source=rss",
+      "pubDate": "2026-11-24T18:55:34.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Disney+, HBO Max, Apple TV, more: Here are the best Black Friday deals",
+      "url": "https://9to5mac.com/2026/11/24/hbo-max-peacock-apple-tv-more-here-are-the-best-black-friday-deals/",
+      "pubDate": "2026-11-24T18:54:37.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Disney Plus, Hulu bundle drops to $4.99/mo for 1 year with Black Friday deal",
+      "url": "https://appleinsider.com/articles/26/11/24/disney-plus-hulu-bundle-drops-to-499mo-for-1-year-with-black-friday-deal?utm_source=rss",
+      "pubDate": "2026-11-24T18:51:52.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Skip the knockoffs: Real PITAKA aramid fiber cases start at $18.99 this Black Friday",
+      "url": "https://9to5mac.com/2026/11/24/skip-the-knockoffs-real-pitaka-aramid-fiber-cases-start-at-18-99-this-black-friday/",
+      "pubDate": "2026-11-24T18:51:21.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "If you picked 'tomorrow' for when Threads on iPad was releasing, you're right",
+      "url": "https://appleinsider.com/articles/26/11/24/if-you-picked-tomorrow-for-when-threads-on-ipad-was-releasing-youre-right?utm_source=rss",
+      "pubDate": "2026-11-24T18:45:01.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Now Firefox can select which sites use its VPN, and clear your browsing history with one click",
+      "url": "https://www.theverge.com/tech/1041474/firefox-161-vpn-rules-fire-button",
+      "pubDate": "2026-11-24T18:44:57.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Black Friday Discount Hits 512GB MacBook Neo at $699 ($100 Off)",
+      "url": "https://www.macrumors.com/2026/11/24/black-friday-512-macbook-neo/",
+      "pubDate": "2026-11-24T18:44:21.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Apple Home accessories: Here are my five top picks for your smart home",
+      "url": "https://9to5mac.com/2026/11/24/apple-home-accessories-here-are-my-five-top-picks-for-your-smart-home/",
+      "pubDate": "2026-11-24T18:43:54.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Disney+ Black Friday Deal is Here: Bundle With Hulu for Just $4.99/Month for a Year",
+      "url": "https://www.macrumors.com/2026/11/24/disney-black-friday-deal/",
+      "pubDate": "2026-11-24T18:22:40.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+      "url": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+      "pubDate": "2026-11-24T18:15:00.000Z"
+    },
+    {
+      "source": "Six Colors",
+      "sourceHomepage": "https://sixcolors.com",
+      "title": "App Report: Music, man",
+      "url": "https://sixcolors.com/post/2026/11/app-report-music-man/",
+      "pubDate": "2026-11-24T18:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Dreame and Eufy are offering nearly 60 percent off robovacs for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1040315/black-friday-best-early-robot-vacuum-mop-deals-2026",
+      "pubDate": "2026-11-24T17:30:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Tidal will start banning AI-generated music next month",
+      "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+      "pubDate": "2026-11-24T17:17:09.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Signal Now Blocks AI Screen Access to Protect Chats",
+      "url": "https://www.macrumors.com/2026/11/24/signal-blocks-ai-access-to-protect-chats/",
+      "pubDate": "2026-11-24T17:04:43.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Black Friday deals: AirPods Pro 3 $100 off, AirTag $18 all-time low, MacBooks $300 off, iPad $350 off, more",
+      "url": "https://9to5mac.com/2026/11/24/black-friday-deals-airpods-pro-3-airtag-2-macbook-pro/",
+      "pubDate": "2026-11-24T16:42:29.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "CarPlay Ultra coming to these cars, according to Apple",
+      "url": "https://9to5mac.com/2026/11/24/carplay-ultra-automakers/",
+      "pubDate": "2026-11-24T16:41:59.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Leaks say Apple has four special edition products launching next week in red",
+      "url": "https://9to5mac.com/2026/11/24/leaks-say-apple-has-four-special-edition-products-launching-next-week-in-red/",
+      "pubDate": "2026-11-24T16:37:50.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "US Commerce Department adds Megaspeed to trade blacklist as Huang retakes control of Nvidia",
+      "url": "https://www.theverge.com/policy/1041270/nvidia-megaspeed-commerce-dept-entity-list",
+      "pubDate": "2026-11-24T16:37:03.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Jensen Huang deepfakes are the hot new AI slop",
+      "url": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+      "pubDate": "2026-11-24T16:30:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's AirTag 2 hits a record-low $18, making the 4-pack a worse deal",
+      "url": "https://appleinsider.com/articles/26/11/24/apples-airtag-2-hits-a-record-low-18-making-the-4-pack-a-worse-deal?utm_source=rss",
+      "pubDate": "2026-11-24T16:05:16.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Missed That $149 AirPods Pro 3 Deal? Amazon Just Brought It Back",
+      "url": "https://www.macrumors.com/2026/11/24/amazon-airpods-pro-3-deal-back/",
+      "pubDate": "2026-11-24T16:05:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Things 3.25 for Mac Gains Touch Gestures",
+      "url": "https://www.macrumors.com/2026/11/24/things-3-25-for-mac-gains-touch-gestures/",
+      "pubDate": "2026-11-24T16:00:11.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Things 3.25 update brings new touch features to the MacBook Pro",
+      "url": "https://9to5mac.com/2026/11/24/things-3-25-update-brings-new-touch-features-to-the-macbook-pro/",
+      "pubDate": "2026-11-24T16:00:00.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "AirTag in (PRODUCT)RED?",
+      "url": "https://www.macrumors.com/2026/11/24/airtag-in-productred/",
+      "pubDate": "2026-11-24T15:37:22.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple's Product(Red) comeback extends to AirPods and Apple Watch accessories",
+      "url": "https://appleinsider.com/articles/26/11/24/apples-productred-comeback-extends-to-airpods-and-apple-watch-accessories?utm_source=rss",
+      "pubDate": "2026-11-24T15:30:27.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple hosting 20 years of (Red) recognition event in SoHo",
+      "url": "https://appleinsider.com/articles/26/11/24/apple-hosting-20-years-of-red-recognition-event-in-soho?utm_source=rss",
+      "pubDate": "2026-11-24T15:28:30.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "M6 iMacs Get First Major Discounts With Up to $111 Off at Amazon",
+      "url": "https://www.macrumors.com/2026/11/24/new-m6-imacs-discounts/",
+      "pubDate": "2026-11-24T15:16:56.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple to Celebrate 20 Years of (RED) With Special Event in New York",
+      "url": "https://www.macrumors.com/2026/11/24/apple-soho-red-event-new-york/",
+      "pubDate": "2026-11-24T15:08:52.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Black Friday price war drops Apple's M6 MacBook Pro to $1,779",
+      "url": "https://appleinsider.com/articles/26/11/24/black-friday-price-war-drops-apples-m6-macbook-pro-to-1779?utm_source=rss",
+      "pubDate": "2026-11-24T15:01:05.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Owning an Apple Home: Decorating for the holidays",
+      "url": "https://appleinsider.com/articles/26/11/24/owning-an-apple-home-decorating-for-the-holidays?utm_source=rss",
+      "pubDate": "2026-11-24T14:55:10.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Hidden Coupon Deal Knocks M6 MacBook Pro to $1,779 on Amazon",
+      "url": "https://www.macrumors.com/2026/11/24/hidden-coupon-m6-macbook-pro/",
+      "pubDate": "2026-11-24T14:43:45.000Z"
+    },
+    {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "Apple to Release Four (RED) Products by Next Week",
+      "url": "https://www.macrumors.com/2026/11/24/apple-to-release-four-red-products/",
+      "pubDate": "2026-11-24T14:33:26.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "XNULinux can run macOS apps in Linux without a virtual machine",
+      "url": "https://appleinsider.com/articles/26/11/24/xnulinux-can-run-macos-apps-in-linux-without-a-virtual-machine?utm_source=rss",
+      "pubDate": "2026-11-24T14:24:38.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "'Pool of Radiance' returns to Apple Silicon Macs with this project",
+      "url": "https://appleinsider.com/articles/26/11/24/pool-of-radiance-returns-to-apple-silicon-macs-with-this-project?utm_source=rss",
+      "pubDate": "2026-11-24T14:01:36.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Apple hands Epic less than 1% of required documents in its App Store fee fight",
+      "url": "https://appleinsider.com/articles/26/11/24/apple-hands-epic-less-than-1-of-required-documents-in-its-app-store-fee-fight?utm_source=rss",
+      "pubDate": "2026-11-24T13:15:16.000Z"
     },
     {
       "source": "Six Colors",
@@ -80,298 +367,11 @@
       "pubDate": "2026-11-23T23:58:53.000Z"
     },
     {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "OpenAI Brings GPT-6.2 Sol to ChatGPT's Chat Tab",
-      "url": "https://www.macrumors.com/2026/11/23/openai-gpt-6-2-sol-chatgpt/",
-      "pubDate": "2026-11-23T23:52:41.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The hacker behind early GTA VI leaks has been sentenced — and released",
-      "url": "https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released",
-      "pubDate": "2026-11-23T23:25:01.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Verge’s 2026 holiday gift guide",
-      "url": "https://www.theverge.com/gadgets/1026041/holiday-gift-guide-2026",
-      "pubDate": "2026-11-23T23:14:10.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Ladybird, the first new browser engine in years, is now available to test",
-      "url": "https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing",
-      "pubDate": "2026-11-23T22:38:09.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "'Ted Lasso' season 5 renewal has been finally been confirmed",
-      "url": "https://appleinsider.com/articles/26/11/23/ted-lasso-season-5-has-been-confirmed-after-a-popular-return?utm_source=rss",
-      "pubDate": "2026-11-23T22:36:51.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Trump engineered a risky comeback for Jensen Huang",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
-      "pubDate": "2026-11-23T22:25:12.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Nvidia CEO Jensen Huang is back. What happens next?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-      "pubDate": "2026-11-23T22:10:32.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Google Search Gets Wallet Access, With Drive Coming Soon",
-      "url": "https://www.macrumors.com/2026/11/23/google-search-wallet-access/",
-      "pubDate": "2026-11-23T22:09:42.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Welcome to elite impunity, Jensen Huang",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
-      "pubDate": "2026-11-23T22:09:26.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "ChatGPT expands GPT-6.2 Sol as OpenAI sets retirement date for two models",
-      "url": "https://9to5mac.com/2026/11/23/chatgpt-expands-gpt-6-2-sol-as-openai-sets-retirement-date-for-two-models/",
-      "pubDate": "2026-11-23T21:51:18.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "YouTube’s iconic iOS app icon may soon return with new customizable icons [Gallery]",
-      "url": "https://9to5google.com/2026/11/23/youtube-custom-icons-ios-tv-return/",
-      "pubDate": "2026-11-23T21:46:26.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Remodeled Apple The Oracle retail store reopens December 3",
-      "url": "https://appleinsider.com/articles/26/11/23/remodeled-apple-the-oracle-retail-store-reopens-december-3?utm_source=rss",
-      "pubDate": "2026-11-23T21:43:08.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
-      "url": "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale",
-      "pubDate": "2026-11-23T21:36:48.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "AI data centers throw another wrench into chaotic UN climate talks",
-      "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
-      "pubDate": "2026-11-23T21:09:37.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Amazon's $599 MacBook Neo deal offers lowest price as Black Friday nears",
-      "url": "https://appleinsider.com/articles/26/11/23/amazons-599-macbook-neo-deal-offers-lowest-price-as-black-friday-nears?utm_source=rss",
-      "pubDate": "2026-11-23T21:09:12.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Store With All-New Design Opening in UK Next Month",
-      "url": "https://www.macrumors.com/2026/11/23/new-apple-store-at-the-oracle/",
-      "pubDate": "2026-11-23T21:08:30.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Kodak SlideTag is a $35 AirTag alternative with an E-Ink display for your photos",
-      "url": "https://9to5mac.com/2026/11/23/kodak-slidetag-e-ink-iphone-tracker-airtag/",
-      "pubDate": "2026-11-23T21:05:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple announces Ted Lasso season 5 is coming",
-      "url": "https://9to5mac.com/2026/11/23/apple-announces-ted-lasso-season-5-is-coming/",
-      "pubDate": "2026-11-23T21:01:24.000Z"
-    },
-    {
       "source": "Six Colors",
       "sourceHomepage": "https://sixcolors.com",
       "title": "Dog bites man, “Ted Lasso” renewed for season 5 ↦",
       "url": "https://sixcolors.com/link/2026/11/dog-bites-man-ted-lasso-renewed-for-season-5/",
       "pubDate": "2026-11-23T20:56:09.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple renews Ted Lasso for season 5",
-      "url": "https://www.theverge.com/entertainment/1040699/ted-lasso-season-5-apple-tv",
-      "pubDate": "2026-11-23T20:56:00.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Announces 'Ted Lasso' Renewed for Fifth Season",
-      "url": "https://www.macrumors.com/2026/11/23/ted-lasso-season-five-renewal/",
-      "pubDate": "2026-11-23T20:44:34.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Anthropic launches new Claude Ship feature for builders",
-      "url": "https://9to5mac.com/2026/11/23/anthropic-launches-new-claude-ship-feature-for-builders/",
-      "pubDate": "2026-11-23T20:32:31.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple Watch SE 3 vs Series 12: Which should you buy this holiday season?",
-      "url": "https://9to5mac.com/2026/11/23/apple-watch-se-3-vs-series-12-which-should-you-buy-this-holiday-season/",
-      "pubDate": "2026-11-23T20:26:50.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "MacBook Neo Sees Record Low $599 Price in Latest Black Friday Sale ($100 Off) [Update: Gone]",
-      "url": "https://www.macrumors.com/2026/11/23/macbook-neo-100-off/",
-      "pubDate": "2026-11-23T20:25:47.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "MacBook Neo gets rare $100 price drop for Black Friday [Updated]",
-      "url": "https://9to5mac.com/2026/11/23/macbook-neo-gets-rare-50-price-drop-in-early-black-friday-deal/",
-      "pubDate": "2026-11-23T20:21:20.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "M6 iMac Review: Apple’s latest power play",
-      "url": "https://sixcolors.com/post/2026/11/m6-imac-review-apples-latest-power-play/",
-      "pubDate": "2026-11-23T20:00:00.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "HBO Max, Peacock, Apple TV, more: Here are the best Black Friday deals",
-      "url": "https://9to5mac.com/2026/11/23/hbo-max-peacock-apple-tv-more-here-are-the-best-black-friday-deals/",
-      "pubDate": "2026-11-23T19:53:17.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Grab an AirTag 2 for Just $18 at Best Buy and Amazon",
-      "url": "https://www.macrumors.com/2026/11/23/grab-an-airtag-2-18/",
-      "pubDate": "2026-11-23T19:51:02.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Product(Red) HomePod mini & AirPods Max could be revealed soon",
-      "url": "https://appleinsider.com/articles/26/11/23/productred-homepod-mini-airpods-max-could-be-revealed-soon?utm_source=rss",
-      "pubDate": "2026-11-23T19:33:45.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Apple Bringing Back (PRODUCT)RED With Red HomePod Mini 2 and AirPods Max 2",
-      "url": "https://www.macrumors.com/2026/11/23/product-red-homepod-mini-airpods-max/",
-      "pubDate": "2026-11-23T19:27:42.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Best early Black Friday Apple deals start at just $11",
-      "url": "https://appleinsider.com/articles/26/11/23/best-early-black-friday-apple-deals-start-at-just-11?utm_source=rss",
-      "pubDate": "2026-11-23T19:27:14.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Best Black Friday Streaming Deals on Apple TV, Peacock, HBO Max, and More",
-      "url": "https://www.macrumors.com/2026/11/23/best-black-friday-streaming-deals/",
-      "pubDate": "2026-11-23T18:58:51.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Threads is Getting an iPad App",
-      "url": "https://www.macrumors.com/2026/11/23/threads-is-getting-an-ipad-app/",
-      "pubDate": "2026-11-23T18:53:44.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Threads for iPad is coming, but when is still anybody's guess",
-      "url": "https://appleinsider.com/articles/26/11/23/threads-for-ipad-is-coming-but-when-is-still-anybodys-guess?utm_source=rss",
-      "pubDate": "2026-11-23T18:39:59.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "Subtitles everywhere in version 27 releases",
-      "url": "https://sixcolors.com/post/2026/11/subtitles-everywhere-in-version-27-releases/",
-      "pubDate": "2026-11-23T18:00:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Apple Watch Series 12 falls to $299, save $100 across styles",
-      "url": "https://appleinsider.com/articles/26/11/23/apple-watch-series-12-falls-to-299-save-100-across-styles?utm_source=rss",
-      "pubDate": "2026-11-23T17:38:17.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Developer Turns MacBook Trackpad Into a Speaker Using Haptic Motor",
-      "url": "https://www.macrumors.com/2026/11/23/macbook-trackpad-turns-into-a-speaker/",
-      "pubDate": "2026-11-23T17:34:53.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "A Decade Later, Apple Remains Berkshire's Biggest Stock Bet",
-      "url": "https://www.macrumors.com/2026/11/23/apple-remains-berkshires-biggest-stock-bet/",
-      "pubDate": "2026-11-23T17:02:13.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "EU urged to challenge Apple's grip on iPhone browsers",
-      "url": "https://appleinsider.com/articles/26/11/23/eu-urges-to-challenge-apples-grip-on-iphone-browsers?utm_source=rss",
-      "pubDate": "2026-11-23T16:57:51.000Z"
-    },
-    {
-      "source": "Six Colors",
-      "sourceHomepage": "https://sixcolors.com",
-      "title": "(Podcast) Upgrade 647: Your Phone Is Kind of Irrelevant",
-      "url": "https://sixcolors.com/podcast/2026/11/upgrade-647-your-phone-is-kind-of-irrelevant/",
-      "pubDate": "2026-11-23T16:32:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "It's complicated - how to buy or sell a smart home on Smart Home Insider",
-      "url": "https://appleinsider.com/articles/26/11/23/its-complicated---how-to-buy-or-sell-a-house-with-smart-home-devices-on-smart-home-insider?utm_source=rss",
-      "pubDate": "2026-11-23T16:16:42.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "Black Friday Video Game Deals Include Rare Sale on Nintendo Switch 2 Mario Kart World Bundle",
-      "url": "https://www.macrumors.com/2026/11/23/black-friday-video-game-deals/",
-      "pubDate": "2026-11-23T16:05:58.000Z"
     }
   ]
 }
