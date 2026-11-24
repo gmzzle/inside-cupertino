@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T00:54:02.152Z",
+  "generatedAt": "2026-11-24T10:57:52.546Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Black Friday deals bring Thunderbolt 5 docks for Mac down to $232.74",
+      "url": "https://appleinsider.com/articles/26/11/24/black-friday-deals-bring-thunderbolt-5-docks-for-mac-down-to-23274?utm_source=rss",
+      "pubDate": "2026-11-24T05:26:26.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Wacom MovinkPad Pro 14 review: It's good, but it's Android",
+      "url": "https://appleinsider.com/articles/26/11/24/wacom-movinkpad-pro-14-review-its-good-but-its-android?utm_source=rss",
+      "pubDate": "2026-11-24T01:42:23.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "These are my two must-have iPhone Duo accessories",
+      "url": "https://9to5mac.com/2026/11/23/these-are-my-two-must-have-iphone-duo-accessories/",
+      "pubDate": "2026-11-24T01:30:09.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "9to5Mac Daily: November 23, 2026 – Apple agentic AI, spring product rumors",
+      "url": "https://9to5mac.com/2026/11/23/daily-november-23-2026/",
+      "pubDate": "2026-11-24T01:04:38.000Z"
+    },
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
@@ -248,25 +276,11 @@
       "pubDate": "2026-11-23T19:51:02.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "MagSafe Monday: Anker’s MagGo Pro 2 has a built-in fan to keep 25W Qi2.2 charging from slowing down",
-      "url": "https://9to5mac.com/2026/11/23/anker-maggo-2-pro/",
-      "pubDate": "2026-11-23T19:51:00.000Z"
-    },
-    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Product(Red) HomePod mini & AirPods Max could be revealed soon",
       "url": "https://appleinsider.com/articles/26/11/23/productred-homepod-mini-airpods-max-could-be-revealed-soon?utm_source=rss",
       "pubDate": "2026-11-23T19:33:45.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple releasing Product(RED) versions of two products soon, per report",
-      "url": "https://9to5mac.com/2026/11/23/apple-releasing-productred-homepod-mini-and-airpods-max-per-report/",
-      "pubDate": "2026-11-23T19:28:09.000Z"
     },
     {
       "source": "MacRumors",
@@ -353,25 +367,11 @@
       "pubDate": "2026-11-23T16:16:42.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Huang 'did nothing wrong,' Donald Trump told Nvidia's board",
-      "url": "https://appleinsider.com/articles/26/11/23/huang-did-nothing-wrong-donald-trump-told-nvidias-board?utm_source=rss",
-      "pubDate": "2026-11-23T16:06:57.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Black Friday Video Game Deals Include Rare Sale on Nintendo Switch 2 Mario Kart World Bundle",
       "url": "https://www.macrumors.com/2026/11/23/black-friday-video-game-deals/",
       "pubDate": "2026-11-23T16:05:58.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Samsung Display to remain sole iPhone Duo screen supplier",
-      "url": "https://appleinsider.com/articles/26/11/23/samsung-display-to-remain-sole-iphone-duo-screen-supplier?utm_source=rss",
-      "pubDate": "2026-11-23T15:42:25.000Z"
     }
   ]
 }
