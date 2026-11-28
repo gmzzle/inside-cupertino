@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T21:58:33.928Z",
+  "generatedAt": "2026-11-28T03:54:42.900Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,6 +24,118 @@
   ],
   "items": [
     {
+      "source": "MacRumors",
+      "sourceHomepage": "https://www.macrumors.com",
+      "title": "HomePod Mini 2 in (RED) Seemingly Spotted Ahead of Announcement",
+      "url": "https://www.macrumors.com/2026/11/27/red-homepod-mini-2-seemingly-spotted/",
+      "pubDate": "2026-11-28T03:50:55.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The M5 MacBook Air just got its biggest discount since Apple raised the price",
+      "url": "https://www.theverge.com/gadgets/1044771/m5-macbook-air-black-friday-2026-deal-sale",
+      "pubDate": "2026-11-28T03:30:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The absolute best Black Friday deals you can still get",
+      "url": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
+      "pubDate": "2026-11-28T03:28:32.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "Product(RED) HomePod mini 2 seemingly surfaces ahead of rumored announcement [U]",
+      "url": "https://9to5mac.com/2026/11/27/productred-homepod-mini-2-seemingly-surfaces-ahead-of-rumored-announcement/",
+      "pubDate": "2026-11-28T03:07:04.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Last call for Amazon's $599 MacBook Neo Black Friday deal",
+      "url": "https://appleinsider.com/articles/26/11/28/last-call-for-amazons-599-macbook-neo-black-friday-deal?utm_source=rss",
+      "pubDate": "2026-11-28T02:14:18.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "We found 60-odd Black Friday deals we love for $100 or less",
+      "url": "https://www.theverge.com/gadgets/1043445/black-friday-best-cheap-tech-deals-under-100-2026",
+      "pubDate": "2026-11-28T01:30:00.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "OpenAI counter-sues Apple over trade secret theft",
+      "url": "https://appleinsider.com/articles/26/11/27/openai-counter-sues-apple-over-trade-secret-theft?utm_source=rss",
+      "pubDate": "2026-11-28T00:11:45.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "This purple electric Chinese minivan can go up to 559 miles on a charge",
+      "url": "https://www.theverge.com/transportation/1044706/this-purple-electric-chinese-minivan-can-go-up-to-559-miles-on-a-charge",
+      "pubDate": "2026-11-28T00:02:49.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "In My Cart: Here are the Amazon Black Friday deals we are buying for ourselves",
+      "url": "https://9to5toys.com/2026/11/27/we-buying-amazon-black-friday-deals/",
+      "pubDate": "2026-11-27T23:58:36.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The best Black Friday deals you can still get on AirPods, Macs, and other Apple gear",
+      "url": "https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026",
+      "pubDate": "2026-11-27T23:53:19.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The best robot vacuums we’ve tested are up to 60 percent off for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1044487/best-black-friday-robot-vacuum-mop-deals-2026",
+      "pubDate": "2026-11-27T23:32:17.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Sony’s 1000XM4C headphones are a Black Friday bargain at $198",
+      "url": "https://www.theverge.com/gadgets/1043976/sony-wh1000xm4c-noise-canceling-headphones-black-friday-2026-deal-sale",
+      "pubDate": "2026-11-27T23:32:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Yooka-Laylee’s free upgrade is skipping Xbox",
+      "url": "https://www.theverge.com/games/1044715/yooka-laylees-free-upgrade-is-skipping-xbox",
+      "pubDate": "2026-11-27T23:30:32.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "Many of our favorite Blu-ray movies are over 50 percent off for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1040471/4k-bluray-movie-film-black-friday-deal-sale",
+      "pubDate": "2026-11-27T23:30:00.000Z"
+    },
+    {
+      "source": "9to5Mac",
+      "sourceHomepage": "https://9to5mac.com",
+      "title": "WhatsApp announces travel eSIMs, tests view-once texts and a cleaner interface",
+      "url": "https://9to5mac.com/2026/11/27/whatsapp-announces-travel-esims-tests-view-once-texts-and-a-cleaner-interface/",
+      "pubDate": "2026-11-27T22:30:06.000Z"
+    },
+    {
+      "source": "The Verge",
+      "sourceHomepage": "https://www.theverge.com",
+      "title": "The new iPad Mini is getting its first major discount for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1042705/ipad-mini-black-friday-deal-sale-2026",
+      "pubDate": "2026-11-27T22:30:00.000Z"
+    },
+    {
       "source": "AppleInsider",
       "sourceHomepage": "https://appleinsider.com",
       "title": "Best Black Friday Apple Watch deals start at $179 with up to $250 off",
@@ -38,25 +150,11 @@
       "pubDate": "2026-11-27T21:49:17.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The absolute best Black Friday deals we’ve found (so far)",
-      "url": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
-      "pubDate": "2026-11-27T21:09:43.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "MacWhisper now remembers speakers’ voices across recordings",
       "url": "https://9to5mac.com/2026/11/27/macwhisper-now-remembers-speakers-voices-across-recordings/",
       "pubDate": "2026-11-27T21:08:01.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "My favorite MPC beat maker is ready for your vibe-coded firmware and effects",
-      "url": "https://www.theverge.com/gadgets/1044485/mpc-sample-firmware-sdk",
-      "pubDate": "2026-11-27T20:48:04.000Z"
     },
     {
       "source": "9to5Mac",
@@ -68,30 +166,9 @@
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
-      "title": "Apple faces potential $80 million fine and App Store overhaul in Chile",
+      "title": "Apple faces potential $80 million fine and App Store overhaul in Chile [U: Apple responds]",
       "url": "https://9to5mac.com/2026/11/27/apple-faces-potential-80-million-fine-and-app-store-overhaul-in-chile/",
       "pubDate": "2026-11-27T20:31:12.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Nothing’s ANC-equipped earbuds are on sale for less than $20 for Black Friday",
-      "url": "https://www.theverge.com/gadgets/1041717/nothing-cmf-buds-2a-earbuds-black-friday-2026-deal-sale",
-      "pubDate": "2026-11-27T20:30:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Apple’s latest AirTags have dropped to just $18 a pop for Black Friday",
-      "url": "https://www.theverge.com/gadgets/1042841/apple-airtag-2-black-friday-deal-2026-sale",
-      "pubDate": "2026-11-27T20:30:00.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "OpenAI counter-sues Apple over trade secret theft",
-      "url": "https://appleinsider.com/articles/26/11/27/openai-counter-sues-apple-over-trade-secret-theft?utm_source=rss",
-      "pubDate": "2026-11-27T20:25:37.000Z"
     },
     {
       "source": "AppleInsider",
@@ -108,24 +185,10 @@
       "pubDate": "2026-11-27T20:01:59.000Z"
     },
     {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "You might lose your Oura health data if you’re still using an old Android phone",
-      "url": "https://www.theverge.com/gadgets/1044314/oura-ring-health-data-android-11",
-      "pubDate": "2026-11-27T19:44:19.000Z"
-    },
-    {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
       "title": "HomeKit Weekly: Meross’s new presence sensor splits a room into three zones for Apple Home",
       "url": "https://9to5mac.com/2026/11/27/meross-ms605/",
-      "pubDate": "2026-11-27T19:30:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The best Black Friday deals on smart home gear",
-      "url": "https://www.theverge.com/gadgets/1043912/best-smart-home-deals-black-friday",
       "pubDate": "2026-11-27T19:30:00.000Z"
     },
     {
@@ -138,7 +201,7 @@
     {
       "source": "9to5Mac",
       "sourceHomepage": "https://9to5mac.com",
-      "title": "OpenAI countersues Apple, alleging trade secret theft and supplier threats",
+      "title": "OpenAI countersues Apple, alleging trade secret theft and supplier threats; Apple responds",
       "url": "https://9to5mac.com/2026/11/27/openai-countersues-apple-alleging-trade-secret-theft-and-supplier-threats/",
       "pubDate": "2026-11-27T18:42:21.000Z"
     },
@@ -148,13 +211,6 @@
       "title": "Black Friday streaming deals deliver Disney Plus & Hulu for $4.99/mo",
       "url": "https://appleinsider.com/articles/26/11/27/black-friday-streaming-deals-deliver-disney-plus-hulu-for-499mo?utm_source=rss",
       "pubDate": "2026-11-27T18:40:05.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Anker’s 100W universal travel charger is down to $60, its lowest price yet",
-      "url": "https://www.theverge.com/gadgets/1041006/anker-100w-universal-travel-charger-black-friday-deal-sale",
-      "pubDate": "2026-11-27T18:30:00.000Z"
     },
     {
       "source": "AppleInsider",
@@ -169,27 +225,6 @@
       "title": "Review: Aqara W200 supports Adaptive Temperature in HomeKit at a great price",
       "url": "https://9to5mac.com/2026/11/27/aqara-w200-adaptive-temperature-thermostat-review/",
       "pubDate": "2026-11-27T18:26:36.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Here are the best Black Friday iPad deals",
-      "url": "https://9to5mac.com/2026/11/27/here-are-the-best-black-friday-ipad-deals/",
-      "pubDate": "2026-11-27T18:03:10.000Z"
-    },
-    {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "Three new iPhones will launch early next year, here’s what’s coming",
-      "url": "https://9to5mac.com/2026/11/27/three-new-iphones-will-launch-early-next-year-heres-whats-coming/",
-      "pubDate": "2026-11-27T17:57:23.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "Here are the best Black Friday deals you can grab for $30 or less",
-      "url": "https://www.theverge.com/gadgets/1039645/black-friday-best-cheap-tech-deals-under-30-2026",
-      "pubDate": "2026-11-27T17:30:00.000Z"
     },
     {
       "source": "MacRumors",
@@ -213,25 +248,11 @@
       "pubDate": "2026-11-27T17:19:39.000Z"
     },
     {
-      "source": "9to5Mac",
-      "sourceHomepage": "https://9to5mac.com",
-      "title": "iPhone Duo Diary: Pros & cons in early real-life use",
-      "url": "https://9to5mac.com/2026/11/27/iphone-duo-diary-pros-cons-in-early-real-life-use/",
-      "pubDate": "2026-11-27T17:00:00.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple Store in Brisbane Reopening Next Month With New Design",
       "url": "https://www.macrumors.com/2026/11/27/apple-chermside-reopening-date/",
       "pubDate": "2026-11-27T16:53:31.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "The best Black Friday deals on AirPods, MacBooks, and other Apple gear",
-      "url": "https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026",
-      "pubDate": "2026-11-27T16:30:37.000Z"
     },
     {
       "source": "MacRumors",
@@ -267,13 +288,6 @@
       "title": "Apple faces another App Store antitrust fight, this time in Chile",
       "url": "https://appleinsider.com/articles/26/11/27/apple-faces-another-app-store-antitrust-fight-this-time-in-chile?utm_source=rss",
       "pubDate": "2026-11-27T15:30:18.000Z"
-    },
-    {
-      "source": "The Verge",
-      "sourceHomepage": "https://www.theverge.com",
-      "title": "You can grab a 12-pack of Zepath’s rechargeable AA batteries for just $24",
-      "url": "https://www.theverge.com/gadgets/1043272/zepath-rechargeable-aa-batteries-black-friday-2026-deal-sale",
-      "pubDate": "2026-11-27T15:30:00.000Z"
     },
     {
       "source": "MacRumors",
@@ -330,20 +344,6 @@
       "title": "The Best Black Friday iPhone Deals Still Available",
       "url": "https://www.macrumors.com/2026/11/27/best-black-friday-iphone-deals-2026/",
       "pubDate": "2026-11-27T12:58:22.000Z"
-    },
-    {
-      "source": "MacRumors",
-      "sourceHomepage": "https://www.macrumors.com",
-      "title": "The Best Black Friday iPad Deals Still Available",
-      "url": "https://www.macrumors.com/2026/11/27/best-black-friday-ipad-deals-2026/",
-      "pubDate": "2026-11-27T12:54:10.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "How to set up your own Hotline server for macOS in 2026",
-      "url": "https://appleinsider.com/inside/macos/tips/how-to-set-up-your-own-hotline-server-for-macos-in-2026?utm_source=rss",
-      "pubDate": "2026-11-27T12:06:03.000Z"
     },
     {
       "source": "Six Colors",
