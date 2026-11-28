@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T03:54:42.900Z",
+  "generatedAt": "2026-11-28T13:01:21.730Z",
   "sources": [
     {
       "name": "9to5Mac",
@@ -24,11 +24,25 @@
   ],
   "items": [
     {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Product(Red) HomePod mini leaks onto store shelves early",
+      "url": "https://appleinsider.com/articles/26/11/28/productred-homepod-mini-leaks-onto-store-shelves-early?utm_source=rss",
+      "pubDate": "2026-11-28T12:58:50.000Z"
+    },
+    {
+      "source": "AppleInsider",
+      "sourceHomepage": "https://appleinsider.com",
+      "title": "Amazon extends its best Black Friday Apple deals into Cyber Monday",
+      "url": "https://appleinsider.com/articles/26/11/28/amazon-extends-its-best-black-friday-apple-deals-into-cyber-monday?utm_source=rss",
+      "pubDate": "2026-11-28T09:04:51.000Z"
+    },
+    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "HomePod Mini 2 in (RED) Seemingly Spotted Ahead of Announcement",
       "url": "https://www.macrumors.com/2026/11/27/red-homepod-mini-2-seemingly-spotted/",
-      "pubDate": "2026-11-28T03:50:55.000Z"
+      "pubDate": "2026-11-28T03:50:47.000Z"
     },
     {
       "source": "The Verge",
@@ -238,7 +252,7 @@
       "sourceHomepage": "https://www.macrumors.com",
       "title": "The MacRumors Show: iPhone Air 2 and iPhone 18 Are Coming",
       "url": "https://www.macrumors.com/2026/11/27/the-macrumors-show-iphone-air-2-and-18/",
-      "pubDate": "2026-11-27T17:21:07.000Z"
+      "pubDate": "2026-11-27T17:20:55.000Z"
     },
     {
       "source": "AppleInsider",
@@ -297,25 +311,11 @@
       "pubDate": "2026-11-27T15:06:49.000Z"
     },
     {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "M6 Mac mini Black Friday deals offer up to $170 in online savings",
-      "url": "https://appleinsider.com/articles/26/11/27/m6-mac-mini-black-friday-deals-offer-up-to-170-in-online-savings?utm_source=rss",
-      "pubDate": "2026-11-27T15:01:44.000Z"
-    },
-    {
       "source": "MacRumors",
       "sourceHomepage": "https://www.macrumors.com",
       "title": "Apple TV's 'Carême' Wins International Emmy for Best Drama",
       "url": "https://www.macrumors.com/2026/11/27/careme-wins-emmy/",
       "pubDate": "2026-11-27T14:30:59.000Z"
-    },
-    {
-      "source": "AppleInsider",
-      "sourceHomepage": "https://appleinsider.com",
-      "title": "Best AirPods Black Friday deals deliver $149 AirPods Pro 3",
-      "url": "https://appleinsider.com/articles/26/11/27/best-airpods-black-friday-deals-deliver-149-airpods-pro-3?utm_source=rss",
-      "pubDate": "2026-11-27T13:49:52.000Z"
     },
     {
       "source": "MacRumors",
